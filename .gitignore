@@ -1,0 +1,16 @@
+# Modelli e file pesanti
+*.pt
+*.safetensors
+*.ckpt
+*.bin
+
+# Output training
+output_BERT-cased/
+*/checkpoint-*/
+
+# File temporanei notebook
+.ipynb_checkpoints/
+
+# File di sistema
+.DS_Store
+Thumbs.db
