@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Poi boh...
+1	Poi	poi	ADV	B	_	0	root	_	_
+2	boh..	boh	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Xena se la faceva un po' con tutti...
+1	Xena	Xeno	ADV	B	_	4	advmod	_	_
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	po'	poco	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	tutti..	tutti..	NOUN	S	_	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = E rimaneva incinta di tutti ahahah https:// twitter.com/peterpanouatgd r/status/718207105627525120 …
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	rimaneva	rimanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	incinta	incincere	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+6	ahahah	ahahah	NOUN	S	Gender=Masc	3	obl	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/peterpanouatgd	twitter.com/peterpanouatgd	NOUN	S	Gender=Fem	2	nsubj	_	_
+11	r/status/718207105627525120	r/status/718207105627525120	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

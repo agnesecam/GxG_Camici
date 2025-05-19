@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avrete innalzato il Figlio dell'uomo, allora conoscerete che Io Sono.
+1	Avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	innalzato	innalzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Figlio	figlio	PROPN	SP	_	2	nsubj	_	_
+5-6	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+5	di	di	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	allora	allora	ADV	B	_	10	advmod	_	_
+10	conoscerete	conosceere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	parataxis	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+13	Sono	essere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	ccomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ￼Dal Vangelo secondo Giovanni Gv 8,21-30 pic.twitter.com/tzQafcGHrt
+1	￼Dal	￼Dal	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	Vangelo	Vangelo	PROPN	SP	_	0	root	_	_
+3	secondo	secondo	ADP	E	_	4	case	_	_
+4	Giovanni	Giovanni	PROPN	SP	_	2	nmod	_	_
+5	Gv	Gv	PROPN	SP	_	4	flat:name	_	_
+6	8,21	8,21	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	30	30	NUM	N	NumType=Card	6	compound	_	_
+9	pic.twitter.com/tzQafcGHrt	pic.twitter.com/tzQafcGHrt	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

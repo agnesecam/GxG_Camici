@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Madre non piangere " Egli " è risorto veramente risorto.....
+1	Madre	madre	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	piangere	piangere	VERB	V	VerbForm=Inf	1	acl	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	_
+5	Egli	Egli	PROPN	SP	_	3	obj	_	_
+6	"	"	PUNCT	FB	_	5	punct	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	risorto	risorgere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	veramente	veramente	ADV	B	_	8	advmod	_	_
+10	risorto.....	risorto...	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Buona Pasqua ... http:// fb.me/7UmC9QRUU
+1	Buona	buono	PROPN	SP	_	0	root	_	_
+2	Pasqua	Pasqua	PROPN	SP	_	1	flat:name	_	_
+3	...	...	PUNCT	FF	_	1	punct	_	_
+4	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	1	punct	_	_
+7	fb.me/7UmC9QRUU	fb.me/7UmC9QRUU	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

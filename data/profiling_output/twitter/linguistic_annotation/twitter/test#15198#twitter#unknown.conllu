@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ballando_Rai pensavo che Raimondo, dopo aver fatto volare una gamba, facesse volare anche la parrucca!
+1	@Ballando_Rai	@ballando_ere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	13	mark	_	_
+4	Raimondo	Raimondo	PROPN	SP	_	13	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	dopo	dopo	SCONJ	CS	_	8	mark	_	_
+7	aver	avere	AUX	VA	VerbForm=Inf	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+9	volare	volare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	gamba	gamba	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	8	punct	_	_
+13	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+14	volare	volare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+15	anche	anche	ADV	B	_	17	advmod	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	parrucca	parrucca	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = solo giocare a "canta canzoni d'amore ai camionisti in autostrada" farà passare le 5 ore di pullman
+1	solo	solo	ADV	B	_	2	advmod	_	_
+2	giocare	giocare	VERB	V	VerbForm=Inf	0	root	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	canta	cantare	NUM	N	NumType=Card	6	nummod	_	_
+6	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+7	d'	di	ADP	E	_	8	case	_	SpaceAfter=No
+8	amore	amore	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	camionisti	camionista	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	autostrada	autostrada	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	15	punct	_	_
+15	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+16	passare	passare	VERB	V	VerbForm=Inf	15	ccomp	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	5	5	NUM	N	NumType=Card	19	nummod	_	_
+19	ore	ora	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	pullman	pullman	NOUN	S	Gender=Masc	19	nmod	_	SpacesAfter=\n
+

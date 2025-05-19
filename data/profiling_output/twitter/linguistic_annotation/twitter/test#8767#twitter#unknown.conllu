@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uno degli attori più straordinari del mondo e neppure un'intervista di un minuto perché è già tanto che gli sia concesso di vedere Maria.
+1	Uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2-3	degli	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	attori	attore	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	straordinari	straordinario	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+10	e	e	CCONJ	CC	_	13	cc	_	_
+11	neppure	neppure	ADV	BN	PronType=Neg	13	advmod	_	_
+12	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	intervista	intervista	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	minuto	minuto	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+17	perché	perché	SCONJ	CS	_	20	mark	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	già	già	ADV	B	_	20	advmod	_	_
+20	tanto	tanto	ADV	B	_	13	advcl	_	_
+21	che	che	SCONJ	CS	_	24	mark	_	_
+22	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	iobj	_	_
+23	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	concesso	concedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	ccomp	_	_
+25	di	di	ADP	E	_	26	mark	_	_
+26	vedere	vedere	VERB	V	VerbForm=Inf	24	advcl	_	_
+27	Maria	Maria	PROPN	SP	_	26	obj	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	20	punct	_	SpacesAfter=\n
+

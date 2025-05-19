@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Da qualche parte, dentro di me, esisteranno per sempre le volte in cui un tuo abbraccio è stato il...” https:// tmblr.co/ZsRogh24i224Q
+1	“	“	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Da	da	ADP	E	_	4	case	_	_
+3	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	dentro	dentro	ADV	B	_	8	case	_	_
+7	di	di	ADP	E	_	6	fixed	_	_
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	esisteranno	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	sempre	sempre	ADV	B	_	10	advmod	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	volte	volta	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	cui	cui	PRON	PR	PronType=Rel	22	obl	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	abbraccio	abbraccio	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+20	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+21	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	cop	_	_
+22	il...	il...	NOUN	S	_	14	acl:relcl	_	SpaceAfter=No
+23	”	”	PUNCT	FB	_	24	punct	_	_
+24	https:	https:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	_
+27	tmblr.co/ZsRogh24i224Q	tmblr.co/ZsRogh24i224Q	PROPN	SP	_	10	nsubj	_	SpacesAfter=\n
+

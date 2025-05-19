@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 'Bisogna pensare da saggi e agire da folli' @GiacomoMasutti tutto ebbe inizio da qui
+1	'	'	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pensare	pensare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	saggi	saggio	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	agire	agire	VERB	V	VerbForm=Inf	3	conj	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	folli	folle	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+10	'	'	PUNCT	FB	_	13	punct	_	_
+11	@GiacomoMasutti	@GiacomoMasutti	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	obl	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+13	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
+14	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15	da	da	ADP	E	_	13	fixed	_	_
+16	qui	qui	ADV	B	_	2	advmod	_	SpacesAfter=\n
+

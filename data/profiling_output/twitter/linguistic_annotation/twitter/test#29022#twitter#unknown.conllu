@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Super offerta con l acquisto di 3 scatole miste avrete 1 scatola in omaggio sconto merce Potete visionare i... http:// fb.me/4sp4NVdID
+1	Super	Super	PROPN	SP	_	2	nsubj	_	_
+2	offerta	offrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	l	l	X	X	_	2	obl	_	_
+5	acquisto	acquisto	NOUN	S	Gender=Masc|Number=Sing	4	amod	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	3	3	NUM	N	NumType=Card	8	nummod	_	_
+8	scatole	scatola	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+9	miste	misto	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+10	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	23	acl:relcl	_	_
+11	1	1	NUM	N	NumType=Card	12	nummod	_	_
+12	scatola	scatola	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	omaggio	omaggio	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+15	sconto	sconto	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+16	merce	mercia	ADJ	A	Number=Sing	14	amod	_	_
+17	Potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	visionare	visionare	VERB	V	VerbForm=Inf	16	advcl	_	_
+19	i...	i.	PUNCT	FS	_	20	punct	_	_
+20	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	_
+23	fb.me/4sp4NVdID	fb.me/4sp4NVdID	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

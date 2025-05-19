@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Platini:
+1	Platini	Platini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "La Francia farà bene.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Francia	Francia	PROPN	SP	_	4	nsubj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	bene	bene	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Ma Benzema..." http://www.
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	Benzema...	Benzema...	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	4	punct	_	_
+4	http://www	http://www	NOUN	S	_	2	compound	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = alfredopedulla.com/articoli/89948 -platini-la-francia-far-bene-ma-benzema …
+1	alfredopedulla.com/articoli/89948	alfredopedulla.com/articoli/89948	NUM	N	NumType=Card	3	nummod	_	_
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	platini-la	platini-la	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	francia	francio	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+7	far	fare	VERB	V	VerbForm=Inf	5	acl	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	bene-ma	bene-ma	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	benzema	benzema	NOUN	S	Gender=Masc|Number=Sing	9	compound	_	_
+12	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Occhio al video dalla Roubaix, la moto cade e si ferma a pochi centimetri dai ciclisti https:// twitter.com/r8uge/status/7 19200478475743232 …
+1	Occhio	occhio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	video	video	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Roubaix	Roubaix	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	moto	moto	NOUN	S	Gender=Fem	11	nsubj	_	_
+11	cade	cadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	ferma	fermare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	pochi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	_
+17	centimetri	centimetro	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+18-19	dai	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	ciclisti	ciclista	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+21	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	twitter.com/r8uge/status/7	twitter.com/r8uge/status/7	NUM	N	NumType=Card	14	nummod	_	_
+25	19200478475743232	19200478475743232	NUM	N	NumType=Card	24	flat	_	_
+26	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

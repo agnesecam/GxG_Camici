@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vi ricordo l'approccio giusto.
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	iobj	_	_
+2	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	approccio	approccio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Constato ahimè quotidianamente che tanti e tante che conosco abboccano a "diogni"...
+1	Constato	Constare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	ahimè	ahimè	INTJ	I	_	10	punct	_	_
+3	quotidianamente	quotidiano	ADV	B	_	10	mark	_	_
+4	che	che	SCONJ	CS	_	3	fixed	_	_
+5	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	nsubj	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+9	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+10	abboccano	abboccare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	diogni	diogno	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+15	...	.	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/4CyJEG71k
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4CyJEG71k	fb.me/4CyJEG71k	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

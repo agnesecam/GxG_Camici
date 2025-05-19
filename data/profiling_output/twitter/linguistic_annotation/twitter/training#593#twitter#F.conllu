@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Secondo me staremmo tutte molto meglio se avessimo il nostro Michele Morrone personale.
+1	Secondo	secondo	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+3	staremmo	staere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	tutte	tutte	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	6	obl	_	_
+5	molto	molto	ADV	B	_	6	advmod	_	_
+6	meglio	meglio	ADV	B	_	0	root	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	Michele	Michele	PROPN	SP	_	8	obj	_	_
+12	Morrone	Morrone	PROPN	SP	_	11	flat:name	_	_
+13	personale	personale	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = @stanzaselvaggia #teamdivano #BallandoConLeStelle
+1	@stanzaselvaggia	@stanzaselvaggiare	ADV	B	_	2	advmod	_	_
+2	#teamdivano	#teamdire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	BallandoConLeStelle	BallandoConLeStelle	PROPN	SP	_	2	nsubj	_	SpacesAfter=\n
+

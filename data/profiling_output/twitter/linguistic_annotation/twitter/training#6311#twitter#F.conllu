@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cavolo Ire mai che sul treno ci fossimo state io,te,Niall e Olly!
+1	Cavolo	Cavolo	PROPN	SP	_	0	root	_	_
+2	Ire	ire	PROPN	SP	_	1	flat:name	_	_
+3	mai	mai	ADV	B	_	10	advmod	_	_
+4	che	che	SCONJ	CS	_	10	mark	_	_
+5-6	sul	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	treno	treno	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+9	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	state	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+11	io,te,Niall	io,te,Niall	PROPN	SP	_	10	nsubj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	Olly	Olly	PROPN	SP	_	11	conj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/adorvslouis/st atus/710918550580535296 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/adorvslouis/st	twitter.com/adorvslouis/st	SYM	X	_	0	root	_	_
+5	atus/710918550580535296	atus/710918550580535296	SYM	X	_	4	flat:name	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

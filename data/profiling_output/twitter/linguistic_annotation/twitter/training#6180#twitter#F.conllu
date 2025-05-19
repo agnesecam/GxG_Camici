@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VirusRai2 @NicolaPorro è arrivato il momento di legiferare con carattere di urgenza, come fossimo in guerra, normative severe e certe
+1	@VirusRai2	@VirusRai2	PROPN	SP	_	4	nsubj	_	_
+2	@NicolaPorro	@NicolaPorro	PROPN	SP	_	1	flat:name	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	arrivato	arrivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	momento	momento	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	legiferare	legiferare	VERB	V	VerbForm=Inf	6	acl	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	carattere	carattere	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	urgenza	urgenza	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	4	punct	_	_
+14	come	come	SCONJ	CS	_	19	mark	_	_
+15	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	19	cop	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	normative	normativa	NOUN	S	Gender=Fem|Number=Plur	4	advcl	_	_
+20	severe	severo	ADJ	A	Gender=Fem|Number=Plur	19	amod	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	certe	certo	ADJ	A	Gender=Fem|Number=Plur	20	conj	_	SpacesAfter=\n
+

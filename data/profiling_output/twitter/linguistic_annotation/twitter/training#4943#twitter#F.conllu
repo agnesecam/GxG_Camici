@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PaperinikEdonna nel 2010 fu intercettato, lui vice di Sallusti de "Il Giornale".
+1	@PaperinikEdonna	@PaperinikEdonna	NOUN	S	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2010	2010	NUM	N	NumType=Card	6	obl	_	_
+5	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	intercettato	intercettato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	advcl	_	_
+9	vice	vice	NOUN	S	Gender=Masc	8	appos	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Sallusti	Sallusti	PROPN	SP	_	9	nmod	_	_
+12	de	de	PROPN	SP	_	11	flat:name	_	_
+13	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+14	Il	Il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Giornale	giornale	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Si scoprì che voleva rompere il cazzo alla marcegaglia
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	scoprì	scoprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	voleva	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	rompere	rompere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8-9	alla	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	marcegaglia	marcegaglia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #dimenticando non esiste:
+1	#dimenticando	#dimenticare	VERB	V	VerbForm=Ger	3	advcl	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = non si dimentica mai.
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	dimentica	dimenticare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Si entra in una certa placida confidenza con il passato, per guardare oltre.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	7	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	certa	certo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+6	placida	placida	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	confidenza	confidenza	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	passato	passato	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	2	punct	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	guardare	guardare	VERB	V	VerbForm=Inf	2	advcl	_	_
+14	oltre	oltre	ADV	B	_	13	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

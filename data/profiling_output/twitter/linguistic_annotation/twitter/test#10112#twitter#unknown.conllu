@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA SE TUA MAMMA SI FACEVA SCOPARE DA NOI NAPOLETANI,TU CHE COLPA CI PUOI DARE?
+1	MA	ma	PROPN	SP	_	15	nsubj	_	_
+2	SE	se	PROPN	SP	_	1	flat:name	_	_
+3	TUA	tuo	PROPN	SP	_	6	nsubj	_	_
+4	MAMMA	mamma	PROPN	SP	_	3	flat:name	_	_
+5	SI	si	PROPN	SP	_	3	flat:name	_	_
+6	FACEVA	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	_
+7	SCOPARE	SCOPARE	PROPN	SP	_	6	obj	_	_
+8	DA	da	PROPN	SP	_	7	flat:name	_	_
+9	NOI	No	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	NAPOLETANI,TU	NAPOLETANI,TU	PROPN	SP	_	7	flat:name	_	_
+11	CHE	che	PROPN	SP	_	10	flat:name	_	_
+12	COLPA	colpa	PROPN	SP	_	10	flat:name	_	_
+13	CI	ci	PROPN	SP	_	10	flat:name	_	_
+14	PUOI	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	DARE	dare	PROPN	SP	_	0	root	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/BuonannoG/stat us/717388093020618754 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/BuonannoG/stat	twitter.com/BuonannoG/stat	PROPN	SP	_	0	root	_	_
+5	us/717388093020618754	us/717388093020618754	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

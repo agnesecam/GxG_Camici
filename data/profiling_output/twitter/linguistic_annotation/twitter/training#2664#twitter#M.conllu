@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @1282Ugo finalmente qualcuno si accorge che Bergoglio non è quello che vuole sembrare ,Adesso oltre Obama pro Islam abemus papa.
+1	@1282Ugo	@1282Ugo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	finalmente	finalmente	ADV	B	_	1	advmod	_	_
+3	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	accorge	accorgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	obj	_	_
+6	che	che	SCONJ	CS	_	10	mark	_	_
+7	Bergoglio	Bergoglio	PROPN	SP	_	10	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	ccomp	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	10	acl:relcl	_	_
+14	,Adesso	,Adesso	PROPN	SP	_	13	xcomp	_	_
+15	oltre	oltre	ADP	E	_	16	case	_	_
+16	Obama	Obama	PROPN	SP	_	17	nmod	_	_
+17	pro	pro	X	SW	Foreign=Yes	14	nmod	_	_
+18	Islam	Islam	X	SW	Foreign=Yes	17	flat:foreign	_	_
+19	abemus	abemus	X	SW	Foreign=Yes	17	flat:foreign	_	_
+20	papa	papere	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

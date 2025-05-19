@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = UN VERSETTO AL GIORNO TRATTO DALLA BIBBIA (vedi nota sul mio profilo) * Cronache 1, 27 [13] Decimo, per il... http:// fb.me/4x3ezczjI
+1	UN	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	VERSETTO	VERSETTO	PROPN	SP	_	0	root	_	_
+3-4	AL	_	_	_	_	_	_	_	_
+3	A	a	ADP	E	_	4	case	_	_
+4	IL	il	PROPN	SP	_	6	nmod	_	_
+5	GIORNO	giorno	PROPN	SP	_	4	flat:name	_	_
+6	TRATTO	trarre	PROPN	SP	_	2	nmod	_	_
+7-8	DALLA	_	_	_	_	_	_	_	_
+7	DA	Da	PROPN	SP	_	6	flat:name	_	_
+8	LA	La	PROPN	SP	_	6	flat:name	_	_
+9	BIBBIA	Bibbia	PROPN	SP	_	6	flat:name	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+12	nota	noto	NOUN	S	_	11	obj	_	_
+13-14	sul	_	_	_	_	_	_	_	_
+13	su	su	ADP	E	_	16	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	profilo	profilo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	11	punct	_	_
+18	*	*	PUNCT	FF	_	19	punct	_	_
+19	Cronache	Cronache	PROPN	SP	_	2	nmod	_	_
+20	1	1	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	19	punct	_	_
+22	27	27	NUM	N	NumType=Card	19	nummod	_	_
+23	[	[	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+24	13	13	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+25	]	]	PUNCT	FB	_	24	punct	_	_
+26	Decimo	decimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	SpaceAfter=No
+27	,	,	PUNCT	FF	_	19	punct	_	_
+28	per	per	ADP	E	_	29	case	_	_
+29	il...	il...	NOUN	S	_	19	nmod	_	_
+30	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+31	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+32	/	/	PUNCT	FF	_	19	punct	_	_
+33	fb.me/4x3ezczjI	fb.me/4x3ezczjI	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

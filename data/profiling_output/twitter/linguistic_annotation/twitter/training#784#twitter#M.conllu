@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @grazianini se avessimo avuto un attaccante degno di tale nome...
+1	@grazianini	@grazianino	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	attaccante	attaccante	ADJ	A	Number=Sing	7	amod	_	_
+7	degno	degno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	tale	tale	DET	DD	Number=Sing|PronType=Dem	10	det	_	_
+10	nome..	nome..	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

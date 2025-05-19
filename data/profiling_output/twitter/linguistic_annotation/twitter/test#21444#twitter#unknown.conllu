@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = WhatsApp abbandona le piccole piattaforme, verso dove si starà dirigendo il signor Zuckerberg con questa decisione?
+1	WhatsApp	WhatsApp	PROPN	SP	_	2	nsubj	_	_
+2	abbandona	abbandonare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	piccole	piccolo	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+5	piattaforme	piattaforma	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	verso	verso	ADP	E	_	8	case	_	_
+8	dove	dove	ADV	B	_	10	advmod	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+11	dirigendo	dirigere	VERB	V	VerbForm=Ger	10	advcl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	signor	signore	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	Zuckerberg	Zuckerberg	PROPN	SP	_	13	nmod	_	_
+15	con	con	ADP	E	_	17	case	_	_
+16	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	_
+17	decisione	decisione	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = http:// bit.ly/1pFD1uQ
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	bit.ly/1pFD1uQ	bit.ly/1pFD1uQ	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

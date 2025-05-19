@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi dissero che per farlo innamorare dovevo farlo ridere.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	dissero	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5-6	farlo	_	_	_	_	_	_	_	_
+5	far	fare	VERB	V	VerbForm=Inf	9	advcl	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	innamorare	innamorare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	dovevo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9-10	farlo	_	_	_	_	_	_	_	_
+9	far	fare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	ridere	ridere	VERB	V	VerbForm=Inf	9	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Lo feci , poi arrivò una che gliela diede.
+1	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	feci	fece	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	poi	poi	ADV	B	_	5	advmod	_	_
+5	arrivò	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+8-9	gliela	_	_	_	_	_	_	_	_
+8	glie	gli	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+9	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	diede	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Fanculo a voi...
+1	Fanculo	Fanculo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	voi...	voi...	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+
+# sent_id = 4
+# text = http:// fb.me/7aJostqrr
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7aJostqrr	fb.me/7aJostqrr	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

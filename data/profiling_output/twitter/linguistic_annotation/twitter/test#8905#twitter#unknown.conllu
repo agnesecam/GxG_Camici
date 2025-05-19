@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CarlaMarotta @paoladelusa non conosco, spero di rimediare.
+1	@CarlaMarotta	@CarlaMarotta	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	@paoladelusa	@paoladeluso	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	conosco	conosco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	rimediare	rimediare	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Pensavo a quello di Ivory (che per me non è neppure uno dei suoi migliori)
+1	Pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Ivory	Ivory	PROPN	SP	_	3	nmod	_	_
+6	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+7	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	obl	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	13	advmod	_	_
+13	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	acl:relcl	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	17	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+16	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	13	nmod	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

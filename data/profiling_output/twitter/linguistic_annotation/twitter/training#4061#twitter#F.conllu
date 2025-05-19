@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...'ma qualcuno dovrà crederci e sfidare la realtà, scegliere come… https://www.
+1	...'	...'	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5-6	crederci	_	_	_	_	_	_	_	_
+5	creder	credere	VERB	V	VerbForm=Inf	0	root	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	sfidare	sfidare	VERB	V	VerbForm=Inf	5	conj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	realtà	realtà	NOUN	S	Gender=Fem	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	scegliere	scegliere	VERB	V	VerbForm=Inf	5	conj	_	_
+13	come…	come…	PUNCT	FF	_	14	punct	_	_
+14	https://www	https://www	NOUN	S	_	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD2VixSO4IlS gtadaZXgbhWyA17N7Na5vc6qmI0/ …
+1	instagram.com/p/BD2VixSO4IlS	instagram.com/p/BD2VixSO4IlS	PROPN	SP	_	0	root	_	_
+2	gtadaZXgbhWyA17N7Na5vc6qmI0	gtadaZXgbhWyA17N7Na5vc6qmI0	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

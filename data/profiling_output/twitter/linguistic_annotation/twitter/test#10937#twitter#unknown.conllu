@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oltre il culo, questo ha dato anche la bocca.
+1	Oltre	oltre	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	culo	culo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	anche	anche	ADV	B	_	10	advmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Sia a Sarri che a De Laurentiis, altrimenti non si spiega.
+1	Sia	sia	CCONJ	CC	_	3	cc	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Sarri	Sarri	PROPN	SP	_	12	obl	_	_
+4	che	che	SCONJ	CS	_	12	mark	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	De	De	PROPN	SP	_	12	obl	_	_
+7	Laurentiis	Laurentiis	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	altrimenti	altrimenti	CCONJ	CC	_	12	cc	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+12	spiega	spiegare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/pisto_gol/stat us/718077943344443392 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/pisto_gol/stat	twitter.com/pisto_gol/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/718077943344443392	us/718077943344443392	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

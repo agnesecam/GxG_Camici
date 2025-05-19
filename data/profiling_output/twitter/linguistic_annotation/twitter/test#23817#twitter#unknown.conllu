@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = probabilmente i nostri nipoti avranno con l'italiano lo stesso rapporto che noi abbiamo con il dialetto
+1	probabilmente	probabilmente	ADV	B	_	5	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	nipoti	nipote	NOUN	S	Number=Plur	5	nsubj	_	_
+5	avranno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	italiano	italiano	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	rapporto	rapporto	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
+14	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+15	con	con	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	dialetto	dialetto	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpacesAfter=\n
+

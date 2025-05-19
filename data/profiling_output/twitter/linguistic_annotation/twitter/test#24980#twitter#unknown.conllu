@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma se un uomo volesse scendere per Lucas o Andrea o una donna volesse scendere per Ludovica, li farebbero scendere?
+1	Ma	ma	CCONJ	CC	_	15	cc	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	volesse	volere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	scendere	scendere	VERB	V	VerbForm=Inf	15	advcl	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	Lucas	Lucas	PROPN	SP	_	6	obl	_	_
+9	o	o	CCONJ	CC	_	10	cc	_	_
+10	Andrea	Andrea	PROPN	SP	_	8	conj	_	_
+11	o	o	CCONJ	CC	_	13	cc	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	donna	donna	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	_
+14	volesse	volere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	scendere	scendere	VERB	V	VerbForm=Inf	0	root	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	Ludovica	Ludovica	PROPN	SP	_	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	20	punct	_	_
+19	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	obj	_	_
+20	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
+21	scendere	scendere	VERB	V	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

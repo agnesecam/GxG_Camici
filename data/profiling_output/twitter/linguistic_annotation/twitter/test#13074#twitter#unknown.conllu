@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il 5 aprile del ’56, la Rai trasmetteva la 1 puntata di Rin TinTin, il primo dei cani attori.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	5	5	NUM	N	NumType=Card	10	obl	_	_
+3	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	’56	’56	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Rai	Rai	PROPN	SP	_	10	nsubj	_	_
+10	trasmetteva	trasmettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	1	1	NUM	N	NumType=Card	13	nummod	_	_
+13	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Rin	Rin	PROPN	SP	_	13	nmod	_	_
+16	TinTin	TinTin	PROPN	SP	_	15	flat:name	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	22	punct	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+19	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	22	amod	_	_
+20-21	dei	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	cani	cane	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+23	attori	attore	NOUN	S	Gender=Masc|Number=Plur	22	compound	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Parecchi poi ne hanno seguito le orme
+1	Parecchi	parecchio	PROPN	SP	_	5	nsubj	_	_
+2	poi	poi	ADV	B	_	5	advmod	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	seguito	seguire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	orme	orma	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpacesAfter=\n
+

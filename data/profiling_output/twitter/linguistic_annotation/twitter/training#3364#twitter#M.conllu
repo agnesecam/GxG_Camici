@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DiMarzio ma si ..con un paio di allenamenti ti fara ' una dozzina di gol da qui alla fine....
+1	@DiMarzio	@DiMarzio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	ma	ma	CCONJ	CC	_	10	cc	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+4	..con	..con	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	paio	paio	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	allenamenti	allenamento	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+10	fara	farare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	'	'	PUNCT	FB	_	13	punct	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	dozzina	dozzina	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	gol	gol	NOUN	S	Gender=Masc	13	nmod	_	_
+16	da	da	ADP	E	_	17	case	_	_
+17	qui	qui	ADV	B	_	10	advmod	_	_
+18-19	alla	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	fine...	fine...	NOUN	S	_	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

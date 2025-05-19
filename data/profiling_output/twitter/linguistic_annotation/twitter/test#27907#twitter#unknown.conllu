@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ernestocarbone @matteorenzi Talmente Idioti come un qualunque fanatico sostenitore e fake,almeno si differenziassero un po i 5 stelle,mah!
+1	@ernestocarbone	@ernestocarborre	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+2	@matteorenzi	@matteorenzi	ADP	E	_	3	case	_	_
+3	Talmente	talmente	PROPN	SP	_	1	nmod	_	_
+4	Idioti	Idioto	PROPN	SP	_	3	flat:name	_	_
+5	come	come	ADP	E	_	9	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+7	qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	9	det	_	_
+8	fanatico	fanatico	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	sostenitore	sostenitore	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	fake,almeno	fake,almeno	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+13	differenziassero	differenziare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	po	po	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+17	5	5	NUM	N	NumType=Card	18	nummod	_	_
+18	stelle,mah	stelle,mah	NOUN	S	Gender=Masc	15	nmod	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
+

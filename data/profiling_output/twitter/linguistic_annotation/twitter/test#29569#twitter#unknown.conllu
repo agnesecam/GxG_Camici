@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo significa che il prodotto (o merce) ha un valore più elevato del lavoro dell'uomo, perciò dell'uomo stesso http:// lavorwar.blogspot.com/2016/04/questo -significa-che-il-prodotto-o.html …
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	10	mark	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	prodotto	prodotto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+6	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+7	o	o	CCONJ	CC	_	8	cc	_	_
+8	merce	merce	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	valore	valore	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	elevato	elevato	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+18-19	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+18	di	di	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	10	punct	_	_
+22	perciò	perciò	SCONJ	CS	_	25	mark	_	_
+23-24	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+23	di	di	ADP	E	_	25	case	_	_
+24	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	_
+25	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	_
+26	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	25	amod	_	_
+27	http:	http:	PUNCT	FC	_	25	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+29	/	/	PUNCT	FF	_	25	punct	_	_
+30	lavorwar.blogspot.com/2016/04/questo	lavorwar.blogspot.com/2016/04/questo	NOUN	S	Gender=Masc|Number=Sing	25	appos	_	_
+31	-significa-che-il	-significa-che-il	ADJ	A	_	33	amod	_	SpaceAfter=No
+32	-	-	PUNCT	FF	_	31	punct	_	SpaceAfter=No
+33	prodotto-o.html	prodotto-o.html	NOUN	S	Gender=Masc|Number=Sing	30	nmod	_	_
+34	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

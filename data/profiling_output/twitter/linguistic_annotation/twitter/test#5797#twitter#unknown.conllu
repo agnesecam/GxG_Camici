@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti senti con qualcuna ?
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	senti	sentire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	_
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = — Non vengo a raccontare i cazzi miei su Ask https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NMZSADBIQUQ7CO3G5TD74KD67JSZ5I2NYRNQGJ2ALRJC2P6EQIIJXD2VSUQZ33OJ5YPXVJZAR3UQ
+1	—	—	PUNCT	FF	_	3	punct	_	_
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	vengo	venire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	raccontare	raccontare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	cazzi	cazzo	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	miei	mio	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	su	su	ADP	E	_	10	case	_	_
+10	Ask	Ask	PROPN	SP	_	8	obl	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	7	nmod	_	_
+15	7B667HQMHN2IG6NMZSADBIQUQ7CO3G5TD74KD67JSZ5I2NYRNQGJ2ALRJC2P6EQIIJXD2VSUQZ33OJ5YPXVJZAR3UQ	7B667HQMHN2IG6NMZSADBIQUQ7CO3G5TD74KD67JSZ5I2NYRNQGJ2ALRJC2P6EQIIJXD2VSUQZ33OJ5YPXVJZAR3UQ	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+
+# sent_id = 3
+# text = DRNBAACZ2T6MXEB6HX
+1	DRNBAACZ2T6MXEB6HX	DRNBAACZ2T6MXEB6HX	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = YOHWTSMPBXTSTC6YCTQF23NHXFMJBOBB6QK46PGHLYM4ZDPVJMTFQOY2M264G5XHXXGEVEDIZQPAQEQIIEKBXBIMVF2DIR6Q==== …
+1	YOHWTSMPBXTSTC6YCTQF23NHXFMJBOBB6QK46PGHLYM4ZDPVJMTFQOY2M264G5XHXXGEVEDIZQPAQEQIIEKBXBIMVF2DIR6Q====	YOHWTSMPBXTSTC6YCTQF23NHXFMJBOBB6QK46PGHLYM4ZDPVJMTFQOY2M264G5XHXXGEVEDIZQPAQEQIIEKBXBIMVF2DIR6Q====	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

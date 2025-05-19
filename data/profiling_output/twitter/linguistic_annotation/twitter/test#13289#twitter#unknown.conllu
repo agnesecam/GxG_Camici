@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Potresti arrabbiarti solo perché ho speso parecchi soldi
+1	Potresti	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	arrabbiarti	_	_	_	_	_	_	_	_
+2	arrabbiar	arrabbiare	VERB	V	VerbForm=Inf	0	root	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+4	solo	solo	ADV	B	_	7	advmod	_	_
+5	perché	perché	SCONJ	CS	_	7	mark	_	_
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	speso	rendespe	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+8	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+9	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stavo guardando un programma su MTV, stavano parlando dell'immagine di una persona famosa.
+1	Stavo	stare	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+2	guardando	guardare	VERB	V	VerbForm=Ger	1	acl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	programma	programma	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	MTV	Mtv	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	parlando	parlare	VERB	V	VerbForm=Ger	0	root	_	_
+10-11	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+10	di	di	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	persona	persona	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+16	famosa	famoso	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Questo famoso giocatore di golf era sposato-
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+2	famoso	famoso	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	giocatore	giocatore	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	golf	golf	NOUN	S	Gender=Masc	3	nmod	_	_
+6	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	sposato	sposare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	-	-	PUNCT	FB	_	7	punct	_	SpacesAfter=\n
+

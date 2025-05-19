@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I trattamenti più comuni per il cancro sono radioterapia e chemioterapia.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	trattamenti	trattamento	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	comuni	comune	ADJ	A	Number=Plur	2	amod	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cancro	cancro	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	radioterapia	radioterapiare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	chemioterapia	chemioterapiare	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Tuttavia essi hanno effetti collaterali… https:// plus.google.com/11535489082923 3984905/posts/7ducaD7Jgyx …
+1	Tuttavia	tuttavia	ADV	B	_	3	advmod	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	effetti	effeggere	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5	collaterali…	collaterali…	PUNCT	FF	_	6	punct	_	_
+6	https:	https:	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	plus.google.com/11535489082923	plus.google.com/11535489082923	NUM	N	NumType=Range	12	nummod	_	_
+10	3984905	3984905	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	posts/7ducaD7Jgyx	posts/7ducaD7Jgyx	PROPN	SP	_	4	nmod	_	_
+13	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

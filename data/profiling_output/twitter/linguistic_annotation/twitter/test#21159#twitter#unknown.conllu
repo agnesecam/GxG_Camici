@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @R0bert079 se becca Messi e soci gliela fanno loro la morale che se ne ricorda per un bel pezzo sto fenomeno
+1	@R0bert079	@R0bert079	NUM	N	NumType=Card	9	nsubj	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	becca	becco	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+4	Messi	messo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	soci	socio	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+7-8	gliela	_	_	_	_	_	_	_	_
+7	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	iobj	_	_
+8	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	fanno	fanno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	morale	morale	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+13	che	che	PRON	PR	PronType=Rel	16	obj	_	_
+14	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl:impers	_	_
+15	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	16	iobj	_	_
+16	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+17	per	per	ADP	E	_	20	case	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	bel	bello	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+20	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+21	sto	stare	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+22	fenomeno	fenomeno	NOUN	S	Gender=Masc|Number=Sing	12	compound	_	SpacesAfter=\n
+

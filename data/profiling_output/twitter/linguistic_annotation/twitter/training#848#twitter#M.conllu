@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted monica d. ( @isidemoni ):
+1	Retweeted	Retweete	CCONJ	CC	_	3	cc	_	_
+2	monica	monico	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	d.	d.	NOUN	S	_	0	root	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@isidemoni	@isidemone	NOUN	S	Gender=Fem|Number=Plur	3	appos	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = Magari avessimo l'Ethos del Lupo #conUlisse /18 @VentagliP @comemusica ... http:// fb.me/2A3Qhb9Lv
+1	Magari	magari	ADV	B	_	2	advmod	_	_
+2	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	Ethos	Ethos	PROPN	SP	_	2	obj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Lupo	Lupo	PROPN	SP	_	4	nmod	_	_
+8	#conUlisse	#conUlisse	PROPN	SP	_	7	flat:name	_	_
+9	/18	/18	NUM	N	NumType=Card	10	nummod	_	_
+10	@VentagliP	@VentagliP	PROPN	SP	_	2	conj	_	_
+11	@comemusica	@comemusico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	...	...	PUNCT	FF	_	10	punct	_	_
+13	http:	http:	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	10	punct	_	_
+16	fb.me/2A3Qhb9Lv	fb.me/2A3Qhb9Lv	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

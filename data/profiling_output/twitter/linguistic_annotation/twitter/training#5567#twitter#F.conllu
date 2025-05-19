@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pierluigidest bella classifica....
+1	@pierluigidest	@pierluigidest	ADV	B	_	3	advmod	_	_
+2	bella	bello	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	classifica...	classifica.	NOUN	S	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = qualcuna l ho già visitata :-)
+1	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	l	l	NOUN	S	_	5	nsubj	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	già	già	ADV	B	_	5	advmod	_	_
+5	visitata	visitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	:	:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

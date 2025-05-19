@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @meb dopo oggi credo che dovrà andarci a vivere
+1	@meb	@mebbraio	NOUN	S	Gender=Masc	0	root	_	_
+2	dopo	dopo	ADP	E	_	4	mark	_	_
+3	oggi	oggi	ADV	B	_	4	advmod	_	_
+4	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7-8	andarci	_	_	_	_	_	_	_	_
+7	andar	andare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	vivere	vivere	VERB	V	VerbForm=Inf	7	xcomp	_	SpacesAfter=\n
+

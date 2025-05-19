@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaStampa Regeni o era con l'isis o contro dunque ..
+1	@LaStampa	@LaStampa	PROPN	SP	_	0	root	_	_
+2	Regeni	Regeno	PROPN	SP	_	1	flat:name	_	_
+3	o	o	CCONJ	CC	_	7	cc	_	_
+4	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	isis	isis	NOUN	S	Gender=Masc	1	conj	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	contro	contro	ADV	B	_	1	conj	_	_
+10	dunque	dunque	ADV	B	_	9	advmod	_	_
+11	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

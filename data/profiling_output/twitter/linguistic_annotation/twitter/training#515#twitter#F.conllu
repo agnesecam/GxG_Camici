@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @adorvstyles_ per esempio, ora stanno uscendo "ma che ne sanno i 2000?" come se non avessimo avuto un'infanzia come voi.
+1	@adorvstyles_	@adorvstyles-	PUNCT	FB	_	7	punct	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ora	ora	ADV	B	_	7	advmod	_	_
+6	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	uscendo	uscire	VERB	V	VerbForm=Ger	12	advcl	_	_
+8	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+12	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	2000	2000	NUM	N	NumType=Card	12	advmod	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	12	punct	_	_
+17	come	come	ADV	B	_	21	advmod	_	_
+18	se	se	SCONJ	CS	_	21	mark	_	_
+19	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+20	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	21	aux	_	_
+21	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+22	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+23	infanzia	infanzia	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	_
+24	come	come	ADP	E	_	25	case	_	_
+25	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

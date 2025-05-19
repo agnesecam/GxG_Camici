@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le Compagnie petrolifere hanno concessioni dallo Stato per un numero di anni e pagano l'Italia, perchè dargli gratis altro?
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	Compagnie	compagnia	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	petrolifere	petrolifere	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	concessioni	concessione	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6-7	dallo	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Stato	stato	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	numero	numero	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	anni	anno	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	pagano	pagare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	Italia	Italia	PROPN	SP	_	15	obj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	4	punct	_	_
+19	perchè	perché	SCONJ	CS	_	20	mark	_	_
+20-21	dargli	_	_	_	_	_	_	_	_
+20	dar	dare	VERB	V	VerbForm=Inf	4	advcl	_	_
+21	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	gratis	gratis	NOUN	S	Gender=Masc	20	obj	_	_
+23	altro	altro	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = @rinaldosidoli
+1	@rinaldosidoli	@rinaldosidolo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

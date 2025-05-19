@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dalloro, Signore, il riposo eterno E che brilla su essi la luce della tua faccia.
+1	Dalloro	Dalloro	PRON	PE	Number=Plur|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	Signore	signore	PROPN	SP	_	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+7	eterno	eterno	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	E	e	CCONJ	CC	_	6	cc	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	brilla	brillare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+11	su	su	ADP	E	_	12	case	_	_
+12	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obl	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	luce	luce	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Che riposano in pace.
+1	Che	che	PRON	PR	PronType=Rel	2	nsubj	_	_
+2	riposano	riposare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	pace	pace	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/iUpdwyHxSB
+1	pic.twitter.com/iUpdwyHxSB	pic.twitter.com/iUpdwyHxSB	NOUN	S	_	0	root	_	SpacesAfter=\n
+

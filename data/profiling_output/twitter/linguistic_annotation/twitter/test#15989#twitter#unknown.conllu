@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trovo totalmente antidemocratico,eticamente scorretto un politico che inviti a non andare a votare ( chiunque esso sia) #referendum17aprile
+1	Trovo	trovo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	totalmente	totalmente	ADV	B	_	3	advmod	_	_
+3	antidemocratico	antidemocratico	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	eticamente	eticamente	ADV	B	_	6	advmod	_	_
+6	scorretto	scorrettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	politico	politico	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+10	inviti	invire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+11	a	a	ADP	E	_	13	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	andare	andare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	votare	votare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+16	(	(	PUNCT	FB	_	18	punct	_	_
+17	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	18	nsubj	_	_
+18	esso	esso	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	_
+19	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	18	punct	_	_
+21	#referendum17aprile	#referendum17aprile	ADJ	A	Number=Sing	15	amod	_	SpacesAfter=\n
+

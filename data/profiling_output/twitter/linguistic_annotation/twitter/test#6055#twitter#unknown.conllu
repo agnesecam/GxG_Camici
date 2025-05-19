@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se solo fossimo un popolo con il cervello,avremmo già tutti imbracciato un fucile e saremmo scesi in piazza contro la politica mafiosa
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	solo	solo	ADV	B	_	5	advmod	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+10	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	già	già	ADV	B	_	13	advmod	_	_
+12	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	obl	_	_
+13	imbracciato	imbracciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	fucile	fucile	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	scesi	scendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	conj	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	piazza	piazza	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+21	contro	contro	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	politica	politica	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+24	mafiosa	mafioso	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	SpacesAfter=\n
+

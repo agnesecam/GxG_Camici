@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Si poteva individuare in esse una certa sagoma umana, come un abbozzo nel marmo" #conOvidio #VentagliDiParole pic.twitter.com/gheOwG41Rh
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+3	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	individuare	individuare	VERB	V	VerbForm=Inf	0	root	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	esse	esso	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	certa	certo	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	sagoma	sagoma	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+10	umana	umano	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	9	punct	_	_
+12	come	come	ADP	E	_	14	case	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	abbozzo	abbozzo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+15-16	nel	_	_	_	_	_	_	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	marmo	marmo	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	19	punct	_	_
+19	#conOvidio	#conOvidio	PROPN	SP	_	14	nmod	_	_
+20	#	#	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	VentagliDiParole	VentagliDiParole	PROPN	SP	_	14	nmod	_	_
+22	pic.twitter.com/gheOwG41Rh	pic.twitter.com/gheOwG41Rh	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

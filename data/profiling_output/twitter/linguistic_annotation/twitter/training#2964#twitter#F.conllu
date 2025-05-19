@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che tristezza.
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	tristezza.	tristezza.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....per me il meeting del mare non esiste più.
+1	....per	....pere	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	meeting	meeting	NOUN	S	Gender=Masc	9	nsubj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mare	mare	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	più	più	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = Può sembrare stupido e paradossale ma é come se... http:// fb.me/2aNCJp4jA
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	stupido	stupido	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	paradossale	paradossale	ADJ	A	Number=Sing	3	conj	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7	é	é	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	conj	_	_
+8	come	come	ADP	E	_	9	case	_	_
+9	se...	se...	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	fb.me/2aNCJp4jA	fb.me/2aNCJp4jA	PROPN	SP	_	2	conj	_	SpacesAfter=\n
+

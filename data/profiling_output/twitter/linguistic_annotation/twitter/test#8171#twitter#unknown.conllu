@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , in #Libia dovrebbero mettersi d'accordo su un governo unitario così poi li bombardiamo?
+1	Dunque	dunque	ADV	B	_	6	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	#Libia	#Libia	PROPN	SP	_	6	obl	_	_
+5	dovrebbero	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6-7	mettersi	_	_	_	_	_	_	_	_
+6	metter	mettere	VERB	V	VerbForm=Inf	0	root	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+8	d'	di	ADP	E	_	9	case	_	SpaceAfter=No
+9	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	su	su	ADP	E	_	12	case	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	governo	governo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+13	unitario	unitario	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	così	così	ADV	B	_	17	advmod	_	_
+15	poi	poi	ADV	B	_	17	advmod	_	_
+16	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+17	bombardiamo	bombardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #fatemicapire
+1	#fatemicapire	#fatemicapire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

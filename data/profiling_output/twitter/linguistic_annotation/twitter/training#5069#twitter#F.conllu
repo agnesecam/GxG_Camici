@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nonno,ma come facevate prima senza,internet,computer,telefono e televisone?
+1	Nonno,ma	Nonno,mare	ADV	B	_	3	advmod	_	_
+2	come	come	SCONJ	CS	_	3	mark	_	_
+3	facevate	facevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	prima	prima	ADV	B	_	6	advmod	_	_
+5	senza	senza	ADP	E	_	6	case	_	SpaceAfter=No
+6	,internet,computer,telefono	,internet,computer,telefono	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	televisone	televisone	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = -Si scopava.
+1	-Si	-So	PROPN	SP	_	2	nsubj	_	_
+2	scopava	scopavo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

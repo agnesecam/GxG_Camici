@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non succede nulla e sostanzialmente neppure abbiamo modo, come da tradizione italica peraltro, di dare la colpa... http:// fb.me/2CxDCkES0
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	succede	succedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	obj	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	sostanzialmente	sostanzialmente	ADV	B	_	7	advmod	_	_
+6	neppure	neppure	ADV	BN	PronType=Neg	7	advmod	_	_
+7	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	modo	modo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	come	come	SCONJ	CS	_	17	mark	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	tradizione	tradizione	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+13	italica	italico	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14	peraltro	peraltro	ADV	B	_	13	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	12	punct	_	_
+16	di	di	ADP	E	_	17	mark	_	_
+17	dare	dare	VERB	V	VerbForm=Inf	7	advcl	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	colpa...	colpa...	NOUN	S	_	17	obj	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/2CxDCkES0	fb.me/2CxDCkES0	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

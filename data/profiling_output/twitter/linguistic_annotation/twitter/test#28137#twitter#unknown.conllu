@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Facciano una colletta per tutti gli affitti non pagati delle sedi #pd @lvoir Non hai chance @bobogiac contro #VirginiaRaggiSindaco
+1	Facciano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	colletta	colletta	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	per	per	ADP	E	_	7	case	_	_
+5	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	affitti	affitto	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	pagati	pagare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+10-11	delle	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	sedi	sede	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+13	#pd	#pd	X	SW	Foreign=Yes	12	compound	_	_
+14	@lvoir	@lvoir	X	SW	Foreign=Yes	13	flat:foreign	_	_
+15	Non	non	X	SW	Foreign=Yes	13	flat:foreign	_	_
+16	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+17	chance	chance	X	SW	Foreign=Yes	16	obj	_	_
+18	@bobogiac	@bobogiac	X	SW	Foreign=Yes	17	flat:foreign	_	_
+19	contro	contro	ADP	E	_	20	case	_	_
+20	#	#	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+21	VirginiaRaggiSindaco	VirginiaRaggiSindaco	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

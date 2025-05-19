@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Oznets12 più che immigrati direi clandestini ... gente che vive sulle nostre spalle!
+1	@Oznets12	@Oznets12	PROPN	SP	_	0	root	_	_
+2	più	più	ADV	B	_	1	advmod	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	immigrati	immigrato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+5	direi	dire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+6	clandestini	clandestino	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+7	...	.	PUNCT	FF	_	6	punct	_	_
+8	gente	gente	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11-12	sulle	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	spalle	spalla	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma che tipo non si ricorda nemmeno della mia esistenza, piango
+1	ma	ma	CCONJ	CC	_	6	cc	_	_
+2	che	che	DET	DQ	PronType=Int	3	det	_	_
+3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+6	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	nemmeno	nemmeno	ADV	BN	PronType=Neg	11	advmod	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	esistenza	esistenza	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	piango	piangere	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpacesAfter=\n
+

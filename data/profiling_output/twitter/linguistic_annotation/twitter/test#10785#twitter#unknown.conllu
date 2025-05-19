@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mazzettam @Moby_Sick @SMaurizi ma anche la contaminazione di "modestissime" aree di una capitale o area industriale è roba assai pesante
+1	@mazzettam	@mazzettam	NOUN	S	Gender=Masc	20	nsubj	_	_
+2	@Moby_Sick	@Moby_Sick	PROPN	SP	_	1	nmod	_	_
+3	@SMaurizi	@SMaurizi	PROPN	SP	_	2	flat:name	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	contaminazione	contaminazione	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+8	di	di	ADP	E	_	12	case	_	_
+9	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+10	modestissime	modesto	ADJ	A	Degree=Abs|Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	12	punct	_	_
+12	aree	area	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	capitale	capitale	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+16	o	o	CCONJ	CC	_	17	cc	_	_
+17	area	area	NOUN	S	Gender=Fem|Number=Sing	15	conj	_	_
+18	industriale	industriale	ADJ	A	Number=Sing	17	amod	_	_
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	roba	roba	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+21	assai	assai	ADV	B	_	20	advmod	_	_
+22	pesante	pesante	ADJ	A	Number=Sing	20	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nebbia in quel di Cafalù, neanche fossimo in Val padana...
+1	Nebbia	nebbia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	quel	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Cafalù	Cafalù	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	neanche	neanche	ADV	BN	PronType=Neg	10	advmod	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	Val	valle	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+11	padana..	padana	NOUN	S	_	10	compound	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Adesso a cena pic.twitter.com/DcP1py7w4D
+1	Adesso	adesso	ADV	B	_	3	advmod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	cena	cena	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	pic.twitter.com/DcP1py7w4D	pic.twitter.com/DcP1py7w4D	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

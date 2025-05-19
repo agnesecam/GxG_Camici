@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @serenadbEU @DaVelSign @FChiusaroli @glderosa @WordLo @Francesc0Rossi ce l'ho!
+1	@serenadbEU	@serenadbEU	ADP	E	_	2	case	_	_
+2	@DaVelSign	@DaVelSign	PROPN	SP	_	9	obl	_	_
+3	@FChiusaroli	@FChiusaroli	PROPN	SP	_	2	flat:name	_	_
+4	@glderosa	@glderoso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	@WordLo	@WordLo	PROPN	SP	_	9	dislocated	_	_
+6	@Francesc0Rossi	@Francesc0Rossi	PROPN	SP	_	5	flat:name	_	_
+7	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+9	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = http:// blog.terminologiaetc.it/2016/01/20/ese mpi-doppiaggese-aidac/ … con parecchi commenti
+1	http:	http:	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	blog.terminologiaetc.it/2016/01/20/ese	blog.terminologiaetc.it/2016/01/20/ese	ADJ	A	Number=Sing	5	amod	_	_
+5	mpi-doppiaggese-aidac	mpi-doppiaggese-aidac	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	_
+7	…	…	PUNCT	FF	_	5	punct	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
+10	commenti	commento	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpacesAfter=\n
+

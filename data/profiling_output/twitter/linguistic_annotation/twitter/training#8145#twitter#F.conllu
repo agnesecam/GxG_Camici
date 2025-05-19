@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dunque se il gruppo "di Simona" vota Jonas è un complotto, se il gruppo degli sfigati nomina SuperSimo non è una strategia?
+1	dunque	dunque	ADV	B	_	13	advmod	_	_
+2	se	se	SCONJ	CS	_	9	mark	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+5	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+6	di	di	ADP	E	_	7	case	_	_
+7	Simona	Simona	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	vota	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+10	Jonas	Jonas	PROPN	SP	_	13	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	complotto	complotto	NOUN	S	Gender=Masc|Number=Sing	26	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	se	se	SCONJ	CS	_	21	mark	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	_
+18-19	degli	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	sfigati	sfigato	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+21	nomina	nomino	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+22	SuperSimo	SuperSimo	PROPN	SP	_	21	obj	_	_
+23	non	non	ADV	BN	PronType=Neg	26	advmod	_	_
+24	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
+25	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	strategia	strategia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	26	punct	_	_
+
+# sent_id = 2
+# text = ipocrisia #isola
+1	ipocrisia	ipocrisia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	#isola	#isolo	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpacesAfter=\n
+

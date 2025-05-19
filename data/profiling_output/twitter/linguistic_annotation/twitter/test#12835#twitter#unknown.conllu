@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Aquintoc @RogerHalsted 1 ragione se napolitano sarkozy cameron stronzi usa non avessero datoinizio primaverearabe, forse?
+1	@Aquintoc	@Aquintoc	PROPN	SP	_	13	nsubj	_	_
+2	@RogerHalsted	@RogerHalsted	PROPN	SP	_	1	flat:name	_	_
+3	1	1	NUM	N	NumType=Card	4	nummod	_	_
+4	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	napolitano	napolitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	sarkozy	sarkozy	NOUN	S	Gender=Fem	6	obj	_	_
+8	cameron	cameron	ADP	E	_	9	case	_	_
+9	stronzi	stronzi	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+10	usa	uso	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	datoinizio	datoinizio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+14	primaverearabe	primaverearabo	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	13	punct	_	_
+16	forse	forse	ADV	B	_	13	advmod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = ma cercata
+1	ma	ma	CCONJ	CC	_	2	cc	_	_
+2	cercata	cercare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

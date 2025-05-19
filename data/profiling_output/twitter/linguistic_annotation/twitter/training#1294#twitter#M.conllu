@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Phastidio @vitalbaa probabilmente non distinguono la derivata prima dalla seconda.
+1	@Phastidio	@Phastidio	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	@vitalbaa	@vitalbao	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	probabilmente	probabilmente	ADV	B	_	2	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	distinguono	distinguere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	derivata	derivata	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	prima	prima	ADV	B	_	11	case	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	8	fixed	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	seconda	seconda	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

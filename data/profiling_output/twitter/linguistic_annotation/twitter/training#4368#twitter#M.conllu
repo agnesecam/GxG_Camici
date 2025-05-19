@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il premier dovrà fermare...
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	premier	premier	NOUN	S	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+4	fermare...	fermare...	NOUN	S	_	0	root	_	_
+
+# sent_id = 2
+# text = https://www.
+1	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDqm0nWk_cK/
+1	instagram.com/p/BDqm0nWk_cK/	instagram.com/p/BDqm0nWk_cK/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gi_u_bbi nooo quelli rossi sono una droga.
+1	@gi_u_bbi	@gi_u_bbio	DET	T	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	nooo	nooo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	2	nmod	_	_
+4	rossi	rosso	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	droga	droga	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Un anno per natale presi il lindor gigante, lo mangiai quasi tutto da solo e feci indigestione.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	anno	anno	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	natale	natale	ADJ	A	Number=Sing	2	amod	_	_
+5	presi	prendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	lindor	lindor	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+8	gigante	gigante	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	mangiai	mangiare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	quasi	quasi	ADV	B	_	13	advmod	_	_
+13	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	_
+14	da	da	ADP	E	_	18	case	_	_
+15	solo	solo	ADV	B	_	18	advmod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	feci	feco	ADJ	A	Number=Plur	15	conj	_	_
+18	indigestione	indigestione	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

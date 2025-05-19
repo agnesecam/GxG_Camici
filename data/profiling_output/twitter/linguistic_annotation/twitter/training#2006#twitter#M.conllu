@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @e_batta il lavoraccio in arrivo per Guardiola.
+1	@e_batta	@e_battare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	lavoraccio	lavoraccio	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	arrivo	arrivo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	Guardiola.	Guardiola.	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..altro che barba sbiancata dallo stress.
+1	..altro	..altro	ADP	E	_	3	case	_	_
+2	che	che	DET	DQ	PronType=Int	3	det	_	_
+3	barba	barbare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	sbiancata	sbiancare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+5-6	dallo	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	stress	stress	NOUN	S	Gender=Masc	4	obl:agent	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

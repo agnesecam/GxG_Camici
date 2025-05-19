@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo un ottimo Primo Ministro, questi avrebbe già telefonato in Egitto per dire "Cialtroni, ma a chi volete prendere per il culo?"
+1	Avessimo	Avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	ottimo	ottimo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Primo	Primo	PROPN	SP	_	1	obj	_	_
+5	Ministro	Ministro	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	10	nsubj	_	_
+8	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	già	già	ADV	B	_	10	advmod	_	_
+10	telefonato	telefonare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	Egitto	Egitto	PROPN	SP	_	10	obl	_	_
+13	per	per	ADP	E	_	14	mark	_	_
+14	dire	dire	VERB	V	VerbForm=Inf	10	advcl	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	Cialtroni	Cialtroni	PROPN	SP	_	10	xcomp	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	22	punct	_	_
+18	ma	ma	CCONJ	CC	_	22	cc	_	_
+19	a	a	ADP	E	_	20	case	_	_
+20	chi	chi	PRON	PR	Number=Sing|PronType=Rel	22	obl	_	_
+21	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	prendere	prendere	VERB	V	VerbForm=Inf	10	conj	_	_
+23	per	per	ADP	E	_	25	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	culo	culo	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+27	"	"	PUNCT	FB	_	10	punct	_	SpacesAfter=\n
+

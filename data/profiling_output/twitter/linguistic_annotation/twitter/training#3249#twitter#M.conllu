@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fare un ritratto ad una persona e' molto piu' complesso di quanto possa sembrare .
+1	Fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ritratto	ritratto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	ad	a	ADP	E	_	6	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	persona	persona	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+8	'	'	PUNCT	FB	_	11	punct	_	_
+9	molto	molto	ADV	B	_	11	advmod	_	_
+10	piu'	piuo	ADP	E	_	11	case	_	_
+11	complesso	complesso	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	11	nmod	_	_
+14	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	sembrare	sembrare	VERB	V	VerbForm=Inf	13	acl:relcl	_	_
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma quando avviene, si mostra,... http:// fb.me/ZB9TKtta
+1	Ma	ma	CCONJ	CC	_	10	cc	_	_
+2	quando	quando	SCONJ	CS	_	3	mark	_	_
+3	avviene	avvenire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	mostra,...	mostra,.	NOUN	S	Gender=Masc	3	conj	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	fb.me/ZB9TKtta	fb.me/ZB9TKtta	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

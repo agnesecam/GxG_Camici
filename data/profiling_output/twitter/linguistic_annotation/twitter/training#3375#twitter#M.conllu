@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlfredoPedulla @claudiocaruso77 parlo di pallotta,non di te!!!non mi riferivo a te!
+1	@AlfredoPedulla	@AlfredoPedulla	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@claudiocaruso77	@claudiocaruso77	NUM	N	NumType=Card	3	nummod	_	_
+3	parlo	parlo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	pallotta,non	pallotta,non	NOUN	S	Gender=Fem	3	nmod	_	_
+6	di	di	ADP	E	_	10	mark	_	_
+7	te!	te!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+8	!!non	!!non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	expl	_	_
+10	riferivo	riferivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	acl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = La figura la farà James se verranno ceduti i più forti!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	figura	figura	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	James	James	PROPN	SP	_	4	xcomp	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	verranno	venire	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	8	aux:pass	_	_
+8	ceduti	cedere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	forti	forte	ADJ	A	Number=Plur	8	nsubj:pass	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

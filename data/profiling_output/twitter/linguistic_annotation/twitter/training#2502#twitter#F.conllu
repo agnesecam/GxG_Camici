@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Date dei messaggi che entrano dentro grazie #LauraePaola
+1	Date	data	VERB	V	Mood=Imp|Number=Plur|Person=2	0	root	_	_
+2-3	dei	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	messaggi	messaggio	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	entrano	entrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	dentro	dentro	ADP	E	_	8	case	_	_
+8	grazie	grazie	NOUN	S	_	10	case	_	_
+9	#	#	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	LauraePaola	LauraePaola	PROPN	SP	_	6	obl	_	SpacesAfter=\n
+

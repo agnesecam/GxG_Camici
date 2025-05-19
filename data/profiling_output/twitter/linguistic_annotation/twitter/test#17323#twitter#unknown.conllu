@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CatenaUmana @luisaloffredo28l'ha sempre avuta la faccia da porco viscido quel signore infatti mi chiedevo ma come fa a prenderci per il c.
+1	@CatenaUmana	@CatenaUmano	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@luisaloffredo28l'	i@luisaloffredo28l	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	sempre	sempre	ADV	B	_	5	advmod	_	_
+5	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	porco	porco	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	viscido	viscidere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+11	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	signore	signore	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	infatti	infatti	ADV	B	_	10	advmod	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	obj	_	_
+15	chiedevo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+16	ma	ma	CCONJ	CC	_	18	cc	_	_
+17	come	come	ADV	B	_	18	advmod	_	_
+18	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
+19	a	a	ADP	E	_	20	mark	_	_
+20-21	prenderci	_	_	_	_	_	_	_	_
+20	prender	prendere	VERB	V	VerbForm=Inf	18	xcomp	_	_
+21	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	20	obj	_	_
+22	per	per	ADP	E	_	24	case	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	c.	c.	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	SpacesAfter=\n
+

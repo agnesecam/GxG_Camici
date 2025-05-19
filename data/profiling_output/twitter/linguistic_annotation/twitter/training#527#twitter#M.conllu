@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #StopIslam E' come se dopo Capaci avessimo detto #StopCristianesimo . #Brusselles #PrayForBelgium
+1	#StopIslam	#StopIslam	PROPN	SP	_	0	root	_	_
+2	E'	essere	PROPN	SP	_	1	flat:name	_	_
+3	come	come	ADV	B	_	8	advmod	_	_
+4	se	se	SCONJ	CS	_	8	mark	_	_
+5	dopo	dopo	ADP	E	_	6	case	_	_
+6	Capaci	capaci	PROPN	SP	_	8	obl	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+9	#StopCristianesimo	#StopCristianesimo	PROPN	SP	_	8	nsubj	_	_
+10	.	.	PUNCT	FS	_	9	punct	_	_
+11	#Brusselles	#Brusselles	PROPN	SP	_	9	flat:name	_	_
+12	#PrayForBelgium	#PrayForBelgium	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

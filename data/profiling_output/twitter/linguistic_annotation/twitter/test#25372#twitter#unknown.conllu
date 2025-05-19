@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I giorni furono difficili ma le notti furono dolci #ConLeDonne Karen Blixen @CasaLettori @AvverbiAmente pic.twitter.com/oGE2gFpnT0
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	difficili	difficile	ADJ	A	Number=Plur	10	amod	_	_
+5	ma	ma	CCONJ	CC	_	9	cc	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	notti	notte	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+8	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+9	dolci	dolce	ADJ	A	Number=Plur	4	conj	_	_
+10	#ConLeDonne	#ConLeDonne	PROPN	SP	_	0	root	_	_
+11	Karen	Karen	PROPN	SP	_	10	flat:name	_	_
+12	Blixen	Blixen	PROPN	SP	_	10	flat:name	_	_
+13	@CasaLettori	@CasaLettore	PROPN	SP	_	10	flat:name	_	_
+14	@AvverbiAmente	@AvverbiAmente	PROPN	SP	_	10	flat:name	_	_
+15	pic.twitter.com/oGE2gFpnT0	pic.twitter.com/oGE2gFpnT0	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

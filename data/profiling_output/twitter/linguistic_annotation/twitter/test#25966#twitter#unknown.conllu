@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Jynial communqe dipende veramente dalla pillola e sopra tutto dal tuo tipo di pelle, io non ne ho quasi mai avuti e la pillola mi ha -
+1	@Jynial	@Jynial	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	communqe	communqe	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	dipende	dipendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	veramente	veramente	ADV	B	_	3	advmod	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pillola	pillola	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	sopra	sopra	ADP	E	_	10	case	_	_
+10	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	conj	_	_
+11-12	dal	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	14	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	24	punct	_	_
+18	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+19	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+20	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	24	iobj	_	_
+21	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	cop	_	_
+22	quasi	quasi	ADV	B	_	23	advmod	_	_
+23	mai	mai	ADV	B	_	24	advmod	_	_
+24	avuti	avere	ADJ	A	Number=Plur	3	conj	_	_
+25	e	e	CCONJ	CC	_	29	cc	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	pillola	pillola	NOUN	S	Gender=Fem|Number=Sing	29	nsubj	_	_
+28	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	29	iobj	_	_
+29	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+30	-	-	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

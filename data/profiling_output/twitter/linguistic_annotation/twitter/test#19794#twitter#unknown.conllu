@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @renatobrunetta Infatti pulivi le scarpe a craxi e facevi da usciere quando entravano e uscivano i compagni
+1	@renatobrunetta	@renatobrunetta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Infatti	infatti	ADV	B	_	1	advmod	_	_
+3	pulivi	pulivo	ADV	B	_	1	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	scarpe	scarpa	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	craxi	craxi	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	facevi	facevere	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+10	da	da	ADP	E	_	11	mark	_	_
+11	usciere	usciere	VERB	V	VerbForm=Inf	1	acl	_	_
+12	quando	quando	SCONJ	CS	_	13	mark	_	_
+13	entravano	entrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	uscivano	uscire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	compagni	compagno	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	SpacesAfter=\n
+

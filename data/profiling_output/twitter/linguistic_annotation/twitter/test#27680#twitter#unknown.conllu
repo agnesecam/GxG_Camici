@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @borghi_claudio É difficile credere che non ne sapessero nulla, non vorrei facessero i finti tonti
+1	@borghi_claudio	@borghi_claudio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	É	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	difficile	difficile	ADJ	A	Number=Sing	0	root	_	_
+4	credere	credere	VERB	V	VerbForm=Inf	3	csubj	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	sapessero	sapere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+9	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	obj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	finti	finto	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+16	tonti	tonto	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che se tornassi non saresti l'alternativa ad un vuoto da colmare, ma la soluzione ad una vita da riempire.
+1	Che	che	SCONJ	CS	_	3	mark	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	tornassi	tornare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	saresti	saredere	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	alternativa	alternativa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+8	ad	a	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	vuoto	vuoto	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	da	da	ADP	E	_	12	mark	_	_
+12	colmare	colmare	VERB	V	VerbForm=Inf	10	acl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	16	punct	_	_
+14	ma	ma	CCONJ	CC	_	16	cc	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+17	ad	a	ADP	E	_	19	case	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	vita	vita	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+20	da	da	ADP	E	_	21	mark	_	_
+21	riempire	riempire	VERB	V	VerbForm=Inf	19	acl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #primaopoiciabbracceremo
+1	#primaopoiciabbracceremo	#primaopoiciabbraccere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

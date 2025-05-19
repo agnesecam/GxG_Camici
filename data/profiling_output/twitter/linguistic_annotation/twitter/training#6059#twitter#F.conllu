@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = no ma oggi abbiamo sclerato come se fossimo state lì, tutto molto baell Urban Strangers
+1	no	no	ADV	BN	PronType=Neg	5	advmod	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	oggi	oggi	ADV	B	_	5	advmod	_	_
+4	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sclerato	sclerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	come	come	ADV	B	_	9	advmod	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	state	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+10	lì	lì	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	obj	_	_
+13	molto	molto	ADV	B	_	15	advmod	_	_
+14	baell	baell	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Urban	Urban	PROPN	SP	_	5	nsubj:pass	_	_
+16	Strangers	Strangers	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

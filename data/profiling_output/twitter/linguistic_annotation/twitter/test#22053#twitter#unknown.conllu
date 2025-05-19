@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ChiaraMitascia pur essendo un sostenitore del soldato innamorato, bello 'sto video, Chiaretta.
+1	@ChiaraMitascia	@ChiaraMitascia	ADV	B	_	5	advmod	_	_
+2	pur	pure	ADV	B	_	5	advmod	_	_
+3	essendo	essere	AUX	V	VerbForm=Ger	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sostenitore	sostenitore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	soldato	soldato	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	innamorato	innamorato	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	8	punct	_	_
+11	bello	bello	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+12	'	'	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+13	sto	stare	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	video	video	NOUN	S	Gender=Masc|Number=Sing	8	appos	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	5	punct	_	_
+16	Chiaretta	Chiaretta	PROPN	SP	_	5	appos	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

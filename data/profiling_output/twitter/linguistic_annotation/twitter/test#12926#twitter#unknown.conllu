@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @5SofShady Ho notato anche io..
+1	@5SofShady	@5SofShady	CCONJ	CC	_	3	cc	_	_
+2	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	notato	notato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	io.	io.	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Infatti mi chiedevo se quest'anno avessero scelto di creare gruppi più numerosi per ogni coach
+1	Infatti	infatti	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	chiedevo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	8	mark	_	_
+5	quest'	questo	DET	DD	Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
+6	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+7	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	creare	creare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	gruppi	gruppo	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	numerosi	numeroso	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+14	per	per	ADP	E	_	16	case	_	_
+15	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
+16	coach	coach	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpacesAfter=\n
+

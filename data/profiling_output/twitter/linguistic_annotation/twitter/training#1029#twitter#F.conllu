@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cioè lo sapevo che tutto partiva dalla storia di Theo cazzo
+1	Cioè	cioè	ADV	B	_	3	advmod	_	_
+2	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	sapevo	sapere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+6	partiva	partire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	storia	storia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Theo	Theo	PROPN	SP	_	9	nmod	_	_
+12	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi Curare solo il proprio orticello non porta da nessuna parte.Prima o poi appassirà e si dovrà ricorrere ai frutti altrui
+1	@matteosalvinimi	@matteosalvinimo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	8	nsubj	_	_
+2	Curare	curare	VERB	V	VerbForm=Inf	1	acl	_	_
+3	solo	solo	ADV	B	_	6	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	orticello	orticello	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+11	parte.Prima	parte.Prima	PROPN	SP	_	8	obl	_	_
+12	o	o	CCONJ	CC	_	14	cc	_	_
+13	poi	poi	ADV	B	_	14	advmod	_	_
+14	appassirà	appassire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	conj	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl:impers	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	ricorrere	ricorrere	VERB	V	VerbForm=Inf	8	conj	_	_
+19-20	ai	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	frutti	frutto	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+22	altrui	altrui	DET	AP	Poss=Yes|PronType=Prs	21	det:poss	_	SpacesAfter=\n
+

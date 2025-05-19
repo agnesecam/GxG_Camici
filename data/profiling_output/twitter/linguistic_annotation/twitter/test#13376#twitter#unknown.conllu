@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Cuore_Toro sono parecchi mesi che è sceso il buio, ma forse non sai più cosa inventare.
+1	@Cuore_Toro	@Cuore_Toro	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	sceso	scendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	buio	buio	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	14	punct	_	_
+11	ma	ma	CCONJ	CC	_	14	cc	_	_
+12	forse	forse	ADV	B	_	14	advmod	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+15	più	più	ADV	B	_	14	advmod	_	_
+16	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	17	obj	_	_
+17	inventare	inventare	VERB	V	VerbForm=Inf	14	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...annata disastro
+1	...annata	...annare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	disastro	disastro	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	SpacesAfter=\n
+

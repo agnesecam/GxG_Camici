@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E' come se fossimo fatti per stare insieme...
+1	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADV	B	_	5	advmod	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	stare	stare	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	insieme...	insieme.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Buonanotte... pic.twitter.com/D2XYze52cs
+1	Buonanotte...	Buonanotte...	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/D2XYze52cs	pic.twitter.com/D2XYze52cs	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

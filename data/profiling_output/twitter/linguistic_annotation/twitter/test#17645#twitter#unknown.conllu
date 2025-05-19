@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'omaggio per esempio ad un Matteoli, infinitamente più forte, lo fecero ?
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	omaggio	omaggio	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	ad	a	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Matteoli	Matteoli	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	infinitamente	infinito	ADV	B	_	11	advmod	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	forte	forte	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	2	punct	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	?	?	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/dsportiva/stat us/716671195836493825 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/dsportiva/stat	twitter.com/dsportiva/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/716671195836493825	us/716671195836493825	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

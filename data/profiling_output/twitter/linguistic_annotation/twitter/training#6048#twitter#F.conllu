@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CremoniniCesare I Mille ci sono.
+1	@CremoniniCesare	@CremoniniCesare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Mille	mille	PROPN	SP	_	1	obj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma se fossimo MilleeUNO?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	MilleeUNO	MilleeUNO	PROPN	SP	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/rockin_1000/st atus/715548011967942656 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/rockin_1000/st	twitter.com/rockin_1000/st	SYM	X	_	0	root	_	_
+5	atus/715548011967942656	atus/715548011967942656	SYM	X	_	4	flat:name	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

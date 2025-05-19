@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La ricordo come se fosse oggi la sera della sua vittoria,e del casino che feci dalla felicità e pure sono già passati #6AnniDiEmma #Pride
+1	La	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	ricordo	ricordo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	ADV	B	_	8	advmod	_	_
+4	se	se	SCONJ	CS	_	8	mark	_	_
+5	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+6	oggi	oggi	ADV	B	_	8	advmod	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	sera	sera	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	vittoria,e	vittoria,e	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	casino	casino	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
+16	che	che	PRON	PR	PronType=Rel	17	obj	_	_
+17	feci	fece	NUM	N	_	12	nmod	_	_
+18-19	dalla	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	felicità	felicità	NOUN	S	Gender=Fem	17	obl:agent	_	_
+21	e	e	CCONJ	CC	_	25	cc	_	_
+22	pure	pure	ADV	B	_	25	advmod	_	_
+23	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+24	già	già	ADV	B	_	25	advmod	_	_
+25	passati	passare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	20	conj	_	_
+26	#6AnniDiEmma	#6AnniDiEmma	PROPN	SP	_	25	nsubj:pass	_	_
+27	#Pride	#Pride	PROPN	SP	_	26	flat:name	_	SpacesAfter=\n
+

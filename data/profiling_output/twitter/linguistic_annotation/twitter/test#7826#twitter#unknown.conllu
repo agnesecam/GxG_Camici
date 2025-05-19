@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , per il Cielo, lasciatemi o farò di chi m'arresta un altro spettro!
+1	Dunque	dunque	ADV	B	_	7	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Cielo	cielo	PROPN	SP	_	7	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7-8	lasciatemi	_	_	_	_	_	_	_	_
+7	lasciate	lasciare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
+9	o	o	CCONJ	CC	_	10	cc	_	_
+10	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	7	conj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	chi	chi	PRON	PR	Number=Sing|PronType=Rel	10	obl	_	_
+13	m'	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	SpaceAfter=No
+14	arresta	arrestare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	altro	altro	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	spettro	spettro	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Via, dico!
+1	Via	via	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	dico	dire	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ti seguo.
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	seguo	seguire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = #HamleTw /04 @marconi99D
+1	#HamleTw	#HamleTw	PROPN	SP	_	0	root	_	_
+2	/04	/04	NUM	N	NumType=Card	1	nummod	_	_
+3	@marconi99D	@marconi99D	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

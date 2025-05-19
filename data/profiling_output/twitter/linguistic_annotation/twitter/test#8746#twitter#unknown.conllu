@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @maurovanetti Sì, ma lo stalking non va di moda neppure quando miete vittime.
+1	@maurovanetti	@maurovanetto	NOUN	S	Gender=Masc	0	root	_	_
+2	Sì	sì	INTJ	I	Polarity=Pos	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	8	punct	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	stalking	stalking	NOUN	S	Gender=Masc	8	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	moda	moda	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+11	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+12	quando	quando	SCONJ	CS	_	14	case	_	_
+13	miete	mieto	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+14	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

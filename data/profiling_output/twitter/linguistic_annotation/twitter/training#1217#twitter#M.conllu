@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @quelliche_rai2 #qcc #HoVistoCoseStrane @angelarafanelli dalla vita il su sei rock , ma dalla vita in giù aiuto.
+1	@quelliche_rai2	@quelliche_rai2	NUM	N	NumType=Card	2	nummod	_	_
+2	#qcc	#qccetera	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	#HoVistoCoseStrane	#HoVistoCoseStrane	PROPN	SP	_	2	nmod	_	_
+4	@angelarafanelli	@angelarafanello	NOUN	S	Gender=Masc	3	compound	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vita	vita	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+9	su	su	ADP	E	_	11	case	_	_
+10	sei	sei	NUM	N	NumType=Card	11	nummod	_	_
+11	rock	rock	NOUN	S	Gender=Masc	2	nmod	_	_
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	ma	ma	CCONJ	CC	_	16	cc	_	_
+14-15	dalla	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	vita	vita	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	giù	giù	DET	DI	PronType=Ind	19	det	_	_
+19	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Un jeans era vietato?
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	jeans	jeans	NOUN	S	Gender=Masc	4	nsubj	_	_
+3	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	vietato	vietare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

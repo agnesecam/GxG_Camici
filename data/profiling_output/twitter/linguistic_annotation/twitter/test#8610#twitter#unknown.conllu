@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @isidemoni neppure io, comunque.
+1	@isidemoni	@isidemone	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	neppure	neppure	ADV	BN	PronType=Neg	3	advmod	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	comunque	comunque	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Anzi... (dico Cartesio)
+1	Anzi...	Anzi...	NOUN	S	_	0	root	_	_
+2	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	dico	dico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Cartesio	Cartesio	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

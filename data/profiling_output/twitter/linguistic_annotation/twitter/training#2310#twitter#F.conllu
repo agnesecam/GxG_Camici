@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Più ti attaccano più ti difendo!
+1	Più	più	ADV	B	_	3	advmod	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	attaccano	attaccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	6	advmod	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	expl	_	_
+6	difendo	difendere	VERB	V	VerbForm=Ger	3	advcl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ti voglio bene!
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Grz x qst esperienza che porterò smp dentro il mio ! #classedem pic.twitter.com/ai19puEzW6
+1	Grz	Grz	PROPN	SP	_	0	root	_	_
+2	x	x	SYM	SYM	_	1	flat:name	_	_
+3	qst	qst	ADJ	A	_	4	amod	_	_
+4	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	porterò	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+7	smp	smp	NOUN	S	_	6	obj	_	_
+8	dentro	dentro	ADP	E	_	12	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+10	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+11	!	!	PUNCT	FS	_	10	punct	_	_
+12	#classedem	#classedem	NOUN	S	Gender=Masc	6	obl	_	_
+13	pic.twitter.com/ai19puEzW6	pic.twitter.com/ai19puEzW6	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

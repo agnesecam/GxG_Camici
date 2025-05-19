@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se non sbaglio nella prima stagione ci fu una puntata di #ciaodarwin con nessuno che rispose bene ai cilindroni...
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	sbaglio	sbagliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+4-5	nella	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
+7	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	#ciaodarwin	#ciaodarwin	NOUN	S	_	11	nmod	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	nmod	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	rispose	rispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	acl:relcl	_	_
+18	bene	bene	ADV	B	_	17	advmod	_	_
+19-20	ai	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	cilindroni...	cilindroni...	NOUN	S	_	17	obl	_	SpacesAfter=\n
+

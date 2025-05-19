@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = voglio parlare con qualcuna del concerto, non sto più nella pelle
+1	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	concerto	concerto	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	più	più	ADV	B	_	10	advmod	_	_
+12-13	nella	_	_	_	_	_	_	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpacesAfter=\n
+

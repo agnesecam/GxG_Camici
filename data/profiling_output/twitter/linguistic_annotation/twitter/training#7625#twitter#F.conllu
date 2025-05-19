@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non affannatevi dunque per il domani, perché il domani avrà già le sue inquietudini.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	affannatevi	affannare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dunque	dunque	ADV	B	_	2	advmod	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	domani	domani	NOUN	S	Gender=Masc	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	perché	perché	SCONJ	CS	_	11	mark	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	domani	domani	NOUN	S	Gender=Masc	11	nsubj	_	_
+11	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+12	già	già	ADV	B	_	11	advmod	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	inquietudini	inquietudine	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = A ciascun giorno basta la... http:// fb.me/74ulXgVPk
+1	A	a	ADP	E	_	3	case	_	_
+2	ciascun	ciascuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la...	la...	NOUN	S	_	4	conj	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	fb.me/74ulXgVPk	fb.me/74ulXgVPk	PROPN	SP	_	4	nsubj	_	SpacesAfter=\n
+

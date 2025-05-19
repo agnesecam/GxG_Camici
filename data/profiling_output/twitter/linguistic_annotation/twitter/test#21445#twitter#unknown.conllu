@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "E in più Andreas ci guarderà e vogliamo dirgli che gli vogliamo bene e che starà con noi" IL MIO POVERO CUORE #Amici15
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	E	e	CCONJ	CC	_	7	cc	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	Andreas	Andreas	PROPN	SP	_	7	nsubj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+7	guarderà	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	vogliamo	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10-11	dirgli	_	_	_	_	_	_	_	_
+10	dir	dire	VERB	V	VerbForm=Inf	7	conj	_	_
+11	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	_
+12	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+13	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	_
+14	vogliamo	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+15	bene	bene	ADV	B	_	18	advmod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	ccomp	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	obl	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	22	punct	_	_
+22	IL	Il	PROPN	SP	_	18	obj	_	_
+23	MIO	mio	PROPN	SP	_	22	flat:name	_	_
+24	POVERO	povero	PROPN	SP	_	22	flat:name	_	_
+25	CUORE	cuore	PROPN	SP	_	22	flat:name	_	_
+26	#Amici15	#Amici15	PROPN	SP	_	22	flat:name	_	SpacesAfter=\n
+

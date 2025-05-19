@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Diciamo la verita, non sono diventato calciatore solo perché avrei fatto casini con gli sponsor
+1	Diciamo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	verita	verita	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	calciatore	calciatore	NOUN	S	Gender=Masc|Number=Sing	7	xcomp	_	_
+9	solo	solo	ADV	B	_	12	advmod	_	_
+10	perché	perché	SCONJ	CS	_	12	mark	_	_
+11	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+13	casini	casino	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	sponsor	sponsor	NOUN	S	Gender=Masc	13	nmod	_	SpacesAfter=\n
+

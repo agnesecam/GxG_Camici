@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @placenparadis Fin quando non sarà XF stessa a dire i nomi dei giudici, non crederò a nessuna news
+1	@placenparadis	@placenparadis	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Fin	Fin	PROPN	SP	_	1	nsubj	_	_
+3	quando	quando	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
+6	XF	XF	PROPN	SP	_	17	nsubj	_	_
+7	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	dire	dire	VERB	V	VerbForm=Inf	6	acl	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	nomi	nome	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	giudici	giudice	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	6	punct	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	crederò	credere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	20	det	_	_
+20	news	news	NOUN	S	Gender=Fem	17	obl	_	SpacesAfter=\n
+

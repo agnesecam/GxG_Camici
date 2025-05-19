@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se ci arrendessimo e avessimo un quadro deflazione, aumenterebbe il valore reale del debito (sovrano) dice Draghi @la_stampa #bce
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+3	arrendessimo	arrendessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	quadro	quadro	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	deflazione	deflazione	NOUN	S	Gender=Fem|Number=Sing	7	compound	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	aumenterebbe	aumentare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	valore	valore	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	reale	reale	ADJ	A	Number=Sing	12	amod	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	debito	debito	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+17	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+18	sovrano	sovrano	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	10	punct	_	_
+20	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	Draghi	Draghi	PROPN	SP	_	20	nsubj	_	_
+22	@la_stampa	@la_stampa	NOUN	S	Gender=Fem|Number=Sing	21	flat:name	_	_
+23	#bce	#bce	ADJ	A	Number=Sing	21	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #fi Bertolaso non cede ma apre a Marchini:
+1	#fi	#fo	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	Bertolaso	Bertolaso	PROPN	SP	_	1	nmod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	cede	cedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	apre	aprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Marchini	Marchini	PROPN	SP	_	6	obl	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = ROMA Guido Bertolaso non cede ma neppure ci sta a fare ... http:// bit.ly/22Cj4Y0 #berlusconi
+1	ROMA	Roma	PROPN	SP	_	5	nsubj	_	_
+2	Guido	Guido	PROPN	SP	_	1	flat:name	_	_
+3	Bertolaso	Bertolaso	PROPN	SP	_	1	flat:name	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	cede	cedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ma	ma	CCONJ	CC	_	9	cc	_	_
+7	neppure	neppure	ADV	BN	PronType=Neg	9	advmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	fare	fare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	...	...	PUNCT	FF	_	5	punct	_	_
+13	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	5	punct	_	_
+16	bit.ly/22Cj4Y0	bit.ly/22Cj4Y0	PROPN	SP	_	5	obj	_	_
+17	#berlusconi	#berluscone	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	SpacesAfter=\n
+

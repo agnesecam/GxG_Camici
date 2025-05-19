@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @elpme10 @Chantaltomas @SonLaGea @GiusiSarcina @ubbiubbi dunque ... U2, the Tube, le turbe...
+1	@elpme10	@elpme10	NUM	N	NumType=Card	2	nummod	_	_
+2	@Chantaltomas	@Chantaltomas	PROPN	SP	_	0	root	_	_
+3	@SonLaGea	@SonLaGea	PROPN	SP	_	2	flat:name	_	_
+4	@GiusiSarcina	@GiusiSarcina	PROPN	SP	_	2	flat:name	_	_
+5	@ubbiubbi	@ubbiubbo	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nmod	_	_
+6	dunque	dunque	ADV	B	_	5	advmod	_	_
+7	...	...	PUNCT	FF	_	8	punct	_	_
+8	U2	U2	PROPN	SP	_	5	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
+11	Tube	Tube	PROPN	SP	_	5	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	2	punct	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	turbe...	turbe...	NOUN	S	_	2	nmod	_	_
+
+# sent_id = 2
+# text = YouTube non mi pare
+1	YouTube	YouTube	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

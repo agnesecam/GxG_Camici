@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spese pazze, stangata su Cracolici Dovrà restituire 346 mila euro http://www.
+1	Spese	spesa	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	pazze	pazzo	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	stangata	stangare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	Cracolici	Cracolico	PROPN	SP	_	4	obl	_	_
+7	Dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	restituire	restituire	VERB	V	VerbForm=Inf	0	root	_	_
+9	346	346	NUM	N	NumType=Card	11	nummod	_	_
+10	mila	mila	NUM	N	NumType=Card	9	flat	_	SpacesAfter= 
+11	euro	euro	NOUN	S	Gender=Masc	8	obj	_	_
+12	http://www	http://www	NOUN	S	Gender=Masc	8	compound	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = grognards2011.it/2016/04/spese- pazze-stangata-su-cracolici-dovra-restituire-346-mila-euro/ …
+1	grognards2011.it/2016/04/spese-	_	PUNCT	FF	_	4	punct	_	_
+2	pazze-stangata-su-cracolici	pazze-stangata-su-cracolico	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+3	-dovra-restituire-346	-dovra-restituire-346	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+4	-mila-euro	-mila-euro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

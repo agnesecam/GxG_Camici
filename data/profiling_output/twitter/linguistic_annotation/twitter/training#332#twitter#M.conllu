@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Essere genoani è una vita dura.
+1	Essere	essere	AUX	V	VerbForm=Inf	2	cop	_	_
+2	genoani	genoano	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vita	vita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	dura.	dura.	NOUN	S	_	5	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma certo che essere interista è forse peggio (se avessimo noi la metà dei soldi che han speso loro!)
+1	..ma	..mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	certo	certo	ADV	B	_	1	advmod	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	essere	essere	AUX	VA	VerbForm=Inf	5	cop	_	_
+5	interista	interedere	ADJ	A	Number=Sing	1	ccomp	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+7	forse	forse	ADV	B	_	14	advmod	_	_
+8	peggio	peggio	ADV	B	_	14	advmod	_	_
+9	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+10	se	se	SCONJ	CS	_	14	mark	_	_
+11	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	cop	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	metà	metà	NOUN	S	Gender=Fem	5	advcl	_	_
+15-16	dei	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	speso	spendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
+21	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	20	iobj	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+23	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

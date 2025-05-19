@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CAPITALE IN FARMACIA, PROPRIETA' AL 100% MA TETTO REGIONALE AL NUMERO DI ESERCIZI Roma – Sembrano dunque ... http:// fb.me/2pMzuNNtO
+1	CAPITALE	Capitale	PROPN	SP	_	0	root	_	_
+2	IN	in	PROPN	SP	_	1	flat:name	_	_
+3	FARMACIA	farmacia	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	PROPRIETA'	PROPRIETA'	PROPN	SP	_	1	appos	_	_
+6-7	AL	_	_	_	_	_	_	_	_
+6	A	A	PROPN	SP	_	5	flat:name	_	_
+7	IL	il	PROPN	SP	_	5	flat:name	_	_
+8	100	100	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+9	%	%	SYM	SYM	_	5	flat:name	_	_
+10	MA	ma	PROPN	SP	_	5	nmod	_	_
+11	TETTO	tetto	PROPN	SP	_	10	flat:name	_	_
+12	REGIONALE	regionale	PROPN	SP	_	10	flat:name	_	_
+13-14	AL	_	_	_	_	_	_	_	_
+13	A	a	ADP	E	_	14	case	_	_
+14	IL	il	PROPN	SP	_	10	flat:name	_	_
+15	NUMERO	numero	PROPN	SP	_	10	flat:name	_	_
+16	DI	Di	ADP	E	_	17	case	_	_
+17	ESERCIZI	esercizi	PROPN	SP	_	20	obl	_	_
+18	Roma	Roma	PROPN	SP	_	17	flat:name	_	_
+19	–	–	PUNCT	FF	_	20	punct	_	_
+20	Sembrano	sembrare	PROPN	SP	_	10	flat:name	_	_
+21	dunque	dunque	ADV	B	_	20	advmod	_	_
+22	...	...	PUNCT	FF	_	20	punct	_	_
+23	http:	http:	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	20	punct	_	_
+26	fb.me/2pMzuNNtO	fb.me/2pMzuNNtO	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

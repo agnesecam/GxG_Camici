@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Fabiovoloo grazie Fabio grazie hai espresso quello che cerco di dire da tempo… "Basta fare i Moderni con il culo degl 'altri" GRANDEEEEEE
+1	@Fabiovoloo	@Fabiovoloo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	grazie	grazie	NOUN	S	_	3	case	_	_
+3	Fabio	Fabio	PROPN	SP	_	1	nmod	_	_
+4	grazie	grazie	NOUN	S	_	6	mark	_	_
+5	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	espresso	esprimere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+9	cerco	cercare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	dire	dire	VERB	V	VerbForm=Inf	9	advcl	_	_
+12	da	da	ADP	E	_	15	case	_	_
+13	tempo…	tempo…	PUNCT	FF	_	15	punct	_	_
+14	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	Basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	15	conj	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	Moderni	moderno	PROPN	SP	_	16	obj	_	_
+19	con	con	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	culo	culo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+22	degl	degl	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
+23	'	'	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+24	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	21	nmod	_	SpaceAfter=No
+25	"	"	PUNCT	FB	_	24	punct	_	_
+26	GRANDEEEEEE	GRANDEEEEEE	PROPN	SP	_	24	nmod	_	SpacesAfter=\n
+

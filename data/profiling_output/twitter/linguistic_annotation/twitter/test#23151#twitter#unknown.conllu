@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giuliaperplessa ma io tipo tra due o tre mesi avrò risolto, non li avrò più i capelli!
+1	@giuliaperplessa	@giuliaperplettere	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+5	tra	tra	ADP	E	_	9	case	_	_
+6	due	due	NUM	N	NumType=Card	9	nummod	_	_
+7	o	o	CCONJ	CC	_	8	cc	_	_
+8	tre	tre	NUM	N	NumType=Card	6	conj	_	_
+9	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+10	avrò	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+15	avrò	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	11	conj	_	_
+16	più	più	ADV	B	_	15	advmod	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	capelli	capello	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

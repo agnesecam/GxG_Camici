@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Roma, Florenzi:
+1	Roma	Roma	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	Florenzi	Florenzi	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Non molliamo il Napoli, se dovessero fare un passo falso...
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	molliamo	mollere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Napoli	Napoli	PROPN	SP	_	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	dovessero	dovere	AUX	VM	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	3	advcl	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	passo	passo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	falso...	falso.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Higuain?
+1	Higuain	Higuain	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = La sua assenza si farà sentire"
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	assenza	assenza	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	sentire	sentire	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

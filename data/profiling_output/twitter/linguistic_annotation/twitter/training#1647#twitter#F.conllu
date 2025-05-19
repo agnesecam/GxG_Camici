@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non mi fido di chi non ha amici d'infanzia.
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	fido	fidare	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	chi	chi	PRON	PR	PronType=Rel	3	obl	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	amici	amico	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	d'	di	ADP	E	_	10	case	_	SpaceAfter=No
+10	infanzia	infanzia	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = un'ora al telefono con la Vivi.
+1	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	ora	ora	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Vivi	vivio	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = amiche le nostre mamme.
+1	amiche	amico	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	mamme	mamma	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = le nostre nonne.
+1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	nonne	nonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 5
+# text = e forse anche prima...
+1	e	e	CCONJ	CC	_	4	cc	_	_
+2	forse	forse	ADV	B	_	3	advmod	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	prima...	prima.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

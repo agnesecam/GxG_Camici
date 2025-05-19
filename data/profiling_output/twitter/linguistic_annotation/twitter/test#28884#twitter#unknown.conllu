@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = GUARDO TUTTO!
+1	GUARDO	guardare	ADP	E	_	2	case	_	_
+2	TUTTO	tutto	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Nel frattempo , @FIAformulaE ! #FormulaE #LBePrix #FanBoost pic.twitter.com/JOggWhudS9
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	@FIAformulaE	@FIAformulaE	PROPN	SP	_	0	root	_	_
+6	!	!	PUNCT	FS	_	7	punct	_	_
+7	#FormulaE	#FormulaE	PROPN	SP	_	5	flat:name	_	_
+8	#LBePrix	#LBePrix	PROPN	SP	_	7	flat:name	_	_
+9	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	FanBoost	FanBoost	PROPN	SP	_	7	flat:name	_	_
+11	pic.twitter.com/JOggWhudS9	pic.twitter.com/JOggWhudS9	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

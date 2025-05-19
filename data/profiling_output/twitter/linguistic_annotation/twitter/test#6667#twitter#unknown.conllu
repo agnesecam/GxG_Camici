@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = QUI SOLO LA RIBELLIONE SOCIALE CI SALVA (solo se fossimo "tutti" compatti) Ma questa donna al posto del cervello...
+1	QUI	qui	PROPN	SP	_	0	root	_	_
+2	SOLO	solo	PROPN	SP	_	19	nmod	_	_
+3	LA	La	PROPN	SP	_	2	flat:name	_	_
+4	RIBELLIONE	ribellione	PROPN	SP	_	2	flat:name	_	_
+5	SOCIALE	sociale	PROPN	SP	_	2	flat:name	_	_
+6	CI	ci	PROPN	SP	_	2	flat:name	_	_
+7	SALVA	salva	PROPN	SP	_	2	flat:name	_	_
+8	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+9	solo	solo	ADV	B	_	15	advmod	_	_
+10	se	se	SCONJ	CS	_	15	mark	_	_
+11	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	15	cop	_	_
+12	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+13	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	15	det:poss	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	13	punct	_	_
+15	compatti	compatto	NOUN	S	Gender=Masc|Number=Plur	2	appos	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	15	punct	_	_
+17	Ma	ma	CCONJ	CC	_	19	cc	_	_
+18	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
+19	donna	donna	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+20-21	al	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	posto	posto	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	_
+23-24	del	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	cervello...	cervello...	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7Mz2mj6bp
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7Mz2mj6bp	fb.me/7Mz2mj6bp	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nini Giacomelli la mia amica che dalla Valcamonica arriva dovunque . http:// fb.me/3CnhlDgcb
+1	Nini	Nini	PROPN	SP	_	0	root	_	_
+2	Giacomelli	Giacomelli	PROPN	SP	_	1	flat:name	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	amica	amico	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Valcamonica	Valcamonica	PROPN	SP	_	10	obl	_	_
+10	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+11	dovunque	dovunque	ADV	B	_	10	advmod	_	_
+12	.	.	PUNCT	FS	_	13	punct	_	_
+13	http:	http:	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	_
+16	fb.me/3CnhlDgcb	fb.me/3CnhlDgcb	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

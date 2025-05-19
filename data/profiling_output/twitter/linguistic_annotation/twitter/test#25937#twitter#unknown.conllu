@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cinico80 sarà quel che sarà, certo che in due partite gli skartofen ne hanno avuti di aiutini.
+1	@cinico80	@cinico80	NUM	N	NumType=Card	3	nummod	_	_
+2	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	cop	_	_
+3	quel	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	certo	certo	ADV	B	_	16	advmod	_	_
+8	che	che	SCONJ	CS	_	16	mark	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	due	due	NUM	N	NumType=Card	11	nummod	_	_
+11	partite	partita	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	skartofen	skartofen	NOUN	S	Gender=Masc	16	nsubj	_	_
+14	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	16	iobj	_	_
+15	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	aiutini	aiuto	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

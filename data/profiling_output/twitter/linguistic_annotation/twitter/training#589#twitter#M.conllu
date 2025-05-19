@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giovannibrenteg se avessimo avuto i giusti cambi e un po'di attenzione l avremmo portata a casa.
+1	@giovannibrenteg	@giovannibrenteg	SYM	X	_	15	nsubj	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	giusti	giusto	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+7	cambi	cambio	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	po'	poco	NOUN	S	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+11	di	di	ADP	E	_	12	case	_	_
+12	attenzione	attenzione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	l	l	X	X	_	12	nmod	_	_
+14	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	portata	portare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	casa.	casa.	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma fino alla fine ci saremo...
+1	..ma	..mare	ADV	B	_	5	advmod	_	_
+2	fino	fino	ADV	B	_	5	case	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	2	fixed	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	fine	fine	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+7	saremo...	saremo.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

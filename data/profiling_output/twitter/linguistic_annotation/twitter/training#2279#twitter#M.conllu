@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @zazzatweet Fuori Asamoah, Dentro Quadrato e 4-4-2
+1	@zazzatweet	@zazzatweet	NOUN	S	Gender=Masc	0	root	_	_
+2	Fuori	fuori	PROPN	SP	_	1	nmod	_	_
+3	Asamoah	Asamoah	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	Dentro	dentro	PROPN	SP	_	1	appos	_	_
+6	Quadrato	quadrato	PROPN	SP	_	5	flat:name	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	4	4	NUM	N	NumType=Card	10	conj	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	4	4	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	2	2	NUM	N	NumType=Card	1	nummod	_	SpacesAfter=\n
+

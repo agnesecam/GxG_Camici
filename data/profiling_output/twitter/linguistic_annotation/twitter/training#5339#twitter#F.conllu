@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @confusa11 @lori_gianna @dolcestrega09 @CarmenJara9 @graziasfe @MarcelloAtanas brava, prestamene qualcuna
+1	@confusa11	@confusa11	NUM	N	NumType=Card	2	nummod	_	_
+2	@lori_gianna	@lori_gianna	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+3	@dolcestrega09	@dolcestrega09	NUM	N	NumType=Card	4	nummod	_	_
+4	@CarmenJara9	@CarmenJara9	PROPN	SP	_	2	nmod	_	_
+5	@graziasfe	@graziasfe	ADJ	A	Number=Sing	4	amod	_	_
+6	@MarcelloAtanas	@MarcelloAtanas	PROPN	SP	_	4	flat:name	_	_
+7	brava	bravo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	prestamene	prestamena	ADV	B	_	10	advmod	_	_
+10	qualcuna	qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	SpacesAfter=\n
+

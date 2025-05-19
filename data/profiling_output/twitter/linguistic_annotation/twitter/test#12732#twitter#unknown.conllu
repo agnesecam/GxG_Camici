@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Guidi rumors:ex ministra ha offerto posti all' #Ice a imprenditori ke avessero votato Vacchi http://www.
+1	#Guidi	#Guido	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	rumors:ex	rumors:ex	ADJ	A	_	1	amod	_	_
+3	ministra	ministra	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	1	nmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	offerto	offrire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	posti	posto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	xcomp	_	_
+7-8	all'	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	#Ice	#Ice	PROPN	SP	_	6	obl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	imprenditori	imprenditore	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+12	ke	ke	ADV	B	_	14	advmod	_	_
+13	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	votato	votare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+15	Vacchi	Vacchi	PROPN	SP	_	14	nsubj	_	_
+16	http://www	http://www	NOUN	S	_	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = affaritaliani.it/economia/guidi -si-e-dimessa-i-rumors-posti-all-ice-ai-vacchiani-414904.html … pic.twitter.com/SDc2lJYLBp
+1	affaritaliani.it/economia/guidi	affaritaliani.it/economia/guidio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	-si	-so	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	e-dimessa-i-rumors-posti-all-ice-ai-vacchiani-414904.html	e-dimessa-i-rumors-posti-all-ice-ai-vacchiani-414904.html	NOUN	S	Number=Sing	1	nmod	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	_
+6	pic.twitter.com/SDc2lJYLBp	pic.twitter.com/SDc2lJYLBp	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

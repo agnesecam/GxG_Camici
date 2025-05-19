@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La storia di un personaggio poliedrico del gruppo 63.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	storia	storia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	personaggio	personaggio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	poliedrico	poliedrico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+10	63	63	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = DUNQUE TORRICELLI, di Caterina Fantoni http://www.
+1	DUNQUE	dunque	PROPN	SP	_	0	root	_	_
+2	TORRICELLI	TORRICELLI	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Caterina	Caterina	PROPN	SP	_	1	nmod	_	_
+6	Fantoni	Fantoni	PROPN	SP	_	5	flat:name	_	_
+7	http://www	http://www	NOUN	S	_	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = artestampaweb.it/scheda&id=380 #artestampa
+1	artestampaweb.it/scheda&id=380	artestampaweb.it/scheda&id=380	NUM	N	NumType=Range	2	nummod	_	_
+2	#artestampa	#artestampa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

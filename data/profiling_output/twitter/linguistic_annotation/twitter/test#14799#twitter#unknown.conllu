@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Povero Mauro Crippa, direttore generale informazione Mediaset:
+1	Povero	povero	PROPN	SP	_	0	root	_	_
+2	Mauro	Mauro	PROPN	SP	_	1	flat:name	_	_
+3	Crippa	Crippa	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+6	generale	generale	ADJ	A	Number=Sing	5	amod	_	_
+7	informazione	informazione	NOUN	S	Gender=Fem|Number=Sing	5	compound	_	_
+8	Mediaset	Mediaset	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = in 2 anni i suoi compensi giù del 30%.
+1	in	in	ADP	E	_	3	case	_	_
+2	2	2	NUM	N	NumType=Card	3	nummod	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	compensi	compenso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	giù	giù	ADV	B	_	11	advmod	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	30	30	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+11	%	%	SYM	SYM	_	6	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Ora a quota 824 mila euri.
+1	Ora	ora	ADV	B	_	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	quota	quota	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+4	824	824	NUM	N	NumType=Card	6	nummod	_	_
+5	mila	mila	NUM	N	NumType=Card	4	flat	_	_
+6	euri	euro	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = @italiaoggi
+1	@italiaoggi	@italiaoggi	ADV	B	_	0	root	_	SpacesAfter=\n
+

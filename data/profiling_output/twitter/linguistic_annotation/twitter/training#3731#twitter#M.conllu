@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Zaphiire7 sei ridicolo!
+1	@Zaphiire7	@Zaphiire7	NUM	N	NumType=Card	3	nummod	_	_
+2	sei	sei	NUM	N	NumType=Card	3	nummod	_	_
+3	ridicolo	ridicolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Mi limito a ciò
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	limito	limire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obl	_	SpacesAfter=\n
+

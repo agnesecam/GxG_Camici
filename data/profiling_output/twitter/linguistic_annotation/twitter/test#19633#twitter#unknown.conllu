@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Fabiovoloo stanotte ti ho sognato:
+1	@Fabiovoloo	@Fabiovoloo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	stanotte	stanotto	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sognato	sognato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = mi chiamavi Viola e mi facevi leggere alla radio un tuo nuovo libro...
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	chiamavi	chiamavo	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Viola	viola	PROPN	SP	_	2	xcomp	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+6	facevi	facevere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	leggere	leggere	VERB	V	VerbForm=Inf	3	conj	_	_
+8-9	alla	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	radio	radio	NOUN	S	Gender=Fem	7	obl	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+12	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+13	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	libro...	libro...	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+
+# sent_id = 3
+# text = @radiodeejay
+1	@radiodeejay	@radiodeejay	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

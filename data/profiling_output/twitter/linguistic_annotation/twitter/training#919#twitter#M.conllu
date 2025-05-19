@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @britishongaku @mtonino come se noi non avessimo avuto Berlusconi...
+1	@britishongaku	@britishongaku	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@mtonino	@mtonare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	come	come	ADV	B	_	8	advmod	_	_
+4	se	se	SCONJ	CS	_	8	mark	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+9	Berlusconi...	Berlusconi...	PROPN	SP	_	2	nmod	_	_
+
+# sent_id = 2
+# text = :)
+1	:	:	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

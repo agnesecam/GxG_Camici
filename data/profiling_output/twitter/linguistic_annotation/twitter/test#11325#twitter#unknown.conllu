@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #matteorisponde ma come farete a rilanciare le assunzioni ora che l'effetto positivo del Jobs Act va finendo?
+1	#matteorisponde	#matteorispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	come	come	SCONJ	CS	_	4	mark	_	_
+4	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	rilanciare	rilanciare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	assunzioni	assunzione	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	ora	ora	ADV	B	_	19	advmod	_	_
+10	che	che	SCONJ	CS	_	19	mark	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	effetto	effetto	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+13	positivo	positivo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Jobs	Jobs	PROPN	SP	_	12	nmod	_	_
+17	Act	Act	PROPN	SP	_	16	flat:name	_	_
+18	va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	finendo	finire	VERB	V	VerbForm=Ger	8	advcl	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Al Sud ce n'è molto bisogno.
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Sud	Sud	PROPN	SP	_	6	obl	_	_
+4	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	n'	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	SpaceAfter=No
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	molto	molto	ADV	B	_	6	advmod	_	_
+8	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

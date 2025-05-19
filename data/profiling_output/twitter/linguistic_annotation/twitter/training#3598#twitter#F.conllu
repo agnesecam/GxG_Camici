@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Immagino le minchiate che ci saranno in quella lettera.
+1	Immagino	Immagiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	minchiate	minchiata	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+6	saranno	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	lettera	lettera	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Con quello che resta Giorgio ne farà un sigaro.
+1	Con	con	ADP	E	_	2	case	_	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	Giorgio	Giorgio	PROPN	SP	_	4	nsubj	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sigaro	sigaro	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

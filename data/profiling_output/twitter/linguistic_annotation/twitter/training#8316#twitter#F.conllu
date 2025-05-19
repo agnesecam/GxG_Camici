@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Storace_Roma dunque ..dovremmo sopportarli?
+1	@Storace_Roma	@Storace_Romare	ADV	B	_	4	advmod	_	_
+2	dunque	dunque	ADV	B	_	4	advmod	_	_
+3	..dovremmo	..dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4-5	sopportarli	_	_	_	_	_	_	_	SpaceAfter=No
+4	sopportar	sopportare	VERB	V	VerbForm=Inf	0	root	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+6	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...io nn li rispetto affatto.
+1	...io	...iare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	nn	nno	NUM	N	NumType=Card	1	nummod	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+4	rispetto	rispetto	ADV	B	_	5	advmod	_	_
+5	affatto	affatto	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

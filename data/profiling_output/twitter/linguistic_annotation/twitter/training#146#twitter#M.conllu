@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Andrea_Romizi Andrea perché permette di fare quei tubi rossi dall'emisfero al cimitero è uno schifo
+1	@Andrea_Romizi	@Andrea_Romizi	ADP	E	_	2	case	_	_
+2	Andrea	Andrea	PROPN	SP	_	4	obl	_	_
+3	perché	perché	SCONJ	CS	_	4	mark	_	_
+4	permette	permettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+8	tubi	tubo	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	rossi	rosso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	_
+10-11	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+10	da	da	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	emisfero	emisfero	NOUN	S	Gender=Masc|Number=Sing	9	obl:agent	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	cimitero	cimitero	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

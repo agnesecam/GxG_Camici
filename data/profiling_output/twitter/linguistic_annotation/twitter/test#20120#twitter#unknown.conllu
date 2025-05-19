@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FabryDeGe se stavate in un'altra nazione a quest'ora non esistevate più, vi radiavano cojone
+1	@FabryDeGe	@FabryDeGe	ADV	B	_	16	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	stavate	stavare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	16	advcl	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+6	altra	altro	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	nazione	nazione	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	quest'	questo	DET	DD	Number=Sing|PronType=Dem	10	det	_	SpaceAfter=No
+10	ora	ora	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	esistevate	esistevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+13	più	più	ADV	B	_	12	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	3	punct	_	_
+15	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	radiavano	radiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+17	cojone	cojone	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MonicaRBedana facciamolo sapere a tutti, quanto ci piacciono.
+1	@MonicaRBedana	@MonicaRBedana	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obj	_	_
+2-3	facciamolo	_	_	_	_	_	_	_	_
+2	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	sapere	sapere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	quanto	quanto	ADV	B	_	10	advmod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+10	piacciono	piacere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Assai .
+1	Assai	assai	ADV	B	_	0	root	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

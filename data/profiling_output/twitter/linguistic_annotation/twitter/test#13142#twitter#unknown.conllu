@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DecarliLeonardo il mio vibra a caso (è un LG) da parecchi giorni
+1	@DecarliLeonardo	@DecarliLeonardare	ADP	E	_	4	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	vibra	vibra	NOUN	S	Gender=Masc	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	caso	caso	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	LG	Lg	PROPN	SP	_	4	appos	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	10	punct	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	14	det	_	_
+14	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpacesAfter=\n
+

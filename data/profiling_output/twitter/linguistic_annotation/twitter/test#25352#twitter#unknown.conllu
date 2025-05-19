@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ilsole24ore Il virus per Mac debellato in tempo:
+1	#ilsole24ore	#ilsole24ore	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	virus	virus	NOUN	S	Gender=Masc	0	root	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	Mac	Mac	PROPN	SP	_	3	nmod	_	_
+6	debellato	debellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = meno di 6.500 i computer Apple infettati.
+1	meno	meno	ADV	B	_	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	6.500	6.500	NUM	N	NumType=Card	1	nummod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	computer	computer	NOUN	S	Gender=Masc	1	nmod	_	_
+6	Apple	Apple	PROPN	SP	_	5	nmod	_	_
+7	infettati	infettare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Su Windows furono 2... http:// ow.ly/3cbY9f
+1	Su	su	ADP	E	_	2	case	_	_
+2	Windows	Windows	PROPN	SP	_	4	obl	_	_
+3	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	2...	2.	NOUN	S	_	0	root	_	_
+5	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	_
+8	ow.ly/3cbY9f	ow.ly/3cbY9f	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

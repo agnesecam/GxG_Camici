@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mannaggiaipuffy ti si è visto finalmente, sei bellissimo come al solito puffo!
+1	@mannaggiaipuffy	@mannaggiaipuffy	CCONJ	CC	_	9	cc	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+6	finalmente	finalmente	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	_
+10	come	come	ADP	E	_	13	case	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	solito	solito	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+14	puffo	puffo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = comunque io ti voglio abbracciare forte, tu ricambi?
+1	comunque	comunque	ADV	B	_	5	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+4	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	abbracciare	abbracciare	VERB	V	VerbForm=Inf	0	root	_	_
+6	forte	forte	ADJ	A	Number=Sing	9	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	ricambi	ricambi	NOUN	S	Gender=Masc|Number=Plur	5	advcl	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = <3
+1	<3	<3	NUM	N	NumType=Range	0	root	_	SpacesAfter=\n
+

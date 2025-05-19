@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io e @gimmicristoni brutalmente respinti come se fossimo degli appestati #mainagioia pic.twitter.com/iNUHiHpGCA
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	@gimmicristoni	@gimmicristone	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+4	brutalmente	brutalmente	ADV	B	_	5	advmod	_	_
+5	respinti	respingere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+6	come	come	ADV	B	_	11	advmod	_	_
+7	se	se	SCONJ	CS	_	11	mark	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	_
+9-10	degli	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	appestati	appestato	NOUN	S	Gender=Masc|Number=Plur	5	advcl	_	_
+12	#mainagioia	#mainagioio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	pic.twitter.com/iNUHiHpGCA	pic.twitter.com/iNUHiHpGCA	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

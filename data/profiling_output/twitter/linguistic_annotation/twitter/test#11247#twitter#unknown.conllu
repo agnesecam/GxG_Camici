@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @piero_barone senza mandarti la buonanotte non avrei potuto stare ,,,o dormire ,,bona notti
+1	@piero_barone	@piero_barone	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+2	senza	senza	ADP	E	_	3	case	_	_
+3	mandarti	mandarto	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	buonanotte	buonanotta	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	aux	_	_
+9	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+10	,	,	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	,,o	,,o	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+12	dormire	dormire	VERB	V	VerbForm=Inf	11	xcomp	_	_
+13	,	,	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+14	,bona	,bonare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
+15	notti	notte	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GiamFalasca ma poi cosa facevamo fare a caf, sindacati....??
+1	@GiamFalasca	@GiamFalasca	ADV	B	_	5	advmod	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	poi	poi	ADV	B	_	5	advmod	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	nsubj	_	_
+5	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	caf	caf	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	sindacati....	sindacati..	NOUN	S	Gender=Masc|Number=Sing	8	compound	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = @AMorzenti @ziozetti @morzentistefano @DslLorenzo
+1	@AMorzenti	@AMorzento	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	@ziozetti	@ziozetto	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	@morzentistefano	@morzentistefare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	@DslLorenzo	@DslLorenzo	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

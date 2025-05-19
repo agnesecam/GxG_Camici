@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma che bad luck!
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	che	che	DET	DQ	PronType=Int	3	det	_	_
+3	bad	bad	NOUN	S	_	0	root	_	_
+4	luck	luck	ADJ	A	_	3	amod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = I Coyotes avevano fatto una totale IDIOZIA!
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Coyotes	Coyotes	PROPN	SP	_	4	nsubj	_	_
+3	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	totale	totale	ADJ	A	Number=Sing	7	amod	_	_
+7	IDIOZIA	IDIOZIA	PROPN	SP	_	4	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = #ARIvsSTL
+1	#ARIvsSTL	#ARIvsSTL	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

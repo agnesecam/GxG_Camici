@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Guardo la videochat del tg1 e scorre benissimo ...con Marco è sempre un parto podalico.
+1	Guardo	guardare	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	videochat	videochat	NOUN	S	_	15	obl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tg1	tg1	NUM	N	NumType=Card	3	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	scorre	scorrere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	benissimo	bene	ADV	B	Degree=Abs	8	advmod	_	_
+10	...con	...con	ADP	E	_	11	case	_	_
+11	Marco	Marco	PROPN	SP	_	8	obl	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	sempre	sempre	ADV	B	_	15	advmod	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	parto	parto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+16	podalico	podalico	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = Ho ben capito che il server non ce la fa a reggerci
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ben	bene	ADV	B	_	3	advmod	_	_
+3	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	10	mark	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	server	server	NOUN	S	Number=Sing	10	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+8	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+9	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12-13	reggerci	_	_	_	_	_	_	_	SpacesAfter=\n
+12	regger	reggere	VERB	V	VerbForm=Inf	10	ccomp	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @raffaelebarki il guanto è un segno di riconoscimento, subito trasmesso da tutte le televisioni.
+1	@raffaelebarki	@raffaelebarko	NOUN	S	Number=Plur	3	nmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	guanto	guanto	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	segno	segno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	riconoscimento	riconoscimento	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	subito	subito	ADV	B	_	11	advmod	_	_
+11	trasmesso	trasmettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+12	da	da	ADP	E	_	15	case	_	_
+13	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	15	det:predet	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	televisioni	televisione	NOUN	S	Gender=Fem|Number=Plur	11	obl:agent	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Dunque , i due non si sono fatti saltare.
+1	Dunque	dunque	ADV	B	_	8	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	due	due	NUM	N	NumType=Card	8	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+7	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+9	saltare	saltare	VERB	V	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

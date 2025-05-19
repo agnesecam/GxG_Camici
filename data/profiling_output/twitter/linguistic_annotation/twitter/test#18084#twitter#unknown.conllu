@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi defollowate e mi viene da chiedervi perché avevate iniziato a seguirmi allora.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	defollowate	defolloware	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7-8	chiedervi	_	_	_	_	_	_	_	_
+7	chieder	chiedere	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	vi	vi	ADV	B	_	7	advmod	_	_
+9	perché	perché	SCONJ	CS	_	11	mark	_	_
+10	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	iniziato	iniziare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13-14	seguirmi	_	_	_	_	_	_	_	_
+13	seguir	seguire	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+15	allora	allora	ADV	B	_	13	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jose_neumanne Esse Neumanne me representa.
+1	@jose_neumanne	@jose_neumanne	ADP	E	_	2	case	_	_
+2	Esse	Esse	PROPN	SP	_	5	obl	_	_
+3	Neumanne	Neumanne	PROPN	SP	_	2	flat:name	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	representa	representare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

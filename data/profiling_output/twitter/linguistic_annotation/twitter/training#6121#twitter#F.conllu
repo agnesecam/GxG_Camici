@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @carlucci_cc @beppe_grillo Grazie agli USA, di cui siamo, come si dice sempre in TV, i migliori amici!
+1	@carlucci_cc	@carlucci_ccetera	ADV	B	_	3	advmod	_	_
+2	@beppe_grillo	@beppe_grillo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Grazie	grazie	NOUN	S	_	0	root	_	_
+4-5	agli	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	USA	USA	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	cui	cui	PRON	PR	PronType=Rel	10	obl	_	_
+10	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	come	come	SCONJ	CS	_	14	mark	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl:impers	_	_
+14	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+15	sempre	sempre	ADV	B	_	14	advmod	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	TV	TV	PROPN	SP	_	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	3	punct	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+20	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	21	amod	_	_
+21	amici	amico	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Figuriamoci se fossimo i peggiori.
+1-2	Figuriamoci	_	_	_	_	_	_	_	_
+1	Figuriamo	figurare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	obj	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	peggiori	peggiore	NOUN	S	Gender=Masc|Number=Plur	1	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

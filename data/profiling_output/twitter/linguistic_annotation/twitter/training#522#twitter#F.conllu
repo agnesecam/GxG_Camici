@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pomeriggio5 ne avessimo delle @carmelitdurso e @mariadefilippi regine dell amore e mai dell odio
+1	@pomeriggio5	@pomeriggio5	NUM	N	NumType=Card	3	nummod	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	@carmelitdurso	@carmelitdurso	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	@mariadefilippi	@mariadefilippo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+9	regine	regine	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+10	dell	dell	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	amore	amore	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	mai	mai	ADV	B	_	15	advmod	_	_
+14	dell	dell	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	odio	odio	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ora Renzi dovrà rendere conto di certo scandali ai propri elettori.
+1	Ora	ora	ADV	B	_	4	advmod	_	_
+2	Renzi	Renzi	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	rendere	rendere	VERB	V	VerbForm=Inf	0	root	_	_
+5	conto	conto	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	certo	certo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	scandali	scandale	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	propri	proprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	elettori	elettore	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ah, non ha avuto elettori?
+1	Ah	ah	INTJ	I	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	elettori	elettore	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Ops... #RenzieBoschiACasa
+1	Ops...	Ops...	PROPN	SP	_	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	RenzieBoschiACasa	RenzieBoschiACasa	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

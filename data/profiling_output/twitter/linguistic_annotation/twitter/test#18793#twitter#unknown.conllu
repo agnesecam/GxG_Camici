@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Pao_LOST @Tremenoventi Beh fate un po' ciascuno , dai...senza litigare...
+1	@Pao_LOST	@pao_lost	PROPN	SP	_	4	nsubj	_	_
+2	@Tremenoventi	@Tremenovente	PROPN	SP	_	1	flat:name	_	_
+3	Beh	beh	PROPN	SP	_	1	flat:name	_	_
+4	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	po'	poco	ADV	B	_	4	advmod	_	_
+7	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	dai...senza	dai...senza	ADP	E	_	10	case	_	_
+10	litigare..	litigare..	NOUN	S	_	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

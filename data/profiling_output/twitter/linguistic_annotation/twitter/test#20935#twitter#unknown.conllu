@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @andreberico invece le tue convinzioni e la tua accusa di eresia dimostrano che saresti pronto a uccidermi, se la legge lo consentisse
+1	@andreberico	@andreberico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	invece	invece	ADV	B	_	1	advmod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	convinzioni	convinzione	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	accusa	accusa	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	eresia	eresia	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	dimostrano	dimostrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+13	che	che	SCONJ	CS	_	15	mark	_	_
+14	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	pronto	pronto	ADJ	A	Gender=Masc|Number=Sing	12	ccomp	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17-18	uccidermi	_	_	_	_	_	_	_	SpaceAfter=No
+17	uccider	uccidere	VERB	V	VerbForm=Inf	15	advcl	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	obj	_	_
+19	,	,	PUNCT	FF	_	17	punct	_	_
+20	se	se	SCONJ	CS	_	24	mark	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	legge	legge	NOUN	S	Gender=Fem|Number=Sing	24	nsubj	_	_
+23	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+24	consentisse	consentire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	SpacesAfter=\n
+

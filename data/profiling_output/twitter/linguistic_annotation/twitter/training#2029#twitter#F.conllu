@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel 1929 si avviano le trattative per far acquistare la croce dallo Stato #SlowArtDay2016 #vitaopere pic.twitter.com/xPSMG93hr7
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	1929	1929	NUM	N	NumType=Card	5	obl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:pass	_	_
+5	avviano	avviare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	trattative	trattativa	NOUN	S	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	far	fare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	acquistare	acquistare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	croce	croce	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13-14	dallo	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Stato	stato	PROPN	SP	_	10	obl	_	_
+16	#SlowArtDay2016	#SlowArtDay2016	PROPN	SP	_	17	obj	_	_
+17	#vitaopere	#vitaopere	VERB	V	VerbForm=Inf	18	acl	_	_
+18	pic.twitter.com/xPSMG93hr7	pic.twitter.com/xPSMG93hr7	PROPN	SP	_	10	xcomp	_	SpacesAfter=\n
+

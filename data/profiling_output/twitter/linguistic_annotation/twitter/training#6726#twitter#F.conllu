@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SalvatoFederico quelle carte che tu non vuoi leggere e parli solo per sentito dire sono fatte con tante inesattezze che nemmeno ti immagini
+1	@SalvatoFederico	@SalvatoFederico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	parataxis	_	_
+2	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
+3	carte	cartire	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+5	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	leggere	leggere	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10-11	parli	_	_	_	_	_	_	_	_
+10	par	parre	VERB	V	VerbForm=Inf	8	conj	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+12	solo	solo	ADV	B	_	14	advmod	_	_
+13	per	per	ADP	E	_	14	mark	_	_
+14	sentito	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+15	dire	dire	VERB	V	VerbForm=Inf	14	xcomp	_	_
+16	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+17	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	20	det	_	_
+20	inesattezze	inesattezza	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	_
+21	che	che	PRON	PR	PronType=Rel	24	nsubj	_	_
+22	nemmeno	nemmeno	ADV	BN	PronType=Neg	24	advmod	_	_
+23	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	24	expl	_	_
+24	immagini	immagine	NOUN	S	Gender=Fem|Number=Plur	20	acl:relcl	_	SpacesAfter=\n
+

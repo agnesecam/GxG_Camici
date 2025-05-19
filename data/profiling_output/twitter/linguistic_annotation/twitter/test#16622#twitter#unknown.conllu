@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'arroganza di #Vespa e della #Rai nel dare voce al figlio di un assassino,dimenticando quante persone ancora oggi piangono i loro cari.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	arroganza	arroganza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	#Vespa	#Vespa	PROPN	SP	_	2	nmod	_	_
+5	e	e	CCONJ	CC	_	9	cc	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	Rai	Rai	PROPN	SP	_	4	conj	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	dare	dare	VERB	V	VerbForm=Inf	2	nmod	_	_
+13	voce	voce	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+14-15	al	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	assassino	assassino	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+21	dimenticando	dimenticare	VERB	V	VerbForm=Ger	12	advcl	_	_
+22	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	23	det	_	_
+23	persone	persona	NOUN	S	Gender=Fem|Number=Plur	26	nsubj	_	_
+24	ancora	ancora	ADV	B	_	25	advmod	_	_
+25	oggi	oggi	ADV	B	_	26	advmod	_	_
+26	piangono	piangere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	_
+27	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+28	loro	loro	DET	AP	Poss=Yes|PronType=Prs	29	det:poss	_	_
+29	cari	caro	NOUN	S	Gender=Masc|Number=Plur	26	obj	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

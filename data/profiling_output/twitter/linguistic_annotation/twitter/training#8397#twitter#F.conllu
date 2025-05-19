@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E' un alimento che piace a molti ma che pochi sanno fare...
+1	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	alimento	alimento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+8	ma	ma	CCONJ	CC	_	11	cc	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	obj	_	_
+11	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12	fare...	fare.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = dunque bisogna andare a mangiarlo fuori.
+1	dunque	dunque	ADV	B	_	2	advmod	_	_
+2	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	andare	andare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5-6	mangiarlo	_	_	_	_	_	_	_	_
+5	mangiar	mangiare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	fuori	fuori	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Eppure è un... http:// fb.me/4EFdRoRYM
+1	Eppure	eppure	CCONJ	CC	_	3	cc	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	un...	un...	NOUN	S	_	0	root	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	_
+7	fb.me/4EFdRoRYM	fb.me/4EFdRoRYM	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

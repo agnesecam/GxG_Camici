@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = studio pubblicato su #nature :I poli della Luna sono 'vagabondi', mutato l'asse di rotazione....
+1	studio	studio	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+2	pubblicato	pubblicare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+3	su	su	ADP	E	_	4	case	_	_
+4	#nature	#natura	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+5	:I	:I	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	poli	pole	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Luna	Luna	PROPN	SP	_	6	nmod	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	'	'	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	vagabondi	vagabondo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+13	'	'	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	12	punct	_	_
+15	mutato	mutare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	asse	asse	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	rotazione...	rotazione...	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = dunque non è colpa nostra se siamo lunatiche
+1	dunque	dunque	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	lunatiche	lunatico	ADJ	A	Gender=Fem|Number=Plur	4	advcl	_	SpacesAfter=\n
+

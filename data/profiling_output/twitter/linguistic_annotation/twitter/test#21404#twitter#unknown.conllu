@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Lorilo_ @famedalupi @MetaErmal @realmoreno_mc @AntonioMaggios @mescalofficial quanto è sciccoso il nostro CB che starà dicendo...?
+1	@Lorilo_	@Lorilo-	PUNCT	FB	_	3	punct	_	_
+2	@famedalupi	@famedalupo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	@MetaErmal	@MetaErmal	PROPN	SP	_	0	root	_	_
+4	@realmoreno_mc	@realmoreno_mc	X	SW	Foreign=Yes	7	nmod	_	_
+5	@AntonioMaggios	@AntonioMaggios	X	SW	Foreign=Yes	4	flat:foreign	_	_
+6	@mescalofficial	@mescalofficial	ADJ	A	Number=Sing	4	amod	_	_
+7	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	3	nmod	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	sciccoso	sciccoso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	CB	CB	PROPN	SP	_	9	nsubj:pass	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	acl:relcl	_	_
+15	dicendo...	dicendo.	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

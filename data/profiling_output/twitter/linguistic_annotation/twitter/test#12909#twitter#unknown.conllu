@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un tempo pensavo che gli DEI avessero bevuto il siero dell'immortalità:
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+3	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6-7	DEI	_	_	_	_	_	_	_	_
+6	DI	Di	PROPN	SP	_	9	nsubj	_	_
+7	I	europeo	ADJ	NO	Number=Sing|NumType=Ord	6	amod	_	_
+8	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	bevuto	bere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	siero	siero	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12-13	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+12	di	di	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	immortalità	immortalità	NOUN	S	Gender=Fem	11	nmod	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = poi sono morti #DavidBowie e #Cruyff
+1	poi	poi	ADV	B	_	3	advmod	_	_
+2	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	morti	morire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	DavidBowie	DavidBowie	PROPN	SP	_	3	nsubj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	#Cruyff	#Cruyff	PROPN	SP	_	5	conj	_	SpacesAfter=\n
+

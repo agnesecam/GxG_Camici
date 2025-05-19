@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NoiMilano2016 meglio per noi !
+1	@NoiMilano2016	@NoiMilano2016	SYM	X	_	0	root	_	_
+2	meglio	meglio	ADV	B	_	1	advmod	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	nmod	_	_
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il flop di Passera come ministro dello sviluppo economico farà perdere voti a Parisi
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	flop	flop	NOUN	S	Gender=Masc	11	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Passera	Passera	PROPN	SP	_	2	nmod	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7-8	dello	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sviluppo	sviluppo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	economico	economico	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	perdere	perdere	VERB	V	VerbForm=Inf	11	xcomp	_	_
+13	voti	voto	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	Parisi	Parisi	PROPN	SP	_	12	obl	_	SpacesAfter=\n
+

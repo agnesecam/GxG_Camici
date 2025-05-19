@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non so se avevate già visto questa cosa ma io sto ridendo come una matta AHAHAHAH @Benji_Mascolo @fedefederossi pic.twitter.com/J0ZarTwQ6R
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+5	già	già	ADV	B	_	6	advmod	_	_
+6	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+11	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	ridendo	ridire	VERB	V	VerbForm=Ger	6	conj	_	_
+13	come	come	ADP	E	_	15	case	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	matta	matta	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+16	AHAHAHAH	AHAHAHAH	PROPN	SP	_	15	nmod	_	_
+17	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	16	flat:name	_	_
+18	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	_
+19	pic.twitter.com/J0ZarTwQ6R	pic.twitter.com/J0ZarTwQ6R	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

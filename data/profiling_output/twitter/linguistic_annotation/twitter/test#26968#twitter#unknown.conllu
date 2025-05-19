@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ahimè non si è mai voluto ascoltare la natura @GiaSilvestrini @FranFerrante @wganapini @elencomelli @vittoriozucconi https:// twitter.com/Eco_Connection /status/712298894026219520 …
+1	Ahimè	ahimè	INTJ	I	_	7	discourse	_	_
+2	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:pass	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	mai	mai	ADV	B	_	7	advmod	_	_
+6	voluto	volere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux	_	_
+7	ascoltare	ascoltare	VERB	V	VerbForm=Inf	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	natura	natura	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	@GiaSilvestrini	@GiaSilvestrini	PROPN	SP	_	9	nmod	_	_
+11	@FranFerrante	@FranFerrante	PROPN	SP	_	10	flat:name	_	_
+12	@wganapini	@wganapino	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+13	@elencomelli	@elencomello	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14	@vittoriozucconi	@vittoriozuccone	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	_
+15	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	_
+18	twitter.com/Eco_Connection	twitter.com/Eco_Connection	PROPN	SP	_	13	nmod	_	_
+19	/status/712298894026219520	/status/712298894026219520	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

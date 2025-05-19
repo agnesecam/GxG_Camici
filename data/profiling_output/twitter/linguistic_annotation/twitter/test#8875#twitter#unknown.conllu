@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alla Camera l'ultimo sfregio a Regeni:
+1-2	Alla	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Camera	Camera	PROPN	SP	_	6	nmod	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+5	ultimo	ultimo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	sfregio	sfregio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Regeni	Regeno	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = aula vuota, non c'è neppure la Boldrini http://www.
+1	aula	aula	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+2	vuota	vuoto	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	neppure	neppure	ADV	BN	PronType=Neg	6	advmod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Boldrini	Boldrini	PROPN	SP	_	6	nsubj	_	_
+10	http://www	http://www	NOUN	S	_	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = ilforumditutti.net/t6069-alla-cam era-l-ultimo-sfregio-a-regeni-aula-vuota-non-c-e-neppure-la-boldrini#39547 …
+1	ilforumditutti.net/t6069-alla-cam	ilforumditutti.net/t6069-alla-cam	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	l-	_	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	ultimo	ultimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	sfregio	sfregio	NOUN	S	Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	a-regeni-aula-vuota	a-regeni-aula-vuotare	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	SpaceAfter=No
+10	-non	-non	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+11	-	-	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	c	c	NOUN	S	_	7	nmod	_	SpaceAfter=No
+13	-	-	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+14	e-	_	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+15	neppure-la	neppure-la	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	boldrini#39547	boldrini#39547	NUM	N	NumType=Card	15	compound	_	_
+18	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

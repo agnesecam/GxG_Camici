@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non siamo mai così importanti come ci fanno sembrare ... #buonanotte #buonanotteaisognatori pic.twitter.com/uqptkiQVWW
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	mai	mai	ADV	B	_	5	advmod	_	_
+4	così	così	ADV	B	_	5	advmod	_	_
+5	importanti	importante	ADJ	A	Number=Plur	0	root	_	_
+6	come	come	SCONJ	CS	_	8	mark	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	...	...	PUNCT	FF	_	5	punct	_	_
+11	#buonanotte	#buonanurre	NUM	N	NumType=Card	12	nummod	_	_
+12	#buonanotteaisognatori	#buonanotteaisognatore	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
+13	pic.twitter.com/uqptkiQVWW	pic.twitter.com/uqptkiQVWW	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

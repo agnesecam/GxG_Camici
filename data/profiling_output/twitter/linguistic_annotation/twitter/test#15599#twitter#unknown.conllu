@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se un giorno, dopo una lobotomia, dovessi sposarmi non userei nessun mezzo di trasporto, me la farei a piedi, in... http:// fb.me/YUBA25Hu
+1	Se	se	SCONJ	CS	_	10	mark	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	dopo	dopo	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	lobotomia	lobotomia	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	dovessi	dovesso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+10	sposarmi	arma|sposarme	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	userei	usare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	nessun	nessun	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+14	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	trasporto	trasporto	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	expl	_	_
+19	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+20	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	24	punct	_	_
+24	in...	in.	PUNCT	FS	_	12	punct	_	_
+25	http:	http:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	12	punct	_	_
+28	fb.me/YUBA25Hu	fb.me/YUBA25Hu	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

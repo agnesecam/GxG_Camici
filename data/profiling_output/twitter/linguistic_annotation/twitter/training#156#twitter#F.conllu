@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma si può avere così tanto sonno a quest'ora?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+5	così	così	ADV	B	_	4	advmod	_	_
+6	tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	sonno	sonno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	quest'	questo	DET	DD	Number=Sing|PronType=Dem	10	det	_	SpaceAfter=No
+10	ora	ora	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Perché ho 80 anni inside?
+1	Perché	perché	ADV	B	_	2	advmod	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	80	80	NUM	N	NumType=Card	4	nummod	_	_
+4	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	inside	insido	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

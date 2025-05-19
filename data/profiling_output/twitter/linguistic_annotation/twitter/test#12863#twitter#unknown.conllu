@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E se avessero avuto ragione i neocon?
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	neocon	neocon	NOUN	S	Gender=Fem	4	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = diggita.it/v.php?id=15269 73#.VvWOReTcqcA.twitter …
+1	diggita.it/v.php?id=15269	diggita.it/v.php?id=15269	NUM	N	NumType=Card	4	nummod	_	_
+2	73	73	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	.VvWOReTcqcA.twitter	.VvWOReTcqcA.twitter	PROPN	SP	_	0	root	_	_
+5	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

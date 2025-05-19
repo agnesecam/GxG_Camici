@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutti possono dire qualunque cosa ma la sbroccata di Higuain non ha scuse, merita le giornate che gli daranno.
+1	Tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
+2	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+4	qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	sbroccata	sbroccata	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Higuain	Higuain	PROPN	SP	_	8	nmod	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	scuse	scudere	NOUN	S	Gender=Fem	12	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	merita	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	giornate	giornata	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	iobj	_	_
+20	daranno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	17	acl:relcl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Viene giustificato solo.....
+1	Viene	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
+2	giustificato	giustificato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	solo.....	solo...	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

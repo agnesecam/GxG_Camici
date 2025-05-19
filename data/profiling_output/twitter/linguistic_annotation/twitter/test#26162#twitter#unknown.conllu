@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È alzandoti alle 6 per essere in aeroporto alle 7 per partire alle 8 che capisci l'importanza di possedere un aereo privato.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	alzandoti	_	_	_	_	_	_	_	_
+2	alzando	alzare	VERB	V	VerbForm=Ger	0	root	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+4-5	alle	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	6	6	NUM	N	NumType=Card	2	nummod	_	_
+7	per	per	ADP	E	_	10	mark	_	_
+8	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	aeroporto	aeroporto	NOUN	S	Gender=Masc|Number=Sing	2	advcl	_	_
+11-12	alle	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	7	7	NUM	N	NumType=Card	15	obl	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	partire	partire	VERB	V	VerbForm=Inf	10	advcl	_	_
+16-17	alle	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	8	8	NUM	N	NumType=Card	15	obl	_	_
+19	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+20	capisci	capire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
+22	importanza	importanza	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
+23	di	di	ADP	E	_	24	mark	_	_
+24	possedere	possedere	VERB	V	VerbForm=Inf	20	xcomp	_	_
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	aereo	aereo	NOUN	S	Gender=Masc|Number=Sing	24	obj	_	_
+27	privato	privato	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

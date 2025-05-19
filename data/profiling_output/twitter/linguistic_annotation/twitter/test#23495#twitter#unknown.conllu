@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...pascere la chiesa di Dio, che egli ha acquistata col proprio sangue.
+1	...pascere	...pascere	VERB	V	VerbForm=Inf	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	chiesa	chiesa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Dio	dio	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+8	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	acquistata	acquistare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+11-12	col	_	_	_	_	_	_	_	_
+11	con	con	ADP	E	_	14	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	sangue	sangue	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Atti 20,28 Dio ha versato il suo sangue per noi.
+1	Atti	atto	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	20,28	20,28	NUM	N	NumType=Card	3	nummod	_	_
+3	Dio	dio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	versato	versare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	sangue	sangue	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Grande amore.
+1	Grande	grande	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	amore	amore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

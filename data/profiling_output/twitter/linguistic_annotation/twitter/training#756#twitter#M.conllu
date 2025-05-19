@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @merimond1 magari, se avessimo un popolo sveglio in cui innescarla....
+1	@merimond1	@merimond1	NUM	N	NumType=Card	2	nummod	_	_
+2	magari	magari	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	sveglio	sveglio	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	cui	cui	PRON	PR	PronType=Rel	7	nmod	_	_
+11	innescarla...	innescarla.	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

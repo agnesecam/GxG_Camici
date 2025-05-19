@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se siamo invasi da nuovi islamici che genereranno figli FORSE SAREMO ANCHE NOI IN PERICOLO AVREMO TERRORISTI CHE CI ODIERANNO COME IN BERGIO
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	invasi	invanere	ADJ	A	Number=Sing	0	root	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	nuovi	nuovo	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	islamici	islamico	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	genereranno	generare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_
+9	figli	figlio	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	FORSE	Forso	NOUN	S	Gender=Masc	8	obj	_	_
+11	SAREMO	essere	PROPN	SP	_	10	nmod	_	_
+12	ANCHE	anche	PROPN	SP	_	11	flat:name	_	_
+13	NOI	No	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	IN	In	PROPN	SP	_	12	flat:name	_	_
+15	PERICOLO	pericolo	PROPN	SP	_	14	flat:name	_	_
+16	AVREMO	avere	PROPN	SP	_	14	flat:name	_	_
+17	TERRORISTI	terroristi	PROPN	SP	_	14	flat:name	_	_
+18	CHE	che	PROPN	SP	_	14	flat:name	_	_
+19	CI	ci	PROPN	SP	_	14	nmod	_	_
+20	ODIERANNO	ODIERANNO	PROPN	SP	_	19	flat:name	_	_
+21	COME	come	PROPN	SP	_	19	flat:name	_	_
+22	IN	in	PROPN	SP	_	19	flat:name	_	_
+23	BERGIO	BERGIO	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

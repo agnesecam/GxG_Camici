@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @11Giovan Bravo!
+1	@11Giovan	@11Giovan	PROPN	SP	_	0	root	_	_
+2	Bravo	bravo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !Se lo avessimo per le ultime 8 partite sarebbero 24 punti sicuri,altro che pippe.
+1	!Se	!Se	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	per	per	ADP	E	_	8	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+6	ultime	ultimo	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	8	amod	_	_
+7	8	8	NUM	N	NumType=Card	8	nummod	_	_
+8	partite	partita	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+9	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	24	24	NUM	N	NumType=Card	11	nummod	_	_
+11	punti	punto	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+12	sicuri,altro	sicuri,altro	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	che	che	PRON	PR	PronType=Rel	14	case	_	_
+14	pippe.	pippe.	NOUN	S	_	11	acl:relcl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domani arriva la Ludo, la sera andiamo a vedere BvS, starà da me per 4 giorni e io non ho ancora realizzato nessuna di queste cose
+1	Domani	Domani	ADV	B	_	2	advmod	_	_
+2	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Ludo	Ludo	PROPN	SP	_	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sera	sera	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+8	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	vedere	vedere	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	BvS	BvS	PROPN	SP	_	10	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	obl	_	_
+16	per	per	ADP	E	_	18	case	_	_
+17	4	4	NUM	N	NumType=Card	18	nummod	_	_
+18	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+19	e	e	CCONJ	CC	_	24	cc	_	_
+20	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+21	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+22	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	aux	_	_
+23	ancora	ancora	ADV	B	_	24	advmod	_	_
+24	realizzato	realizzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+25	nessuna	nessuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	24	obj	_	_
+26	di	di	ADP	E	_	28	case	_	_
+27	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	28	det	_	_
+28	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	25	nmod	_	SpacesAfter=\n
+

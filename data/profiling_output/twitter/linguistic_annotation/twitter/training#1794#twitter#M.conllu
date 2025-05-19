@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La fusione delle nostre anime e dei nostri corpi daranno vita a nuova vita e insieme saremo invincibili #continuando pic.twitter.com/bVCQ4DNuJW
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	fusione	fusione	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+3-4	delle	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	anime	anima	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	corpi	corpo	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+12	daranno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+13	vita	vita	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	vita	vita	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+17	e	e	CCONJ	CC	_	20	cc	_	_
+18	insieme	insieme	ADV	B	_	20	advmod	_	_
+19	saremo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	20	cop	_	_
+20	invincibili	invincibili	ADJ	A	Number=Plur	12	conj	_	_
+21	#continuando	#continuare	VERB	V	VerbForm=Ger	20	advcl	_	_
+22	pic.twitter.com/bVCQ4DNuJW	pic.twitter.com/bVCQ4DNuJW	PROPN	SP	_	21	obj	_	SpacesAfter=\n
+

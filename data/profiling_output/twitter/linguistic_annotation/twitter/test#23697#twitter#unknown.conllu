@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “@erotico2015:
+1	“	“	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	@erotico2015	@erotico2015	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Io stocazzo , tu stocazzi, egli stocazza, noi stocazziamo, voi stocazzate, ....
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	stocazzo	stocazzo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	stocazzi	stocazzare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	egli	ello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+8	stocazza	stocazza	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+11	stocazziamo	stocazzare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_
+14	stocazzate	stocazzare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	2	punct	_	_
+16	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Sorridiamo!!! pic.twitter.com/nSkKzW0ZTX
+1	Sorridiamo	Sorridare	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!!	!!	PUNCT	FF	_	1	punct	_	_
+4	pic.twitter.com/nSkKzW0ZTX	pic.twitter.com/nSkKzW0ZTX	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

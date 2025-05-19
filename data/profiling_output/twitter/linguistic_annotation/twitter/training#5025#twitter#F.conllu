@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #MarioFrancese fu il primo a scrivere di totò riina.Per questo venne ucciso dal cognato,sotto casa,con 6 colpi di pistola.
+1	#MarioFrancese	#MarioFranceso	ADJ	A	Number=Sing	0	root	_	_
+2	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	1	nsubj	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	scrivere	scrivere	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	totò	totare	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	_
+9	riina.Per	riina.Per	ADP	E	_	10	case	_	_
+10	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obl	_	_
+11	venne	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
+12	ucciso	uccidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+13-14	dal	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	cognato,sotto	cognato,sotto	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	_
+16	casa,con	casa,con	ADP	E	_	18	case	_	_
+17	6	6	NUM	N	NumType=Card	18	nummod	_	_
+18	colpi	colpo	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	pistola	pistola	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #iononperdono
+1	#iononperdono	#iononperdere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

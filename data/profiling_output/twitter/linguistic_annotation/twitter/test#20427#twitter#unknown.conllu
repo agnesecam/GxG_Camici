@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " Dovunque lei era, là era l'Eden" [Adamo] #FestaDellaDonna
+1	"	"	PUNCT	FB	_	9	punct	_	_
+2	Dovunque	dovunque	ADV	B	_	9	advmod	_	_
+3	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+4	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	là	là	ADV	B	_	9	advmod	_	_
+7	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	Eden	Eden	PROPN	SP	_	0	root	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	9	punct	_	_
+11	[	[	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	Adamo	Adamo	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+13	]	]	PUNCT	FB	_	12	punct	_	_
+14	#FestaDellaDonna	#FestaDellaDonna	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

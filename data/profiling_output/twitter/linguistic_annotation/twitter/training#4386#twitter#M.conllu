@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma haryanto ha capito che dovrà correre d notte si?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	haryanto	haryanto	PRON	PR	Number=Sing|PronType=Rel	4	nsubj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	correre	correre	VERB	V	VerbForm=Inf	4	ccomp	_	_
+8	d	d	ADJ	A	_	9	amod	_	_
+9	notte	notte	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Glie lo hanno detto??
+1	Glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

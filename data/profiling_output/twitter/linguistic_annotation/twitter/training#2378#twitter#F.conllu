@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciuffetto ogni volta deve inventarsi uma trovata diversa.
+1	Ciuffetto	Ciuffetto	ADP	E	_	3	case	_	_
+2	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	volta	volta	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+4	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5-6	inventarsi	_	_	_	_	_	_	_	_
+5	inventar	inventare	VERB	V	VerbForm=Inf	0	root	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+7	uma	uma	ADV	B	_	8	advmod	_	_
+8	trovata	trovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+9	diversa	diverso	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Non c'è Nagatomo?
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Nagatomo	Nagatomo	PROPN	SP	_	3	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Buttiamo dentro l'altro cesso.
+1	Buttiamo	Buttare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dentro	dentro	ADV	B	_	1	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+4	altro	altro	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	cesso	cesso	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

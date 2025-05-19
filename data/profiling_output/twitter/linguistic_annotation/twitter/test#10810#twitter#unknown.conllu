@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #NowPlaying Piano Concerto In G, M. 83:
+1	#NowPlaying	#NowPlaying	PROPN	SP	_	0	root	_	_
+2	Piano	Piano	PROPN	SP	_	1	flat:name	_	_
+3	Concerto	concerto	PROPN	SP	_	1	flat:name	_	_
+4	In	In	PROPN	SP	_	1	flat:name	_	_
+5	G	g	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	M.	M.	PROPN	SP	_	1	nmod	_	_
+8	83	83	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = 2.
+1	2	2	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Adagio assai by Maurice Ravel http:// fb.me/7gWkbTmYa
+1	Adagio	Adagio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	assai	assai	ADV	B	_	3	advmod	_	_
+3	by	by	ADJ	A	_	1	amod	_	_
+4	Maurice	Mauore	PROPN	SP	_	1	nmod	_	_
+5	Ravel	Ravel	PROPN	SP	_	4	flat:name	_	_
+6	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	_
+9	fb.me/7gWkbTmYa	fb.me/7gWkbTmYa	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

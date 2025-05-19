@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = -padre ho peccato - cos'hai fatto figliolo?
+1	-padre	-padre	ADV	B	_	3	advmod	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	-	-	PUNCT	FB	_	7	punct	_	_
+5	cos'	cosa	PRON	PQ	Number=Sing|PronType=Int	7	obj	_	SpaceAfter=No
+6	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+8	figliolo	figliolo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj:pass	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = - sono colpevole di numerosi omicidi - cos' avranno mai fatto di male... http:// fb.me/7EQNxb77J
+1	-	-	PUNCT	FF	_	3	punct	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	colpevole	colpevole	ADJ	A	Number=Sing	17	amod	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	numerosi	numeroso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	omicidi	omicida|omicidio	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	-	-	PUNCT	FB	_	3	punct	_	_
+8	cos'	cosa	PRON	PQ	Number=Sing|PronType=Int	11	obj	_	_
+9	avranno	avere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+10	mai	mai	ADV	B	_	11	advmod	_	_
+11	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	male...	male...	NOUN	S	Gender=Masc	11	obl	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	fb.me/7EQNxb77J	fb.me/7EQNxb77J	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

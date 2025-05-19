@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #quandoavevo13anni il mio taglio di capelli faceva cagare a spruzzo.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	quandoavevo13anni	quandoavevo13anne	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	capelli	capello	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	parataxis	_	_
+9	cagare	cagare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	spruzzo	spruzzo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ecchecazzo.
+1	Ecchecazzo	Ecchecazzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

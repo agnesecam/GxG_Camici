@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Che bello avere il seno grosso come il tuo" Sì, certo.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Che	che	DET	DQ	PronType=Int	3	det	_	_
+3	bello	bello	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+4	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	seno	seno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	grosso	grosso	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	come	come	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tuo	tuo	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	4	punct	_	_
+12	Sì	sì	INTJ	I	Polarity=Pos	4	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	certo	certo	ADV	B	_	12	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Prova il mal di schiena costante, il sembrare grassa con qualsiasi cosa (continua)
+1	Prova	provare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mal	male	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	schiena	schiena	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	costante	costante	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+10	grassa	grasso	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	_
+11	con	con	ADP	E	_	13	case	_	_
+12	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+13	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+14	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	15	punct	_	SpacesAfter=\n
+

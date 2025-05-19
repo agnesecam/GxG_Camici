@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - Senti ma tu hai qualche foto della tua fidanzata nuda?
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Senti	sentire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	7	det	_	_
+7	foto	foto	NOUN	S	Gender=Fem	5	obj	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	fidanzata	fidanzato	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+12	nuda	nudo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = - No! - Ne vuoi qualcuna ?
+1	-	-	PUNCT	FF	_	6	punct	_	_
+2	No	no	INTJ	I	Polarity=Neg	6	discourse	_	SpaceAfter=No
+3	!	!	PUNCT	FF	_	2	punct	_	_
+4	-	-	PUNCT	FF	_	6	punct	_	_
+5	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	6	nsubj	_	_
+8	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

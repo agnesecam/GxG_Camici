@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Silvestro!" Chissà, 'o Pataterno mo gli starà dicendo "bravo, mi hai dato proprio una bella voce"... http:// fb.me/NgC4jTeo
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Silvestro	Silvestro	PROPN	SP	_	11	nsubj	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	5	punct	_	_
+5	Chissà	chissà	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	'o	'o	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
+8	Pataterno	Pataterno	PROPN	SP	_	7	nmod	_	_
+9	mo	mo	NOUN	S	Gender=Masc|Number=Sing	8	flat:name	_	_
+10	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+11	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	dicendo	dire	VERB	V	VerbForm=Ger	18	advcl	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	bravo	bravo	ADJ	A	Gender=Masc|Number=Sing	12	xcomp	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	12	punct	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	18	iobj	_	_
+17	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
+19	proprio	proprio	ADV	B	_	18	advmod	_	_
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	bella	bello	ADJ	A	Gender=Fem|Number=Sing	22	amod	_	_
+22	voce	voce	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+24	...	...	PUNCT	FF	_	18	punct	_	_
+25	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	18	punct	_	_
+28	fb.me/NgC4jTeo	fb.me/NgC4jTeo	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

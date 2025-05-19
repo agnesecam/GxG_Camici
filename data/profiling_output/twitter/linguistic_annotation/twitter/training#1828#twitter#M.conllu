@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La nostra gente, le nostre strade, la mia città!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	gente	gente	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	strade	strada	NOUN	S	Gender=Fem|Number=Plur	3	appos	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	città	città	NOUN	S	Gender=Fem	7	conj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/8nZ3xRzcR
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/8nZ3xRzcR	fb.me/8nZ3xRzcR	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

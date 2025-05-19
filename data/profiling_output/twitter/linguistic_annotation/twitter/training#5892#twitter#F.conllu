@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dai, ma davvero qualcuna compra la roba di Cavalli?
+1-2	Dai	_	_	_	_	_	_	_	SpaceAfter=No
+1	Da	da	ADP	E	_	6	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+3	,	,	PUNCT	FF	_	6	punct	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	davvero	davvero	ADV	B	_	6	advmod	_	_
+6	qualcuna	qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+7	compra	comprare	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	roba	roba	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Cavalli	cavalli	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = E se la mette pic.twitter.com/xfkw1KI92A
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	case	_	_
+3	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mette	mettere	NOUN	S	Gender=Fem	0	root	_	_
+5	pic.twitter.com/xfkw1KI92A	pic.twitter.com/xfkw1KI92A	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

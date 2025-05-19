@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = questa sono io ma mi fanno tutti schifo perciò datemi affetto vi scongiuro https:// twitter.com/Harry_Stylezzz a/status/714557646930632705 …
+1	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	_
+8	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	perciò	perciò	SCONJ	CS	_	10	mark	_	_
+10-11	datemi	_	_	_	_	_	_	_	_
+10	date	dare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	expl	_	_
+12	affetto	affettere	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	_
+13	vi	vi	ADV	B	_	14	advmod	_	_
+14	scongiuro	scongiuro	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+15	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	twitter.com/Harry_Stylezzz	twitter.com/Harry_Stylezzz	PROPN	SP	_	14	nmod	_	_
+19	a/status/714557646930632705	a/status/714557646930632705	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

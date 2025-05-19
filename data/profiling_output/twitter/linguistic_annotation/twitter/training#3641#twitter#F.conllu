@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ciscorosi @valy_s ora scusa ma ho altro da fare in attesa, di poter votare,appena il cazzaro di Renzi ci farà andare.
+1	@Ciscorosi	@Ciscoroso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@valy_s	@valy_s	NOUN	S	Gender=Masc	0	root	_	_
+3	ora	ora	ADV	B	_	4	advmod	_	_
+4	scusa	scusare	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	_
+8	da	da	ADP	E	_	9	mark	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	attesa	attesa	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	9	punct	_	_
+13	di	di	ADP	E	_	15	mark	_	_
+14	poter	potere	AUX	VM	VerbForm=Inf	15	aux	_	_
+15	votare	votare	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
+16	,appena	,appena	SCONJ	CS	_	22	mark	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	cazzaro	cazzaro	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	Renzi	Renzi	PROPN	SP	_	18	nmod	_	_
+21	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+22	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	ccomp	_	_
+23	andare	andare	VERB	V	VerbForm=Inf	22	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Alla prossima.
+1-2	Alla	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	prossima	proo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

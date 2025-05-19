@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ma le nostre mamme cos'hanno sempre da scrivere sui loro blog?
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Ma	ma	CCONJ	CC	_	7	cc	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	mamme	mamma	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+6	cos'	cosa	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No
+7	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sempre	sempre	ADV	B	_	7	advmod	_	_
+9	da	da	ADP	E	_	10	mark	_	_
+10	scrivere	scrivere	VERB	V	VerbForm=Inf	7	advcl	_	_
+11-12	sui	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	14	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	loro	loro	DET	AP	Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	blog	blog	NOUN	S	Gender=Fem	10	obl	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Su come vestirci uguali?
+1	Su	su	ADP	E	_	3	mark	_	_
+2	come	come	SCONJ	CS	_	1	fixed	_	_
+3-4	vestirci	_	_	_	_	_	_	_	_
+3	vestir	vestire	VERB	V	VerbForm=Inf	0	root	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+5	uguali	uguale	ADJ	A	Number=Plur	4	amod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !"… https://www.
+1	!"	!"	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	…	…	PUNCT	FF	_	3	punct	_	_
+3	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = instagram.com/p/BD_NLfQQCSK/
+1	instagram.com/p/BD_NLfQQCSK/	instagram.com/p/BD_NLfQQCSK/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

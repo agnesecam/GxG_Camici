@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un'ora in più di sole per far sembrare giornate di merda ancora più interminabili.
+1	Un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	ora	ora	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	più	più	ADV	B	_	2	advmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	sole	sole	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	far	fare	VERB	V	VerbForm=Inf	4	advcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	giornate	giornata	NOUN	S	Gender=Fem|Number=Plur	9	xcomp	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	merda	merda	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	ancora	ancora	ADV	B	_	14	advmod	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	interminabili	interminabile	ADJ	A	Number=Plur	10	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

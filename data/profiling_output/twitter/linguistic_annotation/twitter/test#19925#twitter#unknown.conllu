@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il #Pd non ha alcuna decenza.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#Pd	#Pd	PROPN	SP	_	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	decenza.	decenza.	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..Ecco la tassa sulla #disabilità . VERGOGNA!!! https:// goo.gl/B3aw5j pic.twitter.com/Ix2MaoXAsd
+1	..Ecco	..ecco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	tassa	tassa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4-5	sulla	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	#disabilità	#disabilità	NOUN	S	Gender=Fem	1	obl	_	_
+7	.	.	PUNCT	FS	_	8	punct	_	_
+8	VERGOGNA	vergogna	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+10	!!	!!	PUNCT	FF	_	8	punct	_	_
+11	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	8	punct	_	_
+14	goo.gl/B3aw5j	goo.gl/B3aw5j	PROPN	SP	_	8	flat:name	_	_
+15	pic.twitter.com/Ix2MaoXAsd	pic.twitter.com/Ix2MaoXAsd	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

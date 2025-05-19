@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...morire, dormire, abbandonare il piano di vendetta, far finta di nulla e quindi morire dentro ...oppure...
+1	...morire	...morire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	dormire	dormire	VERB	V	VerbForm=Inf	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	abbandonare	abbandonare	VERB	V	VerbForm=Inf	1	conj	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	piano	piano	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	vendetta	vendetta	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	far	fare	VERB	V	VerbForm=Inf	1	conj	_	_
+12	finta	finta	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nmod	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	quindi	quindi	ADV	B	_	17	advmod	_	_
+17	morire	morire	VERB	V	VerbForm=Inf	1	conj	_	_
+18	dentro	dentro	ADV	B	_	17	advmod	_	_
+19	...oppure...	...oppure.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #HamleTw /08 @Marconi98E
+1	#HamleTw	#HamleTw	NOUN	S	_	0	root	_	_
+2	/08	/08	NUM	N	NumType=Card	1	nummod	_	_
+3	@Marconi98E	@Marconi98E	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @braocean se vuoi aspettare sono abbastanza sicura che di questo passo avrò finito tutto in 2 giorni ahah POI
+1	@braocean	@braocean	ADV	B	_	7	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	aspettare	aspettare	VERB	V	VerbForm=Inf	7	csubj	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	abbastanza	abbastanza	ADV	B	_	7	advmod	_	_
+7	sicura	sicuro	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	che	che	SCONJ	CS	_	13	mark	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	passo	passo	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+12	avrò	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	ccomp	_	_
+14	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obj	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	2	2	NUM	N	NumType=Card	17	nummod	_	_
+17	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	_
+18	ahah	ahah	ADV	B	_	19	advmod	_	_
+19	POI	poi	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	_
+
+# sent_id = 2
+# text = LA MIA VITA SARA' VUOTA
+1	LA	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	MIA	mia	PROPN	SP	_	0	root	_	_
+3	VITA	Vito	PROPN	SP	_	2	flat:name	_	_
+4	SARA'	SARA'	PROPN	SP	_	2	flat:name	_	_
+5	VUOTA	vuota	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

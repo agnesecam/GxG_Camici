@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GliARTETECA ragazzi neppure in Abruzzo l'hanno preso le sale.
+1	@GliARTETECA	@GliARTETECA	ADP	E	_	2	case	_	_
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+3	neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Abruzzo	Abruzzo	PROPN	SP	_	2	nmod	_	_
+6	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+7	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	sale	sale	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Ma siamo scesi a Torre del greco a pasqua e...che risate!
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	scesi	scendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Torre	Torre	PROPN	SP	_	3	obl	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	greco	greco	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	pasqua	pasqua	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	e...che	e...co	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	12	obj	_	_
+12	risate	risare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Bravi tutti!
+1	Bravi	bravo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	nsubj	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Festeggiamo la #FestaDellaDonna parlando di calcio femminile.
+1	Festeggiamo	festeggiare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	#FestaDellaDonna	#FestaDellaDonna	PROPN	SP	_	1	obj	_	_
+4	parlando	parlare	VERB	V	VerbForm=Ger	1	advcl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	femminile	femminile	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Perchè "a qualcuna piace il calcio" https:// twitter.com/crampisportivi /status/707172870435303424 …
+1	Perchè	perché	ADV	B	_	5	advmod	_	_
+2	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+3	a	a	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	obl	_	_
+5	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	9	punct	_	_
+9	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	7	punct	_	_
+12	twitter.com/crampisportivi	twitter.com/crampisportivo	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+13	/status/707172870435303424	/status/707172870435303424	NUM	N	NumType=Card	12	nummod	_	_
+14	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

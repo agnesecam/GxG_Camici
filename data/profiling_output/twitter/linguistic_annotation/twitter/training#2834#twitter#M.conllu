@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dovrei sembrare figo nella foto ma mi sento più ridicolo che altro pic.twitter.com/f9MWYwelNN
+1	Dovrei	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	figo	figo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+4-5	nella	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	foto	foto	NOUN	S	Gender=Fem	2	obl	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	obj	_	_
+9	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	ridicolo	ridicolo	NOUN	S	Gender=Masc|Number=Sing	9	xcomp	_	_
+12	che	che	PRON	PR	PronType=Rel	13	case	_	_
+13	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obl	_	_
+14	pic.twitter.com/f9MWYwelNN	pic.twitter.com/f9MWYwelNN	PROPN	SP	_	13	flat:name	_	SpacesAfter=\n
+

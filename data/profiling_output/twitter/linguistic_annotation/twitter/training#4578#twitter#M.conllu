@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Difficile che la #Bce centri il target d’ #inflazione : dovrà fare di più http://www.
+1	Difficile	difficile	ADJ	A	Number=Sing	0	root	_	_
+2	che	che	SCONJ	CS	_	12	mark	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	#Bce	#Bce	PROPN	SP	_	12	nsubj	_	_
+5	centri	centrare	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	target	target	NOUN	S	Gender=Masc	5	nmod	_	_
+8	d’	di	ADP	E	_	9	case	_	_
+9	#inflazione	#inflazione	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	:	:	PUNCT	FC	_	7	punct	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	http://www	http://www	X	SW	Foreign=Yes	12	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = finanzaoperativa.com/difficile-che- la-bce-centri-il-target-dinflazione-dovra-fare-di-piu/ …
+1	finanzaoperativa.com/difficile-che-	_	PUNCT	FB	_	5	punct	_	_
+2	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	bce-centri-il-target-	_	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	dinflazione	dinflazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	-dovra	-dovro	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+7	-fare-di-piu	-fare-di-piu	ADJ	A	_	5	amod	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	_
+9	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

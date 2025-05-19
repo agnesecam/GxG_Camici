@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prestazione da Inter, ma questo mi fa ancora più incazzare:
+1	Prestazione	prestazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	Inter	Inter	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	ma	ma	CCONJ	CC	_	8	cc	_	_
+6	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	ancora	ancora	ADV	B	_	8	advmod	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	incazzare	incazzare	VERB	V	VerbForm=Inf	8	ccomp	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = se avessimo giocato sempre così ora saremmo a contenderci il titolo.
+1	se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+4	sempre	sempre	ADV	B	_	7	advmod	_	_
+5	così	così	ADV	B	_	7	advmod	_	_
+6	ora	ora	ADV	B	_	7	advmod	_	_
+7	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	contenderci	_	_	_	_	_	_	_	_
+9	contender	contender	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = #amala
+1	#amala	#amalare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

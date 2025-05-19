@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Davvero degli occhiali possono farmi sembrare così vecchio ?
+1	Davvero	davvero	ADV	B	_	4	advmod	_	_
+2-3	degli	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	occhiali	occhiale	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+5	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	farmi	arma|farme	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	così	così	ADV	B	_	9	advmod	_	_
+9	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	_
+10	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Quel momento in cui : “cazzo se non avessimo fatto sesso così presto staremmo ancora insieme ”” https:// tmblr.co/ZEfQdn22_sAZF
+1	“	“	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	momento	momento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	cui	cui	PRON	PR	PronType=Rel	24	obl	_	_
+6	:	:	PUNCT	FC	_	5	punct	_	_
+7	“	“	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	24	nsubj	_	_
+9	se	se	SCONJ	CS	_	12	mark	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	24	advcl	_	_
+13	sesso	sesso	ADV	B	_	14	advmod	_	_
+14	così	così	ADV	B	_	15	advmod	_	_
+15	presto	presto	ADV	B	_	12	advmod	_	_
+16	staremmo	staere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	24	cop	_	_
+17	ancora	ancora	ADV	B	_	18	advmod	_	_
+18	insieme	insieme	ADV	B	_	24	advmod	_	_
+19	”	”	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+20	”	”	PUNCT	FB	_	18	punct	_	_
+21	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	_
+24	tmblr.co/ZEfQdn22_sAZF	tmblr.co/ZEfQdn22_sAZF	PROPN	SP	_	3	acl:relcl	_	SpacesAfter=\n
+

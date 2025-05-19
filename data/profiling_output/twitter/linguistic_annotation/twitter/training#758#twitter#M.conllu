@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo letto questi numeri qualche anno fa avremmo pensato di essere a "Scherzi a parte" #bce #tassinegativi #d … https:// lnkd.in/eRtmz8S
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+4	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	numeri	numero	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	7	det	_	_
+7	anno	anno	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+8	fa	fa	ADV	B	_	7	advmod	_	_
+9	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	advcl	_	_
+11	di	di	ADP	E	_	15	mark	_	_
+12	essere	essere	AUX	V	VerbForm=Inf	15	cop	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	Scherzi	Scherzi	PROPN	SP	_	10	xcomp	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	parte	parte	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	19	punct	_	_
+19	#bce	#bce	NOUN	S	_	25	nmod	_	_
+20	#tassinegativi	#tassinegativo	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	_
+21	#d	#d	ADJ	A	_	19	amod	_	_
+22	…	…	PUNCT	FF	_	19	punct	_	_
+23	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	15	punct	_	_
+26	lnkd.in/eRtmz8S	lnkd.in/eRtmz8S	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

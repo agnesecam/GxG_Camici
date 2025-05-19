@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dimenticavo l'ultimo 6- noi a ballare come epilettici dentro un negozio di praga perché avevano messo L'Amour toujour di Gigi D'Agostino
+1	Dimenticavo	Dimenticare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+3	ultimo	ultimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	6	6	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	obj	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	ballare	ballare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	epilettici	epilettico	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+11	dentro	dentro	ADP	E	_	13	case	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	negozio	negozio	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	praga	praga	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16	perché	perché	SCONJ	CS	_	18	mark	_	_
+17	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+19	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	Amour	Amour	PROPN	SP	_	18	obj	_	_
+21	toujour	toujour	NOUN	S	Gender=Masc	20	nmod	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	Gigi	Gigi	PROPN	SP	_	21	nmod	_	_
+24	D'	D'	PROPN	SP	_	23	flat:name	_	SpaceAfter=No
+25	Agostino	Agostino	PROPN	SP	_	23	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Giampaolo_dS_8 E se si fa male i mln glieli dai poi indietro te?
+1	@Giampaolo_dS_8	@Giampaolo_dS_8	PROPN	SP	_	0	root	_	_
+2	E	e	CCONJ	CC	_	5	cc	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	male	male	ADV	B	_	5	advmod	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	mln	mln	NOUN	S	Gender=Masc	5	obj	_	_
+9-10	glieli	_	_	_	_	_	_	_	_
+9	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	nmod	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+11-12	dai	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	15	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+13	poi	poi	ADV	B	_	15	advmod	_	_
+14	indietro	indietro	ADV	B	_	15	advmod	_	_
+15	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	obl:agent	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Pensa a Oden...non si fosse dichiarato x il Draft....
+1	Pensa	pensare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Oden...non	Oden...non	PROPN	SP	_	1	obl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+5	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	dichiarato	dichiarare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	x	x	SYM	SYM	_	6	xcomp	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Draft...	Draft...	PROPN	SP	_	6	nsubj:pass	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

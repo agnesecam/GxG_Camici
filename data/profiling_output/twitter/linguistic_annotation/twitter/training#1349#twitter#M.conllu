@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Salvini vuole aiutare i migranti a casa loro.
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	Salvini	Salvini	PROPN	SP	_	4	nsubj	_	_
+3	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	aiutare	aiutare	VERB	V	VerbForm=Inf	0	root	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	migranti	migrante	NOUN	S	Number=Plur	4	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+9	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Sono felice si sia reso conto di che lavoro di merda sia per loro fare i badanti nelle nostre
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	felice	felice	ADJ	A	Number=Sing	0	root	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	reso	rendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	csubj	_	_
+6	conto	conto	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	che	che	DET	DQ	PronType=Int	9	det	_	_
+9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	merda	merda	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	sia	sia	CCONJ	CC	_	15	cc	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	15	obl	_	_
+15	fare	fare	VERB	V	VerbForm=Inf	5	conj	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	badanti	badante	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+18-19	nelle	_	_	_	_	_	_	_	_
+18	in	in	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	nmod	_	SpacesAfter=\n
+

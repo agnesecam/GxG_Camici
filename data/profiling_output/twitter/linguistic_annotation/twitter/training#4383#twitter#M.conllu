@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bussi95 già eliminato anche lui dovrà qualificarsi al mondiale
+1	@bussi95	@bussi95	NUM	N	NumType=Card	0	root	_	_
+2	già	già	ADV	B	_	3	advmod	_	_
+3	eliminato	eliminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+4	anche	anche	ADV	B	_	7	advmod	_	_
+5	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7-8	qualificarsi	_	_	_	_	_	_	_	_
+7	qualificar	qualificarre	VERB	V	VerbForm=Inf	3	xcomp	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mondiale	mondiale	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpacesAfter=\n
+

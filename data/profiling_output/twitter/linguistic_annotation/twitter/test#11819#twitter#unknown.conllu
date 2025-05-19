@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bruxelles, il racconto dei bolognesi:
+1	Bruxelles	Bruxelles	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	racconto	racconto	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	bolognesi	bolognese	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Ci stavamo imbarcando in aeroporto, poi il caos" http:// bologna.repubblica.it/cronaca/2016/0 3/22/news/bruxelles_il_racconto_di_un_bolognese_stavo_andando_all_aeroporto_ero_a_una_fermata_di_distanza_-136039383/?
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	imbarcando	imbarcare	VERB	V	VerbForm=Ger	0	root	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	aeroporto	aeroporto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	poi	poi	ADV	B	_	10	advmod	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	caos	caos	NOUN	S	Gender=Masc	4	conj	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	18	punct	_	_
+12	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	_
+15	bologna.repubblica.it/cronaca/2016/0	bologna.repubblica.it/cronaca/2016/0	NUM	N	NumType=Range	16	nummod	_	_
+16	3/22/news	3/22/news	NOUN	S	Gender=Fem	12	conj	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	bruxelles_il_racconto_di_un_bolognese_stavo_andando_all_aeroporto_ero_a_una_fermata_di_distanza_-136039383	bruxelles_il_racconto_di_un_bolognese_stavo_andando_all_aeroporto_ero_a_una_fermata_di_distanza_-136039383	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = rss …
+1	rss	rss	NOUN	S	Gender=Masc	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

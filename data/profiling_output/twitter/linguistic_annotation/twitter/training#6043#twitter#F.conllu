@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Faraone2016 Serenità è una gran bella parola, spesso difficile da raggiungere!!
+1	@Faraone2016	@Faraone2016	PROPN	SP	_	7	nsubj	_	_
+2	Serenità	serenità	PROPN	SP	_	1	flat:name	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	gran	grande	ADJ	A	Number=Sing	7	amod	_	_
+6	bella	bello	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	parola	parola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	spesso	spesso	ADV	B	_	10	advmod	_	_
+10	difficile	difficile	ADJ	A	Number=Sing	7	amod	_	_
+11	da	da	ADP	E	_	12	mark	_	_
+12	raggiungere	raggiungere	VERB	V	VerbForm=Inf	10	advcl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Vorrei che tutti fossimo sereni!
+1	Vorrei	volere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
+4	fossimo	fossimo	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	sereni	serene	ADJ	A	Gender=Masc|Number=Plur	1	ccomp	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

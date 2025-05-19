@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi diamanti mutande verdi banca padania e voi sareste quelli onesti ....ma chi vuoi prendere in giro #ligusù #omofobo
+1	@matteosalvinimi	@matteosalvinimo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	diamanti	diamante	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	mutande	mutande	ADP	E	_	4	case	_	_
+4	verdi	verde	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+5	banca	banca	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	padania	padanio	ADV	B	_	9	advmod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
+9	sareste	saredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	9	obj	_	_
+11	onesti	onesto	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+12	....ma	....ma	NOUN	S	Gender=Masc	13	nmod	_	_
+13	chi	chi	PRON	PR	PronType=Rel	10	nmod	_	_
+14	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	prendere	prendere	VERB	V	VerbForm=Inf	13	acl:relcl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	giro	giro	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+18	#ligusù	#ligusù	CCONJ	CC	_	19	cc	_	_
+19	#omofobo	#omofobo	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	SpacesAfter=\n
+

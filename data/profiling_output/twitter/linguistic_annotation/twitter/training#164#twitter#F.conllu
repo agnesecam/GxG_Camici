@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ValeYellow46 Ciao Vale, perché preoccuparsi di quello che è successo,per me e tutti gli altri italiani e non sei il migliore.Stai bene?
+1	@ValeYellow46	@ValeYellow46	PROPN	SP	_	0	root	_	_
+2	Ciao	ciao	PROPN	SP	_	1	flat:name	_	_
+3	Vale	vale	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	perché	perché	SCONJ	CS	_	6	mark	_	_
+6-7	preoccuparsi	_	_	_	_	_	_	_	_
+6	preoccupar	preoccupare	VERB	V	VerbForm=Inf	1	advcl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	successo,per	successo,pere	ADP	E	_	13	case	_	_
+13	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	obl	_	_
+14	e	e	CCONJ	CC	_	21	cc	_	_
+15	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	17	det:predet	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	altri	altro	NOUN	S	Gender=Masc|Number=Plur	21	nsubj	_	_
+18	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	_
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+21	sei	essere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	migliore.Stai	migliore.Stai	PROPN	SP	_	21	obj	_	_
+24	bene	bene	ADV	B	_	23	advmod	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

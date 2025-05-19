@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @davidefaraone @matteorenzi VOGLIAMO TORNARE A LAVORARE NELLE NOSTRE PROVINCE #8000esiliatifaseb
+1	@davidefaraone	@davidefaraorre	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	@matteorenzi	@matteorenzi	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	1	amod	_	_
+3	VOGLIAMO	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	TORNARE	tornare	PROPN	SP	_	0	root	_	_
+5	A	A	PROPN	SP	_	4	flat:name	_	_
+6	LAVORARE	lavorare	PROPN	SP	_	4	flat:name	_	_
+7-8	NELLE	_	_	_	_	_	_	_	_
+7	IN	in	PROPN	SP	_	4	flat:name	_	_
+8	LE	Le	PROPN	SP	_	7	flat:name	_	_
+9	NOSTRE	nostro	PROPN	SP	_	7	flat:name	_	_
+10	PROVINCE	Province	PROPN	SP	_	7	flat:name	_	_
+11	#8000esiliatifaseb	#8000esiliatifaseb	NOUN	S	Gender=Masc	7	nmod	_	SpacesAfter=\n
+

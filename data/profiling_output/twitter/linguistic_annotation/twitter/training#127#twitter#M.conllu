@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voglio ricordare ke non siete il centro dell'universo....
+1	Voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	ricordare	ricordare	VERB	V	VerbForm=Inf	0	root	_	_
+3	ke	ke	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	siete	siere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	centro	centro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+8-9	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+8	di	di	ADP	E	_	10	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	universo...	universo...	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Vi trovate li perché siete abili ma non infallibili...
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	iobj	_	_
+2	trovate	trovare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+4	perché	perché	SCONJ	CS	_	6	mark	_	_
+5	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	abili	abile	ADJ	A	Number=Plur	2	advcl	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	infallibili...	infallibili.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/2O0fVdcVe
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2O0fVdcVe	fb.me/2o0fvdcve	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

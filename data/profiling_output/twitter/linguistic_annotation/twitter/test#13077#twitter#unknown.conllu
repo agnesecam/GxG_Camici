@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scuola/ Studenti e punizioni alterntive:
+1	Scuola	scuola	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	_
+3	Studenti	studente	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	punizioni	punizione	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+6	alterntive	alterntivo	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = «Bulli e ribelli al lavoro?
+1	«	«	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Bulli	Bulli	PROPN	SP	_	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	ribelli	ribelle	NOUN	S	Number=Plur	2	conj	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = A Modena è già una realtà»:
+1	A	a	ADP	E	_	2	case	_	_
+2	Modena	Modena	PROPN	SP	_	6	obl	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	già	già	ADV	B	_	6	advmod	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	realtà	realtà	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+7	»	»	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 4
+# text = In parecchi i... http:// bit.ly/1S6jg6H
+1	In	in	ADP	E	_	3	case	_	_
+2	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	i...	i...	NOUN	S	_	0	root	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	bit.ly/1S6jg6H	bit.ly/1S6jg6H	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

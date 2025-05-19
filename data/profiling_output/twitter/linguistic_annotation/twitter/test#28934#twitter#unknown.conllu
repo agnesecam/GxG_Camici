@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel frattempo in America inizia #TheIsland con Bear Grylls, qua abbiamo #isoladeifamosi ..
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	America	America	PROPN	SP	_	6	obl	_	_
+6	inizia	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	#TheIsland	#TheIsland	PROPN	SP	_	6	nsubj	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	Bear	Bear	PROPN	SP	_	7	nmod	_	_
+10	Grylls	Grylls	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	qua	qua	ADV	B	_	13	advmod	_	_
+13	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+14	#isoladeifamosi	#isoladeifamoso	ADJ	A	Gender=Masc|Number=Plur	13	xcomp	_	_
+15	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Trova le differenze
+1	Trova	trovare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpacesAfter=\n
+

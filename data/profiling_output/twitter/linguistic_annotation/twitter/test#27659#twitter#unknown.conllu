@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se facessero una cosa così sarebbero simp cosa che non sono https:// twitter.com/daggertattooh/ status/705409422793773058 …
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	così	così	ADV	B	_	7	advmod	_	_
+6	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	simp	simp	ADJ	A	_	0	root	_	_
+8	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+9	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+12	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	_
+15	twitter.com/daggertattooh/	twitter.com/daggertattooh/	PUNCT	FF	_	12	punct	_	_
+16	status/705409422793773058	status/705409422793773058	NUM	N	NumType=Card	8	acl:relcl	_	_
+17	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

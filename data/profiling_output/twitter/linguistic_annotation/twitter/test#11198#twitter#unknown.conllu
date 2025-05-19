@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ovunque vada ti vedo, sei dappertutto , ormai ti sogno ogni notte.
+1	Ovunque	ovunque	SCONJ	CS	_	2	mark	_	_
+2	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+4	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	sei	sei	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dappertutto	dappertutto	ADV	B	_	6	advmod	_	_
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	ormai	ormai	ADV	B	_	11	advmod	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	iobj	_	_
+11	sogno	sogre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+13	notte	notte	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Sembra una #storiadamore invece è #politica !
+1	Sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	#storiadamore	#storiadamore	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	invece	invece	ADV	B	_	6	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	#politica	#politico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+7	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

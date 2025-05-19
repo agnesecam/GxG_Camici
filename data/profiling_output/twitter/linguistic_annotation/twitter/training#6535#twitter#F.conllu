@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gecoefarfalla @vladiluxuria @RadioCapital_fm @bennycapital Rivalità!
+1	@gecoefarfalla	@gecoefarfalla	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	@vladiluxuria	@vladiluxurio	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	@RadioCapital_fm	@RadioCapital_fm	PROPN	SP	_	2	nmod	_	_
+4	@bennycapital	@bennycapital	DET	DQ	Number=Sing|PronType=Int	5	det	_	_
+5	Rivalità	rivalità	NOUN	S	Gender=Fem	3	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Se fossimo solidali saremmo le padrone del mondo!
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	solidali	solidale	ADJ	A	Number=Plur	4	advcl	_	_
+4	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	padrone	padrone	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

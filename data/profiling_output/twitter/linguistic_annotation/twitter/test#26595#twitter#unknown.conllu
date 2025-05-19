@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francesca_f01 @thesmileofben @Fedemyangel @Benji_Mascolo può anche esserti sembrato strano, sinceramente anche a me a primo impatto
+1	@francesca_f01	@francesca_f0l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@thesmileofben	@thesmileofben	NOUN	S	_	9	nsubj	_	_
+3	@Fedemyangel	@Fedemyangel	PROPN	SP	_	2	nmod	_	_
+4	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	3	flat:name	_	_
+5	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+6	anche	anche	ADV	B	_	9	advmod	_	_
+7-8	esserti	_	_	_	_	_	_	_	_
+7	esser	essere	AUX	VA	VerbForm=Inf	9	aux	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	expl	_	_
+9	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	strano	strano	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	15	punct	_	_
+12	sinceramente	sinceramente	ADV	B	_	15	advmod	_	_
+13	anche	anche	ADV	B	_	15	advmod	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	_
+18	impatto	impatto	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpacesAfter=\n
+

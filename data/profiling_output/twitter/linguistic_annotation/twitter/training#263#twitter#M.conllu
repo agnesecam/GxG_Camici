@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 129 studenti idonei di contributo fitto casa in più, grazie alla buona rappresentanza.
+1	129	129	NUM	N	NumType=Card	2	nummod	_	_
+2	studenti	studente	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	idonei	idoneo	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	contributo	contributo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	fitto	figgere	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	casa	casa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	più	più	ADV	B	_	7	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	7	punct	_	_
+11	grazie	grazie	NOUN	S	_	15	case	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	11	fixed	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	buona	buono	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	rappresentanza	rappresentanza	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Se non avessimo fatto quel... http:// fb.me/57mVBdOXg
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+5	quel...	quel.	PUNCT	FS	_	6	punct	_	_
+6	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	_
+9	fb.me/57mVBdOXg	fb.me/57mVBdOXg	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

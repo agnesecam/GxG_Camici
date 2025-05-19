@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Solo io posso trovarmi dentro ad una piscina e rischiare la vita
+1	Solo	solo	ADV	B	_	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	trovarmi	arma|trovarme	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dentro	dentro	ADV	B	_	4	advmod	_	_
+6	ad	a	ADP	E	_	8	case	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	piscina	piscina	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	rischiare	rischiare	VERB	V	VerbForm=Inf	4	conj	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	vita	vita	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpacesAfter=\n
+

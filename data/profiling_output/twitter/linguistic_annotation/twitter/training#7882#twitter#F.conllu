@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il popolo del blog,:
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	blog	blog	NOUN	S	_	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = tutti sapevano e sanno nel governo, dunque sono assassini perchè in puglia e... http:// fb.me/54POZROUB
+1	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
+2	sapevano	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	dunque	dunque	ADV	B	_	11	advmod	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	assassini	assassino	ADJ	A	Gender=Masc|Number=Plur	2	conj	_	_
+12	perchè	perché	SCONJ	CS	_	19	mark	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	puglia	puglia	DET	DI	Number=Sing|PronType=Ind	15	det	_	_
+15	e...	e.	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16	http:	http:	PUNCT	FS	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/54POZROUB	fb.me/54POZROUB	PROPN	SP	_	11	nsubj	_	SpacesAfter=\n
+

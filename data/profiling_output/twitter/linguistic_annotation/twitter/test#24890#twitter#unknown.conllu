@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SalvoPreiato forse se stessero zitti farebbero una figura migliore ma ormai!!!!!!!!.
+1	@SalvoPreiato	@SalvoPreiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	forse	forse	ADV	B	_	1	advmod	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	stessero	stere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	zitti	zitto	ADJ	A	Gender=Masc|Number=Plur	1	advcl	_	_
+6	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	figura	figura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	8	amod	_	_
+10	ma	ma	CCONJ	CC	_	11	cc	_	_
+11	ormai	ormai	ADV	B	_	6	advmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+13	!!	!!	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	!!!!!.	!!!!!.	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

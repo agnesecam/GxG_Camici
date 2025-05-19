@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io sono questo, io sono quello, io sono quell'altro...
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	quell'	quello	DET	DD	Number=Sing|PronType=Dem	12	det	_	SpaceAfter=No
+12	altro...	altro...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 2
+# text = se avessimo usato prima, non dopo, più spesso, la parola NOI?
+1	se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	usato	usare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	prima	prima	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+7	dopo	dopo	ADP	E	_	10	case	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	spesso	spesso	ADV	B	_	4	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	parola	parola	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+14	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	compound	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

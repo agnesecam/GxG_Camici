@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amano i figli ma odiano la maternità.
+1	Amano	amare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	ma	ma	CCONJ	CC	_	5	cc	_	_
+5	odiano	odiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	maternità	maternità	NOUN	S	Gender=Fem	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = “Tornassi indietro, un figlio non lo farei ”.
+1	“	“	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Tornassi	Tornassare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	indietro	indietro	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	9	dislocated	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	farei	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	”	”	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Delle “madri pentite” che... http:// fb.me/7eFumdUtT
+1-2	Delle	_	_	_	_	_	_	_	_
+1	Di	di	ADP	E	_	4	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	“	“	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	madri	madre	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+5	pentite	pentito	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
+6	”	”	PUNCT	FB	_	7	punct	_	_
+7	che...	che.	NOUN	S	_	0	root	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	fb.me/7eFumdUtT	fb.me/7eFumdUtT	PROPN	SP	_	7	nmod	_	SpacesAfter=\n
+

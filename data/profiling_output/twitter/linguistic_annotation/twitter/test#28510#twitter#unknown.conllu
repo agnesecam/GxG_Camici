@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La nostra grande Italia: se imparassimo a rispettarla saremmo il popolo più ricco e felice del pianeta #domenica pic.twitter.com/klLk3KqBKg
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+2	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+3	grande	grande	ADJ	A	Number=Sing	4	amod	_	_
+4	Italia	Italia	PROPN	SP	_	21	nsubj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7	imparassimo	imparassimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	rispettarla	_	_	_	_	_	_	_	_
+9	rispettar	rispettare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	ricco	ricco	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	felice	felice	ADJ	A	Number=Sing	15	conj	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	pianeta	pianeta	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+21	#domenica	#domenico	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	pic.twitter.com/klLk3KqBKg	pic.twitter.com/klLk3KqBKg	PROPN	SP	_	21	obj	_	SpacesAfter=\n
+

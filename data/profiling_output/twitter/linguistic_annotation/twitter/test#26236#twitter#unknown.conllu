@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amare non è possedere , ma prendersi cura.
+1	Amare	Amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	possedere	possedere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7-8	prendersi	_	_	_	_	_	_	_	_
+7	prender	prendere	VERB	V	VerbForm=Inf	9	conj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	obj	_	_
+9	cura	cura	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #VentagliDiParole #UniversoVersi pic.twitter.com/OKbQcxqj6y
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	VentagliDiParole	VentagliDiParole	PROPN	SP	_	0	root	_	_
+3-4	#UniversoVersi	_	_	_	_	_	_	_	_
+3	#Universover	#Universover	PROPN	SP	_	2	flat:name	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	pic.twitter.com/OKbQcxqj6y	pic.twitter.com/OKbQcxqj6y	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

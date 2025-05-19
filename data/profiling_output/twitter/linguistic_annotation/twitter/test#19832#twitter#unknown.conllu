@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti ringrazio per tutto, da quando mi difendevi contro la mamma ai piccoli gesti che facevi per dimostrare il tuo amore
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	da	da	ADP	E	_	9	mark	_	_
+7	quando	quando	SCONJ	CS	_	6	fixed	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	expl	_	_
+9	difendevi	difendere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	contro	contro	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13-14	ai	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	16	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+16	gesti	gesto	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+19	per	per	ADP	E	_	20	mark	_	_
+20	dimostrare	dimostrare	VERB	V	VerbForm=Inf	18	advcl	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	amore	amore	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	SpacesAfter=\n
+

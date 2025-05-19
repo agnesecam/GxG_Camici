@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Non possedere un’automobile e non essere in coppia, là dove tutti ‘devono’ avere un’automobile e ‘devono’ essere in coppia...
+1	“	“	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	possedere	possedere	VERB	V	VerbForm=Inf	0	root	_	_
+4	un’	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	automobile	automobile	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	e	e	CCONJ	CC	_	10	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+8	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	coppia	coppia	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	là	là	ADV	B	_	3	advmod	_	_
+13	dove	dove	ADV	B	_	15	advmod	_	_
+14	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	15	nsubj	_	_
+15	‘devono	‘devere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No
+16	’	’	PUNCT	FF	_	17	punct	_	_
+17	avere	avere	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	un’	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	automobile	automobile	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	‘devono	‘devere	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+22	’	’	PUNCT	FF	_	17	punct	_	_
+23	essere	essere	AUX	V	VerbForm=Inf	25	cop	_	_
+24	in	in	ADP	E	_	25	case	_	_
+25	coppia...	coppia...	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpacesAfter=\n
+

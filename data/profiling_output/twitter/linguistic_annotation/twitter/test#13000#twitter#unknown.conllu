@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ilCallista @SantucciFulvio @ntrovola_tonze è come se a gattuso ai tempi avessero chiesto d fare il pirlo ...Invece continuano a prendersela
+1	@ilCallista	@ilCallista	PROPN	SP	_	5	nsubj	_	_
+2	@SantucciFulvio	@SantucciFulvio	PROPN	SP	_	1	flat:name	_	_
+3	@ntrovola_tonze	@ntrovola_tonza	NOUN	S	Gender=Fem|Number=Plur	1	flat:name	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	come	come	ADV	B	_	20	advmod	_	_
+6	se	se	SCONJ	CS	_	13	mark	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	gattuso	gattuso	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+12	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	_
+14	d	d	ADJ	A	_	20	amod	_	_
+15	fare	fare	VERB	V	VerbForm=Inf	20	advcl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17-18	pirlo	_	_	_	_	_	_	_	_
+17	pir	pir	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+18	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	...Invece	...Invece	PROPN	SP	_	20	nsubj	_	_
+20	continuano	continuare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	a	a	ADP	E	_	22	mark	_	_
+22-24	prendersela	_	_	_	_	_	_	_	SpacesAfter=\n
+22	prender	prendere	VERB	V	VerbForm=Inf	24	xcomp	_	_
+23	se	se	SCONJ	CS	_	22	fixed	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	xcomp	_	_
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lunedi e il mio compleanno e tipo vedere il follow di sofia sarebbe tipo il regalo piu bello ma non mi oso a scriverlo parecchie volte.
+1	Lunedi	Lunede	PROPN	SP	_	14	nsubj	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+8	vedere	vedere	VERB	V	VerbForm=Inf	7	acl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	follow	follow	NOUN	S	Gender=Masc	8	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	sofia	sofia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	regalo	regalo	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+17	piu	piu	NOUN	S	Gender=Masc	16	compound	_	_
+18	bello	bello	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	ma	ma	CCONJ	CC	_	22	cc	_	_
+20	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+21	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	22	expl	_	_
+22	oso	odere	ADJ	A	Gender=Masc|Number=Sing	14	conj	_	_
+23	a	a	ADP	E	_	24	mark	_	_
+24-25	scriverlo	_	_	_	_	_	_	_	_
+24	scriver	scrivere	VERB	V	VerbForm=Inf	22	advcl	_	_
+25	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+26	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	27	det	_	_
+27	volte.	volte.	NOUN	S	Gender=Masc|Number=Sing	24	xcomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

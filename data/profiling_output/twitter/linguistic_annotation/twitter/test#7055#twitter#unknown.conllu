@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = tasse sui consumi rendono molto difficile evasione.
+1	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+2-3	sui	_	_	_	_	_	_	_	_
+2	su	su	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	consumi	consumo	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	rendono	rendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	molto	molto	ADV	B	_	7	advmod	_	_
+7	difficile	difficile	ADJ	A	Number=Sing	8	amod	_	_
+8	evasione	evasione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Per quello biosgna sportare su essi quella da reddito (che deve scendere)
+1	Per	per	ADP	E	_	2	case	_	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	_
+3	biosgna	biosgno	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sportare	sportare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+7	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	4	obj	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	reddito	reddito	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	scendere	scendere	VERB	V	VerbForm=Inf	7	acl:relcl	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

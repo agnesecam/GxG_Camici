@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GraysonDolan forse perché prima non avevi così tante ragazze ai tuoi piedi come ora
+1	@GraysonDolan	@GraysonDolan	PROPN	SP	_	0	root	_	_
+2	forse	forse	ADV	B	_	1	advmod	_	_
+3	perché	perché	SCONJ	CS	_	6	mark	_	_
+4	prima	prima	ADV	B	_	6	advmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	avevi	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	così	così	ADV	B	_	6	advmod	_	_
+8	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	ragazze	ragazza	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+10-11	ai	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	13	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+14	come	come	ADP	E	_	15	case	_	_
+15	ora	ora	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutti contro vespa . Ho avuto solo una gran pena . Ha sbagliato i tempi .
+1	Tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
+2	contro	contro	ADP	E	_	3	case	_	_
+3	vespa	vespa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+4	.	.	PUNCT	FF	_	3	punct	_	_
+5	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	solo	solo	ADV	B	_	6	advmod	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	gran	grande	ADJ	A	Number=Sing	10	amod	_	_
+10	pena	pena	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+11	.	.	PUNCT	FS	_	6	punct	_	_
+12	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	sbagliato	sbagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+16	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Dovrà ripeterla dopo la morte del padre
+1	Dovrà	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2-3	ripeterla	_	_	_	_	_	_	_	_
+2	ripeter	ripetere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	dopo	dopo	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	morte	morte	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	padre	padre	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpacesAfter=\n
+

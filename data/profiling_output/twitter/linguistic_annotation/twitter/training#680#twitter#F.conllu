@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaskaJuventus Culone cazzo, io ero addirittura convinta che dopo il Derby avessimo il Milan.
+1	@LaskaJuventus	@LaskaJuventus	PROPN	SP	_	8	nsubj	_	_
+2	Culone	Culone	PROPN	SP	_	1	flat:name	_	_
+3	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	addirittura	addirittura	ADV	B	_	8	advmod	_	_
+8	convinta	convincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	che	che	SCONJ	CS	_	15	mark	_	_
+10	dopo	dopo	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Derby	Derby	PROPN	SP	_	15	nsubj	_	_
+13	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	15	cop	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Milan	Milan	PROPN	SP	_	8	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Stavo per svenire
+1	Stavo	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	svenire	svenire	VERB	V	VerbForm=Inf	1	advcl	_	SpacesAfter=\n
+

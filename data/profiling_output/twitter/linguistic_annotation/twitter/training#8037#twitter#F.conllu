@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CarlottaFerlito Vorrei dire solo che mancano meno di 2 ore...e dunque io sto sclerando di brutto pic.twitter.com/Ayy3zWzJ0V
+1	@CarlottaFerlito	@CarlottaFerlito	ADV	B	_	3	advmod	_	_
+2	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+4	solo	solo	ADV	B	_	6	advmod	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	mancano	mancare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	meno	meno	ADV	B	_	10	case	_	_
+8	di	di	ADP	E	_	7	fixed	_	_
+9	2	2	NUM	N	NumType=Card	10	nummod	_	_
+10	ore...e	ore...e	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+11	dunque	dunque	ADV	B	_	14	advmod	_	_
+12	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	sclerando	sclerare	VERB	V	VerbForm=Ger	6	advcl	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	brutto	brutto	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	pic.twitter.com/Ayy3zWzJ0V	pic.twitter.com/Ayy3zWzJ0V	PROPN	SP	_	14	obl	_	SpacesAfter=\n
+

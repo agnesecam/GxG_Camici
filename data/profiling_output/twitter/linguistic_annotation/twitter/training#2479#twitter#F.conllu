@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ogni momento ti sento dentro " . @alessiobernabei pic.twitter.com/EkrqdLL25K
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	momento	momento	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	expl	_	_
+5	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	dentro	dentro	ADV	B	_	5	advmod	_	_
+7	"	"	PUNCT	FB	_	5	punct	_	_
+8	.	.	PUNCT	FS	_	5	punct	_	_
+9	@alessiobernabei	@alessiobernabeo	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+10	pic.twitter.com/EkrqdLL25K	pic.twitter.com/ekrqdll25k	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

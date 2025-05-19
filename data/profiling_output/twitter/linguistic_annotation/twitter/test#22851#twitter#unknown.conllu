@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ah le belle Alaves di una volta dove i seggiolini glieli mettevano come collane...
+1	Ah	ah	INTJ	I	_	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	belle	bello	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	Alaves	Alaves	PROPN	SP	_	1	nsubj	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	volta	volta	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	dove	dove	ADV	B	_	13	advmod	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	seggiolini	seggiolino	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+11-12	glieli	_	_	_	_	_	_	_	_
+11	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
+13	mettevano	mettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+14	come	come	ADP	E	_	15	case	_	_
+15	collane...	collane...	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpacesAfter=\n
+

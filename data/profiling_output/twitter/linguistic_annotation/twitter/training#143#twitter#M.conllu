@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Minchia che sfiga per il Dovi, seconda gara consecutiva che cade non per colpa sua ma perché viene travolto
+1	Minchia	Minchia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	sfiga	sfigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Dovi	Dovo	PROPN	SP	_	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
+9	gara	gara	NOUN	S	Gender=Fem|Number=Sing	6	appos	_	_
+10	consecutiva	consecutivo	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	cade	cadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	per	per	ADP	E	_	15	case	_	_
+15	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+16	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+17	ma	ma	CCONJ	CC	_	20	cc	_	_
+18	perché	perché	SCONJ	CS	_	20	mark	_	_
+19	viene	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	travolto	travolgere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In questa società presi dalle nostre “faccende materiali ” abbiamo perso le forme più elementari di contatto con... http:// fb.me/7ccR6PwHX
+1	In	in	ADP	E	_	3	case	_	_
+2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	società	società	NOUN	S	Gender=Fem	13	obl	_	_
+4	presi	prendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5-6	dalle	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	9	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+8	“	“	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	faccende	faccenda	NOUN	S	Gender=Fem|Number=Plur	4	obl:agent	_	_
+10	materiali	materiale	ADJ	A	Number=Plur	9	amod	_	_
+11	”	”	PUNCT	FB	_	3	punct	_	_
+12	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	forme	forma	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	_
+16	più	più	ADV	B	_	17	advmod	_	_
+17	elementari	elementare	ADJ	A	Number=Plur	15	amod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	contatto	contatto	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+20	con...	con.	NOUN	S	_	19	compound	_	_
+21	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	fb.me/7ccR6PwHX	fb.me/7ccR6PwHX	PROPN	SP	_	13	obj	_	SpacesAfter=\n
+

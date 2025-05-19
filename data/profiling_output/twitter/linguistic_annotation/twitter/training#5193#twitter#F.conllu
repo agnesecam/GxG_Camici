@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ilaguido_3 ma lasciale fare Ila, tanto Fede non mi pare così scemo da mettere qualcuna davanti a te
+1	@ilaguido_3	@ilaguido_3	NUM	N	NumType=Card	0	root	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	lasciale	lasciale	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	Ila	Ila	PROPN	SP	_	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	tanto	tanto	ADV	B	_	11	advmod	_	_
+8	Fede	fede	PROPN	SP	_	11	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+12	così	così	ADV	B	_	13	advmod	_	_
+13	scemo	sce	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	11	xcomp	_	_
+14	da	da	ADP	E	_	15	mark	_	_
+15	mettere	mettere	VERB	V	VerbForm=Inf	13	advcl	_	_
+16	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	15	obj	_	_
+17	davanti	davanti	ADV	B	_	19	case	_	_
+18	a	a	ADP	E	_	17	fixed	_	_
+19	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lezione di civiltà dalla Francia:
+1	Lezione	lezione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	civiltà	civiltà	NOUN	S	Gender=Fem	1	nmod	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Francia	Francia	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ai senatori assenteisti multe fino a 4.400 euro al mese....
+1-2	ai	_	_	_	_	_	_	_	_
+1	a	a	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	senatori	senatore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	assenteisti	assenteista	ADJ	A	Number=Plur	3	amod	_	_
+5	multe	mulgere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+6	fino	fino	ADV	B	_	9	case	_	_
+7	a	a	ADP	E	_	6	fixed	_	_
+8	4.400	4.400	NUM	N	NumType=Card	9	nummod	_	_
+9	euro	euro	NOUN	S	Gender=Masc	5	obl	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mese....	mese....	NOUN	S	Gender=Masc	3	nmod	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7TImCO5gZ
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7TImCO5gZ	fb.me/7TImCO5gZ	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

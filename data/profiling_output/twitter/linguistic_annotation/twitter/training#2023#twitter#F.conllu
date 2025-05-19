@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Apelle, figlio di Apollo, fece una palla di pelle di pollo #Cuma , lontano dallo stress https://www.
+1	Apelle	Apelle	PROPN	SP	_	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Apollo	Apollo	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	fece	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	palla	palla	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	pollo	pollo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+14	#Cuma	#Cuma	PROPN	SP	_	13	nmod	_	_
+15	,	,	PUNCT	FF	_	7	punct	_	_
+16	lontano	lontano	ADV	B	_	19	case	_	_
+17-18	dallo	_	_	_	_	_	_	_	_
+17	da	da	ADP	E	_	16	fixed	_	_
+18	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	stress	stress	NOUN	S	Gender=Masc	7	obl	_	_
+20	https://www	https://www	NOUN	S	_	19	compound	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD-fQ58u7g7/
+1	instagram.com/p/BD-fQ58u7g7/	instagram.com/p/BD-fQ58u7g7/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

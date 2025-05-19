@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - mai.
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	mai	mai	ADV	B	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Amavo inoltre la scenografia:
+1	Amavo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	inoltre	inoltre	ADV	B	_	4	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	scenografia	scenografia	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = quella del wwat (e diciamo anche dell'otrat) era molto più articolata, ma amavo la semplicità e la -
+1	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	16	nsubj	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	wwat	wwat	NOUN	S	Gender=Masc	1	nmod	_	_
+5	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	anche	anche	ADV	B	_	11	advmod	_	_
+9-10	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+9	di	di	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	otrat	otrat	NOUN	S	_	7	obl	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	7	punct	_	_
+13	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
+14	molto	molto	ADV	B	_	15	advmod	_	_
+15	più	più	ADV	B	_	16	advmod	_	_
+16	articolata	articolato	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	ma	ma	CCONJ	CC	_	19	cc	_	_
+19	amavo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	16	conj	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	semplicità	semplicità	NOUN	S	Gender=Fem	19	obj	_	_
+22	e	e	CCONJ	CC	_	24	cc	_	_
+23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	-	-	PUNCT	FB	_	21	punct	_	SpacesAfter=\n
+

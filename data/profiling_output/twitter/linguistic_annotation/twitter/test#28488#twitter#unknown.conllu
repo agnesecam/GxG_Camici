@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Senza ladri e corrotti saremmo ben al di sopra della Germania ma questa è l'Italia che non sa e non vuole cambiare
+1	Senza	senza	ADP	E	_	2	case	_	_
+2	ladri	ladro	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	corrotti	corrotto	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+5	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	ben	bene	ADV	B	_	5	advmod	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	sopra	sopra	ADV	B	_	13	advmod	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Germania	Germania	PROPN	SP	_	5	obl	_	_
+14	ma	ma	CCONJ	CC	_	18	cc	_	_
+15	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	18	nsubj	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	Italia	Italia	PROPN	SP	_	5	nsubj	_	_
+19	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+21	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+22	e	e	CCONJ	CC	_	25	cc	_	_
+23	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+24	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	cambiare	cambiare	VERB	V	VerbForm=Inf	21	conj	_	SpacesAfter=\n
+

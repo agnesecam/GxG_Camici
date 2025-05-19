@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #JVTBLIVE #MilanJuve Distratti, sempre il ritardo.
+1	#JVTBLIVE	#JVTBLIVE	PROPN	SP	_	7	nmod	_	_
+2	#MilanJuve	#MilanJuve	PROPN	SP	_	1	flat:name	_	_
+3	Distratti	Distratti	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	sempre	sempre	ADV	B	_	7	advmod	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ritardo.	ritardo.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Stiamo facendo sembrare il Milan il Bayern.
+1	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	facendo	fare	VERB	V	VerbForm=Ger	0	root	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Milan	Milan	PROPN	SP	_	3	xcomp	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Bayern	Bayern	PROPN	SP	_	3	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Un pareggio andrebbe di lusso
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pareggio	pareggio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	andrebbe	andre	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	lusso	lusso	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\n
+

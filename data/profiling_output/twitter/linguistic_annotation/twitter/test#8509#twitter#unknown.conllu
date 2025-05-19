@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Poi ti accorgi che non ti arrabbi neppure più!!!!
+1	Poi	poi	ADV	B	_	3	advmod	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	accorgi	accorgio	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	expl	_	_
+7	arrabbi	arrabbo	NOUN	S	Gender=Masc|Number=Plur	3	ccomp	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	9	advmod	_	_
+9	più	più	ADV	B	_	7	advmod	_	SpaceAfter=No
+10	!!!	!!!	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

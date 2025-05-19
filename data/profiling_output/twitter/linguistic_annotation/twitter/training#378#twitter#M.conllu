@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #bersagliomobile Se avessimo un VERO presidente della repubblica l'Italia tra qualche mese sarebbe al voto!
+1	#bersagliomobile	#bersagliomobile	ADJ	A	Number=Sing	0	root	_	_
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	VERO	vero	PROPN	SP	_	3	nsubj	_	_
+6	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	5	compound	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	repubblica	repubblica	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	Italia	Italia	PROPN	SP	_	3	obj	_	_
+12	tra	tra	ADP	E	_	14	case	_	_
+13	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	14	det	_	_
+14	mese	mese	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+15	sarebbe	essere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	voto	voto	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = #m5s
+1	#m5s	#m5s	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

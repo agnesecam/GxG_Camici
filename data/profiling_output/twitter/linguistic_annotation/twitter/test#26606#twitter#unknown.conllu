@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ballando_Rai senza offendere la persona ma la giornalista mi è sembrato di sentirla dire che a casa non capiscono di ballo
+1	@Ballando_Rai	@Ballando_Rare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	senza	senza	ADP	E	_	3	mark	_	_
+3	offendere	offendere	VERB	V	VerbForm=Inf	1	advcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	ma	ma	CCONJ	CC	_	11	cc	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	giornalista	giornalista	NOUN	S	Number=Sing	11	nsubj	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13-14	sentirla	_	_	_	_	_	_	_	_
+13	sentir	sentire	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15	dire	dire	VERB	V	VerbForm=Inf	13	advcl	_	_
+16	che	che	SCONJ	CS	_	20	mark	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	casa	casa	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	capiscono	capire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	ballo	ballo	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	SpacesAfter=\n
+

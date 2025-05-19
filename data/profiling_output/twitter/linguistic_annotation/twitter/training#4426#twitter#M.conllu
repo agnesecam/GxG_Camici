@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CarloSantaroni ho letto la sentenza che dice che il comune dovrà fornire le fatture, ma non possono essere richieste tutte assieme.
+1	@CarloSantaroni	@CarloSantaroni	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	sentenza	sentenza	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	che	che	SCONJ	CS	_	12	mark	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	comune	comune	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	fornire	fornire	VERB	V	VerbForm=Inf	7	ccomp	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	fatture	fattura	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	20	punct	_	_
+16	ma	ma	CCONJ	CC	_	20	cc	_	_
+17	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+18	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+19	essere	essere	AUX	VA	VerbForm=Inf	20	aux:pass	_	_
+20	richieste	richiedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	conj	_	_
+21	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	22	obl	_	_
+22	assieme	assieme	ADV	B	_	20	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Studia.
+1	Studia	studia	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

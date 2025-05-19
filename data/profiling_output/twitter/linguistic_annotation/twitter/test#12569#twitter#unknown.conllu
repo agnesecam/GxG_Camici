@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sbrat8 Se avessero creduto alla sua colpevolezza non l'avrebbero assunto.
+1	@sbrat8	@sbrat8	NUM	N	NumType=Card	12	nummod	_	_
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	creduto	credere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	colpevolezza	colpevolezza	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No
+11	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	assunto	assumere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

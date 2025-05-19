@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NiccoloZancan caro nic, avranno un pr belga.
+1	@NiccoloZancan	@NiccoloZancan	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	caro	caro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	nic	nic	ADJ	A	_	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	avranno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pr	pr	NOUN	S	_	5	obj	_	_
+8	belga.	belga.	NOUN	S	_	7	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

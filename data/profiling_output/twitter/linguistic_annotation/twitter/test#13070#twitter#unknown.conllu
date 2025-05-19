@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Serfiss @paoloigna1 Sempre senza cattiveria, certo che la tua squadra ne ha inguaiati parecchi ,con la sua scuola.
+1	@Serfiss	@Serfiss	NOUN	S	Gender=Masc	0	root	_	_
+2	@paoloigna1	@paoloigna1	PROPN	SP	NumType=Card	1	nmod	_	_
+3	Sempre	sempre	ADV	B	_	5	advmod	_	_
+4	senza	senza	ADP	E	_	5	case	_	_
+5	cattiveria	cattiveria	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	certo	certo	ADV	B	_	1	advmod	_	_
+8	che	che	SCONJ	CS	_	13	mark	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+12	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	13	iobj	_	_
+13	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+14	inguaiati	inguaiare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
+15	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+16	,con	,con	ADP	E	_	19	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	scuola.	scuola.	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ora io mi domando, chi avrà il coraggio di affidarsi ad un "inculator"?
+1	ora	ora	ADV	B	_	4	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	domando	domandare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	chi	chi	PRON	PR	Number=Sing|PronType=Rel	4	obj	_	_
+7	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11-12	affidarsi	_	_	_	_	_	_	_	_
+11	affidar	affidare	VERB	V	VerbForm=Inf	9	acl	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	ad	a	ADP	E	_	16	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	inculator	inculator	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = [lincubator + accelerator] - chi lo farà forse nn spargerà la voce..
+1	[	[	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	lincubator	lincubatorre	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	+	+	SYM	SYM	_	4	nmod	_	_
+4	accelerator	acceleratorre	NOUN	S	_	2	nmod	_	SpaceAfter=No
+5	]	]	PUNCT	FB	_	2	punct	_	_
+6	-	-	PUNCT	FF	_	2	punct	_	_
+7	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	nmod	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	acl:relcl	_	_
+10	forse	forse	ADV	B	_	12	advmod	_	_
+11	nn	nno	ADV	B	_	12	advmod	_	_
+12	spargerà	spargere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	advcl	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	voce.	voce.	NOUN	S	_	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

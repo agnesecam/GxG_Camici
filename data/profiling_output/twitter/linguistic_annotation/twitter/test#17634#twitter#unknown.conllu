@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Peppegentile97 Peppe ma farai uscire lo speciale 100k prima che arrivi a 200k?
+1	@Peppegentile97	@Peppegentile97	PROPN	SP	_	5	nsubj	_	_
+2	Peppe	Peppe	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	farai	faere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	uscire	uscire	VERB	V	VerbForm=Inf	0	root	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	speciale	speciale	ADJ	A	Number=Sing	8	amod	_	_
+8	100k	100k	NOUN	S	Gender=Masc	5	obj	_	_
+9	prima	prima	ADV	B	_	11	mark	_	_
+10	che	che	SCONJ	CS	_	9	fixed	_	_
+11	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	200k	200k	NOUN	S	Gender=Masc	11	obl	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #Peppe100k
+1	#Peppe100k	#Peppe100k	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Bninformatica Forse,ma non generalizzo.Se avessimo intercettato h24 x mesi Togliatti,Fanfani,Nenni,La Malfa,Berlinguer...filosofia, calcio?
+1	@Bninformatica	@Bninformatico	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+2	Forse,ma	Forse,ma	PROPN	SP	_	1	nmod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	generalizzo.Se	generalizzo.se	PROPN	SP	_	1	nmod	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	intercettato	intercettato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	h24	h24	NUM	N	NumType=Card	8	nummod	_	_
+8	x	x	SYM	SYM	_	9	obj	_	_
+9	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+10	Togliatti	Togliatti	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	Fanfani	Fanfani	PROPN	SP	_	6	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+14	Nenni,La	Nenni,La	PROPN	SP	_	6	conj	_	_
+15	Malfa,Berlinguer...filosofia	Malfa,Berlinguer...filosofia	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	14	punct	_	_
+17	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

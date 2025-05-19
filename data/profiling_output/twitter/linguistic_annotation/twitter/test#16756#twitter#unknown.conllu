@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lasciare significa:lasciare che per un po le cose seguano il loro corso, che si muovano liberamente senza il nostro intervento finché ...
+1	Lasciare	lasciare	PROPN	SP	_	2	nsubj	_	_
+2	significa:lasciare	significa:lasciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	po	po	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+9	seguano	seguire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	loro	loro	DET	AP	Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	corso	corso	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	muovano	muovare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	liberamente	libero	ADV	B	_	16	advmod	_	_
+18	senza	senza	ADP	E	_	21	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+22	finché	finché	SCONJ	CS	_	16	mark	_	_
+23	...	...	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #quandoavevo13anni mi infagottavo nelle camicie di mio padre per nascondere "quelle", che mi facevano sembrare già grande.
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	quandoavevo13anni	quandoavevo13anno	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+4	infagottavo	infagottare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5-6	nelle	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	camicie	camicia	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	padre	padre	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12	nascondere	nascondere	VERB	V	VerbForm=Inf	4	advcl	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	12	obj	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	14	punct	_	_
+17	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	obj	_	_
+19	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	_
+20	sembrare	sembrare	VERB	V	VerbForm=Inf	19	xcomp	_	_
+21	già	già	ADV	B	_	22	advmod	_	_
+22	grande	grande	ADJ	A	Number=Sing	20	xcomp	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

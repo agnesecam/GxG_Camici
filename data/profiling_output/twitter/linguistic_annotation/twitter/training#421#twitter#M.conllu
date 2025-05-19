@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Credevo che polici imbecilli come i nostri governati ce li avessimo solo noi..ma questi nordici ce battono.
+1	Credevo	Credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	15	mark	_	_
+3	polici	polico	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+4	imbecilli	imbecillo	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	come	come	ADP	E	_	8	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	governati	governato	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+9	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	15	expl	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+11	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	15	aux	_	_
+12	solo	solo	ADV	B	_	15	advmod	_	_
+13	noi..ma	noi..mo	ADV	B	_	15	advmod	_	_
+14	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	15	nsubj	_	_
+15	nordici	nordico	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+16	ce	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	obj	_	_
+17	battono.	battono.	NOUN	S	_	15	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/lega_nord/stat us/715230824220725248 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/lega_nord/stat	twitter.com/lega_nord/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/715230824220725248	us/715230824220725248	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

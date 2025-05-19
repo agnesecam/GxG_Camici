@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ricci: « Farei uno show per la Rai Berlusconi non uscirà di scena».
+1	Ricci	Riccio	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	«	«	PUNCT	FB	_	4	punct	_	_
+4	Farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+5	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	show	show	NOUN	S	Gender=Masc	4	obj	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Rai	Rai	PROPN	SP	_	4	obl	_	_
+10	Berlusconi	Berlusconi	PROPN	SP	_	9	flat:name	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	uscirà	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	scena	scena	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	»	»	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = Sei un finto imparziale proprio come Crozza http://www.
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	finto	finto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	imparziale	imparziale	ADJ	A	Number=Sing	3	amod	_	_
+5	proprio	proprio	ADV	B	_	7	advmod	_	_
+6	come	come	ADP	E	_	7	case	_	_
+7	Crozza	Crozza	PROPN	SP	_	3	nmod	_	_
+8	http://www	http://www	NOUN	S	_	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = corriere.it/politica/16_ap rile_04/ricci-farei-programma-rai-berlusconi-non-uscira-mai-scena-ba84b98c-f9d5-11e5-91c9-425ed3b43648.shtml …
+1	corriere.it/politica/16_ap	corriere.it/politica/16_ap	NOUN	S	Gender=Masc	0	root	_	_
+2	rile_04	rile_04	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	ricci-farei-programma-rai-berlusconi-non-uscira-mai-scena-ba84b98c-f9d5-11e5-91c9-425ed3b43648.shtml	ricci-farei-programma-rai-berlusconi-non-uscira-mai-scena-ba84b98c-f9d5-11e5-91c9-425ed3b43648.shtml	NOUN	S	Gender=Masc	1	nmod	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

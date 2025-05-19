@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho quasi finito i capitoli settimanali per Via col vento e sto avendo delle reazioni normalissime che autocensuro per decenza.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	quasi	quasi	ADV	B	_	3	advmod	_	_
+3	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	capitoli	capitolo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	settimanali	settimanale	ADJ	A	Number=Plur	5	amod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	Via	via	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9-10	col	_	_	_	_	_	_	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	vento	vento	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	avendo	avere	VERB	V	VerbForm=Ger	3	conj	_	_
+15-16	delle	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	reazioni	reazione	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	_
+18	normalissime	normale	ADJ	A	Degree=Abs|Gender=Fem|Number=Plur	17	amod	_	_
+19	che	che	PRON	PR	PronType=Rel	20	case	_	_
+20	autocensuro	autocensurare	NOUN	S	Gender=Masc	17	acl:relcl	_	_
+21	per	per	ADP	E	_	22	case	_	_
+22	decenza	decenza	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

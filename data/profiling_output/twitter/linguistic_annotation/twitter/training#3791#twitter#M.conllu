@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alfy_crf68 basta leale.
+1	@alfy_crf68	@alfy_crf68	NUM	N	NumType=Card	2	nummod	_	_
+2	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leale	leale	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Vale a dire, poter liberamente far coincidere ciò che si pensa con ciò che si pronuncia.
+1	Vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	1	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	poter	potere	AUX	VM	VerbForm=Inf	7	aux	_	_
+6	liberamente	libero	ADV	B	_	7	advmod	_	_
+7	far	fare	VERB	V	VerbForm=Inf	1	conj	_	_
+8	coincidere	coincidere	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+12	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obl	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	pronuncia	pronunciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

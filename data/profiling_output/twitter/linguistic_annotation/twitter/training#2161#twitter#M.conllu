@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MsgSilvia Non a tutti concedo di guardare dentro me...
+1	@MsgSilvia	@MsgSilvia	ADV	B	_	5	advmod	_	_
+2	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+5	concedo	concedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	guardare	guardare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	dentro	dentro	ADV	B	_	7	advmod	_	_
+9	me...	me.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Si rassegni...Non dipende da Lei..
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+2	rassegni...Non	rassegni...Non	PROPN	SP	_	3	nsubj	_	_
+3	dipende	dipendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	Lei.	Lei.	PROPN	SP	_	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

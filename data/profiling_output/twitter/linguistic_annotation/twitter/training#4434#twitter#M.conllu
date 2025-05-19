@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #RENZI ORA DOVRA ' TEMERE LA MAGGIORANZA PIU' CHE L'OPPOSIZIONEInchiesta a Potenza, nel Governo scoppia il caso Guidi http://www.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	RENZI	RENZI	PROPN	SP	_	19	nsubj	_	_
+3	ORA	ora	PROPN	SP	_	2	flat:name	_	_
+4	DOVRA	DOVRA	PROPN	SP	_	2	flat:name	_	_
+5	'	'	PUNCT	FB	_	2	punct	_	_
+6	TEMERE	temere	PROPN	SP	_	2	nmod	_	_
+7	LA	La	PROPN	SP	_	6	flat:name	_	_
+8	MAGGIORANZA	maggioranza	PROPN	SP	_	6	flat:name	_	_
+9	PIU'	PIU'	PROPN	SP	_	6	flat:name	_	_
+10	CHE	Che	PROPN	SP	_	6	flat:name	_	_
+11	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	OPPOSIZIONEInchiesta	OPPOSIZIONEInchiesta	PROPN	SP	_	6	nmod	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	Potenza	potenza	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	12	punct	_	_
+16-17	nel	_	_	_	_	_	_	_	_
+16	in	in	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+19	scoppia	scoppiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	caso	caso	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+22	Guidi	Guido	PROPN	SP	_	21	nmod	_	_
+23	http://www	http://www	NOUN	S	_	22	flat:name	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	19	punct	_	_
+
+# sent_id = 2
+# text = agi.it/cronaca/2016/0 3/31/news/indagine_a_potenza_nel_governo_scoppia_il_caso_guidi-658507/ …
+1	agi.it/cronaca/2016/0	agi.it/cronaca/2016/0	NUM	N	NumType=Range	2	nummod	_	_
+2	3/31	3/31	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	/news/	/news/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	indagine_a_potenza_nel_governo_scoppia_il_caso_guidi-658507	indagine_a_potenza_nel_governo_scoppia_il_caso_guidi-658507	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	_
+6	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sapete perché questi gesti piacciono alle Larrie ?
+1	Sapete	sapere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	perché	perché	SCONJ	CS	_	5	mark	_	_
+3	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	gesti	gesto	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	piacciono	piacere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	Larrie	Larrie	PROPN	SP	_	5	obl	_	_
+9	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Perché i Larry non lo fanno spesso e ciò lo rende più apprezzato- https:// twitter.com/daggertattooH/ status/718772301894918144 …
+1	Perché	perché	ADV	B	_	6	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Larry	Larry	PROPN	SP	_	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	spesso	spesso	ADV	B	_	6	advmod	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	nsubj	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	rende	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	apprezzato	apprezzato	ADJ	A	Gender=Masc|Number=Sing	11	xcomp	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	6	punct	_	_
+15	https:	https:	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	6	punct	_	_
+18	twitter.com/daggertattooH/	twitter.com/daggertattooH/	PROPN	SP	_	6	obj	_	_
+19	status/718772301894918144	status/718772301894918144	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @roberta_russo davvero.
+1	@roberta_russo	@roberta_rutere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	davvero	davvero	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Saranno le lentiggini che mi fan sembrare svampita.
+1	Saranno	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	cop	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	lentiggini	lentiggine	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	fan	fan	NOUN	S	_	7	obj	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+8	svampita	svampito	NOUN	S	Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

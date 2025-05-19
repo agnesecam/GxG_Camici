@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cr7esmivida @veryverytrutru Appena mi metto in pari con voi avrete un altra persona con cui disagiare per PLL
+1	@cr7esmivida	@cr7esmividare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@veryverytrutru	@veryverytrutru	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Appena	appena	PROPN	SP	_	1	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+5	metto	mettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	pari	pari	ADJ	A	_	5	obl	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	5	obl	_	_
+10	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	5	advcl	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	altra	altro	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	persona	persona	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	cui	cui	PRON	PR	PronType=Rel	16	obl	_	_
+16	disagiare	disagiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	PLL	PLL	PROPN	SP	_	16	obl	_	SpacesAfter=\n
+

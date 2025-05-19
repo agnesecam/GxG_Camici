@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "È come se avessero giocato cani contro gatti e hanno vinto i cani" spiegando #BarcaReal alla figlia 8enne e gattara.
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	ADV	B	_	6	advmod	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+7	cani	cane	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	contro	contro	ADP	E	_	9	case	_	_
+9	gatti	gatto	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	cani	cane	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	16	punct	_	_
+16	spiegando	spiegare	VERB	V	VerbForm=Ger	12	advcl	_	_
+17	#	#	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	BarcaReal	BarcaReal	PROPN	SP	_	16	obj	_	_
+19-20	alla	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	figlia	figlia	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+22	8enne	8enne	ADJ	A	Number=Sing	21	amod	_	_
+23	e	e	CCONJ	CC	_	24	cc	_	_
+24	gattara	gattaro	ADJ	A	Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sareste così gentili da farci entrare e salvarci dal freddo e dalla pioggia?
+1	Sareste	Saresta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	così	così	ADV	B	_	3	advmod	_	_
+3	gentili	gentile	ADJ	A	Number=Plur	1	amod	_	_
+4	da	da	ADP	E	_	5	mark	_	_
+5-6	farci	_	_	_	_	_	_	_	_
+5	far	fare	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+7	entrare	entrare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9-10	salvarci	_	_	_	_	_	_	_	_
+9	salvar	salvare	VERB	V	VerbForm=Inf	7	conj	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+11-12	dal	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	freddo	freddo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15-16	dalla	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	pioggia	pioggia	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = @MarroneEmma #EmmaSuite1025Live @rtl1025
+1	@MarroneEmma	@MarroneEmma	PROPN	SP	_	0	root	_	_
+2	#EmmaSuite1025Live	#EmmaSuite1025Live	PROPN	SP	_	1	flat:name	_	_
+3	@rtl1025	@rtl1025	NUM	N	NumType=Card	1	nummod	_	SpacesAfter=\n
+

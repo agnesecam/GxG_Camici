@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Legge di Murphy:
+1	Legge	legge	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	Murphy	Murphy	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = se qualcosa potrebbe andare male, lo farà !
+1	se	se	SCONJ	CS	_	4	mark	_	_
+2	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	nsubj	_	_
+3	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	andare	andare	VERB	V	VerbForm=Inf	8	advcl	_	_
+5	male	male	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	!	!	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

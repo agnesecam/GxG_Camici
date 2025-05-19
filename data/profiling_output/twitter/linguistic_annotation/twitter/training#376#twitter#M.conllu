@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tranellio Se avessimo avuto governi così, oggi staremmo una favola!
+1	@tranellio	@tranellio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	governi	governare	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	così	così	ADV	B	_	11	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	11	punct	_	_
+8	oggi	oggi	ADV	B	_	11	advmod	_	_
+9	staremmo	staere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	favola	favola	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @repubblicait come farà Travaglio a invocare il conflitto d'interessi di Berlusconi ora ?
+1	@repubblicait	@repubblicait	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	SCONJ	CS	_	3	mark	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+4	Travaglio	Travaglio	PROPN	SP	_	3	obj	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	invocare	invocare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	conflitto	conflitto	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	d'	di	ADP	E	_	10	case	_	SpaceAfter=No
+10	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Berlusconi	Berlusconi	PROPN	SP	_	8	nmod	_	_
+13	ora	ora	ADV	B	_	12	advmod	_	_
+14	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Vivendi
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Vivendi	Vivendi	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

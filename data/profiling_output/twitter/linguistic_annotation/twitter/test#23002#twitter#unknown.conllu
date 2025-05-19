@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = direi che la verifica è semplice:
+1	direi	dire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	verifica	verifica	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	semplice	semplice	ADJ	A	Number=Sing	1	ccomp	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = se su quel conto alle poste ci sono soldi glieli devono sbloccare, perché di... http:// fb.me/5Ca3zdq6I
+1	se	se	SCONJ	CS	_	9	mark	_	_
+2	su	su	ADP	E	_	4	case	_	_
+3	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	conto	conto	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	poste	posta	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+10	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+11-12	glieli	_	_	_	_	_	_	_	_
+11	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+13	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	sbloccare	sbloccare	VERB	V	VerbForm=Inf	9	ccomp	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	9	punct	_	_
+16	perché	perché	SCONJ	CS	_	17	mark	_	_
+17	di...	di.	NUM	N	NumType=Card	9	advcl	_	_
+18	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	fb.me/5Ca3zdq6I	fb.me/5Ca3zdq6I	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @limesonline @alearesu magari fossimo . davvero nazionalisti,allora i Maro sarebbero a casa,allora l'Egitto ci rispetterebbe invece siamo PD
+1	@limesonline	@limesonlina	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+2	@alearesu	@alearesu	ADJ	A	_	1	amod	_	_
+3	magari	magari	ADV	B	_	4	advmod	_	_
+4	fossimo	essere	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+5	.	.	PUNCT	FS	_	1	punct	_	_
+6	davvero	davvero	ADV	B	_	7	advmod	_	_
+7	nazionalisti	nazionaledere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	SpaceAfter=No
+8	,allora	,allora	ADV	B	_	7	advmod	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	Maro	Maro	PROPN	SP	_	7	nsubj	_	_
+11	sarebbero	essere	AUX	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	casa,allora	casa,allora	NOUN	S	Gender=Fem|Number=Sing	17	advcl	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	Egitto	Egitto	PROPN	SP	_	17	nsubj	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	17	obj	_	_
+17	rispetterebbe	rispettare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+18	invece	invece	ADV	B	_	17	advmod	_	_
+19	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	PD	Pd	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

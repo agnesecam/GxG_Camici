@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaCaSiii
+1	@LaCaSiii	@LaCaSterzo	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	_
+
+# sent_id = 2
+# text = Le delusioni rendono più forti!
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	delusioni	delusione	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	rendono	rendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	forti	forte	ADJ	A	Number=Plur	3	xcomp	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ma a volte sono molto pesanti, chi ti delude non si accorge neppure (pazienza)
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	volte	volta	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	molto	molto	ADV	B	_	6	advmod	_	_
+6	pesanti	pesante	ADJ	A	Number=Plur	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	chi	chi	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+10	delude	deludere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+13	accorge	accorgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+14	neppure	neppure	ADV	BN	PronType=Neg	16	advmod	_	_
+15	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	pazienza	pazienza	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

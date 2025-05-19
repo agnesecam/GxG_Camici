@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma mi sa che in questo giro con la vigilanza targata BCE i capitali qualcuno li dovrà mettere https:// twitter.com/ricpuglisi/sta tus/717769722935250946 …
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	18	mark	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	giro	giro	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vigilanza	vigilanza	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	targata	targare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+12	BCE	BCE	PROPN	SP	_	10	nmod	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	capitali	capitale	NOUN	S	Number=Plur	18	obj	_	_
+15	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	18	nsubj	_	_
+16	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	mettere	mettere	VERB	V	VerbForm=Inf	3	ccomp	_	_
+19	https:	https:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	_
+22	twitter.com/ricpuglisi/sta	twitter.com/ricpuglisi/stare	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+23	tus/717769722935250946	tus/717769722935250946	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	22	punct	_	SpacesAfter=\n
+

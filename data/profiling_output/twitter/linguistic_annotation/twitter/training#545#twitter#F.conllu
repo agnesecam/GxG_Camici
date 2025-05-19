@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sei così piccolo, così bello, così vivace.
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	così	così	ADV	B	_	3	advmod	_	_
+3	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	così	così	ADV	B	_	6	advmod	_	_
+6	bello	bello	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	così	così	ADV	B	_	9	advmod	_	_
+9	vivace.	vivace.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..se ti avessimo ora fra le braccia, non so che ti… https://www.
+1	..se	..so	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ti	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	ora	ora	ADV	B	_	3	advmod	_	_
+5	fra	fra	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	braccia	braccia	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	ti…	ti…	PUNCT	FF	_	13	punct	_	_
+13	https://www	https://www	NOUN	S	_	10	ccomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDOev7Yl6sP/
+1	instagram.com/p/BDOev7Yl6sP/	instagram.com/p/BDOev7Yl6sP/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi fai sembrare un pozzo senza fondo :( https:// twitter.com/dareasfolk/sta tus/714954531394756608 …
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	pozzo	pozzo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	senza	senza	ADP	E	_	7	case	_	_
+7	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	:	:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+9	(	(	PUNCT	FB	_	13	punct	_	_
+10	https:	https:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	_
+13	twitter.com/dareasfolk/sta	twitter.com/dareasfolk/stare	NOUN	S	Gender=Fem|Number=Sing	5	appos	_	_
+14	tus/714954531394756608	tus/714954531394756608	NUM	N	NumType=Card	13	nummod	_	_
+15	…	…	PUNCT	FF	_	13	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = come se la vita non facesse già abbasanza schifo, ora venite a dirmi che ludovica ha scelto fabio?
+1	come	come	ADV	B	_	6	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vita	vita	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	già	già	ADV	B	_	9	advmod	_	_
+8	abbasanza	abbasanza	ADV	B	_	9	advmod	_	_
+9	schifo	schifo	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	ora	ora	ADV	B	_	12	advmod	_	_
+12	venite	venire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14-15	dirmi	_	_	_	_	_	_	_	_
+14	dir	dire	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	expl	_	_
+16	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+17	ludovica	ludovica	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
+18	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl:relcl	_	_
+20	fabio	fabio	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

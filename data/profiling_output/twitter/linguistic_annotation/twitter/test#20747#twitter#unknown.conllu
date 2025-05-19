@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se fossi un gelato, che gusto saresti ?
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	fossi	essere	AUX	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gelato	gelato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	gusto	gusto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+8	saresti	saredere	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = — Menta perché è un gusto fresco https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM5SEC7LCL2WRLPWXAJ24OV45V2Q24OJAMGBFMWRJWK6374FACIFVTWXQVYYU5Y25CPT22BFDJUUBBZFKJA5YHAM7EA6RDOKHGTCZPBBTFT2VYKEQ2T7GGNGN2J2LAMXDC7HFHNLE4Z7FU32TWWKW2MYHSIUYFB5HK5NNIJ4H3TI43KFDU4EKQ==== …
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Menta	Mentare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	perché	perché	SCONJ	CS	_	6	mark	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	gusto	gusto	NOUN	S	Gender=Masc|Number=Sing	2	advcl	_	_
+7	fresco	fresco	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	_
+11	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	6	nmod	_	_
+12	7B667HQMHN2IG6NM5SEC7LCL2WRLPWXAJ24OV45V2Q24OJAMGBFMWRJWK6374FACIFVTWXQVYYU5Y25CPT22BFDJUUBBZFKJA5YHAM7EA6RDOKHGTCZPBBTFT2VYKEQ2T7GGNGN2J2LAMXDC7HFHNLE4Z7FU32TWWKW2MYHSIUYFB5HK5NNIJ4H3TI43KFDU4EKQ====	7B667HQMHN2IG6NM5SEC7LCL2WRLPWXAJ24OV45V2Q24OJAMGBFMWRJWK6374FACIFVTWXQVYYU5Y25CPT22BFDJUUBBZFKJA5YHAM7EA6RDOKHGTCZPBBTFT2VYKEQ2T7GGNGN2J2LAMXDC7HFHNLE4Z7FU32TWWKW2MYHSIUYFB5HK5NNIJ4H3TI43KFDU4EKQ====	PROPN	SP	_	11	flat:name	_	_
+13	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

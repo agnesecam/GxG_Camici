@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Brutto quando fai di tutto per sembrare stronza e forte e invece stai malissimo, sei ipersensibile e sei debole.
+1	Brutto	brutto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	quando	quando	SCONJ	CS	_	3	mark	_	_
+3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	obl	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	3	advcl	_	_
+8	stronza	stronza	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	forte	forte	ADJ	A	Number=Sing	8	conj	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	invece	invece	ADV	B	_	13	advmod	_	_
+13	stai	stare	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+14	malissimo	male	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	ipersensibile	ipersensibile	ADJ	A	Number=Sing	1	conj	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	sei	sei	NUM	N	NumType=Card	20	nummod	_	_
+20	debole	debole	NOUN	S	Gender=Fem|Number=Plur	17	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

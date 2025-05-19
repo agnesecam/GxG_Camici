@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Basta a mia madre piace Manuel dunque me lo porto a casa.
+1	Basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	madre	madre	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	Manuel	Manuel	PROPN	SP	_	5	nsubj	_	_
+7	dunque	dunque	ADV	B	_	5	advmod	_	_
+8	me	me	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	porto	porire	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	casa.	casa.	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Tanto Ludovica non lo sceglie #uominiedonne
+1	Tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	Ludovica	Ludovica	PROPN	SP	_	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	sceglie	scegliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	5	xcomp	_	SpacesAfter=\n
+

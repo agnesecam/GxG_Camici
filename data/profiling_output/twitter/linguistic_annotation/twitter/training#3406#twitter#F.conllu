@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @panda_chats Pure io!
+1	@panda_chats	@panda_chats	PROPN	SW	Foreign=Yes	0	root	_	_
+2	Pure	pure	PROPN	SP	_	1	flat:name	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Stare in questo fandom mi farà venire problemi di pressione
+1	Stare	stare	VERB	V	VerbForm=Inf	6	advcl	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	fandom	fandom	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	venire	venire	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	pressione	pressione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpacesAfter=\n
+

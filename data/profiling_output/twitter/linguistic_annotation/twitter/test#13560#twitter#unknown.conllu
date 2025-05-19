@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Partita inutile, partita valsa zero, partita che fa bruciare parecchi orifizi.
+1	Partita	partita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	inutile	inutile	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	partita	partita	NOUN	S	Gender=Fem|Number=Sing	1	appos	_	_
+5	valsa	valso	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	zero	zero	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	partita	partire	NOUN	S	Gender=Fem|Number=Sing	1	appos	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	bruciare	bruciare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	orifizi	orifizio	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma solo l'Inter è capace di cose del genere #amala
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	solo	solo	ADV	B	_	6	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	Inter	Inter	PROPN	SP	_	6	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	capace	capace	ADJ	A	Number=Sing	12	nsubj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	genere	genere	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	#amala	#amalo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MONETA SOVRANA E SVALUTAZIONE RISOLVONO TUTTO NO?
+1	MONETA	moneta	PROPN	SP	_	0	root	_	_
+2	SOVRANA	SOVRANA	PROPN	SP	_	1	flat:name	_	_
+3	E	e	CCONJ	CC	_	4	cc	_	_
+4	SVALUTAZIONE	svalutazione	PROPN	SP	_	1	conj	_	_
+5	RISOLVONO	RISOLVONO	PROPN	SP	_	4	flat:name	_	_
+6	TUTTO	tutto	PROPN	SP	_	4	flat:name	_	_
+7	NO	No	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...
+1	...	.	PUNCT	FF	_	0	root	_	_
+
+# sent_id = 3
+# text = ;-) Giappone:esportazioni calano per quinto mese consecutivo http://www.
+1	;	;	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	_
+4	Giappone	Giappone	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+5	:esportazioni	:esportazione	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+6	calano	calare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	quinto	quinto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	mese	mese	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+10	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	http://www	http://www	NOUN	S	_	6	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = borsainside.com/mercati_asiati ci/61385-giappone-le-esportazioni-calano-per-il-quinto-mese-consecutivo/ …
+1	borsainside.com/mercati_asiati	borsainside.com/mercati_asiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+2	ci/61385	ci/61385	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	giappone-le	giappone-le	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+5	-esportazioni	-esportazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+7	calano	calare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	per-il	per-ile	ADJ	A	_	5	amod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	quinto-mese	quinto-mese	ADJ	A	Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

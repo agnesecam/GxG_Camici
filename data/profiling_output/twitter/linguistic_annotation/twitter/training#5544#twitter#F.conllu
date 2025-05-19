@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @angevliam secondo me Harry si è stancato di questa farsa delle girlfriends, infatti dopo Kendal non si è più visto con qualcuna ...
+1	@angevliam	@angevliam	NOUN	S	Gender=Masc	7	obl	_	_
+2	secondo	secondo	ADP	E	_	3	case	_	_
+3	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+4	Harry	Harry	PROPN	SP	_	7	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	stancato	stancare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	farsa	farsa	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11-12	delle	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	girlfriends	girlfriends	NOUN	S	Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	10	punct	_	_
+15	infatti	infatti	ADV	B	_	22	advmod	_	_
+16	dopo	dopo	ADP	E	_	17	case	_	_
+17	Kendal	Kendal	PROPN	SP	_	22	obl	_	_
+18	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl:impers	_	_
+20	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+21	più	più	ADV	B	_	22	advmod	_	_
+22	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+23	con	con	ADP	E	_	24	case	_	_
+24	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	22	obl	_	_
+25	...	.	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

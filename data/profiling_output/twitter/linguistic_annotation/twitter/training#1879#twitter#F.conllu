@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nichel, ferro, piombo, manganese e arsenico nei nostri terreni, nelle nostre acque!
+1	Nichel	Nichel	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	ferro	ferro	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	piombo	piombo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	manganese	manganese	ADJ	A	Number=Sing	1	conj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	arsenico	arsenico	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+10-11	nei	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	13	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	terreni	terreno	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	1	punct	_	_
+15-16	nelle	_	_	_	_	_	_	_	_
+15	in	in	ADP	E	_	18	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+17	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	acque	acqua	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ho chiesto un intervento...
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	intervento...	intervento...	NOUN	S	_	2	obj	_	_
+
+# sent_id = 3
+# text = http:// fb.me/2gvxVgoZn
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2gvxVgoZn	fb.me/2gvxVgoZn	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

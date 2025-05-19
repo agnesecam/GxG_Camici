@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tante chiacchiere sull'innovazione.
+1	Tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	chiacchiere	chiacchiere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3-4	sull'	_	_	_	_	_	_	_	SpaceAfter=No
+3	su	su	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	innovazione	innovazione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E dimentichiamo ciò che serve davvero:
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	dimentichiamo	dimenticare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	davvero	davvero	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = agendadigitale.eu/startup/tante- chiacchiere-sull-innovazione-e-dimentichiamo-cio-che-serve-davvero_1758.htm#.Vwj1WWufudw.twitter … #startup #innovazione
+1	agendadigitale.eu/startup/tante-	_	PUNCT	FF	_	2	punct	_	_
+2	chiacchiere	chiacchiere	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	sull-	_	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	innovazione	innovazione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	e-	_	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	dimentichiamo	dimenticare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	cio-	_	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+11	che	che	SCONJ	CS	_	13	mark	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	serve-davvero_1758.htm#	serve-davvero_1758.htm#	PROPN	SP	_	8	ccomp	_	SpaceAfter=No
+14	.Vwj1WWufudw.twitter	.Vwj1WWufudw.twitter	PROPN	SP	_	13	flat:name	_	_
+15	…	…	PUNCT	FF	_	13	punct	_	_
+16	#startup	#startup	NOUN	S	Number=Sing	13	nmod	_	_
+17	#innovazione	#innovazione	NOUN	S	Gender=Fem|Number=Sing	16	compound	_	SpacesAfter=\n
+

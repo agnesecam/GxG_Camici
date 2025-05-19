@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima mi sfancula via messaggio e mesi dopo eccolo a tempestarmi di like, glielo direi io cosa ci deve fare con quel pollice alzato.
+1	Prima	prima	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	sfancula	sfanculare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	via	via	ADP	E	_	5	case	_	_
+5	messaggio	messaggio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
+8	dopo	dopo	ADV	B	_	12	mark	_	_
+9-10	eccolo	_	_	_	_	_	_	_	_
+9	ecco	ecco	ADV	B	_	12	advmod	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12-13	tempestarmi	_	_	_	_	_	_	_	_
+12	tempestar	tempestare	VERB	V	VerbForm=Inf	3	advcl	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	expl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	like	like	X	SW	Foreign=Yes	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	19	punct	_	_
+17-18	glielo	_	_	_	_	_	_	_	_
+17	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	iobj	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	direi	dire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj	_	_
+20	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+21	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	24	obj	_	_
+22	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	24	iobj	_	_
+23	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	fare	fare	VERB	V	VerbForm=Inf	19	ccomp	_	_
+25	con	con	ADP	E	_	27	case	_	_
+26	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	27	det	_	_
+27	pollice	pollice	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
+28	alzato	alzato	ADJ	A	Gender=Masc|Number=Sing	27	amod	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

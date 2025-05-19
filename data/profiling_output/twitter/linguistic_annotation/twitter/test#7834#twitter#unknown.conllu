@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E dunque per”Panama Papers” ci sono il figlio di un SS (lo fa Di Caprio )ed un ex funzionario Onu,(Kevin Spacey)Montezemolo farà se stesso
+1	E	e	CCONJ	CC	_	8	cc	_	_
+2	dunque	dunque	ADV	B	_	4	advmod	_	_
+3	per	per	ADP	E	_	4	case	_	SpaceAfter=No
+4	”Panama	”Panama	PROPN	SP	_	8	obl	_	_
+5	Papers	Papers	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	”	”	PUNCT	FB	_	4	punct	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+8	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	29	nsubj	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	SS	SS	PROPN	SP	_	29	obl	_	_
+14	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+17	Di	Di	PROPN	SP	_	16	xcomp	_	_
+18	Caprio	Caprio	PROPN	SP	_	17	flat:name	_	_
+19	)	)	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+20	ed	e	CCONJ	CC	_	23	cc	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	ex	ex	ADJ	A	_	23	amod	_	_
+23	funzionario	funzionario	NOUN	S	Gender=Masc|Number=Sing	29	nsubj	_	_
+24	Onu,	Onu,	PROPN	SP	_	29	obj	_	SpaceAfter=No
+25	(	(	PUNCT	FB	_	26	punct	_	SpaceAfter=No
+26	Kevin	Kevin	PROPN	SP	_	29	nsubj	_	_
+27	Spacey	Spacey	PROPN	SP	_	26	flat:name	_	SpaceAfter=No
+28	)Montezemolo	)Montezemolo	PROPN	SP	_	26	flat:name	_	_
+29	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+30	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	29	expl	_	_
+31	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	29	xcomp	_	SpacesAfter=\n
+

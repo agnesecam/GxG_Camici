@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensionato con la minima lancia monetina per decidere come suicidarsi, il fisco gliela sequestra http:// fb.me/6YB4p8LvQ
+1	Pensionato	pensionato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+2	con	con	ADP	E	_	5	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	minima	minimo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	lancia	lancia	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+6	monetina	monetino	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	decidere	decidere	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	come	come	SCONJ	CS	_	10	mark	_	_
+10-11	suicidarsi	_	_	_	_	_	_	_	SpaceAfter=No
+10	suicidar	suicidare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+12	,	,	PUNCT	FF	_	1	punct	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fisco	fisco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+15-16	gliela	_	_	_	_	_	_	_	_
+15	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	obj	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	sequestra	sequestra	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	fb.me/6YB4p8LvQ	fb.me/6YB4p8LvQ	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

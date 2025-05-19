@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Dan_Maze non Che avessimo molte scelte di giocatori.
+1	@Dan_Maze	@Dan_Maze	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	Che	che	SCONJ	CS	_	4	mark	_	_
+4	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	molte	molto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	scelte	scelta	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	giocatori.	giocatori.	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Poli boateng balo menez ....
+1	Poli	Polo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	boateng	boateng	NOUN	S	_	1	compound	_	_
+3	balo	balo	NOUN	S	Gender=Masc|Number=Sing	2	compound	_	_
+4	menez	menez	NOUN	S	Gender=Masc	3	compound	_	_
+5	...	...	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

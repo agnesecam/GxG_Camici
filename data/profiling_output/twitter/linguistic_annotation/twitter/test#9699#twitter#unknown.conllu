@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MCaronni godo vincere il quinto scudetto consecutivo sul CAMPO.
+1	@MCaronni	@MCaronno	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	godo	godo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vincere	vincere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	quinto	quinto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8-9	sul	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	CAMPO	campo	PROPN	SP	_	3	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Manifesta superiorità sia tecnica che societaria.
+1	Manifesta	manifesta	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	superiorità	superiorità	NOUN	S	Gender=Fem	4	nsubj	_	_
+3	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	tecnica	tecnica	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	societaria	societario	ADJ	A	Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = In Italia non c'è storia.
+1	In	in	ADP	E	_	2	case	_	_
+2	Italia	Italia	PROPN	SP	_	5	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	storia	storia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

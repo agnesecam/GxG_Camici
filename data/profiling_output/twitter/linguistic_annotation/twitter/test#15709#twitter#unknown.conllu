@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le sue vesti sitrasformano in bioccoli di pelo,lebraccia in zampe:è diventato un lupo!
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	vesti	veste	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	sitrasformano	sitrasformare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	bioccoli	bioccolo	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	pelo,lebraccia	pelo,lebraccia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	zampe:è	zampe:è	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	obl	_	_
+11	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	11	xcomp	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #Licàone #conOvidio @VentagliP pic.twitter.com/gRjQ4S2xlZ
+1	#Licàone	#Licàone	PROPN	SP	_	0	root	_	_
+2	#conOvidio	#conOvidio	PROPN	SP	_	1	flat:name	_	_
+3	@VentagliP	@VentagliP	PROPN	SP	_	1	flat:name	_	_
+4	pic.twitter.com/gRjQ4S2xlZ	pic.twitter.com/gRjQ4S2xlZ	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

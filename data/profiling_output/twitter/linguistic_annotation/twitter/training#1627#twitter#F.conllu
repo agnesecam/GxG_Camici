@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @b_chet con i ginseng, io che ti asciugo il sudore sudore,le tue patatine, le nostre insalatone, cocomero, tanto alchool e sclerosi
+1	@b_chet	@b_che	NOUN	S	Gender=Masc	6	nmod	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ginseng	ginseng	NOUN	S	Gender=Masc	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+9	asciugo	asciugare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	sudore	sudore	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	sudore,le	sudore,le	ADJ	A	Number=Sing	11	amod	_	_
+13	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	patatine	patatina	NOUN	S	Gender=Fem	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	18	punct	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+17	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	insalatone	insalatone	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	18	punct	_	_
+20	cocomero	cocomero	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	18	punct	_	_
+22	tanto	tanto	ADV	B	_	23	advmod	_	_
+23	alchool	alchool	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	sclerosi	scleroso	ADJ	A	Gender=Masc|Number=Plur	23	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma come a Salvo gli dai 7,5/8?
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	come	come	ADV	B	_	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	Salvo	salvo	PROPN	SP	_	2	obl	_	_
+5	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+6-7	dai	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	7,5	7,5	NUM	N	NumType=Card	5	nmod	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	8	8	NUM	N	NumType=Card	8	compound	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Ma non vi stavate frequentando?
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	5	expl	_	_
+4	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	frequentando	frequentare	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = — Brava/o ci stavamo https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM7GGDTKAWS7Y3LUPBJSS2J7FI2AT5AJKQFZEM6QR2K26PKEAAI5WTKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U====== …
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Brava	bravare	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	o	o	CCONJ	CC	_	6	cc	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	conj	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	2	punct	_	_
+10	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	2	nmod	_	_
+11	7B667HQMHN2IG6NM7GGDTKAWS7Y3LUPBJSS2J7FI2AT5AJKQFZEM6QR2K26PKEAAI5WTKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U======	7B667HQMHN2IG6NM7GGDTKAWS7Y3LUPBJSS2J7FI2AT5AJKQFZEM6QR2K26PKEAAI5WTKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U======	PROPN	SP	_	10	flat:name	_	_
+12	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

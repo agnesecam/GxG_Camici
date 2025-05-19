@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ..ma cazzo dovrà esserci una giustizia se non divina ma terrena che vi punisca a voi senza cuore....
+1	..ma	..ma	ADV	B	_	10	advmod	_	_
+2	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+4-5	esserci	_	_	_	_	_	_	_	_
+4	esser	essere	AUX	VA	VerbForm=Inf	10	cop	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	divina	divinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	ma	ma	CCONJ	CC	_	12	cc	_	_
+12	terrena	terrenare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+13	che	che	SCONJ	CS	_	15	mark	_	_
+14	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	15	obj	_	_
+15	punisca	punire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	15	obl	_	_
+18	senza	senza	ADP	E	_	19	case	_	_
+19	cuore...	cuore...	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = @comunerimini aiutate @simocavagna1 ora!
+1	@comunerimini	@comunerimino	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	aiutate	aiutare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	@simocavagna1	@simocavagna1	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ora	ora	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

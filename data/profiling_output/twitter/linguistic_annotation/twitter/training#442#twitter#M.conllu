@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @luigidimaio @GAIDORic Se lo avessimo ,un P.d.C.:
+1	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@GAIDORic	@GAIDORic	PROPN	SP	_	1	nmod	_	_
+3	Se	se	SCONJ	CS	_	5	mark	_	_
+4	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	,un	,uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	P.d.C.	P.d.c.	PROPN	SP	_	5	xcomp	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sempre in movimento e in "viaggio",per sfuggire all'abbraccio della gente:Chi l'ha visto?
+1	Sempre	sempre	ADV	B	_	3	advmod	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	movimento	movimento	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	,per	,pere	AUX	VA	VerbForm=Inf	10	aux	_	_
+10	sfuggire	sfuggire	VERB	V	VerbForm=Inf	0	root	_	_
+11-12	all'	_	_	_	_	_	_	_	SpaceAfter=No
+11	a	a	ADP	E	_	13	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	abbraccio	abbraccio	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	gente:Chi	gente:Co	PRON	PR	Number=Sing|PronType=Rel	13	nmod	_	_
+17	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	19	obj	_	SpaceAfter=No
+18	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

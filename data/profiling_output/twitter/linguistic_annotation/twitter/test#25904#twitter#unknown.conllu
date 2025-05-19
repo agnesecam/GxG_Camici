@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Brian__Amato grazie per il sogno.
+1	@Brian__Amato	@Brian__Amare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	grazie	grazie	NOUN	S	_	5	case	_	_
+3	per	per	ADP	E	_	2	fixed	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mai avuti così tanti
+1	Mai	mai	ADV	B	_	2	advmod	_	_
+2	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	così	così	ADV	B	_	2	advmod	_	_
+4	tanti	tanto	ADJ	A	Gender=Masc|Number=Plur	2	xcomp	_	SpacesAfter=\n
+

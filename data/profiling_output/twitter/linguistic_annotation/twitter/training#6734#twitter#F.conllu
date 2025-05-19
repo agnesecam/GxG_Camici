@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non sono nemmeno le dieci di sera, di sabato, e io già ho sonno e a malapena sto seguendo il telefilm.
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	nemmeno	nemmeno	ADV	BN	PronType=Neg	5	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	dieci	dieci	NUM	N	NumType=Card	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	sera	sera	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	16	punct	_	_
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+14	già	già	ADV	B	_	16	advmod	_	_
+15	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	sonno	sonno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+17	e	e	CCONJ	CC	_	21	cc	_	_
+18	a	a	ADP	E	_	19	case	_	_
+19	malapena	malapena	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+20	sto	sto	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	seguendo	seguire	VERB	V	VerbForm=Ger	16	conj	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	telefilm	telefilm	NOUN	S	Gender=Masc	21	obj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Mi sento vecchia.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vecchia	vecchio	ADJ	A	Gender=Fem|Number=Sing	2	xcomp	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

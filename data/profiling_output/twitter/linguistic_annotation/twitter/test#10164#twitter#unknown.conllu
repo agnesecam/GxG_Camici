@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'esperimento italiano Virgo era inattivo mentre quello americano faceva la scoperta del secolo...
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	esperimento	esperimento	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	Virgo	Virgo	PROPN	SP	_	2	nmod	_	_
+5	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	inattivo	inattivo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+7	mentre	mentre	SCONJ	CS	_	10	mark	_	_
+8	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	_
+9	americano	americano	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	scoperta	scoperta	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	secolo...	secolo...	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+
+# sent_id = 2
+# text = #sapevatelo https:// twitter.com/PhysicsWorld/s tatus/717385538513317888 …
+1	#sapevatelo	#sapevatelo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	twitter.com/PhysicsWorld/s	twitter.com/PhysicsWorld/s	PROPN	SP	_	1	nmod	_	_
+6	tatus/717385538513317888	tatus/717385538513317888	NUM	N	NumType=Card	5	nummod	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

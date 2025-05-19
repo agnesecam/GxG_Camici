@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo è ciò che accade nei laboratori delle grandi aziende, uno scandalo!
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	accade	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6-7	nei	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	laboratori	laboratorio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	grandi	grande	ADJ	A	Number=Plur	12	amod	_	_
+12	aziende	azienda	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	scandalo	scandalo	NOUN	S	Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non acquistate mai... http:// fb.me/1VBUsuQ1l
+1	Non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+2	acquistate	acquistare	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+3	mai...	mai...	NOUN	S	_	2	conj	_	_
+4	http:	http:	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	fb.me/1VBUsuQ1l	fb.me/1VBUsuQ1l	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

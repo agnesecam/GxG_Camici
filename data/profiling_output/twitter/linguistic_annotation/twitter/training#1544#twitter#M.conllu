@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A Tribuna Referendum, per esporre nostre posizioni su tematiche Referendum 17 aprile - http:// bit.ly/1WjItAG pic.twitter.com/YS7wfuAVPd
+1	A	a	ADP	E	_	2	case	_	_
+2	Tribuna	tribuno	PROPN	SP	_	0	root	_	_
+3	Referendum	referendum	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	esporre	esporre	VERB	V	VerbForm=Inf	2	acl	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	posizioni	posizione	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	su	su	ADP	E	_	10	case	_	_
+10	tematiche	tematico	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	Referendum	referendum	PROPN	SP	_	10	nmod	_	_
+12	17	17	NUM	N	NumType=Card	10	nmod	_	_
+13	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	12	flat	_	_
+14	-	-	PUNCT	FF	_	6	punct	_	_
+15	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	_
+18	bit.ly/1WjItAG	bit.ly/1WjItAg	PROPN	SP	_	2	nmod	_	_
+19	pic.twitter.com/YS7wfuAVPd	pic.twitter.com/YS7wfuAVPd	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

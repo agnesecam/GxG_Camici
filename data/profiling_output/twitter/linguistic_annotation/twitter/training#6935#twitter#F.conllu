@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E mi compiaccio di non avere nella mia rubrica telefonica un sol numero di essi .Conosco solo gente perbene.
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	compiaccio	compiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	di	di	ADP	E	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	avere	avere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7-8	nella	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	rubrica	rubrica	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+11	telefonica	telefonico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	sol	solo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	numero	numero	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nmod	_	_
+17	.Conosco	.Conosco	PROPN	SP	_	16	nmod	_	_
+18	solo	solo	ADV	B	_	19	advmod	_	_
+19	gente	gente	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+20	perbene	perbene	ADJ	A	_	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @Erriders #referendum17aprile
+1	@Erriders	@Erriders	NOUN	S	Gender=Masc	0	root	_	_
+2	#referendum17aprile	#referendum17aprile	ADJ	A	Number=Sing	1	amod	_	SpacesAfter=\n
+

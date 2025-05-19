@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lahore, strage in un parco per bambini mentre stavano festeggiando la Pasqua.
+1	Lahore	Lahore	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	strage	strage	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	parco	parco	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+9	mentre	mentre	SCONJ	CS	_	11	mark	_	_
+10	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	festeggiando	festeggiare	VERB	V	VerbForm=Ger	6	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Pasqua	Pasqua	PROPN	SP	_	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Si parla di almeno 50 morti e 100... http:// fb.me/3gu7StK2v
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	almeno	almeno	ADV	B	_	5	advmod	_	_
+5	50	50	NUM	N	NumType=Card	6	nummod	_	_
+6	morti	morto	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	100...	100...	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	6	punct	_	_
+12	fb.me/3gu7StK2v	fb.me/3gu7StK2v	PROPN	SP	_	2	obl	_	SpacesAfter=\n
+

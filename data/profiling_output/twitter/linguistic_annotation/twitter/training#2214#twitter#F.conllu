@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi affascina il metodo, dentro una docugraphic novel, mi impensierisce il ritmo di un cantastorie noir, una dimensione teatrale #StelleNere
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	affascina	affascinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	metodo	metodo	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	dentro	dentro	ADP	E	_	8	case	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	docugraphic	docugraphic	NOUN	S	Gender=Fem	4	nmod	_	_
+9	novel	novel	ADJ	A	_	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	impensierisce	impensierire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	ritmo	ritmo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	cantastorie	cantastoria	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	noir	noire	ADJ	A	_	17	amod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	21	punct	_	_
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	dimensione	dimensione	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+22	teatrale	teatrale	ADJ	A	Number=Sing	21	amod	_	_
+23	#	#	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	StelleNere	StelleNere	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

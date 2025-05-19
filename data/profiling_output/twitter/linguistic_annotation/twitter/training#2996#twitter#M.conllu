@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao color correction che mi fa sembrare meno cadaverico, tvb.
+1	Ciao	ciao	INTJ	I	_	11	discourse	_	_
+2	color	colorre	ADJ	A	Number=Sing	3	amod	_	_
+3	correction	correction	NOUN	S	Gender=Fem	1	appos	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	meno	meno	ADV	B	_	9	advmod	_	_
+9	cadaverico	cadaverico	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	tvb	tvb	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/LlF29qVjZO
+1	pic.twitter.com/LlF29qVjZO	pic.twitter.com/llf29qvjzo	ADV	B	_	0	root	_	SpacesAfter=\n
+

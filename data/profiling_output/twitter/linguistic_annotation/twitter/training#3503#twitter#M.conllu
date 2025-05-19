@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @allegra_frnc @lfaccioli75 tecnicamente no, ha detto che lo voterà ma non farà campagna per lui
+1	@allegra_frnc	@allegra_frnc	ADV	B	_	2	advmod	_	_
+2	@lfaccioli75	@lfaccioli75	NUM	N	NumType=Card	7	nummod	_	_
+3	tecnicamente	tecnicamente	ADV	B	_	4	advmod	_	_
+4	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	voterà	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	ccomp	_	_
+11	ma	ma	CCONJ	CC	_	13	cc	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	conj	_	_
+14	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	SpacesAfter=\n
+

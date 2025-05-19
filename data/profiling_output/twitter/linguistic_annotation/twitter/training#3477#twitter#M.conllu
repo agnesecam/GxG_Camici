@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domani sera sono convinto che il #Milan farà una grande prova di carattere contro la #Juve basterà?
+1	Domani	domani	ADV	B	_	4	advmod	_	_
+2	sera	sera	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	convinto	convinto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#Milan	#Milan	PROPN	SP	_	8	nsubj	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	grande	grande	ADJ	A	Number=Sing	11	amod	_	_
+11	prova	prova	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	carattere	carattere	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	contro	contro	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	#Juve	#Juve	PROPN	SP	_	13	nmod	_	_
+17	basterà	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	ccomp	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #MilanJuve #seriea
+1	#MilanJuve	#MilanJuva	ADV	B	_	2	advmod	_	_
+2	#seriea	#serieo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

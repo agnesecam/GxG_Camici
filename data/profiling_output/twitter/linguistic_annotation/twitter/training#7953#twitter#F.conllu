@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @steSciortino appunto.
+1	@steSciortino	@steSciortare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	appunto	appunto	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Non è vita.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vita	vita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = È una gravidanza senza bambino.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	gravidanza	gravidanza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	senza	senza	ADP	E	_	5	case	_	_
+5	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = E dunque ?
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	dunque	dunque	ADV	B	_	0	root	_	_
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

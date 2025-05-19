@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se Ludo non sceglie MANUEL....
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	Ludo	Ludo	PROPN	SP	_	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	sceglie	scegliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	MANUEL...	MANUEL...	PROPN	SP	_	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = la targhetta la faccio io gliela lancio ancora calda in faccia #uominiedonne
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	targhetta	targhetta	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6-7	gliela	_	_	_	_	_	_	_	_
+6	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	xcomp	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	lancio	lancio	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	ancora	ancora	ADV	B	_	10	advmod	_	_
+10	calda	caldo	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+13	#uominiedonne	#uominiedonne	ADJ	A	_	12	amod	_	SpacesAfter=\n
+

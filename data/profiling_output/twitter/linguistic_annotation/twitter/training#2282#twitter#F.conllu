@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No dai non potete inquadrare Michele in questo momento io muoio dentro . #Amici15
+1	No	no	INTJ	I	Polarity=Neg	12	discourse	_	_
+2-3	dai	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	6	mark	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	inquadrare	inquadrare	VERB	V	VerbForm=Inf	12	advcl	_	_
+7	Michele	Michele	PROPN	SP	_	6	nsubj	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	momento	momento	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+11	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+12	muoio	muoiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	dentro	dentro	ADV	B	_	12	advmod	_	_
+14	.	.	PUNCT	FS	_	12	punct	_	_
+15	#Amici15	#Amici15	PROPN	SP	_	12	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "..E io che vedo solo il tuo sorriso che fa sembrare tutto straordinario"
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	..E	..e	PROPN	SP	_	0	root	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	solo	solo	ADV	B	_	5	advmod	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	sembrare	sembrare	VERB	V	VerbForm=Inf	11	ccomp	_	_
+13	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
+14	straordinario	straordinario	NOUN	S	Gender=Masc|Number=Sing	12	xcomp	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

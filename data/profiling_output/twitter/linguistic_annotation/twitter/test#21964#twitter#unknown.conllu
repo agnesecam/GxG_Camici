@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A proposito di #pierpaolosindaco Intimidito da PpV per aver scritto che i @riformatori si stavano comportando da ascari.
+1	A	a	ADP	E	_	2	case	_	_
+2	proposito	proposito	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	#pierpaolosindaco	#pierpaolosindaco	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	Intimidito	Intimidire	PROPN	SP	_	4	nmod	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	PpV	PpV	PROPN	SP	_	2	nmod	_	_
+8	per	per	ADP	E	_	10	mark	_	_
+9	aver	avere	AUX	VA	VerbForm=Inf	10	aux	_	_
+10	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	che	che	SCONJ	CS	_	16	mark	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	@riformatori	@riformatore	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+15	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	comportando	comportare	VERB	V	VerbForm=Ger	10	ccomp	_	_
+17	da	da	ADP	E	_	18	case	_	_
+18	ascari	ascaro	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Ancora complimenti
+1	Ancora	ancora	ADV	B	_	2	advmod	_	_
+2	complimenti	complimenti	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

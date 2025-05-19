@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Notre Run de Paris - Seconda puntata (Seconda Parte) Organizzazione… https://www.
+1	Notre	Notro	PROPN	SP	_	0	root	_	_
+2	Run	run	PROPN	SP	_	1	flat:name	_	_
+3	de	de	ADP	E	_	4	case	_	_
+4	Paris	Paris	PROPN	SP	_	7	nmod	_	_
+5	-	-	PUNCT	FF	_	4	punct	_	_
+6	Seconda	seconda	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
+7	puntata	puntare	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+8	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+9	Seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	_
+10	Parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	appos	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	10	punct	_	_
+12	Organizzazione…	Organizzazione…	PUNCT	FF	_	10	punct	_	_
+13	https://www	https://www	NOUN	S	_	10	compound	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD-oVpqnlWIh 2mvOHzJjQ9E3iOa5flZnBDbPe00/ …
+1	instagram.com/p/BD-oVpqnlWIh	instagram.com/p/BD-oVpqnlWIh	PROPN	SP	_	0	root	_	_
+2	2mvOHzJjQ9E3iOa5flZnBDbPe00	2mvOHzJjQ9E3iOa5flZnBDbPe00	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = speravo che insieme ci saremmo sostenuti, beh probabilmente mi sbagliavo....
+1	speravo	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	insieme	insieme	ADV	B	_	6	advmod	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	sostenuti	sostenere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	beh	beh	INTJ	I	_	10	discourse	_	_
+9	probabilmente	probabilmente	ADV	B	_	10	advmod	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	advcl	_	_
+11	sbagliavo...	sbagliavo.	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

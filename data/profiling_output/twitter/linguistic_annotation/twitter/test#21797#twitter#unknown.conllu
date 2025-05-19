@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gennytuzzolo86 quindi con me ci puoi parlare, visto che sono venezuelano.
+1	@gennytuzzolo86	@gennytuzzolo86	SYM	X	_	0	root	_	_
+2	quindi	quindi	ADV	B	_	7	advmod	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	obl	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+6	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	parlare	parlare	VERB	V	VerbForm=Inf	1	csubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+10	che	che	SCONJ	CS	_	12	mark	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	venezuelano	venezuelare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sei ossessionato.
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	ossessionato	ossessionare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Sembri di aver un cazzo bianconero nel culo
+1	Sembri	sembrare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	aver	avere	VERB	V	VerbForm=Inf	1	acl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	bianconero	bianconero	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	culo	culo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\n
+

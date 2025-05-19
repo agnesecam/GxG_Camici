@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io e te ne abbiamo vista qualcuna , vissuta qualcuna .
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	e	e	CCONJ	CC	_	6	cc	_	_
+3	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+5	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	vista	vedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+7	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	6	obj	_	_
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	vissuta	vivere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+10	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	9	xcomp	_	_
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = L'amore conta, nessuno dice mai che sia facile.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	amore	amore	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	conta	conto	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+6	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mai	mai	ADV	B	_	10	advmod	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	facile	facile	ADJ	A	Number=Sing	6	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = #countdown
+1	#countdown	#countdown	ADP	E	_	0	root	_	SpacesAfter=\n
+

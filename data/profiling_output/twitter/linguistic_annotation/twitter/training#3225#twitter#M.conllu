@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #TheVoiceofItaly non basta biascicare eooo aoooo per far sembrare la lingua inglese.
+1	#TheVoiceofItaly	#TheVoiceofItaly	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	biascicare	biascicare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	eooo	eooo	X	SW	Foreign=Yes	4	obj	_	_
+6	aoooo	aoooo	X	SW	Foreign=Yes	5	flat:foreign	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	far	fare	VERB	V	VerbForm=Inf	4	advcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	inglese.	inglese.	NOUN	S	Gender=Masc|Number=Sing	11	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

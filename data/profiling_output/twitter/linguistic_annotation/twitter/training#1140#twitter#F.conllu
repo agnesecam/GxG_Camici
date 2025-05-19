@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @guidomeda Rossi fa notizia sempre!
+1	@guidomeda	@guidomedere	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Rossi	Rossi	PROPN	SP	_	1	nmod	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	sempre	sempre	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = poi se le notizie son vere oppure no credo dipenda dalla professionalità del giornalismo.....
+1	poi	poi	ADV	B	_	6	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	notizie	notizia	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+5	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	vere	vere	VERB	V	VerbForm=Inf	0	root	_	_
+7	oppure	oppure	CCONJ	CC	_	9	cc	_	_
+8	no	no	ADV	BN	PronType=Neg	9	advmod	_	_
+9	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	dipenda	dipenda	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	professionalità	professionalità	NOUN	S	Gender=Fem	10	nmod	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	giornalismo.....	giornalismo.....	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpacesAfter=\n
+

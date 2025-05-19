@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini:
+1	Salvini	Salvini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Dispiace per il morto ma fino a un certo punto" Spara a tre ladri che stavano per rubargli l'auto e ne... http:// fb.me/2MCtfAk8e
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Dispiace	dispiacere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	morto	morto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	ma	ma	CCONJ	CC	_	11	cc	_	_
+7	fino	fino	ADV	B	_	11	case	_	_
+8	a	a	ADP	E	_	7	fixed	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	certo	certo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	punto	punto	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	Spara	Spara	ADP	E	_	16	case	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	tre	tre	NUM	N	NumType=Card	16	nummod	_	_
+16	ladri	ladro	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	stavano	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	_
+19	per	per	ADP	E	_	20	mark	_	_
+20-21	rubargli	_	_	_	_	_	_	_	_
+20	rubar	rubare	VERB	V	VerbForm=Inf	18	advcl	_	_
+21	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	iobj	_	_
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+23	auto	auto	NOUN	S	Gender=Fem	20	obj	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	ne...	ne...	NOUN	S	_	23	conj	_	_
+26	http:	http:	PUNCT	FC	_	25	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	11	punct	_	_
+29	fb.me/2MCtfAk8e	fb.me/2MCtfAk8e	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

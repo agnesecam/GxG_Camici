@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Delle persone mi ha sempre interessato "la persona" non quello che voleva sembrare .
+1-2	Delle	_	_	_	_	_	_	_	_
+1	Di	di	ADP	E	_	3	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	persone	persona	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	sempre	sempre	ADV	B	_	7	advmod	_	_
+7	interessato	interessato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	persona	persona	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	10	punct	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	nmod	_	_
+14	che	che	PRON	PR	PronType=Rel	16	obj	_	_
+15	voleva	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	13	acl:relcl	_	_
+17	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Cosi mi è stato insegnato e io ancota ne soni grato.
+1	Cosi	Coso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
+5	insegnato	insegnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	ancota	ancotare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+10	soni	sone	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	grato	grato	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

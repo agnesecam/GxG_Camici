@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcosa non ci quadra.
+1	Qualcosa	Qualcosa	PRON	PI	Number=Sing|PronType=Ind	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	quadra.	quadra.	NOUN	S	_	1	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..siamo in 2 e le briosche sono 3!
+1	..siamo	..sare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	2	2	NUM	N	NumType=Card	1	nummod	_	_
+4	e	e	CCONJ	CC	_	8	cc	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	briosche	briosca	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	3	3	NUM	N	NumType=Card	1	conj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Qualcuno dovrà sacrificarsi… https://www.
+1	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	sacrificarsi…	sacrificarsi…	PUNCT	FF	_	4	punct	_	_
+4	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = instagram.com/p/BDsKM0sNs-p/
+1	instagram.com/p/BDsKM0sNs-p/	instagram.com/p/BDsKM0sNs-p/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

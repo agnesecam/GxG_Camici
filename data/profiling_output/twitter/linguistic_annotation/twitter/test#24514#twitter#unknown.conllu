@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per me esistono attimi di felicita'.
+1	Per	per	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+3	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	attimi	attimo	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	felicita	felicita	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	'	'	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Quando ad esempio le persone che ami ti danno conforto e tu gliene dai a... http:// fb.me/7EY6Fc5ba
+1	Quando	quando	SCONJ	CS	_	20	mark	_	_
+2	ad	a	ADP	E	_	3	case	_	_
+3	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	persone	persona	NOUN	S	Gender=Fem|Number=Plur	20	nsubj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	ami	amare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+9	danno	danno	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	conforto	conforto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+13	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+14-15	dai	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	a...	a...	NOUN	S	_	13	obl	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	fb.me/7EY6Fc5ba	fb.me/7EY6Fc5ba	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

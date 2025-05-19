@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LioKlingo @banjopeloso E' segreto di Pulcinella.
+1	@LioKlingo	@lioklingo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	@banjopeloso	@banjopeloso	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	segreto	segreto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Pulcinella	Pulcinella	PROPN	SP	_	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Furono i francesi.....
+1	Furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	francesi.....	francesi.....	NOUN	S	_	0	root	_	SpacesAfter=\n
+

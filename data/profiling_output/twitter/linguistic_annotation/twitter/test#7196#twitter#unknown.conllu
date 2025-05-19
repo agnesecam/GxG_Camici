@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LaRaiCensura papà #Boschi indagato:
+1	#LaRaiCensura	#LaRaiCensura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	papà	papà	NOUN	S	Gender=Masc	1	compound	_	_
+3	#Boschi	#Boschi	PROPN	SP	_	1	nmod	_	_
+4	indagato	indagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = essì ,se non prendono per il culo gli italiani,come fanno a pararselo dopo?
+1	essì	essì	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+2	,se	,so	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	culo	culo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+9	italiani,come	italiani,come	PRON	PR	PronType=Rel	10	obj	_	_
+10	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12-14	pararselo	_	_	_	_	_	_	_	_
+12	parar	pararre	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	se	se	SCONJ	CS	_	15	expl	_	_
+14	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	dopo	dopo	ADV	B	_	12	advmod	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = #M5S http://www.
+1	#M5S	#m5s	X	SW	Foreign=Yes	0	root	_	_
+2	http://www	http://www	X	SW	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = beppegrillo.it/2016/03/laraic ensura_papa_boschi_indagato.html …
+1	beppegrillo.it/2016/03/laraic	beppegrillo.it/2016/03/laraic	NOUN	S	Gender=Fem	0	root	_	_
+2	ensura_papa_boschi_indagato.html	ensura_papa_boschi_indagato.html	ADJ	A	_	1	amod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

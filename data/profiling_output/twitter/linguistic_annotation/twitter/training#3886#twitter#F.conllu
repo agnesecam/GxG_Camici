@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciò che rimane di noi - Ligabue https:// youtu.be/MwnUnPaFQGo via @YouTube
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	rimane	rimanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+6	-	-	PUNCT	FF	_	5	punct	_	_
+7	Ligabue	Ligabue	PROPN	SP	_	5	nmod	_	_
+8	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	youtu.be/MwnUnPaFQGo	youtu.be/MwnUnPaFQGo	PROPN	SP	_	7	nmod	_	_
+12	via	via	ADV	B	_	1	advmod	_	_
+13	@YouTube	@YouTube	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

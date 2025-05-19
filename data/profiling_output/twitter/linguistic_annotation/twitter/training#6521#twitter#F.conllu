@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @zeroassoluto ah se non ci fossimo noi!
+1	@zeroassoluto	@zeroassolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	ah	ah	INTJ	I	_	1	discourse	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+6	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Aprite un sondaggio come questo e avete il lavoro servito #zeroassolutolive pic.twitter.com/n8krI0UkMn
+1	Aprite	Aprire	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	sondaggio	sondaggio	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	servito	servire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+11	#zeroassolutolive	#zeroassolutolive	ADV	B	_	10	advmod	_	_
+12	pic.twitter.com/n8krI0UkMn	pic.twitter.com/n8krI0UkMn	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

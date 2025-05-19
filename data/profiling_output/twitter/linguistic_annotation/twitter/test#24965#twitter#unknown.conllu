@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Milestemplaris @SantucciFulvio farebbero 90 minuti di panchina tutte le giornate.
+1	@Milestemplaris	@Milestemplaris	PROPN	SP	_	3	nsubj	_	_
+2	@SantucciFulvio	@SantucciFulvio	PROPN	SP	_	1	flat:name	_	_
+3	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	90	90	NUM	N	NumType=Card	5	nummod	_	_
+5	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	panchina	panchina	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	10	det:predet	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	giornate	giornata	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Tra l'altro né Duncan né Benassi stanno facendo così bene
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obl	_	_
+4	né	né	CCONJ	CC	_	5	cc	_	_
+5	Duncan	Duncan	PROPN	SP	_	9	nsubj	_	_
+6	né	né	CCONJ	CC	_	7	cc	_	_
+7	Benassi	Benassi	PROPN	SP	_	5	conj	_	_
+8	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	facendo	fare	VERB	V	VerbForm=Ger	0	root	_	_
+10	così	così	ADV	B	_	9	advmod	_	_
+11	bene	bene	ADV	B	_	9	advmod	_	SpacesAfter=\n
+

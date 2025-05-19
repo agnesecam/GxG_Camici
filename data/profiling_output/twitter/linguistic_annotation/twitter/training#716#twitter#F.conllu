@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se avessimo i tuoi soldi ...scoperemmo come ricci...stupida donna https:// twitter.com/lauraboldrini/ status/708626356180017152 …
+1	se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6	...scoperemmo	...scopeere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	ricci...stupida	ricci...stupido	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	donna	donna	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	https:	https:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	twitter.com/lauraboldrini/	twitter.com/lauraboldrini/	PUNCT	FF	_	6	punct	_	_
+14	status/708626356180017152	status/708626356180017152	NUM	N	NumType=Card	6	nummod	_	_
+15	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Leggere le notizie:
+1	Leggere	leggere	VERB	V	VerbForm=Inf	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	notizie	notizia	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = stanno cercando di far sembrare normale che durante gli attentati ci siano spesso le stesse... http:// fb.me/WvVX2tnR
+1	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	cercando	cercare	VERB	V	VerbForm=Ger	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	far	fare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	normale	normale	ADJ	A	Number=Sing	5	xcomp	_	_
+7	che	che	SCONJ	CS	_	12	mark	_	_
+8	durante	durante	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	attentati	attentato	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+12	siano	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+13	spesso	spesso	ADV	B	_	12	advmod	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+15	stesse...	stesse...	NUM	N	NumType=Card	19	nummod	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/WvVX2tnR	fb.me/WvVX2tnR	PROPN	SP	_	12	nsubj	_	SpacesAfter=\n
+

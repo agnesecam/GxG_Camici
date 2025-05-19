@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fai finta che dovra ' finire prima o poi questa lunga storia d'amore..ora è già tardi ma e' presto se tu te ne vai.
+1	Fai	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	finta	finta	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	dovra	dovrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	'	'	PUNCT	FB	_	6	punct	_	_
+6	finire	finire	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	prima	prima	ADV	B	_	6	advmod	_	_
+8	o	o	CCONJ	CC	_	12	cc	_	_
+9	poi	poi	ADV	B	_	12	advmod	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+11	lunga	lungo	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+12	storia	storia	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+13	d'	di	ADP	E	_	14	case	_	SpaceAfter=No
+14	amore..ora	amore..ora	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	già	già	ADV	B	_	17	advmod	_	_
+17	tardi	tardi	ADV	B	_	1	advmod	_	_
+18	ma	ma	CCONJ	CC	_	26	cc	_	_
+19	e	e	CCONJ	CC	_	26	cc	_	SpaceAfter=No
+20	'	'	PUNCT	FB	_	26	punct	_	_
+21	presto	presto	ADV	B	_	26	mark	_	_
+22	se	se	SCONJ	CS	_	21	fixed	_	_
+23	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	26	nsubj	_	_
+24	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	26	expl	_	_
+25	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	26	expl	_	_
+26	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	conj	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	17	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/M6jedCXLCB
+1	pic.twitter.com/M6jedCXLCB	pic.twitter.com/M6jedCXLCB	NOUN	S	_	0	root	_	SpacesAfter=\n
+

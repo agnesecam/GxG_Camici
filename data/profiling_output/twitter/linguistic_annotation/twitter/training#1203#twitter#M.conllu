@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 18' st MARCHIIIIIII! 1-0 sotto la Te!
+1	18'	18o	ADP	E	_	2	case	_	_
+2	st	st	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	MARCHIIIIIII	MARCHIIIIIII	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+5	1	1	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	0	0	NUM	N	NumType=Card	5	compound	_	_
+8	sotto	sotto	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Te	Te	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Colpo di testa vincente su cross di destro di Sereni dalla sinistra.
+1	Colpo	colpo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	testa	testa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	vincente	vincente	ADJ	A	Number=Sing	1	amod	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	cross	cross	NOUN	S	Gender=Masc	1	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	destro	destro	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Sereni	Sereni	PROPN	SP	_	8	nmod	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #acmpavialive
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	acmpavialive	acmpavialive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

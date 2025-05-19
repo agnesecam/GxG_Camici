@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @grazy__87
+1	@grazy__87	@grazy__87	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = Qualcuna l'ha giocata e l'età è dalla sua per capire certe cose, ma forse è andato oltre una certa linea.
+1	Qualcuna	Qualcuna	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	giocata	giocare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	e	e	CCONJ	CC	_	13	cc	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	età	età	NOUN	S	Gender=Fem	13	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	13	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+11	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	capire	capire	VERB	V	VerbForm=Inf	4	conj	_	_
+14	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
+15	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	20	punct	_	_
+17	ma	ma	CCONJ	CC	_	20	cc	_	_
+18	forse	forse	ADV	B	_	20	advmod	_	_
+19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
+21	oltre	oltre	ADP	E	_	24	case	_	_
+22	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+23	certa	certo	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	_
+24	linea	linea	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

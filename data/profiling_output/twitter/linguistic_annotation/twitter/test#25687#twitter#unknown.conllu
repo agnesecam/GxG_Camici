@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La vecchiaia non è una resa, ma saggezza, igiovani si rendeno conto troppo tardi,quante domante avremmo potuto fare nostri nonni e non fatte
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vecchiaia	vecchiaia	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	resa	resa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	ma	ma	CCONJ	CC	_	9	cc	_	_
+9	saggezza	saggezzo	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	igiovani	igiovano	ADJ	A	Number=Plur	9	amod	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+13	rendeno	rendeno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+14	conto	contare	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15	troppo	troppo	ADV	B	_	16	advmod	_	_
+16	tardi	tardi	ADV	B	_	13	advmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+18	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	19	det	_	_
+19	domante	domante	NOUN	S	Gender=Fem|Number=Plur	22	nsubj	_	_
+20	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	aux	_	_
+21	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	aux	_	_
+22	fare	fare	VERB	V	VerbForm=Inf	6	conj	_	_
+23	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	nonni	nonno	NOUN	S	Gender=Masc|Number=Plur	27	obj	_	_
+25	e	e	CCONJ	CC	_	27	cc	_	_
+26	non	non	ADV	BN	PronType=Neg	27	advmod	_	_
+27	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	22	conj	_	SpacesAfter=\n
+

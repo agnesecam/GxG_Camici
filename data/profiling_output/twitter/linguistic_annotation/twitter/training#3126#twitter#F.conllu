@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo disegno fa sembrare Game of Thrones un'innocente e ingenua serie TV.
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	disegno	disegno	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	Game	Game	PROPN	SP	_	4	xcomp	_	_
+6	of	of	ADP	E	_	7	case	_	_
+7	Thrones	Thrones	PROPN	SP	_	12	nmod	_	_
+8	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+9	innocente	innocente	ADJ	A	Number=Sing	12	amod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	ingenua	ingenuo	ADJ	A	Gender=Fem|Number=Sing	9	conj	_	_
+12	serie	serie	NOUN	S	Gender=Fem	5	nmod	_	_
+13	TV	tv	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/4VadR0T4Nm
+1	pic.twitter.com/4VadR0T4Nm	pic.twitter.com/4VadR0T4Nm	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bergonzi: “Per un errore io fui fermo due mesi, Rizzoli invece…” http:// fantardore.it/bergonzi-un-er rore-fui-fermo-due-mesi-rizzoli-invece/ … via @FantArdore
+1	Bergonzi	Bergonzi	ADV	B	_	9	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	“	“	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+4	Per	per	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	errore	errore	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	cop	_	_
+9	fermo	fermo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+10	due	due	NUM	N	NumType=Card	11	nummod	_	_
+11	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	Rizzoli	Rizzoli	PROPN	SP	_	11	nmod	_	_
+14	invece…	invece…	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	”	”	PUNCT	FB	_	13	punct	_	_
+16	http:	http:	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	13	punct	_	_
+19	fantardore.it/bergonzi-un-er	fantardore.it/bergonzi-un-ere	ADP	E	_	20	case	_	_
+20	rore	rore	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+22	fui	essere	NOUN	S	Gender=Masc|Number=Plur	31	nmod	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+24	fermo-due-mesi	fermo-due-mese	NOUN	S	Gender=Masc|Number=Plur	31	nmod	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	rizzoli	rizzole	NOUN	S	Gender=Masc|Number=Plur	24	compound	_	SpaceAfter=No
+27	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+28	invece	invece	ADV	B	_	31	advmod	_	SpaceAfter=No
+29	/	/	PUNCT	FF	_	28	punct	_	_
+30	…	…	PUNCT	FF	_	28	punct	_	_
+31	via	via	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+32	@FantArdore	@FantArdore	PROPN	SP	_	9	nsubj	_	SpacesAfter=\n
+

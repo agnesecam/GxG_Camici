@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ManuDolcenera se avessimo voluto ascoltare i tuoi vocalizzi saremmo venute ai tuoi "numerosi" concerti!
+1	@ManuDolcenera	@ManuDolcenerare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+4	voluto	volere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux	_	_
+5	ascoltare	ascoltare	VERB	V	VerbForm=Inf	1	advcl	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	vocalizzi	vocalizzo	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+9	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	venute	venire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	17	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+13	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+14	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	numerosi	numeroso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	15	punct	_	_
+17	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

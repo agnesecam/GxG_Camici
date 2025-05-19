@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Sissetta80 Già.....
+1	@Sissetta80	@Sissetta80	PROPN	SP	_	0	root	_	_
+2	Già....	Già....	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Si facesse vivo e mostrasse di avere gia l'iPhone 22......
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+2	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	vivo	vivo	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	mostrasse	mostrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	avere	avere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	gia	gia	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	iPhone	iPhone	PROPN	SP	_	5	obj	_	_
+11	22.....	22...	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = .....altro che vaticano.
+1	.....altro	.....altro	ADP	E	_	3	case	_	_
+2	che	che	DET	DQ	PronType=Int	3	det	_	_
+3	vaticano.	vaticano.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

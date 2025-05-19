@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mipitufaespos Chi sei???
+1	@mipitufaespos	@mipitufaespos	PROPN	SW	Foreign=Yes	0	root	_	_
+2	Chi	Chi	PROPN	SP	_	1	flat:name	_	_
+3	sei	sei	NUM	N	NumType=Card	1	flat:name	_	SpaceAfter=No
+4	?	?	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ps.
+1	Ps	Ps	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Mi sto pisciando sotto, non sono andata nemmeno in bagno per vedere La Leona ahahahahah
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	pisciando	pisciare	VERB	V	VerbForm=Ger	16	advcl	_	_
+4	sotto	sotto	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+9	nemmeno	nemmeno	ADV	BN	PronType=Neg	8	advmod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	bagno	bagno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	vedere	vedere	VERB	V	VerbForm=Inf	8	advcl	_	_
+14	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Leona	Leona	PROPN	SP	_	13	obj	_	_
+16	ahahahahah	ahahahahah	INTJ	I	_	0	root	_	SpacesAfter=\n
+

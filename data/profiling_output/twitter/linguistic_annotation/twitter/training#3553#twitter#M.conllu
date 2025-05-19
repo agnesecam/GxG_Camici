@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A Centocelle 12enne rom ruba una macchina, a 20 anni cosa farà ?
+1	A	a	ADP	E	_	2	case	_	_
+2	Centocelle	Centocei	PROPN	SP	_	5	obl	_	_
+3	12enne	12enne	ADP	E	_	4	case	_	_
+4	rom	rom	NOUN	S	Gender=Masc	2	nmod	_	_
+5	ruba	rubare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	20	20	NUM	N	NumType=Card	11	nummod	_	_
+11	anni	anno	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+12	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	13	obj	_	_
+13	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	_
+14	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Togliere patria podestà ai suoi genitori!!!
+1	Togliere	togliere	VERB	V	VerbForm=Inf	0	root	_	_
+2	patria	patrio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	podestà	podestà	NOUN	S	Gender=Fem	1	obj	_	_
+4-5	ai	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+9	!!	!!	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 3
+# text = #AlQuintoMunicipioScelgoArioli
+1	#AlQuintoMunicipioScelgoArioli	#AlQuintoMunicipioScelgoArioli	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

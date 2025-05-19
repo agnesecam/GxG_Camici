@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlbaDoratait fanno bene, qui farebbero i disoccupati a vita
+1	@AlbaDoratait	@AlbaDoratait	ADV	B	_	2	advmod	_	_
+2	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	qui	qui	ADV	B	_	6	advmod	_	_
+6	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	disoccupati	disoccupato	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Cadelux ahimè sono ottimi strumenti per ottenere il miglior risultato possibile (per l'imputato)
+1	@Cadelux	@Cadelux	ADP	E	_	2	case	_	_
+2	ahimè	ahimè	INTJ	I	_	4	obl	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ottimi	ottimo	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+5	strumenti	strumento	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	ottenere	ottenere	VERB	V	VerbForm=Inf	5	acl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	miglior	migliore	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+11	possibile	possibile	ADJ	A	Number=Sing	10	amod	_	_
+12	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+13	per	per	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	imputato	imputato	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

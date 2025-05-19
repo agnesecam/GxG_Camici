@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La #Lucarelli ad #ecceccionaleveramente dice che anche lei sa fare la ventriloqua.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	#Lucarelli	#Lucarelli	PROPN	SP	_	5	nsubj	_	_
+3	ad	a	ADP	E	_	4	case	_	_
+4	#ecceccionaleveramente	#ecceccionaleveramente	ADV	B	_	5	advmod	_	_
+5	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	anche	anche	ADV	B	_	8	advmod	_	_
+8	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+10	fare	fare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	ventriloqua	ventriloqua	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = A Selva' essere ventriloqua non è quello che facevi tu
+1	A	a	ADP	E	_	2	case	_	_
+2	Selva	Selva	PROPN	SP	_	5	obl	_	SpaceAfter=No
+3	'	'	PUNCT	FB	_	2	punct	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+5	ventriloqua	ventriloqua	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+9	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+10	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+11	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ridateci le nostre patate!
+1-2	Ridateci	_	_	_	_	_	_	_	_
+1	Ridate	Ridare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	iobj	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	patate	patato	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #vogliamoMikaeFedezaXF10 !
+1	#vogliamoMikaeFedezaXF10	#vogliamoMikaeFedezaXF10	PROPN	SP	_	0	root	_	_
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = So che anche tu sei d'accordo @Fedez ahahah @XFactor_Italia https:// twitter.com/Anna_Anze/stat us/713087303175024640 …
+1	So	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	sei	sei	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	d'	di	ADP	E	_	7	case	_	SpaceAfter=No
+7	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	@Fedez	@Fedez	PROPN	SP	_	7	nmod	_	_
+9	ahahah	ahahah	INTJ	I	_	10	punct	_	_
+10	@XFactor_Italia	@XFactor_Italia	PROPN	SP	_	7	nmod	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	twitter.com/Anna_Anze/stat	twitter.com/Anna_Anze/stat	PROPN	SP	_	10	nmod	_	_
+15	us/713087303175024640	us/713087303175024640	NUM	N	NumType=Card	14	nummod	_	_
+16	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

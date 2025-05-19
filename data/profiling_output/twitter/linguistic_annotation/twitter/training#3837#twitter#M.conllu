@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La parte più difficile dell'amore è anche amare ciò che ama chi ami.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	difficile	difficile	ADJ	A	Number=Sing	2	amod	_	_
+5-6	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+5	di	di	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	amore	amore	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	anche	anche	ADV	B	_	10	advmod	_	_
+10	amare	amare	VERB	V	VerbForm=Inf	0	root	_	_
+11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	ama	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	chi	chi	PRON	PR	Number=Sing|PronType=Rel	13	obj	_	_
+15	ami	amo	NOUN	S	Gender=Masc|Number=Plur	14	acl:relcl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = -fabio prince-
+1	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	fabio	fabio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	prince	princia	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @s_parisi @ParisiPerMilano Donne, uomini, bambini famiglie.
+1	@s_parisi	@s_pariso	NOUN	S	Number=Plur	0	root	_	_
+2	@ParisiPerMilano	@ParisiPerMilano	PROPN	SP	_	1	nmod	_	_
+3	Donne	donne	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+8	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	7	compound	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Al centro delle nostre politiche sociali le Persone non le ideologie di Majorino
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	centro	centro	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	politiche	politica	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+8	sociali	sociale	ADJ	A	Number=Plur	7	amod	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	Persone	persona	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	ideologie	ideologie	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Majorino	Majorino	PROPN	SP	_	13	nmod	_	SpacesAfter=\n
+

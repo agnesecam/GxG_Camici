@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , chi è che si mette al tavolo (e non solo) con le lobby?
+1	Dunque	dunque	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	4	nsubj	_	_
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+11	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	solo	solo	ADV	B	_	7	advmod	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	14	punct	_	_
+16	con	con	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	lobby	lobby	NOUN	S	Gender=Fem	7	obl	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Direste il #Governo ?
+1	Direste	Diredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	#Governo	#Governo	PROPN	SP	_	1	nsubj	_	_
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = brutta cosa.
+1	brutta	brutto	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/51fini/status/ 715779747326910464 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/51fini/status/	twitter.com/51fini/status/	PUNCT	FF	_	1	punct	_	_
+5	715779747326910464	715779747326910464	NUM	N	NumType=Card	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

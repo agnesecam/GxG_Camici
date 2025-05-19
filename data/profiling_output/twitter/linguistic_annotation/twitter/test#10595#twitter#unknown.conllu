@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo Final Fantasy XV mi piace assai .
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	Final	Final	PROPN	SP	_	6	nsubj	_	_
+3	Fantasy	Fantasy	PROPN	SP	_	2	nmod	_	_
+4	XV	XV	PROPN	SP	_	3	flat:name	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	assai	assai	ADV	B	_	6	advmod	_	_
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Nonostante qualche perplessità sulla telecamera e sui controlli, sembra un gioco profondo
+1	Nonostante	nonostante	ADP	E	_	3	case	_	_
+2	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	perplessità	perplessità	NOUN	S	Gender=Fem	12	obl	_	_
+4-5	sulla	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	telecamera	telecamera	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8-9	sui	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	controlli	controllo	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	12	xcomp	_	_
+15	profondo	profondo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpacesAfter=\n
+

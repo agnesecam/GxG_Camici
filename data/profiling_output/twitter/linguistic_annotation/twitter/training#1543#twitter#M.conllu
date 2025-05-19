@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = pensa a portare l'amore in casa , tua che nelle nostre case italiane l'abbiamo sempre fatto !!non abbiamo bisogno...
+1	pensa	pensare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	portare	portare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	amore	amore	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	tua	tuo	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	1	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+11-12	nelle	_	_	_	_	_	_	_	_
+11	in	in	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	case	casa	NOUN	S	Gender=Fem|Number=Plur	19	obl	_	_
+15	italiane	italiano	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+16	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	19	obj	_	SpaceAfter=No
+17	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+18	sempre	sempre	ADV	B	_	19	advmod	_	_
+19	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+20	!!non	!!non	ADV	BN	PronType=Neg	19	advmod	_	_
+21	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+22	bisogno...	bisogno...	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+
+# sent_id = 2
+# text = http:// iltirreno.gelocal.it/livorno/cronac a/2016/04/09/news/massacrato-a-colpi-di-spranga-in-via-galilei-e-grave-1.13266470 …
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	iltirreno.gelocal.it/livorno/cronac	iltirreno.gelocal.it/livorno/cronac	ADJ	A	_	0	root	_	_
+5	a/2016/	a/2016/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	04	04	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	09	09	NUM	N	NumType=Card	6	compound	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	news/massacrato	news/massacrato	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	a-colpi-di	a-colpi-do	X	SW	Foreign=Yes	4	nmod	_	SpaceAfter=No
+13	-spranga-in	-spranga-ino	X	SW	Foreign=Yes	12	flat:foreign	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	via-galilei	via-galileo	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+17	e	e	CCONJ	CC	_	19	cc	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+19	grave	grave	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+20	-1.13266470	-1.13266470	NUM	N	NumType=Card	19	compound	_	_
+21	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

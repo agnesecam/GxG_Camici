@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bruxelles: Rotondi:
+1	Bruxelles	Bruxelles	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	Rotondi	Rotondi	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = «Europa, con idee di Berlusconi avremmo evitato emergenza» | Rivoluzione...
+1	«	«	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Europa	Europa	PROPN	SP	_	9	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	idee	idea	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Berlusconi	Berlusconi	PROPN	SP	_	5	nmod	_	_
+8	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	evitato	evitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+10	emergenza	emergenza	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+11	»	»	PUNCT	FB	_	9	punct	_	_
+12	|	|	SYM	SYM	_	0	root	_	_
+13	Rivoluzione...	Rivoluzione...	PROPN	SP	_	12	flat:name	_	_
+
+# sent_id = 3
+# text = http:// fb.me/Nl8nUoty
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/Nl8nUoty	fb.me/Nl8nUoty	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

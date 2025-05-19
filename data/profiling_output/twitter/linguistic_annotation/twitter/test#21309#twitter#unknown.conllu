@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sì, ma io non gliela faccio mica la mattina a sentire mia mamma che fa il resoconto del tg notturno.
+1	Sì	sì	INTJ	I	Polarity=Pos	8	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	8	punct	_	_
+3	ma	ma	CCONJ	CC	_	8	cc	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6-7	gliela	_	_	_	_	_	_	_	_
+6	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+7	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	mica	mica	ADV	BN	PronType=Neg	8	advmod	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	sentire	sentire	VERB	V	VerbForm=Inf	11	acl	_	_
+14	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	resoconto	resoconto	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+20-21	del	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	tg	tg	NOUN	S	Gender=Masc	19	nmod	_	_
+23	notturno	notturno	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

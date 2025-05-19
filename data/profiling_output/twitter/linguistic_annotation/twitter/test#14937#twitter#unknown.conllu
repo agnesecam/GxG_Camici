@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Amici15 Anch'io ero convinto che facesse parte della coreografia, il fatto della scarpa di Francesca
+1	#Amici15	#Amici15	PROPN	SP	_	5	nsubj	_	_
+2	Anch'	anche	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	convinto	convinto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	coreografia	coreografia	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	scarpa	scarpa	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	Francesca	Francesca	PROPN	SP	_	17	nmod	_	SpacesAfter=\n
+

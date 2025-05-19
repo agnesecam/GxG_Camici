@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PiramideRossa sarà l'unico cado in cui tutti avranno vinto a parte renzi
+1	@PiramideRossa	@PiramideRosso	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+2	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+4	unico	unico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	cado	cado	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	cui	cui	PRON	PR	PronType=Rel	10	obl	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	nsubj	_	_
+9	avranno	avere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	renzi	renzi	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpacesAfter=\n
+

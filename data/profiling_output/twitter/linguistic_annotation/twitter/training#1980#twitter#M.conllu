@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tempi duri per Zeman:
+1	Tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	duri	duro	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	Zeman	Zeman	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = dopo il 6-0 incassato in casa con il Sion, oggi un 7-0 dallo Young Boys...
+1	dopo	dopo	ADP	E	_	6	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+3	6	6	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	0	0	NUM	N	NumType=Card	3	compound	_	_
+6	incassato	incassare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Sion	Sion	PROPN	SP	_	6	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	oggi	oggi	ADV	B	_	6	advmod	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	7	7	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	0	0	NUM	N	NumType=Card	15	compound	_	_
+18-19	dallo	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Young	Young	PROPN	SP	_	15	nmod	_	_
+21	Boys..	Boys..	PROPN	SP	_	20	flat:name	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Lugano penultimo.
+1	Lugano	Lugano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	penultimo	penultimo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

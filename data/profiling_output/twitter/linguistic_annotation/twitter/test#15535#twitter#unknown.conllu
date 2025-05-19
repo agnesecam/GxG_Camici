@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pur di non sentire più la pubblicità di @McDonalds farei pure l'upgrade.
+1	Pur	pure	ADV	B	_	4	advmod	_	_
+2	di	di	ADP	E	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	sentire	sentire	VERB	V	VerbForm=Inf	10	advcl	_	_
+5	più	più	ADV	B	_	4	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pubblicità	pubblicità	NOUN	S	Gender=Fem	4	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	@McDonalds	@McDonalds	PROPN	SP	_	7	nmod	_	_
+10	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	pure	pure	ADV	B	_	10	advmod	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	upgrade	upgrada	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = @Spotify
+1	@Spotify	@Spotify	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

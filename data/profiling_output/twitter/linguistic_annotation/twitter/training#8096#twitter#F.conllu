@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PieraPadovani semo un paese de delinquenti dunque li possiamo contrastare.
+1	@PieraPadovani	@PieraPadovano	ADV	B	_	2	advmod	_	_
+2	semo	se	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	10	advcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	paese	paese	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	di	ADP	E	_	6	case	_	_
+6	delinquenti	delinquento	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+7	dunque	dunque	ADV	B	_	2	advmod	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+9	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	contrastare.	contrastare.	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaCervone se è per questo io speravo facessero passare meno tempo per avere un nuovo modello che a questo punto sarà nel 2017
+1	@AndreaCervone	@AndreaCervone	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	7	mark	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	speravo	speravo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+8	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
+9	passare	passare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	meno	meno	ADV	B	_	9	advmod	_	_
+11	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	avere	avere	VERB	V	VerbForm=Inf	9	advcl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	modello	modello	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+17	che	che	PRON	PR	PronType=Rel	24	nsubj	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
+20	punto	punto	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
+21	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	24	cop	_	_
+22-23	nel	_	_	_	_	_	_	_	_
+22	in	in	ADP	E	_	24	case	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	2017	2017	NUM	N	NumType=Card	16	nummod	_	SpacesAfter=\n
+

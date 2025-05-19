@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndresPastrana_ @POTUS @JohnKerry Tipico esempio di doppia morale.
+1	@AndresPastrana_	@andrespastrana_	PROPN	SP	_	0	root	_	_
+2	@POTUS	@POTUS	PROPN	SP	_	1	flat:name	_	_
+3	@JohnKerry	@JohnKerry	PROPN	SP	_	1	flat:name	_	_
+4	Tipico	tipico	PROPN	SP	_	1	nmod	_	_
+5	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	doppia	doppia	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	morale	morale	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Colpo di scena", o forse, non gliene frega più perchè ormai se ne vanno
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Colpo	colpo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	scena	scena	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	12	punct	_	_
+7	o	o	CCONJ	CC	_	12	cc	_	_
+8	forse	forse	ADV	B	_	12	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	gliene	glenere	SCONJ	CS	_	12	mark	_	_
+12	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	più	più	ADV	B	_	12	advmod	_	_
+14	perchè	perché	SCONJ	CS	_	18	mark	_	_
+15	ormai	ormai	ADV	B	_	18	advmod	_	_
+16	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+17	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	18	iobj	_	_
+18	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	SpacesAfter=\n
+

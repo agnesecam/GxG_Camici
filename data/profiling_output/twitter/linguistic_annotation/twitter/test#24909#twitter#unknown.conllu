@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giusto, ho semplificato!
+1	Giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	semplificato	semplificare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Scusa!
+1	Scusa	scusa	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Sono le estrazioni di idrocarburi che farebbero venire i terremoti secondo il MISE! https:// twitter.com/claraspada/sta tus/708622871006945280 …
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	estrazioni	estrazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	idrocarburi	idrocarburo	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+8	venire	venire	VERB	V	VerbForm=Inf	7	xcomp	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	terremoti	terremoto	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	secondo	secondo	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	MISE	mise	PROPN	SP	_	8	obl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	18	punct	_	_
+15	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	_
+18	twitter.com/claraspada/sta	twitter.com/claraspada/sta	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+19	tus/708622871006945280	tus/708622871006945280	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

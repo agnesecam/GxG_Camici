@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e infine la Pic di Savonarola, ma lo sa la #Chaouqui ke dal tribunale ecclesiastico egli ne uscì "bruciacchiato"?
+1	e	e	CCONJ	CC	_	4	cc	_	_
+2	infine	infine	ADV	B	_	4	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Pic	Pic	PROPN	SP	_	20	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Savonarola	Savonarola	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	ma	ma	CCONJ	CC	_	10	cc	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	#Chaouqui	#Chaouquio	PROPN	SP	_	10	nsubj	_	_
+13	ke	ke	ADJ	A	Number=Sing	12	amod	_	_
+14-15	dal	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	tribunale	tribunale	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+17	ecclesiastico	ecclesiastico	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+18	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+19	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	20	iobj	_	_
+20	uscì	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+21	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+22	bruciacchiato	bruciacchiato	ADJ	A	Gender=Masc|Number=Sing	20	xcomp	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	20	punct	_	SpacesAfter=\n
+

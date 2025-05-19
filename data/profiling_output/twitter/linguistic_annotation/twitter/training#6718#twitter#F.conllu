@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Ho talmente bisogno di te che non so nemmeno dirtelo.” - Fahrenheit 451, Ray Bradbury (via dayperday)... https:// tmblr.co/ZQnSlj24m8u3p
+1	“	“	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	talmente	talmente	ADV	B	_	4	advmod	_	_
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	nemmeno	nemmeno	ADV	BN	PronType=Neg	11	advmod	_	_
+11	dirtelo.	dirtelo.	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+12	”	”	PUNCT	FB	_	2	punct	_	_
+13	-	-	PUNCT	FF	_	2	punct	_	_
+14	Fahrenheit	Fahrenheit	PROPN	SP	_	24	obj	_	_
+15	451	451	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	14	punct	_	SpacesAfter= 
+17	Ray	Ray	PROPN	SP	_	24	nmod	_	_
+18	Bradbury	Bradbury	PROPN	SP	_	17	flat:name	_	_
+19	(	(	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	via	via	NOUN	S	_	17	nmod	_	_
+21	dayperday	dayperday	NOUN	S	_	20	nmod	_	SpaceAfter=No
+22	)	)	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+23	...	...	PUNCT	FF	_	24	punct	_	_
+24	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	_
+27	tmblr.co/ZQnSlj24m8u3p	tmblr.co/ZQnSlj24m8u3p	PROPN	SP	_	2	appos	_	SpacesAfter=\n
+

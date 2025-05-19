@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = hai litigato con qualcuna /o?
+1	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	litigato	litigare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	_
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	o	o	CCONJ	CC	_	4	cc	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = — litigare non proprio https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM32CTR7KM3OV2XCN6BX62BYFIRBZZCYCLEZH44SRUKS3PUGKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A==== …
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	litigare	litigare	VERB	V	VerbForm=Inf	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	proprio	proprio	ADV	B	_	2	advmod	_	_
+5	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	_
+8	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	2	nsubj	_	_
+9	7B667HQMHN2IG6NM32CTR7KM3OV2XCN6BX62BYFIRBZZCYCLEZH44SRUKS3PUGKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A====	7B667HQMHN2IG6NM32CTR7KM3OV2XCN6BX62BYFIRBZZCYCLEZH44SRUKS3PUGKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A====	PROPN	SP	_	8	flat:name	_	_
+10	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

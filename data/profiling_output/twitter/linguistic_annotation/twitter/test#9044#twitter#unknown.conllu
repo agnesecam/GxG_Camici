@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IdaLa56 @caterpillarrai
+1	@IdaLa56	@IdaLa56	NUM	N	NumType=Card	2	nummod	_	_
+2	@caterpillarrai	@caterpillarere	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = Li seguo da sempre,e mi piacerebbe "farmi" un Caterraduno, e non mi perdo neppure @CaterpillarAM , geniali
+1	Li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+2	seguo	seguire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	da	da	ADP	E	_	4	mark	_	_
+4	sempre,e	sempre,e	VERB	V	VerbForm=Inf	2	advcl	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+6	piacerebbe	piacere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	xcomp	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	farmi	arma|farme	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Caterraduno	Caterraduno	PROPN	SP	_	8	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	expl	_	_
+16	perdo	perdare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+17	neppure	neppure	ADV	BN	PronType=Neg	18	advmod	_	_
+18	@CaterpillarAM	@CaterpillarAM	PROPN	SP	_	16	obj	_	_
+19	,	,	PUNCT	FF	_	2	punct	_	_
+20	geniali	geniali	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpacesAfter=\n
+

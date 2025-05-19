@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Atena disse così, ed egli ubbidi' e fu lieto nell'animo" #conUlisse /24 #VentagliDiParole pic.twitter.com/09f5baxGC5
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Atena	Atena	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	disse	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	parataxis	_	_
+4	così	così	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	ed	e	CCONJ	CC	_	8	cc	_	_
+7	egli	ello	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	ubbidi	ubbidio	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	3	punct	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
+12	lieto	lietere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+13-14	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+13	in	in	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+15	animo	animo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	17	punct	_	_
+17	#conUlisse	#conUlisse	PROPN	SP	_	15	nmod	_	_
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	24	24	NUM	N	NumType=Card	17	nummod	_	_
+20	#	#	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+21	VentagliDiParole	VentagliDiParole	PROPN	SP	_	0	root	_	_
+22	pic.twitter.com/09f5baxGC5	pic.twitter.com/09f5baxGC5	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

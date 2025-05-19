@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sandrobiasotti è unica alternativa perché competente anche se Politicamente non dalla mia parte @graziano_delrio pic.twitter.com/nrPxRi5Ou3
+1	@sandrobiasotti	@sandrobiasotto	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+3	unica	unico	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+4	alternativa	alternativa	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+5	perché	perché	ADV	B	_	15	advmod	_	_
+6	competente	competente	ADJ	A	Number=Sing	15	amod	_	_
+7	anche	anche	ADV	B	_	14	advmod	_	_
+8	se	se	SCONJ	CS	_	7	fixed	_	_
+9	Politicamente	politico	ADV	B	_	14	advmod	_	_
+10	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	14	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	parte	parte	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+15	@graziano_delrio	@graziano_delrio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+16	pic.twitter.com/nrPxRi5Ou3	pic.twitter.com/nrPxRi5Ou3	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

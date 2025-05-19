@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quando qua su Twitter trovo qualcuna della mia età o più grande mi sento un po' meno malata :')
+1	quando	quando	SCONJ	CS	_	5	mark	_	_
+2	qua	qua	ADV	B	_	5	advmod	_	_
+3	su	su	ADP	E	_	4	case	_	_
+4	Twitter	Twitter	PROPN	SP	_	5	obl	_	_
+5	trovo	trovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	obj	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	età	età	NOUN	S	Gender=Fem	6	nmod	_	_
+11	o	o	CCONJ	CC	_	13	cc	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	grande	grande	ADJ	A	Number=Sing	5	conj	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	expl	_	_
+15	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	po'	poco	ADV	B	_	18	advmod	_	_
+18	meno	meno	ADV	B	_	19	advmod	_	_
+19	malata	malato	ADJ	A	Gender=Fem|Number=Sing	15	xcomp	_	_
+20	:'	:'	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

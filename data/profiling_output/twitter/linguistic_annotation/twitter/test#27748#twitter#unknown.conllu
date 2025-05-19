@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "...così che non è loro chiaro se vorranno ancora esser compagni quando la loro passione sarà finita..."
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	...così	...così	ADV	B	_	6	advmod	_	_
+3	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	0	root	_	_
+7	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	vorranno	vorre	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	ancora	ancora	ADV	B	_	11	advmod	_	_
+11	esser	essere	VERB	V	VerbForm=Inf	6	ccomp	_	_
+12	compagni	compagno	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	_
+13	quando	quando	SCONJ	CS	_	18	mark	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	loro	loro	DET	AP	Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	passione	passione	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+17	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	cop	_	_
+18	finita...	finita...	NOUN	S	_	11	advcl	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @aenigma77 @TIM_Official Ciao,alcune verifiche richiedono tempistiche maggiori.Ti invito dunque ad attendere un mio DM appena possibile!
+1	@aenigma77	@aenigma77	NUM	N	NumType=Card	2	nummod	_	_
+2	@TIM_Official	@TIM_Official	PROPN	SP	_	6	nsubj	_	_
+3	Ciao	ciao	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,alcune	,alcuno	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	6	iobj	_	_
+5	verifiche	verifica	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	6	obj	_	_
+6	richiedono	richiedire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	tempistiche	tempistico	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	maggiori.Ti	maggiori.Ti	PROPN	SP	_	9	nsubj	_	_
+9	invito	invito	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	dunque	dunque	ADV	B	_	9	advmod	_	_
+11	ad	a	ADP	E	_	12	mark	_	_
+12	attendere	attendere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	DM	DM	PROPN	SP	_	12	obj	_	_
+16	appena	appena	ADV	B	_	17	advmod	_	_
+17	possibile	possibile	ADJ	A	Number=Sing	15	amod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

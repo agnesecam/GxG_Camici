@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vedo #FRARUS e penso:
+1	Vedo	vedere	PROPN	SP	_	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	FRARUS	FRARUS	PROPN	SP	_	1	flat:name	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = se @paulpogba vincerà il #pallonedoro si dovrà parlare dell'influenza che @Pirlo_official ha avuto sul suo gioco
+1	se	se	SCONJ	CS	_	2	mark	_	_
+2	@paulpogba	@paulpogbare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+3	vincerà	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#pallonedoro	#pallonedoro	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	parlare	parlare	VERB	V	VerbForm=Inf	3	csubj	_	_
+9-10	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+9	di	di	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	influenza	influenza	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+12	che	che	SCONJ	CS	_	15	mark	_	_
+13	@Pirlo_official	@Pirlo_official	PROPN	SP	_	15	nsubj	_	_
+14	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+16-17	sul	_	_	_	_	_	_	_	_
+16	su	su	ADP	E	_	19	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpacesAfter=\n
+

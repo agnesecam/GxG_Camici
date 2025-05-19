@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @l_patrizia @antonellaval6 @MattiAnti Non vorrei sembrare pignolo, ma hai dimenticato il "WPEPPE" finale.
+1	@l_patrizia	@l_patrizia	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+2	@antonellaval6	@antonellaval6	NUM	N	NumType=Card	3	nummod	_	_
+3	@MattiAnti	@MattiAnto	PROPN	SP	_	1	nmod	_	_
+4	Non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+7	pignolo	pignolo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	ma	ma	CCONJ	CC	_	11	cc	_	_
+10	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	WPEPPE	WPEPPE	PROPN	SP	_	11	obj	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	14	punct	_	_
+16	finale	finale	ADJ	A	Number=Sing	14	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Per onor di completezza.
+1	Per	per	ADP	E	_	2	case	_	_
+2	onor	onore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	completezza	completezza	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

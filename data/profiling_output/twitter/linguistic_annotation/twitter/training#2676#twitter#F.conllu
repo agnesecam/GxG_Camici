@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parole così fragili, da far sembrare acciaio le bolle di sapone.
+1	Parole	parola	PROPN	SP	_	0	root	_	_
+2	così	così	ADV	B	_	3	advmod	_	_
+3	fragili	fragile	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	da	da	ADP	E	_	6	mark	_	_
+6	far	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	acciaio	acciaiare	NOUN	S	Gender=Masc|Number=Sing	7	xcomp	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	bolle	bolla	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	sapone	sapone	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

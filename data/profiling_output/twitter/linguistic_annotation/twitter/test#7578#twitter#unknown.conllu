@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Essi poi quando si finisce di allenare si fuma pure quelle che non si è fumato la mattina https:// twitter.com/thezz99/status /705669778552266752 …
+1	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+2	poi	poi	ADV	B	_	9	advmod	_	_
+3	quando	quando	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	finisce	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	allenare	allenare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	fuma	fumare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	pure	pure	ADV	B	_	11	advmod	_	_
+11	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	9	nsubj	_	_
+12	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+13	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+15	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fumato	fumare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+19	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	twitter.com/thezz99/status	twitter.com/thezz99/status	NOUN	S	Gender=Fem	16	nsubj	_	_
+23	/705669778552266752	/705669778552266752	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	9	punct	_	SpacesAfter=\n
+

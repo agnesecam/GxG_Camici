@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Silenzio, mirate!
+1	Silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	mirate	mirare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Egli viene di nuovo, io gli attraverserò la via sebbene mi colmi di spavento #HamleTw /02
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+8	attraverserò	attraversare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	via	via	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	sebbene	sebbene	SCONJ	CS	_	13	mark	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+13	colmi	colmo	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	spavento	spavento	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+16	#HamleTw	#HamleTw	PROPN	SP	_	15	nmod	_	_
+17	/02	/02	NUM	N	NumType=Card	2	nummod	_	SpacesAfter=\n
+

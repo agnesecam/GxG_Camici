@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Maria Rosaria Battista:
+1	Maria	Maria	PROPN	SP	_	0	root	_	_
+2	Rosaria	Rosaria	PROPN	SP	_	1	flat:name	_	_
+3	Battista	Battista	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ridate ai DISABILI la spiaggia tolta dalla politica senz'anima http:// fb.me/4V5lR5nQi
+1	Ridate	Ridare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2-3	ai	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	DISABILI	disabili	PROPN	SP	_	1	obl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	spiaggia	spiaggia	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+7	tolta	tolgere	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	politica	politica	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+11	senz'	senza	ADP	E	_	12	case	_	SpaceAfter=No
+12	anima	anima	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	fb.me/4V5lR5nQi	fb.me/4V5lR5nQi	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

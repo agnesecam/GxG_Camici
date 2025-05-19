@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chiariello: " Perchè il patrimonio del Napoli marcisce in panchina e si dà spazio ai prestiti... http:// fb.me/7Mjd8iMZ4
+1	Chiariello	Chiariello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	"	"	PUNCT	FB	_	10	punct	_	_
+4	Perchè	perché	ADV	B	_	10	advmod	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	patrimonio	patrimonio	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Napoli	Napoli	PROPN	SP	_	6	nmod	_	_
+10	marcisce	marcire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	panchina	panchina	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	dà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+16	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+17-18	ai	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	prestiti...	prestiti...	NOUN	S	_	15	obl	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	10	punct	_	_
+23	fb.me/7Mjd8iMZ4	fb.me/7Mjd8iMZ4	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

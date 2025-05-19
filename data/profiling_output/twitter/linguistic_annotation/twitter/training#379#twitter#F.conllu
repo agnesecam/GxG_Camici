@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LauraePaola trending Era ora che avessimo un varietà con due donne sulla TVitaliana!
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LauraePaola	LauraePaola	PROPN	SP	_	0	root	_	_
+3	trending	trending	NOUN	S	Gender=Masc	2	compound	_	_
+4	Era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	ora	ora	ADV	B	_	2	advmod	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	varietà	varietà	NOUN	S	Gender=Fem	7	obj	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	due	due	NUM	N	NumType=Card	12	nummod	_	_
+12	donne	donna	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+13-14	sulla	_	_	_	_	_	_	_	_
+13	su	su	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	TVitaliana	TVitaliana	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Bella l'imitazione degli ABBA pic.twitter.com/Hx7luKv6cK
+1	Bella	bello	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	imitazione	imitazione	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+4-5	degli	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	ABBA	ABBA	PROPN	SP	_	3	nmod	_	_
+7	pic.twitter.com/Hx7luKv6cK	pic.twitter.com/hx7lukv6ck	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

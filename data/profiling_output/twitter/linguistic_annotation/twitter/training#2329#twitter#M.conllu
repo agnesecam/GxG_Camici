@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I nostri missionari sono dentro e stanno facendo un ottimo lavoro con lo staff di Azusa Now!
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	missionari	missionaro	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	dentro	dentro	ADV	B	_	0	root	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	facendo	fare	VERB	V	VerbForm=Ger	5	conj	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	ottimo	ottimo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	staff	staff	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	Azusa	Azusa	PROPN	SP	_	14	nmod	_	_
+17	Now	Now	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = ... Che Dio riversi...
+1	...	...	PUNCT	FF	_	3	punct	_	_
+2	Che	che	DET	DQ	PronType=Int	3	det	_	_
+3	Dio	Dio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	riversi...	riversi.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/12xHosa5m
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/12xHosa5m	fb.me/12xHosa5m	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

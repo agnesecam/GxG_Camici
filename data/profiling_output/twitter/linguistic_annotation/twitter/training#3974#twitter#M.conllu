@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marcarbonio @LiaCeli Boeri dovrà rifare tutti i calcoli...
+1	@marcarbonio	@marcarbonio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	@LiaCeli	@LiaCeli	PROPN	SP	_	1	nmod	_	_
+3	Boeri	Boeri	PROPN	SP	_	2	flat:name	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	rifare	rifare	VERB	V	VerbForm=Inf	0	root	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	calcoli..	calcoli..	NOUN	S	_	5	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

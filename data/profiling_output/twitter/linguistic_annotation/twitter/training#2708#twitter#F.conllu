@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Usano Photoshop per sembrare diversi, ma la dimensione del cervello rimane quella...
+1	Usano	usare	PROPN	SP	_	13	nsubj	_	_
+2	Photoshop	Photoshop	PROPN	SP	_	1	flat:name	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	1	acl	_	_
+5	diversi	diverso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	13	punct	_	_
+7	ma	ma	CCONJ	CC	_	13	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	dimensione	dimensione	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+13	rimane	rimanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	quella...	quella.	NUM	N	NumType=Card	13	nummod	_	_
+
+# sent_id = 2
+# text = #sapevatelo
+1	#sapevatelo	#sapevatelo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

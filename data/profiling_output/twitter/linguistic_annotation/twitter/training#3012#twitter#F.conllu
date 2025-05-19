@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il miracolo e' invisibile ai nostri occhi, al contrario può sembrare uno sfortunato accidente #TwCronopios /30
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	miracolo	miracolo	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	5	punct	_	_
+5	invisibile	invisibile	ADJ	A	Number=Sing	2	conj	_	_
+6-7	ai	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+8	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	contrario	contrario	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+14	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+16	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	sfortunato	sfortunato	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+18	accidente	accidente	NOUN	S	Gender=Masc|Number=Sing	15	xcomp	_	_
+19	#TwCronopios	#TwCronopios	PROPN	SP	_	18	nmod	_	_
+20	/30	/30	NUM	N	NumType=Card	19	nummod	_	SpacesAfter=\n
+

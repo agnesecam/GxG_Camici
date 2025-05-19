@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stavamo urlando, #litigando per non sentire che i nostri cuori si stavano allontanando.
+1	Stavamo	Stare	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	urlando	urlare	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	#litigando	#litigare	VERB	V	VerbForm=Ger	2	advcl	_	_
+5	per	per	ADP	E	_	7	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	sentire	sentire	VERB	V	VerbForm=Inf	4	advcl	_	_
+8	che	che	SCONJ	CS	_	14	mark	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	cuori	cuore	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+13	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	allontanando	allontanare	VERB	V	VerbForm=Ger	7	ccomp	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #gerundi pic.twitter.com/4IMSGB7kiZ
+1	#gerundi	#gerundo	CCONJ	CC	_	2	cc	_	_
+2	pic.twitter.com/4IMSGB7kiZ	pic.twitter.com/4IMSGB7kiZ	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Archivio di @FantasciCast : #017 – Essi vivono in un oceano pensante ipertestuale http:// dld.bz/ecCEY #fantascienza #podcast
+1	Archivio	archivio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	@FantasciCast	@FantasciCast	PROPN	SP	_	1	nmod	_	_
+4	:	:	PUNCT	FC	_	3	punct	_	_
+5	#017	#017	NUM	N	NumType=Card	3	nummod	_	_
+6	–	–	PUNCT	FF	_	1	punct	_	_
+7	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+8	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	oceano	oceano	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+12	pensante	pensare	ADJ	A	Number=Sing	11	amod	_	_
+13	ipertestuale	ipertestuale	ADJ	A	Number=Sing	11	amod	_	_
+14	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	_
+17	dld.bz/ecCEY	dld.bz/eccey	PROPN	SP	_	19	conj	_	_
+18	#fantascienza	#fantascienza	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+19	#podcast	#podcast	CCONJ	CC	_	8	xcomp	_	SpacesAfter=\n
+

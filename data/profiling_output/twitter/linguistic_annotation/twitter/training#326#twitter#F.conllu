@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jacopo_iacoboni se avessimo dei giornalisti seri non dei miracolati a caccia di notorietà,avremmo le informazioni non la propaganda a Renzi
+1	@jacopo_iacoboni	@jacopo_iacobone	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	seri	sero	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	miracolati	miracolato	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	caccia	caccia	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	notorietà	notorietà	NOUN	S	Gender=Fem	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+17	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	informazioni	informazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+20	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	propaganda	propaganda	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+23	a	a	ADP	E	_	24	case	_	_
+24	Renzi	Renzi	PROPN	SP	_	22	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @daniadig complimenti non me la aspettavo una tale rimonta sapevo che sareste tornati tra le prime 3 ma non primi, complimenti
+1	@daniadig	@daniadig	SYM	X	_	0	root	_	_
+2	complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	aspettavo	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	tale	tale	ADJ	A	Number=Sing	9	amod	_	_
+9	rimonta	rimonta	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+10	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+11	che	che	SCONJ	CS	_	13	obj	_	_
+12	sareste	saresta	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
+13	tornati	tornare	NOUN	S	Number=Plur	10	obl	_	_
+14	tra	tra	ADP	E	_	22	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+16	prime	primo	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	22	amod	_	_
+17	3	3	NUM	N	NumType=Card	16	nummod	_	_
+18	ma	ma	CCONJ	CC	_	20	cc	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	17	conj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	17	punct	_	_
+22	complimenti	complimenti	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	SpacesAfter=\n
+

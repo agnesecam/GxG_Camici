@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualche volta ... questo ... è tutto ciò di cui hai bisogno ... pic.twitter.com/nsBXCzfu2T
+1	Qualche	qualche	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	volta	volta	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	_
+4	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	_
+5	...	...	PUNCT	FF	_	4	punct	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	8	det	_	_
+8	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	cui	cui	PRON	PR	PronType=Rel	11	obl	_	_
+11	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+13	...	...	PUNCT	FF	_	14	punct	_	_
+14	pic.twitter.com/nsBXCzfu2T	pic.twitter.com/nsBXCzfu2T	PROPN	SP	_	8	appos	_	SpacesAfter=\n
+

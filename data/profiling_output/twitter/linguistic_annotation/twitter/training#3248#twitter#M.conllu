@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Certe donne ke si skiacciano il seno o mettono reggiseni una taglia più piccola x sembrare delle gran fighe quando nn lo sono fanno ridere
+1	Certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	donne	donna	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	ke	ke	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	skiacciano	skiacciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	seno	seno	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	mettono	mettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	reggiseni	reggiseno	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	taglia	taglia	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	più	più	ADV	B	_	15	advmod	_	_
+14	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	x	x	SYM	SYM	_	12	nmod	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	10	advcl	_	_
+17-18	delle	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	20	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+19	gran	grande	ADJ	A	Number=Sing	20	amod	_	_
+20	fighe	figa	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+21	quando	quando	SCONJ	CS	_	25	mark	_	_
+22	nn	nno	NUM	N	NumType=Card	25	nsubj	_	_
+23	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
+24	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+25	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+26	ridere	ridere	VERB	V	VerbForm=Inf	25	xcomp	_	SpacesAfter=\n
+

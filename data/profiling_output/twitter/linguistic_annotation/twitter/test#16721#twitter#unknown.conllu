@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaStampa m.e.Boschi, finche ' c'e' Renzi c'e' speranza..per qst ora stai bene,e si vede...(Quanta prosopopea!)
+1	@LaStampa	@LaStampa	PROPN	SP	_	0	root	_	_
+2	m.e.Boschi	m.e.Boschi	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	finche	finche	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+5	'	'	PUNCT	FB	_	6	punct	_	_
+6-7	c'e'	_	_	_	_	_	_	_	_
+6	c'i	c'o	ADJ	A	Number=Plur	4	amod	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Renzi	Renzi	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+9-10	c'e'	_	_	_	_	_	_	_	_
+9	c'i	c'o	ADJ	A	Number=Plur	8	amod	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	speranza..per	speranza..per	NOUN	S	Gender=Masc	8	nmod	_	_
+12	qst	qst	CCONJ	CC	_	20	cc	_	_
+13	ora	ora	ADV	B	_	20	advmod	_	_
+14	stai	stare	ADV	B	_	20	advmod	_	_
+15	bene,e	bene,e	ADV	B	_	20	advmod	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	vede...	vede.	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	(	(	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+19	Quanta	Quanta	DET	DQ	Gender=Fem|Number=Sing|PronType=Int	20	det	_	_
+20	prosopopea	prosopopea	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	20	punct	_	SpaceAfter=No
+22	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

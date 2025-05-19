@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes Albe, oggi è il mio compleanno e vorrei tanto che mi facessi gli auguri!
+1	@Albericoyes	@Albericoyes	ADP	E	_	2	case	_	_
+2	Albe	Albe	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	oggi	oggi	ADV	B	_	8	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	e	e	CCONJ	CC	_	14	cc	_	_
+10	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+11	tanto	tanto	ADV	B	_	14	advmod	_	_
+12	che	che	SCONJ	CS	_	14	mark	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	_
+14	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	conj	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

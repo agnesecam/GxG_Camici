@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mandzukic dovrebbe giocare, ma se non ce la facesse e si dovesse giocare a una sola punta meglio Zaza che Morata
+1	Mandzukic	Mandzukic	PROPN	SP	_	3	nsubj	_	_
+2	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	giocare	giocare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	10	punct	_	_
+5	ma	ma	CCONJ	CC	_	10	cc	_	_
+6	se	se	SCONJ	CS	_	10	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+8	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+9	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl:impers	_	_
+13	dovesse	dovere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	giocare	giocare	VERB	V	VerbForm=Inf	10	conj	_	_
+15	a	a	ADP	E	_	18	case	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	sola	solo	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+18	punta	punta	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+19	meglio	meglio	ADV	B	_	20	advmod	_	_
+20	Zaza	Zaza	PROPN	SP	_	18	nmod	_	_
+21	che	che	SCONJ	CS	_	22	mark	_	_
+22	Morata	Morare	PROPN	SP	_	14	ccomp	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anatocismo, tribunale di Bari condanna banca: dovrà restituire interessi non dovuti ad un'azienda | @scoopit http:// sco.lt/4hTCxV
+1	Anatocismo	Anatocismo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	tribunale	tribunale	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Bari	Bari	PROPN	SP	_	3	nmod	_	_
+6	condanna	condannare	NOUN	S	Gender=Fem|Number=Sing	1	appos	_	_
+7	banca	banca	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	6	punct	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	restituire	restituire	VERB	V	VerbForm=Inf	0	root	_	_
+11	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	dovuti	dovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
+14	ad	a	ADP	E	_	16	case	_	_
+15	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	azienda	azienda	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+17	|	|	SYM	SYM	_	18	nmod	_	_
+18	@scoopit	@scoopit	SYM	X	_	16	nmod	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	sco.lt/4hTCxV	sco.lt/4hTCxV	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

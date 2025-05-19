@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Lucianalatte @AnnaRiccardi77 starà cazziando qualche alunno indisciplinato!
+1	@Lucianalatte	@Lucianalatto	PROPN	SP	_	4	nsubj	_	_
+2	@AnnaRiccardi77	@AnnaRiccardi77	PROPN	SP	_	1	flat:name	_	_
+3	starà	esstere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	cazziando	cazziare	VERB	V	VerbForm=Ger	0	root	_	_
+5	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	alunno	alunno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	indisciplinato	indisciplinato	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

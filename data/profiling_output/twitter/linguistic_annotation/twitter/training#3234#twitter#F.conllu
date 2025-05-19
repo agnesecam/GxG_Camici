@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = a me questa continua a sembrare la soluzione giusta, molto più di imbracciare armi o "sbatterli fuori tutti",... http:// fb.me/4bg91mFTJ
+1	a	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+3	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+4	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	8	punct	_	_
+11	molto	molto	ADV	B	_	12	advmod	_	_
+12	più	più	ADV	B	_	14	advmod	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	imbracciare	imbracciare	VERB	V	VerbForm=Inf	8	acl	_	_
+15	armi	arma	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+16	o	o	CCONJ	CC	_	18	cc	_	_
+17	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+18-19	sbatterli	_	_	_	_	_	_	_	_
+18	sbatter	sbattere	VERB	V	VerbForm=Inf	14	conj	_	_
+19	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+20	fuori	fuori	ADV	B	_	18	advmod	_	_
+21	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	18	obl	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+23	,...	,...	PUNCT	FF	_	18	punct	_	_
+24	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	14	punct	_	_
+27	fb.me/4bg91mFTJ	fb.me/4bg91mFTJ	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

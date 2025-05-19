@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma io vorrei restarti accanto se fossimo bambini guardare il cielo da fessure come i topi nei tombini
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	restarti	restartire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	accanto	accanto	ADV	B	_	8	mark	_	_
+6	se	se	SCONJ	CS	_	5	fixed	_	_
+7	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	4	advcl	_	_
+9	guardare	guardare	VERB	V	VerbForm=Inf	8	csubj	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	fessure	fessura	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+14	come	come	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	topi	topio	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+17-18	nei	_	_	_	_	_	_	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	tombini	tombino	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	SpacesAfter=\n
+

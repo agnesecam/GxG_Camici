@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La #felità non è l'assenza di problemi ma è l'abilità a trattare con essi https:// twitter.com/HeidiStea/stat us/709152127885639680 …
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	#felità	#felità	NOUN	S	Gender=Fem	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	assenza	assenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	abilità	abilità	NOUN	S	Gender=Fem	6	conj	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	trattare	trattare	VERB	V	VerbForm=Inf	12	acl	_	_
+15	con	con	ADP	E	_	16	case	_	_
+16	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obl	_	_
+17	https:	https:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	6	punct	_	_
+20	twitter.com/HeidiStea/stat	twitter.com/HeidiStea/stat	PROPN	SP	_	6	nmod	_	_
+21	us/709152127885639680	us/709152127885639680	NUM	N	NumType=Card	20	nummod	_	_
+22	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

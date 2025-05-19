@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Osmin__ perché siamo virtualmente in Italia.
+1	@Osmin__	@Osmin_-	PUNCT	FB	_	6	punct	_	_
+2	perché	perché	SCONJ	CS	_	6	mark	_	_
+3	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	virtualmente	virtualmente	ADV	B	_	6	advmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	Italia	Italia	PROPN	SP	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Fossimo virtualmente a Cuba, non so.
+1	Fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	virtualmente	virtualmente	ADV	B	_	4	case	_	_
+3	a	a	ADP	E	_	2	fixed	_	_
+4	Cuba	Cuba	PROPN	SP	_	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Parli e scrivi come io non saprei fare, in spagnolo.
+1-2	Parli	_	_	_	_	_	_	_	_
+1	Par	Parre	VERB	V	VerbForm=Inf	0	root	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	scrivi	scrivare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	saprei	sapere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	spagnolo	spagnolo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

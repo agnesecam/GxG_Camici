@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VBaldassi Bgiorno!Che le nostre preghiere possano essere di conforto per quelle persone scoraggiate e sole.Cristo Gesù ascoltaci!
+1	@VBaldassi	@VBaldassi	PROPN	SP	_	0	root	_	_
+2	Bgiorno	Bgiorno	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!Che	!Che	PROPN	SP	_	1	flat:name	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	preghiere	preghiera	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+7	possano	potere	AUX	VM	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+8	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	conforto	conforto	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
+13	persone	persona	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+14	scoraggiate	scoraggiato	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	sole.Cristo	sole.Cristo	ADJ	A	Gender=Masc|Number=Sing	14	conj	_	_
+17	Gesù	Gesù	PROPN	SP	_	13	nmod	_	_
+18	ascoltaci	ascoltace	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

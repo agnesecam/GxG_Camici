@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Risparmiatori truffati da #Bankitalia e dallo Stato: stasera #Report Rai3: 'Saltimbanche' è l'inchiesta di Report... http:// fb.me/2utHysBod
+1	Risparmiatori	risparmiatore	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_
+2	truffati	truffare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	#Bankitalia	#Bankitalia	PROPN	SP	_	2	obl:agent	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6-7	dallo	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Stato	stato	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	8	punct	_	_
+10	stasera	stasera	ADV	B	_	11	advmod	_	_
+11	#Report	#Report	PROPN	SP	_	4	conj	_	_
+12	Rai3	Rai3	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	11	punct	_	_
+14	'	'	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	Saltimbanche	Saltimbanche	PROPN	SP	_	11	appos	_	SpaceAfter=No
+16	'	'	PUNCT	FB	_	15	punct	_	_
+17	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	inchiesta	inchiesta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	Report...	Report...	PROPN	SP	_	19	nmod	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/2utHysBod	fb.me/2utHysBod	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

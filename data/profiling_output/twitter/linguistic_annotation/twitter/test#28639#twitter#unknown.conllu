@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Gazzetta_it coi se e coi ma "un si fa neanche l'aceto"...se un son passati non sono solo gufate!
+1	@Gazzetta_it	@Gazzetta_it	NOUN	S	_	12	nsubj	_	_
+2-3	coi	_	_	_	_	_	_	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	se	se	NOUN	S	Gender=Masc	12	obl	_	_
+5	e	e	CCONJ	CC	_	12	cc	_	_
+6-7	coi	_	_	_	_	_	_	_	_
+6	con	con	ADP	E	_	12	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+8	ma	ma	CCONJ	CC	_	12	cc	_	_
+9	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	neanche	neanche	ADV	BN	PronType=Neg	12	advmod	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	aceto	aceto	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+17	...se	...so	ADJ	A	Number=Sing	15	amod	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	son	son	NOUN	S	Gender=Masc	15	nmod	_	_
+20	passati	passato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	19	acl	_	_
+21	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+22	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
+23	solo	solo	ADV	B	_	24	advmod	_	_
+24	gufate	gufato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	conj	_	SpaceAfter=No
+25	!	!	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!Vuol dire che gli altri erano più svegli!
+1	!!Vuol	!!Vuol	PROPN	SP	_	0	root	_	_
+2	dire	dire	VERB	V	VerbForm=Inf	1	advcl	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	_	_
+6	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	più	più	ADV	B	_	8	advmod	_	_
+8	svegli	svegliere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

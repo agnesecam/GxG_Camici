@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @silvia_polizzi @Chiara_Sarzana @SephoraItalia senza non si poteva entrare nel club.
+1	@silvia_polizzi	@silvia_polizzo	ADP	E	_	2	case	_	_
+2	@Chiara_Sarzana	@Chiara_Sarzana	PROPN	SP	_	8	obl	_	_
+3	@SephoraItalia	@SephoraItalia	PROPN	SP	_	2	flat:name	_	_
+4	senza	senza	ADP	E	_	8	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+7	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	entrare	entrare	VERB	V	VerbForm=Inf	0	root	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	club	club	NOUN	S	Gender=Masc	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Abbiamo fatto il possibile per averne un paio ciascuna .
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	possibile	possibile	ADJ	A	Number=Sing	2	obj	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6-7	averne	_	_	_	_	_	_	_	_
+6	aver	avere	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	paio	paio	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10	ciascuna	ciascuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	9	nmod	_	_
+11	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

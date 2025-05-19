@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Già:
+1	Già	già	ADV	B	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = altrimenti saremmo tutti felici @kikka9766 @FgFrangrego @fiorenza_tania @emilydeluca81 @destinograzia @Budano51Lory @lacerbiatta
+1	altrimenti	altrimenti	ADV	B	_	4	advmod	_	_
+2	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obl	_	_
+4	felici	felice	ADJ	A	Number=Plur	11	advcl	_	_
+5	@kikka9766	@kikka9766	NUM	N	NumType=Card	6	nummod	_	_
+6	@FgFrangrego	@FgFrangrego	PROPN	SP	_	7	nsubj	_	_
+7	@fiorenza_tania	@fiorenza_taniare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	@emilydeluca81	@emilydeluca8l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	@destinograzia	@destinograzia	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	@Budano51Lory	@Budano51Lory	PROPN	SP	_	9	nmod	_	_
+11	@lacerbiatta	@lacerbiatto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

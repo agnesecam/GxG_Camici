@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se Balotelli in queste ultime partite giocasse da Dio, sicuramente.lo porterei.
+1	Se	se	SCONJ	CS	_	12	mark	_	_
+2	Balotelli	Balotelli	PROPN	SP	_	12	nsubj	_	_
+3	in	in	ADP	E	_	6	case	_	_
+4	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+5	ultime	ultimo	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	6	amod	_	_
+6	partite	partita	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+7	giocasse	giocare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	Dio	dio	PROPN	SP	_	7	obl:agent	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	6	punct	_	_
+11	sicuramente.lo	sicuramente.lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|PronType=Prs	12	nsubj	_	_
+12	porterei	portereo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = Anche perché non abbiamo attaccanti fenomeni adesso #LaDS
+1	Anche	anche	ADV	B	_	4	advmod	_	_
+2	perché	perché	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	attaccanti	attaccare	ADJ	A	Number=Plur	6	amod	_	_
+6	fenomeni	fenomeno	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	adesso	adesso	ADV	B	_	4	advmod	_	_
+8	#LaDS	#LaDS	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

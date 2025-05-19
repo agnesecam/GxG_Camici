@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono incazzato come se avessimo perso.
+1	Sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	incazzato	incazzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	come	come	ADV	B	_	6	advmod	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	perso	perso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Prendiamo sti tre punti e guardiamo avanti che è meglio.
+1	Prendiamo	prendere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sti	sto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+3	tre	tre	NUM	N	NumType=Card	4	nummod	_	_
+4	punti	punto	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	guardiamo	guardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	avanti	avanti	ADV	B	_	6	advmod	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	meglio	meglio	ADV	B	_	6	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #FrosinoneInter
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	FrosinoneInter	FrosinoneInter	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

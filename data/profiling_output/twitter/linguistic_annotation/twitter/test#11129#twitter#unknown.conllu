@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Li conosciamo bene, sono dappertutto .
+1	Li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+2	conosciamo	conoscere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	dappertutto	dappertutto	ADV	B	_	2	conj	_	_
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Provano a confondersi tra le masse adottando comportamenti apparentemente...
+1	Provano	provare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3-4	confondersi	_	_	_	_	_	_	_	_
+3	confonder	confondere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	tra	tra	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	masse	massa	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+8	adottando	adottare	VERB	V	VerbForm=Ger	3	advcl	_	_
+9	comportamenti	comportamento	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	apparentemente...	apparentemente.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7fPRtyaGU
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7fPRtyaGU	fb.me/7fPRtyaGU	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

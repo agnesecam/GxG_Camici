@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agronotizie dalla somma di #ricerca e #innovazione è nata @EcoUnisalento #EnjoyPuglia360 oggi #Vinitaly2016 pic.twitter.com/FpQXxKiG76
+1	@agronotizie	@agronotizia	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	somma	somma	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	#ricerca	#ricerca	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	#innovazione	#innovazione	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	nata	nascere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	@EcoUnisalento	@EcoUnisalento	PROPN	SP	_	10	obl	_	_
+12	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	EnjoyPuglia360	EnjoyPuglia360	PROPN	SP	_	11	flat:name	_	_
+14	oggi	oggi	ADV	B	_	11	advmod	_	_
+15	#	#	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	Vinitaly2016	Vinitaly2016	PROPN	SP	_	11	flat:name	_	_
+17	pic.twitter.com/FpQXxKiG76	pic.twitter.com/FpQXxKiG76	PROPN	SP	_	11	flat:name	_	SpacesAfter=\n
+

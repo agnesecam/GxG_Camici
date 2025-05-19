@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domanda che fa paura:
+1	Domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	paura	paura	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = fra venti anni, farete ancora quello che state facendo oggi?
+1	fra	fra	ADP	E	_	3	case	_	_
+2	venti	venti	NUM	N	NumType=Card	3	nummod	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	ancora	ancora	ADV	B	_	5	advmod	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+9	state	stare	AUX	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	aux:pass	_	_
+10	facendo	fare	VERB	V	VerbForm=Ger	7	acl:relcl	_	_
+11	oggi	oggi	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Io no (spero, credo, progetto) http:// eepurl.com/bWprj9
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	_
+3	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	spero	spero	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	credo	credo	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	4	punct	_	_
+10	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	4	punct	_	_
+13	eepurl.com/bWprj9	eepurl.com/bWprj9	PROPN	SP	_	1	appos	_	SpacesAfter=\n
+

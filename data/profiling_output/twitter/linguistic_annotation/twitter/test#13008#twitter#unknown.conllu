@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ER GAIO MATRIMONIO L' avessero spiegato ar gran poeta Omero che poi sarebbe stato l'ammore... http:// bit.ly/1OCruUo
+1	ER	ER	ADP	E	_	2	case	_	_
+2	GAIO	GAIO	PROPN	SP	_	6	obl	_	_
+3	MATRIMONIO	matrimonio	PROPN	SP	_	2	flat:name	_	_
+4	L'	lo	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	iobj	_	_
+5	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	spiegato	spiegare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	ar	are	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	gran	grande	ADJ	A	_	9	amod	_	_
+9	poeta	poeta	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	Omero	Omero	PROPN	SP	_	9	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+12	poi	poi	ADV	B	_	16	advmod	_	_
+13	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+14	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	cop	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	ammore...	ammore...	NOUN	S	Gender=Masc|Number=Sing	10	acl:relcl	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	bit.ly/1OCruUo	bit.ly/1OCruUo	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

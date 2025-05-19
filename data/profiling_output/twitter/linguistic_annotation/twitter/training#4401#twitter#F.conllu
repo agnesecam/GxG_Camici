@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni giorno un presidente del consiglio si sveglia e sa che dovra ' correre piu' dell' "indifendibile".
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	consiglio	consiglio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+12	che	che	SCONJ	CS	_	15	mark	_	_
+13	dovra	dovra	ADP	E	_	15	mark	_	_
+14	'	'	PUNCT	FB	_	15	punct	_	_
+15	correre	correre	VERB	V	VerbForm=Inf	11	ccomp	_	_
+16	piu'	piu'	ADV	B	_	15	advmod	_	_
+17-18	dell'	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	20	case	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+19	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	indifendibile	indifendibile	ADJ	A	Number=Sing	15	obl	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = #Guidi https:// twitter.com/mattenews24/st atus/715780641661579265 …
+1	#Guidi	#Guidio	PROPN	SP	_	0	root	_	_
+2	https:	https:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	twitter.com/mattenews24/st	twitter.com/mattenews24/st	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	atus/715780641661579265	atus/715780641661579265	NUM	N	NumType=Card	5	nummod	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

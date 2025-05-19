@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Potrai parlare con me delle cose che abbiamo in comune noi due" sì, certo, se solo ne avessimo ancora.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Potrai	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+9	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+10	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	comune	comune	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+14	due	due	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	3	punct	_	_
+16	sì	sì	INTJ	I	Polarity=Pos	3	obj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	certo	certo	ADV	B	_	3	advmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	3	punct	_	_
+20	se	se	SCONJ	CS	_	23	mark	_	_
+21	solo	solo	ADV	B	_	23	advmod	_	_
+22	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	23	iobj	_	_
+23	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+24	ancora	ancora	ADV	B	_	23	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

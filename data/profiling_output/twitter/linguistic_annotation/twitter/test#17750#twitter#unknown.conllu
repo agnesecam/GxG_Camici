@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @laurachiatti3 Segreti e mi recai a Monaco di Baviera dove mi fecero Capo della Polizia e direttore dell'INPS.
+1	@laurachiatti3	@laurachiatti3	NUM	N	NumType=Card	2	nummod	_	_
+2	Segreti	segreto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
+5	recai	recare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	Monaco	Monaco	PROPN	SP	_	5	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Baviera	Baviera	PROPN	SP	_	7	nmod	_	_
+10	dove	dove	ADV	B	_	12	advmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
+13	Capo	capo	PROPN	SP	_	12	obj	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	_
+19-20	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+19	di	di	ADP	E	_	21	case	_	_
+20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	_
+21	INPS	Inps	PROPN	SP	_	18	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Non ero pronto e addestrato
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	pronto	pronto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	addestrato	addestrato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpacesAfter=\n
+

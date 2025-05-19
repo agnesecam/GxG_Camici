@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = -impegnarsi neanche.
+1-2	-impegnarsi	_	_	_	_	_	_	_	_
+1	-impegnar	-impegnare	VERB	V	VerbForm=Inf	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	_
+3	neanche	neanche	ADV	BN	PronType=Neg	1	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Inoltre , sono venuta a conoscenza di cose di cui non sapevo l'esistenza, cose che spiegherebbero dei fatti.
+1	Inoltre	inoltre	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	venuta	venire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	conoscenza	conoscenza	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	cui	cui	PRON	PR	PronType=Rel	12	obl	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	esistenza	esistenza	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	4	punct	_	_
+16	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	spiegherebbero	spieghare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+19-20	dei	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Insomma,-
+1	Insomma	insomma	ADV	B	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

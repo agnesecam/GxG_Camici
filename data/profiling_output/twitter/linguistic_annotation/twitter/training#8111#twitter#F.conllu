@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ScippaBanche : dunque #Renzi pare si sia convinto a voler risarcire tutti.
+1	#ScippaBanche	#ScippaBanche	ADV	B	_	6	advmod	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	dunque	dunque	ADV	B	_	6	advmod	_	_
+4	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	Renzi	Renzi	PROPN	SP	_	6	nsubj	_	_
+6	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	convinto	convincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+10	a	a	ADP	E	_	12	mark	_	_
+11	voler	volere	AUX	VM	VerbForm=Inf	12	aux	_	_
+12	risarcire	risarcire	VERB	V	VerbForm=Inf	9	xcomp	_	_
+13	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Oddio, non proprio tutti tutti https:// twitter.com/PatriziaTerzon i/status/714855727253299200 …
+1	Oddio	oddio	INTJ	I	_	10	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+4	proprio	proprio	ADV	B	_	5	advmod	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	nmod	_	_
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	nmod	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/PatriziaTerzon	twitter.com/PatriziaTerzon	PROPN	SP	_	0	root	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	SpaceAfter=No
+12	/status/714855727253299200	/status/714855727253299200	NUM	N	NumType=Card	10	nummod	_	_
+13	…	…	PUNCT	FF	_	10	punct	_	SpacesAfter=\n
+

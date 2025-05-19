@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rubino7004
+1	@rubino7004	@rubino7004	NUM	N	NumType=Range	0	root	_	_
+
+# sent_id = 2
+# text = Se avessero la "clava occupazionale" col cazzo che le sostituivi... ;-) @GeosNewsdotcom
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avessero	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	clava	clavare	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	occupazionale	occupazionale	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	5	punct	_	_
+8-9	col	_	_	_	_	_	_	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+11	che	che	SCONJ	CS	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	sostituivi...	sostituivi...	NOUN	S	_	10	nmod	_	_
+14	;	;	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	-	-	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	15	punct	_	_
+17	@GeosNewsdotcom	@GeosNewsdotcom	PROPN	SP	_	13	nmod	_	SpacesAfter=\n
+

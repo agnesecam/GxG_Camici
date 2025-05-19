@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ValentinaRomeo è chè si ha sempre meno tempo e si punta sui grandi numeri:
+1	@ValentinaRomeo	@ValentinaRomeo	PROPN	SP	_	5	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	chè	poiché	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7	meno	meno	ADP	E	_	8	case	_	_
+8	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+11	punta	puntare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12-13	sui	_	_	_	_	_	_	_	_
+12	su	su	ADP	E	_	15	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+14	grandi	grande	ADJ	A	Number=Plur	15	amod	_	_
+15	numeri	numero	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+16	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = tra tante qualcuna mi dirà di sì..... eheheh
+1	tra	tra	ADP	E	_	3	case	_	_
+2	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	obl	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	dirà	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	acl:relcl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	sì.....	sì.....	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	eheheh	eheheh	INTJ	I	_	0	root	_	SpacesAfter=\n
+

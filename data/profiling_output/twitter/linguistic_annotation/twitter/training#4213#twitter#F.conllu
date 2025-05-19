@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuno prima o poi me la dovrà spiegare questa orribile invenzione del lunedì.
+1	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	prima	prima	ADV	B	_	8	mark	_	_
+3	o	o	CCONJ	CC	_	8	cc	_	_
+4	poi	poi	ADV	B	_	8	advmod	_	_
+5	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+6	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	spiegare	spiegare	VERB	V	VerbForm=Inf	1	advcl	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+10	orribile	orribile	ADJ	A	Number=Sing	11	amod	_	_
+11	invenzione	invenzione	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	lunedì	lunedì	NOUN	S	Gender=Masc	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

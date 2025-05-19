@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sicilyoutlaw buongiorno Giù bello :-)*
+1	@sicilyoutlaw	@sicilyoutlaw	NOUN	S	Gender=Masc	0	root	_	_
+2	buongiorno	buongiorno	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	Giù	giù	ADV	B	_	4	advmod	_	_
+4	bello	bello	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+5	:	:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+8	*	*	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

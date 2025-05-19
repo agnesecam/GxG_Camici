@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = vediamo:
+1	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ti faresti uno scopamico?
+1	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	faresti	fare	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	scopamico	scopamico	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = — Eeh al momento dico di no, però tutto può cambiare...
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Eeh	Eeh	PROPN	SP	_	13	nsubj	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	momento	momento	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+6	dico	dico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	no	no	NOUN	S	Gender=Masc	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	però	però	ADV	B	_	13	advmod	_	_
+11	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+12	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	cambiare..	cambiare	NOUN	S	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 4
+# text = dunque non lo so https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM5SHDZPYTZXZ6VG5HDP4LNPPKSR2ZAZCPFBG4CSRTK25LSUS4FQXGKFAS2EQ343F2MDZ3PFBG64AADDDCB5TTEL7FA7ACSIXBTCTPDHLDQWS3GEAX2TEXHHMCIPFAUQTQ47EGVTUS23LGNIRVWGCKGYODHR3GLRXM4FCYZKVD …
+1	dunque	dunque	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	4	appos	_	_
+9	7B667HQMHN2IG6NM5SHDZPYTZXZ6VG5HDP4LNPPKSR2ZAZCPFBG4CSRTK25LSUS4FQXGKFAS2EQ343F2MDZ3PFBG64AADDDCB5TTEL7FA7ACSIXBTCTPDHLDQWS3GEAX2TEXHHMCIPFAUQTQ47EGVTUS23LGNIRVWGCKGYODHR3GLRXM4FCYZKVD	7B667HQMHN2IG6NM5SHDZPYTZXZ6VG5HDP4LNPPKSR2ZAZCPFBG4CSRTK25LSUS4FQXGKFAS2EQ343F2MDZ3PFBG64AADDDCB5TTEL7FA7ACSIXBTCTPDHLDQWS3GEAX2TEXHHMCIPFAUQTQ47EGVTUS23LGNIRVWGCKGYODHR3GLRXM4FCYZKVD	PROPN	SP	_	8	flat:name	_	_
+10	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

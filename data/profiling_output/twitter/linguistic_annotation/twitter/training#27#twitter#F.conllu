@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @annabarbararosa @reportrai3 ah!
+1	@annabarbararosa	@annabarbararoso	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	@reportrai3	@reportrai3	NUM	N	NumType=Card	3	nummod	_	_
+3	ah	ah	INTJ	I	_	1	nmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Meno male che c'è gente onesta come te perché in effetti i professori universitari dicono cazzate!Si sa.
+1	Meno	meno	ADV	B	_	5	advmod	_	_
+2	male	male	ADV	B	_	5	advmod	_	_
+3	che	che	SCONJ	CS	_	2	fixed	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	gente	gente	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+7	onesta	onestare	ADJ	A	Number=Sing	6	amod	_	_
+8	come	come	ADP	E	_	9	case	_	_
+9	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+10	perché	perché	SCONJ	CS	_	18	mark	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	effetti	effetto	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	professori	professore	NOUN	S	Gender=Masc|Number=Plur	18	nsubj	_	_
+15	universitari	universitario	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	_
+16	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+17	cazzate!Si	cazzate!Si	PROPN	SP	_	16	nsubj	_	_
+18	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

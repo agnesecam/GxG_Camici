@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se aveste fatto un altro gol avrei preso la bolla!!
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	aveste	avedere	VERB	V	Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	altro	altro	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	gol	goal	NOUN	S	Gender=Masc	3	obj	_	_
+7	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	bolla	bolla	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = @Virtus_1924 @BresciaOfficial
+1	@Virtus_1924	@Virtus_1924	PROPN	SP	_	0	root	_	_
+2	@BresciaOfficial	@BresciaOfficial	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

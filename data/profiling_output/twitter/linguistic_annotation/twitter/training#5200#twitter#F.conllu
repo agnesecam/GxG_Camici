@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao ragazze belle io faccio la presentatrice avon.
+1	Ciao	ciao	INTJ	I	_	2	discourse	_	_
+2	ragazze	ragazza	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+3	belle	bello	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	presentatrice	presentatore	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	avon	avon	ADV	BN	PronType=Neg	5	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Se a qualcuna interesserebbe diventare presentatrice mi... http:// fb.me/62ZBqd0ct
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	4	obl	_	_
+4	interesserebbe	interesseere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+5	diventare	diventare	VERB	V	VerbForm=Inf	0	root	_	_
+6	presentatrice	presentatore	NOUN	S	Gender=Fem|Number=Sing	5	xcomp	_	_
+7	mi...	mi...	NUM	N	NumType=Card	6	nummod	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	fb.me/62ZBqd0ct	fb.me/62ZBqd0ct	PROPN	SP	_	5	xcomp	_	SpacesAfter=\n
+

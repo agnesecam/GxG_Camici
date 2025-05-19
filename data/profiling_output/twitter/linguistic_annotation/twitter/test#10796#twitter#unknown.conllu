@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa cosa dei palloncini per il compleanno è bella tanto assai . #eioinvecchio pic.twitter.com/LLVElyZtSy
+1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	palloncini	palloncino	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	bella	bello	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+11	tanto	tanto	ADV	B	_	12	advmod	_	_
+12	assai	assai	ADV	B	_	10	advmod	_	_
+13	.	.	PUNCT	FS	_	12	punct	_	_
+14	#eioinvecchio	#eioinvecchio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+15	pic.twitter.com/LLVElyZtSy	pic.twitter.com/LLVElyZtSy	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

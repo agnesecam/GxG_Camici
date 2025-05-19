@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C'è chi comprende e chi non comprende e in conclusione sta molto peggio chi comprende
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	nsubj	_	_
+4	comprende	comprendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	chi	chi	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	comprende	comprendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	e	e	CCONJ	CC	_	15	cc	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	conclusione	conclusione	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+12	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	molto	molto	ADV	B	_	14	advmod	_	_
+14	peggio	peggio	ADV	B	_	15	advmod	_	_
+15	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	conj	_	_
+16	comprende	comprendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	SpacesAfter=\n
+

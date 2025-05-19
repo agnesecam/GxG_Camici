@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FmMosca @fdragoni se avessimo un governo furbo e la nostra moneta 100.
+1	@FmMosca	@FmMoscere	ADV	B	_	2	advmod	_	_
+2	@fdragoni	@fdragone	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	furbo	furbo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	moneta	moneta	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+12	100	100	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Milioni a famiglia e l economia riparte subito .troppo facile??
+1	Milioni	milione	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	l	l	X	X	_	6	nmod	_	_
+6	economia	economio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	nsubj	_	_
+7	riparte	ripartire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	subito	subito	ADV	B	_	7	advmod	_	_
+9	.troppo	.troppo	ADV	B	_	10	advmod	_	_
+10	facile	facile	ADJ	A	Number=Sing	7	xcomp	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

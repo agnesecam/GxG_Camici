@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ... #usa #bp dovrà pagare 20mld € x disastro #deepwater ! #eni #total in #italia si fanno le #leggi ! #lagabbia #VotaSi http:// bit.ly/1VrqVlg
+1	..	..	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	#usa	#usa	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	#bp	#bp	NOUN	S	Gender=Fem	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+7	20mld	20mld	ADJ	A	_	8	amod	_	_
+8	€	€	SYM	SYM	_	6	obj	_	_
+9	x	x	SYM	SYM	_	8	nmod	_	_
+10	disastro	disastro	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	#deepwater	#deepwater	NOUN	S	Gender=Masc	9	nsubj	_	_
+12	!	!	PUNCT	FS	_	13	punct	_	_
+13	#eni	#eno	NOUN	S	Gender=Masc|Number=Plur	11	appos	_	_
+14	#total	#total	NOUN	S	Gender=Masc	13	compound	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	#italia	#italia	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl:pass	_	_
+18	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	#leggi	#leggio	NOUN	S	Gender=Fem|Number=Plur	18	obj	_	_
+21	!	!	PUNCT	FS	_	23	punct	_	_
+22	#lagabbia	#lagabbia	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23-24	#VotaSi	_	_	_	_	_	_	_	_
+23	#Vota	#Vota	PROPN	SP	_	6	conj	_	_
+24	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	25	expl	_	_
+25	http:	http:	PUNCT	FS	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	23	punct	_	_
+28	bit.ly/1VrqVlg	bit.ly/1VrqVlg	PROPN	SP	_	23	nmod	_	SpacesAfter=\n
+

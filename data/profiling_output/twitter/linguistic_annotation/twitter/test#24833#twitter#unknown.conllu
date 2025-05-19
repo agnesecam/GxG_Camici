@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le uniche due cose che mi farebbero davvero felice sono, una dall'altra parte del mondo e l'altra impossibile #giornatano
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+2	uniche	unico	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+3	due	due	NUM	N	NumType=Card	4	nummod	_	_
+4	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+7	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	davvero	davvero	ADV	B	_	9	advmod	_	_
+9	felice	felice	ADJ	A	Number=Sing	7	xcomp	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	24	nsubj	_	_
+13-14	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+13	da	da	ADP	E	_	16	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+15	altra	altro	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+17-18	del	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+20	e	e	CCONJ	CC	_	22	cc	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
+22	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	16	conj	_	_
+23	impossibile	impossibile	ADJ	A	Number=Sing	22	amod	_	_
+24	#giornatano	#giornatare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

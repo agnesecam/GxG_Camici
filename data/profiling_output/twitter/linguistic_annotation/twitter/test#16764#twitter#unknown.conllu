@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = stare alla larga dai finali a crepacuore non muovere un dito per restare insieme godermi l'equilibrio finché tiene
+1	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	larga	largo	ADJ	A	Gender=Fem|Number=Sing	1	obl	_	_
+5-6	dai	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	finali	finale	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	crepacuore	crepacuora	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	muovere	muovere	VERB	V	VerbForm=Inf	1	advcl	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	dito	dito	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	restare	restare	VERB	V	VerbForm=Inf	11	advcl	_	_
+16	insieme	insieme	ADP	E	_	17	mark	_	_
+17-18	godermi	_	_	_	_	_	_	_	_
+17	goder	goder	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	equilibrio	equilibrio	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+21	finché	finché	SCONJ	CS	_	22	mark	_	_
+22	tiene	tenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpacesAfter=\n
+

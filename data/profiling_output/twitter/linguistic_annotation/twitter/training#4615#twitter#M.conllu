@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @carlucci_cc pescati tutti sotto ht #bandagiachetti .
+1	@carlucci_cc	@carlucci_ccetera	ADV	B	_	2	advmod	_	_
+2	pescati	pescare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	_
+4	sotto	sotto	ADP	E	_	5	case	_	_
+5	ht	ht	NOUN	S	_	2	obl	_	_
+6	#bandagiachetti	#bandagiachetto	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Quanta gente si dovrà cercare un lavoro, quando governeremo!
+1	Quanta	Quanta	DET	DQ	Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
+2	gente	gente	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	cercare	cercare	VERB	V	VerbForm=Inf	0	root	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	quando	quando	SCONJ	CS	_	10	mark	_	_
+10	governeremo	governare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

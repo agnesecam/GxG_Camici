@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Condividilo sulla tua bacheca così Matteuccio dovrà querelare 50 milioni di Italiani.
+1	Condividilo	Condividilo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+2-3	sulla	_	_	_	_	_	_	_	_
+2	su	su	ADP	E	_	5	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	bacheca	bacheca	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	così	così	ADV	B	_	9	advmod	_	_
+7	Matteuccio	Matteuccio	PROPN	SP	_	9	nsubj	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	querelare	querelare	VERB	V	VerbForm=Inf	0	root	_	_
+10	50	50	NUM	N	NumType=Card	11	nummod	_	_
+11	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	Italiani	Italiani	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Fategli vedere che il... http:// fb.me/OorD6e7A
+1-2	Fategli	_	_	_	_	_	_	_	_
+1	Fate	fare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5	il...	il.	NUM	N	NumType=Card	9	nummod	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	fb.me/OorD6e7A	fb.me/OorD6e7A	PROPN	SP	_	3	ccomp	_	SpacesAfter=\n
+

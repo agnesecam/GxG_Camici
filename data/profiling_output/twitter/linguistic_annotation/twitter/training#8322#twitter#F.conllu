@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , ricapitolando:
+1	Dunque	dunque	ADV	B	_	3	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ricapitolando	ricapitolare	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = se lo racconti, ti portano sfiga.
+1	se	se	SCONJ	CS	_	6	mark	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	racconti	racconto	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+6	portano	portare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sfiga	sfiga	ADJ	A	Gender=Fem|Number=Sing	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

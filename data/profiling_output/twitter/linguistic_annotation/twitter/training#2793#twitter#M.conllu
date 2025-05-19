@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alto_adige @fradallape @TCagnotto potrà sembrare retorico, ma la bellezza di questo sport è anche catturare questi istanti
+1	@alto_adige	@alto_adigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@fradallape	@fradallape	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	@TCagnotto	@TCagnotto	PROPN	SP	_	1	obj	_	_
+4	potrà	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	1	conj	_	_
+6	retorico	retorico	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	16	punct	_	_
+8	ma	ma	CCONJ	CC	_	16	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	bellezza	bellezza	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+13	sport	sport	NOUN	S	Gender=Masc	10	nmod	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	anche	anche	ADV	B	_	16	advmod	_	_
+16	catturare	catturare	VERB	V	VerbForm=Inf	5	conj	_	_
+17	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
+18	istanti	istante	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	SpacesAfter=\n
+

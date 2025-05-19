@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da questo distante e vantaggioso punto di vista, la Terra può non sembrare di particolare interesse.
+1	Da	da	ADP	E	_	6	case	_	_
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+3	distante	distante	ADJ	A	Number=Sing	6	amod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	vantaggioso	vantaggioso	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	_
+6	punto	punto	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	vista	vista	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	6	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Terra	Terra	PROPN	SP	_	14	nsubj	_	_
+12	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	particolare	particolare	ADJ	A	Number=Sing	17	amod	_	_
+17	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Ma per noi,... http:// fb.me/2jFX6h3P9
+1	Ma	ma	CCONJ	CC	_	7	cc	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	noi,...	noi,...	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	fb.me/2jFX6h3P9	fb.me/2jFX6h3P9	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sei mai stato alla scuola di Gesù, Egli sta per fare l'appello e vuole che tu sia presente per… https://www.
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	mai	mai	ADV	B	_	3	advmod	_	_
+3	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Gesù	Gesù	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	Egli	egli	PROPN	SP	_	11	nsubj	_	_
+11	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	fare	fare	VERB	V	VerbForm=Inf	11	advcl	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	appello	appello	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+18	che	che	SCONJ	CS	_	21	mark	_	_
+19	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	21	nsubj	_	_
+20	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	presente	presente	ADJ	A	Number=Sing	17	ccomp	_	_
+22	per…	per…	PUNCT	FF	_	23	punct	_	_
+23	https://www	https://www	NOUN	S	_	21	conj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDCv7DKpYiJ/
+1	instagram.com/p/BDCv7DKpYiJ/	instagram.com/p/BDCv7DKpYiJ/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lunedì 11 sarò in diretta alle 14 dalla mia amica Barbara Palombelli su rete 4 .
+1	Lunedì	lunedì	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	11	11	NUM	N	NumType=Card	1	nummod	_	_
+3	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	5	cop	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	14	14	NUM	N	NumType=Card	5	obl	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	amica	amico	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+13	Barbara	Barbara	PROPN	SP	_	12	nmod	_	_
+14	Palombelli	Palombelli	PROPN	SP	_	13	flat:name	_	_
+15	su	su	ADP	E	_	16	case	_	_
+16	rete	rete	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+17	4	4	NUM	N	NumType=Card	16	nummod	_	_
+18	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Il mio nuovo libro LA DIETA CHE... http:// fb.me/4QT6UyTnH
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+3	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	libro	libro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	LA	La	PROPN	SP	_	4	nmod	_	_
+6	DIETA	dieta	PROPN	SP	_	5	flat:name	_	_
+7	CHE...	CHE...	PROPN	SP	_	5	flat:name	_	_
+8	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	5	punct	_	_
+11	fb.me/4QT6UyTnH	fb.me/4QT6UyTnH	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pare che quegli infallibili segugi dei servizi belgi, avessero rinvenuto un pacco sospetto nei pressi del Palazzo...
+1	Pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	12	mark	_	_
+3	quegli	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+4	infallibili	infallibile	ADJ	A	Number=Plur	5	amod	_	_
+5	segugi	seguge	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+9	belgi	belga	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	5	punct	_	_
+11	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	rinvenuto	rinvenire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	pacco	pacco	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	sospetto	sospetto	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+16-17	nei	_	_	_	_	_	_	_	_
+16	in	in	ADP	E	_	18	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	pressi	pressi	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+19-20	del	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Palazzo...	Palazzo...	PROPN	SP	_	18	nmod	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4lNNs0WzE
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4lNNs0WzE	fb.me/4lNNs0WzE	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

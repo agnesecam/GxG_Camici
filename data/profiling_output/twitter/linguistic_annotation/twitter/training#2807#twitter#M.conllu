@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @enrico_zanetti a rischio di non sembrare capaci di gestire un patrimonio naturale.
+1	@enrico_zanetti	@enrico_zanetto	NOUN	S	Gender=Masc	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	rischio	rischio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	di	di	ADP	E	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	3	acl	_	_
+7	capaci	capace	ADJ	A	Number=Plur	6	xcomp	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	gestire	gestire	VERB	V	VerbForm=Inf	7	advcl	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	patrimonio	patrimonio	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	naturale	naturale	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E magari piangersi addosso per la mancanza di risorse.
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	magari	magari	ADV	B	_	3	advmod	_	_
+3-4	piangersi	_	_	_	_	_	_	_	_
+3	pianger	piangere	VERB	V	VerbForm=Inf	0	root	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	addosso	addosso	ADV	B	_	3	advmod	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mancanza	mancanza	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	risorse	risorsa	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

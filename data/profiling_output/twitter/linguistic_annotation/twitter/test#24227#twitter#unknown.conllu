@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Uifandre Che donna De domani gliene parlo con calma, speriamo
+1	@Uifandre	@Uifandre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Che	che	DET	DQ	PronType=Int	3	det	_	_
+3	donna	donna	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+4	De	De	PROPN	SP	_	3	flat:name	_	_
+5	domani	domani	ADV	B	_	11	advmod	_	_
+6	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+7	parlo	parlo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	calma	calma	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	6	punct	_	_
+11	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	SpacesAfter=\n
+

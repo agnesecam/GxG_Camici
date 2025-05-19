@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ByyLeGenDz @ManuelXXIII
+1	@ByyLeGenDz	@ByyLeGenDz	PROPN	SP	_	0	root	_	_
+2	@ManuelXXIII	@ManuelXXIII	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 2
+# text = Manuel mi farebbe piacere prenderti per il culo un po se lo facessi non credi?
+1	Manuel	Manuel	PROPN	SP	_	3	nsubj	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	farebbe	fare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	piacere	piacere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5-6	prenderti	_	_	_	_	_	_	_	_
+5	prender	prendere	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	culo	culo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	po	po	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+12	se	se	SCONJ	CS	_	16	mark	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	facessi	facesso	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	credi	credere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = E comunque non mi divertirebbe farlo
+1	E	e	CCONJ	CC	_	5	cc	_	_
+2	comunque	comunque	ADV	B	_	5	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	divertirebbe	divertiere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6-7	farlo	_	_	_	_	_	_	_	SpacesAfter=\n
+6	far	fare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+

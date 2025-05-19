@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque senza minipimer e mixer vari sareste persi, banda di frullatori seriali.
+1	Comunque	comunque	ADV	B	_	0	root	_	_
+2	senza	senza	ADP	E	_	3	case	_	_
+3	minipimer	minipimer	NOUN	S	_	1	obl	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	mixer	mixere	X	SW	Foreign=Yes|Gender=Masc	3	conj	_	_
+6	vari	vario	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+7	sareste	saresta	ADJ	A	Number=Sing	8	amod	_	_
+8	persi	perso	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	banda	banda	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	frullatori	frullatore	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	seriali	seriale	ADJ	A	Number=Plur	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #MasterChefIt
+1	#MasterChefIt	#MasterChefIt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

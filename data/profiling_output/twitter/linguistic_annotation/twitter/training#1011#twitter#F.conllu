@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @elena_mac ...sai qual è la mia mission ...da domani non mi faccio corrompere nemmeno più dalla depressione post Outlander
+1	@elena_mac	@elena_mac	ADV	B	_	2	advmod	_	_
+2	...sai	...sai	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qual	quale	PRON	PQ	Number=Sing|PronType=Int	8	obj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	mission	missione	NOUN	S	Gender=Fem	8	nsubj	_	_
+8	...da	...do	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	domani	domani	ADV	B	_	8	advmod	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	xcomp	_	_
+13	corrompere	corrompere	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14	nemmeno	nemmeno	ADV	BN	PronType=Neg	15	advmod	_	_
+15	più	più	ADV	B	_	13	advmod	_	_
+16-17	dalla	_	_	_	_	_	_	_	_
+16	da	da	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	depressione	depressione	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+19	post	post	ADJ	A	_	20	amod	_	_
+20	Outlander	Outlander	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

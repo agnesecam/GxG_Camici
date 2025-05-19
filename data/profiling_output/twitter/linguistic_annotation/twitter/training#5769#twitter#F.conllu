@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C è qualcuna di voi che vuole lavorare come babh sitter a Monteverde ?
+1	C	C	PROPN	SP	_	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	lavorare	lavorare	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	babh	babh	NOUN	S	_	8	obl	_	_
+11	sitter	sittere	NOUN	S	_	10	compound	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	Monteverde	Monteverde	PROPN	SP	_	8	obl	_	_
+14	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

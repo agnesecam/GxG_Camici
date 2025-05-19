@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Devi aiutare i migliori commentatori, dare loro importanza.
+1	Devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aiutare	aiutare	VERB	V	VerbForm=Inf	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	5	amod	_	_
+5	commentatori	commentatore	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	dare	dare	VERB	V	VerbForm=Inf	2	conj	_	_
+8	loro	loro	DET	AP	Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	importanza	importanza	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Altrimenti è come quando il tuo fidanzato dice "ti amo" e tu dici "ok" #ijf16
+1	Altrimenti	altrimenti	CCONJ	CC	_	3	cc	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	come	come	ADV	B	_	11	advmod	_	_
+4	quando	quando	SCONJ	CS	_	8	mark	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	fidanzato	fidanzato	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+9	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+11	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	15	punct	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+15	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_
+16	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+17	ok	ok	NOUN	S	_	15	obj	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	17	punct	_	_
+19	#ijf16	#ijf16	SYM	X	_	17	nmod	_	SpacesAfter=\n
+

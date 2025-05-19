@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I messaggi che Riina jr ha mandato via tv pubblica (e dunque i veri motivi per cui non bisognava mandarlo in onda) pic.twitter.com/aRAeY8VZNo
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	messaggi	messaggio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+4	Riina	Riina	PROPN	SP	_	7	nsubj	_	_
+5	jr	jr	AUX	VM	VerbForm=Inf	7	aux	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	mandato	mandare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+8	via	via	ADP	E	_	9	case	_	_
+9	tv	tv	NOUN	S	Gender=Fem	7	obl	_	_
+10	pubblica	pubblico	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	dunque	dunque	ADV	B	_	16	advmod	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	veri	vero	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+16	motivi	motivo	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	cui	cui	PRON	PR	PronType=Rel	20	obl	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	bisognava	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	_
+21-22	mandarlo	_	_	_	_	_	_	_	_
+21	mandar	mandare	VERB	V	VerbForm=Inf	20	xcomp	_	_
+22	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+23	in	in	ADP	E	_	24	case	_	_
+24	onda	onda	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+25	)	)	PUNCT	FB	_	16	punct	_	_
+26	pic.twitter.com/aRAeY8VZNo	pic.twitter.com/aRAeY8VZNo	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

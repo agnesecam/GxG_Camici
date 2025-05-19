@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BarbaraSegaler1 @MetaErmal x me sono cambiate molte cose non riesco piu' ad ascoltarlo ahimè sono fatta così anche nella vita tutto a uno!!
+1	@BarbaraSegaler1	@BarbaraSegaler1	PROPN	SP	_	6	nsubj	_	_
+2	@MetaErmal	@MetaErmal	PROPN	SP	_	1	flat:name	_	_
+3	x	x	SYM	SYM	_	1	flat:name	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	cambiate	cambiare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	molte	molto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	piu'	piu'	ADV	B	_	10	advmod	_	_
+12	ad	a	ADP	E	_	13	mark	_	_
+13-14	ascoltarlo	_	_	_	_	_	_	_	_
+13	ascoltar	ascoltare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+14	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15	ahimè	ahimè	INTJ	I	_	17	nsubj:pass	_	_
+16	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+17	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+18	così	così	ADV	B	_	17	advmod	_	_
+19	anche	anche	ADV	B	_	22	advmod	_	_
+20-21	nella	_	_	_	_	_	_	_	_
+20	in	in	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	vita	vita	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	_
+23	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	obl	_	_
+24	a	a	ADP	E	_	25	case	_	_
+25	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	23	obl	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	23	punct	_	SpaceAfter=No
+27	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

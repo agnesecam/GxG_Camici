@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lapinadeejay essì che fease "se sei innamorato non hai scelta"
+1	@lapinadeejay	@lapinadeejay	CCONJ	CC	_	2	cc	_	_
+2	essì	essì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	fease	feanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+5	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	innamorato	innamorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	scelta	scegliere	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marrymesherwood @jhutchsmine io solo 3 e band account!
+1	@marrymesherwood	@marrymesherwood	NOUN	S	Gender=Masc	0	root	_	_
+2	@jhutchsmine	@jhutchsmino	ADJ	A	Number=Sing	1	amod	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+4	solo	solo	ADV	B	_	5	advmod	_	_
+5	3	3	NUM	N	NumType=Card	3	nummod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	band	band	NOUN	S	_	3	conj	_	_
+8	account	account	NOUN	S	_	7	compound	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Puoi aiutarmi con il follow di qualcuna che mi manca?
+1	Puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	aiutarmi	_	_	_	_	_	_	_	_
+2	aiutar	aiutare	VERB	V	VerbForm=Inf	0	root	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	follow	follow	NOUN	S	Gender=Masc	2	obl	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ricambio come vuoi.
+1	Ricambio	Ricambio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	SCONJ	CS	_	3	mark	_	_
+3	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

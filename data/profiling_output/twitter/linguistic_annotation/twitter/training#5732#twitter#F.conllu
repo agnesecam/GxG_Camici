@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #primatiePD Roma ma sono schede bianche o sbianchettate?
+1	#primatiePD	#primatiePD	PROPN	SP	_	5	nsubj	_	_
+2	Roma	Roma	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	schede	schedere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+6	bianche	bianche	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+7	o	o	CCONJ	CC	_	8	cc	_	_
+8	sbianchettate	sbianchettare	ADJ	A	Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Cioè, almeno qualcuna indica pentimento per quanto ci prendono per .....?
+1	Cioè	cioè	INTJ	I	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	almeno	almeno	ADV	B	_	4	advmod	_	_
+4	qualcuna	qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj	_	_
+5	indica	indicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pentimento	pentimento	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	obj	_	_
+10	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	.....	.....	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

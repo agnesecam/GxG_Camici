@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AdrianaBravi1
+1	@AdrianaBravi1	@AdrianaBravi1	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = Non farà nulla perché nelle segreterie,ai vari livelli,ci son poltronisti aspiranti la paghetta,che fan muro incostituzionale
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	_
+4	perché	perché	ADV	B	_	7	advmod	_	_
+5-6	nelle	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	segreterie,ai	segreterie,aio	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+8	vari	vario	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	livelli,ci	livelli,co	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+10	son	son	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	poltronisti	poltronista	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+12	aspiranti	aspirare	ADJ	A	Number=Plur	11	xcomp	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	paghetta,che	paghetta,ca	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+15	fan	fan	NOUN	S	_	11	nsubj:pass	_	_
+16	muro	muro	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+17	incostituzionale	incostituzionale	ADJ	A	Number=Sing	16	amod	_	SpacesAfter=\n
+

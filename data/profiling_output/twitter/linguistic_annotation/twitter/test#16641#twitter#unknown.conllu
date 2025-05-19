@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mancano solo due mesi alla fine della scuola e dio solo sa quante materie ho sotto
+1	Mancano	mancare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	solo	solo	ADV	B	_	1	advmod	_	_
+3	due	due	NUM	N	NumType=Card	4	nummod	_	_
+4	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	fine	fine	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	dio	dio	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	_
+13	solo	solo	ADV	B	_	14	advmod	_	_
+14	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+15	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	16	det	_	_
+16	materie	materia	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
+18	sotto	sotto	ADV	B	_	14	advmod	_	SpacesAfter=\n
+

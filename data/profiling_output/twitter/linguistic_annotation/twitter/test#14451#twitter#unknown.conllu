@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Raga vi ricordate quando feci quella cosa dei numeri, che ogni giorno chiamavo a sorpresa una di voi?
+1	Raga	Raga	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	obj	_	_
+3	ricordate	ricordare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	quando	quando	SCONJ	CS	_	5	mark	_	_
+5	feci	feci	NUM	N	_	3	advcl	_	_
+6	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	numeri	numero	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	che	che	PRON	PR	PronType=Rel	14	case	_	_
+13	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	14	det	_	_
+14	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	10	acl:relcl	_	_
+15	chiamavo	chiamare	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	sorpresa	sorprendere	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	17	nsubj	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	18	nmod	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

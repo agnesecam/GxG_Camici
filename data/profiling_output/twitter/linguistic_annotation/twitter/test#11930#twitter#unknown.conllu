@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Stroozman È dura dormire se ti passano davanti le immagini della partita.
+1	@Stroozman	@Stroozman	PROPN	SP	_	3	nsubj	_	_
+2	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	dura	duro	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4	dormire	dormire	VERB	V	VerbForm=Inf	3	csubj	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+7	passano	passare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	davanti	davanti	ADV	B	_	10	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	immagini	immagine	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	partita	partita	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Eravamo sul 2-0 e stavamo dominando, diamine!
+1	Eravamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2-3	sul	_	_	_	_	_	_	_	_
+2	su	su	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2	2	NUM	N	NumType=Card	1	obl	_	SpaceAfter=No
+5	-0	-0	NUM	N	NumType=Card	4	flat	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	stavamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	dominando	dominare	VERB	V	VerbForm=Ger	1	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	diamine	diamine	NOUN	S	Gender=Fem	8	obj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Vabbè...
+1	Vabbè...	Vabbè.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

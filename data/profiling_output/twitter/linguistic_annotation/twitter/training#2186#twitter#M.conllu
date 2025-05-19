@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dentro la balena bianca le correnti di partito servivano a ravvivare il dibattito.
+1	Dentro	dentro	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	balena	balena	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+4	bianca	bianco	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	correnti	corrente	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	partito	partito	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	servivano	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	ravvivare	ravvivare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	dibattito	dibattito	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Dentro al #PD sono soltanto spifferi d'aria fritta.
+1	Dentro	dentro	ADV	B	_	7	advmod	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	#PD	#PD	PROPN	SP	_	1	obl	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	soltanto	soltanto	ADV	B	_	7	advmod	_	_
+7	spifferi	spiffero	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+8	d'	di	ADP	E	_	9	case	_	SpaceAfter=No
+9	aria	aria	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+10	fritta	fritto	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

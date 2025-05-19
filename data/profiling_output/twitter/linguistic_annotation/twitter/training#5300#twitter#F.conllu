@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A cena fuori con un chicchissimo pigiama in seta, pare sia il massimo del glamour e se per caso, qualcuna ... http:// fb.me/11jM0BPJA
+1	A	a	ADP	E	_	2	case	_	_
+2	cena	cena	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+3	fuori	fuori	ADV	B	_	7	case	_	_
+4	con	con	ADP	E	_	3	fixed	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	chicchissimo	chicchissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	7	amod	_	_
+7	pigiama	pigiama	NOUN	S	Gender=Masc	2	nmod	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	seta	seta	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	massimo	massimo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	glamour	glamour	NOUN	S	Gender=Masc	14	nmod	_	_
+18	e	e	CCONJ	CC	_	28	cc	_	_
+19	se	se	SCONJ	CS	_	21	case	_	_
+20	per	per	ADP	E	_	21	case	_	_
+21	caso	caso	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	23	punct	_	_
+23	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	21	conj	_	_
+24	...	...	PUNCT	FF	_	21	punct	_	_
+25	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	21	punct	_	_
+28	fb.me/11jM0BPJA	fb.me/11jM0BPJA	PROPN	SP	_	11	conj	_	SpacesAfter=\n
+

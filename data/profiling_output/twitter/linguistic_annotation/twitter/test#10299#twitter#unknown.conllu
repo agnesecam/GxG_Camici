@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Puntin ha un nuovo esercito che può sparare a vista..BRAVO HA FATTO BENISSIMO .
+1	Puntin	Puntin	PROPN	SP	_	2	nsubj	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	esercito	esercito	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	sparare	sparare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	vista..BRAVO	vista..BRAVO	PROPN	SP	_	8	obl	_	_
+11	HA	avere	PROPN	SP	_	10	flat:name	_	_
+12	FATTO	fare	PROPN	SP	_	8	obj	_	_
+13	BENISSIMO	bene	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

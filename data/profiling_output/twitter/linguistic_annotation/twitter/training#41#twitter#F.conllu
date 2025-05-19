@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @annabarbararosa @reportrai3 purtroppo non sai quello che fanno i tarantini perché tv, giornali non parlano mai della lotta pacifica
+1	@annabarbararosa	@annabarbararosa	ADV	B	_	5	advmod	_	_
+2	@reportrai3	@reportrai3	NUM	N	NumType=Card	5	nummod	_	_
+3	purtroppo	purtroppo	ADV	B	_	5	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	tarantini	tarantino	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	perché	perché	SCONJ	CS	_	16	mark	_	_
+12	tv	televisione	NOUN	S	Gender=Fem	16	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	giornali	giornale	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+17	mai	mai	ADV	B	_	16	advmod	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	lotta	lotta	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+21	pacifica	pacifico	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	SpacesAfter=\n
+

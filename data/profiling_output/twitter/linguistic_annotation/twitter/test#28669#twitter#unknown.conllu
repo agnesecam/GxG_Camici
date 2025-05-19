@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si trattava di una ricerca scientifico-statistica sulle forme dei glandi e avevamo bisogno di confronti e paragoni.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+2	trattava	trattare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ricerca	ricerca	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6	scientifico	scientifico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	statistica	statistica	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+9-10	sulle	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	forme	forma	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	glandi	glando	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	avevamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	conj	_	_
+17	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	confronti	confronto	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	paragoni	paragone	NOUN	S	Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

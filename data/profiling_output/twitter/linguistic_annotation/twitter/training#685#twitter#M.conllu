@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @zeropregi già me lo immagino @Bertolaso2016 :
+1	@zeropregi	@zeropregio	ADV	B	_	5	advmod	_	_
+2	già	già	ADV	B	_	5	advmod	_	_
+3	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	immagino	immagiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	@Bertolaso2016	@Bertolaso2016	PROPN	SP	_	5	xcomp	_	_
+7	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = "farò riparare tutte le buche a Roma".
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	riparare	riparare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	6	det:predet	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	buche	buca	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Roma	Roma	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = E noi "no no.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	no	no	X	SW	Foreign=Yes	2	appos	_	_
+5	no	no	X	SW	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Grazie.
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = Come se avessimo accettato eh"
+1	Come	come	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	accettato	accettare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	eh	eh	INTJ	I	_	4	punct	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

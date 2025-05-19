@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Crederò di aver sognato,che tutte quelle cose,così vere,non ebbero corpo ne' nome Che perdo un'ombra,un sogno ancora pic.twitter.com/t4NmULzlwd
+1	Crederò	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	7	mark	_	_
+3	aver	avere	AUX	VA	VerbForm=Inf	7	aux	_	_
+4	sognato,che	sognato,ca	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	7	obl	_	_
+6	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	7	nsubj	_	_
+7	cose,così	cose,così	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+8	vere,non	vere,non	ADP	E	_	10	case	_	_
+9	ebbero	avere	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	corpo	corpo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+11-12	ne'	_	_	_	_	_	_	_	_
+11	ni	no	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	nome	nome	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	Che	che	PRON	PR	PronType=Rel	15	obj	_	_
+15	perdo	perdare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+16	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+17	ombra,un	ombra,uno	NUM	N	NumType=Card	18	nummod	_	_
+18	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+19	ancora	ancora	ADV	B	_	18	advmod	_	_
+20	pic.twitter.com/t4NmULzlwd	pic.twitter.com/t4NmULzlwd	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

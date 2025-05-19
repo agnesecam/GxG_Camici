@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Neppure io https:// twitter.com/tgla7/status/7 13365979489812480 …
+1	Neppure	neppure	ADV	BN	PronType=Neg	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	twitter.com/tgla7/status/7	twitter.com/tgla7/status/7	NUM	N	NumType=Card	2	nmod	_	_
+7	13365979489812480	13365979489812480	NUM	N	NumType=Card	6	flat	_	_
+8	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

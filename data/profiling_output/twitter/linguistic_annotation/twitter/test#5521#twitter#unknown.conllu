@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuna a cui scrivere?
+1	Qualcuna	Qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	cui	cui	PRON	PR	PronType=Rel	4	obl	_	_
+4	scrivere	scrivere	VERB	V	VerbForm=Inf	1	acl:relcl	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = - Scriv na lettr a maronn è capac ca t fa cocc miracl http:// kiw.im/14xDAHWcfv9
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Scriv	Scriv	PROPN	SP	_	8	nmod	_	_
+3	na	na	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	lettr	lettre	NOUN	S	_	8	nsubj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	maronn	maronn	NOUN	S	Gender=Masc	4	nmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	capac	capac	NOUN	S	Gender=Fem	0	root	_	_
+9	ca	circa	ADP	E	_	10	case	_	_
+10	t	t	NOUN	S	Gender=Masc	8	nmod	_	_
+11	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+12	cocc	cocc	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+13	miracl	miracl	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	http:	http:	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	kiw.im/14xDAHWcfv9	kiw.im/14xDAHWcfv9	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

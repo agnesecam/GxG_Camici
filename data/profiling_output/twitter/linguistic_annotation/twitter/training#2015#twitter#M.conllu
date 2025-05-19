@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LivornoBari Clima teso fuori dallo stadio #LivornoNazione @qn_lanazione @LivornoCalcio @Lega_B https:// twitter.com/BrachiniMassim o/status/718767672645808132 …
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LivornoBari	LivornoBari	PROPN	SP	_	0	root	_	_
+3	Clima	clima	PROPN	SP	_	2	flat:name	_	_
+4	teso	tendere	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	fuori	fuori	ADV	B	_	8	case	_	_
+6-7	dallo	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	5	fixed	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+9	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	LivornoNazione	LivornoNazione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	@qn_lanazione	@qn_lanazione	NOUN	S	Gender=Fem|Number=Sing	10	compound	_	_
+12	@LivornoCalcio	@LivornoCalcio	PROPN	SP	_	11	nmod	_	_
+13	@Lega_B	@Lega_B	PROPN	SP	_	12	flat:name	_	_
+14	https:	https:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	12	punct	_	_
+17	twitter.com/BrachiniMassim	twitter.com/BrachiniMassim	PROPN	SP	_	12	nmod	_	_
+18	o	o	CCONJ	CC	_	19	cc	_	SpaceAfter=No
+19	/status/718767672645808132	/status/718767672645808132	NUM	N	NumType=Card	17	conj	_	_
+20	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

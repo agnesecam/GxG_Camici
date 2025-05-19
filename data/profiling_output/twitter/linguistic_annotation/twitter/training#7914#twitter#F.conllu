@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque Maria tu lo ben sai tutta questa serata sarebbe potuta durare 15 minuti?
+1	Dunque	dunque	ADV	B	_	12	advmod	_	_
+2	Maria	Maria	PROPN	SP	_	12	nsubj	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	ben	bene	ADV	B	_	6	advmod	_	_
+6	sai	sapere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	9	det:predet	_	_
+8	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	serata	serata	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	potuta	potere	AUX	VM	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	aux	_	_
+12	durare	durare	VERB	V	VerbForm=Inf	0	root	_	_
+13	15	15	NUM	N	NumType=Card	14	nummod	_	_
+14	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = #Amici15 #buonanotte
+1	#Amici15	#Amici15	NUM	N	NumType=Card	2	nummod	_	_
+2	#buonanotte	#buonanotta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

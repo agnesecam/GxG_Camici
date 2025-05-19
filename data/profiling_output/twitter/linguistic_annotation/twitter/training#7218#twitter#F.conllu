@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Massimo Recalcati "famiglie narcisistici non accettano fallimenti dei figli creano un'alleanza mortifera con essi " #DireFareEducare #scuola
+1	Massimo	Massimo	PROPN	SP	_	7	nsubj	_	_
+2	Recalcati	Recalcati	PROPN	SP	_	1	flat:name	_	_
+3	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+4	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+5	narcisistici	narcisistico	ADJ	A	Number=Plur	4	amod	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	accettano	accettare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	fallimenti	fallimento	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	creano	creare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+13	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	alleanza	alleanza	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+15	mortifera	mortifero	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+16	con	con	ADP	E	_	17	case	_	_
+17	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nmod	_	_
+18	"	"	PUNCT	FB	_	12	punct	_	_
+19	#	#	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+20	DireFareEducare	DireFareEducare	VERB	V	VerbForm=Inf	7	conj	_	_
+21	#scuola	#scuola	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	SpacesAfter=\n
+

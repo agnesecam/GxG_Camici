@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prof che non mette le slide perchè a lezione in tre hanno sempre chiacchierato -.-" neanche fossimo alle elementari!
+1	Prof	Prof	NOUN	S	_	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	slide	slide	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	perchè	perché	SCONJ	CS	_	12	mark	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	lezione	lezione	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	tre	tre	NUM	N	NumType=Card	9	nummod	_	_
+12	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	sempre	sempre	ADV	B	_	14	advmod	_	_
+14	chiacchierato	chiacchierato	ADJ	A	Gender=Masc|Number=Sing	12	obj	_	_
+15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	20	punct	_	_
+19	neanche	neanche	ADV	BN	PronType=Neg	20	advmod	_	_
+20	fossimo	fossimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
+21-22	alle	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	elementari	elementare	ADJ	A	Number=Plur	20	obl	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = #unipd
+1	#unipd	#unipd	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

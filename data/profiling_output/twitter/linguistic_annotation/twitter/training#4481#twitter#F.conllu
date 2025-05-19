@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anti-epatite, Gilead dovrà pagare a Merck&Co.
+1	Anti	anti	ADP	E	_	2	case	_	SpaceAfter=No
+2	-epatite	-epatita	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	Gilead	Gilead	PROPN	SP	_	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Merck&Co	Merck&Co	PROPN	SP	_	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = 200 milioni di dollari http://www.
+1	200	200	NUM	N	NumType=Card	2	nummod	_	_
+2	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	dollari	dollaro	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+5	http://www	http://www	NOUN	S	_	4	compound	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = adnkronos.com/salute/farmace utica/2016/03/29/anti-epatite-gilead-dovra-pagare-merck-milioni-dollari_t3DEUwvlfKMd0jocAfE8JJ.html …
+1	adnkronos.com/salute/farmace	adnkronos.com/salute/farmacere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	utica/2016/	utica/2016/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	03	03	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	29	29	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	anti	anti	ADJ	A	_	8	amod	_	SpaceAfter=No
+8	-epatite	-epatita	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+10	gilead-dovra-pagare-merck-milioni	gilead-dovra-pagare-merck-milione	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	SpaceAfter=No
+11	-dollari_t3DEUwvlfKMd0jocAfE8JJ.html	-dollari_t3DEUwvlfKMd0jocAfE8JJ.html	PROPN	SP	_	10	nmod	_	_
+12	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

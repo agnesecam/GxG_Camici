@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ByeByeLodita @lodocomello potevi pensarci su, noi ti avremmo ascoltata...
+1	#ByeByeLodita	#ByeByeLodire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@lodocomello	@lodocomello	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	potevi	poteve	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4-5	pensarci	_	_	_	_	_	_	_	_
+4	pensar	pensare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	obj	_	_
+6	su	su	ADP	E	_	10	mark	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+10	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	4	advcl	_	_
+11	ascoltata...	ascoltata.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

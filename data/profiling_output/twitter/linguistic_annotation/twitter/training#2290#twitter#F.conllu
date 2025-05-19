@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non sono riuscito ad averti vicino ma questo non significa non averti dentro .
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	riuscito	riuscire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	ad	a	ADP	E	_	11	mark	_	_
+5-6	averti	_	_	_	_	_	_	_	_
+5	aver	avere	AUX	VA	VerbForm=Inf	11	aux	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+7	vicino	vicino	ADV	B	_	11	advmod	_	_
+8	ma	ma	CCONJ	CC	_	11	cc	_	_
+9	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+12	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+13-14	averti	_	_	_	_	_	_	_	_
+13	aver	avere	AUX	VA	VerbForm=Inf	15	aux	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	expl	_	_
+15	dentro	dentro	ADV	B	_	11	advmod	_	_
+16	.	.	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = Sai cosa sarò io per te?
+1	Sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	1	obj	_	_
+3	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	cop	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Sarò... http:// fb.me/5a7RPSTKj
+1	Sarò...	Sarò...	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/5a7RPSTKj	fb.me/5a7RPSTKj	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

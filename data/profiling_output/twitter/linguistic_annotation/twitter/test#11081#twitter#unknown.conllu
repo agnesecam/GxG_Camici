@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono in macchina che aspetto mia madre e vedo questa macchina Taylor dappertutto pic.twitter.com/3P7eFngulf
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	aspetto	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	madre	madre	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	Taylor	Taylor	PROPN	SP	_	11	nmod	_	_
+13	dappertutto	dappertutto	ADV	B	_	3	advmod	_	_
+14	pic.twitter.com/3P7eFngulf	pic.twitter.com/3P7eFngulf	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

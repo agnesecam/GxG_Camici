@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxZanone ma la nostra offerta non l'avrebbe mai accettata, anche se l' avessimo offerta a Dicembre.
+1	@MaxZanone	@MaxZanone	PROPN	SP	_	0	root	_	_
+2	ma	ma	CCONJ	CC	_	10	cc	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	offerta	offerta	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+8	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	mai	mai	ADV	B	_	10	advmod	_	_
+10	accettata	accettare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	anche	anche	ADV	B	_	15	mark	_	_
+13	se	se	SCONJ	CS	_	12	fixed	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+15	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	10	advcl	_	_
+16	offerta	offrire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	acl	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	Dicembre	dicembre	PROPN	SP	_	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = era troppo bassa e non competitiva.
+1	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	troppo	troppo	ADV	B	_	3	advmod	_	_
+3	bassa	basso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	competitiva	competitivo	ADJ	A	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

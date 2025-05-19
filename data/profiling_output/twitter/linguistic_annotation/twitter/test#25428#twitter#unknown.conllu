@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FabRavezzani direttore è una richiesta del PM... non una condanna!
+1	@FabRavezzani	@FabRavezzano	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	PM...	PM...	PROPN	SP	_	5	nmod	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	condanna	condanna	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Inoltre è il primo grado di giudizio non il terzo...
+1	Inoltre	inoltre	ADV	B	_	5	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	grado	grado	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	giudizio	giudizio	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	terzo...	terzo...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

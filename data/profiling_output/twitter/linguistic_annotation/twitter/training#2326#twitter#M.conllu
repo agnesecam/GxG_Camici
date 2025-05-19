@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @magrabeg Il tuo lo è #Cretina Esci dentro va bene per gete come te, non come me Era un presa per il culo #Cogliona
+1	@magrabeg	@magrabeg	SYM	X	_	0	root	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tuo	tuo	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	#Cretina	#Cretina	PROPN	SP	_	5	nsubj	_	_
+7	Esci	Ere	PROPN	SP	_	6	flat:name	_	_
+8	dentro	dentro	ADV	B	_	9	advmod	_	_
+9	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	bene	bene	ADV	B	_	9	advmod	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	gete	gete	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	21	punct	_	_
+16	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+17	come	come	ADP	E	_	18	case	_	_
+18	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	obl	_	_
+19	Era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	cop	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	presa	presa	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+22	per	per	ADP	E	_	24	case	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	culo	culo	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
+25	#Cogliona	#Cogliona	PROPN	SP	_	24	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LirioAbbate no, finché come capo bastone ci saranno padrini qualo Vespa..
+1	@LirioAbbate	@LirioAbbare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	finché	finché	SCONJ	CS	_	9	mark	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	capo	capo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+7	bastone	bastono	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	saranno	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	1	advcl	_	_
+10	padrini	padrino	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+11	qualo	qualo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Vespa.	Vespa.	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = considerato una punta di diamante dalle reti Rai.
+1	considerato	considerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	punta	punta	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	diamante	diamante	NOUN	S	Number=Sing	3	nmod	_	_
+6-7	dalle	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	reti	rete	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+9	Rai	Rai	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

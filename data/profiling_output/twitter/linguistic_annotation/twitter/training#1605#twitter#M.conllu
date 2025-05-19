@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mentre le nostre città sono invase da profughi/clandestini e molte frontiere dell'Europa sono state chiuse per... http:// fb.me/7fiT7nrgr
+1	Mentre	mentre	SCONJ	CS	_	6	mark	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	città	città	NOUN	S	Gender=Fem	6	nsubj	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	invase	invadere	ADJ	A	Gender=Fem|Number=Plur	24	advcl	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	profughi	profugo	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	clandestini	clandestino	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	molte	molto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
+13	frontiere	frontiera	NOUN	S	Gender=Fem|Number=Plur	8	conj	_	_
+14-15	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+14	di	di	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	Europa	Europa	PROPN	SP	_	13	nmod	_	_
+17	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+18	state	essere	AUX	VA	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	19	cop	_	_
+19	chiuse	chiuso	ADJ	A	Gender=Fem|Number=Plur	6	conj	_	_
+20	per...	per.	NOUN	S	_	19	conj	_	_
+21	http:	http:	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	fb.me/7fiT7nrgr	fb.me/7fiT7nrgr	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

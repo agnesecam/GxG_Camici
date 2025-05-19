@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @blackso10 @aeroplano1960 @FabrizioVertua @matteorenzi di quale nostre brutte figure parli, Vertua, mentre fai sciacallaggio?
+1	@blackso10	@blackso10	NUM	N	NumType=Card	4	nummod	_	_
+2	@aeroplano1960	@aeroplano1960	NUM	N	NumType=Card	3	nummod	_	_
+3	@FabrizioVertua	@fabriziovertua	PROPN	SP	_	4	nsubj	_	_
+4	@matteorenzi	@matteorenzi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	9	case	_	_
+6	quale	quale	DET	DQ	Number=Sing|PronType=Int	9	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+8	brutte	brutto	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+9	figure	figura	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+10-11	parli	_	_	_	_	_	_	_	SpaceAfter=No
+10	par	parre	VERB	V	VerbForm=Inf	9	acl	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	Vertua	vertua	PROPN	SP	_	10	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	mentre	mentre	SCONJ	CS	_	16	mark	_	_
+16	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	_
+17	sciacallaggio	sciacallaggio	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

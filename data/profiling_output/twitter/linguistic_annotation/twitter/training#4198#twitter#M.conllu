@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima di iniziare la sua nuova avventura con il #Chelsea , Conte dovrà sbrigare una fastidiosa pratica burocratica.
+1	Prima	prima	ADV	B	_	3	mark	_	_
+2	di	di	ADP	E	_	1	fixed	_	_
+3	iniziare	iniziare	VERB	V	VerbForm=Inf	14	advcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+6	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	avventura	avventura	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	#Chelsea	#Chelsea	PROPN	SP	_	7	nmod	_	_
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	Conte	conte	PROPN	SP	_	14	nsubj	_	_
+13	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14	sbrigare	sbrigare	VERB	V	VerbForm=Inf	0	root	_	_
+15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	fastidiosa	fastidioso	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+17	pratica	pratica	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+18	burocratica	burocratico	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = L'Europeo con l'Italia
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Europeo	europeo	PROPN	SP	_	0	root	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	Italia	Italia	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

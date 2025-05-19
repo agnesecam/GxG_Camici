@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Berneyes esatto.
+1	@Berneyes	@Berneyes	NOUN	S	Gender=Masc	0	root	_	_
+2	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mi duole dirlo perché mi ha dato parecchi "dolori" ma l'unico a dar loro un gioco è stato Ancelotti
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	23	iobj	_	_
+2	duole	duole	ADJ	A	Number=Sing	1	amod	_	_
+3-4	dirlo	_	_	_	_	_	_	_	_
+3	dir	dire	VERB	V	VerbForm=Inf	2	advcl	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	perché	perché	SCONJ	CS	_	8	mark	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+9	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	dolori	dolore	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	ma	ma	CCONJ	CC	_	15	cc	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	unico	unico	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	dar	dare	VERB	V	VerbForm=Inf	15	advcl	_	_
+18	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	17	iobj	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+21	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+22	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	cop	_	_
+23	Ancelotti	Ancelotti	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

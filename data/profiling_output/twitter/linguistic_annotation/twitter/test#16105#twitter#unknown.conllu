@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una canzone non si spreca con chiunque .
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	canzone	canzone	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	spreca	sprecare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	5	obl	_	_
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

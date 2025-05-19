@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La vostra firma farà la differenza!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	firma	firma	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ci aspettiamo.
+1	Ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+2	aspettiamo	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/4BJpiGnpV
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4BJpiGnpV	fb.me/4BJpiGnpV	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

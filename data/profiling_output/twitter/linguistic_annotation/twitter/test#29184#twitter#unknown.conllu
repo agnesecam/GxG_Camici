@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel frattempo che avrete fatto?
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Gli avrete distrutto la vita?
+1	Gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+2	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	distrutto	distruggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vita	vita	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = @daniele_manca @fabiosavelli
+1	@daniele_manca	@daniele_mancare	ADP	E	_	2	case	_	_
+2	@fabiosavelli	@fabiosavello	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

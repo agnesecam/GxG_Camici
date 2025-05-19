@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @piccologori @redaelena bravissimo!
+1	@piccologori	@piccologore	ADV	B	_	3	advmod	_	_
+2	@redaelena	@redaeleno	ADV	B	_	3	advmod	_	_
+3	bravissimo	bravo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Come al solito grandissima elasticità mentale e cultura #continuando a stupirmi
+1	Come	come	ADV	B	_	5	advmod	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	solito	solito	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+5	grandissima	grandissimo	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	0	root	_	_
+6	elasticità	elasticità	NOUN	S	Gender=Fem	5	nsubj	_	_
+7	mentale	mentale	ADJ	A	Number=Sing	6	amod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	cultura	cultura	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+10	#continuando	#continuare	VERB	V	VerbForm=Ger	6	acl	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12-13	stupirmi	_	_	_	_	_	_	_	SpacesAfter=\n
+12	stupir	stupire	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+

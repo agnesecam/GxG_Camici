@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ThManfredi @ricpuglisi @carloalberto @gianlucac1 a me sta cosa che vuole farmi spendere i risparmi inquieta assai
+1	@ThManfredi	@ThManfrede	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+2	@ricpuglisi	@ricpugliso	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	@carloalberto	@carloalbrire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+4	@gianlucac1	@gianlucac1	NUM	N	NumType=Card	3	nummod	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
+7	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+8	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	farmi	arma|farme	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	spendere	spendere	VERB	V	VerbForm=Inf	11	ccomp	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	risparmi	risparmio	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+15	inquieta	inquieto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	assai	assai	ADV	B	_	15	advmod	_	SpacesAfter=\n
+

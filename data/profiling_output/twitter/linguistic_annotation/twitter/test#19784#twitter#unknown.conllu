@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Un tempo vivevo la mia vita un quarto di miglio alla volta, ed è per questo che eravamo fratelli:
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	vivevo	vivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	xcomp	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	miglio	miglio	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	volta	volta	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	19	punct	_	_
+16	ed	e	CCONJ	CC	_	19	cc	_	_
+17	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	per	per	ADP	E	_	19	case	_	_
+19	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	conj	_	_
+20	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+21	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	22	cop	_	_
+22	fratelli	fratello	ADJ	A	Number=Plur	19	acl:relcl	_	SpaceAfter=No
+23	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = perchè lo facevi anche tu."
+1	perchè	perché	SCONJ	CS	_	3	mark	_	_
+2	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	tu.	tu.	NOUN	S	_	3	nsubj	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

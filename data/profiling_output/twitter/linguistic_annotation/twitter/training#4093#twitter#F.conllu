@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e dovrà renderne conto https:// twitter.com/BottaAdv/statu s/717404399476277248 …
+1	e	e	CCONJ	CC	_	3	cc	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3-4	renderne	_	_	_	_	_	_	_	_
+3	render	rendere	VERB	V	VerbForm=Inf	0	root	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+5	conto	conto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	https:	https:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	9	punct	_	_
+9	twitter.com/BottaAdv/statu	twitter.com/BottaAdv/statu	PROPN	SP	_	3	obj	_	_
+10	s/717404399476277248	s/717404399476277248	NUM	N	NumType=Card	9	nummod	_	_
+11	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = «.......e la volontà di restituirgli qualsiasi cosa Egli ti chieda».
+1	«	«	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	.......e	.......e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	volontà	volontà	NOUN	S	Gender=Fem	2	obj	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6-7	restituirgli	_	_	_	_	_	_	_	_
+6	restituir	restituire	VERB	V	VerbForm=Inf	4	acl	_	_
+7	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+8	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	9	det	_	_
+9	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+10	Egli	Egli	PROPN	SP	_	12	nsubj	_	_
+11	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	obj	_	_
+12	chieda	chiedere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	SpaceAfter=No
+13	»	»	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter= 
+
+# sent_id = 2
+# text = (Madre Teresa) https:// twitter.com/news_va_it/sta tus/706039319010607104 …
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Madre	Madre	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	Teresa	Teresa	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	2	punct	_	_
+5	https:	https:	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	_
+8	twitter.com/news_va_it/sta	twitter.com/news_va_it/stare	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+9	tus/706039319010607104	tus/706039319010607104	NUM	N	NumType=Card	8	nummod	_	_
+10	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA POTEVATE FAR RICANTARE CRISTIANO INVECE CHE CHIARA, SAREMMO STATI TUTTI PIÙ CONTENTI #Amici15
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	POTEVATE	POTEVATE	PROPN	SP	_	1	flat:name	_	_
+3	FAR	far	PROPN	SP	_	1	flat:name	_	_
+4	RICANTARE	RICANTARE	PROPN	SP	_	1	flat:name	_	_
+5	CRISTIANO	cristiano	PROPN	SP	_	4	flat:name	_	_
+6	INVECE	invece	PROPN	SP	_	4	flat:name	_	_
+7	CHE	Che	PROPN	SP	_	4	flat:name	_	_
+8	CHIARA	Chiara	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	SAREMMO	essere	PROPN	SP	_	4	appos	_	_
+11	STATI	essere	PROPN	SP	_	10	flat:name	_	_
+12	TUTTI	tutto	PROPN	SP	_	10	flat:name	_	_
+13	PIÙ	più	PROPN	SP	_	10	flat:name	_	_
+14	CONTENTI	contento	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	_
+15	#Amici15	#Amici15	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

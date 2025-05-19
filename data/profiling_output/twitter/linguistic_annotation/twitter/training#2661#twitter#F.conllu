@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Qletto mh no, questo già potrebbe sembrare che vada bene davvero...
+1	@Qletto	@Qletto	ADP	E	_	2	case	_	_
+2	mh	mh	X	SW	Foreign=Yes	0	root	_	_
+3	no	no	X	SW	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	_
+6	già	già	ADV	B	_	8	advmod	_	_
+7	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	2	conj	_	_
+9	che	che	SCONJ	CS	_	10	mark	_	_
+10	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+11	bene	bene	ADV	B	_	10	advmod	_	_
+12	davvero..	davvero	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

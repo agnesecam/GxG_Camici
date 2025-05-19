@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #dedicato nn dovrà succedere mai.....prometti Alessandra Amoroso - Non devi perdermi https:// youtu.be/xE6eY1JycqU?li st=RD3VHr7tT5eqY … via @YouTube
+1	#dedicato	#dedicato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+2	nn	nn	ADV	B	_	1	advmod	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	succedere	succedere	VERB	V	VerbForm=Inf	0	root	_	_
+5	mai.....prometti	mai.....prometto	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+6	Alessandra	Alessandra	PROPN	SP	_	5	nmod	_	_
+7	Amoroso	Amoroso	PROPN	SP	_	6	flat:name	_	_
+8	-	-	PUNCT	FF	_	11	punct	_	_
+9	Non	Non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11-12	perdermi	_	_	_	_	_	_	_	_
+11	perder	perdere	VERB	V	VerbForm=Inf	4	conj	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+13	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	_
+16	youtu.be/xE6eY1JycqU?li	youtu.be/xE6eY1JycqU?li	PROPN	SP	_	11	obj	_	_
+17	st=RD3VHr7tT5eqY	st=rd3vhr7tt5eqy	PROPN	SP	_	16	flat:name	_	_
+18	…	…	PUNCT	FF	_	16	punct	_	_
+19	via	via	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+20	@YouTube	@YouTube	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @hele_fr Impressionante, oggi ho guidato parecchie ore per il centro.
+1	@hele_fr	@hele_fr	ADP	E	_	2	case	_	_
+2	Impressionante	impressionante	PROPN	SP	_	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	oggi	oggi	ADV	B	_	6	advmod	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	guidato	guidare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	ore	ora	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	centro	centro	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Per non parlare del Lungotevere ancora chiuso x il crollo del palazzo
+1	Per	per	ADP	E	_	3	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	parlare	parlare	VERB	V	VerbForm=Inf	11	advcl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Lungotevere	Lungotevere	PROPN	SP	_	3	obl	_	_
+7	ancora	ancora	ADV	B	_	8	advmod	_	_
+8	chiuso	chiuso	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+9	x	x	SYM	SYM	_	6	nmod	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	crollo	crollo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	palazzo	palazzo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpacesAfter=\n
+

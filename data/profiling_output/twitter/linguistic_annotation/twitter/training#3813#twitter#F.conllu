@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = forme di vita, diverso da noi.
+1	forme	forma	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	vita	vita	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	diverso	diverso	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = il mio lungo libro non impone di credere per forza cio che ho vissuto sulla pelle.
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+3	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	libro	libro	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	impone	imporre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	credere	credere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	forza	forza	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+11	cio	cio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+13	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	vissuto	vivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+15-16	sulla	_	_	_	_	_	_	_	_
+15	su	su	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

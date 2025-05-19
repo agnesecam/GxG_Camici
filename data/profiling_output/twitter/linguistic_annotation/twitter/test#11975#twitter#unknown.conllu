@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I soldi persi dai Millennials I genitori:
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	persi	pergere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4-5	dai	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	Millennials	Millennials	PROPN	SP	_	8	obl	_	SpacesAfter= 
+7	I	I	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = noi stavamo bene I figli: noi precari a vita http:// twib.in/l/aqG8nzqEj96 | https:// twibble.io
+1	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	SpacesAfter= \s
+4	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	2	punct	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	obl	_	_
+8	precari	precario	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	8	punct	_	_
+14	twib.in/l/aqG8nzqEj96	twib.in/l/aqG8nzqEj96	PROPN	SP	_	8	conj	_	_
+15	|	|	SYM	SYM	_	14	flat:name	_	_
+16	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	14	punct	_	_
+19	twibble.io	twibble.io	NOUN	S	Gender=Masc|Number=Sing	2	xcomp	_	SpacesAfter=\n
+

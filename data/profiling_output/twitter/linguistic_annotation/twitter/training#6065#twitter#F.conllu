@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Marchionne:
+1	Marchionne	Marchionne	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Se fossi in Italia voterei Renzi".
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	fossi	essere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Italia	Italia	PROPN	SP	_	3	obl	_	_
+6	voterei	votare	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	Renzi	Renzi	PROPN	SP	_	0	root	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = Anche noi se fossimo residenti in Svizzera ........................
+1	Anche	anche	ADV	B	_	2	advmod	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	residenti	residente	ADJ	A	Number=Plur	2	advcl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	Svizzera	Svizzera	PROPN	SP	_	5	obl	_	_
+8	........................	........................	PUNCT	FF	_	5	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/FicarraePicone /status/715579039461847040 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/FicarraePicone	twitter.com/FicarraePicone	PROPN	SP	_	0	root	_	_
+5	/status/715579039461847040	/status/715579039461847040	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

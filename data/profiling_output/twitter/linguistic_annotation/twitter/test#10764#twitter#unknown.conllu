@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Psss_Psss @dario_head @domeniconaso @marcosalvati Il livello è quello.
+1	@Psss_Psss	@Psss_Psss	NOUN	S	Gender=Masc	8	nsubj	_	_
+2	@dario_head	@dario_head	ADP	E	_	3	case	_	_
+3	@domeniconaso	@domeniconaso	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	@marcosalvati	@marcosalvare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+5	Il	Il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	livello	livello	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Assai sagace.
+1	Assai	assai	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sagace	sagace	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

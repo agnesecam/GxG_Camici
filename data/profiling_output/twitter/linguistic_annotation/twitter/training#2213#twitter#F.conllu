@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci sono le persone che ti passano accanto, le persone che ti scivolano addosso e poi ci sono quelle che ti restano dentro ... (G. Donadei)
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	persone	persona	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+7	passano	passare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	accanto	accanto	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	persone	persona	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	14	iobj	_	_
+14	scivolano	scivolare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+15	addosso	addosso	ADV	B	_	14	advmod	_	_
+16	e	e	CCONJ	CC	_	19	cc	_	_
+17	poi	poi	ADV	B	_	19	advmod	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	_
+19	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	19	nsubj	_	_
+21	che	che	PRON	PR	PronType=Rel	23	nsubj	_	_
+22	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	23	iobj	_	_
+23	restano	restare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+24	dentro	dentro	ADV	B	_	23	advmod	_	_
+25	...	...	PUNCT	FF	_	2	punct	_	_
+26	(	(	PUNCT	FB	_	27	punct	_	SpaceAfter=No
+27	G.	G.	PROPN	SP	_	2	appos	_	_
+28	Donadei	Donadei	PROPN	SP	_	27	flat:name	_	SpaceAfter=No
+29	)	)	PUNCT	FB	_	27	punct	_	SpacesAfter=\n
+

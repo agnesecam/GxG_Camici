@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Libia : il premier di #Tripoli #Ghwell : " nessuna cessione di potere a #Sarraj " http://www.
+1	#Libia	#Libia	PROPN	SP	_	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	premier	premier	NOUN	S	_	11	nmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	#Tripoli	#Tripoli	PROPN	SP	_	4	nmod	_	_
+7	#Ghwell	#Ghwell	PROPN	SP	_	6	flat:name	_	_
+8	:	:	PUNCT	FC	_	4	punct	_	_
+9	"	"	PUNCT	FB	_	11	punct	_	_
+10	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+11	cessione	cessione	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	potere	potere	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	#Sarraj	#Sarraj	PROPN	SP	_	11	nmod	_	_
+16	"	"	PUNCT	FB	_	11	punct	_	_
+17	http://www	http://www	NOUN	S	_	11	compound	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = rainews.it/dl/rainews/art icoli/Libia-il-premier-di-Tripoli-Ghwell-nessuna-cessione-potere-a-Sarraj-Si-spengono-le-speranze-per-un-governo-di-unita-nazionale-d9113907-abd5-4b85-acde-a4756b22fc46.html …
+1	rainews.it/dl/rainews/art	rainews.it/dl/rainews/art	NOUN	S	Gender=Masc	0	root	_	_
+2	icoli	icolo	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+3	/Libia-il-	_	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	premier-di-Tripoli-Ghwell-nessuna-cessione-potere-a-Sarraj-Si-spengono-le-speranze-per-un-governo-di-unita-nazionale-d9113907-abd5-4b85-acde-a4756b22fc46.html	premier-di-Tripoli-Ghwell-nessuna-cessione-potere-a-Sarraj-Si-spengono-le-speranze-per-un-governo-di-unita-nazionale-d9113907-abd5-4b85-acde-a4756b22fc46.html	PROPN	SP	_	3	flat:name	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

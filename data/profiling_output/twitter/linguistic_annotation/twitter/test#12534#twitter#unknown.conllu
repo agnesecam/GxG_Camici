@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mariannamadia al #QuestionTime : usano tutti lo stesso sistema, nessuna risposta nel merito.
+1	@mariannamadia	@mariannamadiare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	#QuestionTime	#QuestionTime	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	:	:	PUNCT	FC	_	1	punct	_	_
+6	usano	usare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	13	det	_	_
+13	risposta	risposta	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14-15	nel	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	merito	merito	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se aveste giocato così quelle partite babbe (Sassuolo carpi ecc) perse gratuitamente.non saremmo così mal messi.
+1	se	se	SCONJ	CS	_	2	mark	_	_
+2	aveste	avedere	VERB	V	Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+3	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
+4	così	così	ADV	B	_	3	advmod	_	_
+5	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	partite	partito	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	babbe	ba	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	Sassuolo	Sassuolo	PROPN	SP	_	7	appos	_	_
+10	carpi	carpo	ADJ	A	Number=Plur	9	amod	_	_
+11	ecc	eccetera	X	X	_	9	nmod	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	9	punct	_	_
+13	perse	perdere	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	_
+14	gratuitamente.non	gratuitamente.non	NOUN	S	_	18	obj	_	_
+15	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+16	così	così	ADV	B	_	18	advmod	_	_
+17	mal	male	ADV	B	_	18	advmod	_	_
+18	messi	messo	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = @Inter @Inter_Channel
+1	@Inter	@Inter	PROPN	SP	_	0	root	_	_
+2	@Inter_Channel	@Inter_Channel	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MinutemanItaly il "da noi son stati aboliti" è già diventato un "a Milano ce ne sono pochi".
+1	@MinutemanItaly	@MinutemanItaly	CCONJ	CC	_	8	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+3	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+4	da	da	ADP	E	_	5	case	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	obl	_	_
+6	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	aux:pass	_	_
+8	aboliti	abolire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	12	punct	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	già	già	ADV	B	_	12	advmod	_	_
+12	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	xcomp	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+14	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+15	a	a	ADP	E	_	16	case	_	_
+16	Milano	Milano	PROPN	SP	_	20	obl	_	_
+17	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	20	expl	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	20	iobj	_	_
+19	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	pochi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	12	xcomp	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	20	punct	_	_
+
+# sent_id = 2
+# text = Peraltro per una fotina pro-Orban ne basta uno
+1	Peraltro	peraltro	ADV	B	_	9	advmod	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fotina	fotina	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+5	pro	pro	NOUN	S	_	4	nmod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	Orban	Orban	PROPN	SP	_	5	nmod	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+9	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	advmod	_	SpacesAfter=\n
+

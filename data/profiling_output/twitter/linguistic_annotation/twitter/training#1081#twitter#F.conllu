@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scossa di terremoto 3.9 Richter a 15 km dalla centrale nucleare http:// fb.me/4uraNd5Ay
+1	Scossa	scossa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	terremoto	terremoto	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	3.9	3.9	NUM	N	NumType=Card	3	nummod	_	_
+5	Richter	Richter	PROPN	SP	_	3	nmod	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	15	15	NUM	N	NumType=Card	8	nummod	_	_
+8	km	chilometro	NOUN	S	Gender=Masc	1	nmod	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	centrale	centrale	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	nucleare	nucleare	ADJ	A	Number=Sing	11	amod	_	_
+13	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	_
+16	fb.me/4uraNd5Ay	fb.me/4uraNd5Ay	PROPN	SP	_	1	conj	_	SpacesAfter=\n
+

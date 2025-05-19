@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Erix_Genovese Ti confermo che è una dichiarazione talmente assurda e insensata da sembrare una battuta di @spinozait !
+1	@Erix_Genovese	@Erix_Genovese	PROPN	SP	_	0	root	_	_
+2	Ti	Ti	PROPN	SP	_	1	flat:name	_	_
+3	confermo	confermo	NOUN	S	Gender=Masc|Number=Sing	1	flat:name	_	_
+4	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	dichiarazione	dichiarazione	NOUN	S	Gender=Fem|Number=Sing	1	acl:relcl	_	_
+8	talmente	talmente	ADV	B	_	9	advmod	_	_
+9	assurda	assurdo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	insensata	insensare	ADJ	A	Gender=Fem|Number=Sing	9	conj	_	_
+12	da	da	ADP	E	_	13	mark	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	7	acl	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	battuta	battuta	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	@spinozait	@spinozait	NOUN	S	Gender=Masc	15	nmod	_	_
+18	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

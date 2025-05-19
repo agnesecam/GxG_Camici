@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #gerundiDiversi A volte ci si sente così, come avessimo perso la testa.
+1	#gerundiDiversi	#gerundiDiverso	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
+2	A	a	ADP	E	_	3	case	_	_
+3	volte	volta	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	così	così	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	come	come	SCONJ	CS	_	11	mark	_	_
+10	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	testa	testa	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Che si fa noi?
+1	Che	che	SCONJ	CS	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ci si va #risollevando ! pic.twitter.com/t2P1Xfg6ES
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	#risollevando	#risollevare	VERB	V	VerbForm=Ger	3	advcl	_	_
+5	!	!	PUNCT	FS	_	4	punct	_	_
+6	pic.twitter.com/t2P1Xfg6ES	pic.twitter.com/t2P1Xfg6ES	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

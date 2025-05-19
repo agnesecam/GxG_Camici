@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giuseppe Barrale .....questo da dove spunta???
+1	Giuseppe	Giuseppe	PROPN	SP	_	3	nsubj	_	_
+2	Barrale	Barrale	PROPN	SP	_	1	flat:name	_	_
+3	.....questo	.....quedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	dove	dove	ADV	B	_	6	advmod	_	_
+6	spunta	spungere	ADJ	A	Gender=Fem|Number=Sing	3	xcomp	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ci farà fare il salto di qualità.....
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	salto	salto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	qualità	qualità	NOUN	S	Gender=Fem	5	nmod	_	SpaceAfter=No
+8	....	....	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Dalla A direttamente alla C....
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	A	A	PROPN	SP	_	0	root	_	_
+4	direttamente	direttamente	ADV	B	_	7	advmod	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	C....	C....	PROPN	SP	_	3	nmod	_	_
+
+# sent_id = 4
+# text = http:// fb.me/XmlaR0DL
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/XmlaR0DL	fb.me/XmlaR0DL	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

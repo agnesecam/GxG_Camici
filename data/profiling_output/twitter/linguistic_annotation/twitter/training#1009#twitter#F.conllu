@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Sempre e per sempre dalla stessa parte mi troverai" @MattiaBriga
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Sempre	sempre	ADV	B	_	11	advmod	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	sempre	sempre	ADV	B	_	2	advmod	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+11	troverai	troveere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	@MattiaBriga	@MattiaBriga	PROPN	SP	_	11	flat:name	_	SpacesAfter=\n
+

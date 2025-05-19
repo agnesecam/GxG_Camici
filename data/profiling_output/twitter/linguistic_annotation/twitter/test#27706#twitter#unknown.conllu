@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I problemi hanno sempre una soluzione!Anche i tuoi problemi avevano una soluzione eppure tu hai scelto l'unica cosa senz soluzione:la morte
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sempre	sempre	ADV	B	_	3	advmod	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+7	!Anche	!Anche	ADV	BN	PronType=Neg	11	advmod	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+11	avevano	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	eppure	eppure	CCONJ	CC	_	17	cc	_	_
+15	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+16	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+19	unica	unico	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+20	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+21	senz	senz	NOUN	S	Gender=Masc	20	nmod	_	_
+22	soluzione:la	soluzione:la	DET	RD	Gender=Fem|Number=Sing	23	det	_	_
+23	morte	morto	NOUN	S	Gender=Fem|Number=Sing	21	nmod	_	SpacesAfter=\n
+

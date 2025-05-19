@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes insomma non benissimo in questo periodo sono molto triste,noto che sia tutto uguale e monotono ogni tanto mi sento sola
+1	@Albericoyes	@Albericoyes	ADP	E	_	4	case	_	_
+2	insomma	insomma	ADV	B	_	4	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	benissimo	bene	ADV	B	Degree=Abs	10	advmod	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	molto	molto	ADV	B	_	10	advmod	_	_
+10	triste,noto	triste,noto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	che	che	SCONJ	CS	_	14	mark	_	_
+12	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	obl	_	_
+14	uguale	uguale	ADJ	A	Number=Sing	10	advcl	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	monotono	monotere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+17	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	18	det	_	_
+18	tanto	tanto	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+19	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	expl	_	_
+20	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+21	sola	solo	ADJ	A	Gender=Fem|Number=Sing	20	xcomp	_	SpacesAfter=\n
+

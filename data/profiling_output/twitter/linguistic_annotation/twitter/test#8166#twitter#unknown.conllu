@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , domani @topgear_italia , poi partenza x Argentina con @SkySportMotoGP , mentre @Gas_113 va in Bahrein con @SkySportF1HD Intenso!!!
+1	Dunque	dunque	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	domani	domani	ADV	B	_	4	advmod	_	_
+4	@topgear_italia	@topgear_italia	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	poi	poi	ADV	B	_	7	advmod	_	_
+7	partenza	partenza	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+8	x	x	SYM	SYM	_	7	nmod	_	_
+9	Argentina	Argentina	PROPN	SP	_	8	flat:name	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	@SkySportMotoGP	@SkySportMotoGP	PROPN	SP	_	7	nmod	_	_
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13	mentre	mentre	SCONJ	CS	_	15	mark	_	_
+14	@Gas_113	@Gas_113	PROPN	SP	_	15	nsubj	_	_
+15	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	Bahrein	Bahrein	PROPN	SP	_	15	obl	_	_
+18	con	con	ADP	E	_	19	case	_	_
+19	@SkySportF1HD	@SkySportF1HD	PROPN	SP	_	17	nmod	_	_
+20	Intenso	intenso	PROPN	SP	_	19	flat:name	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+22	!!	!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

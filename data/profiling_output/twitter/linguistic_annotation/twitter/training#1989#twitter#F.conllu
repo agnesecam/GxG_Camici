@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trivellazioni cosa c'è dietro quelle condizioni fiscali troppofavorevoli concesse ai petrolieri dallo Stato italiano http://www.
+1	Trivellazioni	Trivellazione	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dietro	dietro	ADV	B	_	4	advmod	_	_
+6	quelle	quelle	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	condizioni	condizione	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+8	fiscali	fiscale	ADJ	A	Number=Plur	7	amod	_	_
+9	troppofavorevoli	troppofavorevole	ADJ	A	Number=Plur	7	amod	_	_
+10	concesse	concedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	petrolieri	petroliero	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+14-15	dallo	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+17	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+18	http://www	http://www	NOUN	S	_	16	compound	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = ilfattoquotidiano.it/2016/01/19/tri vellazioni-cosa-ce-dietro-quelle-condizioni-fiscali-troppo-favorevoli-concesse-ai-petrolieri-dallo-stato-italiano/2388100/ …
+1	ilfattoquotidiano.it/2016/01/19/tri	ilfattoquotidiano.it/2016/01/19/tro	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	vellazioni	vellazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	-cosa-ce	-cosa-ce	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	dietro	dietro	ADV	B	_	7	advmod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	3	obl	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	condizioni	condizione	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	fiscali	fiscale	NOUN	S	Gender=Masc|Number=Plur	9	compound	_	SpaceAfter=No
+12	-troppo	-troppo	ADJ	A	_	15	amod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	favorevoli	favorevole	ADJ	A	Number=Plur	15	amod	_	SpaceAfter=No
+15	-concesse-ai-petrolieri	-concesse-ai-petroliere	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+16	-dallo	-dallo	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	stato	essere	NOUN	S	Gender=Masc|Number=Sing	16	compound	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+20	italiano/2388100	italiano/2388100	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	_
+22	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

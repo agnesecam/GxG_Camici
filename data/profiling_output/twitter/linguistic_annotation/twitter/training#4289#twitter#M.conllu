@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FicarraePicone @Luigiantonio80 Ma tanto, dovrà crepare anche lui prima o poi
+1	@FicarraePicone	@FicarraePicone	PROPN	SP	_	7	nsubj	_	_
+2	@Luigiantonio80	@Luigiantonio80	PROPN	SP	_	1	flat:name	_	_
+3	Ma	ma	CCONJ	CC	_	7	cc	_	_
+4	tanto	tanto	ADV	B	_	7	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	crepare	creparire	VERB	V	VerbForm=Inf	0	root	_	_
+8	anche	anche	ADV	B	_	9	advmod	_	_
+9	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+10	prima	prima	ADV	B	_	9	conj	_	_
+11	o	o	CCONJ	CC	_	10	fixed	_	_
+12	poi	poi	ADV	B	_	7	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonioOpallo61 Dottò se avessimo saputo ci prendevamo un caffè assieme!
+1	@AntonioOpallo61	@AntonioOpallo61	PROPN	SP	_	2	nsubj	_	_
+2	Dottò	Dottò	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+7	prendevamo	prendere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	conj	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	caffè	caffè	NOUN	S	Gender=Masc	7	obj	_	_
+10	assieme	assieme	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Forza Napoli sempre!
+1	Forza	Forza	PROPN	SP	_	0	root	_	_
+2	Napoli	Napoli	PROPN	SP	_	1	flat:name	_	_
+3	sempre	sempre	ADV	B	_	1	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

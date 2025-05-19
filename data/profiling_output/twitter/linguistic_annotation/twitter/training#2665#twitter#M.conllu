@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ma_lunatica non vorrei sembrare di parte, ma io voglio più una cookie-cup *-*
+1	@ma_lunatica	@ma_lunatico	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	parte	parte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	ma	ma	CCONJ	CC	_	10	cc	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	più	più	ADV	B	_	10	advmod	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	cookie-cup	cookie-cup	NOUN	S	Gender=Fem	10	obj	_	_
+14	*	*	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+16	*	*	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

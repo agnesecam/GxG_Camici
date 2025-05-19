@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sesto anno consecutivo per il progetto di charity "Acqua for Life" di Giorgio Armani http:// fb.me/2vpNl64Gt
+1	Sesto	sesto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	anno	anno	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+3	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	charity	charity	NOUN	S	Gender=Masc	6	nmod	_	_
+9	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	Acqua	acqua	PROPN	SP	_	6	nmod	_	_
+11	for	for	ADP	E	_	12	case	_	_
+12	Life	life	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	10	punct	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Giorgio	Giorgio	PROPN	SP	_	6	nmod	_	_
+16	Armani	Armani	PROPN	SP	_	15	flat:name	_	_
+17	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	15	punct	_	_
+20	fb.me/2vpNl64Gt	fb.me/2vpNl64Gt	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

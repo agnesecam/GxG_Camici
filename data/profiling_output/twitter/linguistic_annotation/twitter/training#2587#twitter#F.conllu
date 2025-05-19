@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dite quello che volete, ma l'Illuminato fa sembrare Colelli un premio Nobel.
+1	Dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	obj	_	_
+4	volete	volere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	ma	ma	CCONJ	CC	_	9	cc	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	Illuminato	illuminato	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	Colelli	Colelli	PROPN	SP	_	10	flat:name	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	premio	premio	NOUN	S	Gender=Masc|Number=Sing	10	xcomp	_	_
+14	Nobel	Nobel	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #CiaoDarwin
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	CiaoDarwin	CiaoDarwin	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

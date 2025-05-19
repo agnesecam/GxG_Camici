@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SUL RAZZISMO STRUTTURALE DELLA CLASSE DIRIGENTE (e di parte della popolazione) NON INFLUISCE NEPPURE IL FATTO CHE... http:// fb.me/2vytRoaXG
+1-2	SUL	_	_	_	_	_	_	_	_
+1	SU	su	ADP	E	_	2	case	_	_
+2	IL	il	PROPN	SP	_	0	root	_	_
+3	RAZZISMO	RAZZISMO	PROPN	SP	_	2	flat:name	_	_
+4	STRUTTURALE	strutturale	PROPN	SP	_	2	flat:name	_	_
+5-6	DELLA	_	_	_	_	_	_	_	_
+5	DI	di	ADP	E	_	6	case	_	_
+6	LA	il	PROPN	SP	_	2	nmod	_	_
+7	CLASSE	classe	PROPN	SP	_	6	flat:name	_	_
+8	DIRIGENTE	dirigente	PROPN	SP	_	6	flat:name	_	_
+9	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	parte	parte	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+13-14	della	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	popolazione	popolazione	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	12	punct	_	_
+17	NON	non	PROPN	SP	_	6	nmod	_	_
+18	INFLUISCE	INFLUISCE	PROPN	SP	_	17	flat:name	_	_
+19	NEPPURE	neppure	PROPN	SP	_	17	flat:name	_	_
+20	IL	il	PROPN	SP	_	19	flat:name	_	_
+21	FATTO	fatto	PROPN	SP	_	19	flat:name	_	_
+22	CHE...	CHE...	PROPN	SP	_	19	flat:name	_	_
+23	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	19	punct	_	_
+26	fb.me/2vytRoaXG	fb.me/2vytRoaXg	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

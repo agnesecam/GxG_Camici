@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buonasera a tutti come va?!
+1	Buonasera	Buonasera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	obl	_	_
+4	come	come	SCONJ	CS	_	5	mark	_	_
+5	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Con questo tempo che cambia un po di mal di gola :( Stasera che farete ?!
+1	Con	con	ADP	E	_	3	case	_	_
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	po	po	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	mal	male	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	gola	gola	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+13	(	(	PUNCT	FB	_	14	punct	_	_
+14	Stasera	stasera	PROPN	SP	_	0	root	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+17	?	?	PUNCT	FS	_	16	punct	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 3
+# text = Io cena... http:// fb.me/4bjD6UwRG
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	cena...	cena.	PUNCT	FF	_	1	punct	_	_
+3	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	fb.me/4bjD6UwRG	fb.me/4bjD6UwRg	PROPN	SP	_	1	appos	_	SpacesAfter=\n
+

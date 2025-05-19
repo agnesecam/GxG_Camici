@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tweetpolitica @ForzaSilvioTW @sole24ore e così si perdono le elezioni!
+1	@tweetpolitica	@tweetpolitico	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	@ForzaSilvioTW	@ForzaSilvioTW	PROPN	SP	_	0	root	_	_
+3	@sole24ore	@sole24ore	NOUN	S	_	2	nmod	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	così	così	ADV	B	_	7	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:pass	_	_
+7	perdono	perdere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !poi non ci lamentiamo se avremo un sindaco 5stelle!!
+1	!poi	!poi	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	lamentiamo	lamentare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	advcl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	5stelle	5stella	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

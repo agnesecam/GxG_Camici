@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spesso mi trovo a scorrere immagini, illustrazioni, disegni.
+1	Spesso	spesso	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	trovo	trovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	scorrere	scorrere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	immagini	immagine	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	illustrazioni	illustrazione	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	disegni	disegno	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Sono la mia passione da sempre.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	passione	passione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	sempre	sempre	ADV	B	_	4	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Raramente in esse ... http:// fb.me/4HPwmsUo1
+1	Raramente	raramente	ADV	B	_	3	advmod	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	esse	esso	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
+4	...	...	PUNCT	FF	_	5	punct	_	_
+5	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	3	punct	_	_
+8	fb.me/4HPwmsUo1	fb.me/4HPwmsUo1	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

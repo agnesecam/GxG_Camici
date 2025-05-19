@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #CarpiSassuolo gliela diamo la spinta nella fossa?
+1	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	CarpiSassuolo	CarpiSassuolo	PROPN	SP	_	5	nsubj	_	_
+3-4	gliela	_	_	_	_	_	_	_	_
+3	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	diamo	dare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	spinta	spinta	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	fossa	fossa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = @gibbe_gibbe no, comunque vincono loro
+1	@gibbe_gibbe	@gibbe_gi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	comunque	comunque	ADV	B	_	3	advmod	_	_
+5	vincono	vincere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	SpacesAfter=\n
+

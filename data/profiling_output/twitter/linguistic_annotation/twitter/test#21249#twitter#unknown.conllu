@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Maron una vita in stazione soffre gli acciacchi delle intemperie ... Gliela troviamo una #casa ?
+1	Maron	Maron	ADP	E	_	3	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vita	vita	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	stazione	stazione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+6	soffre	soffrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	acciacchi	acciacco	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	intemperie	intemperia	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+12	...	...	PUNCT	FF	_	8	punct	_	_
+13-14	Gliela	_	_	_	_	_	_	_	_
+13	Glie	gli	PROPN	SP	_	8	nmod	_	_
+14	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	#casa	#casa	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+18	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #cane #pozzuoli pic.twitter.com/5O0ekIBSAF
+1	#cane	#cane	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#pozzuoli	#pozzuole	ADJ	A	Number=Plur	1	amod	_	_
+3	pic.twitter.com/5O0ekIBSAF	pic.twitter.com/5O0ekIBSAF	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

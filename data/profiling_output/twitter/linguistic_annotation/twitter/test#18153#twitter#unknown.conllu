@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DManusia è che altrove su cruyff ne ho lette parecchie , sui vari instant-coccodrilli @antoniocontent
+1	@DManusia	@DManusia	CCONJ	CC	_	2	cc	_	_
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4	altrove	altrove	ADV	B	_	9	advmod	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	cruyff	cruyff	NOUN	S	Gender=Masc	9	obl	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	lette	letta	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	ccomp	_	_
+10	parecchie	parecchio	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+11	,	,	PUNCT	FF	_	2	punct	_	_
+12-13	sui	_	_	_	_	_	_	_	_
+12	su	su	ADP	E	_	17	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+14	vari	vario	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	_
+15	instant-	_	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+16	coccodrilli	coccodrille	ADJ	A	Number=Plur	17	amod	_	_
+17	@antoniocontent	@antoniocontent	NOUN	S	_	2	obl	_	SpacesAfter=\n
+

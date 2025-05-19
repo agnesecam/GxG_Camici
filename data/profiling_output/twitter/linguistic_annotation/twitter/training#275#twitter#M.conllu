@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se avessimo MLD € disposizione sarei contrario a reddito cittadinanza lo stesso.Dobbiamo renderci utili al prossimo col lavoro #ottoemezzo
+1	se	se	SCONJ	CS	_	5	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+3	MLD	mld	PROPN	SP	_	5	nsubj	_	_
+4	€	€	SYM	SYM	_	3	flat:name	_	_
+5	disposizione	disposizione	NOUN	S	Gender=Fem|Number=Sing	7	advcl	_	_
+6	sarei	essere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	contrario	contrario	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	reddito	reddito	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	cittadinanza	cittadinanza	NOUN	S	Gender=Fem|Number=Sing	9	compound	_	_
+11	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	stesso.Dobbiamo	stesso.dobbiamo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+13-14	renderci	_	_	_	_	_	_	_	_
+13	render	rendere	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
+15	utili	utile	ADJ	A	Number=Plur	13	xcomp	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	15	obl	_	_
+19-20	col	_	_	_	_	_	_	_	_
+19	con	con	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+22	#ottoemezzo	#ottoemezzo	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	SpacesAfter=\n
+

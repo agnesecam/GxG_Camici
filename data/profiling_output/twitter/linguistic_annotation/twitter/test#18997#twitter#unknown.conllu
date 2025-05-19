@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando non si ha da rendere conto a nessuno ciascuno di noi si toglie delle soddisfazioni assurde
+1	Quando	quando	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+5	da	da	ADP	E	_	6	mark	_	_
+6	rendere	rendere	VERB	V	VerbForm=Inf	14	advcl	_	_
+7	conto	conto	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obl	_	_
+10	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nmod	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	toglie	togliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15-16	delle	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	soddisfazioni	soddisfazione	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	_
+18	assurde	assurdere	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	SpacesAfter=\n
+

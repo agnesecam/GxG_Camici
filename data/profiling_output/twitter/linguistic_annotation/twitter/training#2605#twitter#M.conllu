@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @recordisco il testo chiarisce moltissimo quale taglio dare alla questione.
+1	@recordisco	@recordire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	testo	testo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	chiarisce	chiarire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	moltissimo	molto	ADV	B	Degree=Abs	4	advmod	_	_
+6	quale	quale	DET	DQ	Number=Sing|PronType=Int	7	det	_	_
+7	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+8	dare	dare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+9-10	alla	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	questione	questione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Poi, rispetto ogni opinione (anche se poteva non sembrare ...)
+1	Poi	poi	ADV	B	_	11	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	rispetto	rispetto	ADP	E	_	5	case	_	_
+4	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	opinione	opinione	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+6	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+7	anche	anche	ADV	B	_	11	advmod	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+12	...	...	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	11	punct	_	SpacesAfter=\n
+

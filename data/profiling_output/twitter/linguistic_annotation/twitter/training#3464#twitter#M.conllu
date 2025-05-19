@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Eccola...In Exclusive!!!
+1	Eccola...In	Eccola...ino	ADP	E	_	2	case	_	_
+2	Exclusive	Exclusive	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!!	!!	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 2
+# text = "ALEX DI LECCE & GIUSEPPE RUGGIERI WEST ROAD" La Future House che ti fara ' Saltare By... http:// fb.me/4s1GDJc54
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	ALEX	ALEX	ADJ	NO	Number=Sing|NumType=Ord	23	amod	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	LECCE	Lecce	PROPN	SP	_	2	obl	_	_
+5	&	&	SYM	SYM	_	4	flat:name	_	_
+6	GIUSEPPE	Giuseppe	PROPN	SP	_	4	flat:name	_	_
+7	RUGGIERI	RUGGIERI	PROPN	SP	_	4	nmod	_	_
+8	WEST	West	PROPN	SP	_	7	flat:name	_	_
+9	ROAD	road	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	12	punct	_	_
+11	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Future	future	PROPN	SP	_	4	flat:name	_	_
+13	House	houso	PROPN	SP	_	12	flat:name	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	obj	_	_
+16	fara	farare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	'	'	PUNCT	FB	_	18	punct	_	_
+18	Saltare	saltare	PROPN	SP	_	16	obl	_	_
+19	By...	By...	PROPN	SP	_	18	conj	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	_
+23	fb.me/4s1GDJc54	fb.me/4s1GDJc54	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

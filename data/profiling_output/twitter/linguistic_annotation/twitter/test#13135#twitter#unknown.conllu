@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = IL CAVALLO DI TROIA ERA UNO SOLO...
+1	IL	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	CAVALLO	Cavallo	PROPN	SP	_	0	root	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	TROIA	Troia	PROPN	SP	_	5	nmod	_	_
+5	ERA	era	PROPN	SP	_	2	flat:name	_	_
+6	UNO	uno	PROPN	SP	_	5	flat:name	_	_
+7	SOLO...	SOLO...	PROPN	SP	_	5	flat:name	_	_
+
+# sent_id = 2
+# text = MA I FIGLI SONO PARECCHI
+1	MA	ma	PROPN	SP	_	5	nsubj	_	_
+2	I	il	PROPN	SP	_	1	flat:name	_	_
+3	FIGLI	figli	PROPN	SP	_	1	flat:name	_	_
+4	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	PARECCHI	parecchi	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

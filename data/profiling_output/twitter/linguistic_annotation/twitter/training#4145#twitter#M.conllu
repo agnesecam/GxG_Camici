@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parafarmarcie e pubblicità, Aduc: “Il Tar accoglie il ricorso, il Comune dovrà rivedere i divieti” #feedly http:// buff.ly/1V53NKk
+1	Parafarmarcie	Parafarmarcia	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	pubblicità	pubblicità	NOUN	S	Gender=Fem	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	Aduc	Aduc	PROPN	SP	_	1	conj	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+7	“	“	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Tar	Tar	PROPN	SP	_	10	nsubj	_	_
+10	accoglie	accogliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ricorso	ricorso	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	10	punct	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Comune	comune	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+17	rivedere	rivedere	VERB	V	VerbForm=Inf	0	root	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	divieti	divieto	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
+20	”	”	PUNCT	FB	_	21	punct	_	_
+21	#feedly	#feedly	PROPN	SW	Foreign=Yes	19	nmod	_	_
+22	http:	http:	PUNCT	FC	_	25	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	_
+25	buff.ly/1V53NKk	buff.ly/1V53NKk	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "L'agire dell'uomo si sgonfia troppo facilmente, egli presto si invaghisce del riposo assoluto" - Faust
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2	L'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	agire	agire	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+4-5	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+4	di	di	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	sgonfia	sgonfiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	troppo	troppo	ADV	B	_	8	advmod	_	_
+10	facilmente	facilmente	ADV	B	_	8	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	15	punct	_	_
+12	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+13	presto	presto	ADV	B	_	15	advmod	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	invaghisce	invaghire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+19	assoluto	assoluto	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	8	punct	_	_
+21	-	-	PUNCT	FF	_	8	punct	_	_
+22	Faust	Faust	PROPN	SP	_	8	obl	_	SpacesAfter=\n
+

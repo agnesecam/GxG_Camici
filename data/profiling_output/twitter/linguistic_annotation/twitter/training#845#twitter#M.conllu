@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @maurofelicori Avessimo avuto tanti anni orsono tanti Felicori.
+1	@maurofelicori	@maurofelicoro	ADV	B	_	3	advmod	_	_
+2	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	orsono	esorsere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+7	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	Felicori	Felicori	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Si lamentano perché il lavoro serio porta sudore per chi lo fa con serietà
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	lamentano	lamentare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	perché	perché	SCONJ	CS	_	7	mark	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	serio	serio	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	porta	porta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	sudore	sudore	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	chi	chi	PRON	PR	Number=Sing|PronType=Rel	7	obl	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	serietà	serietà	NOUN	S	Gender=Fem	12	obl	_	SpacesAfter=\n
+

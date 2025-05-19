@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @madeinsud_rai Gli auguri a Nichy #Vendola glieli possiamo fare oggi o dobbiamo aspettare la Festa della #mamma ?
+1	@madeinsud_rai	@madeinsud_ere	ADV	B	_	3	advmod	_	_
+2	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Nichy	Nichy	PROPN	SP	_	12	obl	_	_
+6	#	#	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+7-8	Vendola	_	_	_	_	_	_	_	_
+7	Vendo	Vere	PROPN	SP	_	12	nsubj	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9-10	glieli	_	_	_	_	_	_	_	_
+9	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	iobj	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+11	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	3	acl	_	_
+13	oggi	oggi	ADV	B	_	12	advmod	_	_
+14	o	o	CCONJ	CC	_	16	cc	_	_
+15	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	aspettare	aspettare	VERB	V	VerbForm=Inf	12	conj	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	Festa	Festa	PROPN	SP	_	16	obj	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	#mamma	#mamma	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+22	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marattin siamo sotto votazioni elettorali cosa costa abolire la riforma Fornero?
+1	@marattin	@marattino	ADV	B	_	4	advmod	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	sotto	sotto	ADP	E	_	4	case	_	_
+4	votazioni	votazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	elettorali	elettorale	ADJ	A	Number=Plur	4	amod	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	nsubj	_	_
+7	costa	costare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+8	abolire	abolire	VERB	V	VerbForm=Inf	7	csubj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	riforma	riforma	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	Fornero	Fornero	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = 5 minuti e avrete i voti italiani https:// twitter.com/marattin/statu s/705816046033211392 …
+1	5	5	NUM	N	NumType=Card	2	nummod	_	_
+2	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	conj	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	voti	voto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	twitter.com/marattin/statu	twitter.com/marattin/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	s/705816046033211392	s/705816046033211392	NUM	N	NumType=Card	4	nummod	_	_
+13	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

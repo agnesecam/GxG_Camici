@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = The truth is out there - "Aprire i file riservati sugli Ufo, la Clinton farà chiarezza" http://www.
+1	The	The	X	SW	Foreign=Yes	0	root	_	_
+2	truth	truth	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	is	is	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	out	out	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	there	there	X	SW	Foreign=Yes	1	flat:foreign	_	_
+6	-	-	PUNCT	FB	_	1	punct	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Aprire	aprire	VERB	V	VerbForm=Inf	1	advcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	file	fila	NOUN	S	Number=Sing	8	obj	_	_
+11	riservati	riservato	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+12-13	sugli	_	_	_	_	_	_	_	_
+12	su	su	ADP	E	_	14	case	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	Ufo	Ufo	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	10	punct	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Clinton	Clinton	PROPN	SP	_	18	nsubj	_	_
+18	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	conj	_	_
+19	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	21	punct	_	_
+21	http://www	http://www	NOUN	S	_	19	compound	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = repubblica.it/scienze/2016/0 4/08/news/clinton_ufo_alieni_verita_-137186876/ …
+1	repubblica.it/scienze/2016/0	repubblica.it/scienze/2016/0	NUM	N	NumType=Card	6	nummod	_	_
+2	4/08	4/08	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	news	news	NOUN	S	Gender=Fem	2	compound	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	clinton_ufo_alieni_verita_-137186876	clinton_ufo_alieni_verita_-137186876	SYM	X	_	0	root	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	_
+8	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

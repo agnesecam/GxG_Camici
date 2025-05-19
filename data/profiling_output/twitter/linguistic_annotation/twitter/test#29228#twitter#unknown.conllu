@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scienziati Usa:
+1	Scienziati	scienziare	PROPN	SP	_	0	root	_	_
+2	Usa	Usa	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = “Il Vesuvio sta per esplodere non avrete il tempo di scappare”:
+1	“	“	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Vesuvio	Vesuvio	PROPN	SP	_	4	nsubj	_	_
+4	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	esplodere	esplodere	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	6	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	12	mark	_	_
+12	scappare	scappare	VERB	V	VerbForm=Inf	10	acl	_	SpaceAfter=No
+13	”	”	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 3
+# text = Non avrete ... http:// bit.ly/22hWnrL via @ilforumditutti
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	...	...	PUNCT	FF	_	4	punct	_	_
+4	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	_
+7	bit.ly/22hWnrL	bit.ly/22hWnrL	PROPN	SP	_	2	obj	_	_
+8	via	via	ADV	B	_	9	advmod	_	_
+9	@ilforumditutti	@ilforumditutto	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	SpacesAfter=\n
+

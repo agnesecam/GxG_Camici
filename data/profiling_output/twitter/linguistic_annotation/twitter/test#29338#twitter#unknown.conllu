@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tra 15 giorni avrete il mio video di risposta...per il momento bravi ragazzi...
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	15	15	NUM	N	NumType=Card	3	nummod	_	_
+3	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+4	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	video	video	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	risposta...per	risposta...pere	VERB	V	VerbForm=Inf	7	acl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	momento	momento	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	bravi	bravo	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+13	ragazzi...	ragazzi.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Grandi Gramazio Luka Marianna...
+1	Grandi	Grandi	PROPN	SP	_	0	root	_	_
+2	Gramazio	Gramazio	PROPN	SP	_	1	flat:name	_	_
+3	Luka	Luka	PROPN	SP	_	1	flat:name	_	_
+4	Marianna...	Marianna...	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 3
+# text = http:// fb.me/3OXnEf2Ve
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/3OXnEf2Ve	fb.me/3oxnef2ve	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

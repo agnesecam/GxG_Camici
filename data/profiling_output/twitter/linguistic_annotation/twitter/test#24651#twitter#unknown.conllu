@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amico, pensare di conoscere le donne solo perché conosci la tua è come credere di possedere la sapienza umana avendo letto un solo libro.
+1	Amico	amico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	pensare	pensare	VERB	V	VerbForm=Inf	1	conj	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	conoscere	conoscere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	donne	donna	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	solo	solo	ADV	B	_	5	advmod	_	_
+9	perché	perché	SCONJ	CS	_	10	mark	_	_
+10	conosci	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	tua	tuo	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	obj	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	come	come	ADV	B	_	15	advmod	_	_
+15	credere	credere	VERB	V	VerbForm=Inf	10	xcomp	_	_
+16	di	di	ADP	E	_	17	mark	_	_
+17	possedere	possedere	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	sapienza	sapienza	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+20	umana	umano	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
+21	avendo	avere	AUX	VA	VerbForm=Ger	22	aux	_	_
+22	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+23	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	solo	solo	ADJ	A	Gender=Masc|Number=Sing	25	amod	_	_
+25	libro	libro	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

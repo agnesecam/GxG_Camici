@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grazieeeee!
+1	Grazieeeee	Grazieeeee	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !ieri eravate tantissimi a seguire la mia conduzione del backstage degli @ONSTAGEmagazine su @RaiQuattro ! pic.twitter.com/PDwcYIHUS3
+1	!ieri	!iere	ADV	B	_	3	advmod	_	_
+2	eravate	eravare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	tantissimi	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	seguire	seguire	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	conduzione	conduzione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	backstage	backstage	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12-13	degli	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	@ONSTAGEmagazine	@ONSTAGEmagazine	PROPN	SP	_	11	nmod	_	_
+15	su	su	ADP	E	_	16	case	_	_
+16	@RaiQuattro	@RaiQuattro	PROPN	SP	_	5	obl	_	_
+17	!	!	PUNCT	FS	_	16	punct	_	_
+18	pic.twitter.com/PDwcYIHUS3	pic.twitter.com/PDwcYIHUS3	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

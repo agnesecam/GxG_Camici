@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FrModugno ps noi a Napoli non potremmo mai tifare per la Juve.chi dice che non saremmo favoriti in campionato se ne prendessero 5 domani?
+1	@FrModugno	@FrModugno	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+2	ps	ps	NOUN	S	Gender=Masc	1	compound	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Napoli	Napoli	PROPN	SP	_	3	nmod	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	potremmo	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	mai	mai	ADV	B	_	9	advmod	_	_
+9	tifare	tifare	VERB	V	VerbForm=Inf	0	root	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Juve.chi	Juve.chi	PROPN	SP	_	9	obl	_	_
+13	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+14	che	che	SCONJ	CS	_	17	mark	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	favoriti	favorire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	ccomp	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+20	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl	_	_
+21	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+22	prendessero	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	advcl	_	_
+23	5	5	NUM	N	NumType=Card	22	nsubj	_	_
+24	domani	domani	ADV	B	_	23	advmod	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

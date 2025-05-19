@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @esse__punto il finale mi ha proprio spiazziato, lo ammetto, però è tutto un bel "Eh se lo avessimo fatto?"
+1	@esse__punto	@esse__pungere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	finale	finale	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	proprio	proprio	ADV	B	_	7	advmod	_	_
+7	spiazziato	spiazziato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	ammetto	ammettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	22	punct	_	_
+12	però	però	ADV	B	_	22	advmod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
+14	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	22	nsubj	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+16	bel	bello	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	_
+17	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+18	Eh	eh	ADV	B	_	22	advmod	_	_
+19	se	se	SCONJ	CS	_	22	mark	_	_
+20	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+21	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	22	aux	_	_
+22	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	22	punct	_	SpaceAfter=No
+24	"	"	PUNCT	FB	_	7	punct	_	SpacesAfter=\n
+

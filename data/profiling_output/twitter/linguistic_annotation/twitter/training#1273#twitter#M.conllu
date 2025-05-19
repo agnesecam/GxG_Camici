@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Boboj29 vinca lo sport tutte queste smancierie su higuain ma per favore avevate più di 11 punti dalla juve è nessuno si lamentava ora si
+1	@Boboj29	@Boboj29	NUM	N	NumType=Card	2	nummod	_	_
+2	vinca	vincare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	parataxis	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sport	sport	NOUN	S	Gender=Masc	2	nsubj	_	_
+5	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	smancierie	smancieria	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+8	su	su	ADP	E	_	9	case	_	_
+9	higuain	higuain	NOUN	S	Gender=Masc	13	nmod	_	_
+10	ma	ma	CCONJ	CC	_	13	cc	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	favore	favore	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+13	avevate	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	24	advcl	_	_
+14	più	più	ADV	B	_	17	advmod	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	11	11	NUM	N	NumType=Card	17	nummod	_	_
+17	punti	punto	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+18-19	dalla	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	juve	juva	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+21	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+22	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	24	nsubj	_	_
+23	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	24	expl	_	_
+24	lamentava	lamentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+25	ora	ora	ADV	B	_	24	advmod	_	_
+26	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	24	expl	_	SpacesAfter=\n
+

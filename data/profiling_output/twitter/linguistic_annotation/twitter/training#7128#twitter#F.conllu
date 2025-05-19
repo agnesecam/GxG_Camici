@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = JC:
+1	JC	JC	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = solo se si generano soggetti sociali veri anche la politica sarà rinnovata da essi #labellezzadisarmata
+1	solo	solo	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:pass	_	_
+4	generano	generare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+5	soggetti	soggetto	NOUN	S	Gender=Masc|Number=Plur	4	nsubj:pass	_	_
+6	sociali	sociale	ADJ	A	Number=Plur	5	amod	_	_
+7	veri	vero	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+8	anche	anche	ADV	B	_	10	advmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	politica	politica	NOUN	S	Gender=Fem|Number=Sing	12	nsubj:pass	_	_
+11	sarà	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux:pass	_	_
+12	rinnovata	rinnovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obl:agent	_	_
+15	#labellezzadisarmata	#labellezzadisarmare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	xcomp	_	SpacesAfter=\n
+

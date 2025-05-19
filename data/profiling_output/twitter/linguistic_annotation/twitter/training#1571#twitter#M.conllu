@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La musica di Bach tocca le nostre anime e le fa vibrare forse perché le profondità sono racchiuse nell'essenziale?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	musica	musica	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Bach	Bach	PROPN	SP	_	2	nmod	_	_
+5	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	anime	anima	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	11	iobj	_	_
+11	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12	vibrare	vibrare	VERB	V	VerbForm=Inf	11	ccomp	_	_
+13	forse	forse	ADV	B	_	12	advmod	_	_
+14	perché	perché	SCONJ	CS	_	18	mark	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	profondità	profondità	NOUN	S	Gender=Fem	18	nsubj:pass	_	_
+17	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+18	racchiuse	racchiudere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	advcl	_	_
+19-20	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+19	in	in	ADP	E	_	21	case	_	_
+20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	_
+21	essenziale	essenziale	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

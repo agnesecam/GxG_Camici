@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Senza fine:
+1	Senza	senza	ADP	E	_	2	case	_	_
+2	fine	fine	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Senza fine “Per i cabalisti, la Divinità è un’entità talmente inaccessibile che essi La situano ... http:// bit.ly/1oIUwK5
+1	Senza	senza	ADP	E	_	2	case	_	_
+2	fine	fine	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+3	“	“	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+4	Per	per	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	cabalisti	cabalista	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Divinità	divinità	NOUN	S	Gender=Fem	12	nsubj	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	un’	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	entità	entità	NOUN	S	Gender=Fem	0	root	_	_
+13	talmente	talmente	ADV	B	_	14	advmod	_	_
+14	inaccessibile	inaccessibile	ADJ	A	Number=Sing	12	amod	_	_
+15	che	che	SCONJ	CS	_	18	mark	_	_
+16	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
+17	La	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+18	situano	situare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+19	...	...	PUNCT	FF	_	20	punct	_	_
+20	http:	http:	PUNCT	FS	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	_
+23	bit.ly/1oIUwK5	bit.ly/1oIUwK5	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

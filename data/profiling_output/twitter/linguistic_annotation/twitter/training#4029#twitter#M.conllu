@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che il club nerazzurro dovrà rispettare dopo aver firmato l’accordo con la Uefa per il fair play finanziario.
+1	Che	che	SCONJ	CS	_	6	mark	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	club	club	NOUN	S	Gender=Masc	6	nsubj	_	_
+4	nerazzurro	nerazzurro	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	rispettare	rispettare	VERB	V	VerbForm=Inf	0	root	_	_
+7	dopo	dopo	SCONJ	CS	_	9	mark	_	_
+8	aver	avere	AUX	VA	VerbForm=Inf	9	aux	_	_
+9	firmato	firmare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+10	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Uefa	Uefa	PROPN	SP	_	9	obl	_	_
+15	per	per	ADP	E	_	18	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	fair	fair	ADJ	A	_	18	amod	_	_
+18	play	play	NOUN	S	_	14	nmod	_	_
+19	finanziario	finanziario	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Nel suo ultimo viaggio a Mila;
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	5	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+4	ultimo	ultimo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	Mila	mila	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	;	;	PUNCT	FC	_	5	punct	_	SpacesAfter=\n
+

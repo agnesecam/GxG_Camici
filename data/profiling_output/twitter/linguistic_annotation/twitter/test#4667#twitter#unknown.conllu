@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Braglia:
+1	Braglia	Braglia	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Il Benevento dovrà venire a Cosenza..." https:// shar.es/1Y65Ec via @sharethis
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Benevento	Benevento	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	venire	venire	VERB	V	VerbForm=Inf	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	Cosenza...	Cosenza...	PROPN	SP	_	5	obl	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	9	punct	_	_
+9	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	7	punct	_	_
+12	shar.es/1Y65Ec	shar.es/1Y65Ec	PROPN	SP	_	7	nmod	_	_
+13	via	via	ADV	B	_	5	advmod	_	_
+14	@sharethis	@sharethis	ADJ	A	_	5	xcomp	_	SpacesAfter=\n
+

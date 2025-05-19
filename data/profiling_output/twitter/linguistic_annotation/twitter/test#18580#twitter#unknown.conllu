@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RafRiefoli
+1	@RafRiefoli	@RafRiefoli	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = So che non si fa (se lo facessimo tutti che caos),che è infantile, che non sei un jukebox,ma ci provo:canteresti MAI il 16?:*
+1	So	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+10	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	12	nmod	_	_
+11	che	che	SCONJ	CS	_	12	mark	_	_
+12	caos	caos	NOUN	S	Gender=Masc	9	obl	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	,che	,co	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	16	nsubj	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	infantile	infantile	ADJ	A	Number=Sing	9	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	sei	sei	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	jukebox,ma	jukebox,ma	NOUN	S	Gender=Masc|Number=Sing	24	nsubj	_	_
+23	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	24	expl	_	_
+24	provo:canteresti	provo:canteredere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+25	MAI	mai	PROPN	SP	_	24	obj	_	_
+26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	16	16	NUM	N	NumType=Card	24	nsubj	_	SpaceAfter=No
+28	?	?	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+29	:*	:*	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

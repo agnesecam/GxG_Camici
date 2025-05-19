@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Siete stati riscattati a caro prezzo.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	aux:pass	_	_
+4	riscattati	riscattare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	caro	caro	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	prezzo	prezzo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Glorificate dunque Dio nel vostro corpo." (1Corinzi 6,20) https:// youtu.be/9hydv2Jgz1A #SantaPasqua
+1	Glorificate	Glorificare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	Dio	dio	PROPN	SP	_	1	nsubj	_	_
+4-5	nel	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	corpo	corpo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	11	punct	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	1Corinzi	1Corinzi	PROPN	SP	_	0	root	_	_
+12	6,20	6,20	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	11	punct	_	_
+14	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	11	punct	_	_
+17	youtu.be/9hydv2Jgz1A	youtu.be/9hydv2Jgz1A	PROPN	SP	_	11	nmod	_	_
+18	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+19	SantaPasqua	SantaPasquo	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

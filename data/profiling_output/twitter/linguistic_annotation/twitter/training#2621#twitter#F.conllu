@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando vi lamentate di essere basse e poi vi fate i risvoltini che vi fanno sembrare 10 cm più basse pic.twitter.com/zyFw8GI1f8
+1	Quando	quando	SCONJ	CS	_	3	mark	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	expl	_	_
+3	lamentate	lamentare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+4	di	di	ADP	E	_	6	mark	_	_
+5	essere	essere	AUX	V	VerbForm=Inf	6	cop	_	_
+6	basse	bare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	poi	poi	ADV	B	_	10	advmod	_	_
+9	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
+10	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	risvoltini	risvoltino	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	vi	vi	ADV	B	_	15	advmod	_	_
+15	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	15	ccomp	_	_
+17	10	10	NUM	N	NumType=Card	18	nummod	_	_
+18	cm	centimetro	NOUN	S	_	16	obl	_	_
+19	più	più	ADV	B	_	20	advmod	_	_
+20	basse	basso	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	_
+21	pic.twitter.com/zyFw8GI1f8	pic.twitter.com/zyFw8GI1f8	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

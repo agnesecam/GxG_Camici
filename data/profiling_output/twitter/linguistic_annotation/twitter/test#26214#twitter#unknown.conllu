@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vorrei possedere le stesse abilità di stalking hardcore della mia prof che senza sapere il mio nome è riuscita a mandarmi una mail.
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	possedere	possedere	VERB	V	VerbForm=Inf	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	stesse	stesso	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+5	abilità	abilità	NOUN	S	Gender=Fem	2	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	stalking	stalking	NOUN	S	Gender=Masc	5	nmod	_	_
+8	hardcore	hardcore	NOUN	S	Gender=Masc	7	compound	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	prof	prof	NOUN	S	_	5	nmod	_	_
+13	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+14	senza	senza	ADP	E	_	15	mark	_	_
+15	sapere	sapere	VERB	V	VerbForm=Inf	20	advcl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	nome	nome	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	riuscita	riuscire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+21	a	a	ADP	E	_	22	mark	_	_
+22-23	mandarmi	_	_	_	_	_	_	_	_
+22	mandar	mandare	VERB	V	VerbForm=Inf	20	xcomp	_	_
+23	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	22	iobj	_	_
+24	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	mail	mail	NOUN	S	_	22	obj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

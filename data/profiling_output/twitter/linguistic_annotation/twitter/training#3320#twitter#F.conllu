@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @notamundane_ - farà coreografie che non hanno nulla a che vedere con lo stile "sexy" dunque non attaccatevi a cose che non esistono
+1	@notamundane_	ExtraSubj=Yes|@notamundane_	PUNCT	FB	_	3	punct	_	_
+2	-	-	PUNCT	FF	_	3	punct	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	coreografie	coreografia	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	_
+9	a	a	ADP	E	_	11	mark	_	_
+10	che	che	SCONJ	CS	_	9	fixed	_	_
+11	vedere	vedere	VERB	V	VerbForm=Inf	8	acl	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	stile	stile	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	sexy	sexy	ADJ	A	_	14	amod	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	16	punct	_	_
+18	dunque	dunque	ADV	B	_	3	advmod	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	attaccatevi	attaccare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	20	obl	_	_
+23	che	che	PRON	PR	PronType=Rel	25	nsubj	_	_
+24	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+25	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	SpacesAfter=\n
+

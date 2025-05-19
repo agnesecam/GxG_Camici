@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mazzons98 detta sinceramente, se fosse il tuo braccio saresti ancora vivo?
+1	@Mazzons98	@Mazzons98	PROPN	SP	_	2	nsubj	_	_
+2	detta	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sinceramente	sinceramente	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	se	se	SCONJ	CS	_	12	mark	_	_
+6	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	braccio	braccio	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+10	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	ancora	ancora	ADV	B	_	12	advmod	_	_
+12	vivo	vivo	ADJ	A	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/DLhNeS2GR2
+1	pic.twitter.com/DLhNeS2GR2	pic.twitter.com/DLhNeS2GR2	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marco_borrano @KellerZoe Deve esserlo anche la UE, altrimenti sarà peggio per tutti.
+1	@marco_borrano	@marco_borrano	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+2	@KellerZoe	@KellerZoe	PROPN	SP	_	5	nsubj	_	_
+3	Deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4-5	esserlo	_	_	_	_	_	_	_	_
+4	esser	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+5	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+6	anche	anche	ADV	B	_	8	advmod	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	UE	Ue	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	altrimenti	altrimenti	CCONJ	CC	_	12	cc	_	_
+11	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	cop	_	_
+12	peggio	peggio	ADV	B	_	5	conj	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = E la Svizzera comunque prima dovrà essere fagocitata.
+1	E	e	CCONJ	CC	_	8	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Svizzera	Svizzera	PROPN	SP	_	8	nsubj:pass	_	_
+4	comunque	comunque	ADV	B	_	8	advmod	_	_
+5	prima	prima	ADV	B	_	8	advmod	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+7	essere	essere	AUX	VA	VerbForm=Inf	8	aux:pass	_	_
+8	fagocitata	fagocitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

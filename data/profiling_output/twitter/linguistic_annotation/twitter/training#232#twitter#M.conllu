@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo avuto più acume lo stabilimento di Melfi avremmo dovuto offrirlo a Leon Musk http:// fb.me/83bLZ1IVv
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+4	più	più	ADV	B	_	12	advmod	_	_
+5	acume	acumere	ADP	E	_	7	case	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	stabilimento	stabilimento	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Melfi	Melfi	PROPN	SP	_	7	nmod	_	_
+10	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux	_	_
+12-13	offrirlo	_	_	_	_	_	_	_	_
+12	offrir	offrire	VERB	V	VerbForm=Inf	0	root	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	Leon	Leon	PROPN	SP	_	12	obl	_	_
+16	Musk	Musk	PROPN	SP	_	15	flat:name	_	_
+17	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	12	punct	_	_
+20	fb.me/83bLZ1IVv	fb.me/83bLZ1IVv	PROPN	SP	_	12	obj	_	SpacesAfter=\n
+

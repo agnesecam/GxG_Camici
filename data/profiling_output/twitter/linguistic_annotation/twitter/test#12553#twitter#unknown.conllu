@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Credevamo che i vertici di Banca popolare di Vicenza avessero toccato il fondo portando una banca a perdere in un... http:// fb.me/83INdbGra
+1	Credevamo	credere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	11	mark	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	vertici	vertice	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Banca	banca	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	popolare	popolare	ADJ	A	Number=Sing	6	amod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Vicenza	Vicenza	PROPN	SP	_	6	nmod	_	_
+10	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	toccato	toccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	portando	portare	VERB	V	VerbForm=Ger	11	advcl	_	_
+15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	banca	banca	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+17	a	a	ADP	E	_	18	mark	_	_
+18	perdere	perdere	VERB	V	VerbForm=Inf	16	acl	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	un...	un...	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+21	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	fb.me/83INdbGra	fb.me/83INdbGra	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

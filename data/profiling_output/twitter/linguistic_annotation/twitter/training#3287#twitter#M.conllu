@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francopizzetti Perchè tanto interesse per una testata che fra poco farà la fine dell'UNITA'?
+1	@francopizzetti	@francopizzeggere	NOUN	S	Gender=Masc	4	nmod	_	_
+2	Perchè	perché	PROPN	SP	_	1	nmod	_	_
+3	tanto	tanto	ADV	B	_	4	advmod	_	_
+4	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	testata	testata	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	fra	fra	ADP	E	_	10	case	_	_
+10	poco	poco	ADV	B	_	11	advmod	_	_
+11	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	acl:relcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	fine	fine	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14-15	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+14	di	di	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	UNITA'	UNITA'	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = Non fa più opinione,è solo autoreferenziale
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	più	più	ADV	B	_	2	advmod	_	_
+4	opinione,	opinione,	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	solo	solo	ADV	B	_	7	advmod	_	_
+7	autoreferenziale	autoreferenziale	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n
+

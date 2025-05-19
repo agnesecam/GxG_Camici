@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nannaenik Purtroppo anche di Berlusconi si pensava che ce ne saremmo liberati provandolo...
+1	@nannaenik	@nannaenik	NOUN	S	Gender=Masc	7	obl	_	_
+2	Purtroppo	purtroppo	ADV	B	_	5	advmod	_	_
+3	anche	anche	ADV	B	_	5	advmod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Berlusconi	Berlusconi	PROPN	SP	_	7	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+7	pensava	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	che	che	SCONJ	CS	_	12	mark	_	_
+9	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+10	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+11	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	liberati	liberare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	ccomp	_	_
+13	provandolo...	provandolo.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = poi ce lo siamo tenuto vent'anni
+1	poi	poi	ADV	B	_	5	advmod	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	tenuto	tenire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	vent'	venti	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpacesAfter=\n
+

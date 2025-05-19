@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non mi venite a dire che qsta è gente perbene.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	venite	venire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	dire	dire	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	qsta	qsta	ADJ	A	Number=Sing	9	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	gente	gente	NOUN	S	Gender=Fem|Number=Sing	5	ccomp	_	_
+10	perbene	perbene	ADJ	A	_	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ammazzano chiunque x arrivare e ottenere ciò che vogliono https:// twitter.com/infoitinterno/ status/719158351511334912 …
+1	..ammazzano	..ammazzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	1	nsubj	_	_
+3	x	x	SYM	SYM	_	4	obl	_	_
+4	arrivare	arrivare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	ottenere	ottenere	VERB	V	VerbForm=Inf	4	conj	_	_
+7	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	vogliono	volere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	https:	https:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	twitter.com/infoitinterno/	twitter.com/infoitinterno/	PUNCT	FF	_	14	punct	_	_
+14	status/719158351511334912	status/719158351511334912	NUM	N	NumType=Card	4	nummod	_	_
+15	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

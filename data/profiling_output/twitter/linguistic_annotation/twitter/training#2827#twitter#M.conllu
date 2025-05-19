@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = arricchirsi illegalmente e farlo sembrare legale;
+1-2	arricchirsi	_	_	_	_	_	_	_	_
+1	arricchir	arricchire	VERB	V	VerbForm=Inf	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	_
+3	illegalmente	illegalmente	ADV	B	_	1	advmod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5-6	farlo	_	_	_	_	_	_	_	_
+5	far	fare	VERB	V	VerbForm=Inf	1	conj	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	legale	legale	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+9	;	;	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = non si scherza con i turbamenti emotivi.
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	scherza	scherzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	turbamenti	turbamento	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	emotivi	emotivo	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

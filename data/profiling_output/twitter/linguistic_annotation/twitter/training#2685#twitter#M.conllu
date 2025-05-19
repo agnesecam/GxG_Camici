@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = cose belle, tanto belle da non sembrare vere.
+1	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	belle	bello	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	tanto	tanto	ADV	B	_	5	advmod	_	_
+5	belle	bello	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+6	da	da	ADP	E	_	8	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	5	advcl	_	_
+9	vere	vere	VERB	V	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = il 1° luglio non è poi così lontano.
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	1°	1°	ADJ	NO	NumType=Ord	3	amod	_	_
+3	luglio	luglio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	poi	poi	ADV	B	_	8	advmod	_	_
+7	così	così	ADV	B	_	8	advmod	_	_
+8	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = https:// lnkd.in/eKXhSPP
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	lnkd.in/eKXhSPP	lnkd.in/eKXhSPP	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

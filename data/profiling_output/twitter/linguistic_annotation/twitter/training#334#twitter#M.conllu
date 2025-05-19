@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_heydiego Manca questo alla nostra inter, non saremmo dove siamo se avessimo imparato a gestire le paritite.
+1	@_heydiego	@_heydiegare	ADP	E	_	2	case	_	_
+2	Manca	Manca	PROPN	SP	_	12	obl	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	inter	inter	NOUN	S	_	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	dove	dove	ADV	B	_	12	advmod	_	_
+12	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	se	se	SCONJ	CS	_	15	mark	_	_
+14	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	imparato	imparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	ccomp	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	gestire	gestire	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	paritite	paritita	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = Invece ci sediamo subito
+1	Invece	invece	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+3	sediamo	sedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	subito	subito	ADV	B	_	3	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi dicono Gabriele vs Cristiano, con vittoria di Cristiano.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Gabriele	Gabriele	PROPN	SP	_	2	nsubj	_	_
+4	vs	vs	PROPN	SW	Foreign=Yes	3	flat:name	_	_
+5	Cristiano	cristiano	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Cristiano	cristiano	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Cominciate a togliere il vino, per cortesia #Amici15
+1	Cominciate	cominciare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	togliere	togliere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	vino	vino	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+9	#Amici15	#Amici15	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

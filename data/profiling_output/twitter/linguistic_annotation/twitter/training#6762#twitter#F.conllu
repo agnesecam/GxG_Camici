@@ -1,0 +1,86 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parliamo chiaramente.
+1	Parliamo	parlare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	chiaramente.	chiaramente.	NOUN	S	Gender=Masc	1	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...non ti manca nemmeno un po' Fabiana?
+1	...non	...non	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nemmeno	nemmeno	ADV	BN	PronType=Neg	3	advmod	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	po'	poco	ADV	B	_	7	advmod	_	_
+7	Fabiana	Fabiana	PROPN	SP	_	3	nsubj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = — ma taci https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM6OGDFPIVR33O3BVRBX7KJ27UYYWNCII2NUENOQRRKCYPKEAFIJV
+1	—	—	PUNCT	FF	_	3	punct	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	taci	tace	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	https:	https:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	3	nmod	_	_
+8	7B667HQMHN2IG6NM6OGDFPIVR33O3BVRBX7KJ27UYYWNCII2NUENOQRRKCYPKEAFIJV	7B667HQMHN2IG6NM6OGDFPIVR33O3BVRBX7KJ27UYYWNCII2NUENOQRRKCYPKEAFIJV	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+
+# sent_id = 4
+# text = T
+1	T	T	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = E
+1	E	e	CCONJ	CC	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = V
+1	V	V	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 7
+# text = SR
+1	SR	SR	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 8
+# text = RUY
+1	RUY	Ruy	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 9
+# text = 7
+1	7	7	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+
+# sent_id = 10
+# text = O5MSP
+1	O5MSP	O5MSP	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 11
+# text = L
+1	L	L	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 12
+# text = U
+1	U	u	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 13
+# text = L
+1	L	L	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 14
+# text = N
+1	N	N	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 15
+# text = AZ
+1	AZ	AZ	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 16
+# text = X
+1	X	X	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 17
+# text = WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA= …
+1	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

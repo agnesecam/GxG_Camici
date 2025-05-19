@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ArenaGiletti fate togliere lo scudetto italiano dalla maglia a questo signore.
+1	@ArenaGiletti	@ArenaGiletti	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+3	togliere	togliere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	maglia	maglia	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	signore	signore	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sono indignato.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	indignato	indignare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #arenagiletti
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	arenagiletti	arenagileggere	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @leogba80 @AntonioCorsa io lo dicevo se avessimo perso bonucci.
+1	@leogba80	@leogba80	NUM	N	NumType=Range	2	nummod	_	_
+2	@AntonioCorsa	@AntonioCorsa	PROPN	SP	_	5	dislocated	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	dicevo	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	perso	perso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+9	bonucci	bonuccio	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = anche allegri in conferenza ha detto “fortunatamente non ha nulla"
+1	anche	anche	ADV	B	_	2	advmod	_	_
+2	allegri	allegro	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	conferenza	conferenza	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	“	“	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	fortunatamente	fortunatamente	ADV	B	_	10	advmod	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+11	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se estendiamo l'illimitata tolleranza anche agli #intolleranti , allora i tolleranti SARANNO DISTRUTTI e la #TOLLERANZA con essi ! #Bruxelles
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	estendiamo	estendere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+4	illimitata	illimitato	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	tolleranza	tolleranza	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	anche	anche	ADV	B	_	9	advmod	_	_
+7-8	agli	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	#intolleranti	#intollerante	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+10	,	,	PUNCT	FF	_	5	punct	_	_
+11	allora	allora	ADV	B	_	13	advmod	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	tolleranti	tollerante	NOUN	S	Number=Plur	5	conj	_	_
+14	SARANNO	essere	PROPN	SP	_	13	nmod	_	_
+15	DISTRUTTI	distrutti	PROPN	SP	_	14	flat:name	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	#TOLLERANZA	#TOLLERANZA	PROPN	SP	_	5	conj	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nmod	_	_
+21	!	!	PUNCT	FS	_	5	punct	_	_
+22	#Bruxelles	#Bruxelles	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

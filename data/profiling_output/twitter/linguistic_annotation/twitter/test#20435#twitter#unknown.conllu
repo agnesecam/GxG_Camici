@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FunnyF7 dovunque siamo, qualunque cosa facciamo, la testa va sempre là </3
+1	@FunnyF7	@FunnyF7	NUM	N	NumType=Card	7	nummod	_	_
+2	dovunque	dovunque	SCONJ	CS	_	3	mark	_	_
+3	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	testa	testa	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+11	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	sempre	sempre	ADV	B	_	11	advmod	_	_
+13	là	là	ADV	B	_	11	advmod	_	_
+14	<	<	SYM	SYM	_	11	xcomp	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	3	3	NUM	N	NumType=Card	14	nummod	_	SpacesAfter=\n
+

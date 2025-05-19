@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SolloFrancesco stai tranquillo, starà bene e domani la troverai in gran forma.
+1	@SolloFrancesco	@SolloFrancesco	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tranquillo	tranquillo	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	_	_
+6	bene	bene	ADV	B	_	5	advmod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	domani	domani	ADV	B	_	10	advmod	_	_
+9	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	troverai	troveraio	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	gran	grande	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	forma	forma	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

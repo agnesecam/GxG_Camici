@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FedericZambelli @Benji_Mascolo nooo, gliene devi fare leggere di tutti i tipi ahahhaha
+1	@FedericZambelli	@FedericZambello	PROPN	SP	_	7	nsubj	_	_
+2	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	1	flat:name	_	_
+3	nooo	nooo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	gliene	glenere	ADV	B	_	7	advmod	_	_
+6	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+8	leggere	leggere	VERB	V	VerbForm=Inf	7	obj	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	12	det:predet	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	tipi	tipo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+13	ahahhaha	ahahhaavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpacesAfter=\n
+

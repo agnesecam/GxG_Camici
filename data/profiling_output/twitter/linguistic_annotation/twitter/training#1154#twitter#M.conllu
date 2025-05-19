@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E anche dalla #Francia giunge un solo grido:
+1	E	e	CCONJ	CC	_	7	cc	_	_
+2	anche	anche	ADV	B	_	7	advmod	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	7	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+6	Francia	Francia	PROPN	SP	_	7	nsubj	_	_
+7	giunge	giungere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	solo	solo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	grido	grido	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	7	punct	_	_
+
+# sent_id = 2
+# text = #ForzaNapoliSempre #NapoliVerona https:// twitter.com/napolicfrance/ status/719177493303963648 …
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	ForzaNapoliSempre	ForzaNapoliSempre	PROPN	SP	_	0	root	_	_
+3	#NapoliVerona	#NapoliVerona	PROPN	SP	_	2	conj	_	_
+4	https:	https:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	twitter.com/napolicfrance/	twitter.com/napolicfrance/	PUNCT	FF	_	8	punct	_	_
+8	status/719177493303963648	status/719177493303963648	NUM	N	NumType=Card	2	nummod	_	_
+9	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

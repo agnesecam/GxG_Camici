@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ValeriaBcc ma i miei ancora nemmeno sono del matrimonio, erano per il battesimo della nipote della mia collega haha
+1	@ValeriaBcc	@ValeriaBccetera	ADV	B	_	15	advmod	_	_
+2	ma	ma	CCONJ	CC	_	10	cc	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	nsubj	_	_
+5	ancora	ancora	ADV	B	_	6	advmod	_	_
+6	nemmeno	nemmeno	ADV	BN	PronType=Neg	10	advmod	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	matrimonio	matrimonio	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	1	punct	_	_
+12	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+13	per	per	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	battesimo	battesimo	NOUN	S	Gender=Masc|Number=Sing	23	nsubj	_	_
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	nipote	nipote	NOUN	S	Number=Sing	15	nmod	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	22	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	collega	collega	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+23	haha	haavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ale_dibattista Aboliamo il canone Rai non se ne puo piu .
+1	@ale_dibattista	@ale_dibattista	NOUN	S	Number=Sing	0	root	_	_
+2	Aboliamo	Abolare	PROPN	SP	_	1	nmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	canone	canone	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+5	Rai	Rai	PROPN	SP	_	4	nmod	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+9	puo	puo	X	SW	Foreign=Yes	1	nmod	_	_
+10	piu	piu	X	SW	Foreign=Yes	9	flat:foreign	_	_
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Facessero come le paytv se vuoi guardare paghi .Ma che siamo in un regime .
+1	Facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	paytv	paytv	NOUN	S	Gender=Fem	1	obl	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	guardare	guardare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+8	paghi	pago	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	.Ma	.Ma	PROPN	SP	_	8	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	regime	regime	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

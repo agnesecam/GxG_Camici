@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le tasse che paghiamo vanno alle banche, lavoriamo in maniera coercitiva per loro dunque non siamo che schiavi.Perdiamo diritti e ricchezze.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	obj	_	_
+4	paghiamo	pagare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	banche	banca	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	lavoriamo	lavorare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	coercitiva	coercitivo	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14	per	per	ADP	E	_	15	case	_	_
+15	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	13	obl	_	_
+16	dunque	dunque	ADV	B	_	10	advmod	_	_
+17	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+18	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	che	che	SCONJ	CS	_	20	mark	_	_
+20	schiavi.Perdiamo	schiavi.Perdare	PROPN	SP	_	10	nsubj	_	_
+21	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	ricchezze	ricchezza	NOUN	S	Gender=Fem|Number=Plur	21	conj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	20	punct	_	SpacesAfter=\n
+

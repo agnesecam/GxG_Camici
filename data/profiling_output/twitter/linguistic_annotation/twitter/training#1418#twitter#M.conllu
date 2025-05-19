@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Italia crei UCITS funds a 5/7 anni.
+1	Italia	Italia	PROPN	SP	_	3	nsubj	_	_
+2	crei	creare	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	UCITS	UCITS	X	SW	Foreign=Yes	0	root	_	_
+4	funds	funds	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	a	a	ADP	E	_	9	case	_	_
+6	5	5	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	7	7	NUM	N	NumType=Card	9	nummod	_	_
+9	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Con risparmi famiglie.
+1	Con	con	ADP	E	_	2	case	_	_
+2	risparmi	risparma	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	2	compound	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Investiamo migliori PMI che vogliono crescere.
+1	Investiamo	Investare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	3	amod	_	_
+3	PMI	PMI	PROPN	SP	_	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	vogliono	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	crescere	crescere	VERB	V	VerbForm=Inf	3	acl:relcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Finanziamo nostre aziende non USA
+1	Finanziamo	Finanzare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	aziende	azienda	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	USA	Usa	PROPN	SP	_	1	obl	_	SpacesAfter=\n
+

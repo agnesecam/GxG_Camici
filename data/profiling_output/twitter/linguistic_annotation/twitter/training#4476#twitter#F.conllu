@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spero che la mia bff venga a casa per vederla con me, anche se non segue twd dovrà sostenermi
+1	Spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	bff	bff	NOUN	S	_	6	nsubj	_	_
+6	venga	venire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+9	per	per	ADP	E	_	10	mark	_	_
+10-11	vederla	_	_	_	_	_	_	_	_
+10	veder	vedere	VERB	V	VerbForm=Inf	6	advcl	_	_
+11	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	10	punct	_	_
+15	anche	anche	ADV	B	_	18	mark	_	_
+16	se	se	SCONJ	CS	_	15	fixed	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	segue	seguire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+19	twd	twd	CCONJ	CC	_	21	cc	_	_
+20	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	cop	_	_
+21	sostenermi	sostenermo	NOUN	S	Gender=Masc|Number=Plur	18	conj	_	SpacesAfter=\n
+

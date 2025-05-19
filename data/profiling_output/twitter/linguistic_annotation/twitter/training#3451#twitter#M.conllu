@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un riconoscimento per ciò che si è fatto, un incoraggiamento per quello che si farà .
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	riconoscimento	riconoscimento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	incoraggiamento	incoraggiamento	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	nmod	_	_
+14	che	che	PRON	PR	PronType=Rel	16	obj	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl:impers	_	_
+16	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	acl:relcl	_	_
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Siamo pronti a continuare.
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	pronti	pronto	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	continuare	continuare	VERB	V	VerbForm=Inf	2	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/DQhfUWRQrk
+1	pic.twitter.com/DQhfUWRQrk	pic.twitter.com/DQhfUWRQrk	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

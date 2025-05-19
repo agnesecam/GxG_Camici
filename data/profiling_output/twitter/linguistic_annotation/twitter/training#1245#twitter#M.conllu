@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CASERTA.
+1	CASERTA	Caserta	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = RUBANO LIQUORI ED ALTRE MERCI DAI NEGOZI DEL CENTRO:
+1	RUBANO	RUBANO	PROPN	SP	_	0	root	_	_
+2	LIQUORI	liquori	PROPN	SP	_	1	flat:name	_	_
+3	ED	Ed	PROPN	SP	_	1	nmod	_	_
+4	ALTRE	altro	PROPN	SP	_	3	flat:name	_	_
+5	MERCI	merce	PROPN	SP	_	3	flat:name	_	_
+6-7	DAI	_	_	_	_	_	_	_	_
+6	DA	da	PROPN	SP	_	3	flat:name	_	_
+7	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	NEGOZI	negozi	PROPN	SP	_	1	flat:name	_	_
+9-10	DEL	_	_	_	_	_	_	_	_
+9	DI	Di	ADP	E	_	10	case	_	_
+10	IL	il	PROPN	SP	_	1	nmod	_	_
+11	CENTRO	Centro	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = FERMATI DALLA POLIZIA http://www.
+1	FERMATI	fermare	PROPN	SP	_	0	root	_	_
+2-3	DALLA	_	_	_	_	_	_	_	_
+2	DA	da	PROPN	SP	_	1	flat:name	_	_
+3	LA	La	PROPN	SP	_	1	flat:name	_	_
+4	POLIZIA	Polizia	PROPN	SP	_	1	flat:name	_	_
+5	http://www	http://www	NOUN	S	_	1	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = vairanonews.it/caserta-rubano -liquori-ed-merci-dai-negozi-del-centro-fermati-dalla-polizia/ …
+1	vairanonews.it/caserta-rubano	vairanonews.it/caserta-rubano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	-liquori-ed-merci-dai	-liquori-ed-merci-daio	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	-negozi-del-	_	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	centro	centro	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	fermati	fermare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	SpaceAfter=No
+7	-dalla-polizia	-dalla-polizia	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rompi i coglioni e non hai nemmeno il Wi-Fi che funziona ma ziaa
+1	Rompi	Rompi	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det:predet	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	coglioni	coglione	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	nemmeno	nemmeno	ADV	BN	PronType=Neg	6	advmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Wi-Fi	Wi-Fi	PROPN	SP	_	6	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	ma	ma	CCONJ	CC	_	13	cc	_	_
+13	ziaa	ziaare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	SpacesAfter=\n
+

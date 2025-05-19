@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un uomo deve sapersi distinguere dai maschi.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sapersi	sapere	VERB	V	VerbForm=Inf	0	root	_	_
+5	distinguere	distinguere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6-7	dai	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	maschi	maschio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Se non è in grado di farlo, dovrà accontentarsi di una femmina,... http:// fb.me/3Pe8CwjY6
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	grado	grado	NOUN	S	Gender=Masc|Number=Sing	11	advcl	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7-8	farlo	_	_	_	_	_	_	_	SpaceAfter=No
+7	far	fare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11-12	accontentarsi	_	_	_	_	_	_	_	_
+11	accontentar	accontentare	VERB	V	VerbForm=Inf	0	root	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	femmina,...	femmina,...	NOUN	S	_	11	obl	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/3Pe8CwjY6	fb.me/3Pe8CwjY6	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ATTENZIONE.
+1	ATTENZIONE	attenzione	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = QUALCUNA PUÓ DIRMI QUALE TWEET LIAM HA STELLINATO?
+1	QUALCUNA	QUALCUNA	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	PUÓ	PUÓ	PROPN	SP	_	0	root	_	_
+3-4	DIRMI	_	_	_	_	_	_	_	_
+3	DIR	dir	PROPN	SP	_	2	flat:name	_	_
+4	MI	mi	PROPN	SP	_	2	flat:name	_	_
+5	QUALE	quale	PROPN	SP	_	2	flat:name	_	_
+6	TWEET	tweet	PROPN	SP	_	5	flat:name	_	_
+7	LIAM	LIAM	PROPN	SP	_	5	flat:name	_	_
+8	HA	Ha	PROPN	SP	_	5	flat:name	_	_
+9	STELLINATO	STELLINATO	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

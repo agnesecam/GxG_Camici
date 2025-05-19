@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non so se e quando Gentile andrà in NBA, ma una luuunga occhiata a quella meccanica di tiro gliela dovranno dare.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	7	mark	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	quando	quando	SCONJ	CS	_	7	mark	_	_
+6	Gentile	gentile	PROPN	SP	_	7	nsubj	_	_
+7	andrà	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	NBA	NBA	PROPN	SP	_	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	23	punct	_	_
+11	ma	ma	CCONJ	CC	_	23	cc	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	luuunga	luuungo	NOUN	S	Gender=Fem|Number=Sing	23	nsubj	_	_
+14	occhiata	occhiata	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	_
+17	meccanica	meccanica	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	tiro	tiro	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
+20-21	gliela	_	_	_	_	_	_	_	_
+20	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	23	iobj	_	_
+21	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+22	dovranno	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	23	aux	_	_
+23	dare	dare	VERB	V	VerbForm=Inf	7	conj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sperando non sia tardi.
+1	Sperando	sperare	VERB	V	VerbForm=Ger	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	sia	essere	CCONJ	CC	_	4	cc	_	_
+4	tardi	tardi	ADV	B	_	1	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

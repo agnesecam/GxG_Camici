@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lauraboldrini a volte il silenzio potrebbe farla sembrare più intelligente.
+1	@lauraboldrini	@lauraboldrino	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	volte	volta	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7-8	farla	_	_	_	_	_	_	_	_
+7	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+8	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	intelligente	intelligente	ADJ	A	Number=Sing	9	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ci pensi e taccia per favore.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	pensi	pensare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	taccia	tacciare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	favore	favore	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Grazie.
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

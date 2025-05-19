@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cinquemila rose, 100mila petali bianchi e rossi sparsi dentro la fontana di piazza De Ferrari, galleggianti... http:// fb.me/3DUiTKZh2
+1	Cinquemila	cinquemila	NUM	N	NumType=Card	2	nummod	_	_
+2	rose	rosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	100mila	100mila	NUM	N	NumType=Card	5	nummod	_	_
+5	petali	petale	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+6	bianchi	bianco	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	rossi	rosso	ADJ	A	Gender=Masc|Number=Plur	6	conj	_	_
+9-10	sparsi	_	_	_	_	_	_	_	_
+9	spar	spare	VERB	V	VerbForm=Inf	8	advcl	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+11	dentro	dentro	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	fontana	fontana	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	piazza	piazza	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+16	De	De	PROPN	SP	_	13	nmod	_	_
+17	Ferrari	Ferrari	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	galleggianti...	galleggianti...	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	9	punct	_	_
+23	fb.me/3DUiTKZh2	fb.me/3DUiTKZh2	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

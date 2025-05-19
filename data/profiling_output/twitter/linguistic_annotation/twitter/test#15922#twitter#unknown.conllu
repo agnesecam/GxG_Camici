@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Complimenti @virginiaraggi 6 stata superlativa!
+1	Complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	@virginiaraggi	@virginiaraggio	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	6	6	NUM	N	NumType=Card	5	nummod	_	_
+4	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
+5	superlativa	superlativo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Chiunque sano di mente voterebbe te @OttoemezzoTW @La7tv #ottoemezzo https:// youtu.be/-2VM8Ntaapo
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	5	nsubj	_	_
+2	sano	sare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	mente	mente	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+5	voterebbe	votare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+7	@OttoemezzoTW	@OttoemezzoTW	PROPN	SP	_	5	obl	_	_
+8	@La7tv	@La7tv	PROPN	SP	_	7	flat:name	_	_
+9	#ottoemezzo	#ottoemezzo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+10	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	7	punct	_	_
+13	youtu.be/-2VM8Ntaapo	youtu.be/-2VM8Ntaapo	PROPN	SP	_	5	obl	_	SpacesAfter=\n
+

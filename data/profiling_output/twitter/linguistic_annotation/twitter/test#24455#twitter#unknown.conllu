@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #dimartedi Tanto noi ce la beviamo, che gliene frega .. .. e alla fine ce lo meritiamo .. https:// twitter.com/hagakure_jfp/s tatus/707322377642889218 …
+1	#dimartedi	#dimartedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+4	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	beviamo	bevare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	frega	frega	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	..	..	PUNCT	FF	_	10	punct	_	_
+12	..	..	PUNCT	FF	_	9	punct	_	_
+13	e	e	CCONJ	CC	_	19	cc	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	fine	fine	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	_
+17	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	meritiamo	meritare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	24	conj	_	_
+20	..	..	PUNCT	FF	_	24	punct	_	_
+21	https:	https:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	_
+24	twitter.com/hagakure_jfp/s	twitter.com/hagakure_jfp/s	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+25	tatus/707322377642889218	tatus/707322377642889218	NUM	N	NumType=Card	24	nummod	_	_
+26	…	…	PUNCT	FF	_	24	punct	_	SpacesAfter=\n
+

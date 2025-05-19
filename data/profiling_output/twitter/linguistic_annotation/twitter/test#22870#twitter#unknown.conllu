@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sfilare i pantaloni a lui è facilissimo:lo butti sul letto con uno spintone e glieli tiri via dai piedi no?
+1	Sfilare	Sfilare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	pantaloni	pantalone	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	facilissimo:lo	facilissimo:lare	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	butti	butto	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+9-10	sul	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	letto	letto	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	spintone	spintone	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16-17	glieli	_	_	_	_	_	_	_	_
+16	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+17	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+18	tiri	tirare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+19	via	via	ADV	B	_	22	case	_	_
+20-21	dai	_	_	_	_	_	_	_	_
+20	da	da	ADP	E	_	19	fixed	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+23	no	no	ADV	BN	PronType=Neg	22	advmod	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = che ce vò?
+1	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+2	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	vò	vare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #undressed
+1	#undressed	#undresse	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

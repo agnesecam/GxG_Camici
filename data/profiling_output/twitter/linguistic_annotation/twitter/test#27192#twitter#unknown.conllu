@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di logico non c'è niente, ahimè .
+1	Di	di	ADP	E	_	2	case	_	_
+2	logico	logico	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	ahimè	ahimè	INTJ	I	_	5	advmod	_	_
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = E se per caso concordi con quanto ho detto (che è la verità), il resto vien da sé.
+1	E	e	CCONJ	CC	_	18	cc	_	_
+2	se	se	SCONJ	CS	_	18	mark	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+5	concordi	concorde	ADJ	A	Number=Plur	4	amod	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+10	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+11	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	verità	verità	NOUN	S	Gender=Fem	9	obl	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	4	punct	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	resto	resto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+19	vien	venire	ADV	B	_	18	advmod	_	_
+20	da	da	ADP	E	_	21	case	_	_
+21	sé	sé	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	fixed	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/Seamus_The_Dog /status/707865006810013696 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/Seamus_The_Dog	twitter.com/Seamus_The_Dog	PROPN	SP	_	0	root	_	_
+5	/status/707865006810013696	/status/707865006810013696	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

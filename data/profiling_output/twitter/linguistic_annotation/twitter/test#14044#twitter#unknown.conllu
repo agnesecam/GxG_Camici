@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @luca59250261 in quel caso sareste persone normali, voi riuscite ad insultarvi senza aver nemmeno partecipato
+1	@luca59250261	@luca59250261	NUM	N	NumType=Card	6	nummod	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+5	sareste	saredere	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	persone	persona	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+7	normali	normale	ADJ	A	Number=Plur	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	6	appos	_	_
+10	riuscite	riuscire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+11	ad	a	ADP	E	_	12	mark	_	_
+12-13	insultarvi	_	_	_	_	_	_	_	_
+12	insultar	insultare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	12	obj	_	_
+14	senza	senza	ADP	E	_	17	mark	_	_
+15	aver	avere	AUX	VA	VerbForm=Inf	17	aux	_	_
+16	nemmeno	nemmeno	ADV	BN	PronType=Neg	17	advmod	_	_
+17	partecipato	partecipare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	SpacesAfter=\n
+

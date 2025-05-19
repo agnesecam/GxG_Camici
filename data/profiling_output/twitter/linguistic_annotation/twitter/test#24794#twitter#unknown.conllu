@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @usuallytired Mah, a parte i leghisti ci sono poi i non leghisti che la pensano uguale.
+1	@usuallytired	@usuallytire	CCONJ	CC	_	2	cc	_	_
+2	Mah	Mah	PROPN	SP	_	9	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	parte	parte	NOUN	S	Gender=Fem|Number=Sing	6	fixed	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	leghisti	leghista	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	poi	poi	ADV	B	_	9	advmod	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	leghisti	leghista	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	pensano	pensare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+17	uguale	uguale	ADJ	A	Number=Sing	16	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Se in tutto fossero solo il 10% farebbero 6 mln...
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	_
+4	fossero	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
+5	solo	solo	ADV	B	_	8	advmod	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	10	10	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+8	%	%	SYM	SYM	_	9	nsubj	_	_
+9	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	6	6	NUM	N	NumType=Card	9	nummod	_	_
+11	mln...	mln...	NOUN	S	Gender=Masc	9	xcomp	_	SpacesAfter=\n
+

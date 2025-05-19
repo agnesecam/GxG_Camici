@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quella troia della @serenameglio99 mi ha portato fino ad Ancona facendomi credere che stasera ci saremmo spaccate a un 18 e invece-
+1	Quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	troia	troia	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	@serenameglio99	@serenameglio99	NUM	N	NumType=Card	2	nmod	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	obj	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	portato	portare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	fino	fino	ADV	B	_	11	case	_	_
+10	ad	a	ADP	E	_	9	fixed	_	_
+11	Ancona	Ancona	PROPN	SP	_	8	obl	_	_
+12-13	facendomi	_	_	_	_	_	_	_	_
+12	facendo	fare	VERB	V	VerbForm=Ger	8	advcl	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+14	credere	credere	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	che	che	SCONJ	CS	_	19	mark	_	_
+16	stasera	stasera	ADV	B	_	19	advmod	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	_
+18	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
+19	spaccate	spaccare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	14	ccomp	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	18	18	NUM	N	NumType=Card	19	obl	_	_
+23	e	e	CCONJ	CC	_	24	cc	_	_
+24	invece	invece	ADV	B	_	19	advmod	_	SpaceAfter=No
+25	-	-	PUNCT	FB	_	8	punct	_	SpacesAfter=\n
+

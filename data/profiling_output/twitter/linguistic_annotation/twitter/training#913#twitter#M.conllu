@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giempi68
+1	@giempi68	@giempi68	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = È come se l' avessimo già vinta!
+1	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADV	B	_	7	advmod	_	_
+3	se	se	SCONJ	CS	_	7	mark	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	vinta	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

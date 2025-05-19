@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RoXDarkhunterdC beh...per come sto qua...
+1	@RoXDarkhunterdC	@RoXDarkhunterdC	ADV	B	_	2	advmod	_	_
+2	beh...per	beh...pere	VERB	V	VerbForm=Inf	0	root	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	sto	sto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+5	qua...	qua.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Certo, se non mi facessero saltare per aria sarebbe meglio...
+1	Certo	certo	ADV	B	_	11	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	_
+7	saltare	saltare	VERB	V	VerbForm=Inf	11	csubj	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	aria	aria	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+10	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	meglio..	meglio	NOUN	S	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

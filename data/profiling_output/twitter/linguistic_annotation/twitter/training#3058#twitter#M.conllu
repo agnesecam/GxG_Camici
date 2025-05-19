@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @anna_salvaje @sameaslife oppure te Stesso, anche se può sembrare Strano!
+1	@anna_salvaje	@anna_salvaje	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	@sameaslife	@sameaslife	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	oppure	oppure	CCONJ	CC	_	4	cc	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	conj	_	_
+5	Stesso	stesso	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	anche	anche	ADV	B	_	10	mark	_	_
+8	se	se	SCONJ	CS	_	7	fixed	_	_
+9	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	1	advcl	_	_
+11	Strano	strano	PROPN	SP	_	10	xcomp	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!!
+1	!!!!!!	!!!!!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

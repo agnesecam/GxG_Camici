@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Praticamente questo tizio ha separato due che stavano limonando per vendergli un bastone da selfie.
+1	Praticamente	praticamente	ADV	B	_	5	advmod	_	_
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	tizio	tizio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	separato	separato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	due	due	NUM	N	NumType=Card	5	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	limonando	limonare	VERB	V	VerbForm=Ger	6	acl:relcl	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11-12	vendergli	_	_	_	_	_	_	_	_
+11	vender	vendere	VERB	V	VerbForm=Inf	9	advcl	_	_
+12	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	bastone	bastone	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+15	da	da	ADP	E	_	16	case	_	_
+16	selfie	selfia	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Io glielo avrei fatto ingoiare intero.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2-3	glielo	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	ingoiare	ingoiare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+7	intero	intero	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La politica è fuori di testa . Chiudono le nostre stalle per comprare il latte in Europa . http:// fb.me/11w1u3vTt
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	politica	politica	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	fuori	fuori	ADV	B	_	6	case	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	testa	testa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	FS	_	8	punct	_	_
+8	Chiudono	Chiudire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	stalle	stalla	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	comprare	comprare	VERB	V	VerbForm=Inf	8	advcl	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	latte	latte	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	Europa	Europa	PROPN	SP	_	13	obl	_	_
+18	.	.	PUNCT	FS	_	8	punct	_	_
+19	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	8	punct	_	_
+22	fb.me/11w1u3vTt	fb.me/11w1u3vTt	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

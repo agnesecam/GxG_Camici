@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vidi salire dal mare una bestia che aveva dieci corna e sette teste, sulle corna dieci diademi e su ciascuna testa pic.twitter.com/0tez1NcuIs
+1	Vidi	Vidio	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	salire	salire	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3-4	dal	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mare	mare	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	bestia	bestia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
+10	dieci	dieci	NUM	N	NumType=Card	11	nummod	_	_
+11	corna	corna	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	sette	sette	NUM	N	NumType=Card	14	nummod	_	_
+14	teste	testa	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	18	punct	_	_
+16-17	sulle	_	_	_	_	_	_	_	_
+16	su	su	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	corna	corna	NOUN	S	Gender=Fem	11	conj	_	_
+19	dieci	dieci	NUM	N	NumType=Card	20	nummod	_	_
+20	diademi	diadema	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
+21	e	e	CCONJ	CC	_	24	cc	_	_
+22	su	su	ADP	E	_	24	case	_	_
+23	ciascuna	ciascuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	24	det	_	_
+24	testa	testa	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	_
+25	pic.twitter.com/0tez1NcuIs	pic.twitter.com/0tez1NcuIs	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = è necessaria una unità di dottrina e di prassi, ma ciò non impedisce che esistano diversi modi di interpretare alcuni aspetti della dottrina
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	necessaria	necessario	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	unità	unità	NOUN	S	Gender=Fem	2	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	dottrina	dottrina	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	prassi	prasso	NOUN	S	Gender=Fem	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	14	punct	_	_
+11	ma	ma	CCONJ	CC	_	14	cc	_	_
+12	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	impedisce	impedire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+15	che	che	SCONJ	CS	_	16	mark	_	_
+16	esistano	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+17	diversi	diverso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
+18	modi	modo	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+19	di	di	ADP	E	_	20	mark	_	_
+20	interpretare	interpretare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+21	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	22	det	_	_
+22	aspetti	aspetto	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	_
+23-24	della	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	dottrina	dottrino	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	SpacesAfter=\n
+

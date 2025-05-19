@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @web_lucia @lauramari64 @franca_canzani @50809e70fc29437 ahh!!
+1	@web_lucia	@web_luciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@lauramari64	@lauramari64	NUM	N	NumType=Card	3	nummod	_	_
+3	@franca_canzani	@franca_canzano	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	@50809e70fc29437	@50809e70fc29437	NUM	N	NumType=Card	5	nummod	_	_
+5	ahh	ahh	NOUN	S	Gender=Masc	3	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = A me la rucola piace moltissimo, non sapevo se ne facesse anche un amaro
+1	A	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	rucola	rucola	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	moltissimo	molto	ADV	B	Degree=Abs	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	conj	_	_
+10	se	si	SCONJ	CS	_	12	mark	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+12	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+13	anche	anche	ADV	B	_	15	advmod	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	amaro	amaro	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpacesAfter=\n
+

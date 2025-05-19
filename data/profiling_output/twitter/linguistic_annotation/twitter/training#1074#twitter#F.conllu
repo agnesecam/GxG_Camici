@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se, inizio a levarmi i sassolini dalla scarpa, poi arrivano gli anziani a controllare il cantiere
+1	Se	se	SCONJ	CS	_	13	mark	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	inizio	iniziare	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	levarmi	arma|levarme	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	sassolini	sassolino	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	scarpa	scarpa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	poi	poi	ADV	B	_	13	advmod	_	_
+13	arrivano	arrivare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	anziani	anziano	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	controllare	controllare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	cantiere	cantiere	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpacesAfter=\n
+

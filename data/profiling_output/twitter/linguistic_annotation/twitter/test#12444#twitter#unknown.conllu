@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Aggiornamento sulla petizione - Nessuna risposta https://www.
+1	Aggiornamento	aggiornamento	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+2-3	sulla	_	_	_	_	_	_	_	_
+2	su	su	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	petizione	petizione	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	-	-	PUNCT	FB	_	1	punct	_	_
+6	Nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	risposta	risposta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+8	https://www	https://www	NOUN	S	_	7	compound	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = change.org/p/6622478/u/16 129382?
+1	change.org/p/6622478/u/16	change.org/p/6622478/u/16	SYM	X	_	0	root	_	_
+2	129382	129382	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = recruiter=356048508&utm_campaign=petition_update_email_twitter_dialog&utm_medium=twitter&utm_source=petition_update … via @ChangeItalia
+1	recruiter=356048508&utm_campaign=petition_update_email_twitter_dialog&utm_medium=twitter&utm_source=petition_update	recruiter=356048508&utm_campaign=petition_update_email_twitter_dialog&utm_medium=twitter&utm_source=petition_updare	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	…	…	PUNCT	FF	_	3	punct	_	_
+3	via	via	NOUN	S	Gender=Fem|Number=Sing	1	compound	_	_
+4	@ChangeItalia	@ChangeItalia	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

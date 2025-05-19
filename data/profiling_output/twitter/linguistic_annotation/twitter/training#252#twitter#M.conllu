@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SantucciFulvio Esatto.
+1	@SantucciFulvio	@SantucciFulvio	PROPN	SP	_	0	root	_	_
+2	Esatto.	Esatto.	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..Peccato che negli anni 90 almeno avessimo i soldi a pararci il culo
+1	..Peccato	..Peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	che	che	SCONJ	CS	_	8	mark	_	_
+3-4	negli	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+6	90	90	NUM	N	NumType=Card	5	nummod	_	_
+7	almeno	almeno	ADV	B	_	8	advmod	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12-13	pararci	_	_	_	_	_	_	_	_
+12	parar	pararre	VERB	V	VerbForm=Inf	8	advcl	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	culo	culo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpacesAfter=\n
+

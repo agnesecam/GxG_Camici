@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Neppure 15 minuti e 6 promesse di #iovotosi da parte di persone che neppure sapevano esserci il referendum.....
+1	Neppure	neppure	ADV	BN	PronType=Neg	3	advmod	_	_
+2	15	15	NUM	N	NumType=Card	3	nummod	_	_
+3	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	6	6	NUM	N	NumType=Card	6	nummod	_	_
+6	promesse	promessa	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	#iovotosi	#iovotoso	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	parte	parte	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	persone	persona	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	neppure	neppure	ADV	BN	PronType=Neg	15	advmod	_	_
+15	sapevano	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	acl:relcl	_	_
+16-17	esserci	_	_	_	_	_	_	_	_
+16	esser	essere	VERB	V	VerbForm=Inf	15	xcomp	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	referendum.....	referendum.....	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+
+# sent_id = 2
+# text = Son soddisfazioni
+1	Son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	soddisfazioni	soddisfazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

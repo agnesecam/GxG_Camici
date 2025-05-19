@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Dedalusx al popolo non gliene frega proprio 'n cazzo di quello fai in solitaria!
+1	@Dedalusx	@Dedalusx	NOUN	S	_	6	nsubj	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	frega	frega	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	proprio	proprio	ADV	B	_	10	advmod	_	_
+9	'n	'no	ADP	E	_	10	case	_	_
+10	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	nmod	_	_
+13	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	solitaria	solitaria	ADJ	A	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque i commessi di foot locker venderebbero anche la loro madre.
+1	Comunque	comunque	ADV	B	_	7	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	commessi	commesso	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	foot	foot	NOUN	S	_	3	nmod	_	_
+6	locker	lockere	NOUN	S	_	5	compound	_	_
+7	venderebbero	vendere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	anche	anche	ADV	B	_	11	advmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	loro	loro	DET	AP	Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	madre.	madre.	NOUN	S	_	7	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Se solo non l' avessero già venduta
+1	Se	se	SCONJ	CS	_	7	mark	_	_
+2	solo	solo	ADV	B	_	7	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+5	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	venduta	vendere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

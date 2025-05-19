@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La #MicrosoftStory di oggi è un pezzo della storia di ciascuno !
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	#MicrosoftStory	#MicrosoftStory	PROPN	SP	_	7	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	oggi	oggi	ADV	B	_	2	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	storia	storia	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	nmod	_	_
+13	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Te lo ricordi ;) ?
+1	Te	te	ADV	B	_	3	advmod	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ricordi	ricordo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	;	;	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	3	punct	_	_
+6	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #TBT http:// soc.fm/24hNjM7k
+1	#TBT	#TBT	ADV	B	_	5	advmod	_	_
+2	http:	http:	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	_
+5	soc.fm/24hNjM7k	soc.fm/24hNjM7k	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In Cammino:
+1	In	in	ADP	E	_	2	case	_	_
+2	Cammino	cammino	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = PANE QUOTIDIANO,«Se dunque io, il Signore e il Mae... http:// antoniobortoloso.blogspot.com/2016/03/pane-q uotidianose-dunque-io-il-signore.html?spref=tw …
+1	PANE	pane	PROPN	SP	_	0	root	_	_
+2	QUOTIDIANO	quotidiano	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	«	«	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+5	Se	se	SCONJ	CS	_	17	mark	_	_
+6	dunque	dunque	ADV	B	_	7	advmod	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Signore	signore	PROPN	SP	_	7	appos	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Mae...	Mae...	PROPN	SP	_	7	conj	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	antoniobortoloso.blogspot.com/2016/03/pane-q	antoniobortoloso.blogspot.com/2016/03/pane-q	NOUN	S	_	1	appos	_	_
+18	uotidianose-dunque-io-il-signore.html	uotidianose-dunque-io-il-signore.html	ADJ	A	Number=Sing	17	amod	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+20	spref=tw	spref=tw	NOUN	S	Gender=Masc	17	nmod	_	_
+21	…	…	PUNCT	FF	_	17	punct	_	SpacesAfter=\n
+

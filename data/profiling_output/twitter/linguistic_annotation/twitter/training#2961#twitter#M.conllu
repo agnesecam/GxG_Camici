@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LoreSerafins @EdDzeko lo ha segnato facendolo sembrare il gol più semplice da realizzare
+1	@LoreSerafins	@LoreSerafins	PROPN	SP	_	5	nsubj	_	_
+2	@EdDzeko	@EdDzeko	PROPN	SP	_	1	flat:name	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	segnato	segnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	facendolo	facendolo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	gol	gol	NOUN	S	Gender=Masc	7	obj	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	semplice	semplice	ADJ	A	Number=Sing	9	amod	_	_
+12	da	da	ADP	E	_	13	mark	_	_
+13	realizzare	realizzare	VERB	V	VerbForm=Inf	7	acl	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #archeologia #antropologia #mistero #evoluzione Il mistero del cranio di 20 mila anni fa http:// lifarnur.blogspot.com/2016/04/il-mis tero-del-cranio-di-20-mila-anni-fa.html?spref=tw …
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	archeologia	archeologia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	antropologia	antropologia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	#mistero	#mistero	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	_
+6	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+7	evoluzione	evoluzione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+8	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mistero	mistero	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cranio	cranio	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	_
+13	di	di	ADP	E	_	16	case	_	_
+14	20	20	NUM	N	NumType=Card	16	nummod	_	_
+15	mila	mila	NUM	N	NumType=Card	14	flat	_	_
+16	anni	anno	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
+17	fa	fa	ADV	B	_	12	advmod	_	_
+18	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	12	punct	_	_
+21	lifarnur.blogspot.com/2016/04/il-mis	lifarnur.blogspot.com/2016/04/il-mis	NOUN	S	Gender=Masc|Number=Sing	12	appos	_	_
+22	tero-del-cranio-di-20-mila-anni-fa.html	tero-del-cranio-di-20-mila-anni-fa.html	ADJ	A	Number=Sing	21	amod	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	21	punct	_	SpaceAfter=No
+24	spref=tw	spref=tw	NOUN	S	Gender=Masc	9	compound	_	_
+25	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

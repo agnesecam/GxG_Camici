@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dietnam Comunque capisco la tua esperienza:
+1	@dietnam	@dietnam	X	SW	Foreign=Yes	0	root	_	_
+2	Comunque	comunque	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	capisco	capire	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = la mia prima al HMH fu poi con il doppio trauma "SONO LE 22:30 E SIAMO USCITI CON LA LUCEFUORI"
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mia	mio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	nsubj	_	_
+3	prima	prima	ADV	B	_	6	case	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	3	fixed	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	HMH	HMH	PROPN	SP	_	12	obl	_	_
+7	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
+8	poi	poi	ADV	B	_	12	advmod	_	_
+9	con	con	ADP	E	_	12	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	doppio	doppio	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	trauma	trauma	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+13	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	LE	Le	PROPN	SP	_	0	root	_	_
+16	22:30	22:30	NUM	N	NumType=Card	15	nummod	_	_
+17	E	e	CCONJ	CC	_	19	cc	_	_
+18	SIAMO	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	USCITI	uscire	PROPN	SP	_	15	conj	_	_
+20	CON	con	PROPN	SP	_	19	flat:name	_	_
+21	LA	La	PROPN	SP	_	19	flat:name	_	_
+22	LUCEFUORI	LUCEFUORI	PROPN	SP	_	19	flat:name	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	19	punct	_	SpacesAfter=\n
+

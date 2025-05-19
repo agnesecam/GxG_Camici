@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidente piattaforma #DeepwaterHorizon nel #GolfodelMessico , #Bp dovrà risarcire 20 mld -ANSA.it http://www.
+1	Incidente	incidente	ADJ	A	Number=Sing	2	amod	_	_
+2	piattaforma	piattaforma	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	DeepwaterHorizon	DeepwaterHorizon	PROPN	SP	_	2	nmod	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#GolfodelMessico	#GolfodelMessico	PROPN	SP	_	4	nmod	_	_
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	#Bp	#Bp	PROPN	SP	_	11	nsubj	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	_
+12	20	20	NUM	N	NumType=Card	13	nummod	_	_
+13	mld	mld	X	SW	Foreign=Yes	11	obj	_	_
+14	-ANSA.it	-ANSA.it	X	SW	Foreign=Yes	13	flat:foreign	_	_
+15	http://www	http://www	X	SW	Foreign=Yes	13	flat:foreign	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = ansa.it/sito/notizie/m ondo/2016/04/04/marea-nera-bp-dovra-risarcire-20-mld_2b4cb8b6-1c65-42e9-a081-0d964d97cc96.html … via @Agenzia_Ansa
+1	ansa.it/sito/notizie/m	ansa.it/sito/notizie/m	NOUN	S	Gender=Masc	0	root	_	_
+2	ondo/2016/	ondo/2016/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	04	04	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+4	/04	/04	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	marea-nera-bp-dovra	marea-nera-bp-dovra	ADP	E	_	7	mark	_	SpaceAfter=No
+7	-risarcire	-risarcire	VERB	V	VerbForm=Inf	4	acl	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	20	20	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	mld_2b4cb8b6	mld_2b4cb8b6	NUM	N	NumType=Card	9	compound	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	1c65-42e9-a081-0d964d97cc96.html	1c65-42e9-a081-0d964d97cc96.html	ADJ	A	Gender=Masc|Number=Sing	7	conj	_	_
+14	…	…	PUNCT	FF	_	13	punct	_	_
+15	via	via	ADV	B	_	13	advmod	_	_
+16	@Agenzia_Ansa	@Agenzia_Ansa	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

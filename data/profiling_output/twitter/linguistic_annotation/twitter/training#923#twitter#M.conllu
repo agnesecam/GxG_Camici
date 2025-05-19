@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Occlusione dentale: e se avessimo sbagliato tutto?
+1	Occlusione	Occlusione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	dentale	dentale	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	sbagliato	sbagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+8	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/5hcdWPTTP
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/5hcdWPTTP	fb.me/5hcdWPTTP	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

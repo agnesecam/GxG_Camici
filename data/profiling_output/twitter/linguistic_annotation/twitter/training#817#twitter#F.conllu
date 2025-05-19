@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sarebbe bello ma se avessimo anche ordine ed efficienza avremmo troppo rispetto agli altri #Roma pic.twitter.com/t5qhCNor8C
+1	Sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	bello	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	ma	ma	CCONJ	CC	_	7	cc	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	anche	anche	ADV	B	_	7	advmod	_	_
+7	ordine	ordine	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+8	ed	e	CCONJ	CC	_	9	cc	_	_
+9	efficienza	efficienza	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+10	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	troppo	troppo	ADV	B	_	12	advmod	_	_
+12	rispetto	rispetto	ADV	B	_	15	case	_	_
+13-14	agli	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	12	fixed	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	_
+16	#Roma	#Roma	PROPN	SP	_	15	nmod	_	_
+17	pic.twitter.com/t5qhCNor8C	pic.twitter.com/t5qhCNor8C	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

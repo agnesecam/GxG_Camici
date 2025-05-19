@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #giornatacontrolemafie pensate ke paese bellissimo sarebbe il nostro se nn avessimo questi ignobili personaggi mafiosi.
+1	#giornatacontrolemafie	#giornatacontrolemafia	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	pensate	pensare	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	ke	ke	ADJ	A	Number=Sing	4	amod	_	_
+4	paese	paese	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	4	amod	_	_
+6	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	nostro	nostro	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	0	root	_	_
+9	se	se	SCONJ	CS	_	11	mark	_	_
+10	nn	nno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+11	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	8	advcl	_	_
+12	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+13	ignobili	ignobile	ADJ	A	Number=Plur	14	amod	_	_
+14	personaggi	personaggio	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+15	mafiosi.	mafiosi.	NOUN	S	_	14	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...ke sogno......
+1	...ke	...ke	ADV	B	_	0	root	_	_
+2	sogno.....	sogno...	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

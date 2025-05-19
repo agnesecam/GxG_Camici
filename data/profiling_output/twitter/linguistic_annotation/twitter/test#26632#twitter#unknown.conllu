@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FagalliMsf @SteJuve33 @juventusfc a me è sembrato che i pigliarci stasera lo siate voi.
+1	@FagalliMsf	@FagalliMsf	ADP	E	_	2	case	_	_
+2	@SteJuve33	@SteJuve33	PROPN	SP	_	7	obl	_	_
+3	@juventusfc	@juventusfc	ADV	B	_	7	advmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	che	che	SCONJ	CS	_	14	mark	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10-11	pigliarci	_	_	_	_	_	_	_	_
+10	pigliar	pigliar	NOUN	S	_	14	nsubj	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	expl	_	_
+12	stasera	stasera	ADV	B	_	14	advmod	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	siate	siare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+15	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = andate a lezione di sportività da Guardiola.
+1	andate	andare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	lezione	lezione	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	sportività	sportività	NOUN	S	Gender=Fem	3	nmod	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	Guardiola	Guardiola	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

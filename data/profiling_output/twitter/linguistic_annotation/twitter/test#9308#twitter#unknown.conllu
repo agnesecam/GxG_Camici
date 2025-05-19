@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I miei monologhi neppure il mio gatto li riesce a sentire #altainfedelta
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	monologhi	monologo	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+4	neppure	neppure	ADV	BN	PronType=Neg	7	advmod	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	sentire	sentire	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	#altainfedelta	#altainfedelto	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpacesAfter=\n
+

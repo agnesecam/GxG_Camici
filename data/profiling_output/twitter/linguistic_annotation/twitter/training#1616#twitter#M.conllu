@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MatrixEsiste Questo, se è vero, non ha senso.
+1	@MatrixEsiste	@MatrixEsistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+2	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	vero	vero	ADJ	A	Gender=Masc|Number=Sing	9	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	senso	senso	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Sono costi idioti.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	costi	costo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	idioti	idioto	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Io dico che noi dovremmo usare prima le nostre risorse, finché consumiano
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+5	dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	usare	usare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+7	prima	prima	ADV	B	_	6	advmod	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	risorse	risorsa	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	2	punct	_	_
+12	finché	finché	SCONJ	CS	_	13	mark	_	_
+13	consumiano	consumiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	SpacesAfter=\n
+

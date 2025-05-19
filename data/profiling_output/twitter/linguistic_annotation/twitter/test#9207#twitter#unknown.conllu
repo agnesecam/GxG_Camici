@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Neppure il Consiglio di Stato salva il CNF https:// lnkd.in/dguJhQ2
+1	Neppure	neppure	ADV	BN	PronType=Neg	3	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Consiglio	consiglio	PROPN	SP	_	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Stato	stato	PROPN	SP	_	3	nmod	_	_
+6	salva	salvo	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	CNF	CNF	PROPN	SP	_	6	nsubj	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	lnkd.in/dguJhQ2	lnkd.in/dguJhQ2	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

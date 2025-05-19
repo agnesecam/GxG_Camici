@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @guido_pandozy @ChiaraProdi preparati a perdere, la Chiara ha già detto che ci guarda quindi avremo un giudice
+1	@guido_pandozy	@guido_pandozy	CCONJ	CC	_	2	cc	_	_
+2	@ChiaraProdi	@ChiaraProdi	PROPN	SP	_	11	nsubj	_	_
+3	preparati	preparare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	perdere	perdere	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Chiara	Chiara	PROPN	SP	_	11	nsubj	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	già	già	ADV	B	_	11	advmod	_	_
+11	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	che	che	SCONJ	CS	_	14	mark	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	expl	_	_
+14	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+15	quindi	quindi	ADV	B	_	14	advmod	_	_
+16	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	14	advcl	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	giudice	giudice	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpacesAfter=\n
+

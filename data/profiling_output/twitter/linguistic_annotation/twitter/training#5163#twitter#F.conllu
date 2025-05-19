@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = si sente con qualcuna ?
+1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	_
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = — Buggio non credo, me lo direbbe https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NMZSDDXJA3W356XEVKCGS2J7FI2AT5AJKQFZEM6QBRK227QHYEJJWDKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U====== …
+1	—	—	PUNCT	FF	_	4	punct	_	_
+2	Buggio	Buggio	PROPN	SP	_	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	direbbe	dire	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	4	punct	_	_
+12	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	4	parataxis	_	_
+13	7B667HQMHN2IG6NMZSDDXJA3W356XEVKCGS2J7FI2AT5AJKQFZEM6QBRK227QHYEJJWDKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U======	7B667HQMHN2IG6NMZSDDXJA3W356XEVKCGS2J7FI2AT5AJKQFZEM6QBRK227QHYEJJWDKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U======	PROPN	SP	_	12	flat:name	_	_
+14	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

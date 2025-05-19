@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @riccardofabbri6 @FattoriTommaso ma dio boia lo dicevo che era un complotto e che mi stavate prendendo per il culo da stamattina
+1	@riccardofabbri6	@riccardofabbri6	SYM	X	_	5	nsubj	_	_
+2	@FattoriTommaso	@FattoriTommaso	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	dio	dio	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+5	boia	boia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	dicevo	dire	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	complotto	complotto	NOUN	S	Gender=Masc|Number=Sing	7	acl:relcl	_	_
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	expl	_	_
+15	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	prendendo	prendere	VERB	V	VerbForm=Ger	11	conj	_	_
+17	per	per	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	culo	culo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+20	da	da	ADP	E	_	21	case	_	_
+21	stamattina	stamattina	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpacesAfter=\n
+

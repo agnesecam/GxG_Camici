@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Feltrinelli ipocriti:
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Feltrinelli	Feltrinelli	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	ipocriti	ipocrire	ADJ	A	Number=Plur	2	amod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = "Ospitare il figlio di #Riina non rientra nelle nostre politiche", ma distribuiscono e incassano.
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Ospitare	ospitare	VERB	V	VerbForm=Inf	8	csubj	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	#Riina	#Riina	PROPN	SP	_	4	nmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	rientra	rientrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-10	nelle	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	politiche	politica	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	ma	ma	CCONJ	CC	_	16	cc	_	_
+16	distribuiscono	distribuire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	incassano	incassare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = Vergogna.
+1	Vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

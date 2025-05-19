@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = nella season3 Daredevil dovrà fare a pugni contro tutto lo SHIELD per la legge dei grandi numeri
+1-2	nella	_	_	_	_	_	_	_	_
+1	in	in	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	season3	season3	NUM	N	NumType=Card	4	nummod	_	_
+4	Daredevil	Daredevil	PROPN	SP	_	6	obl	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	pugni	pugno	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+9	contro	contro	ADP	E	_	12	case	_	_
+10	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	12	det:predet	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	SHIELD	SHIELD	PROPN	SP	_	8	nmod	_	_
+13	per	per	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	legge	legge	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+16-17	dei	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	19	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	grandi	grande	ADJ	A	Number=Plur	19	amod	_	_
+19	numeri	numero	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpacesAfter=\n
+

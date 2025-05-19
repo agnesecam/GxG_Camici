@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L' avevamo detto.
+1	L'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	avevamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Post datato dicembre 2014: #guidi #governofossile #petrolio #temparossa http://www.
+1	Post	post	ADV	B	_	3	advmod	_	_
+2	datato	datato	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	dicembre	dicembre	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	2014	2014	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	#guidi	#guido	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+7	#governofossile	#governofossile	ADJ	A	Number=Sing	8	amod	_	_
+8	#petrolio	#petrolio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+9	#temparossa	#temparosso	ADJ	A	Number=Sing	10	amod	_	_
+10	http://www	http://www	NOUN	S	_	8	compound	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = mirellaliuzzi.it/quando-lopera- strategica-eviolazione-dei-diritti/ … pic.twitter.com/dvAYuKakeN
+1	mirellaliuzzi.it/quando-lopera-	_	PUNCT	FB	_	2	punct	_	_
+2	strategica-eviolazione	strategica-eviolazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	-dei	-di	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+4	-diritti	-diritto	NOUN	S	Gender=Masc|Number=Plur	2	compound	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	…	…	PUNCT	FF	_	2	punct	_	_
+7	pic.twitter.com/dvAYuKakeN	pic.twitter.com/dvAYuKakeN	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

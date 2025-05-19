@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Seguendo le notizie da internet, perché ripeto dalla tv IMPARZIALE ED OBBIETTIVA italiana nulla finora trapela né trapelerà avendo capito la
+1	Seguendo	seguire	VERB	V	VerbForm=Ger	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	notizie	notizia	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	internet	internet	NOUN	S	Gender=Masc	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	perché	perché	SCONJ	CS	_	8	mark	_	_
+8	ripeto	ripetere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	tv	tv	NOUN	S	Gender=Fem	8	obl	_	_
+12	IMPARZIALE	imparziale	PROPN	SP	_	11	nmod	_	_
+13	ED	Ed	PROPN	SP	_	18	nsubj	_	_
+14	OBBIETTIVA	OBBIETTIVA	PROPN	SP	_	13	flat:name	_	_
+15	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	18	obj	_	_
+17	finora	finora	ADV	B	_	16	advmod	_	_
+18	trapela	trapelare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+19	né	né	CCONJ	CC	_	20	cc	_	_
+20	trapelerà	trapelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	conj	_	_
+21	avendo	avere	AUX	VA	VerbForm=Ger	22	aux	_	_
+22	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	conj	_	_
+23	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	obj	_	SpacesAfter=\n
+

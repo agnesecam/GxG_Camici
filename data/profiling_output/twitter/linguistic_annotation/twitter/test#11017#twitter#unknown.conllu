@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Purtroppo c'é sempre più bisogno di telefono azzurro!
+1	Purtroppo	purtroppo	ADV	B	_	6	advmod	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No
+3	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	sempre	sempre	ADV	B	_	5	advmod	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	azzurro	azzurro	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/telefonoazzurr o/status/718004745273786368 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/telefonoazzurr	twitter.com/telefonoazzurre	VERB	V	VerbForm=Inf	0	root	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	SpaceAfter=No
+6	/status/718004745273786368	/status/718004745273786368	NUM	N	NumType=Card	4	conj	_	_
+7	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

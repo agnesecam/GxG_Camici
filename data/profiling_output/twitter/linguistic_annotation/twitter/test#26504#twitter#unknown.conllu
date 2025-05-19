@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GiorgioIacoboni @enzo_boschi tranquillo, le scorie le avremo comunque sempre anche per altre attività medicali, industriali e di ricerca
+1	@GiorgioIacoboni	@GiorgioIacobone	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	@enzo_boschi	@enzo_bosco	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	tranquillo	tranquillo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	scorie	scoria	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	_
+7	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	comunque	comunque	ADV	B	_	10	advmod	_	_
+10	sempre	sempre	ADV	B	_	11	advmod	_	_
+11	anche	anche	ADV	B	_	14	advmod	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	altre	altro	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+14	attività	attività	NOUN	S	Gender=Fem	8	obl	_	_
+15	medicali	medicale	ADJ	A	Number=Plur	14	amod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	17	punct	_	_
+17	industriali	industriale	ADJ	A	Number=Plur	15	conj	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	ricerca	ricerca	NOUN	S	Gender=Fem|Number=Sing	15	conj	_	SpacesAfter=\n
+

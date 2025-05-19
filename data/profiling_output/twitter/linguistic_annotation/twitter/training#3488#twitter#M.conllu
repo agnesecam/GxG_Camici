@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dopo le critiche,il Milan farà una partita di orgoglio e rabbia,come l inter in CI...può secondo voi il +6 distrarre la squadra?
+1	Dopo	dopo	ADP	E	_	3	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	critiche,il	critiche,il	NOUN	S	_	5	obl	_	_
+4	Milan	Milan	PROPN	SP	_	3	nmod	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	partita	partita	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	orgoglio	orgoglio	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	rabbia,come	rabbia,come	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	_
+12	l	l	X	X	_	20	nsubj	_	_
+13	inter	inter	X	SW	Foreign=Yes	12	flat:foreign	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	CI...può	Ci...può	PROPN	SP	_	20	obl	_	_
+16	secondo	secondo	ADP	E	_	17	case	_	_
+17	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	20	obl	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	+6	+6	NUM	N	NumType=Card	20	nsubj	_	_
+20	distrarre	distrarre	VERB	V	VerbForm=Inf	5	ccomp	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	20	punct	_	_
+
+# sent_id = 2
+# text = #Jtvlive
+1	#Jtvlive	#Jtvlive	ADV	B	_	0	root	_	SpacesAfter=\n
+

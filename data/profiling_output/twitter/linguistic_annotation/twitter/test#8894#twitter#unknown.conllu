@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alla Camera l’ultimo sfregio a Regeni:
+1-2	Alla	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Camera	Camera	PROPN	SP	_	6	nmod	_	_
+4	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+5	ultimo	ultimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	sfregio	sfregio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Regeni	Regeno	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = aula vuota, non c’è neppure la Boldrini http://www.
+1	aula	aula	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+2	vuota	vuoto	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	c’	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	neppure	neppure	ADV	BN	PronType=Neg	6	advmod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Boldrini	Boldrini	PROPN	SP	_	6	nsubj	_	_
+10	http://www	http://www	NOUN	S	_	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = stopeuro.org/alla-camera-lu ltimo-sfregio-a-regeni-aula-vuota-non-ce-neppure-la-boldrini/ …
+1	stopeuro.org/alla-camera-lu	istopeuro.org/alla-camera-l	ADP	E	_	3	case	_	_
+2	ltimo	ltimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	SpaceAfter=No
+3	-sfregio	-sfregio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	a-regeni-aula-vuota-non-	_	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+6	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	SpaceAfter=No
+7	-neppure-la	-neppure-lare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	boldrini	boldrino	NOUN	S	Gender=Masc|Number=Plur	7	parataxis	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	_
+11	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

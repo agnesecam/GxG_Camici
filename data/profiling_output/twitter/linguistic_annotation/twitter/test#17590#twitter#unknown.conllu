@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = però prima che finisca...
+1	però	però	ADV	B	_	0	root	_	_
+2	prima	prima	ADV	B	_	1	advmod	_	_
+3	che	che	SCONJ	CS	_	2	fixed	_	_
+4	finisca...	finisca.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = la farai 'La solitudine' tutta intera, no?
+1	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	farai	fare	NOUN	S	_	0	root	_	_
+3	'	'	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+4	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	solitudine	solitudine	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+6	'	'	PUNCT	FB	_	5	punct	_	_
+7	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_
+8	intera	intero	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	no	no	ADV	BN	PronType=Neg	5	advmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = @laurapausini #lauraepaola
+1	@laurapausini	@laurapausino	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#lauraepaola	#lauraepaolo	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpacesAfter=\n
+

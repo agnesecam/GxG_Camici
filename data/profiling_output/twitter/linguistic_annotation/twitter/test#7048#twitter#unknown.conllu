@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = coccolarla, dominarla.
+1	coccolarla	coccolarlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3-4	dominarla	_	_	_	_	_	_	_	SpaceAfter=No
+3	dominar	dominarre	VERB	V	VerbForm=Inf	1	conj	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Quando gli occhi sono ad un centimetro dalla preda, riflettono essi stessi l'immagine all inverso della Sopranov che
+1	Quando	quando	SCONJ	CS	_	7	mark	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	ad	a	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	centimetro	centimetro	NOUN	S	Gender=Masc|Number=Sing	12	advcl	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	preda	preda	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	7	punct	_	_
+12	riflettono	riflettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+14	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	12	xcomp	_	_
+17	all	all	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	inverso	inverso	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Sopranov	Sopranov	PROPN	SP	_	18	nmod	_	_
+22	che	che	PRON	PR	PronType=Rel	21	nsubj	_	SpacesAfter=\n
+

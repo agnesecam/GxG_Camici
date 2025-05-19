@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È come se allo stadio Olimpico di Roma avessero detto "spettatore" @1001ptsit
+1	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADV	B	_	11	mark	_	_
+3	se	se	SCONJ	CS	_	2	fixed	_	_
+4-5	allo	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+7	Olimpico	olimpico	PROPN	SP	_	6	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Roma	Roma	PROPN	SP	_	6	nmod	_	_
+10	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	spettatore	spettatore	NOUN	S	Gender=Masc|Number=Sing	11	xcomp	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	13	punct	_	_
+15	@1001ptsit	@1001ptsit	CCONJ	CC	_	1	advmod	_	SpacesAfter=\n
+

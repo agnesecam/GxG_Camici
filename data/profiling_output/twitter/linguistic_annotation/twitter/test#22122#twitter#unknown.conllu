@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @aliceborutti @ElisabettaSoler beh della partita nemmeno io essendo nato tennista, sport dove ognuno sta a casa sua e non"invade il nemico"
+1	@aliceborutti	@aliceborutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	@ElisabettaSoler	@ElisabettaSoler	PROPN	SP	_	10	nsubj	_	_
+3	beh	beh	NOUN	S	Gender=Masc	2	compound	_	_
+4-5	della	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	partita	partita	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+7	nemmeno	nemmeno	ADV	BN	PronType=Neg	6	advmod	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+9	essendo	essere	AUX	V	VerbForm=Ger	10	aux	_	_
+10	nato	nascere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	tennista	tennista	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	sport	sport	NOUN	S	Gender=Masc	11	compound	_	_
+14	dove	dove	ADV	B	_	16	advmod	_	_
+15	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	nsubj	_	_
+16	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	casa	casa	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+19	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+20	e	e	CCONJ	CC	_	24	cc	_	_
+21	non"	non"	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+22	invade	invadere	ADP	E	_	24	case	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	nemico	nemico	NOUN	S	Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+25	"	"	PUNCT	FB	_	10	punct	_	SpacesAfter=\n
+

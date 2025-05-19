@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciascuno è solo con il suo universo.
+1	Ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+3	solo	solo	ADV	B	_	7	advmod	_	_
+4	con	con	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	universo	universo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Tutto il cambiamento dei parametri di epistemologia della coscienza negli... http:// fb.me/7NgXgdwIC
+1	Tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	3	det:predet	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	cambiamento	cambiamento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	parametri	parametro	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	epistemologia	epistemologia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	coscienza	coscienza	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	negli...	negli.	NOUN	S	_	11	compound	_	_
+13	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	8	punct	_	_
+16	fb.me/7NgXgdwIC	fb.me/7NgXgdwIC	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

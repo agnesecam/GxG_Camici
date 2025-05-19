@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E se la sostiene Renzi, senza piu` dubbio alcuno ... forza Trump!!!!
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	se	se	SCONJ	CS	_	0	root	_	_
+3	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	sostiene	sostenere	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	Renzi	Renzi	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	senza	senza	ADP	E	_	8	case	_	_
+8	piu`	piu`	PROPN	SP	_	12	nmod	_	_
+9	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+10	alcuno	alcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
+11	...	.	PUNCT	FF	_	12	punct	_	_
+12	forza	forza	NOUN	S	Gender=Fem|Number=Sing	4	appos	_	_
+13	Trump!!!!	Trump!!!!	PROPN	SP	_	4	nmod	_	_
+
+# sent_id = 2
+# text = http:// fb.me/25lmkzbl0
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/25lmkzbl0	fb.me/25lmkzbl0	NUM	N	NumType=Range	0	root	_	SpacesAfter=\n
+

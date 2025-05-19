@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco cosa ci farà vedere la Rai al Giro d'Italia http:// fb.me/4TUI1pXsu
+1	Ecco	ecco	ADV	B	_	4	advmod	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	vedere	vedere	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Rai	Rai	PROPN	SP	_	5	obj	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Giro	Giro	PROPN	SP	_	5	obl	_	_
+11	d'	di	ADP	E	_	12	case	_	SpaceAfter=No
+12	Italia	Italia	PROPN	SP	_	10	nmod	_	_
+13	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	4	punct	_	_
+16	fb.me/4TUI1pXsu	fb.me/4TUI1pXsu	PROPN	SP	_	4	conj	_	SpacesAfter=\n
+

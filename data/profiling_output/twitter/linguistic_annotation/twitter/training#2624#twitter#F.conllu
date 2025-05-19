@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma come si è conciato Pippo!!! devi sembrare alto come un ricco!
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	come	come	ADV	B	_	5	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	conciato	conciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	Pippo	Pippo	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+7	!!!	!!!	PUNCT	FF	_	9	punct	_	_
+8	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	5	conj	_	_
+10	alto	alto	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	_
+11	come	come	ADP	E	_	13	case	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ricco	ricco	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = @DonMatteoRai @SMontedoroOFC
+1	@DonMatteoRai	@DonMatteoRai	PROPN	SP	_	0	root	_	_
+2	@SMontedoroOFC	@SMontedoroOFC	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

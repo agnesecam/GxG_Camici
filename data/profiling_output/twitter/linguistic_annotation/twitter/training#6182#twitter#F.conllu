@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cambiamento interiore:
+1	Cambiamento	cambiamento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	interiore	interiore	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cambiamento interiore
+1	Cambiamento	cambiamento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	interiore	interiore	ADJ	A	Degree=Cmp|Number=Sing	1	amod	_	_
+
+# sent_id = 3
+# text = Se fossimo in molti a condurre i nostri sforzi al fine di un cam... http:// bit.ly/1UdDaCR
+1	Se	se	SCONJ	CS	_	6	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	condurre	condurre	VERB	V	VerbForm=Inf	19	advcl	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+8	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	sforzi	sforzo	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	fine	fine	NOUN	S	Number=Sing	6	obl	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	cam...	cam...	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	bit.ly/1UdDaCR	bit.ly/1UdDaCR	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

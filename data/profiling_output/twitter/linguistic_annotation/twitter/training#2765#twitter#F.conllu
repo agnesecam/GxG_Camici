@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @macklemore aspettarti è un'agoniaa ma @Raury la fa sembrare meno dura @MartaMizzotti @SaraMizzotti
+1	@macklemore	@macklemore	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	aspettarti	aspettarto	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	1	amod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	agoniaa	agoniaa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	ma	ma	CCONJ	CC	_	9	cc	_	_
+7	@Raury	@Raury	PROPN	SP	_	9	nsubj	_	_
+8	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	fa	fa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	meno	meno	ADV	B	_	12	advmod	_	_
+12	dura	duro	ADJ	A	Gender=Fem|Number=Sing	10	xcomp	_	_
+13	@MartaMizzotti	@MartaMizzotti	PROPN	SP	_	10	nsubj	_	_
+14	@SaraMizzotti	@SaraMizzotti	PROPN	SP	_	13	flat:name	_	SpacesAfter=\n
+

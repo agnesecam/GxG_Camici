@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alfplata1 Inoltre uno NON ricopre nessun ruolo ISTITUZIONALE l'altro plurindagato cambia la costituzione.
+1	@alfplata1	@alfplata1	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Inoltre	inoltre	PROPN	SP	_	5	nsubj	_	_
+3	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obj	_	_
+4	NON	non	PROPN	SP	_	5	nsubj	_	_
+5	ricopre	ricoprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	nessun	nessuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	ruolo	ruolo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+8	ISTITUZIONALE	istituzionale	PROPN	SP	_	7	nmod	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+10	altro	altro	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	plurindagato	plurindagato	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	costituzione	costituzione	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/RpERlr4mpM
+1	pic.twitter.com/RpERlr4mpM	pic.twitter.com/RpERlr4mpM	NOUN	S	_	0	root	_	SpacesAfter=\n
+

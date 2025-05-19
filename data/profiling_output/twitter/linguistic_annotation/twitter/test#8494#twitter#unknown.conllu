@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Loro non si arrenderanno mai, noi neppure ! #Casaleggio :
+1	Loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	arrenderanno	arrendare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	mai	mai	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	9	advmod	_	_
+9	!	!	PUNCT	FS	_	7	punct	_	_
+10	#Casaleggio	#Casaleggio	PROPN	SP	_	7	appos	_	_
+11	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = "IO NON MOLLO!
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	IO	io	PROPN	SP	_	0	root	_	_
+3	NON	non	PROPN	SP	_	2	nmod	_	_
+4	MOLLO	mollo	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #M5S > http://www.
+1	#M5S	#M5S	PROPN	SP	_	0	root	_	_
+2	>	>	SYM	SYM	_	1	flat:name	_	_
+3	http://www	http://www	NOUN	S	_	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = beppegrillo.it/2016/04/io_non _mollo_di.html … pic.twitter.com/sWiR3cEJ3x
+1	beppegrillo.it/2016/04/io_non	beppegrillo.it/2016/04/io_non	ADP	E	_	3	case	_	_
+2	_mollo_di.html	_mollo_di.html	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	…	…	PUNCT	FF	_	4	punct	_	_
+4	pic.twitter.com/sWiR3cEJ3x	pic.twitter.com/sWiR3cEJ3x	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

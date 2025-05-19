@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @twilattina_dany Però le usi Senza pensare male, puoi seguirmi, così ne parliamo in privato?
+1	@twilattina_dany	@twilattina_dany	CCONJ	CC	_	10	cc	_	_
+2	Però	però	ADV	B	_	10	advmod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	usi	uso	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+5	Senza	Senza	ADP	E	_	6	mark	_	_
+6	pensare	pensare	VERB	V	VerbForm=Inf	4	acl	_	_
+7	male	male	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10-11	seguirmi	_	_	_	_	_	_	_	SpaceAfter=No
+10	seguir	seguire	VERB	V	VerbForm=Inf	0	root	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	così	così	ADV	B	_	15	advmod	_	_
+14	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	expl	_	_
+15	parliamo	parlare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	privato	privato	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Dato che a molti non gliene frega di questo.
+1	Dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+7	frega	frega	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

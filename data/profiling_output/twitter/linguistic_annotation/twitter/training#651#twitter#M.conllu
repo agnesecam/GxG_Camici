@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo preso noi il secondo goal come il #Bayern e si starebbe a bestemmiare sulla mancanza di uno come #Vidal #BayernJuve
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	goal	goal	NOUN	S	Gender=Masc	2	obj	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	#Bayern	#Bayern	PROPN	SP	_	6	nmod	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	starebbe	stare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	bestemmiare	bestemmiare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15-16	sulla	_	_	_	_	_	_	_	_
+15	su	su	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	mancanza	mancanza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	nmod	_	_
+20	come	come	ADP	E	_	22	case	_	_
+21	#	#	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+22	Vidal	Vidal	PROPN	SP	_	19	nmod	_	_
+23	#BayernJuve	#BayernJuve	PROPN	SP	_	22	flat:name	_	SpacesAfter=\n
+

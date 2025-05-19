@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu non sei quello che sembri nei momenti di tristezza.
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7-8	nei	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	tristezza	tristezza	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Sei molto di più.
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	molto	molto	ADV	B	_	4	advmod	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	più	più	ADV	B	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Paulo Coelho
+1	Paulo	Paulo	PROPN	SP	_	0	root	_	_
+2	Coelho	Coelho	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

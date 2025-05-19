@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando uno si mette in occasione di peccato dicendo:
+1	Quando	quando	SCONJ	CS	_	4	mark	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	peccato	peccato	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	dicendo	dire	VERB	V	VerbForm=Ger	4	advcl	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = "non lo farò", è un segno infallibile che lo farà (san Filippo Neri)
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	9	parataxis	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	segno	segno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+10	infallibile	infallibile	ADJ	A	Number=Sing	9	amod	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	acl:relcl	_	_
+14	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	san	san	NOUN	S	Gender=Masc	13	appos	_	_
+16	Filippo	Filippo	PROPN	SP	_	15	nmod	_	_
+17	Neri	neri	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	9	punct	_	SpacesAfter=\n
+

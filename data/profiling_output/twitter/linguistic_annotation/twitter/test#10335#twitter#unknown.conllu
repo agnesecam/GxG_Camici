@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fabio_ulixe @rtl1025 @alessiobernabei ma fatti i kazzi tuoi.
+1	@fabio_ulixe	@fabio_ulixe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@rtl1025	@rtl1025	NUM	N	NumType=Card	3	nummod	_	_
+3	@alessiobernabei	@alessiobernabeo	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	ma	ma	CCONJ	CC	_	5	cc	_	_
+5	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	kazzi	kazzo	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	tuoi	tuo	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Saranno pure da "dementi" ma a lui stanno benissimo
+1	Saranno	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	cop	_	_
+2	pure	pure	ADV	B	_	5	advmod	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	dementi	demento	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	5	punct	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+10	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	benissimo	bene	ADV	B	Degree=Abs	10	advmod	_	SpacesAfter=\n
+

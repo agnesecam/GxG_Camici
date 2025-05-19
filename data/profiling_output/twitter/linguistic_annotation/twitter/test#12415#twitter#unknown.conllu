@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E ora l'Ambasciatore a casa e nessuna assistenza ai turisti in Egitto.Linea dura con chi pensa che siamo disposti a tutto #GiulioRegeni
+1	E	e	CCONJ	CC	_	15	cc	_	_
+2	ora	ora	ADV	B	_	4	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	Ambasciatore	ambasciatore	PROPN	SP	_	15	nsubj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
+9	assistenza	assistenza	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+10-11	ai	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	turisti	turista	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	Egitto.Linea	Egitto.Linea	PROPN	SP	_	12	nmod	_	_
+15	dura	durare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	con	con	ADP	E	_	17	case	_	_
+17	chi	chi	PRON	PR	Number=Sing|PronType=Rel	15	obl	_	_
+18	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+19	che	che	SCONJ	CS	_	21	mark	_	_
+20	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
+21	disposti	disporre	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	18	ccomp	_	_
+22	a	a	ADP	E	_	23	case	_	_
+23	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	21	obl	_	_
+24	#	#	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+25	GiulioRegeni	GiulioRegeno	PROPN	SP	_	15	obj	_	SpacesAfter=\n
+

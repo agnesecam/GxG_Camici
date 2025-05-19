@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @citiamo troppi topi che vogliono sembrare agnelli!
+1	@citiamo	@citare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	troppi	troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	topi	topio	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	vogliono	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+7	agnelli	agnello	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

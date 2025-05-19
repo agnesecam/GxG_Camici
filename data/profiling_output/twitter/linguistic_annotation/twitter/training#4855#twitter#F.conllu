@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Rosgye @Cabbot_ ci fu un momento in cui era al 24% ho avuto paura.
+1	@Rosgye	@Rosgye	PROPN	SP	_	4	nsubj	_	_
+2	@Cabbot_	@Cabbot-	PROPN	SP	_	1	flat:name	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	momento	momento	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	cui	cui	PRON	PR	PronType=Rel	15	obl	_	_
+9	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	13	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	24	24	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+13	%	%	SYM	SYM	_	15	obl	_	_
+14	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+16	paura	paura	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

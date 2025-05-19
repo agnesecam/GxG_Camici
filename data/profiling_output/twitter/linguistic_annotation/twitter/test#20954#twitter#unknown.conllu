@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iwantrelease tutti lo leggono così se non l'avessi letto così non saresti stata normale ya understa
+1	@iwantrelease	@iwantreleanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	leggono	leggere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	così	così	ADV	B	_	4	advmod	_	_
+6	se	se	SCONJ	CS	_	10	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+9	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+11	così	così	ADV	B	_	15	advmod	_	_
+12	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+13	saresti	saredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
+15	normale	normale	ADJ	A	Number=Sing	16	amod	_	_
+16	ya	ya	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+17	understa	understa	ADJ	A	Number=Sing	16	amod	_	SpacesAfter=\n
+

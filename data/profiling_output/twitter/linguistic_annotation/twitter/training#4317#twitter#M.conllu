@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #notizie #Latina Finti finanziamenti, in carcere truffatore seriale:
+1	#notizie	#notizia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#Latina	#Latina	PROPN	SP	_	1	nmod	_	_
+3	Finti	Finto	PROPN	SP	_	2	flat:name	_	_
+4	finanziamenti	finanziamento	NOUN	S	Gender=Masc|Number=Plur	2	compound	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	carcere	carcere	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+8	truffatore	truffatore	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+9	seriale	seriale	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = dovrà scontare 16 anni:
+1	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	scontare	scontare	VERB	V	VerbForm=Inf	0	root	_	_
+3	16	16	NUM	N	NumType=Card	4	nummod	_	_
+4	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = Il... http:// bit.ly/1VjBt62 #Lazio #Italia
+1	Il...	Il.	PUNCT	FF	_	5	punct	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	bit.ly/1VjBt62	bit.ly/1VjBt62	PROPN	SP	_	0	root	_	_
+6	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+7	Lazio	Lazio	PROPN	SP	_	5	nmod	_	_
+8	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	Italia	Italia	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

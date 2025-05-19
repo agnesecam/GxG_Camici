@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rido ci stavamo abbracciando e Giu da dietro "ehm sì..
+1	Rido	ridere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	obj	_	_
+3	stavamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	abbracciando	abbracciare	VERB	V	VerbForm=Ger	1	advcl	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	Giu	Giu	PROPN	SP	_	4	obj	_	_
+7	da	da	ADP	E	_	10	case	_	_
+8	dietro	dietro	ADV	B	_	7	fixed	_	_
+9	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	ehm	ehm	X	X	_	4	obl	_	_
+11	sì.	sì.	NOUN	S	_	10	compound	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ale... La sigaretta.
+1	Ale..	Ale..	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	sigaretta	sigaretta	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...."
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	"	"	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

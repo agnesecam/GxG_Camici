@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rdeldeserto E se facessimo metà per uno.....?
+1	@rdeldeserto	@rdeldesrire	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	E	e	CCONJ	CC	_	4	cc	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	metà	metà	NOUN	S	Gender=Fem	4	obj	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	uno.....	uno.....	NOUN	S	_	4	obl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = O come ha fatto Cireneo ...tutto.
+1	O	o	CCONJ	CC	_	4	cc	_	_
+2	come	come	SCONJ	CS	_	4	mark	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	Cireneo	Cireneo	PROPN	SP	_	4	obj	_	_
+6	...tutto	...tutto	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

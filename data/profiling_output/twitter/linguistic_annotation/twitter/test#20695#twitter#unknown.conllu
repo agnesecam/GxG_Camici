@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AleRicci90 @luigidimaio valessi tu quanto vale la terra che ha attaccato lui sotto le scarpe saresti rispettato e ammirato da tutt l'italia
+1	@AleRicci90	@AleRicci90	NUM	N	NumType=Card	2	nummod	_	_
+2	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	valessi	valesso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nmod	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	2	nmod	_	_
+6	vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	terra	terra	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	attaccato	attaccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+12	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13	sotto	sotto	ADP	E	_	15	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	scarpe	scarpa	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	_
+16	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	rispettato	rispettare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	ammirato	ammirare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	conj	_	_
+20	da	da	ADP	E	_	21	case	_	_
+21	tutt	tutt	ADV	B	_	19	advmod	_	_
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+23	italia	italia	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	SpacesAfter=\n
+

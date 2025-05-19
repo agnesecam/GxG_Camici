@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AmiciUfficiale @NekOfficial Yeah zio!
+1	@AmiciUfficiale	@AmiciUfficiale	ADJ	A	Number=Sing	2	amod	_	_
+2	@NekOfficial	@NekOfficial	PROPN	SP	_	0	root	_	_
+3	Yeah	Yeah	PROPN	SP	_	2	flat:name	_	_
+4	zio	zio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Che bella squadra!
+1	Che	che	DET	DQ	PronType=Int	3	det	_	_
+2	bella	bello	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Se c'è coraggio passione divertimento c'è la farete a far tutto, sono sicura!
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+4	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+5	passione	passione	NOUN	S	Gender=Fem|Number=Sing	4	compound	_	_
+6	divertimento	divertimento	NOUN	S	Gender=Masc|Number=Sing	5	compound	_	_
+7	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	SpaceAfter=No
+8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	farete	farete	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	far	fare	VERB	V	VerbForm=Inf	10	acl	_	_
+13	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	sicura	sicuro	ADJ	A	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

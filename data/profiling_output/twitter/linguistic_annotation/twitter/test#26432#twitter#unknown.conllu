@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quest'anno poi c'é andata di lusso visto che domani sarà ancora vacanza e avremo tutto il tempo di riprenderci dal cambio d'ora.
+1	Quest'	questo	DET	DD	Number=Sing|PronType=Dem	2	det	_	SpaceAfter=No
+2	anno	anno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	poi	poi	ADV	B	_	4	advmod	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	28	expl	_	SpaceAfter=No
+5	é	é	PRON	PP	Number=Sing|Poss=Yes|PronType=Prs	4	nsubj	_	_
+6	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	lusso	lusso	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+10	che	che	SCONJ	CS	_	14	mark	_	_
+11	domani	domani	ADV	B	_	14	advmod	_	_
+12	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	cop	_	_
+13	ancora	ancora	ADV	B	_	14	advmod	_	_
+14	vacanza	vacanzare	NOUN	S	Gender=Fem|Number=Sing	9	ccomp	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	14	conj	_	_
+17	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	19	det:predet	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+20	di	di	ADP	E	_	21	mark	_	_
+21-22	riprenderci	_	_	_	_	_	_	_	_
+21	riprender	riprendere	VERB	V	VerbForm=Inf	19	acl	_	_
+22	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	21	obj	_	_
+23-24	dal	_	_	_	_	_	_	_	_
+23	da	da	ADP	E	_	25	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
+26	d'	di	ADP	E	_	27	case	_	SpaceAfter=No
+27	ora	ora	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #oralegale
+1	#oralegale	#oralegale	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pelo80 il totem è comunicazione tradizionale attraverso la cartina.se non li avessimo installati un servizio in meno per i turisti
+1	@pelo80	@pelo80	NUM	N	NumType=Card	5	nummod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	totem	totem	NOUN	S	Gender=Masc	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	comunicazione	comunicazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	tradizionale	tradizionale	ADJ	A	Number=Sing	5	amod	_	_
+7	attraverso	attraverso	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cartina.se	cartina.so	NOUN	S	Number=Sing	13	obl	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
+12	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	installati	installare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	servizio	servizio	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	meno	meno	ADV	B	_	15	advmod	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	turisti	turista	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpacesAfter=\n
+

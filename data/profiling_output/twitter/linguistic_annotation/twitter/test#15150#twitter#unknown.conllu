@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxLaudadio71 inutile aumentare il personale basterebbe che quello che sia c'è facesse il suo dovere invece di....
+1	@MaxLaudadio71	@maxlaudadio71	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	inutile	inutile	ADJ	A	Number=Sing	3	amod	_	_
+3	aumentare	aumentare	VERB	V	VerbForm=Inf	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	personale	personale	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+6	basterebbe	bastare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	che	che	SCONJ	CS	_	13	mark	_	_
+8	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	13	nsubj	_	_
+9	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+10	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	SpaceAfter=No
+12	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+13	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+17	invece	invece	ADV	B	_	13	advmod	_	_
+18	di...	di.	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = "non vedere"
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

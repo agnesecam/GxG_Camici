@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi è diventato il Gary Cooperlo della sinistra #crozza #dimartedi
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Gary	Gary	PROPN	SP	_	3	nsubj	_	_
+6-7	Cooperlo	_	_	_	_	_	_	_	_
+6	Cooper	Cooper	PROPN	SP	_	5	flat:name	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	3	xcomp	_	_
+11	#crozza	#crozzo	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	#dimartedi	#dimartedio	ADJ	A	Gender=Masc|Number=Plur	3	xcomp	_	SpacesAfter=\n
+

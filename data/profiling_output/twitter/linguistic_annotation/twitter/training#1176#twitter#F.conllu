@@ -1,0 +1,62 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Z: Hey L:
+1	Z	Z	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	Hey	Hey	PROPN	SP	_	1	flat:name	_	_
+4	L	L	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ciao *sussurra triste* Z: Liam che succede?
+1	Ciao	ciao	INTJ	I	_	4	punct	_	_
+2	*sussurra	*sussurro	ADV	B	_	4	advmod	_	_
+3	triste*	triste*	PUNCT	FF	_	2	punct	_	_
+4	Z	Z	PROPN	SP	_	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	Liam	Liam	PROPN	SP	_	4	flat:name	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	succede	succedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = L:
+1	L	l	NOUN	S	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 4
+# text = Il problema è che non riesco a toglierti dalla mia testa.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	toglierti	toglierto	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	testa	testa	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 5
+# text = Z:
+1	Z	Z	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 6
+# text = L: Z:
+1	L	l	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	Z	Z	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 7
+# text = Neanch'io.
+1	Neanch'	Neanch'	ADP	E	_	2	case	_	SpaceAfter=No
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Roma sprecona!
+1	Roma	Roma	PROPN	SP	_	2	nsubj	_	_
+2	sprecona	spreconare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Cosa starà pensando Totti in panchina...
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	pensando	pensare	VERB	V	VerbForm=Ger	2	advcl	_	_
+4	Totti	Totti	PROPN	SP	_	3	obj	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	panchina...	panchina...	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+
+# sent_id = 3
+# text = #RealRoma
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	RealRoma	RealRoma	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

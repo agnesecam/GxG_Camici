@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Presente negli studi di Sportitalia, Massimo Coda (27) è tornato sulla vittoria conquistata dalla Salernitana... http:// fb.me/70UzlTyRm
+1	Presente	presente	ADV	B	_	14	advmod	_	_
+2-3	negli	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	studi	studio	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Sportitalia	Sportitalia	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	Massimo	Massimo	PROPN	SP	_	14	nsubj	_	_
+9	Coda	coda	PROPN	SP	_	8	flat:name	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	27	27	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	11	punct	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	tornato	tornare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15-16	sulla	_	_	_	_	_	_	_	_
+15	su	su	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18	conquistata	conquistare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
+19-20	dalla	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Salernitana...	Salernitana...	PROPN	SP	_	18	obl:agent	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/70UzlTyRm	fb.me/70UzlTyRm	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

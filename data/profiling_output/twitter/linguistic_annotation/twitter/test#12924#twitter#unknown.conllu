@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ah ah ah ha morta sono ah ah ah ah "ma non sono stata prolissa" ah ah ah ah "hai attaccato il vizio" @ManuDolcenera magari l' avessero tutti
+1	Ah	ah	INTJ	I	_	5	discourse	_	_
+2	ah	ah	INTJ	I	_	5	discourse	_	_
+3	ah	ah	INTJ	I	_	5	discourse	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	morta	morire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+7	ah	ah	INTJ	I	_	8	discourse	_	_
+8	ah	ah	INTJ	I	_	16	discourse	_	_
+9	ah	ah	INTJ	I	_	10	discourse	_	_
+10	ah	ah	INTJ	I	_	16	discourse	_	_
+11	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	ma	ma	CCONJ	CC	_	16	cc	_	_
+13	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+14	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	aux:pass	_	_
+16	prolissa	prolissare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	18	punct	_	_
+18	ah	ah	INTJ	I	_	19	discourse	_	_
+19	ah	ah	INTJ	I	_	24	discourse	_	_
+20	ah	ah	INTJ	I	_	24	discourse	_	_
+21	ah	ah	INTJ	I	_	24	discourse	_	_
+22	"	"	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+23	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	attaccato	attaccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	31	advcl	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	vizio	vizio	NOUN	S	Gender=Masc|Number=Sing	24	obj	_	SpaceAfter=No
+27	"	"	PUNCT	FB	_	28	punct	_	_
+28	@ManuDolcenera	@ManuDolcenera	PROPN	SP	_	26	nmod	_	_
+29	magari	magari	ADV	B	_	31	advmod	_	_
+30	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	31	obj	_	_
+31	avessero	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	_
+32	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	31	nsubj	_	SpacesAfter=\n
+

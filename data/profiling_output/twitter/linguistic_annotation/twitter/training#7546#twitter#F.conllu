@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = all'University di Houston eseguono crudeli esperimenti di psicologia sui ratti;
+1-2	all'	_	_	_	_	_	_	_	SpaceAfter=No
+1	a	a	ADP	E	_	3	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	University	University	PROPN	SP	_	6	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Houston	Houston	PROPN	SP	_	3	nmod	_	_
+6	eseguono	eseguire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	crudeli	crudele	ADJ	A	Number=Plur	8	amod	_	_
+8	esperimenti	esperimento	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	psicologia	psicologia	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11-12	sui	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	ratti	ratto	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+14	;	;	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = essi vengono privati di cibo per... http:// fb.me/7GeT8iU4F
+1	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	_
+2	vengono	venire	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	privati	privare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	cibo	cibo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	per...	per.	NOUN	S	_	5	compound	_	_
+7	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	fb.me/7GeT8iU4F	fb.me/7GeT8iU4F	PROPN	SP	_	3	nsubj:pass	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @senzabici se oggi mi avessero detto che avrei trovato neve e dovuto spingere la mtb sarei partito ugualmente pic.twitter.com/3fbwhfoxI1
+1	@senzabici	@senzabico	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	oggi	oggi	ADV	B	_	6	advmod	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+5	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+10	neve	neve	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	aux	_	_
+13	spingere	spingere	VERB	V	VerbForm=Inf	9	conj	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	mtb	mtb	NOUN	S	_	13	obj	_	_
+16	sarei	essere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	partito	partire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+18	ugualmente	ugualmente	ADV	B	_	17	advmod	_	_
+19	pic.twitter.com/3fbwhfoxI1	pic.twitter.com/3fbwhfoxI1	PROPN	SP	_	17	obj	_	SpacesAfter=\n
+

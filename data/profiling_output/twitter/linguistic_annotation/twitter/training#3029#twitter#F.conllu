@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È assurdo come il passato a volte possa sembrare solo qualcosa di immaginario.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	assurdo	assurdo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	come	come	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	passato	passato	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	volte	volta	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+8	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	2	csubj	_	_
+10	solo	solo	ADV	B	_	11	advmod	_	_
+11	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	9	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	immaginario	immaginario	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ClarivicaMyBae C&R #TuSueñoSeHaceRealidadClari Hai qualche ossessione ?
+1	@ClarivicaMyBae	@ClarivicaMyBae	PROPN	SP	_	0	root	_	_
+2	C&R	C&R	PROPN	SP	_	1	flat:name	_	_
+3	#TuSueñoSeHaceRealidadClari	#TuSueñoSeHaceRealidadClari	PROPN	SP	_	1	flat:name	_	_
+4	Hai	Hai	PROPN	SP	_	1	flat:name	_	_
+5	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	ossessione	ossessione	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ahahahah qualcuna
+1	Ahahahah	Ahahahah	INTJ	I	_	0	root	_	_
+2	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	1	det	_	SpacesAfter=\n
+

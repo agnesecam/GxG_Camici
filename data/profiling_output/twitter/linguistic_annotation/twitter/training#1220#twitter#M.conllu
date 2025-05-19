@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il governo non resti indietro ANCORATO A LOGICHE DEL PASSATO,a chi SCONFITTO DALLA STORIA E DAL PASSATO, vuole riproporre VECCHI SCHEMI!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	resti	redere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	indietro	indietro	ADV	B	_	4	advmod	_	_
+6	ANCORATO	ancorato	PROPN	SP	_	4	obj	_	_
+7	A	a	ADP	E	_	8	case	_	_
+8	LOGICHE	LOGICHE	PROPN	SP	_	6	nmod	_	_
+9-10	DEL	_	_	_	_	_	_	_	_
+9	DI	Di	ADP	E	_	12	case	_	_
+10	IL	il	PROPN	SP	_	9	flat:name	_	_
+11	PASSATO,a	PASSATO,a	PROPN	SP	_	9	flat:name	_	_
+12	chi	chi	PRON	PR	PronType=Rel	23	obl	_	_
+13	SCONFITTO	sconfivere	PROPN	SP	_	23	nsubj	_	_
+14-15	DALLA	_	_	_	_	_	_	_	_
+14	DA	Da	PROPN	SP	_	13	flat:name	_	_
+15	LA	La	PROPN	SP	_	13	flat:name	_	_
+16	STORIA	storia	PROPN	SP	_	13	flat:name	_	_
+17	E	e	CCONJ	CC	_	18	cc	_	_
+18-19	DAL	_	_	_	_	_	_	_	_
+18	DA	da	PROPN	SP	_	23	obl	_	_
+19	IL	il	PROPN	SP	_	18	flat:name	_	_
+20	PASSATO	passato	PROPN	SP	_	18	flat:name	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	18	punct	_	_
+22	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	riproporre	riproporre	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+24	VECCHI	vecchi	PROPN	SP	_	23	obj	_	_
+25	SCHEMI	schemi	PROPN	SP	_	24	flat:name	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	23	punct	_	SpacesAfter=\n
+

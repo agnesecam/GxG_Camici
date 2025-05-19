@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grazie Freud che mi fai sembrare colta quando si parla di impulsi sessuali
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	Freud	Freud	PROPN	SP	_	1	flat:name	_	_
+3	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	colta	cogliere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+8	quando	quando	SCONJ	CS	_	10	mark	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+10	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	impulsi	impulso	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+13	sessuali	sessuale	ADJ	A	Number=Plur	12	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Rossonerosemper @Fmcrfast la ricordate la partita?
+1	@Rossonerosemper	@Rossonerosemper	ADP	E	_	2	case	_	_
+2	@Fmcrfast	@Fmcrfast	PROPN	SP	_	4	obl	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	ricordate	ricordare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	partita	partita	NOUN	S	Gender=Fem|Number=Sing	4	nsubj:pass	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = 90 min senza mai passare la metà campo per scelta.
+1	90	90	NUM	N	NumType=Card	0	root	_	_
+2	min	mino	X	SW	Foreign=Yes	1	fixed	_	_
+3	senza	senza	ADP	E	_	5	mark	_	_
+4	mai	mai	ADV	B	_	5	advmod	_	_
+5	passare	passare	VERB	V	VerbForm=Inf	1	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	metà	metà	NOUN	S	Gender=Fem	5	obj	_	_
+8	campo	campo	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ben diverso ieri.
+1	Ben	bene	ADV	B	_	2	advmod	_	_
+2	diverso	diverso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	ieri	ieri	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Ecco perché Miha ok
+1	Ecco	ecco	ADV	B	_	3	advmod	_	_
+2	perché	perché	SCONJ	CS	_	3	advmod	_	_
+3	Miha	Miha	PROPN	SP	_	0	root	_	_
+4	ok	ok	NOUN	S	Gender=Masc	3	nmod	_	SpacesAfter=\n
+

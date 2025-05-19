@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E chissà quanti ancora ve ne farà ingoiare di rospi! Pardon, di grilli.
+1	E	e	CCONJ	CC	_	7	cc	_	_
+2	chissà	chissà	ADV	B	_	3	advmod	_	_
+3	quanti	quanto	PRON	PR	Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	_	_
+4	ancora	ancora	ADV	B	_	7	advmod	_	_
+5	ve	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	ingoiare	ingoiare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	rospi	rospo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	12	punct	_	_
+12	Pardon	Pardon	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	10	punct	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	grilli	grille	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = #Grillo #M5S http://www.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Grillo	Grillo	PROPN	SP	_	0	root	_	_
+3	#M5S	#M5S	PROPN	SP	_	2	flat:name	_	_
+4	http://www	http://www	NOUN	S	_	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = huffingtonpost.it/2016/04/09/gri llo-show-torino_n_9650112.html … via @HuffPostItalia
+1	huffingtonpost.it/2016/04/09/gri	huffingtonpost.it/2016/04/09/gre	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	llo-show-torino_n_9650112.html	llo-show-torino_n_9650112.html	ADJ	A	_	1	amod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	via	via	NOUN	S	Gender=Fem|Number=Sing	1	compound	_	_
+5	@HuffPostItalia	@HuffPostItalia	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

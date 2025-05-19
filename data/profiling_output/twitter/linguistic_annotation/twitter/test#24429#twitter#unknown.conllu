@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Les_fleurs2mal ma che faccia tosta, è scandaloso quello che sta dicendo @orfini stasera a #Piazzapulita .
+1	@Les_fleurs2mal	@Les_fleurs2male	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	ma	ma	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	tosta	tosta	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	scandaloso	scandaloso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+9	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	dicendo	dire	VERB	V	VerbForm=Ger	9	acl:relcl	_	_
+13	@orfini	@orfine	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+14	stasera	stasera	ADV	B	_	16	advmod	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	#Piazzapulita	#Piazzapulita	PROPN	SP	_	13	nmod	_	_
+17	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = A loro del sud non gliene frega.
+1	A	a	ADP	E	_	2	case	_	_
+2	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	7	obl	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sud	sud	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	frega	frega	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

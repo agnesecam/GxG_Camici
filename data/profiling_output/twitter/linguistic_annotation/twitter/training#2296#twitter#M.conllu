@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Firenze in lotta per gli 86 e tutti i compagni dentro TUTTI LIBERI TUTTE LIBERE pic.twitter.com/Xit6VqDOPQ
+1	Firenze	Firenze	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	lotta	lotta	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	86	86	NUM	N	NumType=Card	3	nummod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det:predet	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	compagni	compagno	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+11	dentro	dentro	ADV	B	_	12	advmod	_	_
+12	TUTTI	tutto	PROPN	SP	_	10	nmod	_	_
+13	LIBERI	liberi	PROPN	SP	_	12	flat:name	_	_
+14	TUTTE	tutto	PROPN	SP	_	12	flat:name	_	_
+15	LIBERE	libero	PROPN	SP	_	12	flat:name	_	_
+16	pic.twitter.com/Xit6VqDOPQ	pic.twitter.com/Xit6VqDOPQ	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

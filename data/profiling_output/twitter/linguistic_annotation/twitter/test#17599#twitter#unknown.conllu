@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = devo farti i miei complimenti ....." consiglia" sei bravissima sicuramente farai carriera.................
+1	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	farti	fartire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6	.....	.....	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	consiglia	consiglio	NOUN	S	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	sei	sei	NUM	N	NumType=Card	8	nummod	_	_
+11	bravissima	bravo	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	8	amod	_	_
+12	sicuramente	sicuramente	ADV	B	_	13	advmod	_	_
+13	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+14	carriera.................	carriera.................	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7CpSUlWi4
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7CpSUlWi4	fb.me/7CpSUlWi4	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

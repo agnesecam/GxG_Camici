@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @lameduck1960 interpretazione neocon e neolib dello scontro di civiltà...
+1	@lameduck1960	@lameduck1960	NUM	N	NumType=Card	2	nummod	_	_
+2	interpretazione	interpretazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	neocon	neocon	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	neolib	neolib	NOUN	S	Gender=Masc	2	conj	_	_
+6-7	dello	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	scontro	scontro	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	civiltà..	civiltà..	NOUN	S	_	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = così fai il gioco di ESSI (non esiste Islam monolitico...)
+1	così	così	ADV	B	_	2	advmod	_	_
+2	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	ESSI	Essi	PROPN	SP	_	4	nmod	_	_
+7	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	Islam	Islam	PROPN	SP	_	9	nsubj	_	_
+11	monolitico...	monolitico.	NOUN	S	_	10	nmod	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

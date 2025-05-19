@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho aspettato 30 fantasma fino alle 11:25, segnato sulla pallina.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aspettato	aspettare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	30	30	NUM	N	NumType=Card	4	nummod	_	_
+4	fantasma	fantasma	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	fino	fino	ADV	B	_	8	case	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	5	fixed	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	11:25	11:25	NUM	N	NumType=Card	10	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	segnato	segnato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+11-12	sulla	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	pallina	pallina	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Improvvisamente però è diventato un "deposito"… normale?
+1	Improvvisamente	improvvisamente	ADV	B	_	4	advmod	_	_
+2	però	però	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	deposito	deposito	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	…	…	PUNCT	FF	_	4	punct	_	_
+10	normale	normale	ADJ	A	Number=Sing	4	xcomp	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = @CTM_Cagliari
+1	@CTM_Cagliari	@CTM_Cagliare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	SpacesAfter=\n
+

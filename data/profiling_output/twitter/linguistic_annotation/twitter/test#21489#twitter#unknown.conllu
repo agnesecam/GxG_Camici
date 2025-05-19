@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ballaro '.
+1	#ballaro	#ballaro	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	'	'	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ho visto i raggi di Una persona con quel chiodo...povero/a.
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	raggi	raggio	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	persona	persona	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	chiodo...povero	chiodo...povero	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	a	a	X	X	_	2	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Invece di parlare stara 'urlando aspira!
+1	Invece	invece	ADV	B	_	3	advmod	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+4	stara	stara	ADP	E	_	6	mark	_	_
+5	'	'	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	urlando	urlare	VERB	V	VerbForm=Ger	3	advcl	_	_
+7	aspira	aspirare	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @xavierjacobelli Gli stessi che avete esaltato giovedì.
+1	@xavierjacobelli	@xavierjacobello	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	Gli	gli	ADJ	A	Number=Plur	1	amod	_	_
+3	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	esaltato	esaltato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+7	giovedì	giovedì	NOUN	S	Gender=Masc	6	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = L'unico fuoriclasse ( #Insigne ) ha fatto sembrare #Rudiger un extraterrestre.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+2	unico	unico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	fuoriclasse	fuoriclassa	NOUN	S	_	8	nsubj	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	#Insigne	#Insigne	PROPN	SP	_	3	nmod	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	Rudiger	Rudiger	PROPN	SP	_	9	appos	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	extraterrestre	extraterrestra	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

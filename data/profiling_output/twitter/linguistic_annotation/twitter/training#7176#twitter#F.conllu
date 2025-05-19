@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @adatitolo essì ! a quello je piace de magnà.
+1	@adatitolo	@adatitolare	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	essì	essì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	!	!	PUNCT	FS	_	6	punct	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	_
+6	je	je	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+8	de	di	ADP	E	_	9	case	_	_
+9	magnà	magnà	NOUN	S	Gender=Fem	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = in tutti i sensi.
+1	in	in	ADP	E	_	4	case	_	_
+2	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	4	det:predet	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	sensi	senso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = @DarioBallini
+1	@DarioBallini	@DarioBallini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

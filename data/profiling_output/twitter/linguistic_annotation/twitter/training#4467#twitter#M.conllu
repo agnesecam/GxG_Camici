@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Arresti in Basilicata, il Tar dà ragione al #M5S e il comune di Firenze dovrà tirar fuori gli scontrini di Renzi...
+1	Arresti	arredere	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Basilicata	Basilicata	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Tar	Tar	PROPN	SP	_	7	nsubj	_	_
+7	dà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	#M5S	#M5S	PROPN	SP	_	7	obl	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	comune	comune	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	Firenze	Firenze	PROPN	SP	_	14	nmod	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	tirar	tirare	VERB	V	VerbForm=Inf	7	conj	_	_
+19	fuori	fuori	ADV	B	_	18	advmod	_	_
+20	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	scontrini	scontrino	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	Renzi...	Renzi...	PROPN	SP	_	21	nmod	_	_
+
+# sent_id = 2
+# text = Gran bella giornata.
+1	Gran	Gran	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+2	bella	bello	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

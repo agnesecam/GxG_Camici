@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @muccafa nel caso non avessimo ancora colto che il 2016 è l'anno dell'amore?
+1	@muccafa	@muccafare	ADV	B	_	8	advmod	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	ancora	ancora	ADV	B	_	8	advmod	_	_
+8	colto	cogliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	che	che	SCONJ	CS	_	14	mark	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	2016	2016	NUM	N	NumType=Card	14	nsubj	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+15-16	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+15	di	di	ADP	E	_	17	case	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+17	amore	amore	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = :P
+1	:P	:P	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

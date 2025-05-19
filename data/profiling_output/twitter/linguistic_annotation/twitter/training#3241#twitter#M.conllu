@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #PapaDicevaSempre meglio tacere e sembrare stupidi che aprire bocca e sciogliere ogni dubbio
+1	#PapaDicevaSempre	#PapaDicevaSempre	ADV	B	_	3	advmod	_	_
+2	meglio	meglio	ADV	B	_	3	advmod	_	_
+3	tacere	tacere	VERB	V	VerbForm=Inf	0	root	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	3	conj	_	_
+6	stupidi	stupidio	NOUN	S	Gender=Masc|Number=Plur	5	xcomp	_	_
+7	che	che	SCONJ	CS	_	8	mark	_	_
+8	aprire	aprire	VERB	V	VerbForm=Inf	6	ccomp	_	_
+9	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	sciogliere	sciogliere	VERB	V	VerbForm=Inf	8	conj	_	_
+12	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	11	det	_	_
+13	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpacesAfter=\n
+

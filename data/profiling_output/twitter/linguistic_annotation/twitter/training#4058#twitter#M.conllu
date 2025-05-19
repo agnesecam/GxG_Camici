@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stangata per il Comune di Pomezia:
+1	Stangata	stangata	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Comune	Comune	PROPN	SP	_	1	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Pomezia	Pomezia	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = dovrà pagare oltre 500mila euro al Cial http://www.
+1	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+3	oltre	oltre	ADV	B	_	4	advmod	_	_
+4	500mila	500mila	NUM	N	NumType=Card	5	nummod	_	_
+5	euro	euro	NOUN	S	Gender=Masc	2	obj	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Cial	Cial	PROPN	SP	_	2	obl	_	_
+9	http://www	http://www	NOUN	S	_	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = ilcaffe.tv/articolo/22862 /stangata-per-il-comune-di-pomezia-dovra-pagare-oltre-500mila-euro-al-cial … via @ilCaffetv
+1	ilcaffe.tv/articolo/22862	ilcaffe.tv/articolo/22862	NUM	N	NumType=Card	2	nummod	_	_
+2	/stangata-per-il	/stangata-per-il	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	comune-di	comune-do	NOUN	S	Gender=Masc|Number=Plur	2	compound	_	SpaceAfter=No
+5	-pomezia-dovra	-pomezia-dovro	ADP	E	_	6	case	_	SpaceAfter=No
+6	-pagare	-pagare	NOUN	S	Gender=Masc	11	nmod	_	SpaceAfter=No
+7	-oltre-500mila-euro	-oltre-500mila-euro	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+8	-al-	_	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	cial	cial	ADJ	A	_	11	amod	_	_
+10	…	…	PUNCT	FF	_	9	punct	_	_
+11	via	via	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+12	@ilCaffetv	@ilCaffetv	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

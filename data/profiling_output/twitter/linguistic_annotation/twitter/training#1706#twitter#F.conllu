@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E grande il nostro Gio Di Tonno a Udine ora con Notre Dame e il 17 maggio a Piombino dalle Muse per il nostro corso di musical ..
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	grande	grande	ADJ	A	Number=Sing	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	Gio	Gio	PROPN	SP	_	2	nsubj	_	_
+6	Di	Di	PROPN	SP	_	5	flat:name	_	_
+7	Tonno	Tonno	PROPN	SP	_	5	flat:name	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Udine	Udine	PROPN	SP	_	5	nmod	_	_
+10	ora	ora	ADV	B	_	12	advmod	_	_
+11	con	con	ADP	E	_	12	case	_	_
+12	Notre	Notre	PROPN	SP	_	5	nmod	_	_
+13	Dame	Dame	PROPN	SP	_	12	flat:name	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	17	17	NUM	N	NumType=Card	12	conj	_	_
+17	maggio	maggio	NOUN	S	Gender=Masc|Number=Sing	16	flat	_	_
+18	a	a	ADP	E	_	19	case	_	_
+19	Piombino	Piombino	PROPN	SP	_	12	nmod	_	_
+20-21	dalle	_	_	_	_	_	_	_	_
+20	da	da	ADP	E	_	22	case	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	Muse	Muse	PROPN	SP	_	2	obl	_	_
+23	per	per	ADP	E	_	26	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+25	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det:poss	_	_
+26	corso	corso	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
+27	di	di	ADP	E	_	28	case	_	_
+28	musical	musical	NOUN	S	Gender=Masc	26	nmod	_	_
+29	..	..	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 2
+# text = 󾌵
+1	󾌵	󾌵	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

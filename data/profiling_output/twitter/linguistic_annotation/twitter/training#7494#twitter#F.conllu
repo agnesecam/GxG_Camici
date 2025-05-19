@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Dagli occhi delle donne derivo la mia dottrina:
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2-3	Dagli	_	_	_	_	_	_	_	_
+2	Da	da	ADP	E	_	4	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	donne	donna	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	derivo	derivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	dottrina	dottrino	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 2
+# text = essi sono i libri,le arti,le accademie,che mostrano,contengono e nutrono il mondo".
+1	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	libri,le	libri,le	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+5	arti,le	arti,le	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6	accademie,che	accademie,co	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+7	mostrano	mostrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	,contengono	,contengere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	nutrono	nutrire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = #8marzo
+1	#8marzo	#8marzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

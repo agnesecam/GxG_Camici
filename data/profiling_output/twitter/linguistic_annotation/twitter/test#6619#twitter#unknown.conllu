@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mai una volta che fossimo d' accordo su qualcosa, su qualsiasi cosa.
+1	Mai	mai	ADV	B	_	3	advmod	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	volta	volta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	che	che	SCONJ	CS	_	13	mark	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+6	d'	di	ADP	E	_	7	case	_	_
+7	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+8	su	su	ADP	E	_	9	case	_	_
+9	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	11	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+13	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Su Grillo, sull' economia, sulla F1, su... http:// fb.me/2yXp14ywK
+1	Su	su	ADP	E	_	2	case	_	_
+2	Grillo	Grillo	PROPN	SP	_	12	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4-5	sull'	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	economia	economia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8-9	sulla	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	F1	F1	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	su...	su.	PUNCT	FF	_	16	punct	_	_
+13	http:	http:	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	fb.me/2yXp14ywK	fb.me/2yxp14ywk	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

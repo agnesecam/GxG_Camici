@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ricky0193 ma non avevi preso la limited edition ?
+1	@Ricky0193	@Ricky0193	NUM	N	NumType=Card	5	nummod	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	avevi	avere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	limited	limited	NOUN	S	Gender=Fem	5	obj	_	_
+8	edition	edition	NOUN	S	Gender=Fem	7	compound	_	_
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Io alla fine me lo son preordinato all'unieuro proprio come mi hai consigliato :3
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fine	fine	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+7	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	preordinato	preordinare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+9-10	all'	_	_	_	_	_	_	_	SpaceAfter=No
+9	a	a	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	unieuro	unieuro	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+12	proprio	proprio	ADV	B	_	16	advmod	_	_
+13	come	come	ADP	E	_	16	mark	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+15	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	consigliato	consigliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+17	:3	:3	NUM	N	NumType=Card	16	obj	_	SpacesAfter=\n
+

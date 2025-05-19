@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se fossimo tutti testardi come #LorettaGoggi , avremmo un mondo migliore.
+1	Se	se	SCONJ	CS	_	11	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obl	_	_
+4	testardi	testardare	ADV	B	_	7	advmod	_	_
+5	come	come	ADP	E	_	7	case	_	_
+6	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+7	LorettaGoggi	LorettaGoggi	PROPN	SP	_	11	obl	_	_
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = #chetempochefa
+1	#chetempochefa	#chetempochefare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

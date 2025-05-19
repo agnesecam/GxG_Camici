@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mai arrendersi a quello che può sembrare un destino avverso, il nostro futuro lo costruiamo Noi con la nostra... http:// fb.me/7e86QzNLH
+1	Mai	mai	ADV	B	_	2	advmod	_	_
+2-3	arrendersi	_	_	_	_	_	_	_	_
+2	arrender	arrendere	VERB	V	VerbForm=Inf	0	root	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	destino	destino	NOUN	S	Gender=Masc|Number=Sing	8	xcomp	_	_
+11	avverso	avverso	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	2	punct	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	17	dislocated	_	_
+16	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	costruiamo	costruire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+18	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	xcomp	_	_
+19	con	con	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	nostra...	nostra...	NOUN	S	_	24	nmod	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	18	punct	_	_
+25	fb.me/7e86QzNLH	fb.me/7e86QzNLH	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

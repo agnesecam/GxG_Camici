@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La finale del campionato di Serie C maschile 2015/2016 sarà dunque Esperia Cagliari - Accademia Basket Sestu.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	finale	finale	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Serie	serie	PROPN	SP	_	5	nmod	_	_
+8	C	C	PROPN	SP	_	7	flat:name	_	_
+9	maschile	maschile	ADJ	A	Number=Sing	7	amod	_	_
+10	2015	2015	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	2016	2016	NUM	N	NumType=Card	10	compound	_	_
+13	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	cop	_	_
+14	dunque	dunque	ADV	B	_	15	advmod	_	_
+15	Esperia	Esperia	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+16	Cagliari	Cagliari	PROPN	SP	_	15	obl	_	_
+17	-	-	PUNCT	FF	_	16	punct	_	_
+18	Accademia	Accademia	PROPN	SP	_	16	flat:name	_	_
+19	Basket	basket	PROPN	SP	_	16	flat:name	_	_
+20	Sestu	Sestu	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Arzaylea non può nemmeno postare una foto di lei insieme al suo ragazzo, senza ricevere insulti da voi capre senza cervello
+1	Arzaylea	Arzaylea	PROPN	SP	_	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	nemmeno	nemmeno	ADV	BN	PronType=Neg	5	advmod	_	_
+5	postare	postare	VERB	V	VerbForm=Inf	0	root	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	foto	foto	NOUN	S	Gender=Fem	5	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+10	insieme	insieme	ADV	B	_	14	case	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	senza	senza	ADP	E	_	17	mark	_	_
+17	ricevere	ricevere	VERB	V	VerbForm=Inf	21	conj	_	_
+18	insulti	insulto	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	_
+19	da	da	ADP	E	_	20	case	_	_
+20	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	17	obl	_	_
+21	capre	caprire	VERB	V	VerbForm=Inf	14	acl	_	_
+22	senza	senza	ADP	E	_	23	case	_	_
+23	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	SpacesAfter=\n
+

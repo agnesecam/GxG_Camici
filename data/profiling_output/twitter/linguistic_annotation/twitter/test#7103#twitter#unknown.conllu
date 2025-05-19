@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = poesia:
+1	poesia	poesia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "l'amore" io l'usurai tu l'usurasti egli l'usurò noi l'usurammo voi l'usuraste essi l'usurarono
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	amore	amore	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	5	punct	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+6	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	usurai	usuere	NOUN	S	_	13	nmod	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	usurasti	usurasto	NOUN	S	Gender=Masc|Number=Plur	13	dislocated	_	_
+11	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+13	usurò	usurare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	16	nsubj	_	_
+15	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	usurammo	usurare	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+17	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	20	nmod	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	usuraste	usurasta	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+20	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nmod	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
+22	usurarono	usurarono	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	SpacesAfter=\n
+

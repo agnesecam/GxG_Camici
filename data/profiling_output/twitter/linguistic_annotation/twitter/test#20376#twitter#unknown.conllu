@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Distruggere un opera d'arte è un delitto contro l'umanità sempre e dovunque , qualsiasi siano le motivazioni #Palmyra #Bologna #Blu
+1	Distruggere	Distruggere	VERB	V	VerbForm=Inf	8	csubj	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	opera	opera	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	d'	di	ADP	E	_	5	case	_	SpaceAfter=No
+5	arte	arte	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	delitto	delitto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	contro	contro	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	umanità	umanità	NOUN	S	Gender=Fem	8	nmod	_	_
+12	sempre	sempre	ADV	B	_	11	advmod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	dovunque	dovunque	ADV	B	_	12	conj	_	_
+15	,	,	PUNCT	FF	_	8	punct	_	_
+16	qualsiasi	qualsiasi	SCONJ	CS	_	19	mark	_	_
+17	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	motivazioni	motivazione	NOUN	S	Gender=Fem|Number=Plur	8	advcl	_	_
+20	#Palmyra	#Palmyra	PROPN	SP	_	19	nsubj	_	_
+21	#Bologna	#Bologna	PROPN	SP	_	20	flat:name	_	_
+22	#Blu	#Blu	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

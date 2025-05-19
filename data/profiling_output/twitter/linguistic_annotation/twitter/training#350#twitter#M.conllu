@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #inmezzora avessimo dieci @matteorenzi in tutti i partiti e l'Italia diventerebbe un Grande Paese @paladoc69 @ivanscalfarotto
+1	#inmezzora	#inmezzora	ADV	B	_	2	advmod	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	dieci	dieci	NUM	N	NumType=Card	4	nummod	_	_
+4	@matteorenzi	@matteorenzi	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	in	in	ADP	E	_	8	case	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	partiti	partito	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	Italia	Italia	PROPN	SP	_	12	nsubj	_	_
+12	diventerebbe	diventare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	Grande	grande	ADJ	A	Number=Sing	15	amod	_	_
+15	Paese	paese	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+16	@paladoc69	@paladoc69	NUM	N	NumType=Card	17	nummod	_	_
+17	@ivanscalfarotto	@ivanscalfarotto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpacesAfter=\n
+

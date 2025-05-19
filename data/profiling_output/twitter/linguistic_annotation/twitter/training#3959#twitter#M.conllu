@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = IRSINA (MT).
+1	IRSINA	IRSINA	ADV	B	_	3	advmod	_	_
+2	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	MT	MT	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = I CARABINIERI ARRESTANO UN 40ENNE CHE DOVRÀ ESPIARE UNA CONDANNA ALLA RECLUSIONE DI 6 MESI.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	CARABINIERI	Carabinieri	PROPN	SP	_	7	nsubj	_	_
+3	ARRESTANO	ARRESTANO	PROPN	SP	_	2	nmod	_	_
+4	UN	Un	PROPN	SP	_	3	flat:name	_	_
+5	40ENNE	40ENNE	PROPN	SP	_	3	flat:name	_	_
+6	CHE	Che	PROPN	SP	_	3	flat:name	_	_
+7	DOVRÀ	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	ESPIARE	ESPIARE	PROPN	SP	_	7	obj	_	_
+9	UNA	Una	PROPN	SP	_	8	flat:name	_	_
+10	CONDANNA	condanna	PROPN	SP	_	8	flat:name	_	_
+11-12	ALLA	_	_	_	_	_	_	_	_
+11	A	A	ADP	E	_	12	case	_	_
+12	LA	La	PROPN	SP	_	8	nmod	_	_
+13	RECLUSIONE	reclusione	PROPN	SP	_	12	flat:name	_	_
+14	DI	di	ADP	E	_	15	case	_	_
+15	6	6	NUM	N	NumType=Card	16	nummod	_	_
+16	MESI	mese	PROPN	SP	_	7	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = lucaniatv.com/description.ph p?id=904 …
+1	lucaniatv.com/description.ph	lucaniatv.com/description.ph	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	p?id=904	p?id=904	NUM	N	NumType=Card	1	nummod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

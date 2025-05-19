@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @albertobertoni_ Giustissimo!
+1	@albertobertoni_	@albertobertoni-	PUNCT	FB	_	2	punct	_	_
+2	Giustissimo	Giustissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Io mi chiedo xchè le persone non facciano lo stesso calcolo e continuino a farsi del male.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	xchè	xché	SCONJ	CS	_	8	mark	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	persone	persona	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	calcolo	calcolo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	continuino	continuare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15-16	farsi	_	_	_	_	_	_	_	_
+15	far	fare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+17-18	del	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	male	male	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

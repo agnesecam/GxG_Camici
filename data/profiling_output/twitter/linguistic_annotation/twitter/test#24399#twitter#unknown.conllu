@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA IL CAZZO CHE GLIENE DEVE FREGARE A STI DUE GENITORI DI MERDA?
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	IL	il	PROPN	SP	_	1	flat:name	_	_
+3	CAZZO	CAZZO	PROPN	SP	_	1	flat:name	_	_
+4	CHE	Che	PROPN	SP	_	1	flat:name	_	_
+5	GLIENE	GLIENE	PROPN	SP	_	4	flat:name	_	_
+6	DEVE	Deve	PROPN	SP	_	4	flat:name	_	_
+7	FREGARE	FREGARE	PROPN	SP	_	4	flat:name	_	_
+8	A	A	PROPN	SP	_	4	flat:name	_	_
+9	STI	STI	PROPN	SP	_	4	flat:name	_	_
+10	DUE	due	PROPN	SP	_	4	flat:name	_	_
+11	GENITORI	genitore	PROPN	SP	_	4	flat:name	_	_
+12	DI	Di	ADP	E	_	13	case	_	_
+13	MERDA	MERDA	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #CèPostaPerTe
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	CèPostaPerTe	CèPostaPerTe	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

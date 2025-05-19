@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lodocomello ciao tu sei bellissima e molto affascinante ti e mai capitato che ti facessero una proposta di matrimonio?
+1	@lodocomello	@lodocomello	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ciao	ciao	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	0	root	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	molto	molto	ADV	B	_	8	advmod	_	_
+8	affascinante	affascinare	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	5	conj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	mai	mai	ADV	B	_	12	advmod	_	_
+12	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+13	che	che	SCONJ	CS	_	15	mark	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	expl	_	_
+15	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	matrimonio	matrimonio	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

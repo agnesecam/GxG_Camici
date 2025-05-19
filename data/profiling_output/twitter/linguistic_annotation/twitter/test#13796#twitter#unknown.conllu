@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LauraePaolaRai1 buona domenica a voi ragazze e che venerdì arrivi presto!!!
+1	@LauraePaolaRai1	@LauraePaolaRail	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	buona	buono	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	ragazze	ragazza	NOUN	S	Gender=Masc	3	nmod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	venerdì	venerdì	NOUN	S	Gender=Masc	10	nsubj	_	_
+10	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	presto	presto	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	!!!	!!!	PUNCT	FF	_	10	punct	_	_
+
+# sent_id = 2
+# text = La TV senza di voi perde ogni senso come faremo dal 16 in poi?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	TV	TV	NOUN	S	Gender=Fem	6	nsubj	_	_
+3	senza	senza	ADP	E	_	5	case	_	_
+4	di	di	ADP	E	_	3	fixed	_	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nmod	_	_
+6	perde	perdere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	8	det	_	_
+8	senso	senso	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	come	come	SCONJ	CS	_	10	mark	_	_
+10	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	6	advcl	_	_
+11-12	dal	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	16	16	NUM	N	NumType=Card	10	obl	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	poi	poi	ADV	B	_	10	advmod	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

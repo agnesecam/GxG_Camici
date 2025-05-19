@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma che ridere i pagliacci ' se avessimo giocato sempre così ' ... #InterJuve
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	ridere	ridere	VERB	V	VerbForm=Inf	15	ccomp	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	pagliacci	pagliaccio	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	'	'	PUNCT	FB	_	9	punct	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+10	sempre	sempre	ADV	B	_	9	advmod	_	_
+11	così	così	ADV	B	_	9	advmod	_	_
+12	'	'	PUNCT	FB	_	9	punct	_	_
+13	...	...	PUNCT	FF	_	9	punct	_	_
+14	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+15	InterJuve	InterJuve	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

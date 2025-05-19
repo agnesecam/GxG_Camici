@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se mi chiudessero in una stanza con Nedved e Pogba e mi promettessero che qualsiasi cosa facessi non mi succederebbe nulla, li ucciderei.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	chiudessero	chiudere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	Nedved	Nedved	PROPN	SP	_	6	nmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	Pogba	Pogba	PROPN	SP	_	8	conj	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+13	promettessero	promettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+14	che	che	SCONJ	CS	_	24	mark	_	_
+15	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
+16	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	24	nsubj	_	_
+17	facessi	facesso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+18	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+19	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	iobj	_	_
+20	succederebbe	succedere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+21	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	20	obj	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	20	punct	_	_
+23	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	24	obj	_	_
+24	ucciderei	uccidere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	ccomp	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

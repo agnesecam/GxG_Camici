@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I soloni di settembre/ottobre sulla Juve fuori dallo scudo:
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	soloni	solone	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	settembre	settembre	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	/ottobre	/ottobre	ADV	B	_	8	advmod	_	_
+6-7	sulla	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Juve	Juve	PROPN	SP	_	2	nmod	_	_
+9	fuori	fuori	ADV	B	_	12	case	_	_
+10-11	dallo	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	9	fixed	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	scudo	scudo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ciucci&presuntuosi (parlano a ottobre?!) loro e Juve stratosferica
+1	Ciucci&presuntuosi	Ciucci&presuntuoso	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+2	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	ottobre	ottobre	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	3	punct	_	_
+9	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	Juve	Juve	PROPN	SP	_	9	conj	_	_
+12	stratosferica	stratosferico	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpacesAfter=\n
+

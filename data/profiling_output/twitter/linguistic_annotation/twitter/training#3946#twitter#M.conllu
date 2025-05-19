@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Calciopoli: la Cassazione demolisce la difesa della Juve.
+1	Calciopoli	Calciopolo	NOUN	S	Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Cassazione	Cassazione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	demolisce	demolire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	difesa	difesa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Juve	Juve	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Dovra ’ risarcire tutti i danneggiati!
+1	Dovra	Dovra	ADV	B	_	3	advmod	_	_
+2	’	’	PUNCT	FF	_	1	punct	_	_
+3	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	_
+4	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det:predet	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	danneggiati	danneggiato	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = | @scoopit http:// sco.lt/6wkjqb
+1	|	|	SYM	SYM	_	6	nmod	_	_
+2	@scoopit	@scoopit	NOUN	S	Gender=Masc	1	conj	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	sco.lt/6wkjqb	sco.lt/6wkjqb	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

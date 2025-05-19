@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted monica montella ( @montellamonica ):
+1	Retweeted	Retweete	CCONJ	CC	_	3	cc	_	_
+2	monica	monico	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	montella	montella	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@montellamonica	@montellamonico	NOUN	S	Gender=Fem|Number=Sing	3	appos	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = Le nostre lobby sono i cittadini http://www.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	lobby	lobby	NOUN	S	Gender=Fem	6	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	http://www	http://www	NOUN	S	Gender=Masc	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = beppegrillo.it/movimento/parl amentoeuropeo/2016/04/le-nostre-lobby-sono.html … #M5S via... http:// fb.me/886lSSKLH
+1	beppegrillo.it/movimento/parl	beppegrillo.it/movimento/parl	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	amentoeuropeo/2016	amentoeuropeo/2016	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	04	04	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	le-nostre-lobby-sono.html	le-nostre-lobby-sono.html	NOUN	S	Gender=Masc	1	nmod	_	_
+7	…	…	PUNCT	FF	_	8	punct	_	_
+8	#M5S	#M5S	PROPN	SP	_	1	nmod	_	_
+9	via...	via.	PUNCT	FF	_	8	punct	_	_
+10	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	_
+13	fb.me/886lSSKLH	fb.me/886lSSKLH	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

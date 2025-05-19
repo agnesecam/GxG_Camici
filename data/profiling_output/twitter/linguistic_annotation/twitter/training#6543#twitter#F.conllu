@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nn capisco tutto questo affanno a farci gli auguri,come fossimo specie protetta.Nn mi hai fatto gli auguri?
+1	Nn	Nno	ADP	E	_	2	case	_	_
+2	capisco	capisco	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+3	tutto	tutto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+5	affanno	affare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7-8	farci	_	_	_	_	_	_	_	_
+7	far	fare	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+9	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+10	auguri,come	auguri,come	ADV	B	_	12	advmod	_	_
+11	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	specie	specie	NOUN	S	Gender=Fem	7	ccomp	_	_
+13	protetta.Nn	protetta.Nn	PROPN	SP	_	16	obj	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+15	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Ti odio, insensibile!
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	odio	odio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	insensibile	insensibile	ADJ	A	Number=Sing	2	conj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #siamodonne
+1	#siamodonne	#siamodonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

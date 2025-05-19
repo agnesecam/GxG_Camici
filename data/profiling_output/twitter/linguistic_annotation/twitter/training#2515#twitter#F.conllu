@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = Ma intanto la capitale dell’offshore sta sprofondando dentro al mare: “Tornerà palude” - Ilfattoquotidiano.it http:// tv.ilfattoquotidiano.it/2016/04/08/ref erendum-trivelle-ravenna-e-per-il-no-occupazione-a-rischio-ma-intanto-la-capitale-delloffshore-sta-sprofondando-dentro-al-mare-tornera-palude/504367/ …
+1	Ma	ma	CCONJ	CC	_	9	cc	_	_
+2	intanto	intanto	ADV	B	_	9	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	capitale	capitale	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+5-6	dell’	_	_	_	_	_	_	_	SpaceAfter=No
+5	di	di	ADP	E	_	7	case	_	_
+6	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	offshore	offshore	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sprofondando	sprofondare	VERB	V	VerbForm=Ger	16	advcl	_	_
+10	dentro	dentro	ADV	B	_	13	case	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mare	mare	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	9	punct	_	_
+15	“	“	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	Tornerà	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+17	palude	paluda	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	SpaceAfter=No
+18	”	”	PUNCT	FB	_	17	punct	_	_
+19	-	-	PUNCT	FF	_	17	punct	_	_
+20	Ilfattoquotidiano.it	Ilfattoquotidiano.it	PROPN	SP	_	17	nmod	_	_
+21	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	17	punct	_	_
+24	tv.ilfattoquotidiano.it/2016/04/08/ref	tv.ilfattoquotidiano.it/2016/04/08/ref	ADP	E	_	25	case	_	_
+25	erendum-trivelle	erendum-trivella	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+26	-	-	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+27	ravenna	ravenna	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+28	-	-	PUNCT	FF	_	29	punct	_	SpaceAfter=No
+29	e-per-il-no-occupazione	e-per-il-no-occupazione	NOUN	S	Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
+30	-	-	PUNCT	FF	_	29	punct	_	SpaceAfter=No
+31	a-rischio-ma-intanto-la	a-rischio-ma-intanto-la	NOUN	S	Gender=Fem|Number=Sing	29	compound	_	SpaceAfter=No
+32	-capitale	-capitale	ADJ	A	Number=Sing	31	amod	_	SpaceAfter=No
+33	-	-	PUNCT	FF	_	29	punct	_	SpaceAfter=No
+34	delloffshore-sta-sprofondando	delloffshore-sta-sprofondare	VERB	V	VerbForm=Ger	16	advcl	_	SpaceAfter=No
+35	-	-	PUNCT	FF	_	37	punct	_	SpaceAfter=No
+36	dentro	dentro	ADV	B	_	37	advmod	_	SpaceAfter=No
+37	-al-mare	-al-mare	VERB	V	VerbForm=Inf	34	xcomp	_	SpaceAfter=No
+38	-tornera	-tornera	NOUN	S	Gender=Fem|Number=Sing	37	obj	_	SpaceAfter=No
+39	-palude/504367	-palude/504367	NUM	N	NumType=Card	38	nummod	_	SpaceAfter=No
+40	/	/	PUNCT	FF	_	37	punct	_	_
+41	…	…	PUNCT	FF	_	16	punct	_	SpacesAfter=\n
+

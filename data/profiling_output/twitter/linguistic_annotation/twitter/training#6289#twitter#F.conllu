@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Continuate pure a richiamarci per strada come se fossimo dei gatti, perché come tali vi ignoreremo voltandoci bellamente dall'altra parte.
+1	Continuate	Continuare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	pure	pure	ADV	B	_	4	advmod	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4-5	richiamarci	_	_	_	_	_	_	_	_
+4	richiamar	richiamare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	strada	strada	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	come	come	ADV	B	_	13	advmod	_	_
+9	se	se	SCONJ	CS	_	13	mark	_	_
+10	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	gatti	gatto	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	4	punct	_	_
+15	perché	perché	SCONJ	CS	_	20	mark	_	_
+16	come	come	ADP	E	_	18	case	_	_
+17	tali	tale	DET	DD	Number=Plur|PronType=Dem	18	det	_	_
+18	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	20	obl	_	_
+19	ignoreremo	ignorare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	20	aux	_	_
+20-21	voltandoci	_	_	_	_	_	_	_	_
+20	voltando	voltare	VERB	V	VerbForm=Ger	4	advcl	_	_
+21	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	20	obj	_	_
+22	bellamente	bello	ADV	B	_	20	advmod	_	_
+23-24	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+23	da	da	ADP	E	_	26	case	_	_
+24	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	26	det	_	_
+25	altra	altro	ADJ	A	Gender=Fem|Number=Sing	26	amod	_	_
+26	parte	parte	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	20	punct	_	SpacesAfter=\n
+

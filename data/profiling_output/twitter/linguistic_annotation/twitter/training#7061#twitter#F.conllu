@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lucacarboni .. essi sono altrove molto più lontano della notte molto più lontano del giorno.
+1	@lucacarboni	@lucacarbone	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	.	.	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	9	punct	_	_
+4	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	altrove	altrove	ADV	B	_	9	advmod	_	_
+7	molto	molto	ADV	B	_	8	advmod	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+10-11	della	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	notte	notte	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	molto	molto	ADV	B	_	14	advmod	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	giorno.	giorno.	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = #iragazzichesiamano pic.twitter.com/qdG0Er0C4N
+1	#iragazzichesiamano	#iragazzichesiamare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pic.twitter.com/qdG0Er0C4N	pic.twitter.com/qdG0Er0C4N	PROPN	SP	_	1	obj	_	SpacesAfter=\n
+

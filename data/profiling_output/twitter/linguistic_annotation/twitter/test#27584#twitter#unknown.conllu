@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jakereale @bagnolimd nuooooo 12!!! non più di 12!!!!
+1	@jakereale	@jakereale	ADJ	A	Number=Sing	2	amod	_	_
+2	@bagnolimd	@bagnolimd	NOUN	S	Gender=Masc	0	root	_	_
+3	nuooooo	nuooooo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	12	12	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+5	!	!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	4	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	più	più	ADV	B	_	10	advmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	12!!!	12!!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Anzi se lo facessero 11 sarebbe ancora meglio per me!!!
+1	Anzi	anzi	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	11	11	NUM	N	NumType=Card	4	nummod	_	_
+6	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	ancora	ancora	ADV	B	_	8	advmod	_	_
+8	meglio	meglio	ADV	B	_	10	advmod	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	me!	me!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+11	!!	!!	PUNCT	FF	_	10	punct	_	SpacesAfter=\n
+

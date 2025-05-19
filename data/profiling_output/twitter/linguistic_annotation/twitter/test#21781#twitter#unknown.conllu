@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bella ragazza, bel sorriso, sembri brava e simpatica e per il resto non ti conosc… — Graziee mille troppo gentile https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM2KEC7OITRTZ3LWHEKHV2XYNMYIYNC6KOFRHMSRZQKG2PWFIBI5RH6FIN5U36Y3N7NLRP5BJDXAAQDBCPIR3SEK6PA6MD4JHXTT5O5VDVTCUYAVIDZXKE3F4EICDQURLE72IHT74O23OURUDLTKWI2I47GRDX5XPV2BALT47GRM7YYSYZ …
+1	Bella	bello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	bel	bello	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	brava	bravo	ADJ	A	Gender=Fem|Number=Sing	7	xcomp	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	8	conj	_	_
+11	e	e	CCONJ	CC	_	16	cc	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	resto	resto	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	conj	_	_
+17	conosc…	conosc…	PUNCT	FF	_	16	punct	_	_
+18	—	—	PUNCT	FF	_	16	punct	_	_
+19	Graziee	Graziee	PROPN	SP	_	16	nmod	_	_
+20	mille	mille	NUM	N	_	19	nummod	_	_
+21	troppo	troppo	ADV	B	_	20	advmod	_	_
+22	gentile	gentile	ADJ	A	Number=Sing	20	conj	_	_
+23	https:	https:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	20	nmod	_	_
+27	7B667HQMHN2IG6NM2KEC7OITRTZ3LWHEKHV2XYNMYIYNC6KOFRHMSRZQKG2PWFIBI5RH6FIN5U36Y3N7NLRP5BJDXAAQDBCPIR3SEK6PA6MD4JHXTT5O5VDVTCUYAVIDZXKE3F4EICDQURLE72IHT74O23OURUDLTKWI2I47GRDX5XPV2BALT47GRM7YYSYZ	7B667HQMHN2IG6NM2KEC7OITRTZ3LWHEKHV2XYNMYIYNC6KOFRHMSRZQKG2PWFIBI5RH6FIN5U36Y3N7NLRP5BJDXAAQDBCPIR3SEK6PA6MD4JHXTT5O5VDVTCUYAVIDZXKE3F4EICDQURLE72IHT74O23OURUDLTKWI2I47GRDX5XPV2BALT47GRM7YYSYZ	PROPN	SP	_	26	flat:name	_	_
+28	…	…	PUNCT	FF	_	16	punct	_	SpacesAfter=\n
+

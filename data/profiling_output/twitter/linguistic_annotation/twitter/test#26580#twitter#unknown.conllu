@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lucatelese non mi è sembrato buonismo il tuo, nè tentativo di giustificare, ma è dura farlo capire a certa gente!
+1	@lucatelese	@lucatelese	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	buonismo	buonismo	NOUN	S	Gender=Masc|Number=Sing	5	xcomp	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tuo	tuo	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	nè	nè	CCONJ	CC	_	11	cc	_	_
+11	tentativo	tentativo	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	giustificare	giustificare	VERB	V	VerbForm=Inf	11	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	ma	ma	CCONJ	CC	_	17	cc	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	dura	duro	ADJ	A	Gender=Fem|Number=Sing	5	conj	_	_
+18-19	farlo	_	_	_	_	_	_	_	_
+18	far	fare	VERB	V	VerbForm=Inf	17	csubj	_	_
+19	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+20	capire	capire	VERB	V	VerbForm=Inf	18	ccomp	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	certa	certo	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	_
+23	gente	gente	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

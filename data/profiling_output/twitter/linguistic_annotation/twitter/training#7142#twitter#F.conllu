@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PgGrilli vabbeh continuano a fare i conti senza l'oste,citando cina e russia sono fuori pista, essi preferiscono agire a livello locale
+1	@PgGrilli	@PgGrille	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	vabbeh	vabbeh	ADJ	A	_	1	amod	_	_
+3	continuano	continuare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	conti	conto	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	senza	senza	ADP	E	_	10	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	oste,citando	oste,citando	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+11	cina	cina	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	russia	russia	ADJ	A	Gender=Fem|Number=Sing	11	conj	_	_
+14	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	fuori	fuori	ADP	E	_	16	case	_	_
+16	pista	pista	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+19	preferiscono	preferire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	_
+20	agire	agire	VERB	V	VerbForm=Inf	19	xcomp	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	livello	livello	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+23	locale	locale	ADJ	A	Number=Sing	22	amod	_	SpacesAfter=\n
+

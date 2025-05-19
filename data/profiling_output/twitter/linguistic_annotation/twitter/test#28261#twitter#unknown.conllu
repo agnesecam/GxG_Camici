@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "alla luce del nuovo mondo vinceremo con un girotondo al buio della vecchia era saremmo finiti tutti in galera" pic.twitter.com/wYYbYLJBFT
+1	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	luce	luce	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+9	vinceremo	vincere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	girotondo	girotondo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	buio	buio	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	vecchia	vecchio	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+19	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	_
+20	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	finiti	finire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	conj	_	_
+22	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	21	nsubj	_	_
+23	in	in	ADP	E	_	24	case	_	_
+24	galera	galera	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+25	"	"	PUNCT	FB	_	26	punct	_	_
+26	pic.twitter.com/wYYbYLJBFT	pic.twitter.com/wYYbYLJBFT	PROPN	SP	_	24	nmod	_	SpacesAfter=\n
+

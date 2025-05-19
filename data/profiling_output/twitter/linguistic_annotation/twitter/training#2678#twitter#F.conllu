@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #recake2 è ripartita...la@combinazione potrebbe sembrare strana ma...funziona alla grande!
+1	#recake2	#recake2	NUM	N	NumType=Card	3	nummod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	ripartita...la@combinazione	ripartita...la@combinazione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+6	strana	strano	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	ma...funziona	ma...funziona	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8-9	alla	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	grande	grande	ADJ	A	Number=Sing	7	nmod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Cake… https://www.
+1	Cake…	Cake…	PROPN	SP	_	0	root	_	_
+2	https://www	https://www	NOUN	S	_	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD2vNWbPH5C/
+1	instagram.com/p/BD2vNWbPH5C/	instagram.com/p/BD2vNWbPH5C/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

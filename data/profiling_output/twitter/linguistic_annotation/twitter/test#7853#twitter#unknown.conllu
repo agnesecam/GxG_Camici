@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque i "poteri forti" ce l'avrebbero con Renzi, ossia con colui che siede al tavolo con Marchionne e Davide Serra.
+1	Dunque	dunque	ADV	B	_	9	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	poteri	potere	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+5	forti	forte	ADJ	A	Number=Plur	4	amod	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	4	punct	_	_
+7	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+9	avrebbero	avere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	Renzi	Renzi	PROPN	SP	_	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	ossia	ossia	CCONJ	CC	_	15	cc	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	colui	colui	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	conj	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	siede	sedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+21	con	con	ADP	E	_	22	case	_	_
+22	Marchionne	Marchionne	PROPN	SP	_	20	nmod	_	_
+23	e	e	CCONJ	CC	_	24	cc	_	_
+24	Davide	Davide	PROPN	SP	_	22	conj	_	_
+25	Serra	serra	PROPN	SP	_	24	flat:name	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

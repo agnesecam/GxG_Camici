@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E la gufata del secolo di tramezzani l'abbiamo avuta
+1	E	e	CCONJ	CC	_	11	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	gufata	gufata	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	secolo	secolo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	tramezzani	tramezzano	NOUN	S	Gender=Masc	6	nmod	_	_
+9	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	11	obj	_	SpaceAfter=No
+10	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

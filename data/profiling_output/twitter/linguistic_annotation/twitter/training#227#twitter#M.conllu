@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo messo un decimo del sacrosanto impegno per il caso #Regeni la storia di Ustica l'avremmo risolta dopo due giorni.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	decimo	decimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	sacrosanto	sacrosanto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	impegno	impegno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	caso	caso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+13	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+14	Regeni	Regeno	PROPN	SP	_	3	obj	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	storia	storia	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	Ustica	Ustica	PROPN	SP	_	16	nmod	_	_
+19	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	avremmo	avere	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+21	risolta	risolvere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	20	acl	_	_
+22	dopo	dopo	ADP	E	_	24	case	_	_
+23	due	due	NUM	N	NumType=Card	24	nummod	_	_
+24	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

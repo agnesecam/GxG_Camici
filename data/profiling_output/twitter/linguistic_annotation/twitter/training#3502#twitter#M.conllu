@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ..ma siiii simo!!! male non ti farà . .. https:// twitter.com/simocavagna1/s tatus/718360360445743104 …
+1	..ma	..ma	ADV	B	_	3	advmod	_	_
+2	siiii	siterzo	AUX	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	simo	simo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+4	!!!	!!!	PUNCT	FF	_	8	punct	_	_
+5	male	male	ADV	B	_	8	advmod	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	advcl	_	_
+9	.	.	PUNCT	FS	_	8	punct	_	_
+10	..	..	PUNCT	FF	_	8	punct	_	_
+11	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	8	punct	_	_
+14	twitter.com/simocavagna1/s	twitter.com/simocavagna1/s	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+15	tatus/718360360445743104	tatus/718360360445743104	NUM	N	NumType=Card	14	nummod	_	_
+16	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

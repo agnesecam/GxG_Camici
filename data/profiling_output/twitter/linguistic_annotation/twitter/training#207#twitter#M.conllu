@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo vinto o pareggiato, nessuno avrebbe contestato società e squadra, anche se i problemi sarebbero rimasti.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	pareggiato	pareggiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	_
+8	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	contestato	contestare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	società	società	NOUN	S	Gender=Fem	9	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	9	punct	_	_
+14	anche	anche	ADV	B	_	19	mark	_	_
+15	se	se	SCONJ	CS	_	14	fixed	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_
+18	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	rimasti	rimanere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Serve più lucidità.
+1	Serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	più	più	ADV	B	_	1	advmod	_	_
+3	lucidità	lucidità	NOUN	S	Gender=Fem	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

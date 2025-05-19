@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #QuintaColonna maledettimuzzy.
+1	#QuintaColonna	#QuintaColonna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	maledettimuzzy	maledettimuzzy	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = farete tutti la fine che un popoloingiustamente si merito 70anni fa.siate tuttiMaledetti senza distinzione
+1	farete	faere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	nsubj	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fine	fine	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	popoloingiustamente	popoloingiustamente	NOUN	S	Number=Sing	1	obl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	merito	meritare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+10	70anni	70anno	NOUN	S	Gender=Masc|Number=Plur	9	xcomp	_	_
+11	fa.siate	fa.siare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	acl	_	_
+12	tuttiMaledetti	tuttiMaledetti	PROPN	SP	_	11	obj	_	_
+13	senza	senza	ADP	E	_	14	case	_	_
+14	distinzione	distinzione	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpacesAfter=\n
+

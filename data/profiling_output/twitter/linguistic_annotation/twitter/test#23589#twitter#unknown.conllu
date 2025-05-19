@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si può ragionevolmente ritenere che chi pensa che il denaro possa tutto, sia egli stesso disposto a tutto per il denaro.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	ragionevolmente	ragionevolmente	ADV	B	_	4	advmod	_	_
+4	ritenere	ritenere	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	chi	chi	PRON	PR	Number=Sing|PronType=Rel	4	ccomp	_	_
+7	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+8	che	che	SCONJ	CS	_	12	mark	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	denaro	denaro	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	ccomp	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+15	egli	ello	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+16	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+17	disposto	disposto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+18	a	a	ADP	E	_	19	case	_	_
+19	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	obl	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	denaro	denaro	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

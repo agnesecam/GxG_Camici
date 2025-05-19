@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alessia01smile @xloujssmylexxx @itslucavalenti Ale facevi prima a inviare un messaggio a me cambiandomi nome
+1	@alessia01smile	@alessia01smile	ADJ	A	Number=Sing	2	amod	_	_
+2	@xloujssmylexxx	@xloujssmylexxx	NOUN	S	_	3	nsubj	_	_
+3	@itslucavalenti	@itslucavalente	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Ale	Ale	PROPN	SP	_	3	obj	_	_
+5	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+6	prima	prima	ADV	B	_	5	advmod	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	inviare	inviare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	messaggio	messaggio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+13-14	cambiandomi	_	_	_	_	_	_	_	_
+13	cambiando	cambiare	VERB	V	VerbForm=Ger	8	advcl	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+15	nome	nome	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	SpacesAfter=\n
+

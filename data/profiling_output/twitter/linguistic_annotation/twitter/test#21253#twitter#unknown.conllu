@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Jasper che fa da dialisi per Maya nella speranza che lei gliela dia #DeCento #the100
+1	Jasper	Jasper	PROPN	SP	_	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	dialisi	dialisi	NOUN	S	Gender=Fem	3	obl	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	Maya	Maya	PROPN	SP	_	1	nmod	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	13	obj	_	_
+12	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13-14	gliela	_	_	_	_	_	_	_	_
+13	glie	gli	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+14	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	dia	dia	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	#	#	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	DeCento	DeCento	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+18	#the100	#the100	NUM	N	NumType=Card	17	nummod	_	SpacesAfter=\n
+

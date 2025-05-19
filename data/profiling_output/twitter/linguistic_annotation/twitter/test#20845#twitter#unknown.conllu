@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Piave_79 te sei romano ?
+1	@Piave_79	@Piave_79	NUM	N	NumType=Card	4	nummod	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+3	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	romano	romere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = no perke ne saresti la vergogna a rivota i soliti @carlucci_cc @ZeppaD @Storace @GianelliniR @soniabetz1
+1	no	no	ADV	BN	PronType=Neg	4	advmod	_	_
+2	perke	perke	ADV	B	_	4	advmod	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	saresti	saredere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	rivota	rivotare	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	soliti	solito	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+11	@carlucci_cc	@carlucci_cc	NOUN	S	Gender=Masc	4	obj	_	_
+12	@ZeppaD	@ZeppaD	PROPN	SP	_	11	nmod	_	_
+13	@Storace	@Storace	PROPN	SP	_	12	flat:name	_	_
+14	@GianelliniR	@GianelliniR	PROPN	SP	_	12	flat:name	_	_
+15	@soniabetz1	@soniabetz1	PROPN	SP	NumType=Card	4	flat:name	_	SpacesAfter=\n
+

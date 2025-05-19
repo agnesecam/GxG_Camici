@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nulla accade per caso Anche la situazione più difficile Prima o poi regalerà un sorriso ..
+1	Nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	2	nsubj	_	_
+2	accade	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+5	Anche	anche	ADV	B	_	7	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	difficile	difficile	ADJ	A	Number=Sing	7	amod	_	_
+10	Prima	Prima	ADV	B	_	9	advmod	_	_
+11	o	o	CCONJ	CC	_	13	cc	_	_
+12	poi	poi	ADV	B	_	13	advmod	_	_
+13	regalerà	regalare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	conj	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = avrai superato te stessa pic.twitter.com/EnkAt2Xdgt
+1	avrai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	superato	superare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+4	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+5	pic.twitter.com/EnkAt2Xdgt	pic.twitter.com/EnkAt2Xdgt	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

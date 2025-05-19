@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il mio amico Anthony da 100 giorni pubblica quotidianamente una poesia scritta da lui.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	amico	amico	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+4	Anthony	Anthony	PROPN	SP	_	3	nmod	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	100	100	NUM	N	NumType=Card	7	nummod	_	_
+7	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+8	pubblica	pubblico	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	quotidianamente	quotidiano	ADV	B	_	8	advmod	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	poesia	poesia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+12	scritta	scrivere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl:agent	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Obiettivo 366!
+1	Obiettivo	obiettivo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	366	366	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ce la farà ?
+1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/4CnKQQYVM
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4CnKQQYVM	fb.me/4CnKQQYVM	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

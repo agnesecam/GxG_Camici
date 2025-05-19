@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @social_mediaset @IsolaDeiFamosi sembra avere la stessa sorte che ebbe Valerio Scanu l'anno scorso.
+1	@social_mediaset	@social_mediaset	NOUN	S	Gender=Masc	3	nsubj	_	_
+2	@IsolaDeiFamosi	@IsolaDeiFamoso	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	avere	avere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	sorte	sorte	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
+10	Valerio	Valerio	PROPN	SP	_	9	obj	_	_
+11	Scanu	Scanu	PROPN	SP	_	10	flat:name	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	anno	anno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+14	scorso	scorso	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Li farà fuori tutti!
+1	Li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	fuori	fuori	ADV	B	_	2	advmod	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Forza Jonas!
+1	Forza	Forza	PROPN	SP	_	0	root	_	_
+2	Jonas	Jonas	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

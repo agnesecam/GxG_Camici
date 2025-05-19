@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @saesita_ no no ma Igea Marina mi fa ridere come nome perché senza il "Marina" mi dà di montagna
+1	@saesita_	@saesita-	PUNCT	FB	_	2	punct	_	_
+2	no	no	X	SW	Foreign=Yes	0	root	_	_
+3	no	no	X	SW	Foreign=Yes	2	flat:foreign	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	Igea	Igea	PROPN	SP	_	8	nsubj	_	_
+6	Marina	Marina	PROPN	SP	_	5	flat:name	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	ridere	ridere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	come	come	ADP	E	_	11	case	_	_
+11	nome	nome	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+12	perché	perché	SCONJ	CS	_	19	mark	_	_
+13	senza	senza	ADP	E	_	16	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	Marina	Marina	PROPN	SP	_	19	obl	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	19	punct	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	iobj	_	_
+19	dà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	SpacesAfter=\n
+

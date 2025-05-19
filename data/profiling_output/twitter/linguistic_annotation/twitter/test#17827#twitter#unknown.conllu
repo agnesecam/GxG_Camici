@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (1/2).
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	2	2	NUM	N	NumType=Card	2	compound	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @ingbrizio @disinformatico lei ha ragione e infatti sa cosa fecero parlamentari tedeschi in quell'occasione?
+1	@ingbrizio	@ingbrizio	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	@disinformatico	@disinformatico	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	infatti	infatti	ADV	B	_	8	advmod	_	_
+8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	10	obj	_	_
+10	fecero	fecero	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	_
+11	parlamentari	parlamentare	NOUN	S	Number=Plur	10	nsubj	_	_
+12	tedeschi	tedesco	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	quell'	quello	DET	DD	Number=Sing|PronType=Dem	15	det	_	SpaceAfter=No
+15	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = Inviarono ai loro contatti
+1	Inviarono	Inviare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2-3	ai	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	5	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	loro	loro	DET	AP	Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	contatti	contatto	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	SpacesAfter=\n
+

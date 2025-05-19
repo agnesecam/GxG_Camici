@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se mai avessimo bisogno di conferme sulla disonestà intellettuale dei ns politici questa è l'ennesima dimostrazione https:// twitter.com/petrettoanto/s tatus/715562695035109376 …
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	mai	mai	ADV	B	_	3	advmod	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	19	advcl	_	_
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	conferme	conferma	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7-8	sulla	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	disonestà	disonestà	NOUN	S	Gender=Fem	6	nmod	_	_
+10	intellettuale	intellettuale	ADJ	A	Number=Sing	9	amod	_	_
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	ns	ns	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+14	politici	politico	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+15	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	19	nsubj	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+18	ennesima	ennesimo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	19	amod	_	_
+19	dimostrazione	dimostrazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+20	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	twitter.com/petrettoanto/s	twitter.com/petrettoanto/s	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
+24	tatus/715562695035109376	tatus/715562695035109376	NUM	N	NumType=Card	23	nummod	_	_
+25	…	…	PUNCT	FF	_	19	punct	_	SpacesAfter=\n
+

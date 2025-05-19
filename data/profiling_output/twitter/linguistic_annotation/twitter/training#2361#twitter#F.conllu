@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche io voglio il forziere della Disney con dentro i 52 dvd :(
+1	Anche	anche	ADV	B	_	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	forziere	forziere	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Disney	Disney	PROPN	SP	_	5	nmod	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	dentro	dentro	ADV	B	_	13	advmod	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	52	52	NUM	N	NumType=Card	13	nummod	_	_
+13	dvd	dvd	NOUN	S	Gender=Masc	3	obl	_	_
+14	:	:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	(	(	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

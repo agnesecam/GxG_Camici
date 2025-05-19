@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giuliafanetti @OsservaMy Molto probabilmente sono cresciuti anch" essi con genitori simili!
+1	@giuliafanetti	@giuliafaneggere	NOUN	S	Gender=Masc	0	root	_	_
+2	@OsservaMy	@OsservaMy	PROPN	SP	_	1	nmod	_	_
+3	Molto	molto	ADV	B	_	6	advmod	_	_
+4	probabilmente	probabilmente	ADV	B	_	6	advmod	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	cresciuti	crescere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+7	anch	anch	ADV	B	_	9	case	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	9	punct	_	_
+9	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+12	simili	simile	ADJ	A	Number=Plur	11	amod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

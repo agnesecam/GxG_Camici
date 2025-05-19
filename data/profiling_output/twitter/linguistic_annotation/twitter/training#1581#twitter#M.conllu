@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le nostre spiagge italiane ....
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	spiagge	spiaggia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	italiane	italiano	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+5	...	...	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2mfn3Wqbp
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2mfn3Wqbp	fb.me/2mfn3Wqbp	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

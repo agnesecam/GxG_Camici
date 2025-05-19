@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ballando_Rai con @stanzaselvaggia .
+1	@Ballando_Rai	@Ballando_Rai	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	@stanzaselvaggia	@stanzaselvaggia	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Non si lascia condizionare da niente e nessuno e poi mi fa ridere assai
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	lascia	lasciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	condizionare	condizionare	VERB	V	VerbForm=Inf	3	advcl	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	_
+7	e	e	CCONJ	CC	_	12	cc	_	_
+8	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	poi	poi	ADV	B	_	12	advmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	ridere	ridere	VERB	V	VerbForm=Inf	12	ccomp	_	_
+14	assai	assai	ADV	B	_	13	advmod	_	SpacesAfter=\n
+

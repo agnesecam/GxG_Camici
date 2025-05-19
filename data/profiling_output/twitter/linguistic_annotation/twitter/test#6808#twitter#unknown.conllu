@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA I CAPELLI DI MADRE NATURA SONO ESSI STESSI LA NATURA?
+1	MA	ma	CCONJ	CC	_	8	cc	_	_
+2	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	CAPELLI	capelli	PROPN	SP	_	8	nsubj	_	_
+4	DI	Di	ADP	E	_	5	case	_	_
+5	MADRE	madre	PROPN	SP	_	3	nmod	_	_
+6	NATURA	natura	PROPN	SP	_	5	flat:name	_	_
+7	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	ESSI	Essi	PROPN	SP	_	0	root	_	_
+9	STESSI	stesso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	_
+10	LA	La	PROPN	SP	_	9	nsubj:pass	_	_
+11	NATURA	Natura	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = #ciaodarwin
+1	#ciaodarwin	#ciaodarwino	ADV	B	_	0	root	_	SpacesAfter=\n
+

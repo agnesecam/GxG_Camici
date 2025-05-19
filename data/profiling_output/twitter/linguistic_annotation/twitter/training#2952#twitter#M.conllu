@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Capisco che essendo arrivato alla frutta (ormai da un po') posso sembrare un bersaglio appetibile, però tutte... http:// fb.me/7LbS1G3h4
+1	Capisco	Capisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	15	mark	_	_
+3	essendo	essere	AUX	VA	VerbForm=Ger	4	aux	_	_
+4	arrivato	arrivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	frutta	frutta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	ormai	ormai	ADV	B	_	7	advmod	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	po'	poco	ADV	B	_	9	obl	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	9	punct	_	_
+14	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	sembrare	sembrare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	bersaglio	bersaglio	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+18	appetibile	appetibile	ADJ	A	Number=Sing	17	amod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	15	punct	_	_
+20	però	però	ADV	B	_	15	advmod	_	_
+21	tutte...	tutte.	PUNCT	FS	_	22	punct	_	_
+22	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	15	punct	_	_
+25	fb.me/7LbS1G3h4	fb.me/7LbS1G3h4	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

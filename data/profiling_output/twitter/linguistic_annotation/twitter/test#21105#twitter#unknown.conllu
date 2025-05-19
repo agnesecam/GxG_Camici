@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GotorMiguel vi considera come carne da macello.
+1	@GotorMiguel	@GotorMiguello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	considera	considerare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	carne	carne	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	macello	macello	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Un po' è anche colpa Vs che gliela date sempre vinta votando tutto
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	po'	poco	ADV	B	_	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	colpa	colpare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	Vs	Vs	PROPN	SP	_	5	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+8-9	gliela	_	_	_	_	_	_	_	_
+8	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+9	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	date	dare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+11	sempre	sempre	ADV	B	_	12	advmod	_	_
+12	vinta	vincere	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+13	votando	votare	VERB	V	VerbForm=Ger	10	advcl	_	_
+14	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obj	_	SpacesAfter=\n
+

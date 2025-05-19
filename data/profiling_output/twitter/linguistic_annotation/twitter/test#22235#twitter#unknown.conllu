@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il giorno in cui tutto ebbe fine.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	cui	cui	PRON	PR	PronType=Rel	6	obl	_	_
+5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+6	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
+7	fine.	fine.	NOUN	S	_	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..io uccisi il mio migliore amico.
+1	..io	..io	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	uccisi	uccidere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+5	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	6	amod	_	_
+6	amico	amico	NOUN	S	Gender=Masc|Number=Sing	2	nsubj:pass	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = E strinsi tra le braccia il mio primo e unico...
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	strinsi	strinso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	tra	tra	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	braccia	braccia	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	unico...	unico.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/76nYeMsL2
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/76nYeMsL2	fb.me/76nYeMsL2	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

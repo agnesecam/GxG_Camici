@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = allora praticamente sabato avrei il recupero a scuola e dovrei andare,ma faremo solo 1 ora visto che siamo 2 ore al cinema-
+1	allora	allora	ADV	B	_	4	advmod	_	_
+2	praticamente	praticamente	ADV	B	_	3	advmod	_	_
+3	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	avrei	avere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	recupero	recupero	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	dovrei	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	andare,ma	andare,mare	ADV	B	_	12	advmod	_	_
+12	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
+13	solo	solo	ADV	B	_	14	advmod	_	_
+14	1	1	NUM	N	NumType=Card	16	nummod	_	_
+15	ora	ora	ADV	B	_	16	advmod	_	_
+16	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+17	che	che	SCONJ	CS	_	20	mark	_	_
+18	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	2	2	NUM	N	NumType=Card	20	nummod	_	_
+20	ore	ora	NOUN	S	Gender=Fem|Number=Plur	16	ccomp	_	_
+21-22	al	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	cinema	cinema	NOUN	S	Gender=Masc	20	obl	_	SpaceAfter=No
+24	-	-	PUNCT	FB	_	12	punct	_	SpacesAfter=\n
+

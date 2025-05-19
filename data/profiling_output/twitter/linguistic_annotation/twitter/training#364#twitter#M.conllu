@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tittidsimone @micheleemiliano e di questa storia sulle concessioni estrattive non sarebbe impippato niente a nessuno se non avessimo
+1	@tittidsimone	@tittidsimone	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+2	@micheleemiliano	@micheleemiliano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	storia	storia	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+7-8	sulle	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	concessioni	concessione	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+10	estrattive	estrattivo	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	impippato	impippare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obj	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obl	_	_
+17	se	se	SCONJ	CS	_	19	mark	_	_
+18	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+19	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	advcl	_	SpacesAfter=\n
+

@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Dottor_Divago Appunto.
+1	@Dottor_Divago	@Dottor_Divago	PROPN	SP	_	0	root	_	_
+2	Appunto	appunto	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Solo i perdenti cercano scuse.
+1	Solo	solo	ADV	B	_	4	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	perdenti	perdento	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	cercano	cercare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	scuse	scusa	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Io non l'ho mai fatto.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	mai	mai	ADV	B	_	6	advmod	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = Neppure quando siamo stati penalizzati con il Bayern tra A e R
+1	Neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+2	quando	quando	SCONJ	CS	_	5	mark	_	_
+3	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	aux:pass	_	_
+5	penalizzati	penalizzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Bayern	Bayern	PROPN	SP	_	5	obl	_	_
+9	tra	tra	ADP	E	_	10	case	_	_
+10	A	a	PROPN	SP	_	8	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	R	R	PROPN	SP	_	10	conj	_	SpacesAfter=\n
+

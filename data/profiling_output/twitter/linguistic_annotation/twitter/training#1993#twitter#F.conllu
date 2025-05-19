@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vi presento Vanissia, la pianta che mia figlia ha riportato dallo spazio.
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	obj	_	_
+2	presento	presento	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Vanissia	Vanissia	PROPN	SP	_	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	pianta	pianta	NOUN	S	Gender=Fem|Number=Sing	3	appos	_	_
+7	che	che	SCONJ	CS	_	11	mark	_	_
+8	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	figlia	figlia	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	riportato	riportare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+12-13	dallo	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #legioiedellamaternità pic.twitter.com/dVYH6eO4vG
+1	#legioiedellamaternità	#legioiedellamaternità	NOUN	S	Gender=Fem	0	root	_	_
+2	pic.twitter.com/dVYH6eO4vG	pic.twitter.com/dVYH6eO4vg	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

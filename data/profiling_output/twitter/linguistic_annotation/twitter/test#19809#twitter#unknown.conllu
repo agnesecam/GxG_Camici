@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alecattelan se a #EPCC invitavi la @baell_squad al completo facevi er botto #baell
+1	@alecattelan	@alecattelan	ADV	B	_	13	advmod	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	#EPCC	#EPCC	PROPN	SP	_	5	obl	_	_
+5	invitavi	invitavo	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	@baell_squad	@baell_squad	NOUN	S	Gender=Fem	13	obj	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	completo	completo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	facevi	faceve	ADJ	A	Number=Plur	10	amod	_	_
+12	er	ere	AUX	VA	VerbForm=Inf	13	aux	_	_
+13	botto	burre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	#baell	#baell	ADJ	A	_	13	xcomp	_	SpacesAfter=\n
+

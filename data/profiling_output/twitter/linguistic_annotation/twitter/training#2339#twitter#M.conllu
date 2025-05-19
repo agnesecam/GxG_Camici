@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #verissimo fuori morgan dentro la barale tutte persone molto tranquille #cattiviragazzi @InArteMorgan sei troppo fuori stima
+1	#verissimo	#verissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	_
+2	fuori	fuori	ADV	B	_	3	advmod	_	_
+3	morgan	morgan	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+4	dentro	dentro	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	barale	barale	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	16	det:poss	_	_
+8	persone	persona	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	_
+9	molto	molto	ADV	B	_	10	advmod	_	_
+10	tranquille	tranquillo	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+11	#cattiviragazzi	#cattiviragazzo	ADP	E	_	12	case	_	_
+12	@InArteMorgan	@InArteMorgan	PROPN	SP	_	8	nmod	_	_
+13	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	troppo	troppo	ADV	B	_	15	advmod	_	_
+15	fuori	fuori	ADV	B	_	16	advmod	_	_
+16	stima	stima	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpacesAfter=\n
+

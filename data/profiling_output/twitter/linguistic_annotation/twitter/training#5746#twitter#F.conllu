@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @namelessmarti ma seria?
+1	@namelessmarti	@namelessmarto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	seria	serio	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Oddio, mi sento realizzata, qualcuna che conosce Ripi.
+1	Oddio	oddio	INTJ	I	_	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+4	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	realizzata	realizzare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj:pass	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	conosce	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	Ripi	Ripi	PROPN	SP	_	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Beata te che sei di Milano
+1	Beata	beare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	expl	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	sei	sei	NUM	N	NumType=Card	1	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Milano	Milano	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

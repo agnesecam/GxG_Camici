@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @68kikka il massimo sforzo non è " sembrare " ma "essere"
+1	@68kikka	@68kikkare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	massimo	massimo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	sforzo	sforzo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	essere	essere	AUX	V	VerbForm=Inf	8	conj	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	8	punct	_	SpacesAfter=\n
+

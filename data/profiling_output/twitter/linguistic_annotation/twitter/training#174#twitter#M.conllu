@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Possiamo permetterci di perdere stasera perché il prossimo turno è facile.
+1	Possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	permetterci	_	_	_	_	_	_	_	_
+2	permetter	permettere	VERB	V	VerbForm=Inf	0	root	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	perdere	perdere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+6	stasera	stasera	ADV	B	_	5	advmod	_	_
+7	perché	perché	SCONJ	CS	_	12	mark	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	turno	turno	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	facile	facile	ADJ	A	Number=Sing	5	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = La Juve.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Juve	Juve	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Allo Juventus stadium.
+1-2	Allo	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Juventus	Juventus	PROPN	SP	_	4	nmod	_	_
+4	stadium	stadium	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Addio.
+1	Addio	Addio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = #PalermoLazio
+1	#PalermoLazio	#PalermoLazio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

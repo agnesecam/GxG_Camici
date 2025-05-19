@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @itlavoro come ebbi (e non "avei", sigh!) già modo di dire... https:// twitter.com/songase975/sta tus/687188512723046400 … #Buonagiornata a voi
+1	@itlavoro	@itlavoro	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+2	come	come	ADP	E	_	3	case	_	_
+3	ebbi	ebbio	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	avei	aveo	ADJ	A	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	sigh	sigh	ADV	B	_	8	advmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	8	punct	_	_
+14	già	già	ADV	B	_	15	advmod	_	_
+15	modo	modo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	dire...	dire...	NOUN	S	_	15	nmod	_	_
+18	https:	https:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	twitter.com/songase975/sta	twitter.com/songase975/stare	NOUN	S	Number=Sing	17	nmod	_	_
+22	tus/687188512723046400	tus/687188512723046400	NUM	N	NumType=Card	21	nummod	_	_
+23	…	…	PUNCT	FF	_	17	punct	_	_
+24	#Buonagiornata	#Buonagiornato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
+25	a	a	ADP	E	_	26	case	_	_
+26	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	24	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Eroico Salvini a documentarci Bruxelles come se non avessimo già fiumi di foto e video di ogni angolo pic.twitter.com/fdEbOOb0al
+1	Eroico	Eroico	PROPN	SP	_	0	root	_	_
+2	Salvini	Salvini	PROPN	SP	_	1	flat:name	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4-5	documentarci	_	_	_	_	_	_	_	_
+4	documentar	documentare	VERB	V	VerbForm=Inf	1	acl	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+6	Bruxelles	Bruxelles	PROPN	SP	_	4	obj	_	_
+7	come	come	ADP	E	_	12	case	_	_
+8	se	se	SCONJ	CS	_	12	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	cop	_	_
+11	già	già	ADV	B	_	12	advmod	_	_
+12	fiumi	fiume	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	foto	foto	NOUN	S	Gender=Fem	12	nmod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	video	video	NOUN	S	Gender=Masc	12	conj	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	19	det	_	_
+19	angolo	angolo	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+20	pic.twitter.com/fdEbOOb0al	pic.twitter.com/fdEbOOb0al	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

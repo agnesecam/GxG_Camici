@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GiorgiaMeloni @rete4 Dalla mia parte?
+1	@GiorgiaMeloni	@GiorgiaMelone	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@rete4	@rete4	NUM	N	NumType=Card	6	nummod	_	_
+3-4	Dalla	_	_	_	_	_	_	_	_
+3	Da	Da	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	parte	parte	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = non ho amici fascisti essi sono contro di me e di tutte le persone democratiche!!
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	amici	amico	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	fascisti	fascista	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	contro	contro	ADV	B	_	2	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	obl	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11	di	di	ADP	E	_	14	case	_	_
+12	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	14	det:predet	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	persone	persona	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	_
+15	democratiche	democratico	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

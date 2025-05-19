@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GianpyZeno1 @Mario_DAloisio @Ilnuovobrigante si, in Francia hanno le palle, qua abbiamo lasciato le nostre in frigo contro questo sistema
+1	@GianpyZeno1	@GianpyZeno1	PROPN	SP	_	8	nsubj	_	_
+2	@Mario_DAloisio	@Mario_DAloisio	PROPN	SP	_	1	flat:name	_	_
+3	@Ilnuovobrigante	@Ilnuovobrigante	PROPN	SP	_	1	flat:name	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	Francia	Francia	PROPN	SP	_	1	nmod	_	_
+8	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	palle	palla	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	qua	qua	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	obj	_	_
+13	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	nostre	nostre	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	frigo	frigo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+19	contro	contro	ADP	E	_	21	case	_	_
+20	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
+21	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpacesAfter=\n
+

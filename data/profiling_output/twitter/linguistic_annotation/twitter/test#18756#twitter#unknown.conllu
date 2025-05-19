@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VORREI AUGURARE A CIASCUNO DI VOI UNA SERENA PASQUA ..SANTA X I CREDENTI COME ME ...CON CHI SI AMA X TUTTI ! pic.twitter.com/uv9iWVDPeH
+1	VORREI	volere	PROPN	SP	_	0	root	_	_
+2	AUGURARE	AUGURARE	PROPN	SP	_	1	flat:name	_	_
+3	A	a	ADP	E	_	4	case	_	_
+4	CIASCUNO	ciascuno	PROPN	SP	_	7	nmod	_	_
+5	DI	Di	ADP	E	_	7	case	_	_
+6	VOI	Vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	UNA	Una	PROPN	SP	_	1	nmod	_	_
+8	SERENA	Serena	PROPN	SP	_	7	flat:name	_	_
+9	PASQUA	PASQUA	PROPN	SP	_	7	flat:name	_	_
+10	..SANTA	..SANTA	PROPN	SP	_	9	flat:name	_	_
+11	X	x	ADJ	NO	Number=Sing|NumType=Ord	9	amod	_	_
+12	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	CREDENTI	CREDENTI	PROPN	SP	_	7	flat:name	_	_
+14	COME	come	PROPN	SP	_	13	nmod	_	_
+15	ME	me	PROPN	SP	_	14	flat:name	_	_
+16	...CON	...CON	PROPN	SP	_	14	flat:name	_	_
+17	CHI	chi	PROPN	SP	_	14	flat:name	_	_
+18	SI	si	PROPN	SP	_	14	flat:name	_	_
+19	AMA	Ama	PROPN	SP	_	14	flat:name	_	_
+20	X	X	PROPN	SP	_	14	flat:name	_	_
+21	TUTTI	Tutti	PROPN	SP	_	14	flat:name	_	_
+22	!	!	PUNCT	FS	_	14	punct	_	_
+23	pic.twitter.com/uv9iWVDPeH	pic.twitter.com/uv9iWVDPeH	PROPN	SP	_	14	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @craccocarlo @SkyUno vi stavate chiedendo se DiCaprio avrebbe vinto l' Oscar
+1	@craccocarlo	@craccocarlo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@SkyUno	@SkyUno	PROPN	SP	_	0	root	_	_
+3	vi	vi	ADV	B	_	5	advmod	_	_
+4	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	chiedendo	chiedere	VERB	V	VerbForm=Ger	2	advcl	_	_
+6	se	se	SCONJ	CS	_	9	mark	_	_
+7	DiCaprio	DiCaprio	PROPN	SP	_	9	nsubj	_	_
+8	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	Oscar	Oscar	PROPN	SP	_	9	obj	_	SpacesAfter=\n
+

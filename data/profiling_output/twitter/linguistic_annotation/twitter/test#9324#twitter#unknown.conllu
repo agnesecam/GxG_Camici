@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @WeHonourJustin giusto non fare di tutt'erba un fascio, ma neppure equivalenze assurde.
+1	@WeHonourJustin	@WeHonourJustino	ADV	B	_	2	advmod	_	_
+2	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	2	csubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	tutt'	tutto	PRON	PI	Number=Sing|PronType=Ind	4	obl	_	SpaceAfter=No
+7	erba	erbare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	fascio	fascio	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	ma	ma	CCONJ	CC	_	13	cc	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	13	advmod	_	_
+13	equivalenze	equivalenza	ADJ	A	Number=Sing	14	amod	_	_
+14	assurde.	assurde.	NOUN	S	_	7	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..l'immagine che hai postato è una discreta minchiata
+1	..l'	..lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	postato	postare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	discreta	discreta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+9	minchiata	minchiato	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpacesAfter=\n
+

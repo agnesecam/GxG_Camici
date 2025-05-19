@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Agostina8469 @EleAspi e soprattutto qualcuna viene scartata a prescindere...
+1	@Agostina8469	@Agostina8469	PROPN	SP	_	0	root	_	_
+2	@EleAspi	@EleAspi	PROPN	SP	_	1	flat:name	_	_
+3	e	e	CCONJ	CC	_	7	cc	_	_
+4	soprattutto	soprattutto	ADV	B	_	7	advmod	_	_
+5	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	7	nsubj:pass	_	_
+6	viene	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	scartata	scartare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	prescindere...	prescindere...	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+
+# sent_id = 2
+# text = #nonsisamai #tutteinfila
+1	#nonsisamai	#nonsisamai	ADV	B	_	2	advmod	_	_
+2	#tutteinfila	#tutteinfilo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

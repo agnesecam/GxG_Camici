@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco una semplice, forse troppo semplice ahimè , verità.
+1	Ecco	ecco	ADV	B	_	10	advmod	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+3	semplice	semplice	ADJ	A	Number=Sing	10	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	forse	forse	ADV	B	_	7	advmod	_	_
+6	troppo	troppo	ADV	B	_	7	advmod	_	_
+7	semplice	semplice	ADJ	A	Number=Sing	10	amod	_	_
+8	ahimè	ahimè	INTJ	I	_	10	discourse	_	_
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	verità	verità	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/86nuwOSdv
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/86nuwOSdv	fb.me/86nuwOSdv	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

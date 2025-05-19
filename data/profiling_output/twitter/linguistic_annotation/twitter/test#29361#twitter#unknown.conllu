@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ci avrete mai!
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+3	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/81LCVaYlF
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/81LCVaYlF	fb.me/81LCVaYlF	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

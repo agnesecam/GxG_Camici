@@ -1,0 +1,91 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La fossa dove gliela scaviamo?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	fossa	fossa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	dove	dove	ADV	B	_	6	advmod	_	_
+4-5	gliela	_	_	_	_	_	_	_	_
+4	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	scaviamo	scavere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = — Amore facciamolo insieme andiamo davanti al morin dove di certo non trovere… https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM7SATJLAI
+1	—	—	PUNCT	FF	_	3	punct	_	_
+2	Amore	amore	PROPN	SP	_	3	nsubj	_	_
+3-4	facciamolo	_	_	_	_	_	_	_	_
+3	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	insieme	insieme	ADV	B	_	6	advmod	_	_
+6	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	davanti	davanti	ADV	B	_	10	case	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	7	fixed	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	morin	morin	NOUN	S	Gender=Masc	6	obl	_	_
+11	dove	dove	ADV	B	_	19	advmod	_	_
+12	di	di	ADP	E	_	19	case	_	_
+13	certo	certo	ADV	B	_	19	advmod	_	_
+14	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+15	trovere…	trovere…	PUNCT	FF	_	16	punct	_	_
+16	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	10	nmod	_	_
+20	7B667HQMHN2IG6NM7SATJLAI	7B667HQMHN2IG6NM7SATJLAI	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = Q
+1	Q	Q	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = 7TPBCNRD7V
+1	7TPBCNRD7V	7TPBCNRD7V	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = 7LI
+1	7LI	7LI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = 7UY
+1	7UY	7uy	CCONJ	CC	_	0	root	_	SpaceAfter=No
+
+# sent_id = 7
+# text = YWNCII2NUENOQRRKOZ7
+1	YWNCII2NUENOQRRKOZ7	YWNCII2NUENOQRRKOZ7	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 8
+# text = WHYFIBUT2VKXRUY
+1	WHYFIBUT2VKXRUY	Whyfibut2vkxruy	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 9
+# text = 7
+1	7	7	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+
+# sent_id = 10
+# text = O5M
+1	O5M	O5M	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 11
+# text = SP
+1	SP	SP	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 12
+# text = L
+1	L	L	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 13
+# text = UL
+1	UL	UL	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 14
+# text = NAZX
+1	NAZX	NAZX	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 15
+# text = WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA= …
+1	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

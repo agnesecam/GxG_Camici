@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @m_crosetti @Divino_2 non vorrei sembrare banale ....ma tutti là alla rubentus sono ingrassati ,velocemente ...
+1	@m_crosetti	@m_crosetto	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	@Divino_2	@Divino_2	PROPN	SP	_	1	nmod	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+6	banale	banale	ADJ	A	Number=Sing	5	xcomp	_	_
+7	....ma	....ma	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nmod	_	_
+9	là	là	ADV	B	_	7	advmod	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	rubentus	rubentus	NOUN	S	Gender=Fem	5	obl	_	_
+13	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	ingrassati	ingrassare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	conj	_	_
+15	,velocemente	,velocemente	ADV	B	_	14	advmod	_	_
+16	...	...	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

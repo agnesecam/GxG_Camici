@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @adatitolo eh, ma infatti la parola 'femminismo' a queste gliela dobbiamo strappà da quelle boccacce!
+1	@adatitolo	@adatitolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	eh	eh	INTJ	I	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	16	punct	_	_
+4	ma	ma	CCONJ	CC	_	16	cc	_	_
+5	infatti	infatti	ADV	B	_	16	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	parola	parola	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+8	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	femminismo	femminismo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	'	'	PUNCT	FB	_	9	punct	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
+13-14	gliela	_	_	_	_	_	_	_	_
+13	glie	glia	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+14	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+15	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	strappà	strappe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+17	da	da	ADP	E	_	19	case	_	_
+18	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	19	det	_	_
+19	boccacce	boccaccia	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

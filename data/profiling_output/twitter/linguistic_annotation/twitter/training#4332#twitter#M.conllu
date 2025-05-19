@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Yi_Benevolence
+1	@Yi_Benevolence	@Yi_Benevolencere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2
+# text = L'atomica non si costruisce in cantina, qualcuno gliela dovrà pur fornire ai terroristi.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	atomica	atomico	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	costruisce	costruire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	cantina	cantina	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	14	punct	_	_
+9	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+10-11	gliela	_	_	_	_	_	_	_	_
+10	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+11	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+13	pur	pure	ADV	B	_	14	advmod	_	_
+14	fornire	fornire	VERB	V	VerbForm=Inf	5	conj	_	_
+15-16	ai	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	terroristi	terrorista	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

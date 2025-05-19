@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se per cinque ore e mezzo non fate niente di niente e vi truccate ogni quarto d'ora per sembrare Platinette cosa vi lamentate?
+1	Se	se	SCONJ	CS	_	8	mark	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	cinque	cinque	NUM	N	NumType=Card	4	nummod	_	_
+4	ore	ora	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+9	niente	niente	PRON	PI	Number=Sing|PronType=Ind	8	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	nmod	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+14	truccate	truccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
+16	quarto	quarto	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+17	d'	di	ADP	E	_	18	case	_	SpaceAfter=No
+18	ora	ora	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+19	per	per	ADP	E	_	20	mark	_	_
+20	sembrare	sembrare	VERB	V	VerbForm=Inf	14	advcl	_	_
+21	Platinette	Platinetto	PROPN	SP	_	20	obj	_	_
+22	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	24	obj	_	_
+23	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	24	expl	_	_
+24	lamentate	lamentare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	21	acl	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

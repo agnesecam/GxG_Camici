@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chiunque sarebbe in confusione.
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	4	nsubj	_	_
+2	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	confusione.	confusione.	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....forse pure Pep Guardiola (dal tiki taka qui farebbe al massimo il tic tac) a... http:// fb.me/TDzP04No
+1	.....forse	.....forrere	ADV	B	_	3	advmod	_	_
+2	pure	pure	ADV	B	_	3	advmod	_	_
+3	Pep	Pep	PROPN	SP	_	9	nsubj	_	_
+4	Guardiola	Guardiola	PROPN	SP	_	3	flat:name	_	_
+5	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+6-7	dal	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tiki	tiko	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+9	taka	tako	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	qui	qui	ADV	B	_	11	advmod	_	_
+11	farebbe	fare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	massimo	massimo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	tic	tic	NOUN	S	_	11	obl	_	_
+17	tac	tac	NOUN	S	_	16	compound	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	16	punct	_	_
+19	a...	a.	NOUN	S	_	9	obj	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/TDzP04No	fb.me/TDzP04No	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

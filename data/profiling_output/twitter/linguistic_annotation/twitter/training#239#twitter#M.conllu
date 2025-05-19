@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Governo Italiano, sul caso Regeni, si ricorda che siamo uno Stato Sovrano.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj:pass	_	_
+3	Italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5-6	sul	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	caso	caso	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+8	Regeni	Regeno	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+11	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	che	che	SCONJ	CS	_	15	mark	_	_
+13	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	11	ccomp	_	_
+16	Sovrano	sovrano	PROPN	SP	_	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Avessimo dato continuità, già dopo... http:// fb.me/3LyrNHeK5
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	continuità	continuità	NOUN	S	Gender=Fem	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	già	già	ADV	B	_	3	advmod	_	_
+6	dopo...	dopo.	PUNCT	FS	_	5	punct	_	_
+7	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	fb.me/3LyrNHeK5	fb.me/3LyrNHeK5	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

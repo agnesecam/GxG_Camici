@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @diegofornero hai ragione,quello che mi dà fastidio sono quei tifosi che insultano allenatore e presidente, ma se non avessimo Cairo?
+1	@diegofornero	@diegofornero	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+2	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	conj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	dà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	fastidio	fastidio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+12	tifosi	tifoso	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	insultano	insultare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15	allenatore	allenatore	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	14	punct	_	_
+19	ma	ma	CCONJ	CC	_	23	cc	_	_
+20	se	se	SCONJ	CS	_	23	mark	_	_
+21	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+22	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	23	cop	_	_
+23	Cairo	Cairo	PROPN	SP	_	14	conj	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

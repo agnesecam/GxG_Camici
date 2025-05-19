@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @billabi assolutamente.
+1	@billabi	@billabo	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+2	assolutamente	assoluto	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Nessuno qui è scontato.
+1	Nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj:pass	_	_
+2	qui	qui	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	scontato	scontare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Sono personaggi complessi, problematici, ciascuno con il proprio affascinante arco evolutivo
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	personaggi	personaggio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	complessi	complesso	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	problematici	problematico	ADJ	A	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	conj	_	_
+8	con	con	ADP	E	_	12	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+10	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+11	affascinante	affascinante	ADJ	A	Number=Sing	12	amod	_	_
+12	arco	arco	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+13	evolutivo	evolutivo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\n
+

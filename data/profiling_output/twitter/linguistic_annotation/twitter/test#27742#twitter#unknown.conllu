@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La malinconia è la felicità di esser tristi Victor Hugo
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	malinconia	malinconia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	felicità	felicità	NOUN	S	Gender=Fem	0	root	_	_
+6	di	di	ADP	E	_	8	mark	_	_
+7	esser	essere	AUX	VA	VerbForm=Inf	8	aux	_	_
+8	tristi	triste	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+9	Victor	Victor	PROPN	SP	_	8	nsubj:pass	_	_
+10	Hugo	Hugo	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

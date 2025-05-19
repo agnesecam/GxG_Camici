@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 25-5-1926 Petliura, capo ucraino esiliato a Parigi, assassino di ebrei fu ammazzato da S. Schwartzbard http://www.
+1	25	25	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	5	5	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	1926	1926	NUM	N	NumType=Card	3	compound	_	_
+6	Petliura	Petliura	PROPN	SP	_	18	nsubj:pass	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	capo	capo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	ucraino	ucraino	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	esiliato	esiliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	Parigi	Parigi	PROPN	SP	_	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	6	punct	_	_
+14	assassino	assassino	NOUN	S	Gender=Masc|Number=Sing	18	nsubj:pass	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	ebrei	ebreo	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+17	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux:pass	_	_
+18	ammazzato	ammazzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+19	da	da	ADP	E	_	20	case	_	_
+20	S.	S.	PROPN	SP	_	18	obl:agent	_	_
+21	Schwartzbard	Schwartzbard	PROPN	SP	_	20	flat:name	_	_
+22	http://www	http://www	NOUN	S	_	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 2
+# text = larivistaintelligente.it/orologiaio-ebr eo-anarchico-e-comunista/ … via @elleri_
+1	larivistaintelligente.it/orologiaio-ebr	larivistaintelligente.it/orologiaio-ebre	NOUN	S	Gender=Masc	0	root	_	_
+2	eo-	_	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	anarchico	anarchico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	e-comunista	e-comunista	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	_
+7	…	…	PUNCT	FF	_	8	punct	_	_
+8	via	via	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+9	@elleri_	@elleri-	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

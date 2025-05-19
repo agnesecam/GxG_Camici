@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BiancaBordigoni @MartyJones92 facevi una bella figura, ti piacciono le dita?
+1	@BiancaBordigoni	@BiancaBordigoni	PROPN	SP	_	3	nsubj	_	_
+2	@MartyJones92	@MartyJones92	PROPN	SP	_	1	flat:name	_	_
+3	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	bella	bello	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	figura	figura	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+9	piacciono	piacere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	dita	dito	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Bastava dirlo!
+1	Bastava	Bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2-3	dirlo	_	_	_	_	_	_	_	SpaceAfter=No
+2	dir	dire	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fa caldo, dunque poso il cappotto sulla panchina della stazione, aspettando l'arrivo del treno che mi porterà da... http:// fb.me/1zDQfoB4U
+1	Fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	caldo	caldo	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	dunque	dunque	ADV	B	_	5	advmod	_	_
+5	poso	poso	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cappotto	cappotto	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+8-9	sulla	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	panchina	panchina	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	stazione	stazione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	5	punct	_	_
+15	aspettando	aspettare	VERB	V	VerbForm=Ger	5	advcl	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	arrivo	arrivo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	treno	treno	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
+21	che	che	PRON	PR	PronType=Rel	23	nsubj	_	_
+22	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	23	iobj	_	_
+23	porterà	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	acl:relcl	_	_
+24	da...	da.	PUNCT	FS	_	23	punct	_	_
+25	http:	http:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	20	punct	_	_
+28	fb.me/1zDQfoB4U	fb.me/1zDQfoB4U	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

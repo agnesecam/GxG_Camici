@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaChiTiConosce mi spezzano quelli che distorcono le loro foto in modo da sembrare superfighi poi le becchi per strada e sembrano Slimer
+1	@MaChiTiConosce	@MaChiTiConoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	parataxis	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	spezzano	spezzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	distorcono	distorcere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	loro	loro	DET	AP	Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	foto	foto	NOUN	S	Gender=Fem	6	obj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	modo	modo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+12	da	da	ADP	E	_	13	mark	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	14	acl	_	_
+14	superfighi	superfigare	PRON	PR	Number=Sing|PronType=Rel	11	conj	_	_
+15	poi	poi	ADV	B	_	14	advmod	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	becchi	becco	NOUN	S	Gender=Masc|Number=Plur	14	conj	_	_
+18	per	per	ADP	E	_	19	case	_	_
+19	strada	strada	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20	e	e	CCONJ	CC	_	14	cc	_	_
+21	sembrano	sembrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	Slimer	Slimer	PROPN	SP	_	21	xcomp	_	SpacesAfter=\n
+

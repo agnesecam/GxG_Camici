@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'accordo sulla flessibilità siglato da fonzie con l'europa vale soltanto per un anno.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+3-4	sulla	_	_	_	_	_	_	_	_
+3	su	su	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	flessibilità	flessibilità	NOUN	S	Gender=Fem	2	nmod	_	_
+6	siglato	siglare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	fonzie	fonzia	NOUN	S	Gender=Fem|Number=Plur	6	obl:agent	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	europa	europo	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	soltanto	soltanto	ADV	B	_	16	advmod	_	_
+14	per	per	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	anno	anno	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = L'anno prossimo dunque ... http:// fb.me/7OEaZLYZO
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	anno	anno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	dunque	dunque	ADV	B	_	2	advmod	_	_
+5	...	...	PUNCT	FF	_	2	punct	_	_
+6	http:	http:	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	2	punct	_	_
+9	fb.me/7OEaZLYZO	fb.me/7OEaZLYZO	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

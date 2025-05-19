@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Veremeenko chiude il match con un 1/2 dalla riga bianca:
+1	Veremeenko	Veremeenko	ADV	B	_	2	advmod	_	_
+2	chiude	chiudere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	match	match	NOUN	S	Gender=Masc	2	obj	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	1/2	1/2	NUM	N	NumType=Card	2	obl	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	riga	riga	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+11	bianca	bianco	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = @PallacReggiana batte @JuveCasertaTeam 87-82 #teamreggio #PRoudofyou
+1	@PallacReggiana	@PallacReggiano	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	batte	batta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	@JuveCasertaTeam	@JuveCasertaTeam	PROPN	SP	_	2	nmod	_	_
+4	87	87	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	82	82	NUM	N	NumType=Card	4	compound	_	_
+7	#teamreggio	#teamreggio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+8	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+9	PRoudofyou	PRoudofyou	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si chiude il caso "Marea Nera":
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	chiude	chiudere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	Marea	Marea	PROPN	SP	_	4	nmod	_	_
+7	Nera	nera	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = British Petroleum dovrà risarcire 20 miliardi di dollari -… https:// twitter.com/Piovegovernola d/status/717274415759757312 … pic.twitter.com/ol5PyjsotQ
+1	British	British	PROPN	SP	_	4	nsubj	_	_
+2	Petroleum	Petroleum	PROPN	SP	_	1	flat:name	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	_
+5	20	20	NUM	N	NumType=Card	6	nummod	_	_
+6	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	dollari	dollaro	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+9	-	-	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+10	…	…	PUNCT	FF	_	14	punct	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	twitter.com/Piovegovernola	twitter.com/Piovegovernola	PROPN	SP	_	4	conj	_	_
+15	d/status/717274415759757312	d/status/717274415759757312	NUM	N	NumType=Card	14	nummod	_	_
+16	…	…	PUNCT	FF	_	14	punct	_	_
+17	pic.twitter.com/ol5PyjsotQ	pic.twitter.com/ol5PyjsotQ	PROPN	SP	_	4	conj	_	SpacesAfter=\n
+

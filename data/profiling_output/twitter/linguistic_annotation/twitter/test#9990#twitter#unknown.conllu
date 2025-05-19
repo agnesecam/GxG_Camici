@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Giorgio Cremaschi ( @CremaschiG ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Giorgio	Giorgio	PROPN	SP	_	1	flat:name	_	_
+3	Cremaschi	Cremaschi	PROPN	SP	_	1	flat:name	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@CremaschiG	@Cremaschig	PROPN	SP	_	1	nmod	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Più interessante #Vespa se invece di figlio #Riina faceva vedere...
+1	Più	più	ADV	B	_	2	advmod	_	_
+2	interessante	interessante	ADJ	A	Number=Sing	0	root	_	_
+3	#Vespa	#Vespa	PROPN	SP	_	2	nsubj	_	_
+4	se	se	SCONJ	CS	_	10	mark	_	_
+5	invece	invece	ADV	B	_	7	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+8	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	Riina	Riina	PROPN	SP	_	10	nsubj	_	_
+10	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+11	vedere...	vedere...	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/98uiWok7g
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/98uiWok7g	fb.me/98uiWok7g	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

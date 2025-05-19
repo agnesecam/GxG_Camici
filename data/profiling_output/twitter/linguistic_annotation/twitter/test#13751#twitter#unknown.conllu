@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sonyitalia grazie mille, faremo un ottimo lavoro @IlarysGrill
+1	@sonyitalia	@sonyitaliare	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	grazie	grazie	NOUN	S	_	8	case	_	_
+3	mille	millo	NUM	N	NumType=Card	2	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	2	fixed	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	ottimo	ottimo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	@IlarysGrill	@IlarysGrill	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

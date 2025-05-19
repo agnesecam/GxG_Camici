@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaGabbiaTw Certo il disegno è chiaro, si chiama immigrazione, gente che al dunque non sarà certo dalla nostra parte.E sono tanti!
+1	@LaGabbiaTw	@LaGabbiaTw	PROPN	SP	_	6	nsubj	_	_
+2	Certo	certo	PROPN	SP	_	1	flat:name	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	disegno	disegno	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	immigrazione	immigrazione	NOUN	S	Gender=Fem|Number=Sing	9	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	gente	gente	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+13	che	che	PRON	PR	PronType=Rel	25	nsubj	_	_
+14-15	al	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	dunque	dunque	PRON	PR	Number=Sing|PronType=Rel	25	obl	_	_
+17	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+18	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	25	cop	_	_
+19	certo	certo	ADV	B	_	25	advmod	_	_
+20-21	dalla	_	_	_	_	_	_	_	_
+20	da	da	ADP	E	_	23	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+22	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	parte.E	parte.E	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	_
+24	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+25	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	12	acl:relcl	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Sono qui!
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	qui	qui	ADV	B	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

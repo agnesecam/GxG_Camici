@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = beh dai li avrai quando andrai a vivere sola https:// twitter.com/niallvshine/st atus/715145797323636736 …
+1	beh	beh	NOUN	S	Gender=Masc	5	nsubj	_	_
+2-3	dai	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+5	avrai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	quando	quando	SCONJ	CS	_	7	mark	_	_
+7	andrai	andere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	vivere	vivere	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	sola	solo	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	twitter.com/niallvshine/st	twitter.com/niallvshine/st	SYM	X	_	10	conj	_	_
+15	atus/715145797323636736	atus/715145797323636736	NUM	N	NumType=Card	14	nummod	_	_
+16	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

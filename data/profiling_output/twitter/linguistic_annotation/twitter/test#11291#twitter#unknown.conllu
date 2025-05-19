@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = OGGI AVRESTI COMPIUTO 51 ANNI.
+1	OGGI	oggi	PROPN	SP	_	0	root	_	_
+2	AVRESTI	AVRESTI	PROPN	SP	_	1	flat:name	_	_
+3	COMPIUTO	compiere	PROPN	SP	_	1	flat:name	_	_
+4	51	51	NUM	N	NumType=Card	5	nummod	_	_
+5	ANNI	anno	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = TI AVREI CHIAMATO PER FARTI GLI AUGURI E PER CHIEDERTI DI TUA MOGLIE E DEI TUOI... http:// fb.me/4Yt80eFwz
+1	TI	ti	PROPN	SP	_	0	root	_	_
+2	AVREI	avere	PROPN	SP	_	1	flat:name	_	_
+3	CHIAMATO	chiamare	PROPN	SP	_	1	flat:name	_	_
+4	PER	per	PROPN	SP	_	1	flat:name	_	_
+5	FARTI	FARTI	PROPN	SP	_	4	flat:name	_	_
+6	GLI	gli	PROPN	SP	_	4	flat:name	_	_
+7	AUGURI	auguri	PROPN	SP	_	4	flat:name	_	_
+8	E	e	CCONJ	CC	_	9	cc	_	_
+9	PER	per	PROPN	SP	_	4	flat:name	_	_
+10-11	CHIEDERTI	_	_	_	_	_	_	_	_
+10	CHIEDER	chieder	PROPN	SP	_	9	flat:name	_	_
+11	TI	Ti	PROPN	SP	_	9	flat:name	_	_
+12	DI	Di	ADP	E	_	13	case	_	_
+13	TUA	tuo	PROPN	SP	_	9	nmod	_	_
+14	MOGLIE	moglie	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl	_	_
+15	E	e	CCONJ	CC	_	18	cc	_	_
+16-17	DEI	_	_	_	_	_	_	_	_
+16	DI	Di	ADP	E	_	18	case	_	_
+17	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	TUOI...	TUOI...	PROPN	SP	_	14	conj	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	fb.me/4Yt80eFwz	fb.me/4Yt80eFwz	PROPN	SP	_	13	flat:name	_	SpacesAfter=\n
+

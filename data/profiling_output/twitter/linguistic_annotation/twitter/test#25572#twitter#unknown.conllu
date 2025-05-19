@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @hugmerossi @ScanduraRoberta Inoltre ha tatuata una chiave di violino nel collo,in mezzo alle spalle,sotto al piercing
+1	@hugmerossi	@hugmerosso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+2	@ScanduraRoberta	@ScanduraRoberta	PROPN	SP	_	5	nsubj	_	_
+3	Inoltre	inoltre	PROPN	SP	_	2	flat:name	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	tatuata	tatuare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	violino	violino	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	collo,in	collo,ino	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+13	mezzo	mezzo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14-15	alle	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	spalle,sotto	spalle,sotto	NUM	N	NumType=Card	12	nmod	_	_
+17-18	al	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	piercing	piercing	NOUN	S	Gender=Masc	12	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = cominciano già le bufale sulle nostre assemblee a Napoli, vorrebbero che noi fossimo come loro e se non ci... http:// fb.me/S7wKyQzP
+1	cominciano	cominciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	già	già	ADV	B	_	1	advmod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	bufale	bufale	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+5-6	sulle	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	assemblee	assemblea	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	Napoli	Napoli	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	vorrebbero	volere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	che	che	SCONJ	CS	_	17	mark	_	_
+14	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+15	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	cop	_	_
+16	come	come	ADP	E	_	17	case	_	_
+17	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	12	ccomp	_	_
+18	e	e	CCONJ	CC	_	21	cc	_	_
+19	se	se	SCONJ	CS	_	21	case	_	_
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+21	ci...	ci.	NOUN	S	_	17	conj	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/S7wKyQzP	fb.me/S7wKyQzP	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

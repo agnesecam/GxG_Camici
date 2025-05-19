@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PAC, PSR, Glifosate:
+1	PAC	PAC	ADV	B	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	PSR	PSR	PROPN	SP	_	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	Glifosate	Glifosato	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = il fallimento delle nostre istituzioni, a danno dell’agricoltura | Il Nuovo... http:// fb.me/4LLUth6OC
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fallimento	fallimento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3-4	delle	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	istituzioni	istituzione	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	danno	danno	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+10-11	dell’	_	_	_	_	_	_	_	SpaceAfter=No
+10	di	di	ADP	E	_	12	case	_	_
+11	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	agricoltura	agricoltura	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+13	|	|	SYM	SYM	_	15	nmod	_	_
+14	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Nuovo...	Nuovo...	PROPN	SP	_	2	nmod	_	_
+16	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	fb.me/4LLUth6OC	fb.me/4LLUth6OC	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

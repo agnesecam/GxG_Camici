@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perdona gli altri, non perché essi meritino il perdono ma perché tu meriti la pace.
+1	Perdona	Perdonare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	perché	perché	SCONJ	CS	_	8	mark	_	_
+7	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+8	meritino	meritare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	perdono	perdono	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	ma	ma	CCONJ	CC	_	14	cc	_	_
+12	perché	perché	SCONJ	CS	_	14	mark	_	_
+13	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
+14	meriti	merire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	pace	pace	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Quanto #saggio questo #Buddha
+1	Quanto	quanto	ADV	B	_	2	advmod	_	_
+2	#saggio	#saggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	#Buddha	#Buddha	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

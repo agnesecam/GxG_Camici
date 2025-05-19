@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = «Visto che non sapevo che lavoro facesse Cristian».
+1	«	«	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+9	Cristian	Cristian	PROPN	SP	_	8	obj	_	SpaceAfter=No
+10	»	»	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Come no?
+1	Come	come	ADP	E	_	2	case	_	_
+2	no	no	ADV	BN	PronType=Neg	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = C'è scritto sulla carta d'identità:
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4-5	sulla	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	carta	carta	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	d'	di	ADP	E	_	8	case	_	SpaceAfter=No
+8	identità	identità	NOUN	S	Gender=Fem	6	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 4
+# text = 'professione tronista'.
+1	'	'	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	professione	professione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	tronista	tronista	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = #Isola
+1	#Isola	#Isolo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

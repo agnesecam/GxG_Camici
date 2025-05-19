@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mykoize a me è sembrato bello ma non molto diverso dalle cose per arrampicarsi del parchetto dei bimbi
+1	@Mykoize	@Mykoiza	ADV	B	_	5	advmod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	bello	bello	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	molto	molto	ADV	B	_	10	advmod	_	_
+10	diverso	diverso	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	conj	_	_
+11-12	dalle	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15-16	arrampicarsi	_	_	_	_	_	_	_	_
+15	arrampicar	arrampicare	VERB	V	VerbForm=Inf	13	acl	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+17-18	del	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	parchetto	parchetto	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+20-21	dei	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	bimbi	bimbio	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	SpacesAfter=\n
+

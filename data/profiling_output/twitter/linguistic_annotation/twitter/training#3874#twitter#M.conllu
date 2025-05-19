@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ziaTata72 Devi capire che esistono persone reali anche nel virtuale.
+1	@ziaTata72	@ziaTata72	PROPN	SP	_	3	nsubj	_	_
+2	Devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	capire	capire	VERB	V	VerbForm=Inf	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	persone	persona	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+7	reali	reale	ADJ	A	Number=Plur	6	amod	_	_
+8	anche	anche	ADV	B	_	11	advmod	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	virtuale	virtuale	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non mi serve essere chi non sono.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+5	chi	chi	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Dato che mostro ciò che sono sempre.
+1	Dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	mostro	mostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	ccomp	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	sempre	sempre	ADV	B	_	4	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

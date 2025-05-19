@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @axolizzatam Se lo merita!
+1	@axolizzatam	@axolizzatam	NOUN	S	Gender=Masc	0	root	_	_
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	merita	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Io non so se lo seguirò (forse avrei avuto bisogno di più tempo per sentirmi " dentro ") ma lo Stimo TROPPO.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	seguirò	seguire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	3	ccomp	_	_
+7	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	forse	forse	ADV	B	_	10	advmod	_	_
+9	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+11	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	più	più	DET	DI	PronType=Ind	14	det	_	_
+14	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16-17	sentirmi	_	_	_	_	_	_	_	_
+16	sentir	sentire	VERB	V	VerbForm=Inf	10	advcl	_	_
+17	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+18	"	"	PUNCT	FB	_	19	punct	_	_
+19	dentro	dentro	ADV	B	_	16	advmod	_	_
+20	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	19	punct	_	_
+22	ma	ma	CCONJ	CC	_	24	cc	_	_
+23	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	Stimo	stimo	PROPN	SP	_	16	conj	_	_
+25	TROPPO	troppo	PROPN	SP	_	24	flat:name	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

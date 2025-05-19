@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho appena finito di vedere Ferris Bueller's Day Off e sono rimasta interdetta dallo scoprire l'origine della scena post-credits di Deadpool.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	appena	appena	ADV	B	_	3	advmod	_	_
+3	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	vedere	vedere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	Ferris	Ferris	PROPN	SP	_	5	obj	_	_
+7	Bueller	Bueller	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	's	's	PART	PART	_	6	case	_	_
+9	Day	day	PROPN	SP	_	6	nmod	_	_
+10	Off	Off	PROPN	SP	_	9	flat:name	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	rimasta	rimanere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+14	interdetta	interdetto	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	_
+15-16	dallo	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	scoprire	scoprire	VERB	V	VerbForm=Inf	14	obl:agent	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	origine	origine	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	scena	scena	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+23	post	post	ADJ	A	_	22	amod	_	SpaceAfter=No
+24	-credits	-credit	X	X	_	22	nmod	_	_
+25	di	di	ADP	E	_	26	case	_	_
+26	Deadpool	Deadpool	PROPN	SP	_	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

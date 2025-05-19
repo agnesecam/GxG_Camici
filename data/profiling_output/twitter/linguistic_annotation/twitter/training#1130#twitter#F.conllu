@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @domenicalive d'urso mi meraviglio che una persona come lei che sta dal parte del persone dalla salute, inviti e lasci parlar sto farmacista
+1	@domenicalive	@domenicalive	ADV	B	_	5	advmod	_	_
+2	d'	di	ADP	E	_	3	case	_	SpaceAfter=No
+3	urso	urso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	meraviglio	meravigliare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	SCONJ	CS	_	26	mark	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	persona	persona	NOUN	S	Gender=Fem|Number=Sing	26	nsubj	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13-14	dal	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	persone	persona	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+19-20	dalla	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	salute	salute	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	23	punct	_	_
+23	inviti	invire	NOUN	S	Gender=Masc|Number=Plur	18	conj	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	lasci	lascere	NOUN	S	Gender=Masc|Number=Plur	26	conj	_	_
+26	parlar	parlare	VERB	V	VerbForm=Inf	5	advcl	_	_
+27	sto	sto	ADJ	A	Gender=Masc|Number=Sing	28	amod	_	_
+28	farmacista	farmacista	NOUN	S	Number=Sing	26	obj	_	SpacesAfter=\n
+

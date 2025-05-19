@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "L'amore arriva per mettere a soqquadro tutte le nostre finte certezze.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	amore	amore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	mettere	mettere	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	soqquadro	soqquadro	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	13	det:predet	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+12	finte	finto	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+13	certezze	certezza	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = " Massimo Bisotti pic.twitter.com/B5Q5vBDAvf
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	Massimo	Massimo	PROPN	SP	_	0	root	_	_
+3	Bisotti	Bisotti	PROPN	SP	_	2	flat:name	_	_
+4	pic.twitter.com/B5Q5vBDAvf	pic.twitter.com/B5Q5vBDAvf	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

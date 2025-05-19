@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ErcoleSpizzirri dovrà per forza ahah comunque okay Ahah ma il 7 mi ispira proprio come numero, è assurdo ma è così AHAHAHAH
+1	@ErcoleSpizzirri	@ErcoleSpizzirri	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	forza	forza	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+5	ahah	ahah	X	SW	Foreign=Yes	4	compound	_	_
+6	comunque	comunque	X	SW	Foreign=Yes	5	flat:foreign	_	_
+7	okay	okay	X	SW	Foreign=Yes	5	flat:foreign	_	_
+8	Ahah	Ahah	X	SW	Foreign=Yes	5	flat:foreign	_	_
+9	ma	ma	CCONJ	CC	_	13	cc	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	7	7	NUM	N	NumType=Card	13	nsubj	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+13	ispira	ispirare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	proprio	proprio	ADV	B	_	13	advmod	_	_
+15	come	come	ADP	E	_	16	case	_	_
+16	numero	numero	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	4	punct	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	assurdo	assurdo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+20	ma	ma	CCONJ	CC	_	23	cc	_	_
+21	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+22	così	così	ADV	B	_	23	advmod	_	_
+23	AHAHAHAH	AHAHAHAH	PROPN	SP	_	19	conj	_	SpacesAfter=\n
+

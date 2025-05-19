@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = «Mai dimenticherò i tuoi precetti, perché per mezzo di essi tu mi dai la vita.
+1	«	«	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Mai	mai	ADV	B	_	3	advmod	_	_
+3	dimenticherò	dimenticare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	precetti	precetto	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	perché	perché	SCONJ	CS	_	13	mark	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
+13	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	advcl	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+15-16	dai	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	18	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	vita	vita	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = »
+1	»	»	PUNCT	FB	_	0	root	_	_
+
+# sent_id = 3
+# text = Salmi 119:93 NR06 http:// bible.com/122/psa.119.93 .nr06 …
+1	Salmi	Salmi	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	119:93	119:93	NUM	N	NumType=Card	3	nummod	_	_
+3	NR06	NR06	PROPN	SP	_	1	nmod	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	bible.com/122/psa.119.93	bible.com/122/psa.119.93	NUM	N	NumType=Range	3	nmod	_	_
+8	.nr06	.nr06	NUM	N	NumType=Card	7	flat	_	_
+9	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perché le fiabe non sono solo per la buonanotte nè soltanto per i bambini...
+1	Perché	perché	ADV	B	_	9	advmod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	fiabe	fiabo	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	solo	solo	ADV	B	_	9	advmod	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	buonanotte	buonanotta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	nè	nè	CCONJ	CC	_	14	cc	_	_
+11	soltanto	soltanto	ADV	B	_	14	advmod	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	bambini...	bambini...	NOUN	S	_	9	conj	_	_
+
+# sent_id = 2
+# text = http:// fb.me/1cLRlUcFD
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/1cLRlUcFD	fb.me/1cLRlUcFD	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

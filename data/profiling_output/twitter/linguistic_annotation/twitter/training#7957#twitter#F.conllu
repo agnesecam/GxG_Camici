@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pinomarte168 @valy_s non sisalvanessuna parte politica..proprionessuno...
+1	@pinomarte168	@pinomarte168	NUM	N	NumType=Card	2	nummod	_	_
+2	@valy_s	@valy_s	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	sisalvanessuna	sisalvanessuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	politica..proprionessuno..	politica..proprionessuno	NOUN	S	_	5	compound	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = del resto Grillo ha ammazzato 4 persone e dunque ?
+1-2	del	_	_	_	_	_	_	_	_
+1	di	di	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	resto	resto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+4	Grillo	Grillo	PROPN	SP	_	3	nmod	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	ammazzato	ammazzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	4	4	NUM	N	NumType=Card	8	nummod	_	_
+8	persone	persona	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	dunque	dunque	ADV	B	_	6	conj	_	_
+11	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

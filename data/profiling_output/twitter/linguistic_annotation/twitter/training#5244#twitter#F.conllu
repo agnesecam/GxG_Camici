@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albe_1964 Uh, che bello!
+1	@Albe_1964	@Albe_1964	PROPN	SP	_	0	root	_	_
+2	Uh	Uh	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	bello	bello	ADJ	A	Gender=Masc|Number=Sing	1	acl:relcl	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Me lo ripeterò ogni volta che non riesco in qualcuna di queste attività ;)
+1	Me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	ripeterò	ripetere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	volta	volta	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	obl	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
+13	attività	attività	NOUN	S	Gender=Fem	10	nmod	_	_
+14	;	;	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

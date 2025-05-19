@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nalismjle felice per lei,per carità.
+1	@nalismjle	@nalismjle	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	felice	felice	ADJ	A	Number=Sing	1	amod	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	lei,per	lei,per	VERB	V	VerbForm=Inf	1	acl	_	_
+5	carità	carità	NOUN	S	Gender=Fem	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mi stupisco del perché Michele sia ancora dentro .
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	stupisco	stupire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	perché	perché	NOUN	S	Gender=Masc	2	obl	_	_
+6	Michele	Michele	PROPN	SP	_	9	nsubj	_	_
+7	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	ancora	ancora	ADV	B	_	9	advmod	_	_
+9	dentro	dentro	ADV	B	_	5	advmod	_	_
+10	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

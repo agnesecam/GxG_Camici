@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due ore consecutive di corsi in palestra e tornerò a camminare tra una settimana #ilmioculettochiedepietà #ahime
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	ore	ora	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	consecutive	consecutivo	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	corsi	corso	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	palestra	palestra	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	tornerò	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	camminare	camminare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	tra	tra	ADP	E	_	14	case	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+15	#ilmioculettochiedepietà	#ilmioculettochiedepietà	NOUN	S	Gender=Fem	11	obj	_	_
+16	#ahime	#ahimo	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	SpacesAfter=\n
+

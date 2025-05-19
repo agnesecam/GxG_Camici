@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se m' avessero detto, appena uscito dallo stadio, che oggi la #fiorentina guadagnava punti su quasi tutti...
+1	se	se	SCONJ	CS	_	7	mark	_	_
+2	m'	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+3	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	appena	appena	ADV	B	_	7	advmod	_	_
+7	uscito	uscire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8-9	dallo	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+13	oggi	oggi	ADV	B	_	16	advmod	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	#fiorentina	#fiorentina	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+16	guadagnava	guadagnavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	_
+17	punti	punto	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+18	su	su	ADP	E	_	20	case	_	_
+19	quasi	quasi	ADV	B	_	20	advmod	_	_
+20	tutti...	tutti.	PUNCT	FS	_	16	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Blogger ha incredibilmente mandato online i post che mi facevano disperare.
+1	Blogger	Blogger	PROPN	SP	_	4	nsubj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	incredibilmente	incredibilmente	ADV	B	_	4	advmod	_	_
+4	mandato	mandare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	online	online	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	post	post	NOUN	S	_	5	nsubj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
+11	disperare	disperare	VERB	V	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Riunione andata.
+1	Riunione	riunione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	andata	andato	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Tra un'ora @SaraRattaro da @garzantilibri <3
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	ora	ora	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	@SaraRattaro	@SaraRattaro	PROPN	SP	_	3	nmod	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	@garzantilibri	@garzantilibro	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	<3	<3	NUM	N	NumType=Card	6	nummod	_	SpacesAfter=\n
+

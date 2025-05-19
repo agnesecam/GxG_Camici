@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Fai ciò che temi e continua a farlo finchè non avrai più paura.
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Fai	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	temi	tema	NOUN	S	Gender=Masc|Number=Plur	3	acl:relcl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	farlo	_	_	_	_	_	_	_	_
+9	far	fare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	finchè	finché	SCONJ	CS	_	13	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	avrai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	9	advcl	_	_
+14	più	più	ADV	B	_	13	advmod	_	_
+15	paura	paura	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Diventerai solo allora il padrone del tuo destino.
+1	Diventerai	Diventeere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	solo	solo	ADV	B	_	3	advmod	_	_
+3	allora	allora	ADV	B	_	1	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	padrone	padrone	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	destino	destino	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = "
+1	"	"	PUNCT	FB	_	0	root	_	_
+
+# sent_id = 4
+# text = Nelson Mandela
+1	Nelson	Nelson	PROPN	SP	_	0	root	_	_
+2	Mandela	Mandela	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

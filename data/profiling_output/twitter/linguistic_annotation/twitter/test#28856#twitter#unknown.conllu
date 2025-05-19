@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = WhatsApp: cosa è cambiato e come funziona sul vostro telefono http:// fb.me/4GWwLh5Jv
+1	WhatsApp	WhatsApp	NOUN	S	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	nsubj	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	parataxis	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	come	come	SCONJ	CS	_	8	mark	_	_
+8	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9-10	sul	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	12	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+13	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	5	punct	_	_
+16	fb.me/4GWwLh5Jv	fb.me/4GWwLh5Jv	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = OH MA CHE CAZZO FATE gliela state regalando voi la palla
+1	OH	oh	INTJ	I	_	0	root	_	_
+2	MA	ma	PROPN	SP	_	9	nsubj	_	_
+3	CHE	Che	PROPN	SP	_	2	flat:name	_	_
+4	CAZZO	CAZZO	PROPN	SP	_	2	flat:name	_	_
+5	FATE	Fate	PROPN	SP	_	2	flat:name	_	_
+6-7	gliela	_	_	_	_	_	_	_	_
+6	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+7	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	state	essere	AUX	VA	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	aux:pass	_	_
+9	regalando	regalare	VERB	V	VerbForm=Ger	1	advcl	_	_
+10	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	9	iobj	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	palla	palla	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpacesAfter=\n
+

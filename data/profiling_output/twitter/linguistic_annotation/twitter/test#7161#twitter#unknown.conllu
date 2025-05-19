@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mdpennalunga @Luciosalis "Perdona gli altri, non perché essi meritano il perdono, ma perché tu meriti la pace..."
+1	@mdpennalunga	@mdpennalungere	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	@Luciosalis	@Luciosalis	PROPN	SP	_	1	nmod	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	Perdona	Perdona	PROPN	SP	_	1	nmod	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	perché	perché	SCONJ	CS	_	11	mark	_	_
+10	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	meritano	meritare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	perdono	perdono	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	18	punct	_	_
+15	ma	ma	CCONJ	CC	_	18	cc	_	_
+16	perché	perché	SCONJ	CS	_	18	mark	_	_
+17	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	18	nsubj	_	_
+18	meriti	merire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	pace...	pace...	NOUN	S	_	18	obj	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

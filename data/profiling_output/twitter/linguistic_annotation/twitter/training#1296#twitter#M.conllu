@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rimango ancora più sconvolto dalla data di nascita.
+1	Rimango	Rimanire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ancora	ancora	ADV	B	_	3	advmod	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	sconvolto	sconvogliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	data	data	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	nascita	nascita	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Molti sono del #1979, miei coetanei.
+1	Molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#1979	#1979	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	coetanei	coetaneo	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #Sarajevo #monument #morte pic.twitter.com/SwrNcHlPu6
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Sarajevo	Sarajevo	PROPN	SP	_	0	root	_	_
+3	#monument	#monument	SYM	X	_	2	flat:name	_	_
+4	#morte	#morto	ADJ	A	Number=Sing	2	amod	_	_
+5	pic.twitter.com/SwrNcHlPu6	pic.twitter.com/SwrNcHlPu6	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

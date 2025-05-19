@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anonimo10 aprile 2016 20:06 A due settimane dalla liberazione, l'aeroporto di Palmira e' tornato operativo....
+1	Anonimo10	Anonimo10	NUM	N	NumType=Card	18	obl	_	_
+2	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	1	flat	_	_
+3	2016	2016	NUM	N	NumType=Card	1	flat	_	_
+4	20:06	20:06	NUM	N	NumType=Card	3	flat	_	_
+5	A	a	ADP	E	_	7	case	_	_
+6	due	due	NUM	N	NumType=Card	7	nummod	_	_
+7	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	liberazione	liberazione	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	1	punct	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	aeroporto	aeroporto	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Palmira	Palmira	PROPN	SP	_	13	nmod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	SpaceAfter=No
+17	'	'	PUNCT	FB	_	18	punct	_	_
+18	tornato	tornare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+19	operativo....	operativo....	NOUN	S	_	18	compound	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7R1xlQOoD
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7R1xlQOoD	fb.me/7R1xlQOoD	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

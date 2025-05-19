@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io sono ancora sveglio dalla disco di questa notte, come se avessi ancora un'età per queste cose.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	ancora	ancora	ADV	B	_	4	advmod	_	_
+4	sveglio	svegliare	ADV	B	_	0	root	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	disco	disco	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	notte	notte	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	4	punct	_	_
+12	come	come	ADV	B	_	17	mark	_	_
+13	se	se	SCONJ	CS	_	12	fixed	_	_
+14	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	17	cop	_	_
+15	ancora	ancorare	ADV	B	_	17	advmod	_	_
+16	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	età	età	NOUN	S	Gender=Fem	4	advcl	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	20	det	_	_
+20	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Come se l'avessi mai avuta .
+1	Come	come	ADV	B	_	6	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+4	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+5	mai	mai	ADV	B	_	6	advmod	_	_
+6	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

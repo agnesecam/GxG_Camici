@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E se invece non avessimo capito niente e l'Isis ce l'avesse con noi per quei cazzo di risvoltini che portiamo ai pantaloni?
+1	E	e	CCONJ	CC	_	13	cc	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	invece	invece	ADV	B	_	6	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+7	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obj	_	_
+8	e	e	CCONJ	CC	_	13	cc	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	Isis	Isis	PROPN	SP	_	13	nsubj	_	_
+11	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	_
+12	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+13	avesse	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	obl	_	_
+16	per	per	ADP	E	_	18	case	_	_
+17	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
+18	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	risvoltini	risvoltino	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
+21	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+22	portiamo	portare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+23-24	ai	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	25	case	_	_
+24	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	pantaloni	pantalone	NOUN	S	Gender=Masc|Number=Plur	22	obl	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
+

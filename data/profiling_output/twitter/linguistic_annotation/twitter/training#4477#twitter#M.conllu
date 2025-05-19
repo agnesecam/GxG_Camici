@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vincenzo Boccia è stato scelto come “presidente designato” di Confindustria: il 25 maggio dovrà essere formalmente… http:// dlvr.it/Kx3GBV
+1	Vincenzo	Vincenzo	PROPN	SP	_	5	nsubj:pass	_	_
+2	Boccia	Boccia	PROPN	SP	_	1	flat:name	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
+5	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	come	come	ADP	E	_	8	case	_	_
+7	“	“	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	designato	designato	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	”	”	PUNCT	FB	_	8	punct	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Confindustria	Confindustria	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	12	punct	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	25	25	NUM	N	NumType=Card	23	obl	_	_
+16	maggio	maggio	NOUN	S	Gender=Masc|Number=Sing	15	flat	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	aux	_	_
+18	essere	essere	AUX	V	VerbForm=Inf	23	cop	_	_
+19	formalmente…	formalmente…	PUNCT	FF	_	20	punct	_	_
+20	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	_
+23	dlvr.it/Kx3GBV	dlvr.it/Kx3GBV	PROPN	SP	_	5	parataxis	_	SpacesAfter=\n
+

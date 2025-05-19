@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = oggi sono uscita con mary e ilaria dopo quasi UN ANNO capite la mia emozione era un sacco ma proprio un sacco che non stavamo insieme
+1	oggi	oggi	ADV	B	_	3	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	uscita	uscire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	mary	mary	NOUN	S	_	3	obl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	ilaria	ilaria	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+8	dopo	dopo	ADP	E	_	10	case	_	_
+9	quasi	quasi	ADV	B	_	10	advmod	_	_
+10	UN	uno	PROPN	SP	_	12	obl	_	_
+11	ANNO	anno	PROPN	SP	_	10	flat:name	_	_
+12	capite	capire	X	SW	Foreign=Yes	3	nmod	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	emozione	emozione	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+16	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	3	advcl	_	_
+19	ma	ma	CCONJ	CC	_	22	cc	_	_
+20	proprio	proprio	ADV	B	_	22	advmod	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+23	che	che	PRON	PR	PronType=Rel	25	nsubj	_	_
+24	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+25	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	22	acl:relcl	_	_
+26	insieme	insieme	ADV	B	_	3	advmod	_	SpacesAfter=\n
+

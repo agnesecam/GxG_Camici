@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cicap @DarioBressanini farete una ripresa?
+1	@cicap	@cicap	NOUN	S	Gender=Masc	3	nsubj	_	_
+2	@DarioBressanini	@DarioBressanini	PROPN	SP	_	1	nmod	_	_
+3	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ripresa	ripresa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Vi imploro
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	obj	_	_
+2	imploro	implorare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

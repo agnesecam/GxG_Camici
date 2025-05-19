@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un po fi musica e po vado s letto ...domattima si lavora...sveglia alle 6....di solito ero sempre s giro.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	po	po	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	fi	fo	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	parataxis	_	_
+4	musica	musica	NOUN	S	Gender=Fem|Number=Sing	3	xcomp	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	po	po	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+7	vado	andare	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	s	s	X	X	_	6	nmod	_	_
+9	letto	letto	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+10	...domattima	...domattimo	NOUN	S	Gender=Fem|Number=Sing	9	compound	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	lavora...sveglia	lavora...svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+13-14	alle	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	16	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	6....di	6....do	ADJ	A	Number=Plur	16	amod	_	_
+16	solito	solito	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+17	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	19	cop	_	_
+18	sempre	sempre	ADV	B	_	19	advmod	_	_
+19	s	s	NOUN	S	Gender=Masc	0	root	_	_
+20	giro.	giro.	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

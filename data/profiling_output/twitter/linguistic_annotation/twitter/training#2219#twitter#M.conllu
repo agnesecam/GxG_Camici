@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La serenità e la bellezza interiore sono dentro di noi vanno solo tirate fuori #buonanotte pic.twitter.com/o9OlzEqClc
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	serenità	serenità	NOUN	S	Gender=Fem	13	nsubj:pass	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	bellezza	bellezza	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+6	interiore	interiore	ADJ	A	Number=Sing	5	amod	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
+8	dentro	dentro	ADV	B	_	13	advmod	_	_
+9	di	di	ADP	E	_	8	fixed	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+11	vanno	andare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	solo	solo	ADV	B	_	13	advmod	_	_
+13	tirate	tirare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+14	fuori	fuori	ADP	E	_	15	case	_	_
+15	#buonanotte	#buonanotta	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+16	pic.twitter.com/o9OlzEqClc	pic.twitter.com/o9OlzEqClc	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

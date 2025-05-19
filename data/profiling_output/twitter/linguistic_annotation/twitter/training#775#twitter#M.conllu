@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Zukanovic centrale con manolas a fianco, Rudiger spostato a destra.
+1	Zukanovic	Zukanovic	ADV	B	_	2	advmod	_	_
+2	centrale	centrale	ADJ	A	Number=Sing	8	amod	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	manolas	manolas	NOUN	S	_	2	obl	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	fianco	fianco	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	Rudiger	Rudiger	PROPN	SP	_	0	root	_	_
+9	spostato	spostato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	destra	destra	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Avessimo risolti i problemi difensivi?
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	risolti	risolvere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	difensivi	difensivo	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/hAeI3VNoYt
+1	pic.twitter.com/hAeI3VNoYt	pic.twitter.com/hAeI3VNoYt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si è vero, ma non ci facciamo mancare neppure i rinforzi, che mentre si preparano li manteniamo anche.Toccherà a noi https:// twitter.com/valy_s/status/ 712345086344962048 …
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	ma	ma	CCONJ	CC	_	8	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+8	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	mancare	mancare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	rinforzi	rinforzo	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+15	mentre	mentre	SCONJ	CS	_	17	mark	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	preparano	preparare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+18	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+19	manteniamo	mantenere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+20	anche.Toccher	anche.Toccher	PROPN	SP	_	19	obj	_	SpaceAfter=No
+21	à	e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	acl:relcl	_	_
+22	a	a	ADP	E	_	23	case	_	_
+23	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	21	obl	_	_
+24	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	twitter.com/valy_s/status/	twitter.com/valy_s/status/	PUNCT	FF	_	21	punct	_	_
+28	712345086344962048	712345086344962048	NUM	N	NumType=Card	21	nummod	_	_
+29	…	…	PUNCT	FF	_	21	punct	_	SpacesAfter=\n
+

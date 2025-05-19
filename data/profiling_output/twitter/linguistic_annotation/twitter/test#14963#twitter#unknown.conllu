@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...La #botteri sarebbe giornalista SE lo facesse ogni tanto invece no SE lo fosse non saremmo ai SE o i MA #lineanotte
+1	...La	...La	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	#botteri	#bottero	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	giornalista	giornalista	NOUN	S	Number=Sing	16	nsubj	_	_
+5	SE	se	PROPN	SP	_	7	nsubj	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	_
+8	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	9	det	_	_
+9	tanto	tanto	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+10	invece	invece	ADV	B	_	16	advmod	_	_
+11	no	no	ADV	BN	PronType=Neg	16	advmod	_	_
+12	SE	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+14	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+17-18	ai	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	SE	se	PROPN	SP	_	16	obl	_	_
+20	o	o	CCONJ	CC	_	22	cc	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	MA	Ma	PROPN	SP	_	19	conj	_	_
+23	#lineanotte	#lineanotto	ADJ	A	Gender=Fem|Number=Plur	22	amod	_	SpacesAfter=\n
+

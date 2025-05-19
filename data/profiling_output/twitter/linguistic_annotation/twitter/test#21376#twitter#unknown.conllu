@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = *(¯`v´¯)¸.•*✿ Se vuoi diventare fan *◦.(¯`:✿:´¯) ✿ clicca qua ----> Gli occhi miei.
+1	*	*	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	¯`v´¯	¯`v´¯	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	¸.•*✿	¸.•*✿	PROPN	SP	_	3	flat:name	_	_
+6	Se	se	SCONJ	CS	_	8	mark	_	_
+7	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	diventare	diventare	VERB	V	VerbForm=Inf	5	advcl	_	_
+9	fan	fan	NOUN	S	_	8	xcomp	_	_
+10	*◦.(	*◦.(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	¯`:✿:´¯	¯`:✿:´¯	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	9	punct	_	_
+13	✿	✿	SYM	SYM	_	8	xcomp	_	_
+14	clicca	cliccare	NOUN	S	Gender=Fem|Number=Sing	13	advcl	_	_
+15	qua	qua	ADV	B	_	20	advmod	_	_
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+20	>	>	SYM	SYM	_	14	nmod	_	_
+21	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	14	obj	_	_
+23	miei	mio	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = *✿.(_.^._)*•.¸¸.•*`*• http:// fb.me/29xkdZAQh
+1	*✿.	*✿.	NOUN	S	_	0	root	_	SpaceAfter=No
+2	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	_.^._	_.^.-	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+5	*•	*•	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	.¸¸.•*`*	.¸¸.•*`*	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+7	•	•	PUNCT	FF	_	1	punct	_	_
+8	http:	http:	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	1	punct	_	_
+11	fb.me/29xkdZAQh	fb.me/29xkdZAQh	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

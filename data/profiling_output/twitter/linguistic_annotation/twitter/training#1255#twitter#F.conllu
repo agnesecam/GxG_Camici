@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro #renzi , nei paesi civili la giustizia è dettata dalla moralità prima che sancita da un tribunale.
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	#renzi	#renzi	NOUN	S	Gender=Masc|Number=Plur	11	nsubj:pass	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4-5	nei	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+7	civili	civile	ADJ	A	Number=Plur	6	amod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+11	dettata	dettare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	moralità	moralità	NOUN	S	Gender=Fem	11	obl:agent	_	_
+15	prima	prima	ADV	B	_	17	mark	_	_
+16	che	che	SCONJ	CS	_	15	fixed	_	_
+17	sancita	sancire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	tribunale	tribunale	NOUN	S	Gender=Masc|Number=Sing	17	obl:agent	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Napoli ndr pic.twitter.com/wPcfurqsuI
+1	Napoli	Napoli	PROPN	SP	_	0	root	_	_
+2	ndr	ndr	NOUN	S	_	1	nmod	_	_
+3	pic.twitter.com/wPcfurqsuI	pic.twitter.com/wPcfurqsuI	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

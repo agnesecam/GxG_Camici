@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = gli utili delle società USA dell'S&P 500 hanno il calo maggiore dal 2008 !
+1	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	utili	utile	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+3-4	delle	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	società	società	NOUN	S	Gender=Fem	2	nmod	_	_
+6	USA	USA	PROPN	SP	_	5	nmod	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	S&P	S&P	PROPN	SP	_	5	nmod	_	_
+10	500	500	NUM	N	NumType=Card	9	nummod	_	_
+11	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	calo	calo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	maggiore	maggiore	ADJ	A	Degree=Cmp|Number=Sing	13	amod	_	_
+15-16	dal	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	2008	2008	NUM	N	NumType=Card	14	obl	_	_
+18	!	!	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Di solito segue la RECESSIONE https:// twitter.com/business/statu s/718196927825907712 …
+1	Di	di	ADP	E	_	2	case	_	_
+2	solito	solito	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+3	segue	seguire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	RECESSIONE	RECESSIONE	PROPN	SP	_	3	nsubj	_	_
+6	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	twitter.com/business/statu	twitter.com/business/statu	ADP	E	_	10	case	_	_
+10	s/718196927825907712	s/718196927825907712	NUM	N	NumType=Card	3	nummod	_	_
+11	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

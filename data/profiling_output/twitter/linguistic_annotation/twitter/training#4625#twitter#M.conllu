@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = LA STESSA COSA DI BOSTON, GENTE CHE SEMBRA FERITA MA POI REALMENTE NON È COSÌ !!!!
+1	LA	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	STESSA	stessa	PROPN	SP	_	0	root	_	_
+3	COSA	Cosa	PROPN	SP	_	2	flat:name	_	_
+4	DI	Di	ADP	E	_	5	case	_	_
+5	BOSTON	Boston	PROPN	SP	_	16	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	GENTE	gente	PROPN	SP	_	16	nmod	_	_
+8	CHE	che	PROPN	SP	_	7	flat:name	_	_
+9	SEMBRA	sembrare	PROPN	SP	_	7	flat:name	_	_
+10	FERITA	ferita	PROPN	SP	_	7	flat:name	_	_
+11	MA	Ma	PROPN	SP	_	7	flat:name	_	_
+12	POI	Po	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	REALMENTE	realmente	PROPN	SP	_	16	nsubj	_	_
+14	NON	non	PROPN	SP	_	16	nsubj	_	_
+15	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	COSÌ	così	PROPN	SP	_	2	flat:name	_	_
+17	!!!	!!!	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = PRIMA O POI DOVRÀ ' FINIRSI...
+1	PRIMA	prima	PROPN	SP	_	4	nsubj	_	_
+2	O	o	PROPN	SP	_	1	flat:name	_	_
+3	POI	poi	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	nsubj	_	_
+4	DOVRÀ	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	'	'	PUNCT	FB	_	6	punct	_	_
+6	FINIRSI...	FINIRSI...	PROPN	SP	_	4	obj	_	_
+
+# sent_id = 3
+# text = http:// fb.me/25Xlc0WBM
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/25Xlc0WBM	fb.me/25Xlc0WBM	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

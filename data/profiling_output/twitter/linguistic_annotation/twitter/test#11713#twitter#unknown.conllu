@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - Ti ricordi quanto stavamo bene insieme?
+1	-	-	PUNCT	FF	_	3	punct	_	_
+2	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
+3	ricordi	ricordare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	quanto	quanto	ADV	B	_	7	advmod	_	_
+5	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	bene	bene	ADV	B	_	7	advmod	_	_
+7	insieme	insieme	ADV	B	_	3	advmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = - Ma io c'ero?
+1	-	-	PUNCT	FF	_	5	punct	_	_
+2	Ma	ma	CCONJ	CC	_	5	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

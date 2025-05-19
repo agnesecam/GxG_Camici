@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Veneto, nelle moschee si dovrà parlare italiano.
+1	Veneto	Veneto	PROPN	SP	_	8	obl	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3-4	nelle	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	moschee	moschea	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+9	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Così i leghisti non capiranno.
+1	Così	così	ADV	B	_	5	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	leghisti	leghista	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	capiranno	capire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

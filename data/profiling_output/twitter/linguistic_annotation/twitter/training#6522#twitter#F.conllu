@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Maxkent55 @francofontana43 se noi fossimo migranti non manderemmo soldi alla famiglia?.. evasione?
+1	@Maxkent55	@Maxkent55	NUM	N	NumType=Card	0	root	_	_
+2	@francofontana43	@francofontana43	NUM	N	NumType=Card	1	flat	_	_
+3	se	se	SCONJ	CS	_	8	mark	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+6	migranti	migrante	ADV	B	_	8	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	manderemmo	mandeere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+9	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+13	?..	?..	PUNCT	FF	_	12	punct	_	_
+14	evasione	evasione	NOUN	S	Gender=Fem|Number=Sing	12	compound	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = forse solo perché in Italia è garantita!
+1	forse	forse	ADV	B	_	7	advmod	_	_
+2	solo	solo	ADV	B	_	7	advmod	_	_
+3	perché	perché	SCONJ	CS	_	7	mark	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Italia	Italia	PROPN	SP	_	7	obl	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	garantita	garantire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

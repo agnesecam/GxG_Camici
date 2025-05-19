@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @oceansalex ho visto cose che mai avrei pensato.
+1	@oceansalex	@oceansalex	NOUN	S	Gender=Masc	3	nsubj	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+6	mai	mai	ADV	B	_	8	advmod	_	_
+7	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = gente che si faceva autografare le cover da Cecio che chi cazzo sei
+1	gente	gente	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	acl:relcl	_	_
+5	autografare	autografare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	cover	cover	NOUN	S	_	5	obj	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	Cecio	Cecio	PROPN	SP	_	5	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	case	_	_
+11	chi	chi	PRON	PR	Number=Sing|PronType=Rel	9	acl:relcl	_	_
+12	cazzo	cazzare	NOUN	S	Gender=Masc|Number=Sing	11	appos	_	_
+13	sei	sei	NUM	N	NumType=Card	12	nummod	_	SpacesAfter=\n
+

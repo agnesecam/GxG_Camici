@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fracasto @giure99 "Prima via i delinquenti dalla politica" il tuo è un progetto troppo ambizioso :) ma ci spero anch'io
+1	@fracasto	@fracasto	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
+2	@giure99	@giure99	NUM	N	NumType=Card	1	nummod	_	_
+3	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+4	Prima	Primo	ADV	B	_	7	case	_	_
+5	via	via	ADP	E	_	4	fixed	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	delinquenti	delinquento	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	politica	politica	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	16	punct	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	tuo	tuo	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	nsubj	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+17	troppo	troppo	ADV	B	_	18	advmod	_	_
+18	ambizioso	ambizioso	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+19	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	1	punct	_	_
+21	ma	ma	CCONJ	CC	_	23	cc	_	_
+22	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	23	expl	_	_
+23	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	conj	_	_
+24	anch'	anche	ADV	B	_	23	advmod	_	SpaceAfter=No
+25	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutti che dicono che devo essere forte.
+1	Tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+7	forte.	forte.	NOUN	S	_	3	ccomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma se non ce la facessi ?
+1	..ma	..mare	ADV	B	_	6	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	facessi	facesso	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

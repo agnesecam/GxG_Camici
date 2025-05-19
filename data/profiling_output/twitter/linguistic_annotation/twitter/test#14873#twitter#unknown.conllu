@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La conclusione di una giornata cinguettante!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	conclusione	conclusione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	cinguettante	cinguettante	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Grazie @FlashAndrea ! #twittamitutto pic.twitter.com/OmVQkDEdCV
+1	Grazie	grazie	NOUN	S	_	2	case	_	_
+2	@FlashAndrea	@FlashAndrea	PROPN	SP	_	5	nmod	_	_
+3	!	!	PUNCT	FS	_	2	punct	_	_
+4	#twittamitutto	#twittamitutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	pic.twitter.com/OmVQkDEdCV	pic.twitter.com/OmVQkDEdCV	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

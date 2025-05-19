@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sfogliando alcuni archivi mi sono imbattuto in questo disegno che feci nel 2012 per il 50esimo anniversario di... http:// fb.me/1bhw7xf1f
+1	Sfogliando	Sfogliare	VERB	V	VerbForm=Ger	6	advcl	_	_
+2	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	archivi	archivio	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	imbattuto	imbattere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	acl	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	disegno	disegno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	feci	fece	NOUN	S	Gender=Masc|Number=Plur	9	acl:relcl	_	_
+12-13	nel	_	_	_	_	_	_	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	2012	2012	NUM	N	NumType=Card	11	nummod	_	_
+15	per	per	ADP	E	_	18	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	50esimo	50esimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	_
+18	anniversario	anniversario	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+19	di...	di.	PUNCT	FS	_	14	punct	_	_
+20	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	14	punct	_	_
+23	fb.me/1bhw7xf1f	fb.me/1bhw7xf1f	ADP	E	_	0	root	_	SpacesAfter=\n
+

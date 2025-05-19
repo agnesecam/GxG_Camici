@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di #VoltaGabbana tra i banchi della maggioranza c'è ne sono parecchi ,tra cui i vari Borgonovo, Merlino, Mariani,...
+1	Di	di	ADP	E	_	3	case	_	_
+2	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	VoltaGabbana	VoltaGabbana	PROPN	SP	_	11	obl	_	_
+4	tra	tra	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	banchi	banco	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	maggioranza	maggioranza	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	SpaceAfter=No
+11	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
+15	,tra	,tra	NOUN	S	Gender=Masc	11	nsubj	_	_
+16	cui	cui	PRON	PR	PronType=Rel	15	nmod	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	vari	vario	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	_
+19	Borgonovo	Borgonovo	PROPN	SP	_	16	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21	Merlino	Merlino	PROPN	SP	_	19	conj	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	19	punct	_	_
+23	Mariani,...	Mariani,...	PROPN	SP	_	11	nsubj	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7fI3EIxq3
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7fI3EIxq3	fb.me/7fI3EIxq3	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

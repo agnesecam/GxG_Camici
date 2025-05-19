@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarcelloAtanas @RobertoGranai @confusa11 @graziasfe @lori_gianna @CarmenJara9 beh, nemmeno così?
+1	@MarcelloAtanas	@MarcelloAtanas	PROPN	SP	_	0	root	_	_
+2	@RobertoGranai	@RobertoGranai	PROPN	SP	_	1	flat:name	_	_
+3	@confusa11	@confusa1l	NUM	N	NumType=Card	4	nummod	_	_
+4	@graziasfe	@graziasfe	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+5	@lori_gianna	@lori_giannare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	@CarmenJara9	@CarmenJara9	PROPN	SP	_	4	nmod	_	_
+7	beh	beh	INTJ	I	_	10	discourse	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	nemmeno	nemmeno	ADV	BN	PronType=Neg	10	advmod	_	_
+10	così	così	ADV	B	_	6	advmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/KAJ070h5iq
+1	pic.twitter.com/KAJ070h5iq	pic.twitter.com/KAJ070h5iq	NOUN	S	_	0	root	_	SpacesAfter=\n
+

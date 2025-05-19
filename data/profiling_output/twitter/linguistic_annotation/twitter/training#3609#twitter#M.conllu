@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi sLvini non ho niente da perdere ascoltami e vedrai la mia idea ti farà avere20.000000 di voti
+1	@matteosalvinimi	@matteosalvinimo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	sLvini	sLvini	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	perdere	perdere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+8	ascoltami	ascoltame	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	vedrai	vedere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	15	conj	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	idea	idea	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	iobj	_	_
+15	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
+16	avere20.000000	avere20.000000	NUM	N	NumType=Card	18	nummod	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	voti	voto	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	SpacesAfter=\n
+

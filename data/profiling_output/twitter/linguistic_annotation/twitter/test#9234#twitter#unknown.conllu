@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PerlArtemisia e già, hai ragionry, sarà il vento di scirocvo e la vecchiaia ma talvolta non mi capisco neppure da me...
+1	@PerlArtemisia	@PerlArtemisia	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	_
+3	già	già	ADV	B	_	5	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	ragionry	ragionry	NOUN	S	Gender=Masc	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	cop	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	vento	vento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	scirocvo	scirocvo	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	vecchiaia	vecchiaia	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+16	ma	ma	CCONJ	CC	_	20	cc	_	_
+17	talvolta	talvolta	ADV	B	_	20	advmod	_	_
+18	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+19	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	obj	_	_
+20	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+21	neppure	neppure	ADV	BN	PronType=Neg	20	advmod	_	_
+22	da	da	ADP	E	_	23	case	_	_
+23	me...	me...	NOUN	S	Gender=Masc	20	obl	_	SpacesAfter=\n
+

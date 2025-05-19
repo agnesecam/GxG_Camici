@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GretaProsdocimo Hahhahha ehh qua mi pare che qualcuna il lunedì non si è fatta più vede'!!!
+1	@GretaProsdocimo	@GretaProsdocimo	PROPN	SP	_	6	nsubj	_	_
+2	Hahhahha	Hahhahha	PROPN	SP	_	1	flat:name	_	_
+3	ehh	ehh	INTJ	I	_	6	punct	_	_
+4	qua	qua	ADV	B	_	6	advmod	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	che	che	SCONJ	CS	_	14	mark	_	_
+8	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	lunedì	lunedì	NOUN	S	Gender=Masc	14	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+15	più	più	ADV	B	_	16	advmod	_	_
+16-17	vede'	_	_	_	_	_	_	_	SpaceAfter=No
+16	vedi	vedere	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	!!!	!!!	PUNCT	FF	_	14	punct	_	SpacesAfter=\n
+

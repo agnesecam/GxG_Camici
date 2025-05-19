@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se facessi "qualcosa che vi piace di me" nessuno mi cagherebbe, quindi vi risparmio lo sforzo di ignorarmi
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	advcl	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	7	iobj	_	_
+7	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	obl	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	13	punct	_	_
+11	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+13	cagherebbe	caghare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	quindi	quindi	ADV	B	_	17	advmod	_	_
+16	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	17	iobj	_	_
+17	risparmio	risparmio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	_
+18	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	sforzo	sforzo	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	ignorarmi	arma|ignorarme	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	SpacesAfter=\n
+

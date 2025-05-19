@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi sono di destra da prima che tu nascesti:
+1	@matteosalvinimi	@matteosalvinimo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	4	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	destra	destra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	prima	prima	ADV	B	_	9	mark	_	_
+7	che	che	SCONJ	CS	_	6	fixed	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	nascesti	nascedere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = ebbene il più delirante saresti sempre tu, in questo sei inarrivabile!
+1	ebbene	ebbene	CCONJ	CC	_	4	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	delirante	delirante	ADJ	A	Number=Sing	0	root	_	_
+5	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	cop	_	_
+6	sempre	sempre	ADV	B	_	7	advmod	_	_
+7	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obl	_	_
+11	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	inarrivabile	inarrivabile	ADJ	A	Number=Sing	4	advcl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

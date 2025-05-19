@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche se litighiamo solo dicendo hey capisco 1 che siamo due coglioni 2 che se ti tocca qualcunA muore 3 che sei MIO,ti voglio tanto bene<3
+1	Anche	anche	ADV	B	_	3	mark	_	_
+2	se	se	SCONJ	CS	_	1	fixed	_	_
+3	litighiamo	litighare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	solo	solo	ADV	B	_	5	advmod	_	_
+5	dicendo	dire	VERB	V	VerbForm=Ger	3	advcl	_	_
+6	hey	hey	ADJ	A	_	7	amod	_	_
+7	capisco	capisco	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	1	1	NUM	N	NumType=Card	7	nummod	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	due	due	NUM	N	NumType=Card	12	nummod	_	_
+12	coglioni	coglione	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+13	2	2	NUM	N	NumType=Card	12	nummod	_	_
+14	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+15	se	se	SCONJ	CS	_	17	mark	_	_
+16	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	expl	_	_
+17	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+18	qualcunA	qualcunA	PROPN	SP	_	19	nsubj	_	_
+19	muore	morire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+20	3	3	NUM	N	NumType=Card	26	mark	_	_
+21	che	che	PRON	PR	PronType=Rel	20	fixed	_	_
+22	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	26	cop	_	_
+23	MIO,ti	MIO,to	PROPN	SP	_	26	nsubj	_	_
+24	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	cop	_	_
+25	tanto	tanto	ADV	B	_	26	advmod	_	_
+26	bene<3	bene<3	NUM	N	NumType=Card	19	nummod	_	SpacesAfter=\n
+

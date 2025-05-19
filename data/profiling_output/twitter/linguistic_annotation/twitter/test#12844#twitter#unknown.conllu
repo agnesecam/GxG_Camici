@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hai ragione hanno fatto entrare cani e porci.
+1	Hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+5	entrare	entrare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	cani	cane	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	porci	porci	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Infatti io credevo che ti avessero bloccato in Belgio @matteosalvinimi https:// twitter.com/matteosalvinim i/status/713701368452816897 …
+1	Infatti	infatti	ADV	B	_	3	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	credevo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	expl	_	_
+6	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	bloccato	bloccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	Belgio	Belgio	PROPN	SP	_	7	obl	_	_
+10	@matteosalvinimi	@matteosalvinimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	9	amod	_	_
+11	https:	https:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	14	punct	_	_
+14	twitter.com/matteosalvinim	twitter.com/matteosalvinim	X	X	_	9	nmod	_	_
+15	i	i	X	X	_	14	flat:foreign	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	status/713701368452816897	status/713701368452816897	NUM	N	NumType=Card	14	nummod	_	_
+18	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

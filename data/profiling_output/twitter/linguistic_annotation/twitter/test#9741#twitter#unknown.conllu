@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Allarme clima:
+1	Allarme	allarme	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	clima	climo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = febbraio il quinto mese consecutivo con temperature superiori di un grado rispetto alla media
+1	febbraio	febbraio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	quinto	quinto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	1	amod	_	_
+4	mese	mese	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+5	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	temperature	temperatura	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+8	superiori	superiore	ADJ	A	Degree=Cmp|Number=Plur	7	amod	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	grado	grado	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	rispetto	rispetto	ADV	B	_	15	case	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	12	fixed	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	media	media	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpacesAfter=\n
+

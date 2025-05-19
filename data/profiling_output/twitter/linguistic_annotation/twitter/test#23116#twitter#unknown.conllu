@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La " quasi "neve a londra l'anno scorso : http:// youtu.be/Ov2FdB06rfY?a tramite @YouTube
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+2	"	"	PUNCT	FB	_	5	punct	_	_
+3	quasi	quasi	ADV	B	_	5	advmod	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	neve	neve	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	londra	londra	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	anno	anno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10	scorso	scorso	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	:	:	PUNCT	FC	_	5	punct	_	_
+12	http:	http:	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	5	punct	_	_
+15	youtu.be/Ov2FdB06rfY?a	youtu.be/Ov2FdB06rfY?a	PROPN	SP	_	5	nsubj	_	_
+16	tramite	tramite	ADP	E	_	17	case	_	_
+17	@YouTube	@YouTube	PROPN	SP	_	5	obl	_	SpacesAfter=\n
+

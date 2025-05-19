@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ilfattoquotidiano.it/2016/03/25/pap a-francesco-preghiera-invettiva-alla-via-crucis-contro-preti-pedofili-terroristi-corrotti-indifferenti/2583358/ … via @fattoq ah se i capi di stato di governo e di tutti coloro che reggono le sorti dell'umanità in terra avessero
+1	ilfattoquotidiano.it/2016/03/25/pap	ilfattoquotidiano.it/2016/03/25/pap	NOUN	S	_	5	nmod	_	_
+2	a	a	ADP	E	_	3	case	_	SpaceAfter=No
+3	-francesco	-francesco	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	preghiera	preghiera	NOUN	S	Gender=Fem|Number=Sing	39	nsubj	_	SpaceAfter=No
+6	-invettiva-alla	-invettiva-allo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	-via-crucis-contro	-via-crucis-contro	ADP	E	_	9	case	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	preti	prete	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+10	-pedofili-terroristi	-pedofili-terrorista	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	SpaceAfter=No
+11	-corrotti	-corrotto	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	indifferenti/2583358	indifferenti/2583358	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	…	…	PUNCT	FF	_	13	punct	_	_
+16	via	via	ADV	B	_	13	advmod	_	_
+17	@fattoq	@fattoq	NOUN	S	_	9	compound	_	_
+18	ah	ah	INTJ	I	_	39	advcl	_	_
+19	se	se	SCONJ	CS	_	18	mark	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	capi	capo	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	stato	stato	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	governo	governo	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
+26	e	e	CCONJ	CC	_	29	cc	_	_
+27	di	di	ADP	E	_	29	case	_	_
+28	tutti	tutto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	29	det	_	_
+29	coloro	coloro	PRON	PD	Number=Plur|PronType=Dem	21	conj	_	_
+30	che	che	PRON	PR	PronType=Rel	31	nsubj	_	_
+31	reggono	reggere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	_
+32	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	33	det	_	_
+33	sorti	sorte	NOUN	S	Gender=Fem|Number=Plur	31	obj	_	_
+34-35	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+34	di	di	ADP	E	_	36	case	_	_
+35	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	36	det	_	_
+36	umanità	umanità	NOUN	S	Gender=Fem	33	nmod	_	_
+37	in	in	ADP	E	_	38	case	_	_
+38	terra	terra	NOUN	S	Gender=Fem|Number=Sing	36	nmod	_	_
+39	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

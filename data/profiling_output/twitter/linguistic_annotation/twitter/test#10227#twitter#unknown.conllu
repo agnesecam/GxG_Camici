@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Hellzapoppin80 sicuramente ai bei tempi ha saputo gestire benissimo gli 89.000 € degli inquinatori Riva @GP_ArieteRosso
+1	@Hellzapoppin80	@Hellzapoppin80	PROPN	SP	_	8	nsubj	_	_
+2	sicuramente	sicuramente	ADV	B	_	8	advmod	_	_
+3-4	ai	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	bei	bello	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	gestire	gestire	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	benissimo	bene	ADV	B	Degree=Abs	9	advmod	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	89.000	89.000	NUM	N	NumType=Card	13	nummod	_	_
+13	€	€	SYM	SYM	_	9	obj	_	_
+14-15	degli	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	inquinatori	inquinatore	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+17	Riva	Riva	PROPN	SP	_	16	nmod	_	_
+18	@GP_ArieteRosso	@GP_ArieteRosso	PROPN	SP	_	17	flat:name	_	SpacesAfter=\n
+

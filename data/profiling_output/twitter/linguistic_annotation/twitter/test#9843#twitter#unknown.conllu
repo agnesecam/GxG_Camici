@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sordapicena.
+1	Sordapicena.	Sordapicena.	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..Nuovamente Campioni d'Italia 2016...5° Scudetto, 4° Consecutivo ... pic.twitter.com/HHC1oX6gtZ
+1	..Nuovamente	..Nuovamente	ADV	B	_	2	advmod	_	_
+2	Campioni	campioni	PROPN	SP	_	0	root	_	_
+3	d'	di	ADP	E	_	4	case	_	SpaceAfter=No
+4	Italia	Italia	PROPN	SP	_	2	nmod	_	_
+5	2016...5°	2016...5°	ADJ	NO	Number=Sing|NumType=Ord	6	amod	_	_
+6	Scudetto	scudetto	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	4°	4umero	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	Consecutivo	Consecutivo	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+10	...	...	PUNCT	FF	_	2	punct	_	_
+11	pic.twitter.com/HHC1oX6gtZ	pic.twitter.com/HHC1oX6gtZ	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

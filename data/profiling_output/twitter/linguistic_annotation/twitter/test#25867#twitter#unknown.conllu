@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gwyneth Paltrow, in vacanza con Apple e Moses:
+1	Gwyneth	Gwyneth	PROPN	SP	_	0	root	_	_
+2	Paltrow	Paltrow	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	vacanza	vacanza	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	Apple	Apple	PROPN	SP	_	5	nmod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Moses	Moses	PROPN	SP	_	7	conj	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = L'attrice si trova in Perù con i figli avuti dall'ex Chris Mart... http:// lqwi.a.boysofts.com/Did
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	attrice	attore	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	Perù	Perù	PROPN	SP	_	4	obl	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+10	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+11-12	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+11	da	da	ADP	E	_	14	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+13	ex	ex	ADJ	A	_	14	amod	_	_
+14	Chris	Chris	PROPN	SP	_	10	obl:agent	_	_
+15	Mart...	Mart...	PROPN	SP	_	14	conj	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	14	punct	_	_
+19	lqwi.a.boysofts.com/Did	lqwi.a.boysofts.com/Did	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

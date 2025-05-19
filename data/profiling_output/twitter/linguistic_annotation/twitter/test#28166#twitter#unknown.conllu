@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spero che domani non facciano un attentato a Verona.
+1	Spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	domani	domani	ADV	B	_	5	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	attentato	attentato	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Verona	Verona	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = AAaah che ansia
+1	AAaah	AAaah	PROPN	SP	_	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	ansia	esansere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpacesAfter=\n
+

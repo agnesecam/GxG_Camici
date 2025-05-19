@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ve lo dico io:
+1	Ve	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = di pelle di vitello.
+1	di	di	ADP	E	_	2	case	_	_
+2	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	vitello	vitello	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ciò significa che un animale è morto per fabbricare la vostra borsa.
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	animale	animale	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	morto	morire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	fabbricare	fabbricare	VERB	V	VerbForm=Inf	7	advcl	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	borsa	borsa	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

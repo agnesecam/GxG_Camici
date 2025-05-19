@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MezzadridItalia >esiste la possibilità (essendo essi nordisti non abituati) che si possano sentir male per via del caldo
+1	@MezzadridItalia	@MezzadridItalia	PROPN	SP	_	2	nsubj	_	_
+2	>esiste	>esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	possibilità	possibilità	NOUN	S	Gender=Fem	2	obj	_	_
+5	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	essendo	essere	AUX	V	VerbForm=Ger	2	advcl	_	_
+7	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+8	nordisti	nordista	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	abituati	abituare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	8	punct	_	_
+12	che	che	SCONJ	CS	_	15	mark	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+14	possano	potere	AUX	VM	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	sentir	sentire	VERB	V	VerbForm=Inf	6	ccomp	_	_
+16	male	male	ADV	B	_	18	advmod	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	via	via	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+19-20	del	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	caldo	caldo	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	SpacesAfter=\n
+

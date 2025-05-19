@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @antoniorampinel Facessero piuttosto qualcosa per dare lavoro e dignità alle persone che non sanno come fare per vivere e si sentono soli.
+1	@antoniorampinel	@antoniorampinel	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	Facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	piuttosto	piuttosto	ADP	E	_	4	case	_	_
+4	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	2	obl	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	dare	dare	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	dignità	dignità	NOUN	S	Gender=Fem	7	conj	_	_
+10-11	alle	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	persone	persona	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+16	come	come	ADP	E	_	17	mark	_	_
+17	fare	fare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	per	per	ADP	E	_	19	mark	_	_
+19	vivere	vivere	VERB	V	VerbForm=Inf	17	advcl	_	_
+20	e	e	CCONJ	CC	_	22	cc	_	_
+21	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl	_	_
+22	sentono	sentire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
+23	soli	solo	ADJ	A	Gender=Masc|Number=Plur	22	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

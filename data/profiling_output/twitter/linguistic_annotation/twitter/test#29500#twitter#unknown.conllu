@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @monydigirolamo @Fran978081 @VolpiRosanna @JJuventusGirl @valebianconero1
+1	@monydigirolamo	@monydigirolamo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@Fran978081	@Fran978081	PROPN	SP	_	1	nmod	_	_
+3	@VolpiRosanna	@VolpiRosanna	PROPN	SP	_	2	flat:name	_	_
+4	@JJuventusGirl	@JJuventusGirl	PROPN	SP	_	2	flat:name	_	_
+5	@valebianconero1	@valebianconero1	NUM	N	NumType=Card	1	nummod	_	_
+
+# sent_id = 2
+# text = Io fui sospeso senza motivo.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	_
+2	fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	sospeso	sospendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	senza	senza	ADP	E	_	5	case	_	_
+5	motivo	motivo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = A questo gli si permette tutto invece
+1	A	a	ADP	E	_	2	case	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	_
+3	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	permette	permettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obj	_	_
+7	invece	invece	ADV	B	_	5	advmod	_	SpacesAfter=\n
+

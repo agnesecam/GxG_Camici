@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'ARIETE NELLE MINIATURE MEDIEVALI.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	ARIETE	ARIETE	PROPN	SP	_	0	root	_	_
+3-4	NELLE	_	_	_	_	_	_	_	_
+3	IN	in	PROPN	SP	_	2	flat:name	_	_
+4	LE	Le	PROPN	SP	_	2	nmod	_	_
+5	MINIATURE	MINIATURE	PROPN	SP	_	4	flat:name	_	_
+6	MEDIEVALI	MEDIEVALI	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E LO ZODIACO EBBE INIZIO http://www.
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	LO	il	PROPN	SP	_	4	nsubj	_	_
+3	ZODIACO	ZODIACO	PROPN	SP	_	2	flat:name	_	_
+4	EBBE	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	INIZIO	inizio	PROPN	SP	_	4	obj	_	_
+6	http://www	http://www	NOUN	S	_	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = foliamagazine.it/ariete-zodiaco/
+1	foliamagazine.it/ariete-zodiaco/	foliamagazine.it/ariete-zodiaco/	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

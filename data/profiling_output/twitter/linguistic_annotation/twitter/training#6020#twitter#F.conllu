@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vorrei che fossimo farfalle e vivessimo tre soli giorni d’estate...
+1	Vorrei	volere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	farfalle	farfallo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	vivessimo	vivessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	conj	_	_
+7	tre	tre	NUM	N	NumType=Card	9	nummod	_	_
+8	soli	solo	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+9	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+10	d’	di	ADP	E	_	11	case	_	SpaceAfter=No
+11	estate..	estate..	NOUN	S	_	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

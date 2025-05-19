@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Carri allegorici creati con milionj di petali colorati di tulipano!
+1	Carri	carro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	allegorici	allegorico	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	creati	creare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	milionj	milionj	PROPN	SP	_	3	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	petali	petale	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	colorati	colorato	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	tulipano	tulipare	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Direttamente dalla fes… http:// ift.tt/1VgPmTK pic.twitter.com/Lg0PtyZOsr
+1	Direttamente	direttamente	ADV	B	_	9	advmod	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+4	fes…	fes…	PUNCT	FF	_	5	punct	_	_
+5	http:	http:	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	_
+8	ift.tt/1VgPmTK	ift.tt/1vgpmtk	PROPN	SP	_	3	conj	_	_
+9	pic.twitter.com/Lg0PtyZOsr	pic.twitter.com/Lg0PtyZOsr	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

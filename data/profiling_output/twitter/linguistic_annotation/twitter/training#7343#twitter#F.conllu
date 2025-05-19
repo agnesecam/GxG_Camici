@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Gli incontri più importanti sono già combinati dalle anime prim'ancora che i corpi si vedano.
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	incontri	incontro	NOUN	S	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	importanti	importante	ADJ	A	Number=Plur	3	amod	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+7	già	già	ADV	B	_	8	advmod	_	_
+8	combinati	combinare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+9-10	dalle	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	anime	anima	NOUN	S	Gender=Fem|Number=Plur	8	obl:agent	_	_
+12	prim'	primi	ADP	E	_	18	mark	_	SpaceAfter=No
+13	ancora	ancora	ADV	B	_	18	advmod	_	_
+14	che	che	SCONJ	CS	_	18	mark	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	corpi	corpio	NOUN	S	Gender=Masc|Number=Plur	18	nsubj:pass	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl:pass	_	_
+18	vedano	vedere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Generalmente, essi ... http:// fb.me/NJiqmkQg
+1	Generalmente	generalmente	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+4	...	...	PUNCT	FF	_	3	punct	_	_
+5	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	3	punct	_	_
+8	fb.me/NJiqmkQg	fb.me/NJiqmkQg	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

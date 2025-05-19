@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Meet the Media Guru:
+1	Meet	Mee	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
+3	Media	media	PROPN	SP	_	1	obj	_	_
+4	Guru	guru	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = il digitale non è più solo tecnologia, è uno tsunami culturale che sta cambiando le nostre vite pic.twitter.com/rBruzdfdO4
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	digitale	digitale	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	più	più	ADV	B	_	7	advmod	_	_
+6	solo	solo	ADV	B	_	7	advmod	_	_
+7	tecnologia	tecnologia	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tsunami	tsuname	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+12	culturale	culturale	ADJ	A	Number=Sing	11	amod	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	cambiando	cambiare	VERB	V	VerbForm=Ger	11	acl:relcl	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+17	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	vite	vita	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
+19	pic.twitter.com/rBruzdfdO4	pic.twitter.com/rBruzdfdO4	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

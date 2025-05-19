@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lavoro:
+1	Lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cosa avresti detto se Bill Gates ti avesse invitato?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	obj	_	_
+2	avresti	avresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	se	se	SCONJ	CS	_	9	mark	_	_
+5	Bill	Bill	PROPN	SP	_	9	nsubj	_	_
+6	Gates	Gates	PROPN	SP	_	5	flat:name	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+8	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	invitato	invitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// goo.gl/dqEaBa pic.twitter.com/055X6B9wWU
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	goo.gl/dqEaBa	goo.gl/dqEaBa	PROPN	SP	_	0	root	_	_
+5	pic.twitter.com/055X6B9wWU	pic.twitter.com/055X6B9wWU	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

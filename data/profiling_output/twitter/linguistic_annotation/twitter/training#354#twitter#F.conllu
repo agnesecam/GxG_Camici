@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci mancava il riaccendersi di vecchi conflitti.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	mancava	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4-5	riaccendersi	_	_	_	_	_	_	_	_
+4	riaccender	riaccender	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	vecchi	vecchio	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+8	conflitti	conflitto	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Come non ne avessimo già abbastanza https:// twitter.com/afp/status/716 599484537511936 …
+1	Come	come	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	già	già	ADV	B	_	10	advmod	_	_
+6	abbastanza	abbastanza	ADV	B	_	10	advmod	_	_
+7	https:	https:	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/afp/status/716	twitter.com/afp/status/716	SYM	X	_	4	obj	_	_
+11	599484537511936	599484537511936	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

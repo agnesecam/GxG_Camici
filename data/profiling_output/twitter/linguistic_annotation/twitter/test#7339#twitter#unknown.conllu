@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E ce mancherebbe altro Federì Essi bono su, limitati ai salottini Premium per ora https:// twitter.com/romanewseu/sta tus/709658230033670144 …
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	mancherebbe	manchare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	altro	altro	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	Federì	Federì	PROPN	SP	_	7	nsubj	_	_
+6	Essi	Essi	PROPN	SP	_	5	flat:name	_	_
+7	bono	bere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+8	su	su	ADP	E	_	20	mark	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	limitati	limitare	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	salottini	salotto	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
+14	Premium	Premium	PROPN	SP	_	13	nmod	_	_
+15	per	per	ADP	E	_	20	case	_	_
+16	ora	ora	ADV	B	_	20	advmod	_	_
+17	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	_
+20	twitter.com/romanewseu/sta	twitter.com/romanewseu/stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+21	tus/709658230033670144	tus/709658230033670144	NUM	N	NumType=Card	20	nummod	_	_
+22	…	…	PUNCT	FF	_	20	punct	_	SpacesAfter=\n
+

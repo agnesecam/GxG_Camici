@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @1giornodapecora @vincenzodanna51 detto da lui #stiamosereni e ci consoliamo coll 'aglietto
+1	@1giornodapecora	@1giornodapecora	ADV	B	_	2	advmod	_	_
+2	@vincenzodanna51	@vincenzodanna51	NUM	N	NumType=Card	3	nummod	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl:agent	_	_
+6	#stiamosereni	#stiamosereno	NOUN	S	Gender=Masc|Number=Plur	5	appos	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+9	consoliamo	consolare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	coll	coll	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	'	'	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	aglietto	aglietto	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpacesAfter=\n
+

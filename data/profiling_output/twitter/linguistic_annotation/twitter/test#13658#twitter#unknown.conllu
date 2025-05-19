@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DiparteGUELFA @M5S_Senato @Mov5Stelle guaio é la"SPERANZA" è ultima a morire si continua daccapo a "Sperare" tra poco ne faremo un inno
+1	@DiparteGUELFA	@DiparteGUELFA	ADP	E	_	2	case	_	_
+2	@M5S_Senato	@M5S_Senato	PROPN	SP	_	8	nmod	_	_
+3	@Mov5Stelle	@Mov5Stelle	PROPN	SP	_	2	flat:name	_	_
+4	guaio	guaio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+5	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	SPERANZA	speranza	PROPN	SP	_	11	nsubj	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	ultima	ultimo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	morire	morire	VERB	V	VerbForm=Inf	11	advcl	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+15	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+16	daccapo	daccapo	ADV	B	_	15	advmod	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+19	Sperare	sperare	PROPN	SP	_	15	obl	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	19	punct	_	_
+21	tra	tra	ADP	E	_	22	case	_	_
+22	poco	poco	ADV	B	_	24	advmod	_	_
+23	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	24	iobj	_	_
+24	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	15	conj	_	_
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	inno	inno	NOUN	S	Gender=Masc|Number=Sing	24	obj	_	SpacesAfter=\n
+

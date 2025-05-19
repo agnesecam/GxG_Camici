@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi esulta x il + 0,8?
+1	Renzi	Renzi	ADV	B	_	2	advmod	_	_
+2	esulta	esultare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	x	x	SYM	SYM	_	2	obj	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	+	+	SYM	SYM	_	2	nsubj	_	_
+6	0,8	0,8	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Incredibile!
+1	Incredibile	incredibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Nel 2011 facevamo +0,6, poi arrivò mr bilderberg...
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	2011	2011	NUM	N	NumType=Card	4	obl	_	_
+4	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	+0,6	+0,6	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	poi	poi	ADV	B	_	8	advmod	_	_
+8	arrivò	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+9	mr	mr	ADP	E	_	10	case	_	_
+10	bilderberg...	bilderberg.	NOUN	S	_	8	obl	_	SpacesAfter=\n
+

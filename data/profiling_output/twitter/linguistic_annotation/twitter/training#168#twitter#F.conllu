@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @guidomeda Anche perché non c'era Rossi.
+1	@guidomeda	@guidomedere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Anche	anche	ADV	B	_	6	advmod	_	_
+3	perché	perché	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No
+6	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+7	Rossi	Rossi	PROPN	SP	_	6	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma soprattutto perché è una pista da formula uno e non da MotoGP.
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	soprattutto	soprattutto	ADV	B	_	6	advmod	_	_
+3	perché	perché	SCONJ	CS	_	6	mark	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	pista	pista	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	formula	formulare	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	compound	_	_
+10	e	e	CCONJ	CC	_	13	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	MotoGP	MotoGP	PROPN	SP	_	9	conj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non è quello che si vede ma quello che c'è dentro che conta.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+6	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	conj	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	SpaceAfter=No
+11	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	dentro	dentro	ADV	B	_	11	advmod	_	_
+13	che	che	SCONJ	CS	_	14	mark	_	_
+14	conta	contare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

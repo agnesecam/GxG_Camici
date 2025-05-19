@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #smm16 dire che non te ne frega nulla di come gli altri ti vedono ti fa sembrare solo una ragazzina delle medie https:// twitter.com/wireditalia/st atus/713289466832691200 …
+1	#smm16	#smm16	SYM	X	_	0	root	_	_
+2	dire	dire	VERB	V	VerbForm=Inf	1	csubj	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+7	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+8	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	_
+9	di	di	ADP	E	_	14	mark	_	_
+10	come	come	ADP	E	_	9	fixed	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	14	nsubj	_	_
+13	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	14	iobj	_	_
+14	vedono	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+15	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	iobj	_	_
+16	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+17	sembrare	sembrare	VERB	V	VerbForm=Inf	16	ccomp	_	_
+18	solo	solo	ADV	B	_	17	advmod	_	_
+19	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	ragazzina	ragazzino	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+21-22	delle	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	medie	media	NOUN	S	Gender=Fem|Number=Plur	20	nmod	_	_
+24	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	twitter.com/wireditalia/st	twitter.com/wireditalia/st	SYM	X	_	23	nmod	_	_
+28	atus/713289466832691200	atus/713289466832691200	NUM	N	NumType=Card	27	nummod	_	_
+29	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

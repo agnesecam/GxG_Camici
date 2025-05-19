@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ___ Mi hanno insultata e calpestata ! ___ Hanno tentato di distruggermi in tutti i modi, dentro e fuori, bhè... http:// fb.me/40GhKqDP9
+1	___	___	PUNCT	FF	_	4	punct	_	_
+2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	insultata	insultare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	calpestata	calpestare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+7	!	!	PUNCT	FS	_	4	punct	_	_
+8	___	___	PUNCT	FF	_	4	punct	_	_
+9	Hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	tentato	tentare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	distruggermi	distruggermo	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+13	in	in	ADP	E	_	16	case	_	_
+14	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	16	det:predet	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	modi	modo	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	10	punct	_	_
+18	dentro	dentro	ADV	B	_	10	conj	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	fuori	fuori	ADV	B	_	18	conj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	22	punct	_	_
+22	bhè...	bhè.	NOUN	S	_	18	conj	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	10	punct	_	_
+26	fb.me/40GhKqDP9	fb.me/40GhKqDP9	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

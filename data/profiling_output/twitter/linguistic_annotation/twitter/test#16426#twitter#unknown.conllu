@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FreNinhoParmig @InTheLapsOfGods @AmazingMilan eravate 2-0 mercoledì.
+1	@FreNinhoParmig	@FreNinhoParmig	PROPN	SP	_	8	nsubj	_	_
+2	@InTheLapsOfGods	@InTheLapsOfGods	PROPN	SP	_	1	flat:name	_	_
+3	@AmazingMilan	@AmazingMilan	PROPN	SP	_	1	flat:name	_	_
+4	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	8	cop	_	_
+5	2	2	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	0	0	NUM	N	NumType=Card	5	compound	_	_
+8	mercoledì	mercoledì	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = .sappiamo come è finita.
+1	.sappiamo	.sappare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	SCONJ	CS	_	4	mark	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	finita.	finita.	NOUN	S	Gender=Fem|Number=Sing	1	advcl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

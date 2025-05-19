@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AugustoMinzolin Guerra contro STATI TERRORISTI?
+1	@AugustoMinzolin	@AugustoMinzolino	ADP	E	_	2	case	_	_
+2	Guerra	Guerra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	contro	contro	ADP	E	_	4	case	_	_
+4	STATI	Stati	PROPN	SP	_	2	nmod	_	_
+5	TERRORISTI	terroristi	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Oh my God!
+1	Oh	oh	INTJ	I	_	3	discourse	_	_
+2	my	my	DET	AP	Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	God	God	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Se l' avessimo ascoltato...
+1	Se	se	SCONJ	CS	_	4	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+3	avessimo	avessimo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	ascoltato...	ascoltato...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 4
+# text = pic.twitter.com/gAhWhkr3Pj
+1	pic.twitter.com/gAhWhkr3Pj	pic.twitter.com/gAhWhkr3Pj	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

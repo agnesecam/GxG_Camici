@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iLRossoner0 fin quando la società non cambia, ahimè i tempi rimarranno bui :(
+1	@iLRossoner0	@iLRossoner0	NUM	N	NumType=Card	0	root	_	_
+2	fin	fino	ADP	E	_	7	mark	_	_
+3	quando	quando	SCONJ	CS	_	2	fixed	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	società	società	NOUN	S	Gender=Fem	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	ahimè	ahimè	INTJ	I	_	12	discourse	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+12	rimarranno	rimarre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+13	bui	bui	PRON	PE	Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	:	:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+15	(	(	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

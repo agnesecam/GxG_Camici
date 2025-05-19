@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tardivo ma compiuto scatto di dignità delle nostre Istituzioni.
+1	Tardivo	Tardivo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	compiuto	compiuto	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+4	scatto	scatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	dignità	dignità	NOUN	S	Gender=Fem	4	nmod	_	_
+7-8	delle	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	Istituzioni	istituzione	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #Regeni
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Regeni	Regeno	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

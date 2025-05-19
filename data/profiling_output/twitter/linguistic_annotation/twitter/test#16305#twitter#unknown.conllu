@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @criceto1973
+1	@criceto1973	@criceto1973	NUM	N	NumType=Range	0	root	_	_
+
+# sent_id = 2
+# text = Ma non ci eravate già andati?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+4	eravate	eravare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+5	già	già	ADV	B	_	6	advmod	_	_
+6	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = O era un altro?
+1	O	o	CCONJ	CC	_	4	cc	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

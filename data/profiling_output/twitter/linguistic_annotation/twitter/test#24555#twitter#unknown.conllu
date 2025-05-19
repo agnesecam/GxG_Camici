@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Umberto_Ba era gia impossibile avendo noi partite fondamentali con l inter e roma fuori casa
+1	@Umberto_Ba	@Umberto_Ba	PROPN	SP	_	3	nsubj	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	gia	gia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	impossibile	impossibile	ADJ	A	Number=Sing	3	amod	_	_
+5	avendo	avere	VERB	V	VerbForm=Ger	3	advcl	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+7	partite	partita	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	fondamentali	fondamentale	ADJ	A	Number=Plur	7	amod	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	l	l	X	X	_	7	nmod	_	_
+11	inter	inter	NOUN	S	_	10	compound	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	roma	roma	NOUN	S	Gender=Masc	10	conj	_	_
+14	fuori	fuori	ADP	E	_	15	case	_	_
+15	casa	casa	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpacesAfter=\n
+

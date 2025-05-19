@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi in visita a Treviso scappa dalla folla inferocita:
+1	Renzi	Renzi	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	visita	visita	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Treviso	Treviso	PROPN	SP	_	3	nmod	_	_
+6	scappa	scappare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	folla	folla	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	inferocita	inferocito	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = rischia il linciaggio (Video) |... http:// fb.me/7Y92rhgnd
+1	rischia	rischiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	linciaggio	linciaggio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Video	video	PROPN	SP	_	1	obl	_	SpaceAfter=No
+6	)	)	PUNCT	FB	_	5	punct	_	_
+7	|...	|...	NOUN	S	_	5	compound	_	_
+8	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	5	punct	_	_
+11	fb.me/7Y92rhgnd	fb.me/7Y92rhgnd	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

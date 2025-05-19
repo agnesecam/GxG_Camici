@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Siete venuti a combattere da uomini liberi… e uomini liberi siete… senza libertà cosa farete ?
+1	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	venuti	venire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	combattere	combattere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+7	liberi…	liberi…	PUNCT	FF	_	9	punct	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+10	liberi	libero	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	siete…	siete…	PUNCT	FF	_	9	punct	_	_
+12	senza	senza	ADP	E	_	13	case	_	_
+13	libertà	libertà	NOUN	S	Gender=Fem	15	obl	_	_
+14	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	15	obj	_	_
+15	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	9	advcl	_	_
+16	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Combatterete?
+1	Combatterete	Combatterete	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...
+1	...	.	PUNCT	FF	_	0	root	_	_
+
+# sent_id = 4
+# text = http:// fb.me/4FmUYzsZC
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4FmUYzsZC	fb.me/4FmUYzsZC	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per gli animali non esistono limiti, barriere e diversità, gli animali AMANO e per noi farebbero qualsiasi cosa!
+1	Per	per	ADP	E	_	3	case	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	animali	animale	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	barriere	barriera	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	diversità	diversità	NOUN	S	Gender=Fem	6	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	animali	animale	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+14	AMANO	amano	PROPN	SP	_	13	compound	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	obl	_	_
+18	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+19	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	20	det	_	_
+20	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/gpD5jFMNjR
+1	pic.twitter.com/gpD5jFMNjR	pic.twitter.com/gpD5jFMNjR	ADP	E	_	0	root	_	SpacesAfter=\n
+

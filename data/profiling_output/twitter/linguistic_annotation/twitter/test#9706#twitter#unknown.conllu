@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Terremoto, il 5 a L’Aquila consegna premio laurea Avus:
+1	Terremoto	terremoto	ADV	B	_	8	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	5	5	NUM	N	NumType=Card	8	nsubj	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	Aquila	aquila	PROPN	SP	_	8	obl	_	_
+8	consegna	consegnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	premio	premio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	laurea	laureo	ADJ	A	Number=Sing	9	amod	_	_
+11	Avus	Avus	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 2
+# text = Per il terzo anno consecutivo i genitori degli student... http:// tinyurl.com/hfn2vs9
+1	Per	per	ADP	E	_	4	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	terzo	terzo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	anno	anno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+5	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+8-9	degli	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	student...	student...	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	tinyurl.com/hfn2vs9	tinyurl.com/hfn2vs9	NUM	N	NumType=Card	7	nummod	_	SpacesAfter=\n
+

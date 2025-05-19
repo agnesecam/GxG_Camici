@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dalla Ruta giù su San Rocco #Golfo #Paradiso #panorama #Portofino #Liguria #Domenica #bellezza @AldinaConsolini pic.twitter.com/8ItcTrrP9T
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Ruta	Ruta	PROPN	SP	_	10	obl	_	_
+4	giù	giù	ADV	B	_	6	advmod	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	San	San	PROPN	SP	_	10	obl	_	_
+7	Rocco	Rocco	PROPN	SP	_	6	flat:name	_	_
+8	#Golfo	#Golfo	PROPN	SP	_	6	flat:name	_	_
+9	#Paradiso	#Paradiso	PROPN	SP	_	6	flat:name	_	_
+10	#panorama	#panoramare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	#Portofino	#Portofino	PROPN	SP	_	10	nsubj	_	_
+12	#Liguria	#Liguria	PROPN	SP	_	11	flat:name	_	_
+13	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	Domenica	Domenica	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+15	#bellezza	#bellezza	ADP	E	_	16	case	_	_
+16	@AldinaConsolini	@AldinaConsolini	PROPN	SP	_	11	nmod	_	_
+17	pic.twitter.com/8ItcTrrP9T	pic.twitter.com/8ItcTrrP9T	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

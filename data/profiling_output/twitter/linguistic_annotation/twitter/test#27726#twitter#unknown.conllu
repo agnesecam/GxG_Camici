@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I miei genitori mi hanno detto che dato che oggi avevamo fatto assenza di massa ci avevano sospesi.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+5	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	che	che	SCONJ	CS	_	18	mark	_	_
+8	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	oggi	oggi	ADV	B	_	12	advmod	_	_
+11	avevamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_
+13	assenza	assenza	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	massa	massa	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	expl	_	_
+17	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	sospesi	sospendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	ccomp	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Che stronzi #pescedaprile
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	stronzi	stronzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	#pescedaprile	#pescedaprile	ADJ	A	Number=Sing	2	amod	_	SpacesAfter=\n
+

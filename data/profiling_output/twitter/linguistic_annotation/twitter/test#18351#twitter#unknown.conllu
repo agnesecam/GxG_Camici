@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ondaiblea La Città per tutti, Ragusa senza barriera: via alcuni marciapiedi http:// ift.tt/1YlOhIm pic.twitter.com/3QjbgnZYih
+1	#ondaiblea	#ondaibleare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Città	Città	PROPN	SP	_	1	obj	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	Ragusa	Ragusa	PROPN	SP	_	3	appos	_	_
+8	senza	senza	ADP	E	_	9	case	_	_
+9	barriera	barriera	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	11	punct	_	_
+11	via	via	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+12	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	marciapiedi	marciapiede	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	ift.tt/1YlOhIm	ift.tt/1YlOhIm	PROPN	SP	_	13	nmod	_	_
+18	pic.twitter.com/3QjbgnZYih	pic.twitter.com/3QjbgnZYih	PROPN	SP	_	17	flat:name	_	SpacesAfter=\n
+

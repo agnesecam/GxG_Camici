@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mannaggiaipuffy non vedo l'ora che esca.
+1	@mannaggiaipuffy	@mannaggiaipuffy	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	ora	ora	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	esca	uscire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Sono impaziente di vedere cosa c'è dentro !!! #lovolevoveramente
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	impaziente	impaziente	ADJ	A	Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	vedere	vedere	VERB	V	VerbForm=Inf	2	advcl	_	_
+5	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	obj	_	_
+6	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	dentro	dentro	ADV	B	_	7	advmod	_	_
+9	!!!	!!!	PUNCT	FF	_	2	punct	_	_
+10	#lovolevoveramente	#lovolevoveramente	ADV	B	_	2	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CasaLettori #MondoDiVersi Bevi dunque , petto mio, La primavera!
+1	@CasaLettori	@CasaLettore	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	#MondoDiVersi	#MondoDiVerso	PROPN	SP	_	1	nmod	_	_
+3	Bevi	bere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dunque	dunque	ADV	B	_	3	advmod	_	_
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	petto	petto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	primavera	primavera	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Tormentati di nuovi versi.
+1	Tormentati	tormentato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	nuovi	nuovo	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+4	versi	verso	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Sergej Esenin pic.twitter.com/ADutTXiMWH
+1	Sergej	Sergej	PROPN	SP	_	0	root	_	_
+2	Esenin	Esenin	PROPN	SP	_	1	flat:name	_	_
+3	pic.twitter.com/ADutTXiMWH	pic.twitter.com/ADutTXiMWH	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

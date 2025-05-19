@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'apparizione di Giulietto Chiesa a #LAGABBIA , fa sembrare Saif una persona normale.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	apparizione	apparizione	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Giulietto	Giulietto	PROPN	SP	_	2	nmod	_	_
+5	Chiesa	Chiendere	PROPN	SP	_	4	flat:name	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	#LAGABBIA	#LAGABBIA	PROPN	SP	_	2	nmod	_	_
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	Saif	Saif	PROPN	SP	_	10	xcomp	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	persona	persona	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14	normale	normale	ADJ	A	Number=Sing	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Quasi.
+1	Quasi	quasi	ADV	B	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

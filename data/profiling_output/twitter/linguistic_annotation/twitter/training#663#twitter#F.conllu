@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxNerozzi sarà una mia opinione ma credo che se avessimo continuato con Conte avremmo avuto + o - gli stessi infortuni lo scorso anno.
+1	@MaxNerozzi	@MaxNerozzi	ADV	B	_	2	advmod	_	_
+2	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	opinione	opinione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	che	che	SCONJ	CS	_	15	mark	_	_
+9	se	se	SCONJ	CS	_	11	mark	_	_
+10	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	continuato	continuare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	Conte	Conte	PROPN	SP	_	11	obl	_	_
+14	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	ccomp	_	_
+16	+	+	SYM	SYM	_	15	obj	_	_
+17	o	o	CCONJ	CC	_	21	cc	_	_
+18	-	-	PUNCT	FF	_	21	punct	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+20	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	_
+21	infortuni	infortuno	NOUN	S	Gender=Masc|Number=Plur	16	conj	_	_
+22	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+23	scorso	scorso	ADJ	A	Gender=Masc|Number=Sing	24	amod	_	_
+24	anno	anno	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

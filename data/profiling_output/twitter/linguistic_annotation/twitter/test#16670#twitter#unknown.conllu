@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ##Riina da #Vespa : finché la #Rai resta ibrida, commerciale e pubblica e insegue l' #auditel , sforna questi scoop e non fa informazione
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	Riina	Riinare	PROPN	SP	_	21	nsubj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	#Vespa	#Vespa	PROPN	SP	_	3	nmod	_	_
+6	:	:	PUNCT	FC	_	3	punct	_	_
+7	finché	finché	SCONJ	CS	_	10	mark	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	#Rai	#Rai	PROPN	SP	_	10	nsubj	_	_
+10	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+11	ibrida	ibrido	ADJ	A	Gender=Fem|Number=Sing	10	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	commerciale	commerciale	ADJ	A	Number=Sing	11	conj	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	pubblica	pubblico	ADJ	A	Gender=Fem|Number=Sing	11	conj	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	insegue	inseguire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
+19	#auditel	#auditel	NOUN	S	Gender=Masc	17	obj	_	_
+20	,	,	PUNCT	FF	_	10	punct	_	_
+21	sforna	sfornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	23	det	_	_
+23	scoop	scoop	NOUN	S	Gender=Masc	21	obj	_	_
+24	e	e	CCONJ	CC	_	26	cc	_	_
+25	non	non	ADV	BN	PronType=Neg	26	advmod	_	_
+26	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	_
+27	informazione	informazione	NOUN	S	Gender=Fem|Number=Sing	26	obj	_	SpacesAfter=\n
+

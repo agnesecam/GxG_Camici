@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma la vogliamo fare l'opzione per modificare i tweet?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	vogliamo	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	opzione	opzione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	modificare	modificare	VERB	V	VerbForm=Inf	6	acl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	tweet	tweet	NOUN	S	Gender=Masc	8	obj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Vi sembra normale farmi scegliere se cancellarli o sembrare ritardata?
+1	Vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+2	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	normale	normale	ADJ	A	Number=Sing	4	amod	_	_
+4	farmi	arma|farme	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	scegliere	scegliere	VERB	V	VerbForm=Inf	2	csubj	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7-8	cancellarli	_	_	_	_	_	_	_	_
+7	cancellar	cancellare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+9	o	o	CCONJ	CC	_	10	cc	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	7	conj	_	_
+11	ritardata	ritardare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	xcomp	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = MA ALLORA
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	ALLORA	allora	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

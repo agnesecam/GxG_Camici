@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = caro @Pontifex_it magari per i tuoi la tua politica migrazionista potrà sembrare buona, io trovo che sia leggermente immorale e assassina :)
+1	caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@Pontifex_it	@Pontifex_it	PROPN	SP	_	12	nsubj	_	_
+3	magari	magari	ADV	B	_	10	advmod	_	_
+4	per	per	ADP	E	_	10	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+6	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+8	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+9	politica	politica	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	migrazionista	migrazionista	NOUN	S	Number=Sing	12	obl	_	_
+11	potrà	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+13	buona	buono	ADJ	A	Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+16	trovo	trovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj	_	_
+17	che	che	SCONJ	CS	_	20	mark	_	_
+18	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	leggermente	leggermente	ADV	B	_	20	advmod	_	_
+20	immorale	immorale	ADJ	A	Number=Sing	16	ccomp	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	assassina	assassina	ADV	B	_	20	conj	_	_
+23	:	:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+24	)	)	PUNCT	FB	_	12	punct	_	SpacesAfter=\n
+

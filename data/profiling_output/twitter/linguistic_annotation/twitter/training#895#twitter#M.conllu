@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se solo avessimo giocato con sta cazzimma tutto l'anno.
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	solo	solo	ADV	B	_	4	advmod	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	sta	sto	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	cazzimma	cazzimma	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	anno.	anno.	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = #InterJuve #amala
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	InterJuve	InterJuve	X	SW	Foreign=Yes	0	root	_	_
+3	#amala	#amalo	X	SW	Foreign=Yes	2	flat:foreign	_	SpacesAfter=\n
+

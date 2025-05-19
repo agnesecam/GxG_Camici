@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @seereeo * facevi , ero in scambio dalla mia coress, na boiata insomma
+1	@seereeo	@seereeo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+2	*	*	PUNCT	FF	_	3	punct	_	_
+3	facevi	faceve	ADJ	A	Gender=Masc|Number=Plur	7	parataxis	_	_
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	scambio	scambio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	coress	coress	NOUN	S	Gender=Fem	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13	na	na	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	14	nmod	_	_
+14	boiata	boiato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+15	insomma	insomma	ADV	B	_	14	advmod	_	SpacesAfter=\n
+

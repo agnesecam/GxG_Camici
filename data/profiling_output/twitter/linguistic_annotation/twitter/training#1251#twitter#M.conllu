@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oriana Fallaci dimenticata ​ dalla sua Firenze http://www.
+1	Oriana	Oriana	PROPN	SP	_	0	root	_	_
+2	Fallaci	Fallaci	PROPN	SP	_	1	flat:name	_	_
+3	dimenticata	dimenticare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+4	​	​	PROPN	SP	_	1	flat:name	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	SpacesAfter= 
+8	Firenze	Firenze	PROPN	SP	_	1	nmod	_	_
+9	http://www	http://www	X	SW	Foreign=Yes	1	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = adrianobusolin.it/oriana-fallaci -dimenticata-%e2%80%8bdalla-sua-firenze/ … pic.twitter.com/VX4yN1cBee
+1	adrianobusolin.it/oriana-fallaci	adrianobusolin.it/oriana-fallace	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	-dimenticata	-dimenticare	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	%	%	SYM	SYM	_	1	nmod	_	SpaceAfter=No
+5	e2	e2	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+6	%	%	SYM	SYM	_	1	nmod	_	SpaceAfter=No
+7	80	80	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+8	%	%	SYM	SYM	_	6	nmod	_	SpaceAfter=No
+9	8bdalla-sua	8bdalla-suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	firenze	firenza	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	_
+13	…	…	PUNCT	FF	_	11	punct	_	_
+14	pic.twitter.com/VX4yN1cBee	pic.twitter.com/VX4yN1cBee	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

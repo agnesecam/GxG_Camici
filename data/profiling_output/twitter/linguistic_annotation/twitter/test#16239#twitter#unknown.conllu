@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @salvosottile @aletripoli87 stasera rientrate in pista?
+1	@salvosottile	@salvosottile	ADJ	A	Number=Sing	0	root	_	_
+2	@aletripoli87	@aletripoli87	NUM	N	NumType=Card	1	nummod	_	_
+3	stasera	stasera	ADV	B	_	4	advmod	_	_
+4	rientrate	rientrare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	pista	pista	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ma non eravate eliminati, perché Margharet e Samuel avevano vinto e voi aveteperso
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	eliminati	eliminare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	perché	perché	SCONJ	CS	_	11	mark	_	_
+7	Margharet	Margharet	PROPN	SP	_	11	nsubj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Samuel	Samuel	PROPN	SP	_	7	conj	_	_
+10	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_
+14	aveteperso	avetepergere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	SpacesAfter=\n
+

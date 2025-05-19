@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BenjieFede @Benji_Mascolo @fedefederossi Quando vi vedrò, promettetemi che quel abbraccio lo farete durare per sempre.
+1	@BenjieFede	@BenjieFede	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	3	nsubj	_	_
+3	@fedefederossi	@fedefederuovere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	Quando	quando	SCONJ	CS	_	6	mark	_	_
+5	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	expl	_	_
+6	vedrò	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8-9	promettetemi	_	_	_	_	_	_	_	_
+8	promettete	promettere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+10	che	che	SCONJ	CS	_	15	mark	_	_
+11	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	abbraccio	abbrare	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+13	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+14	farete	farete	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	durare	durare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	sempre	sempre	ADV	B	_	15	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ci vediamo domenica!
+1	Ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

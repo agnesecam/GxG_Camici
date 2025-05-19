@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Acea farà la #bandaultralarga a Roma?
+1	#Acea	#Acea	PROPN	SP	_	2	nsubj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	#bandaultralarga	#bandaultralarga	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Roma	Roma	PROPN	SP	_	2	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = http:// bit.ly/1SDAhWd @EnelGroup Via @Cor_Com
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	bit.ly/1SDAhWd	bit.ly/1SDAhWd	PROPN	SP	_	0	root	_	_
+5	@EnelGroup	@EnelGroup	PROPN	SP	_	4	flat:name	_	_
+6	Via	via	PROPN	SP	_	4	flat:name	_	_
+7	@Cor_Com	@Cor_Com	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

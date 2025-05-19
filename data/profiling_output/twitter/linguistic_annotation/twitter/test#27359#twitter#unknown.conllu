@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Raccomando la lettura a tutti.
+1	Raccomando	Raccomare	VERB	V	VerbForm=Ger	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	lettura	lettura	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Basta prese in giro.
+1	Basta	bastare	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+2	prese	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	giro	giro	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Non rituttate più le bufale dei furbi.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	rituttate	rituttare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	più	più	ADV	B	_	2	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	bufale	bufale	NOUN	S	Gender=Fem|Number=Plur	2	nsubj:pass	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	furbi	furbi	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Intanto dfw Catena Umana https:// twitter.com/Brancaleone72/ status/717507524069601280 …
+1	Intanto	intanto	ADV	B	_	2	advmod	_	_
+2	dfw	dfw	NOUN	S	_	0	root	_	_
+3	Catena	catena	PROPN	SP	_	2	nmod	_	_
+4	Umana	Umana	PROPN	SP	_	3	flat:name	_	_
+5	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	_
+8	twitter.com/Brancaleone72/	twitter.com/Brancaleone72/	PROPN	SP	_	2	nmod	_	_
+9	status/717507524069601280	status/717507524069601280	NUM	N	NumType=Card	8	nummod	_	_
+10	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao ragazzi vi aspettiamo anche questa sera con le nostre specialità!
+1	Ciao	ciao	INTJ	I	_	4	discourse	_	_
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	expl	_	_
+4	aspettiamo	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	sera	sera	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	con	con	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	specialità	specialità	NOUN	S	Gender=Fem	4	obl	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!	!	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ovviamente ILLIMITATE!!!!
+1	Ovviamente	ovviamente	ADV	B	_	2	advmod	_	_
+2	ILLIMITATE!	ILLIMITATE!	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!!	!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Info e... http:// fb.me/2rZT6XbBx
+1	Info	Info	ADV	B	_	6	advmod	_	_
+2	e...	e.	PUNCT	FF	_	1	punct	_	_
+3	http:	http:	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	fb.me/2rZT6XbBx	fb.me/2rZT6XbBx	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

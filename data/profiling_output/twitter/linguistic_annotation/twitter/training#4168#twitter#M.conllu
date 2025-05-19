@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @callmegoodlife ma non lo vedi dalla faccia.
+1	@callmegoodlife	@callmegoodlife	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	faccia.	faccia.	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Non capisce un cazzo ancora si dovrà accorgere che pioli se n'è andato
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	capisce	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+5	ancora	ancora	ADV	B	_	8	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	accorgere	accorgere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+9	che	che	SCONJ	CS	_	14	mark	_	_
+10	pioli	piolare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+11	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+12	n'	ne	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	SpaceAfter=No
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	SpacesAfter=\n
+

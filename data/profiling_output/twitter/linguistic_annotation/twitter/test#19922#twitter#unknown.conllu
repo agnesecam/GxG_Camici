@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AmicoCl @LucaCharmedFan @VenturaSara se dovesse uscire Simona, non ci sarebbe + alcuna ragione per guardare l'isola L'isola è Simona e stop
+1	@AmicoCl	@AmicoCl	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@LucaCharmedFan	@LucaCharmedFan	PROPN	SP	_	12	nsubj	_	_
+3	@VenturaSara	@VenturaSara	PROPN	SP	_	2	flat:name	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	dovesse	dovere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	uscire	uscire	VERB	V	VerbForm=Inf	12	advcl	_	_
+7	Simona	Simona	PROPN	SP	_	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+11	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	+	+	SYM	SYM	_	22	nmod	_	_
+13	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+14	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	guardare	guardare	VERB	V	VerbForm=Inf	22	advcl	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	isola	isola	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+19	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	isola	isola	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+21	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+22	Simona	Simona	PROPN	SP	_	0	root	_	_
+23	e	e	CCONJ	CC	_	24	cc	_	_
+24	stop	stop	NOUN	S	Gender=Masc	22	conj	_	SpacesAfter=\n
+

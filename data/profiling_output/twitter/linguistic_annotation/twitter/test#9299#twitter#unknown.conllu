@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SenMSpilabotte gli #abilitatitfa hanno fatto molti sacrifici.
+1	@SenMSpilabotte	@SenMSpilaburre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	#abilitatitfa	#abilitatitfa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+6	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+7	sacrifici	sacrificio	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Trentenni meritevoli senza età x stage ma neppure x un lavoro #tfaèconcorso
+1	Trentenni	Trentenne	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+2	meritevoli	meritevole	ADJ	A	Number=Plur	1	amod	_	_
+3	senza	senza	ADP	E	_	4	case	_	_
+4	età	età	NOUN	S	Gender=Fem	1	nmod	_	_
+5	x	x	SYM	SYM	_	4	compound	_	_
+6	stage	stage	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	9	advmod	_	_
+9	x	x	SYM	SYM	_	11	obl	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+12	#tfaèconcorso	#tfaèconcorrere	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpacesAfter=\n
+

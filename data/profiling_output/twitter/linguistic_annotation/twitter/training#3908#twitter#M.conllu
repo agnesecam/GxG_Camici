@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @marcobardazzi il giornalismo dovrà avere un suo audit interno #ijf16 #energytelling
+1	@marcobardazzi	@marcobardazzare	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	giornalismo	giornalismo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	audit	audit	NOUN	S	Gender=Masc	5	obj	_	_
+9	interno	interno	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	#ijf16	#ijf16	NUM	N	NumType=Card	8	nummod	_	_
+11	#energytelling	#energytelling	NOUN	S	Gender=Masc	5	conj	_	SpacesAfter=\n
+

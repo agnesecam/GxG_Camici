@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @defilippi_m Queen, quando ci inviti Briga ad #Amici15 ?
+1	@defilippi_m	@defilippi_m	NOUN	S	Gender=Masc	0	root	_	_
+2	Queen	Queen	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	quando	quando	SCONJ	CS	_	6	mark	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	inviti	invire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	Briga	briga	PROPN	SP	_	6	nsubj:pass	_	_
+8	ad	a	ADP	E	_	9	case	_	_
+9	#Amici15	#Amici15	PROPN	SP	_	7	nmod	_	_
+10	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Manca tanto lì dentro ! Facci questo regalo.
+1	Manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tanto	tanto	ADV	B	_	1	advmod	_	_
+3	lì	lì	ADV	B	_	1	advmod	_	_
+4	dentro	dentro	ADV	B	_	1	advmod	_	_
+5	!	!	PUNCT	FS	_	6	punct	_	_
+6	Facci	Facci	PROPN	SP	_	1	nsubj	_	_
+7	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	regalo	regalo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Grazie.
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

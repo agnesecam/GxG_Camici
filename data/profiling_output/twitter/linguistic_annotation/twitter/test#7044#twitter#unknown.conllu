@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sciti e sunniti sono anch' essi invenzione per i gonzi, si?
+1	Sciti	Scito	NOUN	S	Gender=Masc|Number=Plur	6	nsubj:pass	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	sunniti	sunnito	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+4	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+5	anch'	anche	ADV	B	_	6	advmod	_	_
+6	essi	edere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	invenzione	invenzione	NOUN	S	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	gonzi	gonzo	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	6	punct	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = @GianlucaUgolini @_DAGOSPIA_
+1	@GianlucaUgolini	@GianlucaUgolini	PROPN	SP	_	0	root	_	_
+2	@_DAGOSPIA_	@_DAGOSPIA-	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

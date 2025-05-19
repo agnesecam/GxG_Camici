@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mozambico:
+1	Mozambico	Mozambico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = il periodo più difficile dalla pace nel 1992 https:// twitter.com/lviaong/status /718289182842580992 …
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	difficile	difficile	ADJ	A	Number=Sing	2	amod	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pace	pace	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	14	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+10	1992	1992	NUM	N	NumType=Card	14	nummod	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	twitter.com/lviaong/status	twitter.com/lviaong/status	NOUN	S	Gender=Fem	2	nmod	_	_
+15	/718289182842580992	/718289182842580992	NUM	N	NumType=Card	14	nummod	_	_
+16	…	…	PUNCT	FF	_	14	punct	_	SpacesAfter=\n
+

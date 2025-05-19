@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NGigli ciao,oggi è il mio compleanno,sarei molto felice se mi facessi gli auguri
+1	@NGigli	@NGigli	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
+2	ciao,oggi	ciao,oggi	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,sarei	,saere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	molto	molto	ADV	B	_	9	advmod	_	_
+9	felice	felice	ADJ	A	Number=Sing	6	amod	_	_
+10	se	se	SCONJ	CS	_	12	mark	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	SpacesAfter=\n
+

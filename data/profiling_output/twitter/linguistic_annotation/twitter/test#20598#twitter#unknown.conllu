@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ChiNonMuore1 ci sono ferite oltre le bruciature che sono difficili da superare.
+1	@ChiNonMuore1	@ChiNonMuore1	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	ferite	ferire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	oltre	oltre	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	bruciature	bruciatura	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	difficili	difficile	ADJ	A	Number=Plur	7	acl:relcl	_	_
+11	da	da	ADP	E	_	12	mark	_	_
+12	superare	superare	VERB	V	VerbForm=Inf	10	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ma glielo auguro @InkStrawberry
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2-3	glielo	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+3	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	auguro	augurare	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	@InkStrawberry	@InkStrawberry	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

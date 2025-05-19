@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @zazzatweet un tweet normale, che riporta un dato di fatto(cit)si scatena il peggio che è dentro ogni tifoso
+1	@zazzatweet	@zazzatwee	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tweet	tweet	NOUN	S	Gender=Masc	1	obj	_	_
+4	normale	normale	ADJ	A	Number=Sing	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	riporta	riportare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	dato	dato	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	cit	cit	NOUN	S	_	9	appos	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl:impers	_	_
+16	scatena	scatenare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	peggio	peggio	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19	che	che	PRON	PR	PronType=Rel	23	nsubj	_	_
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+21	dentro	dentro	ADV	B	_	23	advmod	_	_
+22	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	23	det	_	_
+23	tifoso	tifoso	NOUN	S	Gender=Masc|Number=Sing	18	acl:relcl	_	SpacesAfter=\n
+

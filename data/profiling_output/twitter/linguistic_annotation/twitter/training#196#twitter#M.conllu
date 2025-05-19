@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Passera , che tempra!
+1	#Passera	#Passera	ADV	B	_	0	root	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	tempra	temprare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Due mesi al voto e già si arrende.
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	voto	voto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	già	già	ADV	B	_	9	advmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+9	arrende	arrendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Se 100 anni fa, sul Piave, avessimo avuto gente come lui, oggi parleremmo austriaco
+1	Se	se	SCONJ	CS	_	11	mark	_	_
+2	100	100	NUM	N	NumType=Card	3	nummod	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+4	fa	fa	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6-7	sul	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Piave	Piave	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+12	gente	gente	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	11	punct	_	_
+16	oggi	oggi	ADV	B	_	17	advmod	_	_
+17	parleremmo	parleere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+18	austriaco	austriaco	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\n
+

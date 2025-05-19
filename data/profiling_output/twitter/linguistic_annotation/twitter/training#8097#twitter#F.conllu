@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #portaaporta noi siamo un paese a basso tasso di legalità, dunque possiamo guidare le forze antiterrorismo in #europa
+1	#portaaporta	#portaaportare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	paese	paese	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	basso	basso	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	tasso	tasso	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	legalità	legalità	NOUN	S	Gender=Fem	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	dunque	dunque	ADV	B	_	14	advmod	_	_
+13	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	guidare	guidare	VERB	V	VerbForm=Inf	1	conj	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	forze	forza	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	antiterrorismo	antiterrorismo	NOUN	S	Gender=Masc|Number=Sing	16	compound	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	#europa	#europa	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PMO_W @donnadimezzo @RobertoTatankaa si tratta di navi e cozze dentro gabbie, sostituite:
+1	@PMO_W	@pmo_w	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	@donnadimezzo	@donnadimezzo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	@RobertoTatankaa	@RobertoTatankaa	PROPN	SP	_	1	nmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	tratta	trattare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	navi	nave	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	cozze	cozza	NOUN	S	Gender=Fem|Number=Plur	7	conj	_	_
+10	dentro	dentro	ADV	B	_	11	advmod	_	_
+11	gabbie	gabbia	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	5	punct	_	_
+13	sostituite	sostituire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = cozze attaccate ai piloni le togli e riattacchi?
+1	cozze	cozza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	attaccate	attaccare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3-4	ai	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	piloni	pilone	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	togli	toglio	NOUN	S	Gender=Fem|Number=Plur	2	nsubj:pass	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	riattacchi	riattacco	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ora RENZI dovrà presentare gli scontrini:
+1	Ora	ora	ADV	B	_	4	advmod	_	_
+2	RENZI	RENZI	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	presentare	presentare	VERB	V	VerbForm=Inf	0	root	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	scontrini	scontrino	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = potrebbe non superare la prova....
+1	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	superare	superare	VERB	V	VerbForm=Inf	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	prova....	prova....	NOUN	S	_	3	obj	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7eNt6uFZ2
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7eNt6uFZ2	fb.me/7eNt6uFZ2	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

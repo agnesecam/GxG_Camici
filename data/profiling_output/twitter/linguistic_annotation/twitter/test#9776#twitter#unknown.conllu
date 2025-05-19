@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sarebbe il 5 scudetto consecutivo per la rubentus, mi dispiace ma è stata l'inter per prima a farlo!
+1	Sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	5	5	NUM	N	NumType=Card	4	nummod	_	_
+4	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	rubentus	rubentus	NOUN	S	Gender=Fem	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+11	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+12	ma	ma	CCONJ	CC	_	16	cc	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+14	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	cop	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	inter	inter	NOUN	S	_	4	conj	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	prima	prima	ADV	B	_	20	mark	_	_
+19	a	a	ADP	E	_	18	fixed	_	_
+20-21	farlo	_	_	_	_	_	_	_	SpaceAfter=No
+20	far	fare	VERB	V	VerbForm=Inf	16	acl	_	_
+21	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+22	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Poi se riuscite fate il triplete
+1	Poi	poi	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	riuscite	riuscire	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	triplete	tripleto	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpacesAfter=\n
+

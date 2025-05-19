@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @masinutoscana facessi il Sindaco io, avrei chiuso l’account Twitter il giorno dell’elezione :D #sischerza
+1	@masinutoscana	@masinutoscano	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	facessi	facesso	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Sindaco	sindaco	PROPN	SP	_	2	nmod	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	chiuso	chiudere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	account	account	NOUN	S	_	8	obj	_	_
+11	Twitter	Twitter	PROPN	SP	_	10	nmod	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+14-15	dell’	_	_	_	_	_	_	_	SpaceAfter=No
+14	di	di	ADP	E	_	16	case	_	_
+15	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	elezione	elezione	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+17	:D	:D	PROPN	SP	_	16	nmod	_	_
+18	#sischerza	#sischerzo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	17	amod	_	SpacesAfter=\n
+

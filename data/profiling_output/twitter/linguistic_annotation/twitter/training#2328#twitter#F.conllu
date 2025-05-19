@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma come si fa a guidare di notte col lampadario acceso nell'abitacolo?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	come	come	ADV	B	_	4	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	guidare	guidare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	notte	notte	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+9-10	col	_	_	_	_	_	_	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	lampadario	lampadario	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+12	acceso	accendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+13-14	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+13	in	in	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+15	abitacolo	abitacolo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = non si vede un cazzo da dentro per fuori https:// twitter.com/mauriziosia/st atus/718831137150218240 …
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	dentro	dentro	ADV	B	_	3	advmod	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	fuori	fuori	ADV	B	_	7	advmod	_	_
+10	https:	https:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	twitter.com/mauriziosia/st	twitter.com/mauriziosia/st	CCONJ	CC	_	14	cc	_	_
+14	atus/718831137150218240	atus/718831137150218240	NUM	N	NumType=Range	7	conj	_	_
+15	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

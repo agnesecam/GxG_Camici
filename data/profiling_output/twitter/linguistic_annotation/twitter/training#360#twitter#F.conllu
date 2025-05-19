@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @emi_bar @Tas_89tas @Giovanni_N0 magari l' avessimo una cosa spettacolare come il Bernabeu e connessi (peraltro simbolo assoluto di città)
+1	@emi_bar	@emi_bare	NOUN	S	Gender=Masc	0	root	_	_
+2	@Tas_89tas	@Tas_89tas	PROPN	SP	_	1	nmod	_	_
+3	@Giovanni_N0	@Giovanni_N0	PROPN	SP	_	2	flat:name	_	_
+4	magari	magari	ADV	B	_	6	advmod	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	spettacolare	spettacolare	ADJ	A	Number=Sing	8	amod	_	_
+10	come	come	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Bernabeu	Bernabeu	PROPN	SP	_	8	nmod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	connessi	connesso	ADJ	A	Gender=Masc|Number=Plur	12	conj	_	_
+15	(	(	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+16	peraltro	peraltro	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	17	det	_	_
+17	simbolo	simbolo	NOUN	S	Gender=Masc|Number=Sing	12	appos	_	_
+18	assoluto	assoluto	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	città	città	NOUN	S	Gender=Fem	17	nmod	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	17	punct	_	SpacesAfter=\n
+

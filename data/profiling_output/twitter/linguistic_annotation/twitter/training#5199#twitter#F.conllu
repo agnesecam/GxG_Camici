@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #SLFLSheffield io sono felice che nella setlist ci siano canzoni vecchie, bc non c'ero al rowyso Però anche qualcuna in più di slfl..
+1	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	SLFLSheffield	SLFLSheffield	PROPN	SP	_	3	nmod	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	felice	felice	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	11	mark	_	_
+7-8	nella	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	setlist	setlist	NOUN	S	_	11	obl	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+11	siano	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+12	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	11	nsubj	_	_
+13	vecchie	vecchia	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	11	punct	_	_
+15	bc	bc	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+16	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+17	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	21	expl	_	SpaceAfter=No
+18	ero	ero	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	21	cop	_	_
+19-20	al	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	rowyso	rowyso	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+22	Però	però	CCONJ	CC	_	24	cc	_	_
+23	anche	anche	ADV	B	_	24	advmod	_	_
+24	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	15	conj	_	_
+25	in	in	ADP	E	_	26	case	_	_
+26	più	più	ADV	B	_	24	advmod	_	_
+27	di	di	ADP	E	_	28	case	_	_
+28	slfl.	slfl.	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

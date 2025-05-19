@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il corpo diventa seducente solo se dentro la tua testa abita il piacere.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	corpo	corpo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	diventa	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	seducente	seducente	ADJ	A	Number=Sing	3	xcomp	_	_
+5	solo	solo	ADV	B	_	11	advmod	_	_
+6	se	se	SCONJ	CS	_	11	mark	_	_
+7	dentro	dentro	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	testa	testa	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+11	abita	abitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	piacere	piacere	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

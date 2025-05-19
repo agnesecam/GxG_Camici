@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vergovich pronti lo saremmo da un pezzo, noi cittadini.
+1	@vergovich	@vergovich	NOUN	S	Gender=Masc	4	nsubj	_	_
+2	pronti	pronto	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+10	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	9	appos	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ma i politici ?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	politici	politico	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = E chi vuole assumere ruoli pubblici ?
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+3	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	assumere	assumere	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+5	ruoli	ruolo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	pubblici	pubblico	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

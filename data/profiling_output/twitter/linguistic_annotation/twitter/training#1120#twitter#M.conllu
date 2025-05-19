@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @robcastrichella se passi dalla #puglia vivi l'ebbrezza di #EnjoyPuglia360 a #Vinitaly2016 pic.twitter.com/VzSmzsSf15
+1	@robcastrichella	@robcastrichellare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	passi	passare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	#puglia	#puglia	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+7	vivi	vivo	VERB	V	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	3	xcomp	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	ebbrezza	ebbrezza	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	#EnjoyPuglia360	#EnjoyPuglia360	PROPN	SP	_	14	nmod	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	#	#	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+14	Vinitaly2016	Vinitaly2016	PROPN	SP	_	9	nmod	_	_
+15	pic.twitter.com/VzSmzsSf15	pic.twitter.com/VzSmzsSf15	PROPN	SP	_	1	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di Madre in figlia: le dee dentro la donna http:// tatalibro.com/2016/04/10/di- madre-in-figlia-le-dee-dentro-la-donna … pic.twitter.com/WvbnYy7vUM
+1	Di	di	ADP	E	_	2	case	_	_
+2	Madre	madre	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	figlia	figlio	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	dee	dea	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+8	dentro	dentro	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	SpacesAfter= 
+10	donna	donna	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	7	punct	_	_
+14	tatalibro.com/2016/04/10/di-	_	PUNCT	FF	_	17	punct	_	_
+15	madre-in	madre-in	X	SW	Foreign=Yes	17	nmod	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	figlia-le	figlia-le	NOUN	S	Gender=Fem|Number=Plur	7	appos	_	SpaceAfter=No
+18	-dee-dentro-la-donna	-dee-dentro-la-donna	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+19	…	…	PUNCT	FF	_	17	punct	_	_
+20	pic.twitter.com/WvbnYy7vUM	pic.twitter.com/WvbnYy7vUM	PROPN	SP	_	7	nmod	_	SpacesAfter=\n
+

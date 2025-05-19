@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vanessadv2001 seavesse detto che il figlio era gay sareste stati tutti contenti giusto?
+1	@vanessadv2001	@vanessadv200l	NUM	N	NumType=Card	3	nummod	_	_
+2	seavesse	seavessa	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	gay	gay	NOUN	S	Gender=Masc	12	obl	_	_
+9	sareste	saresto	ADJ	A	Number=Sing	8	amod	_	_
+10	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	cop	_	_
+11	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	12	obl	_	_
+12	contenti	contento	ADJ	A	Gender=Masc|Number=Plur	3	ccomp	_	_
+13	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ma se non lo è perché non può dirlo?
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	perché	perché	SCONJ	CS	_	9	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9-10	dirlo	_	_	_	_	_	_	_	SpaceAfter=No
+9	dir	dire	VERB	V	VerbForm=Inf	5	advcl	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Che c'è dimale
+1	Che	che	PRON	PQ	Number=Sing|PronType=Int	3	nsubj	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dimale	dimale	ADV	B	_	3	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La7 ma la Raggi sa che se vince dovrà occuparsi anche , e non solo, di Atac ??
+1	La7	La7	PROPN	SP	_	0	root	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Raggi	raggi	PROPN	SP	_	5	nsubj	_	_
+5	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	che	che	SCONJ	CS	_	10	mark	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10-11	occuparsi	_	_	_	_	_	_	_	_
+10	occupar	occupare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+12	anche	anche	ADV	B	_	16	advmod	_	_
+13	,	,	PUNCT	FF	_	16	punct	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	solo	solo	ADV	B	_	10	advmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	10	punct	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	Atac	Atac	PROPN	SP	_	10	obl	_	_
+20	?	?	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Ne è cosciente?
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	cosciente	cosciente	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Non si preoccupi del premier
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	0	root	_	_
+3	preoccupi	preoccupio	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	premier	premier	NOUN	S	_	2	nmod	_	SpacesAfter=\n
+

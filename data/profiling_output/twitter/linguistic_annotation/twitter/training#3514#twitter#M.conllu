@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Immagino il discorso che farà il ministro austriaco a @angealfa :
+1	Immagino	Immagiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	austriaco	austriaco	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	@angealfa	@angealfa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Se l'Austria è detto il Paese felice è perché NOI lo amiamo" #immigrati
+1	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	6	mark	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	Austria	Austria	PROPN	SP	_	6	nsubj	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Paese	paese	NOUN	S	Gender=Masc|Number=Sing	6	xcomp	_	_
+9	felice	felice	ADJ	A	Number=Sing	8	amod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+11	perché	perché	SCONJ	CS	_	14	mark	_	_
+12	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	amiamo	amare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	16	punct	_	_
+16	#immigrati	#immigrare	ADJ	A	Gender=Masc|Number=Plur	14	xcomp	_	SpacesAfter=\n
+

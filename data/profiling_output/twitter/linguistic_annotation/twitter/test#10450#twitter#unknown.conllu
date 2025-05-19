@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma buono assai ! @Enoteca BuoniVini https://www.
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	buono	buere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	assai	assai	ADV	B	_	2	advmod	_	_
+4	!	!	PUNCT	FS	_	2	punct	_	_
+5	@Enoteca	@Enoteca	ADP	E	_	6	case	_	_
+6	BuoniVini	BuoniVini	PROPN	SP	_	2	obl	_	_
+7	https://www	https://www	NOUN	S	_	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDyxv-Oi9aEE IuwgYV9qddGVw6u8P-jK5Pdrgo0/ …
+1	instagram.com/p/BDyxv-Oi9aEE	instagram.com/p/BDyxv-Oi9aEE	PROPN	SP	_	0	root	_	_
+2	IuwgYV9qddGVw6u8P	IuwgYV9qddGVw6u8P	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	-jK5Pdrgo0	-jK5Pdrgo0	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

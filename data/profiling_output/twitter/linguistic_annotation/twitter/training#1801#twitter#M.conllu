@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Riforma Bcc:
+1	Riforma	Riforma	PROPN	SP	_	0	root	_	_
+2	Bcc	Bcc	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Gardini, accolte nostre proposte, nascerà primo gruppo bancario a guida e capitale...
+1	Gardini	Gardini	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	accolte	accogliere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	nascerà	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	bancario	bancario	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	guida	guida	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	capitale...	capitale...	NOUN	S	Gender=Masc|Number=Sing	7	conj	_	_
+
+# sent_id = 3
+# text = http:// fb.me/19xy77dz3
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/19xy77dz3	fb.me/19xy77dz3	NUM	N	NumType=Range	0	root	_	SpacesAfter=\n
+

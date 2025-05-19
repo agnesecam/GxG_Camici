@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sognavo un mondo che facesse anche per me La Fame di Camilla - La stagione dell'amore silenzioso https:// youtu.be/va8HH7sFvHs via @YouTube
+1	Sognavo	Sognavo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+6	anche	anche	ADV	B	_	8	advmod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+9	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Fame	fame	PROPN	SP	_	5	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Camilla	Camilla	PROPN	SP	_	15	nmod	_	_
+13	-	-	PUNCT	FF	_	12	punct	_	_
+14	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+16-17	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+16	di	di	ADP	E	_	18	case	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
+18	amore	amore	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+19	silenzioso	silenzioso	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+20	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	youtu.be/va8HH7sFvHs	youtu.be/va8HH7sFvHs	PROPN	SP	_	18	nmod	_	_
+24	via	via	ADV	B	_	25	advmod	_	_
+25	@YouTube	@YouTube	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti raggiungerò dovunque tu vada <3 <3 <3 http:// fb.me/59tZI1AVH
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	raggiungerò	raggiungere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	dovunque	dovunque	SCONJ	CS	_	5	mark	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	<3	<3	NUM	N	NumType=Card	5	nummod	_	_
+7	<3	<3	NUM	N	NumType=Card	6	flat	_	_
+8	<3	<3	NUM	N	NumType=Card	7	nummod	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	fb.me/59tZI1AVH	fb.me/59tZI1AVH	PROPN	SP	_	5	xcomp	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una volta ci facevamo la bruschetta https:// twitter.com/agenzia_ansa/s tatus/710413053645430784 …
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	volta	volta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	bruschetta	bruschetta	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/agenzia_ansa/s	twitter.com/agenzia_ansa/s	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+11	tatus/710413053645430784	tatus/710413053645430784	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

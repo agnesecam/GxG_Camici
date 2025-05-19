@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Ventura :"Ho escluso #Baselli e #Zappacosta perché devono capire quale strada seguire per diventare protagonisti in SerieA".
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Ventura	Ventura	PROPN	SP	_	5	obl	_	_
+3	:"	:"	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	escluso	escludere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	#Baselli	#Baselli	PROPN	SP	_	5	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	#Zappacosta	#Zappacorre	PROPN	SP	_	6	conj	_	_
+9	perché	perché	SCONJ	CS	_	11	mark	_	_
+10	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	capire	capire	VERB	V	VerbForm=Inf	5	advcl	_	_
+12	quale	quale	DET	DQ	Number=Sing|PronType=Int	13	det	_	_
+13	strada	strada	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+14	seguire	seguire	VERB	V	VerbForm=Inf	11	ccomp	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	diventare	diventare	VERB	V	VerbForm=Inf	14	advcl	_	_
+17	protagonisti	protagonista	NOUN	S	Gender=Masc|Number=Plur	16	xcomp	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	SerieA	SerieA	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Dalla panchina?
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	panchina	panchina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

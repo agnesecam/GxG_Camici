@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @unapersonabella su Occhi negli occhi e sul Grido feci la tesina delle medie.
+1	@unapersonabella	@unapersonabella	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+2	su	su	ADP	E	_	3	case	_	_
+3	Occhi	occhi	PROPN	SP	_	1	nmod	_	_
+4-5	negli	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8-9	sul	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Grido	grido	PROPN	SP	_	13	conj	_	_
+11	feci	feco	NUM	N	NumType=Card	10	nummod	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	tesina	tesina	NOUN	S	Gender=Fem	1	appos	_	_
+14-15	delle	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	medie	media	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Si parla dell'epoca delle guerre puniche.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+3	di	di	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	epoca	epoca	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	guerre	guerra	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+9	puniche	punico	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

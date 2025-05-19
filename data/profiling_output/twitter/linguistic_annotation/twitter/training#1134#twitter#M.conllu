@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Serie D, il Siracusa ad un passo dalla Lega Pro:
+1	Serie	serie	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	2	det	_	_
+2	D	D	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Siracusa	Siracusa	PROPN	SP	_	2	appos	_	_
+6	ad	a	ADP	E	_	8	case	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	passo	passo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Lega	Lega	PROPN	SP	_	8	nmod	_	_
+12	Pro	pro	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Giornate decisive per il campionato di Serie D, girone I.
+1	Giornate	giornata	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	decisive	decisivo	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Serie	serie	PROPN	SP	_	5	nmod	_	_
+8	D	D	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	girone	girone	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+11	I	I	ADJ	NO	Number=Sing|NumType=Ord	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Del... http:// bit.ly/23mBqN4
+1	Del...	Del.	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	bit.ly/23mBqN4	bit.ly/23mBqN4	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

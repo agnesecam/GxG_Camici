@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Striscia aperta della @JuveCasertaTeam :
+1	Striscia	striscia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	aperta	aperto	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	@JuveCasertaTeam	@JuveCasertaTeam	PROPN	SP	_	1	nmod	_	_
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Bobby Jones dalla lunetta porta i suoi a -4 #teamreggio
+1	Bobby	Bobby	PROPN	SP	_	6	nsubj	_	_
+2	Jones	Jones	PROPN	SP	_	1	flat:name	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	lunetta	lunetta	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+8	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	-4	-4	NUM	N	NumType=Card	11	nummod	_	_
+11	#teamreggio	#teamreggio	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpacesAfter=\n
+

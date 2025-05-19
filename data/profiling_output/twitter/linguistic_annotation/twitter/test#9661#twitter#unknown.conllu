@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fra_ris La terra tace e non è di moda.
+1	@fra_ris	@fra_ris	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	terra	terra	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	tace	tace	ADJ	A	Number=Sing	3	amod	_	_
+5	e	e	CCONJ	CC	_	9	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	moda	moda	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Persino sconveniente appare in quel suo colore così poco artistico.
+1	Persino	persino	ADV	B	_	2	advmod	_	_
+2	sconveniente	sconveniente	ADJ	A	Number=Sing	3	nsubj	_	_
+3	appare	apparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+6	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	colore	colore	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	così	così	ADV	B	_	10	advmod	_	_
+9	poco	poco	ADV	B	_	10	advmod	_	_
+10	artistico	artistico	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

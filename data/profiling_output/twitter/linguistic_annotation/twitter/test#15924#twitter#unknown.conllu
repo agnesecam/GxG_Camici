@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chiunque delle tre passi secondo me dura da Natale a Santo Stefano.
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	8	nsubj	_	_
+2-3	delle	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	5	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	tre	tre	NUM	N	NumType=Card	5	nummod	_	_
+5	passi	passo	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+6	secondo	secondo	ADP	E	_	7	case	_	_
+7	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+8	dura	durare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	Natale	Natale	PROPN	SP	_	8	obl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	Santo	Santo	PROPN	SP	_	8	obl	_	_
+13	Stefano	Stefano	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Pora Glynne, anzi GLAINN #tvoi #battle
+1	Pora	Pora	PROPN	SP	_	7	nsubj	_	_
+2	Glynne	Glynne	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	7	punct	_	_
+4	anzi	anzi	ADV	B	_	7	advmod	_	_
+5	GLAINN	GLAINN	PROPN	SP	_	7	nsubj	_	_
+6	#tvoi	#tvoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
+7	#battle	#battle	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

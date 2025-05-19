@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Carloalvino gli dobbiamo fare mangiare tanti limoni fino alla fine, se deve essere ci dovrà condannare solo la matematica...
+1	@Carloalvino	@Carloalvino	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	mangiare	mangiare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+7	limoni	limone	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+8	fino	fino	ADV	B	_	11	case	_	_
+9-10	alla	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	8	fixed	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	fine	fine	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	1	punct	_	_
+13	se	se	SCONJ	CS	_	18	mark	_	_
+14	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+15	essere	essere	AUX	VA	VerbForm=Inf	18	cop	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	18	expl	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	condannare	condannare	VERB	V	VerbForm=Inf	1	advcl	_	_
+19	solo	solo	ADV	B	_	21	advmod	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	matematica...	matematica...	NOUN	S	Gender=Masc	18	nsubj	_	_
+
+# sent_id = 2
+# text = Sei un grande
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	grande	grande	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n
+

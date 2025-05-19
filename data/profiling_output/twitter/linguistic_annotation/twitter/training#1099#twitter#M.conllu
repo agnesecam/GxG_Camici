@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jolandafiore @tvdellosport @LaQuotaVincente jolandaaaaaaaaaaa wow the best inutile girarci intorno baci dalla puglia
+1	@jolandafiore	@jolandafiore	NOUN	S	Gender=Masc	5	nmod	_	_
+2	@tvdellosport	@tvdellosport	NOUN	S	Gender=Masc	1	compound	_	_
+3	@LaQuotaVincente	@LaQuotaVincente	ADJ	A	Number=Sing	1	amod	_	_
+4	jolandaaaaaaaaaaa	jolandaaaaaaaaaao	ADJ	A	Number=Sing	5	amod	_	_
+5	wow	wow	NOUN	S	Gender=Masc	11	nsubj	_	_
+6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
+7	best	best	NOUN	S	_	11	nsubj	_	_
+8	inutile	inutile	ADJ	A	Number=Sing	7	amod	_	_
+9-10	girarci	_	_	_	_	_	_	_	_
+9	girar	girare	ADJ	A	Number=Sing	7	amod	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+11	intorno	intorno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	baci	baco	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+13-14	dalla	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	puglia	puglia	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpacesAfter=\n
+

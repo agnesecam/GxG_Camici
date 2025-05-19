@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pisto_gol @robm_eight ma c'è gente cosi frustrata che guarda le partite del NApoli pur non essendo tifoso???
+1	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@robm_eight	@robm_eight	NOUN	S	Gender=Masc	0	root	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	gente	gente	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+7	cosi	coso	ADJ	A	Number=Plur	6	amod	_	_
+8	frustrata	frustrare	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	partite	partita	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	NApoli	Napoli	PROPN	SP	_	12	nmod	_	_
+16	pur	pure	ADV	B	_	19	advmod	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	essendo	essere	AUX	V	VerbForm=Ger	19	cop	_	_
+19	tifoso	tifoso	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dite a laudatores/cheerleaders che #Renzi ha respinto tutte le nostre proposte di taglio tasse/spesa https:// danielecapezzone.wordpress.com/2016/04/09/lo- sviluppista-renzi-ha-respinto-tutte-le-proposte-di-taglio-delle-tasse/ …
+1	Dite	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	laudatores	laudatores	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	cheerleaders	cheerleaders	NOUN	S	Gender=Masc	3	conj	_	_
+6	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+7	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	Renzi	Renzi	PROPN	SP	_	10	nsubj	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	respinto	respingere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+11	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	14	det:predet	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	_
+17	tasse/spesa	tasse/spesa	NOUN	S	Gender=Fem|Number=Sing	16	compound	_	_
+18	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	_
+21	danielecapezzone.wordpress.com/2016/04/09/lo-	_	PUNCT	FB	_	18	punct	_	_
+22	sviluppista	sviluppista	ADJ	A	Number=Sing	23	amod	_	SpaceAfter=No
+23	-renzi-ha	-renzi-ha	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
+24	-	-	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	respinto	respingere	NOUN	S	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+26	-tutte-le	-tutte-le	ADJ	A	Number=Sing	25	amod	_	SpaceAfter=No
+27	-proposte-di-taglio	-proposte-di-taglio	ADJ	A	_	28	amod	_	SpaceAfter=No
+28	-delle-tasse	-delle-tassa	NOUN	S	_	23	nmod	_	SpaceAfter=No
+29	/	/	PUNCT	FF	_	28	punct	_	_
+30	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

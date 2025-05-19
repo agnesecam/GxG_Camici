@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @7novembre2015
+1	@7novembre2015	@7novembre2015	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = L'euro dovrá essere al cambio le nostre vecchie 1000 lire e l'Italia risorgerà
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	euro	euro	NOUN	S	Gender=Masc	7	nsubj	_	_
+3	dovrá	dovrá	PROPN	SP	_	2	nmod	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+10	vecchie	vecchio	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+11	1000	1000	NUM	N	NumType=Card	12	nummod	_	_
+12	lire	lira	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	Italia	Italia	PROPN	SP	_	12	conj	_	_
+16	risorgerà	risorgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

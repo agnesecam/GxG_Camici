@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C'è qualcuna che va a Roma da sola come la sottoscritta?
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	Roma	Roma	PROPN	SP	_	5	obl	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	sola	solo	ADJ	A	Gender=Fem|Number=Sing	5	obl	_	_
+10	come	come	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	sottoscritta	sottoscritta	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = lol LETS MAKE 5SOS PROUD #iHeartAwards #BestFanArmy #5SOSFam
+1	lol	lol	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	LETS	LETS	PROPN	SP	_	0	root	_	_
+3	MAKE	MAKE	PROPN	SP	_	2	flat:name	_	_
+4	5SOS	5SOS	PROPN	SP	_	2	flat:name	_	_
+5	PROUD	PROUD	PROPN	SP	_	2	nmod	_	_
+6	#iHeartAwards	#iHeartAwards	PROPN	SP	_	5	flat:name	_	_
+7	#BestFanArmy	#BestFanArmy	PROPN	SP	_	5	flat:name	_	_
+8	#5SOSFam	#5SOSFam	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

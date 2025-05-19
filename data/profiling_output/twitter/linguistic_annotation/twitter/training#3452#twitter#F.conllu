@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #EurosportCICLISMO manca @vincenzonibali , dove farà la prox corsa?
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	EurosportCICLISMO	EurosportCICLISMO	PROPN	SP	_	3	nsubj	_	_
+3	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	@vincenzonibali	@vincenzonibale	ADJ	A	Number=Plur	3	amod	_	_
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	dove	dove	ADV	B	_	7	advmod	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	acl:relcl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	prox	prox	ADJ	NO	Number=Sing|NumType=Ord	10	amod	_	_
+10	corsa	corso	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ma il ritiro di Aru ha causa infortunio per la caduta?
+1	ma	ma	CCONJ	CC	_	6	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ritiro	ritiro	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Aru	Aru	PROPN	SP	_	3	nmod	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	causa	causare	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	infortunio	infortunio	ADJ	A	_	7	amod	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	caduta	caduta	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = ciao a tutti
+1	ciao	ciao	NOUN	S	Gender=Masc	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	nmod	_	SpacesAfter=\n
+

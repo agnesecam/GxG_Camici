@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che meraviglia il ragù' stracotto alla pugliese fermarsi alle parole per andare dovunque
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	meraviglia	meravigliare	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ragù	ragù	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	'	'	PUNCT	FB	_	6	punct	_	_
+6	stracotto	stracotto	ADV	B	_	9	advmod	_	_
+7-8	alla	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	6	fixed	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pugliese	pugliese	ADJ	A	Number=Sing	4	amod	_	_
+10-11	fermarsi	_	_	_	_	_	_	_	_
+10	fermar	fermare	VERB	V	VerbForm=Inf	9	advcl	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+12-13	alle	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	parole	parola	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	andare	andare	VERB	V	VerbForm=Inf	10	advcl	_	_
+17	dovunque	dovunque	SCONJ	CS	_	16	mark	_	SpacesAfter=\n
+

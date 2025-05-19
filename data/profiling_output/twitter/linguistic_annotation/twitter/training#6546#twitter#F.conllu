@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mikasounds @ludovicofontana vorrei essere stata lì.
+1	@mikasounds	@mikasounds	NOUN	S	Gender=Fem	0	root	_	_
+2	@ludovicofontana	@ludovicofontano	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	essere	essere	AUX	VA	VerbForm=Inf	6	aux	_	_
+5	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+6	lì	lì	ADV	B	_	1	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma era come se tutti noi fan italiani ci fossimo stati, in un certo senso
+1	..ma	..ma	ADV	B	_	6	advmod	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+3	come	come	ADV	B	_	6	advmod	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	_
+6	noi	no	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	_
+7	fan	fan	NOUN	S	_	11	nsubj	_	_
+8	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+10	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	stati	essere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	in	in	ADP	E	_	16	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	certo	certo	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	senso	senso	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpacesAfter=\n
+

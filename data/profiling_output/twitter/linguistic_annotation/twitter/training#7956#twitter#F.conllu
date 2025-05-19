@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MicheLoi1 @valy_s è vero Michele.
+1	@MicheLoi1	@MicheLoil	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@valy_s	@valy_s	NOUN	S	Gender=Masc	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	vero	vero	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	Michele.	Michele.	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..tante scene ma al dunque si rimangiano parole e impegni.
+1	..tante	..tante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
+2	scene	scena	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	ma	ma	CCONJ	CC	_	8	cc	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dunque	dunque	ADV	B	_	8	advmod	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	rimangiano	rimangiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	parole	parola	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	impegni.	impegni.	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

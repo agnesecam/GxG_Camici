@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo animalista è talmente ritardato da far sembrare Cruciani intelligente.
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	animalista	animalista	NOUN	S	Number=Sing	5	nsubj:pass	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+4	talmente	talmente	ADV	B	_	5	advmod	_	_
+5	ritardato	ritardare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	far	fare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	Cruciani	Cruciani	PROPN	SP	_	8	xcomp	_	_
+10	intelligente	intelligente	ADJ	A	Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/827iJ2NOT
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/827iJ2NOT	fb.me/827iJ2NOT	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

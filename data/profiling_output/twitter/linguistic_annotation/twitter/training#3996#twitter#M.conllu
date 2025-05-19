@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #EutanaSiaLegale Buone notizie, ma fino a quando si dovrà morire in esilio?
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	EutanaSiaLegale	EutanaSiaLegale	PROPN	SP	_	0	root	_	_
+3	Buone	buone	PROPN	SP	_	2	flat:name	_	_
+4	notizie	notizia	NOUN	S	Gender=Fem|Number=Plur	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	12	punct	_	_
+6	ma	ma	CCONJ	CC	_	12	cc	_	_
+7	fino	fino	ADV	B	_	12	mark	_	_
+8	a	a	ADP	E	_	7	fixed	_	_
+9	quando	quando	SCONJ	CS	_	7	fixed	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	morire	morire	VERB	V	VerbForm=Inf	2	conj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	esilio	esilio	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #radicali @pdnetwork http:// fb.me/7oDXpmjoy
+1	#radicali	#radicale	ADJ	A	Number=Plur	2	amod	_	_
+2	@pdnetwork	@pdnetwork	NOUN	S	Gender=Masc	0	root	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	fb.me/7oDXpmjoy	fb.me/7oDXpmjoy	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

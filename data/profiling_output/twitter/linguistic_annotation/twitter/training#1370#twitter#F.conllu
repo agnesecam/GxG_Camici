@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Siamo noi che dobbiamo creare cerchie di interesse, le nostre liste, per non cadere nella trappola dell'algoritmo.
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	creare	creare	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+6	cerchie	cerchia	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	liste	lista	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	16	punct	_	_
+14	per	per	ADP	E	_	16	mark	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	cadere	cadere	VERB	V	VerbForm=Inf	5	conj	_	_
+17-18	nella	_	_	_	_	_	_	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	trappola	trappola	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+20-21	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+20	di	di	ADP	E	_	22	case	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	_
+22	algoritmo	algoritmo	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @antonella #ijf16
+1	@antonella	@antonella	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	ijf16	ijf16	SYM	X	_	0	root	_	SpacesAfter=\n
+

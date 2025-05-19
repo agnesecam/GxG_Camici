@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lo #stragismo è codardo, infame, ottuso, folle, disumano e mostruoso.
+1	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#stragismo	#stragismo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	codardo	codardo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	infame	infame	ADJ	A	Number=Sing	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	ottuso	ottuso	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	folle	folle	ADJ	A	Number=Sing	4	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	disumano	disumano	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	mostruoso	mostruoso	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Dovunque accada e in qualsiasi tempo accada.
+1	Dovunque	dovunque	ADV	B	_	2	advmod	_	_
+2	accada	accadere	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	7	cc	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+7	accada	accada	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #donnecomecipare
+1	#donnecomecipare	#donnecomecipare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

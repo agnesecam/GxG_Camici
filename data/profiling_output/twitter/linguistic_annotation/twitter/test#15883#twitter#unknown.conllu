@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @EerisOfficial ci sono stati dei momenti in cui tutta la casa era occupata, ho deciso di rimanere in piedi in sala, ma nessuno mi ha cagata
+1	@EerisOfficial	@EerisOfficial	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	stati	essere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	cui	cui	PRON	PR	PronType=Rel	14	obl	_	_
+10	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	12	det:predet	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	casa	casa	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+14	occupata	occupare	ADJ	A	Gender=Fem|Number=Sing	7	acl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	deciso	decidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+18	di	di	ADP	E	_	19	mark	_	_
+19	rimanere	rimanere	VERB	V	VerbForm=Inf	17	xcomp	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	_
+22	in	in	ADP	E	_	23	case	_	_
+23	sala	sala	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	29	punct	_	_
+25	ma	ma	CCONJ	CC	_	29	cc	_	_
+26	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	29	nsubj	_	_
+27	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	29	iobj	_	_
+28	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
+29	cagata	cagare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	SpacesAfter=\n
+

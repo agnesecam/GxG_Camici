@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E indovinate chi anche a pasquetta non farà un cazzo e starà a casa a studiare?
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	indovinate	indovinare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	_
+3	chi	chi	PRON	PQ	PronType=Int	8	nsubj	_	_
+4	anche	anche	ADV	B	_	6	advmod	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	pasquetta	pasquetta	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	conj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	casa	casa	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	studiare	studiare	VERB	V	VerbForm=Inf	12	xcomp	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Esatto io
+1	Esatto	esarre	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	cop	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	SpacesAfter=\n
+

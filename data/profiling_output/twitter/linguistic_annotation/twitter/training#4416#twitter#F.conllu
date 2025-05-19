@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fnicodemo
+1	@fnicodemo	@fnicode	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2
+# text = La sentenza dice che nardella dopo richiesta specifica con calma e con pazienza dovrà mostrare gli scontrini.La sostanza è questa
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	sentenza	sentenza	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	nardella	nardellare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	dopo	dopo	ADP	E	_	7	case	_	_
+7	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+8	specifica	specifico	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	calma	calma	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	pazienza	pazienza	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	mostrare	mostrare	VERB	V	VerbForm=Inf	5	csubj	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+17	scontrini.La	scontrini.La	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+18	sostanza	sostanza	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+20	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	SpacesAfter=\n
+

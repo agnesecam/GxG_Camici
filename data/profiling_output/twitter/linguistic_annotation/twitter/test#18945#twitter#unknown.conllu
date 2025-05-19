@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Tutti evidentemente erano dei disgraziati ma ciascuno lo era in maniera differente, poichè la disgrazia colpisce... http:// fb.me/7RIbJaBUr
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
+3	evidentemente	evidentemente	ADV	B	_	2	advmod	_	_
+4	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	disgraziati	disgraziato	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+8	ma	ma	CCONJ	CC	_	13	cc	_	_
+9	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+11	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+14	differente	differente	ADJ	A	Number=Sing	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	poichè	poiché	SCONJ	CS	_	13	conj	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	disgrazia	disgrazia	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	_
+19	colpisce...	colpisce.	NOUN	S	_	18	compound	_	_
+20	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	_
+23	fb.me/7RIbJaBUr	fb.me/7RIbJaBUr	PROPN	SP	_	13	conj	_	SpacesAfter=\n
+

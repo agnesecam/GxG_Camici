@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Molti potrebbero arrivare alla #saggezza se non avessero la presunzione di esserci già arrivati.
+1	Molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
+2	potrebbero	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	arrivare	arrivare	VERB	V	VerbForm=Inf	0	root	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	#saggezza	#saggezza	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	avessero	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	presunzione	presunzione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13-14	esserci	_	_	_	_	_	_	_	_
+13	esser	essere	VERB	V	VerbForm=Inf	11	acl	_	_
+14	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	_
+15	già	già	ADV	B	_	16	advmod	_	_
+16	arrivati	arrivare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ( #Seneca )
+1	(	(	PUNCT	FB	_	2	punct	_	_
+2	#Seneca	#Seneca	PROPN	SP	_	0	root	_	_
+3	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

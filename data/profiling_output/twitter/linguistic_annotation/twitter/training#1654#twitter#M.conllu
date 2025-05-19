@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @italy4people valorizziamo il nostro paese, le nostre risorse, i nostri prodotti!
+1	@italy4people	@italy4peoplo	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+2	valorizziamo	valorizzare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	paese	paese	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	risorse	risorsa	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	prodotti	prodotto	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Siamo italiani, siamo unici!
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	unici	unico	ADJ	A	Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #italy
+1	#italy	#italy	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

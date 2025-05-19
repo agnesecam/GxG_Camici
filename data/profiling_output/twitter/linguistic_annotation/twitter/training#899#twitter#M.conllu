@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @F7Fulvio proprio adesso sulla Rai parlano di un fallo televisivo!
+1	@F7Fulvio	@F7Fulvio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	proprio	proprio	ADV	B	_	1	advmod	_	_
+3	adesso	adesso	ADV	B	_	1	advmod	_	_
+4-5	sulla	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Rai	Rai	PROPN	SP	_	1	obl	_	_
+7	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	fallo	fallo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+11	televisivo	televisivo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !Ridicoli,se avessimo fatto noi un gol così se ne parlava fino a Pasqua!
+1	!Ridicoli,se	!ridicoli,se	PROPN	SP	_	3	nsubj	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	ccomp	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	gol	gol	NOUN	S	Gender=Masc	4	appos	_	_
+7	così	così	ADV	B	_	10	advmod	_	_
+8	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+10	parlava	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+11	fino	fino	ADV	B	_	13	case	_	_
+12	a	a	ADP	E	_	11	fixed	_	_
+13	Pasqua	Pasqua	PROPN	SP	_	10	obl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

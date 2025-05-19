@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #UltimeNotizie Tlc, voci di fusione Orange-Telecom.
+1	#UltimeNotizie	#UltimeNotizia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	Tlc	Tlc	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	voci	voce	NOUN	S	Gender=Fem|Number=Plur	1	appos	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	fusione	fusione	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	Orange-Telecom	Orange-Telecom	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Renzi: " Saremmo felici, ma decide il mercato" http:// dlvr.it/KkV5pL
+1	Renzi	renzi	ADV	B	_	4	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	_
+4	Saremmo	essere	PROPN	SP	_	0	root	_	_
+5	felici	felice	ADJ	A	Number=Plur	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	decide	decidere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	12	punct	_	_
+12	http:	http:	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	4	punct	_	_
+15	dlvr.it/KkV5pL	dlvr.it/KkV5pL	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

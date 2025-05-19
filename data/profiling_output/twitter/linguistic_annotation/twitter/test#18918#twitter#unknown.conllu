@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @m_crosetti ieri i 2 terzini della Juventus ultratrentenni guadagnano 6 milioni di euro annui ciascuno , identico procuratore #marottagame
+1	@m_crosetti	@m_croseggere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+2	ieri	ieri	ADV	B	_	1	advmod	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	2	2	NUM	N	NumType=Card	5	nummod	_	_
+5	terzini	terzino	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Juventus	Juventus	PROPN	SP	_	5	nmod	_	_
+9	ultratrentenni	ultratrentenne	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+10	guadagnano	guadagnare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	6	6	NUM	N	NumType=Card	12	nummod	_	_
+12	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	euro	euro	NOUN	S	Gender=Masc	12	nmod	_	_
+15	annui	annuo	PRON	PR	PronType=Rel	10	obj	_	_
+16	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	nmod	_	_
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18	identico	identico	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+19	procuratore	procuratore	NOUN	S	Gender=Masc|Number=Sing	15	appos	_	_
+20	#marottagame	#marottagame	ADJ	A	Number=Sing	19	amod	_	SpacesAfter=\n
+

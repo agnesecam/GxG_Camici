@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'ITALIA IL PAESE PIU' BELLO DEL MONDO!
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	ITALIA	Italia	PROPN	SP	_	0	root	_	_
+3	IL	il	PROPN	SP	_	2	flat:name	_	_
+4	PAESE	paese	PROPN	SP	_	8	nmod	_	_
+5	PIU'	PIU'	PROPN	SP	_	4	flat:name	_	_
+6	BELLO	bello	PROPN	SP	_	4	flat:name	_	_
+7-8	DEL	_	_	_	_	_	_	_	_
+7	DI	Di	ADP	E	_	8	case	_	_
+8	IL	il	PROPN	SP	_	2	conj	_	_
+9	MONDO	mondo	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Potremmo essere il Paese più ricco del mondo se solo avessimo ... http:// fb.me/1bD90tOec
+1	Potremmo	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	essere	essere	AUX	V	VerbForm=Inf	4	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Paese	paese	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	ricco	ricco	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	se	se	SCONJ	CS	_	12	mark	_	_
+11	solo	solo	ADV	B	_	12	advmod	_	_
+12	avessimo	avessimo	ADJ	A	Gender=Masc|Number=Sing	4	advcl	_	_
+13	...	...	PUNCT	FF	_	14	punct	_	_
+14	http:	http:	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	12	punct	_	_
+17	fb.me/1bD90tOec	fb.me/1bD90tOec	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " É incredibile come vi fate andare bene chiunque pur di non rimanere da soli"
+1	"	"	PUNCT	FB	_	3	punct	_	_
+2	É	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	incredibile	incredibile	ADJ	A	Number=Sing	0	root	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	obl	_	_
+6	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	andare	andare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	bene	bene	ADV	B	_	7	advmod	_	_
+9	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	_
+10	pur	pure	ADV	B	_	13	mark	_	_
+11	di	di	ADP	E	_	10	fixed	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	rimanere	rimanere	VERB	V	VerbForm=Inf	9	advcl	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	soli	solo	ADJ	A	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

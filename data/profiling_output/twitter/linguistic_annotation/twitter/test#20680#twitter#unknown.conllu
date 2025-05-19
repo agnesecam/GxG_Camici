@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ikky, se è così pesante abbandonalo!
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Ikky	Ikky	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	se	se	SCONJ	CS	_	8	mark	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	così	così	ADV	B	_	8	advmod	_	_
+7	pesante	pesante	ADJ	A	Number=Sing	8	amod	_	_
+8	abbandonalo	abbandonalo	NOUN	S	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Saresti libero, non avresti più costrizioni.
+1	Saresti	Saresto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	libero	libero	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	avresti	avredere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	più	più	ADV	B	_	5	advmod	_	_
+7	costrizioni	costrizione	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Se non lo abbandoni, entrambi...
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	abbandoni	abbandone	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	entrambi...	entrambi.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/2i7Yi1ZLD
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2i7Yi1ZLD	fb.me/2i7Yi1ZLD	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

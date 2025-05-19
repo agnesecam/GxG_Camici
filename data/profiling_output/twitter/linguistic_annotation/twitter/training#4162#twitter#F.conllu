@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per arrivare ai 10 minuti Andrea Preti dovrà morire.
+1	Per	per	ADP	E	_	2	mark	_	_
+2	arrivare	arrivare	VERB	V	VerbForm=Inf	10	advcl	_	_
+3-4	ai	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	10	10	NUM	N	NumType=Card	6	nummod	_	_
+6	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+7	Andrea	Andrea	PROPN	SP	_	6	nmod	_	_
+8	Preti	prete	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	morire	morire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = #isola
+1	#isola	#isolo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

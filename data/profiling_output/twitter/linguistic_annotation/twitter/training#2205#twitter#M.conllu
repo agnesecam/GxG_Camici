@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La vita mi ha insegnato che non devo mostrare il mare che ho dentro a chi non sa nuotare.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	insegnato	insegnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	mostrare	mostrare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mare	mare	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	obj	_	_
+13	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	dentro	dentro	ADV	B	_	13	advmod	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	chi	chi	PRON	PR	Number=Sing|PronType=Rel	13	obl	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	sa	sapere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	nuotare	nuotare	VERB	V	VerbForm=Inf	16	acl:relcl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Cit.
+1	Cit.	Cit.	NOUN	S	_	0	root	_	SpacesAfter=\n
+

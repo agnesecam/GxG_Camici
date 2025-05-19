@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo perso domani con la Gazzetta ci sarebbe stato il #DVD ! #InterJuve #buonanotte
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+4	domani	domani	ADV	B	_	3	advmod	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Gazzetta	gazzetta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+9	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	#DVD	#dvd	PROPN	SP	_	10	nsubj	_	_
+13	!	!	PUNCT	FS	_	10	punct	_	_
+14	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+15	InterJuve	InterJuve	PROPN	SP	_	0	root	_	_
+16	#buonanotte	#buonanotto	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	SpacesAfter=\n
+

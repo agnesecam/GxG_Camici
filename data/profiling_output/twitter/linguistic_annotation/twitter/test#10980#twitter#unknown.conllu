@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu mo ti ricordi...
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	mo	mo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+4	ricordi..	ricordi	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Comunque mi interessa altrimenti ti lascio stare proprio — Non mi interessi https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM32DTHLBZQPQ6DGVED647DKX
+1	Comunque	comunque	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	interessa	interessare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	altrimenti	altrimenti	ADV	B	_	6	advmod	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	expl	_	_
+6	lascio	lasciare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	stare	stare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	proprio	proprio	ADV	B	_	7	advmod	_	_
+9	—	—	PUNCT	FF	_	12	punct	_	_
+10	Non	Non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+12	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+13	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	_
+16	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	12	nmod	_	_
+17	7B667HQMHN2IG6NM32DTHLBZQPQ6DGVED647DKX	7B667HQMHN2IG6NM32DTHLBZQPQ6DGVED647DKX	PROPN	SP	_	3	nsubj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = UYYWNCII2NUENOQRRKC372HQAIJSTSUKYRUY7
+1	UYYWNCII2NUENOQRRKC372HQAIJSTSUKYRUY7	UYYWNCII2NUENOQRRKC372HQAIJSTSUKYRUY7	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = O5MSP
+1	O5MSP	O5MSP	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = L
+1	L	L	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = UL
+1	UL	UL	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 7
+# text = N
+1	N	N	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 8
+# text = AZ
+1	AZ	AZ	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 9
+# text = X
+1	X	X	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 10
+# text = WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA= …
+1	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

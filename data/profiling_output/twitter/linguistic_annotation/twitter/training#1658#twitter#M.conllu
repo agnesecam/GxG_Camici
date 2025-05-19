@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qui le Nostre Offerte di lavoro.
+1	Qui	qui	ADV	B	_	3	advmod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	Nostre	nostro	PROPN	SP	_	0	root	_	_
+4	Offerte	offerta	PROPN	SP	_	3	flat:name	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = diego.lugato@swegon.it QUATTRO INTERESSANTI POSIZIONI APERTE PER POTENZIARE IL NO… https:// lnkd.in/datkNAk
+1	diego.lugato@swegon.it	diego.lugato@swegon.it	ADV	B	_	2	advmod	_	_
+2	QUATTRO	quattro	PROPN	SP	_	0	root	_	_
+3	INTERESSANTI	interessante	PROPN	SP	_	2	flat:name	_	_
+4	POSIZIONI	posizioni	PROPN	SP	_	2	flat:name	_	_
+5	APERTE	aprire	PROPN	SP	_	4	flat:name	_	_
+6	PER	per	PROPN	SP	_	4	flat:name	_	_
+7	POTENZIARE	potenziare	PROPN	SP	_	4	flat:name	_	_
+8	IL	Il	PROPN	SP	_	4	flat:name	_	_
+9	NO…	NO…	PROPN	SP	_	4	flat:name	_	_
+10	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	4	punct	_	_
+13	lnkd.in/datkNAk	lnkd.in/datkNAk	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

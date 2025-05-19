@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dentro Stapleton e fuori Pettersson.
+1	Dentro	dentro	ADP	E	_	2	case	_	_
+2	Stapleton	Stapleton	PROPN	SP	_	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	fuori	fuori	ADV	B	_	5	advmod	_	_
+5	Pettersson	Pettersson	PROPN	SP	_	2	conj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Brunner in prima linea #HCLugano
+1	Brunner	Brunnere	NOUN	S	_	0	root	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+4	linea	linea	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	#HCLugano	#HCLugare	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

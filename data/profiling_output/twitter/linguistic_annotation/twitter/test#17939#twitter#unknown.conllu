@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = anni fa ero in un posto con musica ad alato livello gli dissi : voi a Bolzano avevate il lupetto nero ?" mi disse non urlare
+1	anni	anno	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
+2	fa	fa	ADV	B	_	1	advmod	_	_
+3	ero	essere	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	posto	posto	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	musica	musica	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	ad	a	ADP	E	_	11	case	_	_
+10	alato	alato	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	livello	livello	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	gli	gli	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	dissi	diggere	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+14	:	:	PUNCT	FC	_	1	punct	_	_
+15	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	Bolzano	Bolzano	PROPN	SP	_	15	nmod	_	_
+18	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	20	cop	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	lupetto	lupetto	NOUN	S	Gender=Masc|Number=Sing	25	parataxis	_	_
+21	nero	nero	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+22	?	?	PUNCT	FS	_	20	punct	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	25	punct	_	_
+24	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	25	iobj	_	_
+25	disse	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+26	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+27	urlare	urlare	VERB	V	VerbForm=Inf	25	xcomp	_	SpacesAfter=\n
+

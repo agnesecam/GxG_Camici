@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hey amici, potrebbe sembrare un banale anello ma.....è anche un apribottiglie.
+1	Hey	Hey	CCONJ	CC	_	5	cc	_	_
+2	amici	amico	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	banale	banale	ADJ	A	Number=Sing	8	amod	_	_
+8	anello	anello	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	ma.....è	ma.....ere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+10	anche	anche	ADV	B	_	12	advmod	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	apribottiglie	apribottiglia	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = By Marty da Amsterdam XXX pic.twitter.com/94wA7NnXKr
+1	By	By	PROPN	SP	_	0	root	_	_
+2	Marty	Marty	PROPN	SP	_	1	flat:name	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	Amsterdam	Amsterdam	PROPN	SP	_	1	nmod	_	_
+5	XXX	XXX	PROPN	SP	_	4	flat:name	_	_
+6	pic.twitter.com/94wA7NnXKr	pic.twitter.com/94wA7NnXKr	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

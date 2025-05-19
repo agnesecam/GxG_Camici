@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E se dall'inizio dell'anno avessimo giocato con Micai invece di Guarna avremmo almeno 7-8 punti in più!
+1	E	e	CCONJ	CC	_	16	cc	_	_
+2	se	se	SCONJ	CS	_	10	mark	_	_
+3-4	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+3	da	da	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+6-7	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	di	di	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	anno	anno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+11	con	con	ADP	E	_	12	case	_	_
+12	Micai	Micai	PROPN	SP	_	16	obl	_	_
+13	invece	invece	ADV	B	_	15	case	_	_
+14	di	di	ADP	E	_	13	fixed	_	_
+15	Guarna	Guarna	PROPN	SP	_	12	nmod	_	_
+16	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+17	almeno	almeno	ADV	B	_	18	advmod	_	_
+18	7	7	NUM	N	NumType=Card	21	nummod	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	8	8	NUM	N	NumType=Card	18	compound	_	_
+21	punti	punto	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+22	in	in	ADP	E	_	23	case	_	_
+23	più	più	ADV	B	_	16	advmod	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = #Bari
+1	#Bari	#Bare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I rifugiati sono anch' essi "popolo".
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	rifugiati	rifugiato	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	anch'	anche	ADV	B	_	5	advmod	_	_
+5	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Chi, soprattutto all'est, alza fili spinati ha dimenticato i primi lavavetri...
+1	Chi	chi	PRON	PQ	PronType=Int	12	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	soprattutto	soprattutto	ADV	B	_	6	advmod	_	_
+4-5	all'	_	_	_	_	_	_	_	SpaceAfter=No
+4	a	a	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	est	est	NOUN	S	Gender=Masc	12	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	alza	alzo	ADP	E	_	9	case	_	_
+9	fili	filo	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+10	spinati	spinato	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+14	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	15	amod	_	_
+15	lavavetri...	lavavetri...	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/H4UP0QhycA
+1	pic.twitter.com/H4UP0QhycA	pic.twitter.com/H4UP0QhycA	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

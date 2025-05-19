@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho la necessità di rincorrere le persone perché se non lo facessi rimarrei da sola, perché nessuno è disposto a rincorrermi
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	necessità	necessità	NOUN	S	Gender=Fem	1	obj	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	rincorrere	rincorrere	VERB	V	VerbForm=Inf	3	acl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	persone	persona	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	perché	perché	SCONJ	CS	_	13	mark	_	_
+9	se	se	SCONJ	CS	_	13	mark	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+12	facessi	facettere	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+13	rimarrei	rimarre	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	sola	solo	ADJ	A	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	13	punct	_	_
+17	perché	perché	SCONJ	CS	_	20	mark	_	_
+18	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	20	nsubj:pass	_	_
+19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+20	disposto	disposto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	rincorrermi	rincorrermo	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	SpacesAfter=\n
+

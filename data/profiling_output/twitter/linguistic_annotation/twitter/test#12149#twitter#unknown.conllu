@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndrePellizza66 se al posto della nazionale ci mandavamo il Frosinone facevamo una figura migliore...
+1	@AndrePellizza66	@AndrePellizza66	SYM	X	_	10	obl	_	_
+2	se	se	SCONJ	CS	_	1	fixed	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	posto	posto	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	nazionale	nazionale	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	obj	_	_
+10	mandavamo	mandare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Frosinone	Frosinone	PROPN	SP	_	13	nsubj	_	_
+13	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	figura	figura	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	migliore...	migliore.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = #GermaniaItalia .
+1	#GermaniaItalia	#GermaniaItalia	PROPN	SP	_	0	root	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

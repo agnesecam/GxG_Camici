@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @albertopriz @MasterChef_it t'ha preso proprio male sto Masterchef eh vez...?
+1	@albertopriz	@albertopriz	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	@MasterChef_it	@MasterChef_it	PROPN	SP	_	1	nmod	_	_
+3	t'	ta	PRON	PI	Number=Sing|PronType=Ind	2	flat:name	_	SpaceAfter=No
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	male	male	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	sto	stare	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	Masterchef	Masterchef	PROPN	SP	_	5	nsubj	_	_
+10	eh	eh	NOUN	S	_	9	nmod	_	_
+11	vez...	vez.	NOUN	S	_	10	compound	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Leggo dalle lamentele web che in parecchi la pensano cosi...
+1	Leggo	Leggo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	dalle	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	lamentele	lamentele	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+5	web	web	NOUN	S	Gender=Masc	4	compound	_	_
+6	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+9	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	pensano	pensare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+11	cosi..	cosi	NOUN	S	_	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

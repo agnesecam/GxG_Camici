@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuno dica a #Marino che se va in un talk show con dei giornalisti a qualche domanda dovrà pur rispondere @OttoemezzoTW
+1	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	dica	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	#Marino	#Marino	PROPN	SP	_	21	obl	_	_
+5	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+6	se	si	SCONJ	CS	_	7	mark	_	_
+7	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	talk	talk	NOUN	S	_	7	obl	_	_
+11	show	show	NOUN	S	_	10	compound	_	_
+12	con	con	ADP	E	_	15	case	_	_
+13-14	dei	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	12	fixed	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	18	det	_	_
+18	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+19	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	aux	_	_
+20	pur	pure	ADV	B	_	21	advmod	_	_
+21	rispondere	rispondere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+22	@OttoemezzoTW	@OttoemezzoTW	PROPN	SP	_	21	obj	_	SpacesAfter=\n
+

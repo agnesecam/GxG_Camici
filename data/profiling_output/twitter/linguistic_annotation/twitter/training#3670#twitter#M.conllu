@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fionnulo anche perchè lo sanno bene che la prossima crisi , sarà l'ultima... .
+1	@fionnulo	@fionnulare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	anche	anche	ADV	B	_	5	advmod	_	_
+3	perchè	perché	SCONJ	CS	_	5	mark	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	bene	bene	ADV	B	_	5	advmod	_	_
+7	che	che	SCONJ	CS	_	14	mark	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	prossima	prossimo	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	crisi	crisi	NOUN	S	Gender=Fem	14	nsubj	_	_
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	cop	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	ultima...	ultima...	NOUN	S	_	5	ccomp	_	_
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Nel senso che farà talmente male, da modificare il sistema.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	senso	senso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	_
+6	talmente	talmente	ADV	B	_	7	advmod	_	_
+7	male	male	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	da	da	ADP	E	_	10	mark	_	_
+10	modificare	modificare	VERB	V	VerbForm=Inf	3	acl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	sistema.	sistema.	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

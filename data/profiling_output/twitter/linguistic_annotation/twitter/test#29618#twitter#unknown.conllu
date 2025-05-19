@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Radio_GdA scherzi?
+1	@Radio_GdA	@Radio_GdA	ADP	E	_	2	case	_	_
+2	scherzi	scherzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = è un film che ho amato tantissimo, e andrebbe visto soltanto per una scena fantastica in cui i due protagonisti litigano
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	film	film	NOUN	S	Gender=Masc	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	amato	amare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+7	tantissimo	tanto	ADV	B	Degree=Abs	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	andrebbe	andere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+12	soltanto	soltanto	ADV	B	_	15	advmod	_	_
+13	per	per	ADP	E	_	15	case	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	scena	scena	NOUN	S	Gender=Fem|Number=Sing	21	nmod	_	_
+16	fantastica	fantastico	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	cui	cui	PRON	PR	PronType=Rel	21	nmod	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+20	due	due	NUM	N	NumType=Card	21	nummod	_	_
+21	protagonisti	protagonista	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+22	litigano	litigare	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	SpacesAfter=\n
+

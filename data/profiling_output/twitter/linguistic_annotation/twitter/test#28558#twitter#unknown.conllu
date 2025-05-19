@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #dallavostraparte 2)proponesse politici che fornissero soluzioni, le saremmo veramente grati
+1	#dallavostraparte	#dallavostraparte	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+2	2	2	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	proponesse	proponessa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	politici	politico	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	fornissero	fornire	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	_
+8	soluzioni	soluzione	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	le	lo	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	saremmo	essere	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+12	veramente	veramente	ADV	B	_	13	advmod	_	_
+13	grati	grato	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	SpacesAfter=\n
+

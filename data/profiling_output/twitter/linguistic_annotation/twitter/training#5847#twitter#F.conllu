@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NielsenItaly buongiorno mi servirebbero per un articolo qualcuna delle vs infografiche.
+1	@NielsenItaly	@NielsenItaly	NOUN	S	_	4	nsubj	_	_
+2	buongiorno	buongiorno	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	servirebbero	servire	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	articolo	articolo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	7	nmod	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	vs	vs	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+12	infografiche	infografico	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Posso usarle?
+1	Posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	usarle	_	_	_	_	_	_	_	SpaceAfter=No
+2	usar	usare	VERB	V	VerbForm=Inf	0	root	_	_
+3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

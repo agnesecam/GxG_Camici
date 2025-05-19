@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cisl fanno solo i loro interessi non i nostri.
+1	Cisl	Cisl	PROPN	SP	_	2	nsubj	_	_
+2	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADV	B	_	2	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	loro	loro	DET	AP	Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	nostri.	nostri.	NOUN	S	_	6	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .a loro di NOI non gliene frega nulla..sono VERGOGNOSI ..BRAVISSIMA @NadiaToffa #LeIene
+1	.a	.are	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+2	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	frega	frega	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	nulla..sono	esnulla..sere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	VERGOGNOSI	VERGOGNOSI	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+10	..BRAVISSIMA	..BRAVISSIMA	PROPN	SP	_	9	nsubj	_	_
+11	@NadiaToffa	@NadiaToffa	PROPN	SP	_	10	flat:name	_	_
+12	#LeIene	#LeIene	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

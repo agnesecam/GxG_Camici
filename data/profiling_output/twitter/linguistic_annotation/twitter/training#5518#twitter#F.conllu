@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi C'È QUALCUNO CHE SI PORTA A LETTO QUALCUNA DI LÌ VICINO AL PAESE PACHISTANO.
+1	@matteosalvinimi	@matteosalvinimo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	QUALCUNO	qualcuno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	CHE	che	PROPN	SP	_	3	obj	_	_
+6	SI	si	PROPN	SP	_	5	flat:name	_	_
+7	PORTA	Porta	PROPN	SP	_	5	flat:name	_	_
+8	A	A	ADP	E	_	9	case	_	_
+9	LETTO	Letto	PROPN	SP	_	5	nmod	_	_
+10	QUALCUNA	QUALCUNA	PROPN	SP	_	9	flat:name	_	_
+11	DI	Di	ADP	E	_	12	case	_	_
+12	LÌ	lì	PROPN	SP	_	9	nmod	_	_
+13	VICINO	vicino	PROPN	SP	_	12	flat:name	_	_
+14-15	AL	_	_	_	_	_	_	_	_
+14	A	A	ADP	E	_	15	case	_	_
+15	IL	Il	PROPN	SP	_	12	nmod	_	_
+16	PAESE	paese	PROPN	SP	_	15	flat:name	_	_
+17	PACHISTANO	pachistano	PROPN	SP	_	15	flat:name	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ..MA SA MI FATE PRIORI SCHIFO.
+1	..MA	..MA	ADP	E	_	2	case	_	_
+2	SA	sa	PROPN	SP	_	0	root	_	_
+3	MI	mi	PROPN	SP	_	2	flat:name	_	_
+4	FATE	Fate	PROPN	SP	_	2	flat:name	_	_
+5	PRIORI	priori	PROPN	SP	_	2	flat:name	_	_
+6	SCHIFO	SCHIFO	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = ...
+1	...	.	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

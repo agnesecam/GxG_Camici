@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @luigidimaio esatto.
+1	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ha fatto ammissione di colpa, minimo dovrà essere sentito da PM
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	ammissione	ammissione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	minimo	minimo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+9	essere	essere	AUX	VA	VerbForm=Inf	10	aux:pass	_	_
+10	sentito	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	PM	PM	NOUN	S	_	10	obl:agent	_	SpacesAfter=\n
+

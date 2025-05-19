@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SCUOLATUTTIUNIT perche mi tagghi??
+1	@SCUOLATUTTIUNIT	@scuolatuttiunit	CCONJ	CC	_	4	cc	_	_
+2	perche	perco	ADV	B	_	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+4	tagghi	taggare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = io sto con salvini e dunque ??
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	salvini	salvino	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	dunque	dunque	ADV	B	_	4	conj	_	_
+7	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = ripassa le societa deltuo guru che ècome B pic.twitter.com/2oAiRHSG8L
+1	ripassa	ripassare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	societa	societa	NOUN	S	Number=Sing	1	nsubj	_	_
+4	deltuo	deltuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	guru	guru	NOUN	S	Gender=Masc	3	compound	_	_
+6	che	che	PRON	PR	PronType=Rel	8	case	_	_
+7	ècome	ècome	ADV	B	_	8	advmod	_	_
+8	B	B	PROPN	SP	_	3	acl:relcl	_	_
+9	pic.twitter.com/2oAiRHSG8L	pic.twitter.com/2oAiRHSG8L	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

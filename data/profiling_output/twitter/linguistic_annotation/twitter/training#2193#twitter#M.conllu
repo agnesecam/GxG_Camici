@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Facebook nasconde una cartella spam, dentro potreste avere messaggi importanti.
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	Facebook	Facebook	PROPN	SP	_	3	nsubj	_	_
+3	nasconde	nascondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cartella	cartella	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	spam	spam	NOUN	S	Gender=Masc	5	compound	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	dentro	dentro	ADV	B	_	9	advmod	_	_
+9	potreste	potresta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	avere	avere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+11	messaggi	messaggio	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	importanti	importante	ADJ	A	Number=Plur	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ecco come trovarli @LaStampa http://www.
+1	Ecco	ecco	ADV	B	_	3	advmod	_	_
+2	come	come	ADP	E	_	3	mark	_	_
+3-4	trovarli	_	_	_	_	_	_	_	_
+3	trovar	trovare	VERB	V	VerbForm=Inf	0	root	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+5	@LaStampa	@LaStampa	PROPN	SP	_	3	obj	_	_
+6	http://www	http://www	NOUN	S	_	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = lastampa.it/2016/04/09/tec nologia/facebook-nasconde-una-cartella-spam-dentro-potreste-avere-messaggi-importanti-ecco-come-trovarli-kCgkG3DLlxoFLjgWyqe11J/pagina.html …
+1	lastampa.it/2016/04/09/tec	lastampa.it/2016/04/09/tec	NOUN	S	Gender=Fem	0	root	_	_
+2	nologia	nologio	NOUN	S	Gender=Fem|Number=Sing	1	compound	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	facebook	facebook	ADJ	A	_	1	amod	_	SpaceAfter=No
+5	-nasconde-una	-nasconde-uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	-cartella-spam-dentro	-cartella-spam-dentro	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	potreste	potresta	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	avere	avere	VERB	V	VerbForm=Inf	4	advcl	_	SpaceAfter=No
+11	-messaggi	-messaggio	ADV	B	_	13	advmod	_	SpaceAfter=No
+12	-importanti	-importante	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	SpaceAfter=No
+13	-ecco	-ecco	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	come-trovarli-kCgkG3DLlxoFLjgWyqe11J/	come-trovarli-kCgkG3DLlxoFLjgWyqe11J/	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	pagina.html	pagina.html	NOUN	S	Gender=Masc	15	nmod	_	_
+17	…	…	PUNCT	FF	_	10	punct	_	SpacesAfter=\n
+

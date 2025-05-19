@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una legge iniqua ed inutile che ha cancellato il diritto alla quiescenza a migliaia di lavoratori, Monti dovrà ... http:// fb.me/2wrRjwjoY
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	legge	legge	NOUN	S	Gender=Fem|Number=Sing	25	nsubj	_	_
+3	iniqua	iniquo	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	ed	e	CCONJ	CC	_	5	cc	_	_
+5	inutile	inutile	ADJ	A	Number=Sing	3	conj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	cancellato	cancellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	quiescenza	quiescenza	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	migliaia	migliaio	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	2	punct	_	_
+19	Monti	Monti	PROPN	SP	_	25	nsubj	_	_
+20	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	25	cop	_	_
+21	...	...	PUNCT	FF	_	22	punct	_	_
+22	http:	http:	PUNCT	FC	_	25	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	_
+25	fb.me/2wrRjwjoY	fb.me/2wrrjwjoy	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

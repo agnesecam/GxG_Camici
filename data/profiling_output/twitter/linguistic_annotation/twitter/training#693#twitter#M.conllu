@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensavo avessimo sconfitto quel male di noi, che ci rendeva piccoli e ridicoli, che ci faceva incomprensibili
+1	Pensavo	pensare	PROPN	SP	_	3	nsubj	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	sconfitto	sconfitto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	male	male	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+11	rendeva	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+12	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	11	obl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	ridicoli	ridicolo	ADJ	A	Number=Plur	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	12	punct	_	_
+16	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	18	expl	_	_
+18	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl:relcl	_	_
+19	incomprensibili	incomprensibile	ADJ	A	Number=Plur	18	xcomp	_	SpacesAfter=\n
+

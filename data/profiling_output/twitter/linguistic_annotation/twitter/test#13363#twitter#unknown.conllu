@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaScanzi non solo anche parecchi giornalisti (tra cui Cannavò ) prima lo sfruttarono e poi lo mollarono con disprezzo.
+1	@AndreaScanzi	@AndreaScanzi	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	solo	solo	ADV	B	_	6	advmod	_	_
+4	anche	anche	ADV	B	_	6	advmod	_	_
+5	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+7	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	tra	tra	ADP	E	_	9	case	_	_
+9	cui	cui	PRON	PR	PronType=Rel	10	nmod	_	_
+10	Cannavò	Cannavò	PROPN	SP	_	6	nmod	_	_
+11	)	)	PUNCT	FB	_	10	punct	_	_
+12	prima	prima	ADV	B	_	14	advmod	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	sfruttarono	sfruttare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	poi	poi	ADV	B	_	18	advmod	_	_
+17	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+18	mollarono	mollare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	disprezzo	disprezzo	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = E adesso?
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	adesso	adesso	ADV	B	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

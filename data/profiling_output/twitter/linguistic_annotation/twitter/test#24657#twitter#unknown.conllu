@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaTondo si, già ci sono, non avendo trovato la sdraio..!!
+1	@AndreaTondo	@AndreaTondo	VERB	V	VerbForm=Ger	6	advcl	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	già	già	ADV	B	_	6	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	avendo	avere	AUX	VA	VerbForm=Ger	10	aux	_	_
+10	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	sdraio..	sdraio..	NOUN	S	_	10	obj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

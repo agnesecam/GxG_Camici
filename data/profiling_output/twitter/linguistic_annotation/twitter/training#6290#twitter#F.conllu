@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = era stata colpa mia, se fossimo andate a piedi non sarebbe successo niente e vaffanculo a me
+1	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+2	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
+3	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	andate	andare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	advcl	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+14	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obl	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	vaffanculo	vaffanculare	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	conj	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	obl	_	SpacesAfter=\n
+

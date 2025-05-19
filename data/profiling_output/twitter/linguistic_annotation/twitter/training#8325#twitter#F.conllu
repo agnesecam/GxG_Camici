@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vfdcsz @gasparripdl e dunque i musulmani XLA loro purché nn rompano le scatole ai cristiani !!!
+1	@vfdcsz	@vfdcsz	NOUN	S	Gender=Masc	0	root	_	_
+2	@gasparripdl	@gasparripdl	ADJ	A	Number=Sing	1	amod	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	dunque	dunque	ADV	B	_	6	advmod	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	musulmani	musulmano	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+7	XLA	XLA	PROPN	SP	_	6	nmod	_	_
+8	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	conj	_	_
+9	purché	purché	SCONJ	CS	_	11	mark	_	_
+10	nn	nno	NUM	N	NumType=Card	11	nsubj	_	_
+11	rompano	rompare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	scatole	scatola	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14-15	ai	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	cristiani	cristiano	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+17	!!!	!!!	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

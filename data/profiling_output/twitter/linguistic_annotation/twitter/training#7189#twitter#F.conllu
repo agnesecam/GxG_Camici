@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io, tu, egli, noi, voi , essi vogliono per #gm2012infanzia il ruolo @davidefaraone @SteGiannini @MiurSocial @Marco_Di_Lello @matteorenzi
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	1	conj	_	_
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	vogliono	volere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	#gm2012infanzia	#gm2012infanziare	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	ruolo	ruolo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+17	@davidefaraone	@davidefaraone	SYM	SYM	_	18	nmod	_	_
+18	@SteGiannini	@SteGiannini	PROPN	SP	_	16	nmod	_	_
+19	@MiurSocial	@MiurSocial	PROPN	SP	_	18	flat:name	_	_
+20	@Marco_Di_Lello	@Marco_Di_Lello	PROPN	SP	_	18	flat:name	_	_
+21	@matteorenzi	@matteorenzi	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	12	amod	_	SpacesAfter=\n
+

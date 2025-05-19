@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sia chiaro, Reina come bandiera e come uomo non si discute.
+1	Sia	sia	CCONJ	CC	_	2	cc	_	_
+2	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	Reina	Reina	PROPN	SP	_	12	nsubj	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	bandiera	bandiera	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	come	come	ADP	E	_	9	case	_	_
+9	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+12	discute	discutere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Neppure come portiere, ma i dati...
+1	Neppure	neppure	ADV	BN	PronType=Neg	3	advmod	_	_
+2	come	come	ADP	E	_	3	case	_	_
+3	portiere	portiere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	ma	ma	CCONJ	CC	_	7	cc	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	dati...	dati...	NOUN	S	_	3	conj	_	_
+
+# sent_id = 3
+# text = @Torrenapoli1 @NapoliOutsider @sch_antonio
+1	@Torrenapoli1	@Torrenapoli1	PROPN	SP	_	0	root	_	_
+2	@NapoliOutsider	@NapoliOutsider	PROPN	SP	_	1	flat:name	_	_
+3	@sch_antonio	@sch_antonio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpacesAfter=\n
+

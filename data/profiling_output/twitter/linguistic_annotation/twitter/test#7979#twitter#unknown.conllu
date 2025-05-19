@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sdegnata cara Roberta, esattamente tutelare cosa?
+1	@sdegnata	@sdegnare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	cara	caro	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	Roberta	Roberta	PROPN	SP	_	1	nsubj:pass	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	esattamente	esattamente	ADV	B	_	6	advmod	_	_
+6	tutelare	tutelare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+7	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	6	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Abbiamo approvato legge che impedisce piattaforme entro le 12 miglia.
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	approvato	approvare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	legge	legge	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	impedisce	impedire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	piattaforme	piattaforma	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+7	entro	entro	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	12	12	NUM	N	NumType=Card	10	nummod	_	_
+10	miglia	miglio	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Dunque ?
+1	Dunque	dunque	ADV	B	_	0	root	_	_
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = @SenatoriPD
+1	@SenatoriPD	@SenatoriPD	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

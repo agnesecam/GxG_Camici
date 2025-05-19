@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @soulvharry aw condivido!
+1	@soulvharry	@soulvharry	DET	DI	PronType=Ind	2	det	_	_
+2	aw	aw	NOUN	S	Gender=Masc	0	root	_	_
+3	condivido	condivido	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = sono troppo pigra ma ci saresti sicuro
+1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	troppo	troppo	ADV	B	_	3	advmod	_	_
+3	pigra	pigro	ADV	B	_	0	root	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+6	saresti	saredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	SpacesAfter=\n
+

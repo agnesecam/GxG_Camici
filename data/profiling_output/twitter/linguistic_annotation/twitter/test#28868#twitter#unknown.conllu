@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le bestemmie si sprecano quando sono le tre e nonostante tutto non riesci a dormire.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	bestemmie	bestemmia	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	sprecano	sprecare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	quando	quando	SCONJ	CS	_	8	mark	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	tre	tre	NOUN	S	Gender=Fem|Number=Plur	4	advcl	_	_
+9	e	e	CCONJ	CC	_	13	cc	_	_
+10	nonostante	nonostante	ADP	E	_	11	case	_	_
+11	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obl	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	riesci	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	dormire	dormire	VERB	V	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

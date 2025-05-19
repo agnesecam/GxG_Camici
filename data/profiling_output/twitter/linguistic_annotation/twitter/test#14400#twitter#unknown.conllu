@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A proposito di #ossimoro anni fa un medico mi diagnostico' una "bella malattia" ... < Bell'ossimoro ! > feci io ...
+1	A	a	ADP	E	_	2	case	_	_
+2	proposito	proposito	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	#ossimoro	#ossimoro	DET	AP	Gender=Masc|Poss=Yes|PronType=Prs	5	det	_	_
+5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	medico	medico	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	diagnostico	diagnostico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	SpaceAfter=No
+11	'	'	PUNCT	FB	_	15	punct	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+13	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+14	bella	bello	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	malattia	malattia	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	15	punct	_	_
+17	...	...	PUNCT	FF	_	15	punct	_	_
+18	<	<	SYM	SYM	_	6	conj	_	_
+19	Bell'	bell'	PROPN	SP	_	18	nsubj	_	SpaceAfter=No
+20	ossimoro	ossimoro	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+21	!	!	PUNCT	FS	_	22	punct	_	_
+22	>	>	SYM	SYM	_	24	nmod	_	_
+23	feci	feci	NUM	N	_	24	nummod	_	_
+24	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+25	...	.	PUNCT	FF	_	6	punct	_	_
+
+# sent_id = 2
+# text = Mi guardo' perplesso
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	'	'	PUNCT	FB	_	2	punct	_	_
+4	perplesso	perplesso	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	SpacesAfter=\n
+

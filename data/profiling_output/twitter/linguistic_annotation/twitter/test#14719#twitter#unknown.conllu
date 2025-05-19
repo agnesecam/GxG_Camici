@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = IN TUTTA ITALIA I LAVORATORI SONO 30 MILA E A RAVENNA 6 MILA . USO STRUMENTALE DI RENZI DEI POSTI DI LAVORO petrolio piattaforme
+1	IN	in	ADP	E	_	2	case	_	_
+2	TUTTA	tutto	PROPN	SP	_	7	obl	_	_
+3	ITALIA	Italia	PROPN	SP	_	2	flat:name	_	_
+4	I	il	PROPN	SP	_	3	flat:name	_	_
+5	LAVORATORI	lavoratore	PROPN	SP	_	3	flat:name	_	_
+6	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	30	30	NUM	N	NumType=Card	0	root	_	_
+8	MILA	mila	PROPN	SP	_	7	flat	_	_
+9	E	e	CCONJ	CC	_	10	cc	_	_
+10	A	a	PROPN	SP	_	7	conj	_	_
+11	RAVENNA	RAVENNA	PROPN	SP	_	10	flat:name	_	_
+12	6	6	NUM	N	NumType=Card	10	flat:name	_	_
+13	MILA	mila	PROPN	SP	_	10	flat:name	_	_
+14	.	.	PUNCT	FF	_	10	punct	_	_
+15	USO	uso	PROPN	SP	_	10	flat:name	_	_
+16	STRUMENTALE	strumentale	PROPN	SP	_	15	flat:name	_	_
+17	DI	Di	ADP	E	_	18	case	_	_
+18	RENZI	RENZI	PROPN	SP	_	24	nmod	_	_
+19-20	DEI	_	_	_	_	_	_	_	_
+19	DI	Di	ADP	E	_	21	case	_	_
+20	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	POSTI	posto	PROPN	SP	_	24	nmod	_	_
+22	DI	Di	ADP	E	_	23	case	_	_
+23	LAVORO	lavoro	PROPN	SP	_	24	nmod	_	_
+24	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	10	flat:name	_	_
+25	piattaforme	piattaformo	ADJ	A	Number=Sing	24	amod	_	SpacesAfter=\n
+

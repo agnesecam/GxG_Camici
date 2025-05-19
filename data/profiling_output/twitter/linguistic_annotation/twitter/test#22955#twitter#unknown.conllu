@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alinomilan glieli doveva dare parecchio tempo fa.
+1	@alinomilan	@alinomilan	ADV	B	_	5	advmod	_	_
+2-3	glieli	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	iobj	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+4	doveva	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	dare	dare	VERB	V	VerbForm=Inf	0	root	_	_
+6	parecchio	parecchio	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	fa	fa	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = ..
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

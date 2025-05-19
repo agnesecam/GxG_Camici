@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Juventus, Buffon presenta la stagione e avverte: " Avremo qualche problema a vincere" http://www.
+1	Juventus	Juventus	PROPN	SP	_	4	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	Buffon	Buffon	PROPN	SP	_	1	flat:name	_	_
+4	presenta	presentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	avverte	avverta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	8	punct	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	_
+11	Avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	8	ccomp	_	_
+12	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+13	problema	problema	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	vincere	vincere	VERB	V	VerbForm=Inf	13	acl	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	17	punct	_	_
+17	http://www	http://www	NOUN	S	_	15	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = grognards2011.it/2015/08/juvent us-buffon-presenta-la-stagione-e-avverte-avremo-qualche-problema-a-vincere/ …
+1	grognards2011.it/2015/08/juvent	grognards2011.it/2015/08/juvent	NOUN	S	Gender=Masc	0	root	_	_
+2	us	us	ADJ	A	_	1	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	buffon	buffon	X	SW	Foreign=Yes	1	appos	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	presenta-la	presenta-lare	X	SW	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+7	-stagione	-stagione	X	SW	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+9	e	e	CCONJ	CC	_	13	cc	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	avverte	avvertire	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	17	det	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+17	problema	problema	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	a-vincere	a-vincere	VERB	V	VerbForm=Inf	17	parataxis	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	_
+21	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

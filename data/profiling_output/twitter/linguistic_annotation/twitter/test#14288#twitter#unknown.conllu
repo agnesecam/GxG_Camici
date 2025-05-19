@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 'C'è puzza di feci qua' 'Potrebbe essere lei' MI STO PISCIANDO ADDOSSO AHAHAHAHAHAHHAHA #ciaodarwin
+1	'C'	'ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	puzza	puzzare	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	feci	fece	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	qua	qua	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	'	'	PUNCT	FB	_	11	punct	_	_
+8	'	'	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+9	Potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	essere	essere	AUX	V	VerbForm=Inf	11	cop	_	_
+11	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	SpaceAfter=No
+12	'	'	PUNCT	FB	_	11	punct	_	_
+13	MI	mi	PROPN	SP	_	11	nmod	_	_
+14	STO	Sto	PROPN	SP	_	13	flat:name	_	_
+15	PISCIANDO	PISCIANDO	PROPN	SP	_	13	flat:name	_	_
+16	ADDOSSO	addosso	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	AHAHAHAHAHAHHAHA	AHAHAHAHAHAHHAHA	PROPN	SP	_	2	acl:relcl	_	_
+18	#ciaodarwin	#ciaodarwino	ADV	B	_	17	advmod	_	SpacesAfter=\n
+

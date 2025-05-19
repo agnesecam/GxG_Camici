@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Perché i libri sono stati inventati per dimenticare ciò che troppo spesso scordiamo" #vivalalettura
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Perché	perché	SCONJ	CS	_	7	mark	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	libri	libro	NOUN	S	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	aux:pass	_	_
+7	inventati	inventare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	acl	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	dimenticare	dimenticare	VERB	V	VerbForm=Inf	7	advcl	_	_
+10	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	obj	_	_
+11	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+12	troppo	troppo	ADV	B	_	13	advmod	_	_
+13	spesso	spesso	ADV	B	_	14	advmod	_	_
+14	scordiamo	scordare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	7	punct	_	_
+16	#vivalalettura	#vivalalettura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

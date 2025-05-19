@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = magari se fossimo stati nella stessa classe, saremmo stati fidanzati da un pezzo.
+1	magari	magari	ADV	B	_	12	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	stati	essere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	advcl	_	_
+5-6	nella	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	classe	classe	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	aux:pass	_	_
+12	fidanzati	fidanzato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = Chi lo può sapere.
+1	Chi	chi	PRON	PQ	PronType=Int	4	nsubj	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sapere	sapere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

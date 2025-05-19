@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Nella sua mente fu un cielo azzurro.
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2-3	Nella	_	_	_	_	_	_	_	_
+2	In	in	ADP	E	_	5	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	mente	mente	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+6	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	azzurro	azzurro	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Un cielo da mistral.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	mistral	mistral	NOUN	S	Gender=Masc	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Pensò all'amore.
+1	Pensò	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2-3	all'	_	_	_	_	_	_	_	SpaceAfter=No
+2	a	a	ADP	E	_	4	case	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	amore	amore	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = A quello che era… https://www.
+1	A	a	ADP	E	_	2	case	_	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+4	era…	era…	PUNCT	FF	_	3	punct	_	_
+5	https://www	https://www	NOUN	S	_	2	acl:relcl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = instagram.com/p/BD7SEgwL9ks/
+1	instagram.com/p/BD7SEgwL9ks/	instagram.com/p/BD7SEgwL9ks/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

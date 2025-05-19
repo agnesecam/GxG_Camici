@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #notizie #Torino 25 aprile:
+1	#notizie	#notizia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#Torino	#Torino	PROPN	SP	_	1	nmod	_	_
+3	25	25	NUM	N	NumType=Card	2	nmod	_	_
+4	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mattarella farà tappa e Varallo e poi sotto la Mole:
+1	Mattarella	Mattarello	PROPN	SP	_	2	nsubj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	tappa	tappa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	Varallo	Varallo	PROPN	SP	_	3	conj	_	_
+6	e	e	CCONJ	CC	_	10	cc	_	_
+7	poi	poi	ADV	B	_	10	advmod	_	_
+8	sotto	sotto	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Mole	Mole	PROPN	SP	_	2	conj	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = Il Capo del... http:// bit.ly/23igMtM #Piemonte #Italia
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Capo	capo	PROPN	SP	_	0	root	_	_
+3	del...	del.	PUNCT	FF	_	7	punct	_	_
+4	http:	http:	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	_
+7	bit.ly/23igMtM	bit.ly/23igMtM	PROPN	SP	_	2	nmod	_	_
+8	#Piemonte	#Piemonte	PROPN	SP	_	7	flat:name	_	_
+9	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	Italia	Italia	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n
+

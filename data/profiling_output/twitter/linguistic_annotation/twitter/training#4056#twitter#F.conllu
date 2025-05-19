@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CorryLoddo ma dovrà tagliare da altre parti, come ha ia' fatto ,compravendita voto si chiama ;) @BMascalchi
+1	@CorryLoddo	@CorryLoddo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	tagliare	tagliare	VERB	V	VerbForm=Inf	1	conj	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	altre	altro	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+7	parti	parte	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	come	come	SCONJ	CS	_	10	mark	_	_
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	ia	iare	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+12	'	'	PUNCT	FB	_	13	punct	_	_
+13	fatto	fare	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	,compravendita	,compravendita	ADJ	A	Number=Sing	15	amod	_	_
+15	voto	voto	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+18	;	;	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	1	punct	_	_
+20	@BMascalchi	@BMascalchi	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

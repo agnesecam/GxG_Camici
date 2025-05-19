@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_LaMatta_ mah...
+1	@_LaMatta_	@_LaMatta-	ADJ	NO	NumType=Ord	2	amod	_	_
+2	mah..	mah..	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Parecchi non credo
+1	Parecchi	parecchio	PROPN	SP	_	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

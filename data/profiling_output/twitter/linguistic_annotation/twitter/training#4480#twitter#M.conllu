@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #internazionale Il presidente sudafricano dovrà restituire i soldi spesi per rimodernare la sua residenza priva... http:// ow.ly/3d1UJD
+1	#internazionale	#internazionale	ADV	B	_	6	advmod	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	sudafricano	sudafricano	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	restituire	restituire	VERB	V	VerbForm=Inf	0	root	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	spesi	spendere	ADJ	A	Number=Plur	8	amod	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	rimodernare	rimodernare	VERB	V	VerbForm=Inf	6	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	residenza	residenza	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+15	priva...	priva.	NOUN	S	_	14	compound	_	_
+16	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	14	punct	_	_
+19	ow.ly/3d1UJD	ow.ly/3d1UJD	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

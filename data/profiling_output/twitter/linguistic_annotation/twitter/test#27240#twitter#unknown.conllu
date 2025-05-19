@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Il tempo è ciò che più desideriamo, ma che, ahimè , peggio usiamo." (William Penn) #motorino … https://www.
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+6	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+7	più	più	ADV	B	_	8	advmod	_	_
+8	desideriamo	desiderare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	16	punct	_	_
+10	ma	ma	CCONJ	CC	_	16	cc	_	_
+11	che	che	PRON	PR	PronType=Rel	16	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	ahimè	ahimè	INTJ	I	_	16	discourse	_	_
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	peggio	peggio	ADV	B	_	16	advmod	_	_
+16	usiamo	usare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	5	punct	_	_
+19	(	(	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	William	William	PROPN	SP	_	23	nmod	_	_
+21	Penn	Penn	PROPN	SP	_	20	flat:name	_	SpaceAfter=No
+22	)	)	PUNCT	FB	_	20	punct	_	_
+23	#motorino	#motorino	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+24	…	…	PUNCT	FF	_	25	punct	_	_
+25	https://www	https://www	NOUN	S	_	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BCqHPFsH4QK/
+1	instagram.com/p/BCqHPFsH4QK/	instagram.com/p/BCqHPFsH4QK/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando l' #Isola comincerà il 90% di noi starà già dormendo.
+1	Quando	quando	SCONJ	CS	_	4	mark	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	#Isola	#Isola	PROPN	SP	_	4	nsubj	_	_
+4	comincerà	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	advcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	90	90	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	%	%	SYM	SYM	_	10	nsubj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+10	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	già	già	ADV	B	_	10	advmod	_	_
+12	dormendo	dormire	VERB	V	VerbForm=Ger	10	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

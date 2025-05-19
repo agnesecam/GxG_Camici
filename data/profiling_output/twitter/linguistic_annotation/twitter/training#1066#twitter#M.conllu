@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I voti di panachage danno sempre da pensare...
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	voti	voto	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	panachage	panachage	NOUN	S	_	2	nmod	_	_
+5	danno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	pensare...	pensare...	NOUN	S	_	5	obl	_	_
+
+# sent_id = 2
+# text = @MicheleBertini 1434 voti dalla Lega, @MBorradori 987 dal PLR #ComunaliTI2016
+1	@MicheleBertini	@MicheleBertini	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	1434	1434	NUM	N	NumType=Card	3	nummod	_	_
+3	voti	voto	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Lega	Lega	PROPN	SP	_	1	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	@MBorradori	@MBorradori	PROPN	SP	_	1	obj	_	_
+9	987	987	NUM	N	NumType=Card	8	flat:name	_	_
+10-11	dal	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	PLR	PLR	PROPN	SP	_	8	nmod	_	_
+13	#ComunaliTI2016	#ComunaliTI2016	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @adorvmendes @sofia_viscardi Non vedo l'ora di leggerlo,spero che mi dia anche l'occasione di riabbracciarti se farai un firmacopie.
+1	@adorvmendes	@adorvmendi	ADP	E	_	4	mark	_	_
+2	@sofia_viscardi	@sofia_viscardo	ADV	B	_	4	advmod	_	_
+3	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	ora	ora	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	leggerlo,spero	leggerlo,spero	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+11	dia	dare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	anche	anche	ADV	B	_	14	advmod	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+15	di	di	ADP	E	_	16	mark	_	_
+16-17	riabbracciarti	_	_	_	_	_	_	_	_
+16	riabbracciar	riabbracciare	VERB	V	VerbForm=Inf	14	acl	_	_
+17	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	obj	_	_
+18	se	se	SCONJ	CS	_	19	mark	_	_
+19	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	firmacopie	firmacopia	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

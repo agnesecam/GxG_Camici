@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Corriere dunque in #Russia non si è nemmeno liberi di scopare #Putin anche sotto le lenzuola
+1	@Corriere	@Corriere	VERB	V	VerbForm=Inf	0	root	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	#Russia	#Russia	PROPN	SP	_	1	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	nemmeno	nemmeno	ADV	BN	PronType=Neg	9	advmod	_	_
+9	liberi	libero	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	scopare	scopare	VERB	V	VerbForm=Inf	9	advcl	_	_
+12	#Putin	#Putin	PROPN	SP	_	11	obj	_	_
+13	anche	anche	ADV	B	_	16	advmod	_	_
+14	sotto	sotto	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	lenzuola	lenzuola	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci sono donne e donne perbene e ipocrite false come a qualcuna che li vuole rappresentare salve ipocrite politiche https:// twitter.com/GioMelandri/st atus/707199622587006977 …
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	donne	donna	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	donne	donna	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+6	perbene	perbene	ADJ	A	_	5	amod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	ipocrite	ipocrita	ADJ	A	Gender=Fem|Number=Plur	6	conj	_	_
+9	false	falso	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+10	come	come	ADP	E	_	12	case	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+14	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+15	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	rappresentare	rappresentare	VERB	V	VerbForm=Inf	12	acl:relcl	_	_
+17	salve	salvo	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	_
+18	ipocrite	ipocrita	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+19	politiche	politico	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	_
+20	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	_
+23	twitter.com/GioMelandri/st	twitter.com/GioMelandri/st	PROPN	SP	_	18	nmod	_	_
+24	atus/707199622587006977	atus/707199622587006977	NUM	N	NumType=Card	23	nummod	_	_
+25	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

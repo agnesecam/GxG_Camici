@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @emanuelefiano se venissero regolarizzati con il jobs act avremmo un'impennata positiva ...saranno milioni!
+1	@emanuelefiano	@emanuelefiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	venissero	venire	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux:pass	_	_
+4	regolarizzati	regolarizzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	jobs	jobs	NOUN	S	Gender=Masc	4	obl	_	_
+8	act	act	CCONJ	CC	_	9	cc	_	_
+9	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+10	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	impennata	impennata	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	positiva	positivo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	...saranno	...sare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	parataxis	_	_
+14	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = Non trovi?
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	trovi	trovare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

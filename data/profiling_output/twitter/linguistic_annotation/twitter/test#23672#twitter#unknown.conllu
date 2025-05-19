@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una figura informe si chinò sopra di lui, egli sentì l'odore del cuoio del cinturone;
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	figura	figura	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	informe	informe	ADJ	A	Number=Sing	2	amod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	chinò	chinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sopra	sopra	ADP	E	_	8	case	_	_
+7	di	di	ADP	E	_	6	fixed	_	_
+8	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	sentì	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	odore	odore	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	cuoio	cuoio	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+17-18	del	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	cinturone	cinturone	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+20	;	;	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = ma quali segni portava la... http:// fb.me/4ZdtvP1pL
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	quali	quale	DET	DQ	Number=Plur|PronType=Int	3	det	_	_
+3	segni	segno	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	portava	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	la...	la...	NOUN	S	_	4	obj	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	fb.me/4ZdtvP1pL	fb.me/4ZdtvP1pL	PROPN	SP	_	4	obl	_	SpacesAfter=\n
+

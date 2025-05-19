@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #StandingOvation per @graziano_delrio Ne avessimo altri 100 come lui sarebbero sempre pochi.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	StandingOvation	StandingOvation	PROPN	SP	_	13	nsubj	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	@graziano_delrio	@graziano_delrio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+5	Ne	in	PROPN	SP	_	4	nmod	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	altri	altro	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+8	100	100	NUM	N	NumType=Card	7	nummod	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+11	sarebbero	essere	AUX	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	sempre	sempre	ADV	B	_	13	advmod	_	_
+13	pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = #ottoemezzo pic.twitter.com/E4EWkbME2n
+1	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	pic.twitter.com/E4EWkbME2n	pic.twitter.com/E4EWkbME2n	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

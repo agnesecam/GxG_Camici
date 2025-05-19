@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Confronto Isis, Russia, USA:
+1	Confronto	confronto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Isis	Isis	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	Russia	Russia	PROPN	SP	_	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	USA	USA	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ció che la bibbia profetizza!
+1	ció	ció	PROPN	SP	_	0	root	_	_
+2	che	che	SCONJ	CS	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	bibbia	bibbia	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	profetizza	profetizzo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = https:// youtu.be/PQ_XM36Zxg0 via @YouTube
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	youtu.be/PQ_XM36Zxg0	youtu.be/PQ_XM36Zxg0	PROPN	SP	_	0	root	_	_
+5	via	via	ADV	B	_	4	advmod	_	_
+6	@YouTube	@YouTube	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

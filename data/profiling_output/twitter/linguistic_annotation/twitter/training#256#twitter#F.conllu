@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @StefanoRocca9 @TinaAnceschi @SRQ96 @SusanScCastaldi buonpomeriggio e se avessimo lo stesso panorama del quadro,sarà splendido
+1	@StefanoRocca9	@StefanoRocca9	PROPN	SP	_	14	nsubj	_	_
+2	@TinaAnceschi	@TinaAnceschi	PROPN	SP	_	1	flat:name	_	_
+3	@SRQ96	@SRQ96	PROPN	SP	_	1	flat:name	_	_
+4	@SusanScCastaldi	@SusanScCastaldi	PROPN	SP	_	1	flat:name	_	_
+5	buonpomeriggio	buonpomeriggio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	advcl	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	panorama	panorama	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	quadro,sarà	esquadro,sere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+15	splendido	splendido	ADJ	A	Gender=Masc|Number=Sing	14	xcomp	_	SpacesAfter=\n
+

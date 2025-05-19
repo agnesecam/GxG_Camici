@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È l#8marzo per tutte in casa...
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	l#8marzo	l#8marzo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	2	obl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	casa..	casa..	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ma qualcuna non voleva proprio i fiori!!!
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	voleva	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	proprio	proprio	ADV	B	_	4	advmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	fiori	fiore	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	!!	!!	PUNCT	FF	_	4	punct	_	_
+
+# sent_id = 3
+# text = #regaliazzeccati #FestaDellaDonna pic.twitter.com/chD8ops3zX
+1	#regaliazzeccati	#regaliazzeccare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	#FestaDellaDonna	#FestaDellaDonna	PROPN	SP	_	0	root	_	_
+3	pic.twitter.com/chD8ops3zX	pic.twitter.com/chD8ops3zX	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

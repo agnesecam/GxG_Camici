@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @repubblicait non c'e' fine alla buffonaggine(si dice cosi?)X
+1	@repubblicait	@repubblicait	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3-4	c'e'	_	_	_	_	_	_	_	_
+3	c'i	c'o	ADJ	A	Number=Plur	5	amod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	fine	fine	NOUN	S	Number=Sing	0	root	_	_
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	buffonaggine(	buffonaggine(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+10	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	cosi	coso	ADJ	A	Gender=Masc|Number=Plur	10	xcomp	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+14	X	x	ADJ	NO	Number=Sing|NumType=Ord	5	amod	_	_
+
+# sent_id = 2
+# text = Renzi qualunque cosa faccia lui o il suo Governo e' cosa 'Buona e Giusta'
+1	Renzi	Renzi	ADP	E	_	3	case	_	_
+2	qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+4	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	o	o	CCONJ	CC	_	9	cc	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	SpaceAfter=No
+11	'	'	PUNCT	FB	_	12	punct	_	_
+12	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+13	'	'	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	Buona	buona	PROPN	SP	_	12	nsubj	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	Giusta	giusta	PROPN	SP	_	14	conj	_	SpaceAfter=No
+17	'	'	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Calcioscommesse :
+1	#Calcioscommesse	#Calcioscommere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Conte , chiesti 6 mesi Con sospensione condizionale della pena e multa di 8 mila euro http://www.
+1	#Conte	#Conte	ADV	B	_	3	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	chiesti	chiedere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
+4	6	6	NUM	N	NumType=Card	5	nummod	_	_
+5	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+6	Con	con	ADP	E	_	7	case	_	_
+7	sospensione	sospensione	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	condizionale	condizionale	ADJ	A	Number=Sing	7	amod	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	pena	pena	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	multa	multa	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+14	di	di	ADP	E	_	17	case	_	_
+15	8	8	NUM	N	NumType=Card	17	nummod	_	_
+16	mila	mila	NUM	N	NumType=Card	15	flat	_	_
+17	euro	euro	NOUN	S	Gender=Masc	13	nmod	_	_
+18	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 3
+# text = ansa.it/sito/notizie/t opnews/2016/04/05/calcioscommesse-conte-chiesti-6-mesi_ec6a13f8-4ccd-444b-9f57-394d526e6c76.html …
+1	ansa.it/sito/notizie/t	ansa.it/sito/notizie/t	ADV	B	_	8	advmod	_	_
+2	opnews/2016	opnews/2016	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	04	04	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	05	05	NUM	N	NumType=Card	4	compound	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	calcioscommesse	calcioscommesso	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+9	-conte	-conte	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	chiesti	chiedere	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+12	-	-	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+13	6	6	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+14	-mesi_ec6a13f8	-mesi_ec6a13f8	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	4ccd-444b-9f57-394d526e6c76.html	4ccd-444b-9f57-394d526e6c76.html	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+17	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Prof_Sconvolto sennò come farebbero a venderla a 14˙500€?
+1	@Prof_Sconvolto	@Prof_Sconvolto	ADV	B	_	2	advmod	_	_
+2	sennò	sennare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	come	come	SCONJ	CS	_	4	mark	_	_
+4	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	venderla	_	_	_	_	_	_	_	_
+6	vender	vendere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	14˙500€	14˙500€	PROPN	SP	_	6	obl	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

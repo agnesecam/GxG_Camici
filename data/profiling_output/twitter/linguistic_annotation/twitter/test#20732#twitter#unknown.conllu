@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sapevo saresti stata troppo orgogliosa per tornare,così ho deciso di venire a prenderti.
+1	Sapevo	Sapevo	PROPN	SP	_	5	nsubj	_	_
+2	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
+4	troppo	troppo	ADV	B	_	5	advmod	_	_
+5	orgogliosa	orgoglioso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	tornare,così	tornare,così	NOUN	S	Gender=Fem	9	obl	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	deciso	decidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	venire	venire	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13-14	prenderti	_	_	_	_	_	_	_	SpaceAfter=No
+13	prender	prendere	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obj	_	_
+15	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Gabriel Garcia Marquez #LAmore @CasaLettori
+1	Gabriel	Gabriel	PROPN	SP	_	0	root	_	_
+2	Garcia	Garcia	PROPN	SP	_	1	flat:name	_	_
+3	Marquez	Marquez	PROPN	SP	_	1	flat:name	_	_
+4	#LAmore	#LAmore	PROPN	SP	_	1	flat:name	_	_
+5	@CasaLettori	@CasaLettore	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

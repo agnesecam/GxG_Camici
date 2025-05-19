@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = avevo scordato che stasera facesse #ciaodarwin non vedo l'ora!
+1	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	scordato	scordare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	stasera	stasera	ADV	B	_	5	advmod	_	_
+5	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+6	#ciaodarwin	#ciaodarwino	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	ora	ora	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = mi diverto a guardarlo anche se non è nulla di così bello.
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	diverto	divrire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4-5	guardarlo	_	_	_	_	_	_	_	_
+4	guardar	guardare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	anche	anche	ADV	B	_	10	mark	_	_
+7	se	se	SCONJ	CS	_	6	fixed	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	advcl	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	così	così	ADV	B	_	13	advmod	_	_
+13	bello	bello	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

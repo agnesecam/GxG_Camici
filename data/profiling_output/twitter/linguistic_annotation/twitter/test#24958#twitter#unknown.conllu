@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @borghi_claudio @sole24ore gli crolla il castello di carte e non sanno più he pesci prendere.
+1	@borghi_claudio	@borghi_claudio	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@sole24ore	@sole24ore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	crolla	crollare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	castello	castello	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	carte	carta	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	più	più	ADV	B	_	11	advmod	_	_
+13	he	o	DET	RD	Definite=Def|PronType=Art	14	det	_	_
+14	pesci	pesce	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+15	prendere.	prendere.	NOUN	S	_	4	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...non fossero colpevoli farebbero pena
+1	...non	...non	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	fossero	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	colpevoli	colpevole	ADJ	A	Number=Plur	0	root	_	_
+4	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	pena	pena	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpacesAfter=\n
+

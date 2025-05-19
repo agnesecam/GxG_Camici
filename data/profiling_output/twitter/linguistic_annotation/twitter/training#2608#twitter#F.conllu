@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi ricorda quando Mellie andò al fast food per sembrare più "umana" e fece una pessima figura #Scandal #ScandalABC https:// twitter.com/corriere/statu s/718356912467787776 …
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quando	quando	SCONJ	CS	_	5	mark	_	_
+4	Mellie	Mellie	PROPN	SP	_	5	nsubj	_	_
+5	andò	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	fast	fast	ADJ	A	_	9	amod	_	_
+9	food	food	NOUN	S	_	5	obl	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	5	advcl	_	_
+12	più	più	ADV	B	_	14	advmod	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	umana	umano	ADJ	A	Gender=Fem|Number=Sing	11	xcomp	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	14	punct	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	fece	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	pessima	pessimo	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	20	amod	_	_
+20	figura	figura	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+21	#Scandal	#Scandal	PROPN	SP	_	20	nmod	_	_
+22	#ScandalABC	#ScandalABC	PROPN	SP	_	21	flat:name	_	_
+23	https:	https:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	21	punct	_	_
+26	twitter.com/corriere/statu	twitter.com/corriere/statu	ADP	E	_	27	case	_	_
+27	s/718356912467787776	s/718356912467787776	NUM	N	NumType=Card	21	nummod	_	_
+28	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

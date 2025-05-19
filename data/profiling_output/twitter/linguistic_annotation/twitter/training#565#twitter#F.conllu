@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci sono troppi film d’ #animazione ...magari avessimo questo problemone in Italia http://www.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	troppi	troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	film	film	NOUN	S	Gender=Masc	2	nsubj	_	_
+5	d’	di	ADP	E	_	6	case	_	_
+6	#animazione	#animazione	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	...magari	...magari	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	problemone	problemone	NOUN	S	Gender=Masc|Number=Sing	2	advcl	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	Italia	Italia	PROPN	SP	_	10	nmod	_	_
+13	http://www	http://www	NOUN	S	_	12	compound	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ilpost.it/2016/03/19/ci- sono-troppi-film-danimazione/ … via @ilpost
+1	ilpost.it/2016/03/19/ci-	_	PUNCT	FB	_	4	punct	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+3	-troppi	-troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	SpaceAfter=No
+4	-film-danimazione	-film-danimazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	_
+6	…	…	PUNCT	FF	_	7	punct	_	_
+7	via	via	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	@ilpost	@ilpost	NOUN	S	Gender=Masc	4	nmod	_	SpacesAfter=\n
+

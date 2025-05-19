@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LAvvelenato stronzetto,non sei neppure capace di reggere un confronto,in quanto alla tua di madre mi dispiace del mal di culo che ha ancora
+1	@LAvvelenato	@LAvvelenare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	stronzetto,non	stronzetto,non	ADP	E	_	5	case	_	_
+3	sei	sei	NUM	N	NumType=Card	5	nummod	_	_
+4	neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+5	capace	capace	ADJ	A	Number=Sing	1	obl	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	reggere	reggere	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	confronto,in	confronto,ino	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	quanto	quanto	ADV	B	_	17	mark	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	15	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+13	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	madre	madre	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+17	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	mal	male	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	culo	culo	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+23	che	che	PRON	PR	PronType=Rel	24	nsubj	_	_
+24	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+25	ancora	ancora	ADV	B	_	24	advmod	_	SpacesAfter=\n
+

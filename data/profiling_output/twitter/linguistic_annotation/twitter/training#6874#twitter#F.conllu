@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutti i cuccioli meritano rispetto comprensione empatia e pari dignità che siano essi cuccioli di esseri umani o... http:// fb.me/QTXSbXE7
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det:predet	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	cuccioli	cucciolo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	meritano	meritare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	rispetto	rispetto	ADP	E	_	6	case	_	_
+6	comprensione	comprensione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	empatia	empatia	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	pari	pari	ADJ	A	_	10	amod	_	_
+10	dignità	dignità	NOUN	S	Gender=Fem	7	conj	_	_
+11	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+12	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nmod	_	_
+14	cuccioli	cucciolo	NOUN	S	Gender=Masc|Number=Plur	4	acl:relcl	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+17	umani	umano	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	o...	o.	PUNCT	FS	_	19	punct	_	_
+19	http:	http:	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	14	punct	_	_
+22	fb.me/QTXSbXE7	fb.me/QTXSbXE7	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

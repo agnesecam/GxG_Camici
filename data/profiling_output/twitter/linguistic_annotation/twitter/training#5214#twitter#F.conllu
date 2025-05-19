@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sarà, ma a me vedere Owen con qualcuna diversa da Cristina fa ancora strano.
+1	Sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	6	punct	_	_
+3	ma	ma	CCONJ	CC	_	6	cc	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+6	vedere	vedere	VERB	V	VerbForm=Inf	1	conj	_	_
+7	Owen	Owen	PROPN	SP	_	6	obj	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
+10	diversa	diverso	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	7	nmod	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	Cristina	Cristina	PROPN	SP	_	10	nmod	_	_
+13	fa	fare	ADV	B	_	14	advmod	_	_
+14	ancora	ancora	ADV	B	_	15	advmod	_	_
+15	strano	strano	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #GreysAnatomy
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	GreysAnatomy	GreysAnatomy	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "La sola cosa buona che abbia prodotto è una certa quota di coscienza proletaria dentro la città melmosa" #Bagnoli pic.twitter.com/0Xr0fUxlQD
+1	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	sola	solo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+5	buona	buono	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	prodotto	produrre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	certa	certo	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+12	quota	quota	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	coscienza	coscienza	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	proletaria	proletario	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+16	dentro	dentro	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	città	città	NOUN	S	Gender=Fem	14	nmod	_	_
+19	melmosa	melmoso	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	18	punct	_	_
+21	#Bagnoli	#Bagnoli	PROPN	SP	_	18	nmod	_	_
+22	pic.twitter.com/0Xr0fUxlQD	pic.twitter.com/0Xr0fUxlQD	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marcolaudonio se hai letto il pezzo avrai capito che politicamente è passato inosservato.
+1	@marcolaudonio	@marcolaudonio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	avrai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	politicamente	politicamente	ADV	B	_	12	advmod	_	_
+11	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	passato	passare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_
+13	inosservato	inosservato	ADJ	A	Gender=Masc|Number=Sing	12	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È un modello di integrazione da seguire o no?
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	modello	modello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	integrazione	integrazione	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	seguire	seguire	VERB	V	VerbForm=Inf	3	acl	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	no	no	ADV	BN	PronType=Neg	7	conj	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = :-)
+1	:	:	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

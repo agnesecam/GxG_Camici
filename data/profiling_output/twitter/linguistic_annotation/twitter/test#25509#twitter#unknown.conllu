@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PlayStation 4K con APU Polaris per raddoppiare la potenza?
+1	PlayStation	PlayStation	ADP	E	_	2	case	_	_
+2	4K	4k	PROPN	SP	_	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	APU	APU	PROPN	SP	_	2	nmod	_	_
+5	Polaris	Polaris	PROPN	SP	_	4	flat:name	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	raddoppiare	raddoppiare	VERB	V	VerbForm=Inf	2	acl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	potenza	potenza	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = :
+1	:	:	PUNCT	FC	_	0	root	_	_
+
+# sent_id = 3
+# text = Il portale inoltre ha ipotizzato che PlayStation 4... http:// lqwi.a.boysofts.com/Cet
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	portale	portale	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	inoltre	inoltre	ADV	B	_	5	advmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	ipotizzato	ipotizzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	PlayStation	PlayStation	PROPN	SP	_	5	ccomp	_	_
+8	4...	4.	NUM	N	NumType=Card	7	nummod	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	lqwi.a.boysofts.com/Cet	lqwi.a.boysofts.com/Cet	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n
+

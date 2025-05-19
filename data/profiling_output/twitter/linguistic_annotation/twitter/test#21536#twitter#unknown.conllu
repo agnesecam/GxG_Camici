@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se esiste il paradiso Diego già starà là, scassando il cazzo al padreterno perché vo' magnà.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	paradiso	Paradiso	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	Diego	Diego	PROPN	SP	_	4	nmod	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	là	là	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	scassando	scassare	VERB	V	VerbForm=Ger	7	advcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	padreterno	padreterno	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+16	perché	perché	SCONJ	CS	_	18	mark	_	_
+17	vo'	vo'	DET	DD	Number=Sing|PronType=Dem	18	det	_	_
+18	magnà	magnà	NOUN	S	Gender=Fem	7	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ciao amore mio pic.twitter.com/7tRFfasLrF
+1	Ciao	ciao	INTJ	I	_	2	discourse	_	_
+2	amore	amore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	pic.twitter.com/7tRFfasLrF	pic.twitter.com/7tRFfasLrF	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

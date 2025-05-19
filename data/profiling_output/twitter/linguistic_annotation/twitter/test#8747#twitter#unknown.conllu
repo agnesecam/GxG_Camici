@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quando Berlusconi ha inserito la Guidi come ministro, lei non sapeva neppure cosa fossero gli emendamenti, con Renzi ha imparato
+1	quando	quando	SCONJ	CS	_	4	mark	_	_
+2	Berlusconi	Berlusconi	PROPN	SP	_	4	nsubj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	inserito	inserire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Guidi	Guide	PROPN	SP	_	12	nsubj	_	_
+7	come	come	ADP	E	_	8	case	_	_
+8	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	advcl	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	15	advmod	_	_
+14	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	15	obj	_	_
+15	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	obj	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	emendamenti	emendamento	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	17	punct	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	Renzi	Renzi	PROPN	SP	_	12	obl	_	_
+21	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	imparato	imparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

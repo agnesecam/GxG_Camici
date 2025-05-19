@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PuglisiPD #abilitatiTFA truffati e vessati dallo Stato SISS = TFA #TFAÈCONCORSO #tfainruolo
+1	@PuglisiPD	@PuglisiPD	PROPN	SP	_	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	abilitatiTFA	abilitatitfare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+4	truffati	truffare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	14	acl	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	vessati	vessare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
+7-8	dallo	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Stato	Stato	PROPN	SP	_	6	obl:agent	_	_
+10	SISS	SISS	PROPN	SP	_	9	flat:name	_	_
+11	=	=	PUNCT	FF	_	12	punct	_	_
+12	TFA	TFA	PROPN	SP	_	9	appos	_	_
+13	#TFAÈCONCORSO	#TFAÈCONCORSO	PROPN	SP	_	12	flat:name	_	_
+14	#tfainruolo	#tfainruolo	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\n
+

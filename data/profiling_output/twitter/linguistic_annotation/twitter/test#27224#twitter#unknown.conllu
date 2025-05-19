@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “ @DorianaDori :
+1	“	“	PUNCT	FB	_	2	punct	_	_
+2	@DorianaDori	@DorianaDori	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Camilleri ci ha detto tutta la storia compreso il finale.
+1	Camilleri	Camilleri	ADV	B	_	4	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:predet	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+8	compreso	comprendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	finale	finale	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Ma so' cose da pazzi.
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	so'	soo	ADP	E	_	3	case	_	_
+3	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	pazzi	pazzo	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = Ahimè cose pesantemente vere #montalbano ”
+1	Ahimè	ahimè	INTJ	I	_	5	discourse	_	_
+2	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	pesantemente	pesantemente	ADV	B	_	4	advmod	_	_
+4	vere	vero	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+5	#montalbano	#montalbano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	”	”	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

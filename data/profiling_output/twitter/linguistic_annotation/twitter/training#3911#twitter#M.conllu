@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Englaro, Lombardia dovrà risarcire.
+1	Englaro	Englaro	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	Lombardia	Lombardia	PROPN	SP	_	1	conj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Il padre:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	padre	padre	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ora nessuno soffrirà più http://www.
+1	Ora	ora	ADV	B	_	3	advmod	_	_
+2	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	soffrirà	soffrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter= 
+4	più	più	ADV	B	_	5	advmod	_	_
+5	http://www	http://www	X	SW	Foreign=Yes	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = adrianobusolin.it/englaro-lombar dia-dovra-risarcire-il-padre-ora-nessuno-soffrira-piu/ … pic.twitter.com/0YsIFhIbwv
+1	adrianobusolin.it/englaro-lombar	adrianobusolin.it/englaro-lombare	VERB	V	VerbForm=Inf	0	root	_	_
+2	dia-dovra-risarcire-il-padre-ora-nessuno	dia-dovra-risarcire-il-padre-ora-nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	obj	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	soffrira-piu	soffrira-piu	ADJ	A	_	2	amod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	…	…	PUNCT	FF	_	2	punct	_	_
+7	pic.twitter.com/0YsIFhIbwv	pic.twitter.com/0YsIFhIbwv	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

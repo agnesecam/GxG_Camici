@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stupiano i Proci, Vedendole piantare a lui sì bene, Bench’ egli a nessun pria viste le avesse.
+1	Stupiano	Stupiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Proci	Proce	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5-6	Vedendole	_	_	_	_	_	_	_	_
+5	Vedendo	vedere	VERB	V	VerbForm=Ger	1	advcl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	piantare	piantare	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+10	sì	sì	ADV	B	_	5	advmod	_	_
+11	bene	bene	ADV	B	_	5	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	1	punct	_	_
+13	Bench’	Bencho	PROPN	SP	_	14	obj	_	_
+14	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	nessun	nessuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	17	det	_	_
+17	pria	pria	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+18	viste	vedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	14	acl	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	avesse	avessa	NOUN	S	Gender=Fem|Number=Plur	18	nsubj:pass	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #DrittoAlCentro #conUlisse /21 @VentagliP
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	DrittoAlCentro	DrittoAlCentro	PROPN	SP	_	0	root	_	_
+3	#conUlisse	#conUlisse	PROPN	SP	_	2	flat:name	_	_
+4	/21	/21	NUM	N	NumType=Card	2	nummod	_	_
+5	@VentagliP	@VentagliP	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

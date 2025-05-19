@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lupi travestiti da Agnelli cercano di sfruttare la #Pasqua per sembrare innocenti ...
+1	Lupi	Lupi	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	travestiti	travestire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	Agnelli	Agnelli	PROPN	SP	_	2	obl:agent	_	_
+5	cercano	cercare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	sfruttare	sfruttare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	#Pasqua	#Pasqua	PROPN	SP	_	7	obj	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	7	advcl	_	_
+12	innocenti	innocente	ADJ	A	Number=Plur	11	xcomp	_	_
+13	...	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

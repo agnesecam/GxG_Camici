@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 19enni che bisticciano come se avessero 5 anni e la nonna che li minaccia di farli sedere uno dall'altro capo del tavolo rispetto all'altro
+1	19enni	19enne	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	bisticciano	bisticciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	come	come	ADV	B	_	3	advmod	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	avessero	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+7	5	5	NUM	N	NumType=Card	8	nummod	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	nonna	nonna|nonno	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	minaccia	minacciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+15	di	di	ADP	E	_	16	mark	_	_
+16-17	farli	_	_	_	_	_	_	_	_
+16	far	fare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+18	sedere	sedere	VERB	V	VerbForm=Inf	16	xcomp	_	_
+19	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	18	obj	_	_
+20-21	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+20	da	da	ADP	E	_	23	case	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	_
+22	altro	altro	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	capo	capo	NOUN	S	Gender=Masc|Number=Sing	30	obl	_	_
+24-25	del	_	_	_	_	_	_	_	_
+24	di	di	ADP	E	_	26	case	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	30	nmod	_	_
+27	rispetto	rispetto	ADV	B	_	30	case	_	_
+28-29	all'	_	_	_	_	_	_	_	SpaceAfter=No
+28	a	a	ADP	E	_	27	fixed	_	_
+29	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	30	det	_	_
+30	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	18	obl	_	SpacesAfter=\n
+

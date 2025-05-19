@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alfplata1 esatto!
+1	@alfplata1	@alfplatal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	esatto	esatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Staremo comunque a vedere .
+1	Staremo	Stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	comunque	comunque	ADV	B	_	1	advmod	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	vedere	vedere	VERB	V	VerbForm=Inf	1	advcl	_	_
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Se poi sarà così contatteremo colaninno e gli faremo ingoiare i suoi idioti sorrisini
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	poi	poi	ADV	B	_	5	advmod	_	_
+3	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+4	così	così	ADV	B	_	5	advmod	_	_
+5	contatteremo	contattare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	colaninno	colaninno	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	5	conj	_	_
+10	ingoiare	ingoiare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	idioti	idioto	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+14	sorrisini	sorrisino	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	SpacesAfter=\n
+

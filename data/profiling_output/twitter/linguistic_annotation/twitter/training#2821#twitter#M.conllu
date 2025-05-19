@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi stiamo facendo sembrare Liriano, l'ultimo dei pirla, più forte di Sandy Koufax (come dice @CardinalTales ).
+1	Oggi	oggi	ADV	B	_	3	advmod	_	_
+2	stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	facendo	fare	VERB	V	VerbForm=Ger	0	root	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	Liriano	Liriano	PROPN	SP	_	4	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	ultimo	ultimo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11-12	pirla	_	_	_	_	_	_	_	SpaceAfter=No
+11	pir	pir	NOUN	S	_	8	nmod	_	_
+12	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	forte	forte	ADJ	A	Number=Sing	4	xcomp	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	Sandy	Sandy	PROPN	SP	_	15	obl	_	_
+18	Koufax	Koufax	PROPN	SP	_	17	flat:name	_	_
+19	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+20	come	come	SCONJ	CS	_	21	mark	_	_
+21	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+22	@CardinalTales	@CardinalTales	PROPN	SP	_	21	nsubj	_	_
+23	)	)	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ridicoli @Cardinals
+1	Ridicoli	Ridicoli	PROPN	SP	_	0	root	_	_
+2	@Cardinals	@Cardinals	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

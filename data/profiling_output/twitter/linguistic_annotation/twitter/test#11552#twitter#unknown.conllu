@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @WindItalia È già uscito Android Marshmellow per gli lg g3, quando farete uscire la vostra versione brandizzata?
+1	@WindItalia	@WindItalia	PROPN	SP	_	4	nsubj	_	_
+2	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	già	già	ADV	B	_	4	advmod	_	_
+4	uscito	uscire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	Android	Android	PROPN	SP	_	4	nsubj	_	_
+6	Marshmellow	Marshmellow	PROPN	SP	_	5	flat:name	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	lg	lg	NOUN	S	Gender=Masc	5	nmod	_	_
+10	g3	g3	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	quando	quando	SCONJ	CS	_	14	mark	_	_
+13	farete	faere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	uscire	uscire	VERB	V	VerbForm=Inf	4	advcl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	versione	versione	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+18	brandizzata	brandizzato	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

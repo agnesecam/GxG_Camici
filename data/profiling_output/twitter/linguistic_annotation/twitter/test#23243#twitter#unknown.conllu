@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @francofontana43 basta dare troppo credito a @pbecchi .
+1	@francofontana43	@francofontana43	NUM	N	NumType=Range	2	nummod	_	_
+2	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dare	dare	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	troppo	troppo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	credito	credito	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	@pbecchi	@pbecco	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Rispetto le sue opinioni ma in anni ne avesse azzeccata mezza.
+1	Rispetto	rispetto	ADV	B	_	4	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	opinioni	opinione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	ma	ma	CCONJ	CC	_	10	cc	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+9	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	azzeccata	azzeccare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+11	mezza	mezzo	ADJ	A	Gender=Fem|Number=Sing	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Troppe le gaffes!
+1	Troppe	troppo	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	gaffes	gaffes	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

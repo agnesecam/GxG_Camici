@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = https://www.
+1	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD_uNn2RmTm/ Vergognosi @OfficialMonto e Mihajlovic che nn butta fuori quel sopravvalutato raccomandato!
+1	instagram.com/p/BD_uNn2RmTm/	instagram.com/p/BD_uNn2RmTm/	PROPN	SP	_	0	root	_	_
+2	Vergognosi	Vergognosi	PROPN	SP	_	1	flat:name	_	_
+3	@OfficialMonto	@OfficialMonto	PROPN	SP	_	1	flat:name	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	Mihajlovic	Mihajlovic	PROPN	SP	_	1	conj	_	_
+6	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+7	nn	nno	ADV	B	_	8	advmod	_	_
+8	butta	butta	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+9	fuori	fuori	ADP	E	_	11	case	_	_
+10	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	sopravvalutato	sopravvalutato	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	raccomandato	raccomandare	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = @PremiumSportHD
+1	@PremiumSportHD	@PremiumSportHD	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

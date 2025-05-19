@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prosegue la consegna delle nove lavagne interattive multimediali acquistate con il 30% delle nostre indennità di... http:// fb.me/12o1qH08V
+1	Prosegue	proseguire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	consegna	consegna	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nove	nove	NUM	N	NumType=Card	7	nummod	_	_
+7	lavagne	lavagna	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+8	interattive	interattivo	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+9	multimediali	multimediale	ADJ	A	Number=Plur	7	amod	_	_
+10	acquistate	acquistare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+11	con	con	ADP	E	_	14	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	30	30	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+14	%	%	SYM	SYM	_	10	obl	_	_
+15-16	delle	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+17	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	indennità	indennità	NOUN	S	Gender=Fem	14	nmod	_	_
+19	di...	di.	PUNCT	FS	_	7	punct	_	_
+20	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	7	punct	_	_
+23	fb.me/12o1qH08V	fb.me/12o1qH08V	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

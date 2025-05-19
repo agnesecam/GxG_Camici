@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @campagnandrea33 concordo.
+1	@campagnandrea33	@campagnandrea33	NUM	N	NumType=Range	2	nummod	_	_
+2	concordo.	concordo.	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ieri nessun problema di posteggio in stazione a savona e penso neppure oggi pomeriggio.
+1	..ieri	..iere	ADV	B	_	3	advmod	_	_
+2	nessun	nessuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	problema	problema	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	posteggio	posteggio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	stazione	stazione	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	savona	savona	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	13	advmod	_	_
+13	oggi	oggi	ADV	B	_	11	advmod	_	_
+14	pomeriggio.	pomeriggio.	NOUN	S	_	11	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..(posteggi personale fs)
+1	.	.	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+3	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+4	posteggi	posteggio	ADV	B	_	5	advmod	_	_
+5	personale	personale	ADJ	A	Number=Sing	6	amod	_	_
+6	fs	fs	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

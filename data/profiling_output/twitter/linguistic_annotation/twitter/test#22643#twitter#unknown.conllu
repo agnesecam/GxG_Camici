@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cinema futuro (3160): “Hardcore!” http:// antoniogenna.com/2016/04/10/cin ema-futuro-3160-hardcore/?
+1	Cinema	cinema	NOUN	S	Gender=Masc	0	root	_	_
+2	futuro	futuro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	3160	3160	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+7	“	“	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Hardcore	Hardcore	PROPN	SP	_	1	appos	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+10	”	”	PUNCT	FB	_	8	punct	_	_
+11	http:	http:	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	8	punct	_	_
+14	antoniogenna.com/2016/04/10/cin	antoniogenna.com/2016/04/10/cino	X	SW	Foreign=Yes	8	appos	_	_
+15	ema	ema	X	SW	Foreign=Yes	14	flat:foreign	_	SpaceAfter=No
+16	-futuro-3160	-futuro-3160	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
+17	-hardcore	-hardcora	NOUN	S	Gender=Masc|Number=Sing	14	flat:foreign	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = utm_source=dlvr.it&utm_medium=twitter … #CinemaeTV #Cinemafuturo
+1	utm_source=dlvr.it&utm_medium=twitter	utm_source=dlvr.it&utm_medium=twittere	ADP	E	_	3	case	_	_
+2	…	…	PUNCT	FF	_	3	punct	_	_
+3	#CinemaeTV	#CinemaeTV	PROPN	SP	_	0	root	_	_
+4	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	Cinemafuturo	Cinemafuturo	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

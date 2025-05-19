@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = camperanno sicuramente sui nostri soldi e la noatra devozione.
+1	camperanno	campare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	sicuramente	sicuramente	ADV	B	_	1	advmod	_	_
+3-4	sui	_	_	_	_	_	_	_	_
+3	su	su	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	noatra	noatro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	devozione	devozione	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma cavolo, ogni volta sembra so affilino le unghie per sembrare in
+1	Ma	ma	CCONJ	CC	_	13	cc	_	_
+2	cavolo	cavolo	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	volta	volta	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+6	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+7	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	xcomp	_	_
+8	affilino	affilare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	unghie	unghia	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12	sembrare	sembrare	VERB	V	VerbForm=Inf	8	advcl	_	_
+13	in	in	ADP	E	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxZeppelin81 @RossoneroJack92 @UmbertoGandini avessimo fatto, come era d'obbligo, 4 vittorie fra Carpi-Milan e Milan-Bologna...
+1	@MaxZeppelin81	@MaxZeppelin81	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@RossoneroJack92	@RossoneroJack92	PROPN	SP	_	5	nsubj	_	_
+3	@UmbertoGandini	@UmbertoGandini	PROPN	SP	_	2	flat:name	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	come	come	SCONJ	CS	_	10	mark	_	_
+8	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	d'	di	ADP	E	_	10	case	_	SpaceAfter=No
+10	obbligo	obbligo	NOUN	S	Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	4	4	NUM	N	NumType=Card	13	nummod	_	_
+13	vittorie	vittoria	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	_
+14	fra	fra	ADP	E	_	15	case	_	_
+15	Carpi-Milan	Carpi-Milan	PROPN	SP	_	13	nmod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	Milan-Bologna...	Milan-Bologna...	PROPN	SP	_	15	conj	_	SpacesAfter=\n
+

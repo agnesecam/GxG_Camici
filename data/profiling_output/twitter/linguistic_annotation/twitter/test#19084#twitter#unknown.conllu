@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche ieri in radio per fare due chiacchiere con Esse , Sp, Serioproduttore - Stefano Gargano.
+1	Anche	anche	ADV	B	_	2	advmod	_	_
+2	ieri	ieri	ADV	B	_	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	radio	radio	NOUN	S	Gender=Fem	2	obl	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	due	due	NUM	N	NumType=Card	8	nummod	_	_
+8	chiacchiere	chiacchiere	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	Esse	Esse	PROPN	SP	_	6	obl	_	_
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	Sp	Sp	PROPN	SP	_	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	14	punct	_	_
+14	Serioproduttore	Serioproduttore	PROPN	SP	_	10	conj	_	_
+15	-	-	PUNCT	FF	_	14	punct	_	_
+16	Stefano	Stefano	PROPN	SP	_	14	flat:name	_	_
+17	Gargano	Gargano	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Come diceva ... "Mi... http:// fb.me/5h21s6PnS
+1	Come	come	SCONJ	CS	_	2	mark	_	_
+2	diceva	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Mi...	Mi...	PROPN	SP	_	2	vocative	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	fb.me/5h21s6PnS	fb.me/5h21s6PnS	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

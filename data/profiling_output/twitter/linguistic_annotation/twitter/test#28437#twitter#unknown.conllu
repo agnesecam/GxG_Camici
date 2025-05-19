@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BettaPiccolotti @LaGabbiaTw quindi ci saremmo messi a raccogliere sti poveracci solo per il grande cuore della buona europa?
+1	@BettaPiccolotti	@BettaPiccolotti	PROPN	SP	_	6	nsubj	_	_
+2	@LaGabbiaTw	@LaGabbiaTw	PROPN	SP	_	1	flat:name	_	_
+3	quindi	quindi	ADV	B	_	6	advmod	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+5	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	raccogliere	raccogliere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	sti	sto	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	poveracci	poveraccio	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	solo	solo	ADV	B	_	15	advmod	_	_
+12	per	per	ADP	E	_	15	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	grande	grande	ADJ	A	Number=Sing	15	amod	_	_
+15	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	19	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	buona	buono	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
+19	europa	europo	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @napoligol2014
+1	@napoligol2014	@napoligol2014	NUM	N	NumType=Range	0	root	_	_
+
+# sent_id = 2
+# text = Chi lo vuole dovrà pagare l'intera clausola e voi siete sempre il solito giornale di cacca.
+1	Chi	chi	PRON	PQ	PronType=Int	5	nsubj	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+3	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+7	intera	intero	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	clausola	clausola	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+9	e	e	CCONJ	CC	_	15	cc	_	_
+10	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_
+11	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	_
+12	sempre	sempre	ADV	B	_	15	advmod	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	solito	solito	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+15	giornale	giornale	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	cacca	cacca	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

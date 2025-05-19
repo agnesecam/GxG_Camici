@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RealEmisKilla @raffaella @THEVOICE_ITALY pensa se le avessero fatto fare 'vaffanculo' ahahahahahah Sarebbe stato epico
+1	@RealEmisKilla	@RealEmisKillo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	@raffaella	@raffaella	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	@THEVOICE_ITALY	@thevoice_italy	PROPN	SP	_	2	nmod	_	_
+4	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	8	iobj	_	_
+7	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	'	'	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	vaffanculo	vaffanculo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+12	'	'	PUNCT	FB	_	11	punct	_	_
+13	ahahahahahah	ahahahahahah	INTJ	I	_	16	advmod	_	_
+14	Sarebbe	essere	PROPN	SP	_	16	nsubj	_	_
+15	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	cop	_	_
+16	epico	epico	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpacesAfter=\n
+

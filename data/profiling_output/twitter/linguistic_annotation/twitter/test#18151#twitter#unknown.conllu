@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ne guardo parecchie quindi sceglierne una preferita mi è difficile https:// twitter.com/movdly/status/ 713451902978154496 …
+1	Ne	in	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+2	guardo	guardo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
+4	quindi	quindi	ADV	B	_	5	advmod	_	_
+5	sceglierne	scegliernere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	preferita	preferito	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	difficile	difficile	ADJ	A	Number=Sing	5	advcl	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	twitter.com/movdly/status/	twitter.com/movdly/status/	PUNCT	FF	_	15	punct	_	_
+15	713451902978154496	713451902978154496	NUM	N	NumType=Card	5	nummod	_	_
+16	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

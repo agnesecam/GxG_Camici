@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non uso mai le persone ma non mi lascio nemmeno usare.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	uso	uso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	mai	mai	ADV	B	_	2	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	persone	persona	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	ma	ma	CCONJ	CC	_	9	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	lascio	lasciare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	nemmeno	nemmeno	ADV	BN	PronType=Neg	9	advmod	_	_
+11	usare	usare	VERB	V	VerbForm=Inf	9	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @StorieMaledette su Bilancia #ijf16 Applausi di tutti.
+1	@StorieMaledette	@StorieMaledetta	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	su	su	ADP	E	_	3	case	_	_
+3	Bilancia	bilancia	PROPN	SP	_	1	obl	_	_
+4	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	ijf16	ijf16	SYM	X	_	6	nmod	_	_
+6	Applausi	applauso	PROPN	SP	_	3	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarcoKailashweb @GerosaRoberto @kailash_web @merygreiss più o meno il male di vivere dunque !
+1	@MarcoKailashweb	@MarcoKailashweb	PROPN	SP	_	0	root	_	_
+2	@GerosaRoberto	@GerosaRoberto	PROPN	SP	_	1	flat:name	_	_
+3	@kailash_web	@kailash_web	X	SW	Foreign=Yes	1	nmod	_	_
+4	@merygreiss	@merygreiss	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	più	più	ADV	B	_	9	advmod	_	_
+6	o	o	CCONJ	CC	_	7	cc	_	_
+7	meno	meno	ADV	B	_	5	conj	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	male	male	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	vivere	vivere	VERB	V	VerbForm=Inf	9	acl	_	_
+12	dunque	dunque	ADV	B	_	11	advmod	_	_
+13	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

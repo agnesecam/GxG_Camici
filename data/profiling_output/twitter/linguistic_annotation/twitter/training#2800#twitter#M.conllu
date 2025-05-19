@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ilteino ma almeno vi siete fatti una foto?
+1	@ilteino	@ilteino	ADV	B	_	6	advmod	_	_
+2	ma	ma	CCONJ	CC	_	6	cc	_	_
+3	almeno	almeno	ADV	B	_	6	advmod	_	_
+4	vi	vi	ADV	B	_	6	advmod	_	_
+5	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	foto	foto	NOUN	S	Gender=Fem	6	nsubj:pass	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..o era cosi difficile avvicinarsi..da farla sembrare in Cina?
+1	..o	..o	ADV	B	_	3	advmod	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	cosi	coso	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	difficile	difficile	ADJ	A	Number=Sing	5	amod	_	_
+5	avvicinarsi..da	avvicinarsi..da	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+6-7	farla	_	_	_	_	_	_	_	_
+6	far	fare	VERB	V	VerbForm=Inf	5	csubj	_	_
+7	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	Cina	Cina	PROPN	SP	_	8	obl	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..XD
+1	..XD	..XD	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

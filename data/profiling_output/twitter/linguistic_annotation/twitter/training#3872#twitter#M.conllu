@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ziaTata72 Prima di essere amanti, amici.
+1	@ziaTata72	@ziatata72	PROPN	SP	_	0	root	_	_
+2	Prima	Primo	PROPN	SP	_	1	flat:name	_	_
+3	di	di	ADP	E	_	5	mark	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+5	amanti	amante	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	amici	amico	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ciò che faccio scherzo, gioco ironicamente.
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	obj	_	_
+3	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	scherzo	scherzo	NOUN	S	Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+7	ironicamente	ironicamente	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Certe cose non cambieranno mai.
+1	Certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	cambieranno	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	mai	mai	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Le persone saltano.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	saltano.	saltano.	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+
+# sent_id = 5
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

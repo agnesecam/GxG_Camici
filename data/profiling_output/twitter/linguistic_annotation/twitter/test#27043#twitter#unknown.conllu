@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Calcio in uno scatto del 1981, River-Boca al Monumental.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	scatto	scatto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	1981	1981	NUM	N	NumType=Card	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	River-Boca	River-Bocare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Monumental	Monumental	PROPN	SP	_	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = #Maradona VS Fillol, altra gente, altro calcio.
+1	#Maradona	#Maradona	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	VS	VS	PROPN	SP	_	0	root	_	_
+3	Fillol	Fillol	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	altra	altro	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	gente	gente	NOUN	S	Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	altro	altro	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ahimè . pic.twitter.com/V46Ytt2Fu3
+1	Ahimè	ahimè	INTJ	I	_	3	discourse	_	_
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	pic.twitter.com/V46Ytt2Fu3	pic.twitter.com/V46Ytt2Fu3	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

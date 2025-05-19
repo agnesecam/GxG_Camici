@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La MICORRIZAZIONE dei suoli porta risultati evidenti nelle nostre vigne di Rubbia al Colle!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	MICORRIZAZIONE	MICORRIZAZIONE	PROPN	SP	_	6	nsubj	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	suoli	suolo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	evidenti	evidente	ADJ	A	Number=Plur	7	amod	_	_
+9-10	nelle	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	vigne	vigna	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	Rubbia	Rubbia	PROPN	SP	_	12	nmod	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17-18	Colle	_	_	_	_	_	_	_	SpaceAfter=No
+17	Con	con	PROPN	SP	_	6	obl	_	_
+18	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	!	!	PUNCT	FS	_	17	punct	_	_
+
+# sent_id = 2
+# text = LA… https://www.
+1	LA…	LA…	PUNCT	FF	_	2	punct	_	_
+2	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD8eB85DucV/
+1	instagram.com/p/BD8eB85DucV/	instagram.com/p/BD8eB85DucV/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TheExtremista @LBaggiani Io non sono anti-religioso, pretendo che le religioni non si comportino come lo Stato, cosa che avviene ahimé
+1	@TheExtremista	@TheExtremista	NOUN	S	Number=Sing	0	root	_	_
+2	@LBaggiani	@LBaggiani	PROPN	SP	_	1	nmod	_	_
+3	Io	Io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	anti	anti	ADJ	A	_	1	amod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	religioso	religioso	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	pretendo	pretendere	VERB	V	VerbForm=Ger	8	advcl	_	_
+11	che	che	SCONJ	CS	_	16	mark	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	religioni	religione	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	comportino	comportare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+17	come	come	ADP	E	_	19	case	_	_
+18	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	16	punct	_	_
+21	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+22	che	che	PRON	PR	PronType=Rel	23	nsubj	_	_
+23	avviene	avvenire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
+24	ahimé	ahimé	PRON	PE	Number=Sing|Person=3|PronType=Prs	23	obj	_	SpacesAfter=\n
+

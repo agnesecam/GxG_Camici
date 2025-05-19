@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo + orologi!!
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	+	+	SYM	SYM	_	0	root	_	_
+3	orologi	orologo	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = :) https:// twitter.com/agorarai/statu s/715789858904678401 …
+1	:	:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	_
+3	https:	https:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	twitter.com/agorarai/statu	twitter.com/agorarai/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	s/715789858904678401	s/715789858904678401	NUM	N	NumType=Card	0	root	_	_
+8	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

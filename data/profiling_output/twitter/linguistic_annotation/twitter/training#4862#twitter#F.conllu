@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Campo delle Idee http://www.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Campo	campo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3-4	delle	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	Idee	idea	PROPN	SP	_	2	nmod	_	_
+6	http://www	http://www	X	SW	Foreign=Yes	5	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ilcampodelleidee.it/doc/1336/pi-ch e-dimezzati-gli-sconti-contributivi-per-le-assunzioni-finito-il-boom-forse-non-era-il-jobs-act-a-sostenere-loccupazione.htmco …
+1	ilcampodelleidee.it/doc/1336/pi-ch	ilcampodelleidee.it/doc/1336/pi-ch	ADV	B	_	2	advmod	_	_
+2	e-dimezzati-gli-sconti-contributivi-per-le-assunzioni-finito-il-boom-forse-non-era-il-jobs-act-a-sostenere-loccupazione.htmco	e-dimezzati-gli-sconti-contributivi-per-le-assunzioni-finito-il-boom-forse-non-era-il-jobs-act-a-sostenere-loccupazione.htmco	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	…	…	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 3
+# text = Sin da inizio,per me,non fu incentivo ma compenso,X molti,per bilanciare costo rientro capitali
+1	Sin	sino	PROPN	SP	_	6	nsubj	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	inizio,per	inizio,per	NOUN	S	Number=Sing	4	nmod	_	_
+4	me,non	me,non	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+5	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+6	incentivo	incentivo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	compenso,X	compenso,X	ADJ	NO	Number=Sing|NumType=Ord	6	conj	_	_
+9	molti,per	molti,per	ADP	E	_	10	mark	_	_
+10	bilanciare	bilanciare	VERB	V	VerbForm=Inf	6	advcl	_	_
+11	costo	costo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	rientro	rientro	ADP	E	_	13	case	_	_
+13	capitali	capitale	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	SpacesAfter=\n
+

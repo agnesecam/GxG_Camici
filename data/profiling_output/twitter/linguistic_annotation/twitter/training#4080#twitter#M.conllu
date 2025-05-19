@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlessiaMorani Non hai capito.
+1	@AlessiaMorani	@AlessiaMorani	ADV	B	_	4	advmod	_	_
+2	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = @luigidimaio andrà a processo perché @matteorenzi dovrà svelare i conti della Onlus per dimostrarne la falsità
+1	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	andrà	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	processo	processo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+5	perché	perché	SCONJ	CS	_	8	mark	_	_
+6	@matteorenzi	@matteorenzi	ADV	B	_	8	advmod	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	svelare	svelare	VERB	V	VerbForm=Inf	2	advcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	conti	conto	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Onlus	Onlus	PROPN	SP	_	10	nmod	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15-16	dimostrarne	_	_	_	_	_	_	_	_
+15	dimostrar	dimostrare	VERB	V	VerbForm=Inf	8	advcl	_	_
+16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	falsità	falsità	NOUN	S	Gender=Fem	15	obj	_	SpacesAfter=\n
+

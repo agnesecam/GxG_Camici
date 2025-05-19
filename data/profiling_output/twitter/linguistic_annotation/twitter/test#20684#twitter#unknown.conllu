@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fo_eleonora mi vorresti dire che nel tuo personale saresti autosufficiente sia dal punto di vista energetico, alimentare sia di trasporti?
+1	@fo_eleonora	@fo_eleonorare	ADV	B	_	4	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl:impers	_	_
+3	vorresti	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	20	mark	_	_
+6-7	nel	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	10	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+8	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+9	personale	personale	ADJ	A	Number=Sing	10	amod	_	_
+10	saresti	saresto	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
+11	autosufficiente	autosufficiente	ADJ	A	Number=Sing	10	amod	_	_
+12	sia	sia	CCONJ	CC	_	15	cc	_	_
+13-14	dal	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	punto	punto	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	vista	vista	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+18	energetico	energetico	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	10	punct	_	_
+20	alimentare	alimentare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+21	sia	sia	CCONJ	CC	_	23	cc	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	trasporti	trasporto	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

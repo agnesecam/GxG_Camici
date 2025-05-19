@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @delinquentweet Pensiero di chi non ha cervello, dunque inesistente!
+1	@delinquentweet	@delinquentwee	CCONJ	CC	_	2	cc	_	_
+2	Pensiero	pensiero	PROPN	SP	_	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	chi	chi	PRON	PR	PronType=Rel	2	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	dunque	dunque	ADV	B	_	10	advmod	_	_
+10	inesistente	inesistente	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stiamo rifacendo tutti gli errori già fatti nella storia come se non avessimo memoria.
+1	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	rifacendo	rifacere	VERB	V	VerbForm=Ger	0	root	_	_
+3	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	errori	errore	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	storia	storia	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11	come	come	ADP	E	_	14	mark	_	_
+12	se	se	SCONJ	CS	_	11	fixed	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+15	memoria	memoria	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Quindi tutti 'sti #ricordiamodomani a cosa servono?!
+1	Quindi	quindi	CCONJ	CC	_	4	cc	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj:pass	_	_
+3	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	sti	rre	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	#ricordiamodomani	#ricordiamodomani	ADV	B	_	8	advmod	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	8	obl	_	_
+8	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

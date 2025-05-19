@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @paolagalloni @BertassoClaudio peccato che la madre non abbia abortito, ci faceva un gran favore, questo è un aborto perso
+1	@paolagalloni	@paolagallone	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+2	@BertassoClaudio	@BertassoClaudio	PROPN	SP	_	1	nmod	_	_
+3	peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	madre	madre	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	abortito	abortire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+12	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	gran	grande	ADJ	A	Number=Sing	15	amod	_	_
+15	favore	favore	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	20	punct	_	_
+17	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	aborto	aborto	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	_
+21	perso	perso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	SpacesAfter=\n
+

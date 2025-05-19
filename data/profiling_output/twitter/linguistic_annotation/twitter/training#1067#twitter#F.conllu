@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @intuslegens Perché l' #Italia cade sempre dalla padella alla brace?
+1	@intuslegens	@intuslegens	ADP	E	_	5	mark	_	_
+2	Perché	perché	ADV	B	_	5	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	#Italia	#Italia	PROPN	SP	_	5	nsubj	_	_
+5	cade	cadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	padella	padella	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	brace	brace	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

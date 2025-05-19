@@ -1,0 +1,60 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (LPI):
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	LPI	LPI	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Il nuovo Ministro dello sviluppo dovrà aprire al mercato, mettendoci la faccia» http:// quellichelafarmacia.com/28869/sviluppo -economico-poltrona-vacante-prendera-posto-della-guidi-ruggiero-lpi-concorrenza-liberalizzazioni-prescindono-un-nome-titolare-dovra-aprire-al-mercato-metten/ … pic.twitter.com/ns1jddeSLL
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	Ministro	Ministro	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+4-5	dello	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sviluppo	sviluppo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	aprire	aprire	VERB	V	VerbForm=Inf	0	root	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	8	punct	_	_
+13-14	mettendoci	_	_	_	_	_	_	_	_
+13	mettendo	mettere	VERB	V	VerbForm=Ger	8	advcl	_	_
+14	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	iobj	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+17	»	»	PUNCT	FB	_	8	punct	_	_
+18	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	_
+21	quellichelafarmacia.com/28869/sviluppo	quellichelafarmacia.com/28869/sviluppo	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+22	-economico	-economico	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	poltrona	poltrona	NOUN	S	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	vacante	vacante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	28	det	_	SpaceAfter=No
+27	-	-	PUNCT	FF	_	28	punct	_	SpaceAfter=No
+28	prendera-posto	prendera-posto	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+29	-	-	PUNCT	FF	_	28	punct	_	SpaceAfter=No
+30-31	della	_	_	_	_	_	_	_	SpaceAfter=No
+30	di	di	ADP	E	_	33	case	_	_
+31	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+32	-guidi	-guidio	ADJ	A	Gender=Masc|Number=Plur	33	amod	_	SpaceAfter=No
+33	-ruggiero	-ruggiero	NOUN	S	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+34	-	-	PUNCT	FF	_	28	punct	_	SpaceAfter=No
+35	lpi	lpo	NOUN	S	Gender=Masc|Number=Plur	28	compound	_	SpaceAfter=No
+36	-concorrenza	-concorrenza	ADP	E	_	37	case	_	SpaceAfter=No
+37	-liberalizzazioni	-liberalizzazione	NOUN	S	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
+38	-	-	PUNCT	FF	_	28	punct	_	SpaceAfter=No
+39	prescindono-un-nome-titolare	prescindono-un-nome-titolare	VERB	V	VerbForm=Inf	44	acl	_	SpaceAfter=No
+40	-	-	PUNCT	FF	_	39	punct	_	SpaceAfter=No
+41	dovra-aprire-al-mercato-metten	dovra-aprire-al-mercato-metten	INTJ	I	_	44	discourse	_	SpaceAfter=No
+42	/	/	PUNCT	FF	_	41	punct	_	_
+43	…	…	PUNCT	FF	_	41	punct	_	_
+44	pic.twitter.com/ns1jddeSLL	pic.twitter.com/ns1jddeSLL	PROPN	SP	_	28	nmod	_	SpacesAfter=\n
+

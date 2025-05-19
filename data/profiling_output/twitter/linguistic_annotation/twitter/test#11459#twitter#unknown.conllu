@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @JustinItalyHelp potreste seguimi??
+1	@JustinItalyHelp	@JustinItalyHelp	NOUN	S	Gender=Masc	0	root	_	_
+2	potreste	potresto	ADJ	A	Number=Sing	1	amod	_	_
+3	seguimi	seguimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	1	amod	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Grazie se lo farete
+1	Grazie	grazie	NOUN	S	_	4	obl	_	_
+2	se	se	SCONJ	CS	_	1	fixed	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

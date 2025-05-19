@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @juventusfc @SerieA_TIM segnali tangibili che la Juve è superiore a tutti.
+1	@juventusfc	@juventusfc	ADV	B	_	2	advmod	_	_
+2	@SerieA_TIM	@SerieA_TIM	PROPN	SP	_	0	root	_	_
+3	segnali	segnale	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+4	tangibili	tangibile	ADJ	A	Number=Plur	3	amod	_	_
+5	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Juve	Juve	PROPN	SP	_	9	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	superiore	superiore	ADJ	A	Degree=Cmp|Number=Sing	3	acl:relcl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Disciplina e mentalità vincente sono le nostre armi vincenti!
+1	Disciplina	disciplina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	mentalità	mentalità	NOUN	S	Gender=Fem	1	conj	_	_
+4	vincente	vincente	ADJ	A	Number=Sing	3	amod	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	armi	arma	NOUN	S	Gender=Fem|Number=Plur	1	nsubj	_	_
+9	vincenti	vincente	ADJ	A	Number=Plur	8	amod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

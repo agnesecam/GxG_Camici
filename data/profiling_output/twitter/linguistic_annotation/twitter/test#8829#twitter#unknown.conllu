@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma dove ha comprato i vestiti Laura Pausini?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	dove	dove	ADV	B	_	4	advmod	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	comprato	comprare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	vestiti	vestito	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+7	Laura	Laura	PROPN	SP	_	6	nmod	_	_
+8	Pausini	Pausini	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Neppure ai mercatini son così brutti!
+1	Neppure	neppure	ADV	BN	PronType=Neg	7	advmod	_	_
+2-3	ai	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	mercatini	mercato	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+5	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	così	così	ADV	B	_	7	advmod	_	_
+7	brutti	brutto	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LegaNordVeneta sono tutti pazzi sti pdioti, col cavolo ke uno ke ha due case ne dovrà dare una ai clandestini
+1	@LegaNordVeneta	@LegaNordVeneta	PROPN	SP	_	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	_
+4	pazzi	pazzo	ADP	E	_	5	case	_	_
+5	sti	sto	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+6	pdioti	pdioto	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8-9	col	_	_	_	_	_	_	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	cavolo	cavolo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+11	ke	ke	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+12	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ke	ke	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+14	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	due	due	NUM	N	NumType=Card	16	nummod	_	_
+16	case	casa	NOUN	S	Gender=Fem|Number=Plur	19	nsubj	_	_
+17	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	19	iobj	_	_
+18	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	aux	_	_
+19	dare	dare	VERB	V	VerbForm=Inf	14	obj	_	_
+20	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	19	obj	_	_
+21-22	ai	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	clandestini	clandestino	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	SpacesAfter=\n
+

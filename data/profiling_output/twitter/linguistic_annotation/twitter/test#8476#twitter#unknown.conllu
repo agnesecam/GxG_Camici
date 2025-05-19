@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il #meteo per domani.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#meteo	#meteo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	domani	domani	NOUN	S	Gender=Masc	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Tutti a casa a mangiar polenta e funghi, tanto non si riuscirà neppure a salire in barca....
+1	Tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	nsubj	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	mangiar	mangiar	VERB	V	VerbForm=Inf	3	acl	_	_
+6	polenta	polento	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	funghi	fungo	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	tanto	tanto	ADV	B	_	13	advmod	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+13	riuscirà	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+14	neppure	neppure	ADV	BN	PronType=Neg	13	advmod	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	salire	salire	VERB	V	VerbForm=Inf	13	xcomp	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	barca....	barca....	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+
+# sent_id = 3
+# text = http:// fb.me/27YyaTbFr
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/27YyaTbFr	fb.me/27YyaTbFr	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

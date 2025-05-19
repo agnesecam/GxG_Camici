@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dovunque e comunque si manifesti l'eccellenza,subito la generale mediocrita'si allea e congiura per soffocarla.
+1	Dovunque	dovunque	ADV	B	_	5	advmod	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	_
+3	comunque	comunque	ADV	B	_	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	manifesti	manife	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	eccellenza,subito	eccellenza,subito	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	generale	generale	NOUN	S	Number=Sing	12	nsubj	_	_
+10	mediocrita'	mediocritao	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	allea	alleare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	congiura	congiurare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16-17	soffocarla	_	_	_	_	_	_	_	SpaceAfter=No
+16	soffocar	soffocare	VERB	V	VerbForm=Inf	14	advcl	_	_
+17	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+18	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #ArthurSchopenhauer
+1	#ArthurSchopenhauer	#ArthurSchopenhauer	ADP	E	_	0	root	_	SpacesAfter=\n
+

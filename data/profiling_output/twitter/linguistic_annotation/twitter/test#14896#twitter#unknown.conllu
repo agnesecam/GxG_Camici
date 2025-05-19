@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lacharlot82 Ahahahah!!
+1	@lacharlot82	@lacharlot82	NUM	N	NumType=Card	2	nummod	_	_
+2	Ahahahah	Ahahahah	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = no vabbè ma poi la sciary che lo trattava con simpatia per evitare di mostrare che facesse un po' senso anche a lei
+1	no	no	ADV	BN	PronType=Neg	2	advmod	_	_
+2	vabbè	vabbè	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	ma	ma	CCONJ	CC	_	6	cc	_	_
+4	poi	poi	ADV	B	_	6	advmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	sciary	sciary	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	trattava	trattare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	simpatia	simpatia	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	evitare	evitare	VERB	V	VerbForm=Inf	9	advcl	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15	mostrare	mostrare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	che	che	SCONJ	CS	_	17	mark	_	_
+17	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	ccomp	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	po'	poco	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+20	senso	senso	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+21	anche	anche	ADV	B	_	23	advmod	_	_
+22	a	a	ADP	E	_	23	case	_	_
+23	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	SpacesAfter=\n
+

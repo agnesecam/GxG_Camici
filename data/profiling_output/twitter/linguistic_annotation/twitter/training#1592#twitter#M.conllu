@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Co-progettare assieme per prenderci cura dei beni comuni delle nostre comunità #comunitàchiama #coprogettare pic.twitter.com/z5LZDuJhwV
+1	Co	co	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	progettare	progettare	VERB	V	VerbForm=Inf	17	advcl	_	_
+4	assieme	assieme	ADV	B	_	6	advmod	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6-7	prenderci	_	_	_	_	_	_	_	_
+6	prender	prendere	VERB	V	VerbForm=Inf	3	advcl	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+8	cura	cura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	beni	bene	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	comuni	comune	ADJ	A	Number=Plur	11	amod	_	_
+13-14	delle	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	16	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	comunità	comunità	NOUN	S	Gender=Fem	11	nmod	_	_
+17	#comunitàchiama	#comunitàchiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	#coprogettare	#coprogettare	VERB	V	VerbForm=Inf	17	xcomp	_	_
+19	pic.twitter.com/z5LZDuJhwV	pic.twitter.com/z5LZDuJhwV	PROPN	SP	_	18	obj	_	SpacesAfter=\n
+

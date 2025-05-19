@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io veramente gli farei quello che i partigiani fecero a Mussolini,visto che siamo in piena dittatura perché no!!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	veramente	vero	ADV	B	_	4	advmod	_	_
+3	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	partigiani	partigiano	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+9	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	Mussolini	Mussolini	PROPN	SP	_	9	obl	_	SpaceAfter=No
+12	,visto	,vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	xcomp	_	_
+13	che	che	SCONJ	CS	_	17	mark	_	_
+14	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	piena	pieno	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+17	dittatura	dittatura	NOUN	S	Gender=Fem|Number=Sing	12	ccomp	_	_
+18	perché	perché	SCONJ	CS	_	19	mark	_	_
+19	no	no	ADV	BN	PronType=Neg	17	advcl	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	19	punct	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/GM_Imp/status/ 705714605016948736 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/GM_Imp/status/	twitter.com/GM_Imp/status/	PROPN	SP	_	0	root	_	_
+5	705714605016948736	705714605016948736	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

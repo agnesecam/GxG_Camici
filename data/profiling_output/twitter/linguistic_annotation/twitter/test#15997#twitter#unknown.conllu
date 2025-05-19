@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VariazioniG è la massa senza conoscenza e priva di obiettività e capacità critica che scoraggia,che applaude a chiunque critichi chiunque
+1	@VariazioniG	@Variazionig	PROPN	SP	_	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	massa	massa	NOUN	S	Gender=Fem|Number=Sing	20	nsubj	_	_
+5	senza	senza	ADP	E	_	6	case	_	_
+6	conoscenza	conoscenza	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	priva	privo	ADJ	A	Gender=Fem|Number=Sing	6	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	obiettività	obiettività	NOUN	S	Gender=Fem	8	obl	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	capacità	capacità	NOUN	S	Gender=Fem	10	conj	_	_
+13	critica	critico	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14	che	che	PRON	PR	PronType=Rel	16	obj	_	_
+15	scoraggia,che	scoraggia,co	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	16	nsubj	_	_
+16	applaude	applaudere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	chiunque	chiunque	NUM	N	_	19	nummod	_	_
+19	critichi	critico	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	_
+20	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	0	root	_	SpacesAfter=\n
+

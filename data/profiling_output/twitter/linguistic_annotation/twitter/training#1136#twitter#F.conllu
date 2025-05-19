@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @magibilo Scusa,ma dalla foto vedo un bel viso ed occhi espressivi!!
+1	@magibilo	@magibilare	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Scusa,ma	Scusa,ma	PROPN	SP	_	6	nsubj	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	foto	foto	NOUN	S	Gender=Fem	2	nmod	_	_
+6	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	bel	bello	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	viso	viso	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10	ed	e	CCONJ	CC	_	11	cc	_	_
+11	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+12	espressivi	espressivo	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

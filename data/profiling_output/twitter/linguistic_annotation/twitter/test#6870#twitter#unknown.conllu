@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @susannacenni quell'80% non c'è +: avete fatto tanti di quei danni che buona parte di essi sono ad una distanza siderale da voi -me comp-
+1	@susannacenni	@susannacenne	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+2	quell'	quello	DET	DD	Number=Sing|PronType=Dem	4	det	_	SpaceAfter=No
+3	80	80	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+4	%	%	SYM	SYM	_	7	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	+	+	SYM	SYM	_	7	nsubj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	11	punct	_	_
+10	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	parataxis	_	_
+12	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	obj	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+15	danni	danno	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
+16	che	che	PRON	PR	PronType=Rel	24	nsubj	_	_
+17	buona	buono	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+18	parte	parte	NOUN	S	Gender=Fem|Number=Sing	24	nsubj	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nmod	_	_
+21	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+22	ad	a	ADP	E	_	24	case	_	_
+23	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	distanza	distanza	NOUN	S	Gender=Fem|Number=Sing	15	acl:relcl	_	_
+25	siderale	siderale	ADJ	A	Number=Sing	24	amod	_	_
+26	da	da	ADP	E	_	28	case	_	_
+27	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	28	det:poss	_	_
+28	-me	-me	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	_
+29	comp	comp	ADJ	A	_	28	amod	_	SpaceAfter=No
+30	-	-	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

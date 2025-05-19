@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perchè meccanici, elettticisti, omini del ferramenta parlate a noi donne come se fossimo ritardate?
+1	Perchè	perché	ADV	B	_	2	advmod	_	_
+2	meccanici	meccanico	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	elettticisti	elettticista	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	omini	omino	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ferramenta	ferramento	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	parlate	parlare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	obl	_	_
+13	donne	donna	NOUN	S	Gender=Fem|Number=Plur	10	nsubj:pass	_	_
+14	come	come	ADV	B	_	17	advmod	_	_
+15	se	se	SCONJ	CS	_	17	mark	_	_
+16	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	ritardate	ritardare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = No, perchè io comincio a scocciarmi!
+1	No	no	INTJ	I	Polarity=Neg	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	perchè	perché	SCONJ	CS	_	5	mark	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	comincio	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	scocciarmi	arma|scocciarme	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

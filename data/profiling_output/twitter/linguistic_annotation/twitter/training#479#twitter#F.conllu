@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FandomSegreti "stupide bestie insensibili" come se avessimo ucciso qualcuno.
+1	@FandomSegreti	@FandomSegrete	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	stupide	stupide	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	bestie	bestio	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+5	insensibili	insensibile	ADJ	A	Number=Plur	4	amod	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	4	punct	_	_
+7	come	come	ADV	B	_	10	advmod	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	ucciso	uccidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+11	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

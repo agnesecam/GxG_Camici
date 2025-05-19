@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Consoliamoci con il fatto positivo, PierSilvio si starà mangiando le mani!
+1	Consoliamoci	Consoliamoci	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	positivo	positivo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	PierSilvio	PierSilvio	PROPN	SP	_	9	nsubj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+10	mangiando	mangiare	VERB	V	VerbForm=Ger	9	advcl	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	mani	mano	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4sIeWZRxb
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4sIeWZRxb	fb.me/4sIeWZRxb	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

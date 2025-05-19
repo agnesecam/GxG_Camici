@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DavideGiac dico una bestialità:
+1	@DavideGiac	@DavideGiac	ADV	B	_	2	advmod	_	_
+2	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	bestialità	bestialità	NOUN	S	Gender=Fem	2	obj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = cosa succederebbe se la #BCE i titoli del debito pubblico dell'eurozona non se li facesse rimborsare?
+1	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	nsubj	_	_
+2	succederebbe	succedere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	18	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	#BCE	#BCE	PROPN	SP	_	18	nsubj	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	titoli	titolo	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	debito	debito	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	pubblico	pubblico	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12-13	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+12	di	di	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	eurozona	eurozona	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+15	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+16	se	se	SCONJ	CS	_	18	mark	_	_
+17	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+18	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+19	rimborsare	rimborsare	VERB	V	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

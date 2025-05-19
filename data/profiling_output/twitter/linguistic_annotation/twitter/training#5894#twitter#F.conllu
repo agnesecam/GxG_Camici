@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "La voce della Chionna e la chitarra trovano un mondo tutto loro, illuminato da liriche famose ( qualcuna scritta... http:// fb.me/7IaBhSn5v
+1	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	voce	voce	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+4-5	della	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Chionna	Chionna	PROPN	SP	_	3	nmod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	chitarra	chitarra	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+10	trovano	trovare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+14	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	12	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	illuminato	illuminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	_
+17	da	da	ADP	E	_	18	case	_	_
+18	liriche	lirica	NOUN	S	Gender=Fem|Number=Plur	22	obl	_	_
+19	famose	famoso	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	_
+20	(	(	PUNCT	FB	_	22	punct	_	_
+21	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	22	det	_	_
+22	scritta...	scritta...	NOUN	S	_	14	appos	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/7IaBhSn5v	fb.me/7IaBhSn5v	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

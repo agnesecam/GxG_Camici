@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TommyStar55 se era del Napoli facevano telegiornali a reti unificate!
+1	@TommyStar55	@TommyStar55	NUM	N	NumType=Card	7	nummod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Napoli	Napoli	PROPN	SP	_	7	advcl	_	_
+7	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	telegiornali	telegiornale	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	reti	rete	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	unificate	unificato	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = in questo periodo gira molta cattiveria, talmente ben camuffata, da sembrare quasi bontà evangelica.
+1	in	in	ADP	E	_	3	case	_	_
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	gira	girare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	molta	molto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	cattiveria	cattiveria	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	talmente	talmente	ADV	B	_	10	advmod	_	_
+9	ben	bene	ADV	B	_	10	advmod	_	_
+10	camuffata	camuffare	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	4	punct	_	_
+12	da	da	ADP	E	_	13	mark	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	4	advcl	_	_
+14	quasi	quasi	ADV	B	_	15	advmod	_	_
+15	bontà	bontà	NOUN	S	Gender=Fem	13	obj	_	_
+16	evangelica	evangelico	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

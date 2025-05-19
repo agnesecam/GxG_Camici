@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = «In verità io vi dico, uno di voi mi tradirà».
+1	«	«	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	In	in	ADP	E	_	3	case	_	_
+3	verità	verità	NOUN	S	Gender=Fem	6	obl	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	iobj	_	_
+6	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	8	nmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	tradirà	tradire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	»	»	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = Ed essi , addolorati profondamente, incominciarono… https://www.
+1	Ed	e	CCONJ	CC	_	4	cc	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	addolorati	addolorare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	profondamente	profondamente	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	incominciarono…	incominciarono…	PUNCT	FF	_	4	punct	_	_
+8	https://www	https://www	X	SW	Foreign=Yes	4	appos	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDXAM4rjkCr/
+1	instagram.com/p/BDXAM4rjkCr/	instagram.com/p/BDXAM4rjkCr/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 22 03 2016 ATTENTATI BRUXELLES RENZI OCCORRE STRATEGIA EUROPEA NON GLIELA DAREMO VINTA http:// fb.me/3u7iV66Px
+1	22	22	NUM	N	NumType=Card	4	nummod	_	_
+2	03	03	NUM	N	NumType=Card	1	flat	_	_
+3	2016	2016	NUM	N	NumType=Card	1	flat	_	_
+4	ATTENTATI	attentato	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	BRUXELLES	Bruxelles	PROPN	SP	_	4	nmod	_	_
+6	RENZI	RENZI	PROPN	SP	_	5	flat:name	_	_
+7	OCCORRE	occorre	PROPN	SP	_	5	flat:name	_	_
+8	STRATEGIA	strategia	PROPN	SP	_	5	flat:name	_	_
+9	EUROPEA	Europea	PROPN	SP	_	5	flat:name	_	_
+10	NON	non	PROPN	SP	_	4	nmod	_	_
+11-12	GLIELA	_	_	_	_	_	_	_	_
+11	GLIE	gli	PROPN	SP	_	10	flat:name	_	_
+12	LA	lo	PROPN	SP	_	10	flat:name	_	_
+13	DAREMO	daere	PROPN	SP	_	10	nmod	_	_
+14	VINTA	vincere	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
+15	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	13	punct	_	_
+18	fb.me/3u7iV66Px	fb.me/3u7iV66Px	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

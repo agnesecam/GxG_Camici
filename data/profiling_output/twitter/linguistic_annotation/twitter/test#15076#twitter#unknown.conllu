@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Casa Lettori ( @CasaLettori ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Casa	Casa	PROPN	SP	_	1	flat:name	_	_
+3	Lettori	lettore	PROPN	SP	_	1	flat:name	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@CasaLettori	@CasaLettore	PROPN	SP	_	1	nmod	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = In quella città estranea lui era l'unica cosa che la facesse sentire al... http:// fb.me/2BaHhx1Yx
+1	In	in	ADP	E	_	3	case	_	_
+2	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	città	città	NOUN	S	Gender=Fem	9	obl	_	_
+4	estranea	estraneo	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+6	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+8	unica	unico	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
+13	sentire	sentire	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14	al...	al...	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	fb.me/2BaHhx1Yx	fb.me/2BaHhx1Yx	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

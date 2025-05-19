@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = BUY E GERINI "NEMICHE PER LA PELLE" AL CINEMA:
+1	BUY	Buy	PROPN	SP	_	0	root	_	_
+2	E	e	PROPN	SP	_	1	flat:name	_	_
+3	GERINI	GERINI	PROPN	SP	_	1	flat:name	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	NEMICHE	NEMICHE	PROPN	SP	_	1	flat:name	_	_
+6	PER	per	PROPN	SP	_	5	flat:name	_	_
+7	LA	La	PROPN	SP	_	5	flat:name	_	_
+8	PELLE	pelle	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	5	punct	_	_
+10-11	AL	_	_	_	_	_	_	_	_
+10	A	A	ADP	E	_	11	case	_	_
+11	IL	il	PROPN	SP	_	5	nmod	_	_
+12	CINEMA	cinema	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Da parecchio tempo non giravo un film principalmente p... http:// bit.ly/20b8WQO #cinema
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2	Da	da	ADP	E	_	4	case	_	_
+3	parecchio	parecchio	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
+4	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	giravo	girare	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	film	film	NOUN	S	Gender=Masc	0	root	_	_
+9	principalmente	principalmente	ADV	B	_	8	advmod	_	_
+10	p...	p.	PUNCT	FF	_	11	punct	_	_
+11	http:	http:	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	_
+14	bit.ly/20b8WQO	bit.ly/20b8WQO	PROPN	SP	_	8	conj	_	_
+15	#cinema	#cinema	NOUN	S	Gender=Masc	8	compound	_	SpacesAfter=\n
+

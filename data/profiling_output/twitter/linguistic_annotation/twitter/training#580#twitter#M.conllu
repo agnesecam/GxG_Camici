@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RoboCoPJ io sono un po'deluso più che dal risultato, dalla PU FER (anche Sauber problemi), pensavo che sulla PU gli avessimo presi.
+1	@RoboCoPJ	@RoboCoPJ	PROPN	SP	_	6	nsubj	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po'	poco	ADV	B	_	6	advmod	_	SpaceAfter=No
+6	deluso	deluso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+7	più	più	ADV	B	_	6	advmod	_	_
+8	che	che	SCONJ	CS	_	7	fixed	_	_
+9-10	dal	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13-14	dalla	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	PU	PU	PROPN	SP	_	11	conj	_	_
+16	FER	FER	PROPN	SP	_	15	flat:name	_	_
+17	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+18	anche	anche	ADV	B	_	19	advmod	_	_
+19	Sauber	Sauber	PROPN	SP	_	15	nmod	_	_
+20	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	11	punct	_	_
+23	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	acl	_	_
+24	che	che	SCONJ	CS	_	30	mark	_	_
+25-26	sulla	_	_	_	_	_	_	_	_
+25	su	su	ADP	E	_	27	case	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	PU	PU	PROPN	SP	_	30	obl	_	_
+28	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	iobj	_	_
+29	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	30	aux	_	_
+30	presi	prese	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	23	advcl	_	SpaceAfter=No
+31	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

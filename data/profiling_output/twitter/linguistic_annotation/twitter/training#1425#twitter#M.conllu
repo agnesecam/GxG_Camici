@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che poi l'amicizia non ha istruzioni per l'uso o modalità di gestione uguali per tutti, ma è il collante delle nostre vite
+1	Che	che	SCONJ	CS	_	6	advmod	_	_
+2	poi	poi	ADV	B	_	6	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	amicizia	amicizia	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	istruzioni	istruzione	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	uso	uso	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	o	o	CCONJ	CC	_	12	cc	_	_
+12	modalità	modalità	NOUN	S	Gender=Fem	10	conj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	gestione	gestione	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	uguali	uguale	ADJ	A	Number=Plur	14	amod	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	22	punct	_	_
+19	ma	ma	CCONJ	CC	_	22	cc	_	_
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	collante	collante	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+23-24	delle	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	26	case	_	_
+24	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+25	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	26	det:poss	_	_
+26	vite	vita	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	SpacesAfter=\n
+

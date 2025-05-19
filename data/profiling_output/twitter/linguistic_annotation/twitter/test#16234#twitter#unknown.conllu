@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che non dobbiate mai dire ai vostri figli che il giorno che potevate liberare il vostro paese voi non c' eravate http:// fb.me/2yA9JjjqT
+1	Che	che	SCONJ	CS	_	5	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	dobbiate	dobbiare	AUX	VA	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	mai	mai	ADV	B	_	5	advmod	_	_
+5	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+6-7	ai	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+8	vostri	vostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	22	obj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	potevate	potere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	liberare	liberare	VERB	V	VerbForm=Inf	12	acl:relcl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	paese	paese	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+19	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	22	obl	_	_
+20	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+21	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+22	eravate	eravare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/2yA9JjjqT	fb.me/2yA9JjjqT	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @To_Arise ma come si può esser contrari ad € e favorevoli ad €bond?
+1	@To_Arise	@to_arise	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	ma	ma	CCONJ	CC	_	6	cc	_	_
+3	come	come	ADV	B	_	6	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+5	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	esser	essere	VERB	V	VerbForm=Inf	1	conj	_	_
+7	contrari	contrario	ADJ	A	Gender=Masc|Number=Plur	6	ccomp	_	_
+8	ad	a	ADP	E	_	9	case	_	_
+9	€	€	SYM	SYM	_	7	obl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	favorevoli	favorevole	ADJ	A	Number=Plur	7	conj	_	_
+12	ad	di	ADP	E	_	13	case	_	_
+13	€bond	€bond	NOUN	S	Gender=Fem	11	obl	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Evita il maiuscolo che irrita.
+1	Evita	evitare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	maiuscolo	maiuscolo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	irrita	irrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

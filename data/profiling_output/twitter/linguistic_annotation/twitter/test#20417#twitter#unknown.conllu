@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Telese:"Se la Juve pareggia due gare, il Napoli può andare dovunque !" http://www.
+1	Telese	Telese	PROPN	SP	_	13	obl	_	SpaceAfter=No
+2	:"	:"	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	Se	se	SCONJ	CS	_	6	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Juve	Juve	PROPN	SP	_	6	nsubj	_	_
+6	pareggia	pareggiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+7	due	due	NUM	N	NumType=Card	8	nummod	_	_
+8	gare	gara	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	6	punct	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Napoli	Napoli	PROPN	SP	_	13	nsubj	_	_
+12	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+14	dovunque	dovunque	SCONJ	CS	_	16	mark	_	_
+15	!"	!"	PUNCT	FF	_	16	punct	_	_
+16	http://www	http://www	NOUN	S	_	13	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = introsport24.it/2016/03/09/tel esese-la-juve-pareggia-due-gare-il-napoli-puo-andare-dovunque/ … via @introsport24
+1	introsport24.it/2016/03/09/tel	introsport24.it/2016/03/09/ti	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	esese-la	esese-la	X	SW	Foreign=Yes	5	nmod	_	SpaceAfter=No
+3	-juve	-juvo	X	SW	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	pareggia-due	pareggia-due	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+7	gare-il-	_	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	napoli-puo	napoli-puo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	andare	andare	VERB	V	VerbForm=Inf	8	conj	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	dovunque	dovunque	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	…	…	PUNCT	FF	_	5	punct	_	_
+15	via	via	NOUN	S	Gender=Fem|Number=Sing	5	compound	_	_
+16	@introsport24	@introsport24	NUM	N	NumType=Card	15	nummod	_	SpacesAfter=\n
+

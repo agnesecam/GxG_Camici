@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Povero Pino Daniele si starà rivoltando nella tomba...
+1	Povero	povero	PROPN	SP	_	5	nsubj	_	_
+2	Pino	Pino	PROPN	SP	_	1	flat:name	_	_
+3	Daniele	Daniele	PROPN	SP	_	1	flat:name	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	rivoltando	rivoltare	VERB	V	VerbForm=Ger	5	advcl	_	_
+7-8	nella	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	tomba...	tomba...	NOUN	S	_	6	obl	_	_
+
+# sent_id = 2
+# text = #BallandoConLeStelle
+1	#BallandoConLeStelle	#BallandoConLeStelle	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

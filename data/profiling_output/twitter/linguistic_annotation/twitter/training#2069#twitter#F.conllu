@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LucaSince1982 Ahahahah certo!
+1	@LucaSince1982	@LucaSince1982	PROPN	SP	_	0	root	_	_
+2	Ahahahah	Ahahahah	PROPN	SP	_	1	flat:name	_	_
+3	certo	certo	ADV	B	_	1	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = che poi tutti dallo stesso cast
+1	che	che	SCONJ	CS	_	7	mark	_	_
+2	poi	poi	ADV	B	_	7	advmod	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nmod	_	_
+4-5	dallo	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	7	case	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	cast	cast	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

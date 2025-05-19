@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In principio fu il caffè, poi il libro, il pranzo.
+1	In	in	ADP	E	_	2	case	_	_
+2	principio	principio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+3	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	caffè	caffè	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	poi	poi	ADV	B	_	9	advmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	libro	libro	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	5	punct	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ora a Milano il #CinemaSospeso , grazie al #CinemaCentrale la cultura come dono
+1	Ora	ora	ADV	B	_	5	advmod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Milano	Milano	PROPN	SP	_	5	nmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#CinemaSospeso	#CinemaSospeso	PROPN	SP	_	0	root	_	_
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	grazie	grazie	NOUN	S	_	10	case	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	7	fixed	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	#CinemaCentrale	#CinemaCentrale	PROPN	SP	_	12	nmod	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	cultura	cultura	NOUN	S	Gender=Fem|Number=Sing	5	appos	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	dono	dire	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpacesAfter=\n
+

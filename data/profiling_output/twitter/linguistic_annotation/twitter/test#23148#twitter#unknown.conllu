@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_Carmine_b "Perché sei un essere speciale.
+1	@_Carmine_b	@_Carmine_b	NOUN	S	_	7	nmod	_	_
+2	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+3	Perché	perché	ADV	B	_	7	advmod	_	_
+4	sei	essere	NUM	N	NumType=Card	7	nummod	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+7	speciale.	speciale.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = ed io avrò cura di TE..." Mi MANCHI mio BUSCHINI #carminebuschini
+1	ed	e	CCONJ	CC	_	3	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	avrò	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	cura	curare	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	TE...	TE...	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	9	punct	_	_
+8	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	MANCHI	MANCHI	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+11	BUSCHINI	BUSCHINI	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	#carminebuschini	#carminebuschino	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Agnese_Rosi siamo dei geni dunque https:// twitter.com/NonLaSai/statu s/713059050066485248 …
+1	@Agnese_Rosi	@Agnese_Roso	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	geni	gene	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+6	dunque	dunque	ADV	B	_	5	advmod	_	_
+7	https:	https:	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	twitter.com/NonLaSai/statu	twitter.com/NonLaSai/statu	PROPN	SP	_	5	nmod	_	_
+11	s/713059050066485248	s/713059050066485248	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

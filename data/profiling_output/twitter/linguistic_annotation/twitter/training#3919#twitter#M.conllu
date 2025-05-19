@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SimoneLaurino_ se continua a valutarlo 1 miliardone non lo troverà mai :P Prima o poi dovrà abbassare le pretese
+1	@SimoneLaurino_	@SimoneLaurino-	PUNCT	FB	_	11	punct	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5-6	valutarlo	_	_	_	_	_	_	_	_
+5	valutar	valutare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	1	1	NUM	N	NumType=Card	8	nummod	_	_
+8	miliardone	miliardone	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	troverà	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	mai	mai	ADV	B	_	11	advmod	_	_
+13	:P	:P	PROPN	SP	_	18	obl	_	_
+14	Prima	Prima	ADV	B	_	13	advmod	_	_
+15	o	o	CCONJ	CC	_	18	cc	_	_
+16	poi	poi	ADV	B	_	18	advmod	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	abbassare	abbassare	VERB	V	VerbForm=Inf	11	conj	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	pretese	pretesa	NOUN	S	Gender=Fem|Number=Plur	18	obj	_	SpacesAfter=\n
+

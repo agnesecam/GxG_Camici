@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FtAficionandome @FrasesPhoto @hacerfotos Sin dall'infanzia desiderai essere uccello,per volare e possedere stessa capacità di orientamento
+1	@FtAficionandome	@FtAficionandome	ADP	E	_	2	case	_	_
+2	@FrasesPhoto	@FrasesPhoto	PROPN	SP	_	11	obl	_	_
+3	@hacerfotos	@hacerfotos	PROPN	SW	Foreign=Yes	2	flat:name	_	_
+4	Sin	sin	PROPN	SP	_	2	flat:name	_	_
+5-6	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+5	da	da	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	infanzia	infanzia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+8	desiderai	desideere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	11	aux	_	_
+9	essere	essere	AUX	V	VerbForm=Inf	11	aux	_	_
+10	uccello,per	uccello,pere	AUX	VA	VerbForm=Inf	11	aux	_	_
+11	volare	volare	VERB	V	VerbForm=Inf	0	root	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	possedere	possedere	VERB	V	VerbForm=Inf	11	conj	_	_
+14	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	capacità	capacità	NOUN	S	Gender=Fem	13	obj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	orientamento	orientamento	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpacesAfter=\n
+

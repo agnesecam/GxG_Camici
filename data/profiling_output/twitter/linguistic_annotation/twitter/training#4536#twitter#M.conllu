@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Credo esistano cinque priorità che il Popolo della Famiglia dovrà riuscire a far diventare agenda politica nelle... http:// fb.me/4dCOECaob
+1	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	esistano	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+3	cinque	cinque	NUM	N	NumType=Card	4	nummod	_	_
+4	priorità	priorità	NOUN	S	Gender=Fem	2	obj	_	_
+5	che	che	SCONJ	CS	_	12	mark	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Popolo	Popolo	PROPN	SP	_	12	nsubj	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Famiglia	famiglia	PROPN	SP	_	7	nmod	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	riuscire	riuscire	VERB	V	VerbForm=Inf	4	advcl	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	far	fare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	diventare	diventare	VERB	V	VerbForm=Inf	14	ccomp	_	_
+16	agenda	agenda	NOUN	S	Gender=Fem|Number=Sing	15	xcomp	_	_
+17	politica	politico	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+18	nelle...	nelle.	PUNCT	FS	_	19	punct	_	_
+19	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	16	punct	_	_
+22	fb.me/4dCOECaob	fb.me/4dCOECaob	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

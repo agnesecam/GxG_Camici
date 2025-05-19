@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Così grande che alla cassa mi hanno dato due paia di bacchette.
+1	Così	così	ADV	B	_	2	advmod	_	_
+2	grande	grande	ADJ	A	Number=Sing	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cassa	cassa	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+8	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+10	due	due	NUM	N	NumType=Card	11	nummod	_	_
+11	paia	paia	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	bacchette	bacchetta	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Benissimo .
+1	Benissimo	bene	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

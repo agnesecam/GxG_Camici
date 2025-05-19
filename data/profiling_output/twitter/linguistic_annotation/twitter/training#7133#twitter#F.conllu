@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Dificile identificare le vittime".
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Dificile	Dificile	ADJ	A	Number=Sing	0	root	_	_
+3	identificare	identificare	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Dei kamikaze (anch' essi sbriciolati) invece sapevano da ieri nome, cognome, DNA e Cod. Fisc.
+1-2	Dei	_	_	_	_	_	_	_	_
+1	Di	di	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	kamikaze	kamikaze	NOUN	S	Gender=Masc	10	obl	_	_
+4	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+5	anch'	anche	ADV	B	_	6	advmod	_	_
+6	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+7	sbriciolati	sbriciolare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	3	punct	_	_
+9	invece	invece	ADV	B	_	10	advmod	_	_
+10	sapevano	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	ieri	ieri	ADV	B	_	10	advmod	_	_
+13	nome	nome	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	cognome	cognome	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	17	punct	_	_
+17	DNA	Dna	PROPN	SP	_	13	conj	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	Cod.	cod.	PROPN	SP	_	13	conj	_	_
+20	Fisc	Fisc	PROPN	SP	_	19	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 3
+# text = #tgla7
+1	#tgla7	#tgla7	NUM	N	NumType=Card	0	root	_	SpacesAfter=\n
+

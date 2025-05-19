@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Lorenzo_Genna sicuro!
+1	@Lorenzo_Genna	@Lorenzo_Genna	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vorrei la facesse per me così da lenire il mal di gola..
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	facesse	facessa	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+6	così	così	ADV	B	_	8	advmod	_	_
+7	da	da	ADP	E	_	8	mark	_	_
+8	lenire	lenire	VERB	V	VerbForm=Inf	3	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mal	male	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	gola.	gola.	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #lazuppettara
+1	#lazuppettara	#lazuppettarare	ADP	E	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OcchioCritico2 immagino le risate, bizzarro negare di esser piddino trollando per loro @DarioViking @DossiCarla @nonhosoldi @leonardicarmen
+1	@OcchioCritico2	@OcchioCritico2	NUM	N	NumType=Card	2	nummod	_	_
+2	immagino	immagiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	risate	risata	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	bizzarro	bizzarro	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	negare	negare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	di	di	ADP	E	_	11	mark	_	_
+9	esser	essere	AUX	V	VerbForm=Inf	11	aux	_	_
+10	piddino	piddino	ADV	B	_	11	advmod	_	_
+11	trollando	trollare	VERB	V	VerbForm=Ger	7	advcl	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	loro	loro	DET	AP	Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	@DarioViking	@DarioViking	PROPN	SP	_	11	obl	_	_
+15-16	@DossiCarla	_	_	_	_	_	_	_	_
+15	@Dossicar	@Dossicar	PROPN	SP	_	14	flat:name	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	@nonhosoldi	@nonhosoldo	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	_
+18	@leonardicarmen	@leonardicarmeno	NOUN	S	Gender=Fem	11	obj	_	SpacesAfter=\n
+

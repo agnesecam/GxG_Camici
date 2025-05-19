@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Censura e autocensura:
+1	Censura	censura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	autocensura	autocensura	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = il giornalismo è un potere debole?
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	giornalismo	giornalismo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	potere	potere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	debole	debole	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Le nostre Annarita Amoruso e Maila Daniela Tritto...
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	Annarita	Annarita	PROPN	SP	_	9	nsubj	_	_
+4	Amoruso	Amoruso	PROPN	SP	_	3	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	Maila	Maila	PROPN	SP	_	4	conj	_	_
+7-8	Daniela	_	_	_	_	_	_	_	_
+7	Danie	Danie	PROPN	SP	_	4	flat:name	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Tritto...	Tritto...	PROPN	SP	_	0	root	_	_
+
+# sent_id = 4
+# text = http:// fb.me/1cGToZAjF
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/1cGToZAjF	fb.me/1cGToZAjF	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

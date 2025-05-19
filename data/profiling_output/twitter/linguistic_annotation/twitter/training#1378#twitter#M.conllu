@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ZampieriChiara Per carità, dico solo che siamo gli ultimi a poterci mettere in cattedra e..le nostre bombe hanno storie imbarazzanti no?
+1	@ZampieriChiara	@ZampieriChiara	ADV	B	_	5	advmod	_	_
+2	Per	per	ADP	E	_	3	case	_	_
+3	carità	carità	NOUN	S	Gender=Fem	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	solo	solo	ADV	B	_	5	advmod	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+10	ultimi	ultimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	5	ccomp	_	_
+11	a	a	ADP	E	_	14	mark	_	_
+12-13	poterci	_	_	_	_	_	_	_	_
+12	poter	potere	AUX	VM	VerbForm=Inf	14	aux	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	expl	_	_
+14	mettere	mettere	VERB	V	VerbForm=Inf	10	advcl	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	cattedra	cattedra	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	e..le	e..le	ADJ	A	Number=Sing	16	amod	_	_
+18	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	bombe	bomba	NOUN	S	Gender=Fem|Number=Plur	20	nsubj	_	_
+20	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+21	storie	storia	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
+22	imbarazzanti	imbarazzare	ADJ	A	Number=Plur	21	amod	_	_
+23	no	no	ADV	BN	PronType=Neg	21	advmod	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grazie per quello che avete fatto nonostante eravate stanchi avete fatto sentire tutte le vostre fan delle pic.twitter.com/5mezDvR02Y
+1	Grazie	grazie	NOUN	S	_	11	obj	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+4	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+5	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+7	nonostante	nonostante	ADP	E	_	8	case	_	_
+8	eravate	eravato	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+9	stanchi	stanco	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+10	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	sentire	sentire	VERB	V	VerbForm=Inf	11	ccomp	_	_
+13	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	16	det:predet	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	vostre	vostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	fan	fan	NOUN	S	_	12	obj	_	_
+17-18	delle	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	pic.twitter.com/5mezDvR02Y	pic.twitter.com/5mezdvr02y	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

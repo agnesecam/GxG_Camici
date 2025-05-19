@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A questo non gliene frega niente della sua Maria, a lui interessa la De Filippi ahahahaha #cepostaperte
+1	A	a	ADP	E	_	2	case	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	parataxis	_	_
+6	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	Maria	Maria	PROPN	SP	_	14	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
+14	interessa	interessare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	De	De	PROPN	SP	_	18	nsubj	_	_
+17	Filippi	Filippi	PROPN	SP	_	16	flat:name	_	_
+18	ahahahaha	ahahahaavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+19	#cepostaperte	#cepostaperto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	18	obj	_	SpacesAfter=\n
+

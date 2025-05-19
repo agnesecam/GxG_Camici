@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @demagistris ,smettila di appropriarti di cose non tue.Il piano "De Lucia" che vuole @matteorenzi è quello che fu deliberato da @a_bassolino
+1	@demagistris	@demagistris	ADV	B	_	2	advmod	_	_
+2	,smettila	,smettila	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4-5	appropriarti	_	_	_	_	_	_	_	_
+4	appropriar	appropriarre	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	tue.Il	tue.Il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	piano	piano	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	De	De	PROPN	SP	_	10	nmod	_	_
+13	Lucia	Lucia	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	12	punct	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	@matteorenzi	@matteorenzi	ADV	B	_	16	advmod	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+20	che	che	PRON	PR	PronType=Rel	22	nsubj:pass	_	_
+21	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux:pass	_	_
+22	deliberato	deliberare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	acl:relcl	_	_
+23	da	da	ADP	E	_	24	case	_	_
+24	@a_bassolino	@a_bassolino	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	SpacesAfter=\n
+

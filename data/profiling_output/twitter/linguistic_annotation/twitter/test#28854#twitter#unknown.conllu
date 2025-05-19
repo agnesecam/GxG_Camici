@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come funziona il vostro album della vita guardare?
+1	Come	come	SCONJ	CS	_	2	mark	_	_
+2	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	album	album	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	guardare	guardare	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7TS1sRc8Q
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7TS1sRc8Q	fb.me/7TS1sRc8Q	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

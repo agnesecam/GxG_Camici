@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mikamylife3 @sere_mika @maggiedaisy112 la sera dovrà cantare!
+1	@mikamylife3	@mikamylife3	NUM	N	NumType=Card	2	nummod	_	_
+2	@sere_mika	@sere_mika	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	@maggiedaisy112	@maggiedaisy112	NUM	N	NumType=Card	5	nummod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	sera	sera	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	cantare	cantare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

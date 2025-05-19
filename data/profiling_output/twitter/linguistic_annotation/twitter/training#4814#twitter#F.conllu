@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CarloMIRRI @unitaonline no, è che il papalictus sul giornale che fu di Gramsci mi fa effetto.
+1	@CarloMIRRI	@CarloMIRRI	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	@unitaonline	@unitaonlina	NOUN	S	Gender=Masc	5	nsubj	_	_
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	17	mark	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	papalictus	papalictus	NOUN	S	Gender=Masc	17	nsubj	_	_
+9-10	sul	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	giornale	giornale	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Gramsci	Gramsci	PROPN	SP	_	13	obl	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+17	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+18	effetto	effetto	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Sarà l'età.
+1	Sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	cop	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	età	età	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

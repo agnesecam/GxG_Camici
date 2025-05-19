@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CCKKI @fanpage se accade in terra loro non riesco neppure a immaginare cosa potrebbe accadere in terra nostra e come hanno ridotto l'Africa
+1	@CCKKI	@CCKKI	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	@fanpage	@fanpage	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	accade	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	terra	terra	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+10	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	immaginare	immaginare	VERB	V	VerbForm=Inf	15	advcl	_	_
+13	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	15	nsubj	_	_
+14	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	accadere	accadere	VERB	V	VerbForm=Inf	9	ccomp	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	terra	terra	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+18	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+19	e	e	CCONJ	CC	_	22	cc	_	_
+20	come	come	SCONJ	CS	_	22	mark	_	_
+21	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	ridotto	ridurre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	conj	_	_
+23	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	24	det	_	SpaceAfter=No
+24	Africa	Africa	PROPN	SP	_	22	obj	_	SpacesAfter=\n
+

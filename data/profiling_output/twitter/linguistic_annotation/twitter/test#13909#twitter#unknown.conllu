@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le telefonate al compagno indagato « Faremo passare l’emendamento» http://www.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	telefonate	telefonata	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	compagno	compagno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+6	indagato	indagare	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	«	«	PUNCT	FB	_	5	punct	_	_
+8	Faremo	fare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	passare	passare	VERB	V	VerbForm=Inf	0	root	_	_
+10	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	emendamento	emendamento	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	»	»	PUNCT	FB	_	11	punct	_	_
+13	http://www	http://www	NOUN	S	_	9	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = corriere.it/cronache/16_ma rzo_31/rifiuti-petrolio-centro-eni-cinque-arrestati-basilicata-9a5adbde-f70d-11e5-bb62-9cf2392b520a.shtml …
+1	corriere.it/cronache/16_ma	corriere.it/cronache/16_mare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	rzo_31	rzo_31	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	rifiuti-petrolio-centro-eni-cinque-arrestati-basilicata-9a5adbde-f70d-11e5-bb62-9cf2392b520a.shtml	rifiuti-petrolio-centro-eni-cinque-arrestati-basilicata-9a5adbde-f70d-11e5-bb62-9cf2392b520a.shtml	NOUN	S	Gender=Masc	1	nmod	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

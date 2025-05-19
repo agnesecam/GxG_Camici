@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dopo due settimane fuori dall'Italia anche la pizza di Milano può sembrare un capolavoro… https://www.
+1	Dopo	dopo	ADP	E	_	3	case	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	_
+4	fuori	fuori	ADV	B	_	7	case	_	_
+5-6	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+5	da	da	ADP	E	_	4	fixed	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	Italia	Italia	PROPN	SP	_	3	nmod	_	_
+8	anche	anche	ADV	B	_	10	advmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	pizza	pizza	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Milano	Milano	PROPN	SP	_	10	nmod	_	_
+13	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	capolavoro…	capolavoro…	PUNCT	FF	_	17	punct	_	_
+17	https://www	https://www	NOUN	S	Gender=Masc	14	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDVwApUThSP/
+1	instagram.com/p/BDVwApUThSP/	instagram.com/p/BDVwApUThSP/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

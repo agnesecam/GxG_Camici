@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sette anni fa il terremoto dell'Aquila.
+1	Sette	sette	NUM	N	NumType=Card	2	nummod	_	_
+2	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+3	fa	fa	ADV	B	_	2	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	terremoto	terremoto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6-7	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	di	di	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	Aquila	aquila	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Una prece per le vittime, e per la città ancora oggi, ahimè , da ricostruire.
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	prece	prece	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	città	città	NOUN	S	Gender=Fem	2	conj	_	_
+11	ancora	ancora	ADV	B	_	12	advmod	_	_
+12	oggi	oggi	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	2	punct	_	_
+14	ahimè	ahimè	INTJ	I	_	17	discourse	_	_
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	da	da	ADP	E	_	17	mark	_	_
+17	ricostruire	ricostruire	VERB	V	VerbForm=Inf	2	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #terremoto2009
+1	#terremoto2009	#terremoto2009	NUM	N	NumType=Card	0	root	_	SpacesAfter=\n
+

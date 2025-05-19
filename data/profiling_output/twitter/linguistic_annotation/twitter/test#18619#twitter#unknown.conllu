@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi @meb @DavidErmini1 @AndreaMarcucci :E se facessimo un salto di maturità?
+1	@matteorenzi	@matteorenzi	ADP	E	_	2	case	_	_
+2	@meb	@mebbraio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+3	@DavidErmini1	@DavidErmini1	PROPN	SP	_	2	nmod	_	_
+4	@AndreaMarcucci	@AndreaMarcucci	PROPN	SP	_	3	flat:name	_	_
+5	:E	:E	PROPN	SP	_	3	flat:name	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	salto	salto	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	maturità	maturità	NOUN	S	Gender=Fem	9	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Questa del @pdnetwork è una urgenza da priorità zero
+1	Questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	7	nsubj	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	@pdnetwork	@pdnetwork	NOUN	S	Gender=Masc	1	nmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	urgenza	urgenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	priorità	priorità	NOUN	S	Gender=Fem	7	nmod	_	_
+10	zero	zero	NUM	N	NumType=Card	9	nummod	_	SpacesAfter=\n
+

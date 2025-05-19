@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mihajlovic:
+1	Mihajlovic	Mihajlovic	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = pagherò se Milan farà schifo http:// twib.in/l/aL8dn9R4yyA | https:// twibble.io pic.twitter.com/9vuV1WMJih
+1	pagherò	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	Milan	Milan	PROPN	SP	_	4	nsubj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	advcl	_	_
+5	schifo	schifo	ADV	B	_	4	advmod	_	_
+6	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	twib.in/l/aL8dn9R4yyA	twib.in/l/aL8dn9R4yyA	PROPN	SP	_	4	obj	_	_
+10	|	|	SYM	SYM	_	9	flat:name	_	_
+11	https:	https:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	9	punct	_	_
+14	twibble.io	twibble.io	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	pic.twitter.com/9vuV1WMJih	pic.twitter.com/9vuV1WMJih	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

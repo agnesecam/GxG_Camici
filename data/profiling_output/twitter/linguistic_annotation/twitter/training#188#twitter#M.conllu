@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Molti risparmiatori perdono tutto anche perché han firmato cose che non capivano.
+1	Molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	risparmiatori	risparmiatore	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	perdono	perdere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	_
+5	anche	anche	ADV	B	_	8	advmod	_	_
+6	perché	perché	SCONJ	CS	_	8	mark	_	_
+7	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	firmato	firmare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+9	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	capivano	capire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Nodo fondamentale è chiarezza, informazione #saltimbanche
+1	Nodo	nodo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	fondamentale	fondamentale	ADJ	A	Number=Sing	1	amod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	informazione	informazione	NOUN	S	Gender=Fem|Number=Sing	4	compound	_	_
+7	#saltimbanche	#saltimbanco	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpacesAfter=\n
+

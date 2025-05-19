@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non piangere più; ecco, ha vinto il leone della tribù di Giuda, il Germoglio di Davide;
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	piangere	piangere	VERB	V	VerbForm=Inf	0	root	_	_
+3	più	più	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	;	;	PUNCT	FC	_	5	punct	_	_
+5	ecco	ecco	ADV	B	_	2	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	leone	leone	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	tribù	tribù	NOUN	S	Gender=Fem	10	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Giuda	Giuda	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	2	punct	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Germoglio	Germoglio	PROPN	SP	_	2	appos	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	Davide	Davide	PROPN	SP	_	18	nmod	_	SpaceAfter=No
+21	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = egli dunque aprirà il libro e i suoi sette sigilli
+1	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	dunque	dunque	ADV	B	_	3	advmod	_	_
+3	aprirà	aprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	libro	libro	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	e	e	CCONJ	CC	_	10	cc	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+8	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+9	sette	sette	NUM	N	NumType=Card	8	nummod	_	_
+10	sigilli	sigillo	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	SpacesAfter=\n
+

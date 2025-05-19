@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Obama: vedrete cosa farà l&#8217;Isis con il nucleare - http://www.
+1	Obama	Obama	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	vedrete	vedere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	obj	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	ccomp	_	_
+6	l&#8217	l&#8217	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	;Isis	;Isis	PROPN	SP	_	5	nsubj	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	nucleare	nucleare	VERB	V	VerbForm=Inf	5	obl	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	http://www.	http://www.	NOUN	S	_	10	compound	_	_
+
+# sent_id = 2
+# text = byoblu.com/post/minipost/ obama-vedrete-cosa-fara-lisis-con-il-nucleare …
+1	byoblu.com/post/minipost/	byoblu.com/post/minipost/	PUNCT	FF	_	5	punct	_	_
+2	obama	obamare	ADV	B	_	5	advmod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	vedrete-	_	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	-fara-lisis-	_	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	con	con	ADP	E	_	8	case	_	SpaceAfter=No
+8	-il	-il	NOUN	S	_	10	obl	_	SpaceAfter=No
+9	-	-	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+10	nucleare	nucleare	ADJ	A	Number=Sing	5	amod	_	_
+11	…	…	PUNCT	FF	_	10	punct	_	SpacesAfter=\n
+

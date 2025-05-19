@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Erano scherzi di gruppo,quindi si rinforzava un legame,ma chi faceva la chiamata diventava protagonista.Poi erano ribellione contro i grandi
+1	Erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	scherzi	scherzo	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,quindi	,quindi	ADJ	A	Number=Plur	4	amod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	rinforzava	rinforzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	legame,ma	legame,ma	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	chi	chi	PRON	PR	PronType=Rel	17	nsubj	_	_
+11	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	chiamata	chiamata	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+14	diventava	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
+15	protagonista.Poi	protagonista.poi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	obj	_	_
+16	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+17	ribellione	ribellione	NOUN	S	Gender=Fem|Number=Sing	9	acl:relcl	_	_
+18	contro	contro	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	grandi	grande	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	SpacesAfter=\n
+

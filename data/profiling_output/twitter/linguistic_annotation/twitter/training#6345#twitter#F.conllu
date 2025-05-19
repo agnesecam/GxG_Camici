@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prescritto demmerda che "ah se ci fossimo stati noi al posto vostro"
+1	Prescritto	prescritto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	demmerda	demmerdo	ADJ	A	Number=Sing	1	amod	_	_
+3	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+4	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	ah	ah	INTJ	I	_	1	acl:relcl	_	_
+6	se	se	SCONJ	CS	_	9	mark	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	stati	essere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	posto	posto	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+14	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

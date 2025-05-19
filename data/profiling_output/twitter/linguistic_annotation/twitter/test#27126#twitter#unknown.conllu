@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pausa pranzo al volo ( ahimè ) così...
+1	Pausa	pausare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	pranzo	pranzo	ADV	B	_	1	advmod	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	volo	volo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+6	(	(	PUNCT	FB	_	7	punct	_	_
+7	ahimè	ahimè	INTJ	I	_	1	appos	_	_
+8	)	)	PUNCT	FB	_	7	punct	_	_
+9	così...	così.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ci sta!
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Anche fuori casa si sopravvive :-)))) http:// fb.me/4H3XgMfoS
+1	Anche	anche	ADV	B	_	2	advmod	_	_
+2	fuori	fuori	ADV	B	_	3	advmod	_	_
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	sopravvive	sopravvivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+6	:	:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	3	punct	_	_
+12	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	3	punct	_	_
+15	fb.me/4H3XgMfoS	fb.me/4H3XgMfoS	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

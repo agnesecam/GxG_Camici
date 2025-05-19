@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SandroSca se avessimo pareggiato a Siviglia invece avremmo avuto il PSG sempre in ordine alfabetico
+1	@SandroSca	@SandroScare	ADV	B	_	9	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	pareggiato	pareggiato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Siviglia	Siviglia	PROPN	SP	_	9	obl	_	_
+7	invece	invece	ADV	B	_	9	advmod	_	_
+8	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	PSG	PSg	PROPN	SP	_	9	obj	_	_
+12	sempre	sempre	ADV	B	_	14	advmod	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	ordine	ordine	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+15	alfabetico	alfabetico	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpacesAfter=\n
+

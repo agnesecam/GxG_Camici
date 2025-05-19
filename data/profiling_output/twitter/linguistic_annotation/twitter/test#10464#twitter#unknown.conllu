@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Va bene, è vero che gli arbitri anche ieri sera ci hanno assai penalizzato, ma onestamente @robymancio ci ha messo del suo #InterTorino
+1	Va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+2	bene	bene	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	SCONJ	CS	_	15	mark	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	arbitri	arbitro	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+9	anche	anche	ADV	B	_	10	advmod	_	_
+10	ieri	ieri	ADV	B	_	8	advmod	_	_
+11	sera	sera	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	iobj	_	_
+13	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	assai	assai	ADV	B	_	15	advmod	_	_
+15	penalizzato	penalizzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	22	punct	_	_
+17	ma	ma	CCONJ	CC	_	22	cc	_	_
+18	onestamente	onestamente	ADV	B	_	22	advmod	_	_
+19	@robymancio	@robymancio	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+20	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+21	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	conj	_	_
+23-24	del	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	27	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+25	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	27	det:poss	_	_
+26	#	#	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+27	InterTorino	InterTorino	PROPN	SP	_	22	obl	_	SpacesAfter=\n
+

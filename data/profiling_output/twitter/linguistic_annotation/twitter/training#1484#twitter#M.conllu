@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noi ci siamo !!
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Tu sei Santo Signore ... Mettiamo le nostre corone davanti a te ... Siamo davanti al tuo trono... http:// fb.me/1i9HYiZVz
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Santo	Santo	PROPN	SP	_	0	root	_	_
+4	Signore	signore	PROPN	SP	_	3	flat:name	_	_
+5	...	...	PUNCT	FF	_	3	punct	_	_
+6	Mettiamo	mettere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	corone	corona	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+10	davanti	davanti	ADV	B	_	12	case	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+13	...	...	PUNCT	FF	_	14	punct	_	_
+14	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	cop	_	_
+15	davanti	davanti	ADV	B	_	19	case	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	15	fixed	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	trono...	trono...	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+20	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	_
+23	fb.me/1i9HYiZVz	fb.me/1i9HYiZVz	PROPN	SP	_	3	conj	_	SpacesAfter=\n
+

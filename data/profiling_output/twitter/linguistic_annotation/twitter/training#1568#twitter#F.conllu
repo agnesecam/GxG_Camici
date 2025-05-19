@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Arricchiamoci delle nostre reciproche differenze | #PaulValéry #filosofia @MartaaLorenzin #twittamitutto https:// twitter.com/martaalorenzin /status/718734917039996928 …
+1	Arricchiamoci	Arricchiamoce	ADV	B	_	0	root	_	_
+2-3	delle	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	6	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+5	reciproche	reciproco	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+6	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+7	|	|	SYM	SYM	_	6	nmod	_	_
+8	#PaulValéry	#PaulValéry	PROPN	SP	_	7	flat:name	_	_
+9	#filosofia	#filosofia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	@MartaaLorenzin	@MartaaLorenzin	PROPN	SP	_	9	nmod	_	_
+11	#twittamitutto	#twittamitutto	ADV	B	_	10	advmod	_	_
+12	https:	https:	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	_
+15	twitter.com/martaalorenzin	twitter.com/martaalorenzino	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+16	/status/718734917039996928	/status/718734917039996928	NUM	N	NumType=Card	15	nummod	_	_
+17	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

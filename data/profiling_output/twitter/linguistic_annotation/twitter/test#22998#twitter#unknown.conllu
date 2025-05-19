@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @amystearsdry andata anche io alla fine ma shh, se solo Gaia mi avesse avvisato prima dei biglietti glieli avrei bloccati io TESTA DI CAZZO)
+1	@amystearsdry	@amystearsdry	CCONJ	CC	_	2	cc	_	_
+2	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	fine	fine	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+8	ma	ma	CCONJ	CC	_	24	cc	_	_
+9	shh	shh	INTJ	I	_	24	discourse	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	se	se	SCONJ	CS	_	16	mark	_	_
+12	solo	solo	ADV	B	_	13	advmod	_	_
+13	Gaia	Gaia	PROPN	SP	_	16	nsubj	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+15	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	avvisato	avvisare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	24	advcl	_	_
+17	prima	prima	ADV	B	_	20	case	_	_
+18-19	dei	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	17	fixed	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	biglietti	biglietto	NOUN	S	Gender=Masc|Number=Plur	24	obl	_	_
+21-22	glieli	_	_	_	_	_	_	_	_
+21	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	24	iobj	_	_
+22	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	24	obj	_	_
+23	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	bloccati	bloccare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+25	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	26	nsubj	_	_
+26	TESTA	testa	PROPN	SP	_	24	nsubj:pass	_	_
+27	DI	Di	ADP	E	_	28	case	_	_
+28	CAZZO	CAZZO	PROPN	SP	_	26	nmod	_	SpaceAfter=No
+29	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

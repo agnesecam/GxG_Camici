@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alla Diaz fu tortura, Corte Strasburgo condanna Italia - Cronaca http:// fb.me/52kjTnEEI
+1-2	Alla	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Diaz	Diaz	PROPN	SP	_	5	obl	_	_
+4	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	tortura	tortura	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	Corte	Corte	PROPN	SP	_	5	nsubj	_	_
+8	Strasburgo	Strasburgo	PROPN	SP	_	7	flat:name	_	_
+9	condanna	condannare	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	Italia	Italia	PROPN	SP	_	9	nmod	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	Cronaca	cronaca	PROPN	SP	_	10	nmod	_	_
+13	http:	http:	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	10	punct	_	_
+16	fb.me/52kjTnEEI	fb.me/52kjTnEEI	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

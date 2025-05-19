@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Puget___Sound @nicolecrestan @chesschifo a me hanno chiesto se il Friuli fosse ancora Italia.
+1	@Puget___Sound	@Puget___Sound	CCONJ	CC	_	3	cc	_	_
+2	@nicolecrestan	@nicolecrestano	ADV	B	_	3	advmod	_	_
+3	@chesschifo	@chesschifo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+6	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Friuli	Friuli	PROPN	SP	_	11	nsubj	_	_
+11	fosse	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
+12	ancora	ancora	ADV	B	_	13	advmod	_	_
+13	Italia	Italia	PROPN	SP	_	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ahimè sì ancora non ci hanno invaso.
+1	Ahimè	ahimè	INTJ	I	_	7	discourse	_	_
+2	sì	sì	ADV	B	_	7	advmod	_	_
+3	ancora	ancora	ADV	B	_	7	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+6	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	invaso	invadere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

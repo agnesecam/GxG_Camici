@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaiBallaro Tutti dicono la propria ma finche tutti non usciremo da noi stessi i poveri rimarranno poveri e i ricchi idem
+1	@RaiBallaro	@RaiBallaro	ADV	B	_	3	advmod	_	_
+2	Tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
+3	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	propria	proprio	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	ma	ma	CCONJ	CC	_	10	cc	_	_
+7	finche	finche	ADV	BN	PronType=Neg	10	advmod	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	obl	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	usciremo	uscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	16	conj	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+13	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	poveri	povero	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+16	rimarranno	rimarranno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	conj	_	_
+17	poveri	povero	ADJ	A	Gender=Masc|Number=Plur	16	xcomp	_	_
+18	e	e	CCONJ	CC	_	21	cc	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+20	ricchi	ricco	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	_
+21	idem	idem	NOUN	S	Gender=Masc	17	conj	_	SpacesAfter=\n
+

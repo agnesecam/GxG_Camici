@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pieronederland7 Inoltre il lavoro nel 2016 è quasi tutto "inventato", non c'è più molto di tradizionale.
+1	@pieronederland7	@pieronederland7	NUM	N	NumType=Card	17	nummod	_	_
+2	Inoltre	inoltre	ADV	B	_	10	advmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	2016	2016	NUM	N	NumType=Card	4	nmod	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	quasi	quasi	ADV	B	_	10	advmod	_	_
+10	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	_
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	inventato	inventato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	10	punct	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	17	expl	_	SpaceAfter=No
+17	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	più	più	ADV	B	_	17	advmod	_	_
+19	molto	molto	ADV	B	_	21	advmod	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	tradizionale	tradizionale	ADJ	A	Number=Sing	17	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	17	punct	_	SpacesAfter=\n
+

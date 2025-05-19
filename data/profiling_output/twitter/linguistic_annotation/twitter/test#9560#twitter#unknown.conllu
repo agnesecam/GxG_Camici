@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...Tutte #balle il solito pressapochismo #pennivendoli italici, pura #disinformatia !
+1	...Tutte	...Tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	2	nsubj	_	_
+2	#balle	#balla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	solito	solito	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	pressapochismo	pressapochismo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+6-7	#pennivendoli	_	_	_	_	_	_	_	_
+6	#pennivendo	#pennivere	VERB	V	VerbForm=Ger	2	advcl	_	_
+7	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+8	italici	italico	ADJ	A	Gender=Masc|Number=Plur	6	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	pura	puro	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	#disinformatia	#disinformatia	ADV	B	_	10	advmod	_	_
+12	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ma s'informassero prima, #bassolivello ! #michaeljfox
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	SpaceAfter=No
+3	informassero	informare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	prima	prima	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	#bassolivello	#bassolivello	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+7	!	!	PUNCT	FS	_	3	punct	_	_
+8	#michaeljfox	#michaeljfox	ADJ	NO	Number=Sing|NumType=Ord	3	amod	_	SpacesAfter=\n
+

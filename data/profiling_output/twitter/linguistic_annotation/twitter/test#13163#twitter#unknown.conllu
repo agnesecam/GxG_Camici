@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @donnadimezzo @vittoriozucconi Eggià, essendo molto sporco ha bisogno di parecchi 'volontari'.
+1	@donnadimezzo	@donnadimezzo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	@vittoriozucconi	@vittoriozuccone	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	_
+3	Eggià	Eggià	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	essendo	essere	AUX	V	VerbForm=Ger	7	cop	_	_
+6	molto	molto	ADV	B	_	7	advmod	_	_
+7	sporco	sporco	ADJ	A	Gender=Masc|Number=Sing	8	advcl	_	_
+8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+12	'	'	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	volontari	volontario	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
+14	'	'	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

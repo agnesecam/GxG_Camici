@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Più stiamo male “ dentro ”,più ci ammaliamo “fuori”.La malattia è un conflitto tra anima a e corpo.
+1	Più	più	ADV	B	_	2	advmod	_	_
+2	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	male	male	ADV	B	_	8	advmod	_	_
+4	“	“	PUNCT	FB	_	8	punct	_	_
+5	dentro	dentro	ADV	B	_	8	advmod	_	_
+6	”,più	”,più	PRON	PI	PronType=Ind	8	nsubj	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
+8	ammaliamo	ammalare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+9	“	“	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+10	fuori	fuori	ADV	B	_	16	advmod	_	SpaceAfter=No
+11	”	”	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	.La	.La	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	malattia	malattia	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	conflitto	conflitto	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+17	tra	tra	ADP	E	_	18	case	_	_
+18	anima	anima	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+19	a	a	ADP	E	_	16	case	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	corpo	corpo	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7KQUYw87p
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7KQUYw87p	fb.me/7KQUYw87p	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

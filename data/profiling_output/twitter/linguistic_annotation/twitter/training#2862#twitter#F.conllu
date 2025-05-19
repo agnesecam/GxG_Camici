@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Puó sembrare banale, ma ho urlato.
+1	Puó	Puó	PROPN	SP	_	2	nsubj	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	banale	banale	ADJ	A	Number=Sing	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	ma	ma	CCONJ	CC	_	7	cc	_	_
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	urlato	urlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Davvero.
+1	Davvero	davvero	ADV	B	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Perché io abito a Milano.
+1	Perché	perché	ADV	B	_	3	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	abito	abitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Milano	Milano	PROPN	SP	_	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = #ComeToItalyMadisonBeer https:// twitter.com/madisonelleita /status/716317160574988289 …
+1	#ComeToItalyMadisonBeer	#ComeToItalyMadisonBeer	PROPN	SP	_	5	nsubj	_	_
+2	https:	https:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	twitter.com/madisonelleita	twitter.com/madisonelleire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	/status/716317160574988289	/status/716317160574988289	NUM	N	NumType=Card	5	nummod	_	_
+7	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

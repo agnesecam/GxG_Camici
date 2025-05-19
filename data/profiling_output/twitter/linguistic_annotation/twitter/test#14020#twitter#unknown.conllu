@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @guglielmo1950 @Thor_73 sareste ugualmente andati in B. Magari sareste stati pure radiati, come giusto!
+1	@guglielmo1950	@guglielmo1950	NUM	N	NumType=Card	2	nummod	_	_
+2	@Thor_73	@Thor_73	PROPN	SP	_	3	nsubj	_	_
+3	sareste	saredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	_
+4	ugualmente	ugualmente	ADV	B	_	5	advmod	_	_
+5	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	B	B	PROPN	SP	_	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+9	Magari	magari	PROPN	SP	_	13	nsubj:pass	_	_
+10	sareste	saresto	ADJ	A	Number=Sing	9	amod	_	_
+11	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	aux:pass	_	_
+12	pure	pure	ADV	B	_	13	advmod	_	_
+13	radiati	radiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	come	come	ADV	B	_	16	advmod	_	_
+16	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
+

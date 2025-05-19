@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @flawslou @NicoMirallegro il fatto che abbia sangue siciliano nelle vene riscalda assai il mio
+1	@flawslou	@flawslou	ADP	E	_	2	case	_	_
+2	@NicoMirallegro	@NicoMirallegro	PROPN	SP	_	4	nmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	che	che	SCONJ	CS	_	12	mark	_	_
+6	abbia	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	nsubj	_	_
+7	sangue	sanguire	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	siciliano	siciliano	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9-10	nelle	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	vene	vena	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+12	riscalda	riscaldare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	assai	assai	ADV	B	_	12	advmod	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	obj	_	SpacesAfter=\n
+

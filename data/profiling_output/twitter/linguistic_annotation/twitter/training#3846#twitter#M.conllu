@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = avessero fatto i nostri errori così sui gol sarebbe scattata la rivoluzion.....
+1	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	errori	errore	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6	così	così	ADV	B	_	11	advmod	_	_
+7-8	sui	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	gol	gol	NOUN	S	Gender=Masc	11	obl	_	_
+10	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	scattata	scattare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	rivoluzion.....	rivoluzion.....	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+
+# sent_id = 2
+# text = aspè è già successo tutto ciò ;-D :-P
+1	aspè	aspé	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:pass	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	già	già	ADV	B	_	4	advmod	_	_
+4	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+7	;	;	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+8	-D	-D	PROPN	SP	_	6	nmod	_	_
+9	:	:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	P	P	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

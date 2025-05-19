@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GFabrygherardi @Lettera43 il prete non può lavare dai peccati, tutto quello fatto dovrà essere pagato, Lui i debiti li fa saldare
+1	@GFabrygherardi	@GFabrygherardi	PROPN	SP	_	7	nsubj	_	_
+2	@Lettera43	@Lettera43	PROPN	SP	_	1	flat:name	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	prete	prete	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	lavare	lavare	VERB	V	VerbForm=Inf	0	root	_	_
+8-9	dai	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	peccati	peccato	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	17	punct	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	nsubj:pass	_	_
+13	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	obj	_	_
+14	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+16	essere	essere	AUX	VA	VerbForm=Inf	17	aux:pass	_	_
+17	pagato	pagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	23	punct	_	_
+19	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	iobj	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	debiti	debito	NOUN	S	Gender=Masc|Number=Plur	23	nsubj	_	_
+22	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	obj	_	_
+23	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+24	saldare	saldare	VERB	V	VerbForm=Inf	7	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CasulaGiuliana Cara Giuliana, io non sono mai venuta a prendermi i tuoi tweet senza apporre neppure un segno...
+1	@CasulaGiuliana	@CasulaGiuliana	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+2	Cara	Cara	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	Giuliana	Giuliana	PROPN	SP	_	9	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	mai	mai	ADV	B	_	9	advmod	_	_
+9	venuta	venire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11-12	prendermi	_	_	_	_	_	_	_	_
+11	prender	prendere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+14	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	tweet	tweet	NOUN	S	Gender=Masc	11	obj	_	_
+16	senza	senza	ADP	E	_	17	mark	_	_
+17	apporre	apporre	VERB	V	VerbForm=Inf	9	advcl	_	_
+18	neppure	neppure	ADV	BN	PronType=Neg	20	advmod	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	segno..	segno..	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = così è scorretto.
+1	così	così	ADV	B	_	3	advmod	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	scorretto	scorretto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

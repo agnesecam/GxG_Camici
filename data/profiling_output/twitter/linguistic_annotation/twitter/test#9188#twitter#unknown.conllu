@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @EForenzi vero.
+1	@EForenzi	@EForenzi	ADV	B	_	2	advmod	_	_
+2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Però ora è curioso, mi viene il dubbio che qualche media neppure sappia che Salah è il nome e non il cognome @TgLa7
+1	Però	però	CCONJ	CC	_	4	cc	_	_
+2	ora	ora	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	curioso	curioso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	che	che	SCONJ	CS	_	14	mark	_	_
+11	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	12	det	_	_
+12	media	media	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+14	sappia	sapere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	che	che	SCONJ	CS	_	19	mark	_	_
+16	Salah	Salah	PROPN	SP	_	19	nsubj	_	_
+17	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	nome	nome	NOUN	S	Gender=Masc|Number=Sing	14	ccomp	_	_
+20	e	e	CCONJ	CC	_	23	cc	_	_
+21	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	cognome	cognome	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	_
+24	@TgLa7	@TgLa7	PROPN	SP	_	19	flat:name	_	SpacesAfter=\n
+

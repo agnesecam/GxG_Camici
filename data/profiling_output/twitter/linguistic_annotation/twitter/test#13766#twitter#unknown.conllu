@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno amici, comincia un nuovo giorno, una nuova settimana, faremo il possibile per renderla serena....... http:// fb.me/7PJr3xAZR
+1	Buongiorno	Buongiorno	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	amici	amico	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	comincia	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	possibile	possibile	ADJ	A	Number=Sing	13	amod	_	_
+16	per	per	ADP	E	_	17	mark	_	_
+17-18	renderla	_	_	_	_	_	_	_	_
+17	render	rendere	VERB	V	VerbForm=Inf	15	advcl	_	_
+18	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	serena.......	serena.....	NOUN	S	_	17	obj	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/7PJr3xAZR	fb.me/7PJr3xAZR	PROPN	SP	_	13	obj	_	SpacesAfter=\n
+

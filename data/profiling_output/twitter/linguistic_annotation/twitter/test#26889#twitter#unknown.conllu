@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ahimè ! https:// twitter.com/famila76/statu s/716172794560647169 …
+1	Ahimè	ahimé	ADV	B	_	7	advmod	_	_
+2	!	!	PUNCT	FS	_	1	punct	_	_
+3	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	twitter.com/famila76/statu	twitter.com/famila76/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	s/716172794560647169	s/716172794560647169	NUM	N	NumType=Card	0	root	_	_
+8	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

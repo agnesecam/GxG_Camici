@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FedericaTonolin Dire che sono un dono rafforza l'attenzione agli ultimi e agli svantaggiati.
+1	@FedericaTonolin	@FedericaTonolin	PROPN	SP	_	7	nsubj	_	_
+2	Dire	dire	PROPN	SP	_	1	flat:name	_	_
+3	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dono	dono	NOUN	S	Gender=Masc|Number=Sing	1	acl:relcl	_	_
+7	rafforza	rafforzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	attenzione	attenzione	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10-11	agli	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	ultimi	ultimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	7	obl	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14-15	agli	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	svantaggiati	svantaggiato	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ciò a fronte di posizioni, anche dentro la
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	fronte	fronte	NOUN	S	Number=Sing	9	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	posizioni	posizione	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	anche	anche	ADV	B	_	9	advmod	_	_
+8	dentro	dentro	ADP	E	_	9	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	0	root	_	SpacesAfter=\n
+

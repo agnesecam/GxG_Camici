@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @danielebonetti @SimoneBara75 @paolonghi ah guarda quest'anno proprio hai ragione:
+1	@danielebonetti	@danielebonetto	NOUN	S	Gender=Masc	0	root	_	_
+2	@SimoneBara75	@SimoneBara75	PROPN	SP	_	1	nmod	_	_
+3	@paolonghi	@paolongo	PRON	PR	Number=Sing|PronType=Rel	5	obj	_	_
+4	ah	ah	INTJ	I	_	5	discourse	_	_
+5	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+6	quest'	questo	DET	DD	Number=Sing|PronType=Dem	7	det	_	SpaceAfter=No
+7	anno	anno	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	proprio	proprio	ADV	B	_	9	advmod	_	_
+9	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = se fossimo andati io e te avremmo fatto meglio.
+1	se	se	SCONJ	CS	_	3	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+7	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+9	meglio.	meglio.	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L' @ArenaGiletti sembra un vero mercato ittico.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
+2	@ArenaGiletti	@ArenaGiletti	PROPN	SP	_	3	nsubj	_	_
+3	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	3	xcomp	_	_
+7	ittico	ittico	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = L'inadeguatezza del conduttore poi è tale da far sembrare #Rai1 una qualsiasi Televucciria.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	inadeguatezza	inadeguatezza	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	conduttore	conduttore	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	poi	poi	ADV	B	_	8	advmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	tale	tale	ADJ	A	Number=Sing	0	root	_	_
+9	da	da	ADP	E	_	10	mark	_	_
+10	far	fare	VERB	V	VerbForm=Inf	8	advcl	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	#Rai1	#Rai1	PROPN	SP	_	11	xcomp	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	qualsiasi	qualsiasi	ADJ	A	Number=Sing	15	amod	_	_
+15	Televucciria	Televucciria	PROPN	SP	_	11	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A un anno di distanza dalla presentazione di #SHAMELESS ancora se ne parla, ancora se ne vende da POW - Cavalli e... http:// fb.me/7lUkMB33U
+1	A	a	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	anno	anno	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	distanza	distanza	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	presentazione	presentazione	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	#SHAMELESS	#SHAMELESS	PROPN	SP	_	8	nmod	_	_
+11	ancora	ancora	ADV	B	_	14	advmod	_	_
+12	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl:impers	_	_
+13	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	14	iobj	_	_
+14	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	ancora	ancora	ADV	B	_	19	advmod	_	_
+17	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	19	iobj	_	_
+19	vende	vendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+20	da	da	ADP	E	_	21	case	_	_
+21	POW	POW	PROPN	SP	_	19	obl	_	_
+22	-	-	PUNCT	FF	_	21	punct	_	_
+23	Cavalli	cavalli	PROPN	SP	_	21	nmod	_	_
+24	e...	e.	PUNCT	FS	_	23	punct	_	_
+25	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	23	punct	_	_
+28	fb.me/7lUkMB33U	fb.me/7lUkMB33U	PROPN	SP	_	14	nsubj	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @65_giuliano ahimè tanto vero....
+1	@65_giuliano	@65_giuliare	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	ahimè	ahimè	INTJ	I	_	0	root	_	_
+3	tanto	tanto	ADV	B	_	4	advmod	_	_
+4	vero...	vero.	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = buona serata e buonanotte
+1	buona	buono	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	serata	serata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	buonanotte	buonanotto	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	SpacesAfter=\n
+

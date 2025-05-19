@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho capito come si pulisce phinn, essendo un troll di fiume, e ha la squame, fa la muta!
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	come	come	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	pulisce	pulire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	phinn	phinn	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	essendo	essere	AUX	V	VerbForm=Ger	10	cop	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	troll	troll	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	fiume	fiume	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	10	punct	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	squame	squame	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	2	punct	_	_
+19	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	muta	muta	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #HalcyonDays @vaingloryitaly
+1	#HalcyonDays	#HalcyonDays	PROPN	SP	_	0	root	_	_
+2	@vaingloryitaly	@vaingloryitaly	PROPN	SW	Foreign=Yes	1	flat:name	_	SpacesAfter=\n
+

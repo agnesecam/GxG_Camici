@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntoTavolieri @anzalotto @GranataAndy @FiorenzaMaffei @dorainato @daprile_vito @lisalucab è a lavorare ahimè
+1	@AntoTavolieri	@AntoTavoliere	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	@anzalotto	@anzalotto	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	_
+3	@GranataAndy	@GranataAndy	PROPN	SP	_	2	nmod	_	_
+4	@FiorenzaMaffei	@FiorenzaMaffei	PROPN	SP	_	3	flat:name	_	_
+5	@dorainato	@dorainato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6	@daprile_vito	@daprile_vire	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	@lisalucab	@lisalucab	NOUN	S	_	5	obj	_	_
+8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	lavorare	lavorare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+11	ahimè	ahimè	INTJ	I	_	8	cop	_	SpacesAfter=\n
+

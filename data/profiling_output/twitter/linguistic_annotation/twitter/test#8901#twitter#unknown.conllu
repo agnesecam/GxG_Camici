@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @The_James_Cook i sindacati stanno difendendo chi non ha titoli e forse neppure ha insegnato, perché sono di più e hanno dato loro i soldi.
+1	@The_James_Cook	@The_James_Cook	PROPN	SP	_	5	obj	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	sindacati	sindacato	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	difendendo	difendere	VERB	V	VerbForm=Ger	0	root	_	_
+6	chi	chi	PRON	PR	Number=Sing|PronType=Rel	5	obj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	titoli	titolo	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11	forse	forse	ADV	B	_	14	advmod	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+13	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	insegnato	insegnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	perché	perché	SCONJ	CS	_	19	mark	_	_
+17	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	più	più	ADV	B	_	14	advmod	_	_
+20	e	e	CCONJ	CC	_	22	cc	_	_
+21	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	conj	_	_
+23	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	22	iobj	_	_
+24	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

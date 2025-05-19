@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SteGiannini
+1	@SteGiannini	@SteGiannini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = L'intelligenza è data dalla capacità di cambiare quando è necessario!
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	intelligenza	intelligenza	NOUN	S	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	data	dare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	capacità	capacità	NOUN	S	Gender=Fem	4	obl:agent	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	cambiare	cambiare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	quando	quando	SCONJ	CS	_	12	mark	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	necessario	necessario	ADJ	A	Gender=Masc|Number=Sing	9	advcl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = I Grandi ammettono l'errore!
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Grandi	Grandi	PROPN	SP	_	3	nsubj	_	_
+3	ammettono	ammettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	errore	errore	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = #tfaèconcorso #abilitatitfa
+1	#tfaèconcorso	#tfaèconcorso	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	abilitatitfa	abilitatitfare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

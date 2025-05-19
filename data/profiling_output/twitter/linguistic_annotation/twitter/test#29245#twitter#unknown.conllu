@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Quando avrete innalzato il Figlio dell’uomo, allora conoscerete che Io Sono e che non faccio nulla da me stesso..." #iocicredo
+1	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+2	Quando	quando	SCONJ	CS	_	4	mark	_	_
+3	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	innalzato	innalzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Figlio	figlio	PROPN	SP	_	4	nsubj	_	_
+7-8	dell’	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	_
+11	allora	allora	ADV	B	_	12	advmod	_	_
+12	conoscerete	conosceere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	25	advcl	_	_
+13	che	che	SCONJ	CS	_	19	mark	_	_
+14	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+15	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+16	e	e	CCONJ	CC	_	19	cc	_	_
+17	che	che	PRON	PR	PronType=Rel	19	obj	_	_
+18	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+19	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+20	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	obj	_	_
+21	da	da	ADP	E	_	22	case	_	_
+22	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	20	nmod	_	_
+23	stesso...	stesso.	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+24	"	"	PUNCT	FB	_	12	punct	_	_
+25	#iocicredo	#iocicredere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

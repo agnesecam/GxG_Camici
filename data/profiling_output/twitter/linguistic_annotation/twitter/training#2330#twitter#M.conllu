@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Per stare con una persona devi fare spazio all'altro anche dentro di te" cit.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Per	per	ADP	E	_	3	mark	_	_
+3	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	persona	persona	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	6	acl	_	_
+9	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10-11	all'	_	_	_	_	_	_	_	SpaceAfter=No
+10	a	a	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	obl	_	_
+13	anche	anche	ADV	B	_	14	advmod	_	_
+14	dentro	dentro	ADV	B	_	16	advmod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obl	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	18	punct	_	_
+18	cit	cit	SYM	X	_	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

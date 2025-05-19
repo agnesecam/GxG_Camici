@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Referendum totalmente INUTILE:
+1	Referendum	referendum	NOUN	S	Gender=Masc	0	root	_	_
+2	totalmente	totalmente	ADV	B	_	1	advmod	_	_
+3	INUTILE	inutile	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il 17 aprile si dovrà decidere se vietare il rinnovo delle concessioni estrattive... http:// fb.me/GYh5DYqR
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	17	17	NUM	N	NumType=Card	6	obl	_	_
+3	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	decidere	decidere	VERB	V	VerbForm=Inf	0	root	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	vietare	vietare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	rinnovo	rinnovo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11-12	delle	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	concessioni	concessione	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+14	estrattive...	estrattive.	PUNCT	FF	_	13	punct	_	_
+15	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	13	punct	_	_
+18	fb.me/GYh5DYqR	fb.me/GYh5DYqR	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

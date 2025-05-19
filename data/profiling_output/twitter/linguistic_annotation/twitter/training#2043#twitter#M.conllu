@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In arrivo il nuovo video di Serena Serry Carpi prodotto dallo Staff di AltroCanto.
+1	In	in	ADP	E	_	2	case	_	_
+2	arrivo	arrivo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	video	video	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Serena	Serena	PROPN	SP	_	5	nmod	_	_
+8	Serry	Serry	PROPN	SP	_	5	nmod	_	_
+9	Carpi	Carpi	PROPN	SP	_	8	flat:name	_	_
+10	prodotto	produrre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+11-12	dallo	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Staff	staff	PROPN	SP	_	10	obl:agent	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	AltroCanto	AltroCanto	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/74Yp1b0dH
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/74Yp1b0dH	fb.me/74Yp1b0dH	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

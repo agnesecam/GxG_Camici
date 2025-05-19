@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SimonaMolinar Perché vedere una fan abbracciare il proprio idolo fa venire i brividi?
+1	@SimonaMolinar	@SimonaMolinare	VERB	V	VerbForm=Inf	0	root	_	_
+2	Perché	perché	SCONJ	CS	_	10	mark	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	10	csubj	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	fan	fan	NOUN	S	_	3	obj	_	_
+6	abbracciare	abbracciare	VERB	V	VerbForm=Inf	5	acl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	idolo	idolo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+11	venire	venire	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	brividi	brividio	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Perché è come se insieme avessero vinto una battaglia!
+1	Perché	perché	ADV	B	_	2	advmod	_	_
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	ADV	B	_	7	advmod	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	insieme	insieme	ADV	B	_	7	advmod	_	_
+6	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	battaglia	battaglia	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

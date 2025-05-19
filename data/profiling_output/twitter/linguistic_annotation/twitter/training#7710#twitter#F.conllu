@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ManuDolcenera hai creato un Team troppo forte, capisco dunque il tuo stato d'animo e la difficoltà nelle scelte #teamdolcenera#TeamTOP#tvoi
+1	@ManuDolcenera	@ManuDolcenera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+2	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	creato	creare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Team	Team	PROPN	SP	_	3	obj	_	_
+6	troppo	troppo	ADV	B	_	7	advmod	_	_
+7	forte	forte	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	dunque	dunque	ADV	B	_	9	advmod	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	stato	stato	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+14	d'	di	ADP	E	_	15	case	_	SpaceAfter=No
+15	animo	animo	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	difficoltà	difficoltà	NOUN	S	Gender=Fem	3	conj	_	_
+19-20	nelle	_	_	_	_	_	_	_	_
+19	in	in	ADP	E	_	21	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	scelte	scelta	NOUN	S	Gender=Fem|Number=Plur	18	nmod	_	_
+22	#teamdolcenera#TeamTOP#tvoi	#teamdolcenera#TeamTOP#tvoi	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

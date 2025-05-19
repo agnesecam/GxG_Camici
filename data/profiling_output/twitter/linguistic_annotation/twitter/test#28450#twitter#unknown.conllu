@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " saremmo stati spazzati via dal panorama internazionale e tornati ad essere una mera espressione geografica" @mmauri_pd #pd #opencamera
+1	"	"	PUNCT	FB	_	4	punct	_	_
+2	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	aux:pass	_	_
+4	spazzati	spazzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	21	acl	_	_
+5	via	via	ADV	B	_	4	advmod	_	_
+6-7	dal	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	panorama	panorama	NOUN	S	Gender=Masc|Number=Sing	4	obl:agent	_	_
+9	internazionale	internazionale	ADJ	A	Number=Sing	8	amod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	tornati	tornare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
+12	ad	a	ADP	E	_	16	mark	_	_
+13	essere	essere	AUX	V	VerbForm=Inf	16	cop	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	mera	mero	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	espressione	espressione	NOUN	S	Gender=Fem|Number=Sing	11	xcomp	_	_
+17	geografica	geografico	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	20	punct	_	_
+19	@mmauri_pd	@mmauri_pd	ADJ	A	_	20	amod	_	_
+20	#pd	#pd	NOUN	S	_	16	nmod	_	_
+21	#opencamera	#opencamero	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

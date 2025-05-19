@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #eurosportsnooker Certo che le scarpe di Dale fanno sembrare quelle di Murphy un classico.
+1	#eurosportsnooker	#eurosportsnookere	ADP	E	_	2	case	_	_
+2	Certo	certo	ADV	B	_	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	scarpe	scarpa	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Dale	Dale	PROPN	SP	_	5	nmod	_	_
+8	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	9	xcomp	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Murphy	Murphy	PROPN	SP	_	10	nmod	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	classico	classico	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

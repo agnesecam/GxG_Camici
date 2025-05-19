@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @1giornodapecora l'unica trasmissione che fa sembrare i politici molto più intelligenti di quanto siano realmente....e ce ne vuole eh..!
+1	@1giornodapecora	@1giornodapecora	ADV	B	_	16	advmod	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+3	unica	unico	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	politici	politico	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	molto	molto	ADV	B	_	11	advmod	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	intelligenti	intelligente	ADJ	A	Number=Plur	9	amod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	12	obl	_	_
+15	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	realmente....e	realmente....e	VERB	V	VerbForm=Inf	0	root	_	_
+17	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	19	iobj	_	_
+19	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+20	eh..!	eh..!	PUNCT	FS	_	16	punct	_	SpacesAfter=\n
+

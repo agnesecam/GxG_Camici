@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Rassegnati se più non risponde tu #credendo di rendergli cortesia #dalNulla hai scritto egli tace ed inizia una nuova settimana #lunedi
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Rassegnati	Rassegnare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	più	più	ADV	B	_	6	advmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	risponde	rispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+7	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+8	#credendo	#credere	VERB	V	VerbForm=Ger	15	advcl	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10-11	rendergli	_	_	_	_	_	_	_	_
+10	render	rendere	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	#dalNulla	#dalNulla	PROPN	SP	_	10	obj	_	_
+14	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	egli	ello	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	tace	tace	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+18	ed	e	CCONJ	CC	_	19	cc	_	_
+19	inizia	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	22	amod	_	_
+22	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+23	#lunedi	#lunedio	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	SpacesAfter=\n
+

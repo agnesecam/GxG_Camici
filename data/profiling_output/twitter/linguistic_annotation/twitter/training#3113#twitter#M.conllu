@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pinot vince la crono del #CritInter , divente leader della generale e comincia a sembrare anche uno che potrebbe vincere un #Tour .
+1	Pinot	Pinot	ADV	B	_	2	advmod	_	_
+2	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	crono	crono	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#CritInter	#CritInter	PROPN	SP	_	4	nmod	_	_
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	divente	divente	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	leader	leader	NOUN	S	_	9	obj	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	generale	generale	ADJ	A	Number=Sing	10	nmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	comincia	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	sembrare	sembrare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	anche	anche	ADV	B	_	19	advmod	_	_
+19	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	obj	_	_
+20	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+21	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	vincere	vincere	VERB	V	VerbForm=Inf	19	acl:relcl	_	_
+23	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	#Tour	#Tour	PROPN	SP	_	22	obj	_	_
+25	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AngelaZanello Cosa non farebbero per 1 posto in TV!
+1	@AngelaZanello	@AngelaZanello	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Cosa	Cosa	PRON	PQ	Number=Sing|PronType=Int	4	obj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	1	1	NUM	N	NumType=Card	7	nummod	_	_
+7	posto	posto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	TV	TV	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ora aspetto Christian....e' alla canna del gas...ha provato tutto!!!!
+1	Ora	ora	ADV	B	_	2	advmod	_	_
+2	aspetto	aspettare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3-4	Christian....e'	_	_	_	_	_	_	_	_
+3	Christian....i	Christian....i	PROPN	SP	_	2	nmod	_	_
+4	i	europeo	ADJ	NO	Number=Sing|NumType=Ord	3	amod	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	canna	canna	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	gas...ha	gas...ha	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	provato	provare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+14	!!	!!	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

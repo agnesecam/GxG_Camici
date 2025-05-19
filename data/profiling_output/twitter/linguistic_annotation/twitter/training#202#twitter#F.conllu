@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quanto mi piacerebbe che anche in Italia avessimo queste buone idee..
+1	Quanto	quanto	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	piacerebbe	piacere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	11	mark	_	_
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	Italia	Italia	PROPN	SP	_	11	obl	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	_
+9	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	11	det	_	_
+10	buone	buono	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+11	idee..	idee..	NOUN	S	_	3	ccomp	_	_
+
+# sent_id = 2
+# text = http:// fb.me/zuDi4Jrv
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/zuDi4Jrv	fb.me/zuDi4Jrv	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

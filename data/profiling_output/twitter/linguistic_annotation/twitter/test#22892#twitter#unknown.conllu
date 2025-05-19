@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francescoge07 @petergomezblog @PatriceinMilano Se lo stato avanzasse dei soldi glieli avrebbe già tolti.
+1	@francescoge07	@francescoge07	NUM	N	NumType=Card	2	nummod	_	_
+2	@petergomezblog	@petergomezblog	NOUN	S	_	3	nsubj	_	_
+3	@PatriceinMilano	@PatriceinMilano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Se	se	SCONJ	CS	_	7	mark	_	_
+5	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	stato	essere	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	avanzasse	avanzare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+11-12	glieli	_	_	_	_	_	_	_	_
+11	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	iobj	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+13	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	già	già	ADV	B	_	15	advmod	_	_
+15	tolti	togliere	ADJ	A	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Pensa invece a quanto ha dato.
+1	Pensa	pensare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	invece	invece	ADV	B	_	1	advmod	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	1	obl	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

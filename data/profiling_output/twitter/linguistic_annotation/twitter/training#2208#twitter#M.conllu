@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Li compri le cucce da 30€, dorme dentro uno zaino.
+1	Li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+2	compri	comprire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cucce	cuccia	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	30€	30€	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	dorme	dormire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	dentro	dentro	ADV	B	_	8	advmod	_	_
+10	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	zaino.	zaino.	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = #Margot @Casa Leoni https://www.
+1	#Margot	#Margot	PROPN	SP	_	0	root	_	_
+2	@Casa	@Casa	PROPN	SP	_	1	flat:name	_	_
+3	Leoni	Leoni	PROPN	SP	_	1	flat:name	_	_
+4	https://www	https://www	NOUN	S	_	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = instagram.com/p/BD_7ry3EdbN/
+1	instagram.com/p/BD_7ry3EdbN/	instagram.com/p/BD_7ry3EdbN/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

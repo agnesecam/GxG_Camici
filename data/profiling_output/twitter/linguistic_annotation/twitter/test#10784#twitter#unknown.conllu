@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cmnit @orkydea @RobertaPaliotti bensì, le terze o quarte, anche (certo, non solo) per le frustrazioni di un'integrazione assai problematica
+1	@cmnit	@cmnit	ADV	B	_	2	advmod	_	_
+2	@orkydea	@orkydeo	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	@RobertaPaliotti	@RobertaPaliotti	PROPN	SP	_	0	root	_	_
+4	bensì	bensì	INTJ	I	Polarity=Pos	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	terze	terze	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	quarte	quarta	NOUN	S	Gender=Fem|Number=Plur	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	anche	anche	ADV	B	_	16	advmod	_	_
+12	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+13	certo	certo	ADV	B	_	16	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	solo	solo	ADV	B	_	3	advmod	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	16	punct	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	frustrazioni	frustrazione	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+23	integrazione	integrazione	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	_
+24	assai	assai	ADV	B	_	25	advmod	_	_
+25	problematica	problematico	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	SpacesAfter=\n
+

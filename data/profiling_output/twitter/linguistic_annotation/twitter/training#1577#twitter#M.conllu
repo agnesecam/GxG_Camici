@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Diretta Informazioni:
+1	Diretta	dirigere	PROPN	SP	_	0	root	_	_
+2	Informazioni	informazioni	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = LE MANI DI RENZI SULLE NOSTRE EREDITA’:
+1	LE	il	PROPN	SP	_	0	root	_	_
+2	MANI	Mani	PROPN	SP	_	1	flat:name	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	RENZI	RENZI	PROPN	SP	_	1	nmod	_	_
+5-6	SULLE	_	_	_	_	_	_	_	_
+5	SU	su	PROPN	SP	_	4	flat:name	_	_
+6	LE	Le	PROPN	SP	_	5	flat:name	_	_
+7	NOSTRE	nostro	PROPN	SP	_	5	flat:name	_	_
+8	EREDITA	eredita	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+9	’	’	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = DOPO LE PE... http:// direttanfo.blogspot.com/2016/04/le-man i-di-renzi-sulle-nostre-eredita.html?spref=tw …
+1	DOPO	dopo	ADP	E	_	2	case	_	_
+2	LE	Le	PROPN	SP	_	0	root	_	_
+3	PE...	PE...	PROPN	SP	_	2	flat:name	_	_
+4	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	_
+7	direttanfo.blogspot.com/2016/04/le-man	direttanfo.blogspot.com/2016/04/le-man	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+8	i-di-renzi-sulle-nostre-eredita.html	i-di-renzi-sulle-nostre-eredita.html	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+10	spref=tw	spref=tw	NOUN	S	Gender=Masc	2	nmod	_	_
+11	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

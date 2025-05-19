@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I Carabinieri sono come tutti gli altri;con tutti i loro limiti.Poterli superare,i limiti,sta all'intelligenza di ciascuno @noiconsalvini
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Carabinieri	Carabinieri	PROPN	SP	_	7	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	come	come	ADP	E	_	7	case	_	_
+5	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	15	nsubj	_	SpaceAfter=No
+8	;con	;con	ADP	E	_	12	case	_	_
+9	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	12	det:predet	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	loro	loro	DET	AP	Poss=Yes|PronType=Prs	12	det:poss	_	_
+12-13	limiti.Poterli	_	_	_	_	_	_	_	_
+12	limiti.Poter	limiti.Poter	PROPN	SP	_	7	nmod	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+14	superare,i	superare,o	ADJ	A	Number=Plur	13	amod	_	_
+15	limiti,sta	limiti,stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16-17	all'	_	_	_	_	_	_	_	SpaceAfter=No
+16	a	a	ADP	E	_	18	case	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
+18	intelligenza	intelligenza	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	ciascuno	ciascuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
+21	@noiconsalvini	@noiconsalvino	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	SpacesAfter=\n
+

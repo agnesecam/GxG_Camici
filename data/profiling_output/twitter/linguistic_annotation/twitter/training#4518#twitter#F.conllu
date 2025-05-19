@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ALisimberti mi domando fino a quando dovrà continuare questa follia e se sia possibile uscirne senza ricorrere a un colpo di stato.
+1	@ALisimberti	@ALisimberti	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	domando	domare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	fino	fino	ADV	B	_	8	mark	_	_
+5	a	a	ADP	E	_	4	fixed	_	_
+6	quando	quando	SCONJ	CS	_	4	fixed	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	continuare	continuare	VERB	V	VerbForm=Inf	3	advcl	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	follia	follia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	se	se	SCONJ	CS	_	14	mark	_	_
+13	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	possibile	possibile	ADJ	A	Number=Sing	8	conj	_	_
+15-16	uscirne	_	_	_	_	_	_	_	_
+15	uscir	uscire	VERB	V	VerbForm=Inf	14	csubj	_	_
+16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+17	senza	senza	ADP	E	_	18	mark	_	_
+18	ricorrere	ricorrere	VERB	V	VerbForm=Inf	15	advcl	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	colpo	colpo	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	stato	stato	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

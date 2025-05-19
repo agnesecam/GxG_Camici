@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MichelePlastino se avessimo un po' di dignità.
+1	@MichelePlastino	@MichelePlastare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po'	poco	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	dignità	dignità	NOUN	S	Gender=Fem	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ..
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = torneremmo a essere un popolo ..ma non sarà così e il prossimo anno sarà uguale
+1	torneremmo	torneere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	5	mark	_	_
+3	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	1	xcomp	_	_
+6	..ma	..mo	ADV	B	_	5	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	cop	_	_
+9	così	così	ADV	B	_	1	advmod	_	_
+10	e	e	CCONJ	CC	_	15	cc	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	anno	anno	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+14	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	cop	_	_
+15	uguale	uguale	ADJ	A	Number=Sing	1	conj	_	SpacesAfter=\n
+

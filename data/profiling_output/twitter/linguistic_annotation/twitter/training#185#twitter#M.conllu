@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Luciosalis lei è invece peggio di chi ho dimenticato perche cafone e maleducato buonanotte
+1	@Luciosalis	@Luciosalis	PROPN	SP	_	7	nmod	_	_
+2	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	invece	invece	ADV	B	_	7	advmod	_	_
+5	peggio	peggio	ADV	B	_	7	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+10	perche	perco	ADV	B	_	11	advmod	_	_
+11	cafone	cafone	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	maleducato	maleducato	ADJ	A	Gender=Masc|Number=Sing	11	conj	_	_
+14	buonanotte	buonanotto	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpacesAfter=\n
+

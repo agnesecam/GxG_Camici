@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ne ho parecchi https:// twitter.com/giadasiccardi/ status/709682559068868608 …
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	parecchi	parecchio	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	https:	https:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	twitter.com/giadasiccardi/	twitter.com/giadasiccardi/	PUNCT	FF	_	3	punct	_	_
+8	status/709682559068868608	status/709682559068868608	NUM	N	NumType=Card	3	nummod	_	_
+9	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

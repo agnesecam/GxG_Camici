@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @R0bert079 se avessimo preso Cavani o Suarez quando c'erano le possibilità probabilmente l'avremmo vinta Ma se prima cedi Vidal poi Pogba...
+1	@R0bert079	@R0bert079	NUM	N	NumType=Card	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	Cavani	Cavani	PROPN	SP	_	4	obj	_	_
+6	o	o	CCONJ	CC	_	7	cc	_	_
+7	Suarez	Suarez	PROPN	SP	_	5	conj	_	_
+8	quando	quando	SCONJ	CS	_	10	mark	_	_
+9	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	SpaceAfter=No
+10	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	possibilità	possibilità	NOUN	S	Gender=Fem	10	nsubj	_	_
+13	probabilmente	probabilmente	ADV	B	_	16	advmod	_	_
+14	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	16	obj	_	SpaceAfter=No
+15	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	vinta	vincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+17	Ma	ma	CCONJ	CC	_	21	cc	_	_
+18	se	se	SCONJ	CS	_	21	case	_	_
+19	prima	primo	ADV	B	_	20	advmod	_	_
+20	cedi	cede	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	_
+21	Vidal	Vidal	PROPN	SP	_	10	conj	_	_
+22	poi	poi	ADV	B	_	23	advmod	_	_
+23	Pogba..	Pogba..	PROPN	SP	_	21	flat:name	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

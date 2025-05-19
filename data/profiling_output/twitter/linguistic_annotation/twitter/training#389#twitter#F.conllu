@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Buzzoole 'nzomma.
+1	@Buzzoole	@Buzzoole	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	'	'	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	nzomma	nzomma	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Gli abbiamo dato 10 giorni fa l'antivermi e lui ci guarda ancora come se avessimo tentato di avvelenarlo
+1	Gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+2	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	10	10	NUM	N	NumType=Card	5	nummod	_	_
+5	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+6	fa	fa	ADV	B	_	5	advmod	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	antivermi	antivermo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	obj	_	_
+12	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	ancora	ancora	ADV	B	_	12	advmod	_	_
+14	come	come	ADV	B	_	17	advmod	_	_
+15	se	se	SCONJ	CS	_	17	mark	_	_
+16	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	tentato	tentare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+18	di	di	ADP	E	_	19	mark	_	_
+19-20	avvelenarlo	_	_	_	_	_	_	_	SpacesAfter=\n
+19	avvelenar	avvelenare	VERB	V	VerbForm=Inf	17	xcomp	_	_
+20	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ci vuol altro Con le donne allevate in quel paese, Ma va ben ch’ egli impari a proprie spese" #bentistà @maggiomusicale #neverlandof
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+5	Con	con	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	donne	donna	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	allevate	allevato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	paese	paese	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	Ma	ma	CCONJ	CC	_	14	cc	_	_
+14	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+15	ben	bene	ADV	B	_	18	advmod	_	_
+16	ch’	cho	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+17	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	impari	imparare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	conj	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	proprie	proprio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	23	punct	_	_
+23	#bentistà	#bentistà	NOUN	S	Gender=Fem	18	obl	_	_
+24	@maggiomusicale	@maggiomusicale	ADJ	A	Number=Sing	23	amod	_	_
+25	#neverlandof	#neverlandof	ADP	E	_	18	case	_	SpacesAfter=\n
+

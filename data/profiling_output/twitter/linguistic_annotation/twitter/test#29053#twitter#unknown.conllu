@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ci avrete mai twtta #demagistris su referendum trivelle.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+3	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	5	advmod	_	_
+5	twtta	twttare	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	#demagistris	#demagistris	NOUN	S	Gender=Fem	3	obj	_	_
+7	su	su	ADP	E	_	8	case	_	_
+8	referendum	referendum	NOUN	S	Gender=Masc	6	nmod	_	_
+9	trivelle	trivei	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = RIsponde #Emiliano :
+1	RIsponde	rispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	#Emiliano	#Emiliano	PROPN	SP	_	1	nsubj	_	_
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = "grazie luigi, ora e sempre resistenza" #robadamagistrati
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2	grazie	grazie	NOUN	S	_	8	case	_	_
+3	luigi	luigio	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	ora	ora	ADV	B	_	8	advmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	sempre	sempre	ADV	B	_	8	advmod	_	_
+8	resistenza	resistenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	10	punct	_	_
+10	#robadamagistrati	#robadamagistrato	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpacesAfter=\n
+

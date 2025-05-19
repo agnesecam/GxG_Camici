@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voi ecclesiaste #gazebo essi chiorno.
+1	Voi	Vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+2	ecclesiaste	ecclesiasta	ADJ	A	Number=Sing	3	amod	_	_
+3	#gazebo	#gazebo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	chiorno	chiorno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Imparate ragazzi
+1	Imparate	Imparato	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	SpacesAfter=\n
+

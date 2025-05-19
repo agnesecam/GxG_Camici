@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ....Nuove amicizie o chissà nuovi amori,le cose - nel bene e purtroppo nel male - cambiano in fretta,quindi tieni duro e vai sempre avanti!
+1	....Nuove	....Nuove	NUM	N	NumType=Card	2	nummod	_	_
+2	amicizie	amicizia	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
+3	o	o	CCONJ	CC	_	7	cc	_	_
+4	chissà	chissà	ADV	B	_	7	advmod	_	_
+5	nuovi	nuovo	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+6	amori,le	amori,le	ADJ	A	Number=Sing	7	amod	_	_
+7	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+8	-	-	PUNCT	FB	_	2	punct	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	bene	bene	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	purtroppo	purtroppo	ADV	B	_	16	advmod	_	_
+14-15	nel	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	male	male	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+17	-	-	PUNCT	FB	_	2	punct	_	_
+18	cambiano	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	fretta	fretta	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+22	quindi	quindi	ADV	B	_	23	advmod	_	_
+23	tieni	tenere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	conj	_	_
+24	duro	duro	ADJ	A	Gender=Masc|Number=Sing	23	xcomp	_	_
+25	e	e	CCONJ	CC	_	26	cc	_	_
+26	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	conj	_	_
+27	sempre	sempre	ADV	B	_	26	advmod	_	_
+28	avanti	avanti	ADV	B	_	26	advmod	_	SpaceAfter=No
+29	!	!	PUNCT	FS	_	18	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

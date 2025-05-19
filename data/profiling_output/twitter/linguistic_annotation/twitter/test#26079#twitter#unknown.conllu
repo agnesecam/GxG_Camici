@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlbaDoratait @laurabianchi202 facevano pena ora fanno schifo.
+1	@AlbaDoratait	@AlbaDoratait	ADV	B	_	3	advmod	_	_
+2	@laurabianchi202	@laurabianchi202	NUM	N	NumType=Card	3	nsubj	_	_
+3	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	pena	pena	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	ora	ora	ADV	B	_	6	advmod	_	_
+6	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	schifo.	schifo.	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

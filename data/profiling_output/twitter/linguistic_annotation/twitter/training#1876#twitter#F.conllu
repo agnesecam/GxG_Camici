@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ***SONO IN ARRIVO 300.000 MIGRANTI*** Dovremmo difendere i nostri territori, dovremmo difendere le nostre citta'....
+1	***SONO	***SONO	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	IN	in	PROPN	SP	_	7	nsubj	_	_
+3	ARRIVO	arrivo	PROPN	SP	_	2	flat:name	_	_
+4	300.000	300.000	NUM	N	NumType=Card	5	nummod	_	_
+5	MIGRANTI***	MIGRANTI***	PROPN	SP	_	2	flat:name	_	_
+6	Dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	difendere	difendere	VERB	V	VerbForm=Inf	0	root	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	territori	territorio	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	7	punct	_	_
+12	dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	difendere	difendere	VERB	V	VerbForm=Inf	7	conj	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	citta'....	citta'....	NOUN	S	_	13	obj	_	_
+
+# sent_id = 2
+# text = http:// fb.me/19EBVDM5v
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/19EBVDM5v	fb.me/19EBVDM5v	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

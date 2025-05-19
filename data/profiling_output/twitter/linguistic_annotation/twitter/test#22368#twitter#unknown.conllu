@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fedefederossi se mi facessi ub cover con questa foto mi porti al manicomio o mi denunci per stalking?
+1	@fedefederossi	@fedefederuovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+4	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	ub	ub	X	SW	Foreign=Yes	4	xcomp	_	_
+6	cover	covere	X	SW	Foreign=Yes	5	flat:foreign	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	foto	foto	NOUN	S	Gender=Fem	11	obl	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+11	porti	portare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	manicomio	manicomio	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15	o	o	CCONJ	CC	_	16	cc	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+17	denunci	denunco	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	per	per	ADP	E	_	19	case	_	_
+19	stalking	stalking	NOUN	S	Gender=Fem	17	obl	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

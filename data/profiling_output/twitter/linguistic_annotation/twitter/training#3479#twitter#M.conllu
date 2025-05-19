@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il #PD farà la fine di Pasok (4-5%).
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#PD	#PD	PROPN	SP	_	3	nsubj	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	fine	fine	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Pasok	Pasok	PROPN	SP	_	5	nmod	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	4	4	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	5	5	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+12	%	%	SYM	SYM	_	7	nmod	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = E' solo questione di tempo.
+1	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	solo	solo	ADV	B	_	3	advmod	_	_
+3	questione	questione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = P.S.: Pasok prese il 43% (circa).
+1	P.S.	P.S.	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	Pasok	Pasok	PROPN	SP	_	1	nmod	_	_
+4	prese	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	43	43	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	%	%	SYM	SYM	_	4	obj	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	circa	circa	ADV	B	_	4	advmod	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = #MattarellaIntervieni
+1	#MattarellaIntervieni	#mattarellaintervieni	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

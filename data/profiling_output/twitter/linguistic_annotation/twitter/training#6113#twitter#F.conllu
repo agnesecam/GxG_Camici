@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dante, se ci fossimo conosciuti mi saresti stato altamente sul cazzo pic.twitter.com/C5v5OrDMHf
+1	Dante	Dante	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	conosciuti	conoscere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	expl	_	_
+8	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	stato	stato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+10	altamente	alto	ADV	B	_	13	advmod	_	_
+11-12	sul	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+14	pic.twitter.com/C5v5OrDMHf	pic.twitter.com/C5v5OrDMHf	PROPN	SP	_	13	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @milly_carlucci @Valerio_Scanu non vi faremo mancare il nostro supporto da casa!
+1	@milly_carlucci	@milly_carluccio	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+2	@Valerio_Scanu	@Valerio_Scanu	PROPN	SP	_	1	nmod	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	5	iobj	_	_
+5	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	mancare	mancare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	supporto	supporto	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	casa	casa	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

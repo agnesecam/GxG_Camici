@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'illuminato fa sembrare intelligente il pornoattore.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	illuminato	illuminato	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	intelligente	intelligente	ADJ	A	Number=Sing	4	xcomp	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pornoattore	pornoattore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #ciaodarwin #SiamoTuttiMatti #teamdivano
+1	#ciaodarwin	#ciaodarwino	ADV	B	_	4	advmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	SiamoTuttiMatti	SiamoTuttiMatti	PROPN	SP	_	4	nsubj	_	_
+4	#teamdivano	#teamdire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

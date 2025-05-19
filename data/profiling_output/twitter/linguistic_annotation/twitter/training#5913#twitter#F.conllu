@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = fossimo noi le sailor i discorsi sarebbero ben diversi -Oddiu, sta uscendo con 2 ragazzi insieme, forse è in pericolo!
+1	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	sailor	sailor	VERB	V	VerbForm=Inf	0	root	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	discorsi	discorso	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+7	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	ben	bene	ADV	B	_	9	advmod	_	_
+9	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	Oddiu	Oddiu	PROPN	SP	_	4	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	uscendo	uscire	VERB	V	VerbForm=Ger	4	conj	_	_
+15	con	con	ADP	E	_	17	case	_	_
+16	2	2	NUM	N	NumType=Card	17	nummod	_	_
+17	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+18	insieme	insieme	ADV	B	_	17	advmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	23	punct	_	_
+20	forse	forse	ADV	B	_	23	advmod	_	_
+21	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+22	in	in	ADP	E	_	23	case	_	_
+23	pericolo	pericolo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = -O forse è solo troia
+1	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+2	O	o	CCONJ	CC	_	6	cc	_	_
+3	forse	forse	ADV	B	_	6	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	solo	solo	ADV	B	_	6	advmod	_	_
+6	troia	troiare	ADV	B	_	0	root	_	SpacesAfter=\n
+

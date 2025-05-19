@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fortunatolino vedremo cosa succederà.
+1	@fortunatolino	@fortunatolino	ADV	B	_	2	advmod	_	_
+2	vedremo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	obj	_	_
+4	succederà	succedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ciò non cambia che al referendum si vota principalmente per il gas, che è un'energia pulita
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	referendum	referendum	NOUN	S	Gender=Masc	9	obl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:pass	_	_
+9	vota	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+10	principalmente	principalmente	ADV	B	_	9	advmod	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	gas	gas	NOUN	S	Gender=Masc	9	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	energia	energia	NOUN	S	Gender=Fem|Number=Sing	13	acl:relcl	_	_
+19	pulita	pulito	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpacesAfter=\n
+

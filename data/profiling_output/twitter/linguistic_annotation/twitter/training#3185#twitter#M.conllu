@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi il Ny Times mi fa sembrare l mondo migliore :D http:// fb.me/6eThEhxf4
+1	Oggi	oggi	ADV	B	_	6	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Ny	Ny	PROPN	SP	_	6	nsubj	_	_
+4	Times	Times	PROPN	SP	_	3	flat:name	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	l	l	X	X	_	7	xcomp	_	_
+9	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	8	compound	_	_
+10	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	11	amod	_	_
+11	:D	:D	PROPN	SP	_	9	nmod	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	fb.me/6eThEhxf4	fb.me/6eThEhxf4	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

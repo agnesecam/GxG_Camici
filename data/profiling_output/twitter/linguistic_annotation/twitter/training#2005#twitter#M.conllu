@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'ortodos­sia, assediata dalle sette provenienti da Occidente e oriente e dallo stesso Vaticano Sogna la Terza #Roma pic.twitter.com/GURFZ3qX8E
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	ortodos­sia	ortodos­sia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	assediata	assediare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	20	acl	_	_
+5-6	dalle	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	sette	sette	NOUN	S	Gender=Fem|Number=Plur	4	obl:agent	_	_
+8	provenienti	proveniento	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	7	acl	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	Occidente	occidente	PROPN	SP	_	8	obl	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	oriente	oriente	ADJ	A	Number=Sing	10	conj	_	_
+13	e	e	CCONJ	CC	_	17	cc	_	_
+14-15	dallo	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	17	case	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	Vaticano	Vaticano	PROPN	SP	_	7	conj	_	_
+18	Sogna	sogna	PROPN	SP	_	17	flat:name	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	Terza	Terza	PROPN	SP	_	2	nmod	_	_
+21	#Roma	#Roma	PROPN	SP	_	20	flat:name	_	_
+22	pic.twitter.com/GURFZ3qX8E	pic.twitter.com/GURFZ3qX8E	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che schifo.
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Un'invasione scientificamente progettata contro il popolo italiano.
+1	Un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	invasione	invasione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	scientificamente	scientifico	ADV	B	_	4	advmod	_	_
+4	progettata	progettare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+5	contro	contro	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Qualcuno dovrà pagare x sto scempio https:// twitter.com/massimo_limont a/status/714366285791019008 …
+1	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+4	x	x	SYM	SYM	_	6	obj	_	_
+5	sto	sto	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	scempio	scempio	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/massimo_limont	twitter.com/massimo_limont	SYM	X	_	6	nmod	_	_
+11	a/status/714366285791019008	a/status/714366285791019008	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

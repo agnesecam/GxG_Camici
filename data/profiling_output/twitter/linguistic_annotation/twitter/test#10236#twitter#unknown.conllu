@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Dario_Da95 Bravo!
+1	@Dario_Da95	@Dario_Da95	PROPN	SP	_	0	root	_	_
+2	Bravo	bravo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ti sta benissimo !
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+2	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	benissimo	bene	ADV	B	Degree=Abs	2	advmod	_	_
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Poi se anche @PaoloLardaro è d'accordo, non ci sono dubbi!
+1	Poi	poi	ADV	B	_	11	advmod	_	_
+2	se	se	SCONJ	CS	_	7	mark	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	@PaoloLardaro	@PaoloLardaro	PROPN	SP	_	7	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	d'	di	ADP	E	_	7	case	_	SpaceAfter=No
+7	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+11	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

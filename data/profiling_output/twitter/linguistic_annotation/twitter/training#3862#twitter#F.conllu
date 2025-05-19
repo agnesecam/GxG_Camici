@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @justinbieber lascia che ciò che ti impedisce di essere te stesso non faccia parte di te
+1	@justinbieber	@justinbiebere	AUX	VA	VerbForm=Inf	2	cop	_	_
+2	lascia	lasciare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	13	mark	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	13	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+7	impedisce	impedire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	di	di	ADP	E	_	10	mark	_	_
+9	essere	essere	AUX	VA	VerbForm=Inf	10	cop	_	_
+10	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	xcomp	_	_
+11	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+14	parte	parte	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	14	nmod	_	SpacesAfter=\n
+

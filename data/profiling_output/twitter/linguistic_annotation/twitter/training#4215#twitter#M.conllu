@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "vedrà che un po' di macelleria sociale dovrà farla" #Minoli a @virginiaraggi "non seminiamo panico" la sua replica @Mix24_r24 #elezioniRoma
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	vedrà	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	10	mark	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po'	poco	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	macelleria	macelleria	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	sociale	sociale	ADJ	A	Number=Sing	7	amod	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10-11	farla	_	_	_	_	_	_	_	SpaceAfter=No
+10	far	fare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+11	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	_
+13	#Minoli	#Minoli	NOUN	S	Gender=Masc|Number=Plur	18	nsubj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	@virginiaraggi	@virginiaraggio	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+16	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	seminiamo	seminere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+19	panico	panico	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	23	punct	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+22	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	replica	replico	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
+24	@Mix24_r24	@Mix24_r24	PROPN	SP	_	23	nmod	_	_
+25	#	#	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	elezioniRoma	elezioniRoma	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

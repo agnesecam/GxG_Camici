@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GruppoSapio Con #energia #solare potremmo fare tutto ciò di cui abbiamo bisogno!
+1	@GruppoSapio	@GruppoSapio	PROPN	SP	_	7	nsubj	_	_
+2	Con	con	PROPN	SP	_	1	flat:name	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	energia	energia	NOUN	S	Gender=Fem|Number=Sing	1	amod	_	_
+5	#solare	#solare	ADJ	A	Number=Sing	4	amod	_	_
+6	potremmo	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+8	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	cui	cui	PRON	PR	PronType=Rel	12	obl	_	_
+12	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

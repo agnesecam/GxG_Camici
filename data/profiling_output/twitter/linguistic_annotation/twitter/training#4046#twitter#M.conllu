@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = lastampa.it/2016/04/06/est eri/lallarme-di-frontex-terroristi-tra-i-migranti-JU40tNX8YvoReYwFBem0NL/pagina.html … Anche Frontex parla di terroristi tra i clandestini....
+1	lastampa.it/2016/04/06/est	lastampa.it/2016/04/06/est	NOUN	S	Gender=Masc	0	root	_	_
+2	eri	ero	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	lallarme-di	lallarme-do	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	frontex-	_	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	terroristi-tra	terroristi-tra	NOUN	S	Number=Sing	4	nmod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	i-migranti-JU40tNX8YvoReYwFBem0NL	i-migranti-JU40tNX8YvoReYwFBem0NL	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	pagina.html	pagina.html	NOUN	S	Number=Sing	9	nmod	_	_
+12	…	…	PUNCT	FF	_	1	punct	_	_
+13	Anche	anche	PROPN	SP	_	15	nsubj	_	_
+14	Frontex	Frontex	PROPN	SP	_	13	flat:name	_	_
+15	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	terroristi	terrorista	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+18	tra	tra	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	clandestini....	clandestini....	NOUN	S	_	17	nmod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = Più di qualcuno dovrà rispondere in solido di ciò!
+1	Più	più	ADV	B	_	5	advmod	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obl	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	rispondere	rispondere	VERB	V	VerbForm=Inf	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	solido	solido	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

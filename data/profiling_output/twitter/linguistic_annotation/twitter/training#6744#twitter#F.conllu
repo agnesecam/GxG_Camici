@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Renzi come #Craxi ???!! Ha ragione @bobocraxi ... nemmeno da paragonare.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Renzi	Renzi	PROPN	SP	_	9	nsubj	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	#Craxi	#Craxi	PROPN	SP	_	2	nmod	_	_
+5	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	!!	!!	PUNCT	FF	_	7	punct	_	_
+9	Ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	@bobocraxi	@bobocraxi	ADJ	A	_	10	amod	_	_
+12	...	...	PUNCT	FF	_	9	punct	_	_
+13	nemmeno	nemmeno	ADV	BN	PronType=Neg	15	advmod	_	_
+14	da	da	ADP	E	_	15	mark	_	_
+15	paragonare	paragonare	VERB	V	VerbForm=Inf	9	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Craxi era un gigante della politica.
+1	Craxi	Craxi	PROPN	SP	_	4	nsubj	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gigante	gigante	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	politica	politica	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = @OttoemezzoTW
+1	@OttoemezzoTW	@OttoemezzoTW	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

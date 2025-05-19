@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "MA ANNATEVELA A PIJA' 'N C... mmm me stavate a fa' di' CULO!"
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	MA	ma	PROPN	SP	_	0	root	_	_
+3	ANNATEVELA	ANNATEVELA	PROPN	SP	_	2	flat:name	_	_
+4	A	A	ADP	E	_	5	case	_	_
+5	PIJA'	PIJA'	PROPN	SP	_	2	nmod	_	_
+6	'N	'N	PROPN	SP	_	5	flat:name	_	_
+7	C...	C...	PROPN	SP	_	6	flat:name	_	_
+8	mmm	mmm	X	SW	Foreign=Yes	6	flat:foreign	_	_
+9	me	me	X	SW	Foreign=Yes	8	flat:foreign	_	_
+10	stavate	stavare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	fa	fare	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	'	'	PUNCT	FB	_	12	punct	_	_
+14	di	di	ADP	E	_	16	case	_	SpaceAfter=No
+15	'	'	PUNCT	FB	_	16	punct	_	_
+16	CULO	CULO	PROPN	SP	_	10	obl	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	2	punct	_	_
+
+# sent_id = 2
+# text = #CePostaPerTe
+1	#CePostaPerTe	#CePostaPerTe	ADV	B	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le foto di Notre Dame de Paris al Teatro Politeama Rossetti | Trieste http://www.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	foto	foto	NOUN	S	Gender=Fem	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Notre	Notre	PROPN	SP	_	10	nmod	_	_
+5	Dame	Dame	PROPN	SP	_	4	flat:name	_	_
+6	de	de	ADP	E	_	7	case	_	_
+7	Paris	Paris	PROPN	SP	_	4	nmod	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Teatro	Teatro	PROPN	SP	_	2	nmod	_	_
+11	Politeama	Politeama	PROPN	SP	_	10	flat:name	_	_
+12	Rossetti	Rossetti	PROPN	SP	_	10	flat:name	_	_
+13	|	|	SYM	SYM	_	15	nmod	_	_
+14	Trieste	Trieste	PROPN	SP	_	13	flat:name	_	_
+15	http://www	http://www	NOUN	S	_	10	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = outsidersmusica.it/recensione/Mil ano/notre-dame-de-paris/ … via @outsidersmusica
+1	outsidersmusica.it/recensione/Mil	outsidersmusica.it/recensione/Mil	PROPN	SP	_	0	root	_	_
+2	ano/	ano/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	notre-dame-de-paris	notre-dame-de-paris	NOUN	S	Gender=Fem	6	nmod	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	_
+5	…	…	PUNCT	FF	_	6	punct	_	_
+6	via	via	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+7	@outsidersmusica	@outsidersmusico	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpacesAfter=\n
+

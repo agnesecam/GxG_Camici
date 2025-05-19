@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ZampieriChiara @meb
+1	@ZampieriChiara	@ZampieriChiaro	ADP	E	_	2	case	_	_
+2	@meb	@mebbraio	NOUN	S	Gender=Masc	0	root	_	_
+
+# sent_id = 2
+# text = Mi sono sempre chiesto cosa ci facesse lì con un CV così inconsistente ... non dispero, LO SCOPRIRÒ....
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	sempre	sempre	ADV	B	_	4	advmod	_	_
+4	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	nsubj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+8	lì	lì	ADV	B	_	7	advmod	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	CV	CV	PROPN	SP	_	7	obl	_	_
+12	così	così	ADV	B	_	13	advmod	_	_
+13	inconsistente	inconsistente	ADJ	A	Number=Sing	11	amod	_	_
+14	...	...	PUNCT	FF	_	16	punct	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	dispero	disperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	4	punct	_	_
+18	LO	il	PROPN	SP	_	4	appos	_	_
+19	SCOPRIRÒ...	SCOPRIRÒ...	PROPN	SP	_	18	flat:name	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

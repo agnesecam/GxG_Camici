@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...
+1	..	..	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Egli li conduce al porto tanto sospirato.
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+3	conduce	condurre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	porto	porto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	tanto	tanto	ADV	B	_	8	advmod	_	_
+8	sospirato	sospirato	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #sfondiversibiblici #francescoturco7 #guidasicura #bibbia #paroladiDio pic.twitter.com/KWeibuXpna
+1	#sfondiversibiblici	#sfondiversibiblico	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#francescoturco7	#francescoturco7	NUM	N	NumType=Card	4	nummod	_	_
+3	#guidasicura	#guidasicuro	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	#bibbia	#bibbia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	#paroladiDio	#paroladiDio	PROPN	SP	_	1	nmod	_	_
+6	pic.twitter.com/KWeibuXpna	pic.twitter.com/KWeibuXpna	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

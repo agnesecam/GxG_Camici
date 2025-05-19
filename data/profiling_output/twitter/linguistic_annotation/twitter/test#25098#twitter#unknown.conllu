@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi La gestione degli insegnanti così non va!
+1	@matteorenzi	@matteorenzi	ADP	E	_	3	case	_	_
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	gestione	gestione	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+4-5	degli	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	insegnanti	insegnante	NOUN	S	Number=Plur	3	nmod	_	_
+7	così	così	ADV	B	_	6	advmod	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = La meritocrazia dov 'è?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	meritocrazia	meritocrazia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	dov	dov	NOUN	S	_	2	compound	_	_
+4	'	'	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Sono abilitata è da anni che insegno.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
+2	abilitata	abilitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	obl:agent	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	insegno	insegno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Ora pure il concorso...
+1	Ora	ora	ADV	B	_	4	advmod	_	_
+2	pure	pure	ADV	B	_	4	advmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	concorso...	concorso...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

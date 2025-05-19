@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le canzoni non hanno bisogno di essere spiegate, VOI c' eravate e avete capito tutto, ho visto i vostri milioni di... http:// fb.me/17oauYJxA
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	di	di	ADP	E	_	8	mark	_	_
+7	essere	essere	AUX	VA	VerbForm=Inf	8	aux	_	_
+8	spiegate	spiegare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	VOI	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_
+11	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+12	eravate	eravare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	_
+16	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	obj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	vostri	vostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	_
+23	di...	di.	NOUN	S	_	22	nmod	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	fb.me/17oauYJxA	fb.me/17oauYJxA	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

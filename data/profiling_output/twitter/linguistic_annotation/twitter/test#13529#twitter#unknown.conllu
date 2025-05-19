@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @estrojos @matteorenzi Quello é perché ne ha bloccati parecchi .
+1	@estrojos	@estrojos	NOUN	S	Gender=Masc	0	root	_	_
+2	@matteorenzi	@matteorenzi	ADP	E	_	3	case	_	_
+3	Quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+4	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	perché	perché	ADV	B	_	7	advmod	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+7	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+8	bloccati	bloccare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+9	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

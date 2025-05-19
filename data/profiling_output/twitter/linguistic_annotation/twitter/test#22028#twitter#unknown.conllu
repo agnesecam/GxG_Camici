@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bannerman68 @elisea1976 @AndreaRampinini hanno parlato troppo presto...
+1	@bannerman68	@bannerman68	NUM	N	NumType=Card	3	nummod	_	_
+2	@elisea1976	@elisea1976	NUM	N	NumType=Card	3	nummod	_	_
+3	@AndreaRampinini	@AndreaRampinini	PROPN	SP	_	5	nsubj	_	_
+4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	troppo	troppo	ADV	B	_	7	advmod	_	_
+7	presto..	presto	NOUN	S	_	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Tutto sto casino e stavano perdendo con l'Inter
+1	Tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	sto	stare	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	casino	casino	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	perdendo	perdere	VERB	V	VerbForm=Ger	0	root	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	Inter	Inter	PROPN	SP	_	6	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il video:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	video	video	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = #Brosio , dallo scherzo de #LeIene in tv al #Papa . Un anno fa! - http:// paolobrosio.it/il-video-brosi o-dallo-scherzo-delle-iene-al-papa-un-anno-fa/ …
+1	#Brosio	#Brosio	PROPN	SP	_	0	root	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3-4	dallo	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	scherzo	scherzo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	de	de	ADP	E	_	7	case	_	_
+7	#LeIene	#LeIene	PROPN	SP	_	5	nmod	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	tv	tv	NOUN	S	Gender=Fem	5	nmod	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	#Papa	#Papa	PROPN	SP	_	9	nmod	_	_
+13	.	.	PUNCT	FS	_	1	punct	_	_
+14	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	anno	anno	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+16	fa	fa	ADV	B	_	15	advmod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	15	punct	_	SpacesAfter= 
+18	-	-	PUNCT	FF	_	15	punct	_	_
+19	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	1	punct	_	_
+22	paolobrosio.it/il-video-brosi	paolobrosio.it/il-video-broso	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	_
+23	o-dallo	o-dallo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+24	-	-	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	scherzo	scherzare	NOUN	S	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+26	-delle	-dei	ADJ	A	Gender=Fem|Number=Plur	28	amod	_	SpaceAfter=No
+27	-iene-al-papa-un	-iene-al-papa-uno	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
+28	-anno	-anno	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+29	-	-	PUNCT	FB	_	28	punct	_	SpaceAfter=No
+30	fa	fare	ADV	B	_	28	advmod	_	SpaceAfter=No
+31	/	/	PUNCT	FF	_	28	punct	_	_
+32	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

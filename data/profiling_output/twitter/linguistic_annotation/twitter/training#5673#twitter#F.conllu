@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BrunoMaggi Niente perchè mi sento dentro uno scafandro.
+1	@BrunoMaggi	@BrunoMaggi	ADV	B	_	2	advmod	_	_
+2	Niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	perchè	perché	SCONJ	CS	_	5	mark	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	_
+5	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	dentro	dentro	ADV	B	_	5	advmod	_	_
+7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	scafandro.	scafandro.	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..le regalerò a qualcuna
+1	..le	..le	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+2	regalerò	regalare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	SpacesAfter=\n
+

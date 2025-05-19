@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FmMosca parlo anche per me:
+1	@FmMosca	@FmMosca	ADV	B	_	2	advmod	_	_
+2	parlo	parlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	anche	anche	ADV	B	_	5	advmod	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	obl	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = dovremmo metterci le nostre di "palle" per ottenere dei risultati.
+1	dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	metterci	_	_	_	_	_	_	_	_
+2	metter	mettere	VERB	V	VerbForm=Inf	0	root	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	nostre	nostro	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	palle	palla	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	ottenere	ottenere	VERB	V	VerbForm=Inf	2	advcl	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Dunque?
+1	Dunque	dunque	ADV	B	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Che si fa?
+1	Che	che	SCONJ	CS	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 5
+# text = In pratica...
+1	In	in	ADP	E	_	2	case	_	_
+2	pratica..	pratica..	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 6
+# text = ;)
+1	;	;	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

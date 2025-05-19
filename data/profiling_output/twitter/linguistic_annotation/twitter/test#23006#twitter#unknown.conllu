@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = compagna di classe che mi manda foto di esercizi di inglese perché io glieli corregga dato che domani ha la verifica di recupero
+1	compagna	compagna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	classe	classe	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	manda	mandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+7	foto	foto	NOUN	S	Gender=Fem	6	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	esercizi	esercizio	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	inglese	inglese	NOUN	S	Number=Sing	9	nmod	_	_
+12	perché	perché	SCONJ	CS	_	16	mark	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+14-15	glieli	_	_	_	_	_	_	_	_
+14	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	iobj	_	_
+15	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+16	corregga	correggare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+17	dato	dato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+18	che	che	SCONJ	CS	_	20	mark	_	_
+19	domani	domani	ADV	B	_	20	advmod	_	_
+20	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	verifica	verifica	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
+23	di	di	ADP	E	_	24	case	_	_
+24	recupero	recupero	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	SpacesAfter=\n
+

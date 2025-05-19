@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non vedo l'ora di vedere questo match, potrá succedere di tutto anche se il risultato può sembrare scontato.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	ora	ora	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	vedere	vedere	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	match	match	NOUN	S	Gender=Masc	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	potrá	potrá	PROPN	SP	_	11	nsubj	_	_
+11	succedere	succedere	VERB	V	VerbForm=Inf	2	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obl	_	_
+14	anche	anche	ADV	B	_	19	mark	_	_
+15	se	se	SCONJ	CS	_	14	fixed	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+18	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	sembrare	sembrare	VERB	V	VerbForm=Inf	11	advcl	_	_
+20	scontato	scontare	ADJ	A	Gender=Masc|Number=Sing	19	xcomp	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = iPhone 7:
+1	iPhone	iPhone	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	7	7	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Scrivere su iPhone 7 sei mesi prima della sua presentazione può sembrare un po' prematuro.
+1	Scrivere	scrivere	VERB	V	VerbForm=Inf	13	csubj	_	_
+2	su	su	ADP	E	_	3	case	_	_
+3	iPhone	iPhone	PROPN	SP	_	1	obl	_	_
+4	7	7	NUM	N	NumType=Card	6	nummod	_	_
+5	sei	sei	NUM	N	NumType=Card	6	nummod	_	_
+6	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+7	prima	prima	ADV	B	_	11	case	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	7	fixed	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	presentazione	presentazione	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+12	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	po'	poco	ADV	B	_	16	advmod	_	_
+16	prematuro	prematuro	ADJ	A	Gender=Masc|Number=Sing	13	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 3
+# text = Ma l'annu... http:// lqwi.a.boysofts.com/DH7
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	annu...	annu...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	lqwi.a.boysofts.com/DH7	lqwi.a.boysofts.com/DH7	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

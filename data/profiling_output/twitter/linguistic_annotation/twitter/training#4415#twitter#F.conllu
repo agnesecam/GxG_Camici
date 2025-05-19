@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = nooooooo!!!!
+1	nooooooo	nooooooo	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Astra non doveva morire!!!
+1	Astra	Astra	X	SW	Foreign=Yes	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	doveva	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	morire	morire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Mi piaceva così tanto!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	piaceva	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	così	così	ADV	B	_	2	advmod	_	_
+4	tanto	tanto	ADV	B	_	2	advmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Molto più di Alura!!!
+1	Molto	molto	ADV	B	_	2	advmod	_	_
+2	più	più	ADV	B	_	4	advmod	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Alura	Alura	PROPN	SP	_	0	root	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 5
+# text = Quella merdina di Non le dovrà pagare tutte!!
+1	Quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	merdina	merdina	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Non	non	PROPN	SP	_	2	nmod	_	_
+5	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+8	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	7	obj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 6
+# text = #Supergirl
+1	#Supergirl	#Supergirl	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

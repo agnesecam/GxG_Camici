@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GiulioMola come hai eravate contenti mercoledì vi verrà di digestione meglio tacere anche se ci fossero 50 errori arbitrali pro juve
+1	@GiulioMola	@GiulioMolare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	SCONJ	CS	_	4	mark	_	_
+3	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	eravate	eravare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	_
+5	contenti	contento	ADJ	A	Number=Plur	6	amod	_	_
+6	mercoledì	mercoledì	NOUN	S	Gender=Masc	8	nsubj	_	_
+7	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	8	iobj	_	_
+8	verrà	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	digestione	digestione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+11	meglio	meglio	ADV	B	_	8	advmod	_	_
+12	tacere	tacere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+13	anche	anche	ADV	B	_	16	mark	_	_
+14	se	se	SCONJ	CS	_	13	fixed	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+17	50	50	NUM	N	NumType=Card	18	nummod	_	_
+18	errori	errore	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+19	arbitrali	arbitrale	ADJ	A	Number=Plur	18	amod	_	_
+20	pro	pro	X	SW	Foreign=Yes	18	compound	_	_
+21	juve	juvo	X	SW	Foreign=Yes	20	flat:foreign	_	SpacesAfter=\n
+

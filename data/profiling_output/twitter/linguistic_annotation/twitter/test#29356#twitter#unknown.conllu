@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ai post/tweet sulle vere donne è preferibile la battuta:
+1-2	Ai	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	4	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	post/	post/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	tweet	tweet	NOUN	S	Gender=Masc	10	obl	_	_
+5-6	sulle	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	vere	vero	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+8	donne	donna	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	preferibile	preferibile	ADJ	A	Number=Sing	0	root	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	battuta	battuta	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	10	punct	_	_
+
+# sent_id = 2
+# text = "l'8 marzo il 9 non m'arzo".
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	8	8	NUM	N	NumType=Card	0	root	_	_
+4	marzo	marzo	NOUN	S	Gender=Masc|Number=Sing	3	flat	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	9	9	NUM	N	NumType=Card	3	flat	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	m'	m'	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+9	arzo	arzo	NOUN	S	Gender=Masc|Number=Sing	6	flat	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Non fa ridere, ma almeno non avrete scritto idiozie.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ridere	ridere	VERB	V	VerbForm=Inf	2	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	9	punct	_	_
+5	ma	ma	CCONJ	CC	_	9	cc	_	_
+6	almeno	almeno	ADV	B	_	9	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+10	idiozie	idiozia	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

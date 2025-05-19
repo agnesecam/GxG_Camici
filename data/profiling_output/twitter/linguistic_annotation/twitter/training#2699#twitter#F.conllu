@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dite che Guardate #DirtyDancing per farvi sembrare romantiche e siete più troie di #cicciolina !!
+1	Dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	Guardate	Guardare	PROPN	SP	_	1	obj	_	_
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	DirtyDancing	DirtyDancing	PROPN	SP	_	3	flat:name	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7-8	farvi	_	_	_	_	_	_	_	_
+7	far	fare	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	7	iobj	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10	romantiche	romantico	ADJ	A	Gender=Fem|Number=Plur	9	xcomp	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	troie	troio	NOUN	S	Gender=Fem|Number=Plur	7	conj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	#cicciolina	#cicciolina	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Poraccitudine #AlzateviInPiedi
+1	#Poraccitudine	#Poraccitudine	PROPN	SP	_	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	AlzateviInPiedi	AlzateviInPiedio	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

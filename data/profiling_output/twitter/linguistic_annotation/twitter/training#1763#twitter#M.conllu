@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Graziano Delrio è un esempio limpido di impegno disinteressato e competente di servizio alle nostre comunità.Ce... http:// fb.me/4PlhjXcCk
+1	Graziano	Graziano	PROPN	SP	_	5	nsubj	_	_
+2	Delrio	Delrio	PROPN	SP	_	1	flat:name	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	limpido	limpido	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	impegno	impegno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	disinteressato	disinteressato	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	competente	competente	ADJ	A	Number=Sing	9	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	servizio	servizio	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+14-15	alle	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	17	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	comunità	comunità	NOUN	S	Gender=Fem	11	obl	_	SpaceAfter=No
+18	.Ce...	.Ce...	PROPN	SP	_	17	nmod	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	17	punct	_	_
+22	fb.me/4PlhjXcCk	fb.me/4PlhjXcCk	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = LIVE from Centrale Telecom dove sono collegate le nostre care linee ADSL pic.twitter.com/McSLgLPij1
+1	LIVE	Live	NOUN	S	Gender=Masc	0	root	_	_
+2	from	from	NOUN	S	Gender=Masc	1	compound	_	_
+3	Centrale	centrale	PROPN	SP	_	2	nmod	_	_
+4	Telecom	Telecom	PROPN	SP	_	3	flat:name	_	_
+5	dove	dove	ADV	B	_	7	advmod	_	_
+6	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	collegate	collegare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+10	care	caro	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+11	linee	linea	NOUN	S	Gender=Fem|Number=Plur	7	nsubj:pass	_	_
+12	ADSL	ADSL	PROPN	SP	_	11	nmod	_	_
+13	pic.twitter.com/McSLgLPij1	pic.twitter.com/McSLgLPij1	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

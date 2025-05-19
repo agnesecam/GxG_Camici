@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ovviamente è di parte, ma informarsi e riflettere su una questione così contorta non farà male.
+1	Ovviamente	ovviamente	ADV	B	_	4	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	parte	parte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7-8	informarsi	_	_	_	_	_	_	_	_
+7	informar	informare	VERB	V	VerbForm=Inf	4	conj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	riflettere	riflettere	VERB	V	VerbForm=Inf	7	conj	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	questione	questione	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	così	così	ADV	B	_	15	advmod	_	_
+15	contorta	contorto	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	advcl	_	_
+18	male	male	ADV	B	_	17	advmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2diceby5u
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2diceby5u	fb.me/2diceby5u	X	SW	Foreign=Yes	0	root	_	SpacesAfter=\n
+

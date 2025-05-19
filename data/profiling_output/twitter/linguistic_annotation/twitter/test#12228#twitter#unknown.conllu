@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = <<Il mare:
+1	<<Il	<<Il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mare	mare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = io gli correvo dietro e lui correva dietro a me - scrive Jacques Prévert - tutti e due facevamo quello...
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	correvo	correvo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	dietro	dietro	ADV	B	_	3	advmod	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	correva	correvare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+8	dietro	dietro	ADV	B	_	7	advmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	obl	_	_
+11	-	-	PUNCT	FB	_	12	punct	_	_
+12	scrive	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+13	Jacques	Jacques	PROPN	SP	_	12	nsubj	_	_
+14	Prévert	Prévert	PROPN	SP	_	13	flat:name	_	_
+15	-	-	PUNCT	FF	_	12	punct	_	_
+16	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	nsubj	_	_
+17	e	e	CCONJ	CC	_	19	cc	_	_
+18	due	due	NUM	N	NumType=Card	19	nummod	_	_
+19	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	conj	_	_
+20	quello...	quello.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/86MZE4nwx
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/86MZE4nwx	fb.me/86MZE4nwx	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

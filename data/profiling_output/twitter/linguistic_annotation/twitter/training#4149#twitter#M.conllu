@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #isoladeifamosi la piú contenta è la Marcuzzi cosi non Dovrà più confrontarsi con la regina dell'Isola
+1	#isoladeifamosi	#isoladeifamoso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	piú	piú	PROPN	SP	_	1	nsubj:pass	_	_
+4	contenta	contento	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Marcuzzi	Marcuzzi	PROPN	SP	_	12	nsubj	_	_
+8	cosi	coso	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	Dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12-13	confrontarsi	_	_	_	_	_	_	_	_
+12	confrontar	confrontarre	VERB	V	VerbForm=Inf	0	root	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	regina	regina	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+17-18	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+17	di	di	ADP	E	_	19	case	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
+19	Isola	Isola	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

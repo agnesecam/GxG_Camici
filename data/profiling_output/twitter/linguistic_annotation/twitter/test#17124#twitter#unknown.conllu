@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @officialmaz @ClaMarchisio8
+1	@officialmaz	@officialmaz	NOUN	S	Gender=Masc	0	root	_	_
+2	@ClaMarchisio8	@ClaMarchisio8	PROPN	SP	_	1	nmod	_	_
+
+# sent_id = 2
+# text = Se foste obbiettivi non fareste le telecronache FAZIOSE!Ha ragione Marchisio siete sempre a senso unico.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	foste	fosta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+3	obbiettivi	obbiettivo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	fareste	faredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	telecronache	telecronaca	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	FAZIOSE!Ha	FAZIOSE!Ha	PROPN	SP	_	7	nmod	_	_
+9	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+10	Marchisio	Marchisio	PROPN	SP	_	9	nmod	_	_
+11	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	cop	_	_
+12	sempre	sempre	ADV	B	_	14	advmod	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	senso	senso	NOUN	S	Gender=Masc|Number=Sing	5	advcl	_	_
+15	unico	unico	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @ADTacitus non gliela da+?
+1	@ADTacitus	@ADTacitus	PROPN	SP	_	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3-4	gliela	_	_	_	_	_	_	_	_
+3	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	da+	da+	SYM	SYM	_	1	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

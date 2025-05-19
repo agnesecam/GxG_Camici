@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rischio Vesuvio, allarme dal Canada:
+1	Rischio	rischio	PROPN	SP	_	0	root	_	_
+2	Vesuvio	Vesuvio	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	allarme	allarme	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5-6	dal	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Canada	Canada	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Non avrete il tempo di scappare:l'Osservatorio agisca" #NapoliGenoa http:// terra2000.altervista.org/rischio-vesuvi o-allarme-dal-canada-non-avrete-tempo-scappare-losservatorio-agisca/ …
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	scappare:l'	scappare:lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	Osservatorio	Osservatorio	PROPN	SP	_	5	nmod	_	_
+9	agisca	agire	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	11	punct	_	_
+11	#NapoliGenoa	#NapoliGenoa	PROPN	SP	_	8	nmod	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	terra2000.altervista.org/rischio-vesuvi	terra2000.altervista.org/rischio-vesuvo	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+16	o	o	CCONJ	CC	_	19	cc	_	SpaceAfter=No
+17	-allarme-dal	-allarme-dal	ADJ	A	_	19	amod	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	canada-non	canada-non	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+21	avrete-tempo-scappare-losservatorio	avrete-tempo-scappare-losservatorio	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+22	-agisca	-agisco	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	11	punct	_	_
+24	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

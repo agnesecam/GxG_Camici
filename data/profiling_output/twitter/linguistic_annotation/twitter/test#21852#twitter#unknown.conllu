@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marcocobianchi @ilVincia boh.
+1	@marcocobianchi	@marcocobianco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@ilVincia	@ilVincia	PROPN	SP	_	0	root	_	_
+3	boh	boh	NOUN	S	_	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Marino sarà anche tonto ma a quanto pare i suoi nemici stavano dalla parte del marcio.
+1	Marino	Marino	PROPN	SP	_	4	nsubj	_	_
+2	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	tonto	tontare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	ma	ma	CCONJ	CC	_	12	cc	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	12	obl	_	_
+8	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	nemici	nemici	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+12	stavano	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+13-14	dalla	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	marcio	marcio	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

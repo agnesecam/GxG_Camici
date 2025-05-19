@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = < All'inizio ci siamo toccati come se fossimo degli estranei.
+1	<	<	SYM	SYM	_	7	obl	_	_
+2-3	All'	_	_	_	_	_	_	_	SpaceAfter=No
+2	A	a	ADP	E	_	4	case	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+6	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	toccati	toccare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+8	come	come	ADV	B	_	13	advmod	_	_
+9	se	se	SCONJ	CS	_	13	mark	_	_
+10	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+11-12	degli	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	estranei	estraneo	NOUN	S	Gender=Masc|Number=Plur	7	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Poi ci siamo toccati come ci hanno insegnato a... http:// fb.me/7kT7GC6IF
+1	Poi	poi	ADV	B	_	4	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	toccati	toccare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	come	come	SCONJ	CS	_	8	mark	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	iobj	_	_
+7	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	insegnato	insegnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	a...	a.	NOUN	S	_	8	obj	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	fb.me/7kT7GC6IF	fb.me/7kT7GC6IF	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PMO_W @squopellediluna Ovvio ma loro, per fartelo sembrare comunque giusto, te lo chiameranno sempre prezzo del progresso...suona meglio.
+1	@PMO_W	@PMO_W	PROPN	SP	_	15	nsubj	_	_
+2	@squopellediluna	@squopellediluno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Ovvio	ovvio	PROPN	SP	_	1	nmod	_	_
+4	ma	ma	CCONJ	CC	_	5	cc	_	_
+5	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	fartelo	fartelo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	15	advcl	_	_
+10	comunque	comunque	ADV	B	_	9	advmod	_	_
+11	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	expl	_	_
+14	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	chiameranno	chiamare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+16	sempre	sempre	ADV	B	_	15	advmod	_	_
+17	prezzo	prezzo	NOUN	S	Gender=Masc|Number=Sing	15	xcomp	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	progresso...suona	progresso...suona	NOUN	S	Gender=Fem	17	nmod	_	_
+21	meglio.	meglio.	NOUN	S	Gender=Masc	15	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ;)
+1	;	;	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

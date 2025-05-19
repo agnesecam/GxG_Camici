@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche dalla velocita´ e certezza della pena..
+1	Anche	anche	ADV	B	_	4	advmod	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	velocita´	velocita´	PROPN	SP	_	0	root	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	certezza	certezza	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pena..	pena..	NOUN	S	_	6	nmod	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/MariluOliva/st atus/719198632927477762 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/MariluOliva/st	twitter.com/MariluOliva/st	PROPN	SP	_	0	root	_	_
+5	atus/719198632927477762	atus/719198632927477762	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

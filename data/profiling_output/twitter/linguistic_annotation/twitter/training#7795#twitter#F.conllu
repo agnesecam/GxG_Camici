@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima sbraitano ma al dunque #m5s assenti in senato durante l'informativa di @PaoloGentiloni su #Regeni #vergogna https:// twitter.com/francescorusso /status/717291809639120896 …
+1	Prima	prima	ADV	B	_	2	advmod	_	_
+2	sbraitano	sbraitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ma	ma	CCONJ	CC	_	7	cc	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	dunque	dunque	ADV	B	_	7	advmod	_	_
+7	#m5s	#m5s	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+8	assenti	assente	ADJ	A	Number=Plur	7	amod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	senato	senato	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	durante	durante	ADP	E	_	13	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	informativa	informativa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	@PaoloGentiloni	@PaoloGentiloni	PROPN	SP	_	13	nmod	_	_
+16	su	su	ADP	E	_	17	case	_	_
+17	#Regeni	#Regeno	PROPN	SP	_	13	nmod	_	_
+18	#vergogna	#vergogna	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+19	https:	https:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	_
+22	twitter.com/francescorusso	twitter.com/francescorusso	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+23	/status/717291809639120896	/status/717291809639120896	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

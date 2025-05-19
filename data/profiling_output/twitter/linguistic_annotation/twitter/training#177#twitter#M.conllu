@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 11aprile SCIOPERO #FondazioneSantaLucia e PRESIDIO PERMANENTE dalle 11 alle 15 ingressi v.Ardeatina 306 e 354 perchè NOI #NonStiamoZitti
+1	11aprile	11aprile	ADJ	A	Number=Sing	2	amod	_	_
+2	SCIOPERO	sciopero	PROPN	SP	_	0	root	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	FondazioneSantaLucia	FondazioneSantaLucia	PROPN	SP	_	2	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	PRESIDIO	presidio	PROPN	SP	_	4	conj	_	_
+7	PERMANENTE	permanente	PROPN	SP	_	6	flat:name	_	_
+8-9	dalle	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	11	11	NUM	N	NumType=Card	2	nmod	_	_
+11-12	alle	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	15	15	NUM	N	NumType=Card	14	nummod	_	_
+14	ingressi	ingresso	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+15	v.Ardeatina	v.Ardeatina	PROPN	SP	_	14	nmod	_	_
+16	306	306	NUM	N	NumType=Card	21	case	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	354	354	NUM	N	NumType=Card	16	fixed	_	_
+19	perchè	poiperché	SCONJ	CS	_	21	cc	_	_
+20	NOI	No	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	#NonStiamoZitti	#NonStiamoZitto	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

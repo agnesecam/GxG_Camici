@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @28gradi @abusivissimo perche' speri te ne lasci qualcuna ??
+1	@28gradi	@28grado	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	@abusivissimo	@abusivissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	1	amod	_	_
+3	perche	perco	ADV	B	_	8	advmod	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	8	punct	_	_
+5	speri	sperare	ADV	B	_	8	advmod	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	expl	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+8	lasci	lascere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	obj	_	_
+10	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

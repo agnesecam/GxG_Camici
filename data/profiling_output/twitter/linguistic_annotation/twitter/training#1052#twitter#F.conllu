@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Poi alla fine gli chiede anche se conosceva Benji Mascolo e sorrideva in una maniera.
+1	Poi	poi	ADV	B	_	6	advmod	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fine	fine	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+5	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+6	chiede	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	anche	anche	ADV	B	_	9	mark	_	_
+8	se	se	SCONJ	CS	_	7	fixed	_	_
+9	conosceva	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+10	Benji	Benji	PROPN	SP	_	9	obj	_	_
+11	Mascolo	Mascolo	PROPN	SP	_	10	flat:name	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	sorrideva	sorridere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	maniera.	maniera.	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = poi aveva i denti illuminati dalla luce.
+1	poi	poi	ADV	B	_	2	advmod	_	_
+2	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	denti	dente	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	illuminati	illuminare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	luce	luce	NOUN	S	Gender=Fem|Number=Sing	5	obl:agent	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

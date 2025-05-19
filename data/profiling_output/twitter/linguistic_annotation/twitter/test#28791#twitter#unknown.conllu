@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cristina Buccino:
+1	Cristina	Cristina	PROPN	SP	_	0	root	_	_
+2	Buccino	Buccino	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Farò un reality con le mie sorelle" -Foto:
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	reality	reality	NOUN	S	Gender=Masc	2	obj	_	_
+5	con	con	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	sorelle	sorella	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	-Foto	-Foto	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = ROMA - ?
+1	ROMA	Roma	PROPN	SP	_	0	root	_	_
+2	-	-	PUNCT	FF	_	1	punct	_	SpacesAfter= 
+3	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Ognuna di noi fa qualcosa nella vita, qu... http:// bit.ly/1UqQrqp
+1	Ognuna	ognuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	4	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	nmod	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	obj	_	_
+6-7	nella	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	qu...	qu.	PUNCT	FS	_	4	punct	_	_
+11	http:	http:	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	4	punct	_	_
+14	bit.ly/1UqQrqp	bit.ly/1UqQrqp	PROPN	SP	_	4	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo giocato con 1/3 di questa intensità in campionato avremmo almeno 10 punti in più!
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	1	1	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	/3	/3	NUM	N	NumType=Card	8	nummod	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	intensità	intensità	NOUN	S	Gender=Fem	2	obl	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+11	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
+12	almeno	almeno	ADV	B	_	13	advmod	_	_
+13	10	10	NUM	N	NumType=Card	14	nummod	_	_
+14	punti	punto	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	più	più	ADV	B	_	14	advmod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #amala #interjuventus #CoppaItalia
+1	#amala	#amalare	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
+2	#interjuventus	#interjuventus	NOUN	S	Gender=Fem	0	root	_	_
+3	#CoppaItalia	#CoppaItalia	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

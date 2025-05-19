@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = egli chiè https:// twitter.com/welikechopin/s tatus/710595312319143940 …
+1	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	chiè	chiere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	twitter.com/welikechopin/s	twitter.com/welikechopin/s	NOUN	S	Gender=Fem	2	obj	_	_
+7	tatus/710595312319143940	tatus/710595312319143940	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

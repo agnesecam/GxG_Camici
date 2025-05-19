@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AugustoMinzolin giusto stesso discorso sullo spread se diminuì non fu per la politica fiscale di Monti, bensì per la p monetaria di Draghi
+1	@AugustoMinzolin	@AugustoMinzolino	ADP	E	_	2	case	_	_
+2	giusto	giusto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+3	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	discorso	discorso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	sullo	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	spread	spread	NOUN	S	Gender=Masc	4	obl	_	_
+8	se	se	SCONJ	CS	_	9	mark	_	_
+9	diminuì	diminuì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	obj	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	politica	politica	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+15	fiscale	fiscale	ADJ	A	Number=Sing	14	amod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	Monti	Monti	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	22	punct	_	_
+19	bensì	bensì	CCONJ	CC	_	22	cc	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	p	p	NOUN	S	Gender=Fem	14	conj	_	_
+23	monetaria	monetario	ADJ	A	Gender=Fem|Number=Sing	22	amod	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	Draghi	Draghi	PROPN	SP	_	22	nmod	_	SpacesAfter=\n
+

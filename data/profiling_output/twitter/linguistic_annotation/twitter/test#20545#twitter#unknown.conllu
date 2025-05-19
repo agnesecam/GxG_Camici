@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Povero jannone che gli hanno tolto un punticino dalla patente.
+1	Povero	povero	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	jannone	jannone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+4	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+5	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	tolto	togliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	punticino	punticino	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	patente.	patente.	NOUN	S	_	8	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = So sicuro che il dovi glielo metterebbe in fronte!
+1	So	sapere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dovi	dovo	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+6-7	glielo	_	_	_	_	_	_	_	_
+6	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	metterebbe	mettere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	fronte	fronte	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

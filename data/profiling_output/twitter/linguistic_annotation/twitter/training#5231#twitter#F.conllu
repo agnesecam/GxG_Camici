@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuna sveglia a cui scrivere ?
+1	Qualcuna	Qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	sveglia	sveglio	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	cui	cui	PRON	PR	PronType=Rel	5	obl	_	_
+5	scrivere	scrivere	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = - Nuu http:// kiw.im/158mjo4HWAh
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Nuu	Nuu	PROPN	SP	_	0	root	_	_
+3	http:	http:	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	kiw.im/158mjo4HWAh	kiw.im/158mjo4HWAh	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

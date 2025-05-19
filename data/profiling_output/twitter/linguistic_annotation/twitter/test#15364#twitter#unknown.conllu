@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SalvoPreiato @JJuventusGirl @CI_OfficialPage Beh Zazzaroni è proprio andato!
+1	@SalvoPreiato	@SalvoPreiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	@JJuventusGirl	@JJuventusGirl	PROPN	SP	_	1	nsubj:pass	_	_
+3	@CI_OfficialPage	@CI_OfficialPage	PROPN	SP	_	2	flat:name	_	_
+4	Beh	beh	PROPN	SP	_	2	flat:name	_	_
+5	Zazzaroni	Zazzaroni	PROPN	SP	_	2	flat:name	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	proprio	proprio	ADV	B	_	8	advmod	_	_
+8	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!	!	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Si facesse vedere che mi sa che l'alzheimer incombe
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	alzheimer	alzheimer	NOUN	S	Gender=Masc	10	nsubj	_	_
+10	incombe	incombere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	SpacesAfter=\n
+

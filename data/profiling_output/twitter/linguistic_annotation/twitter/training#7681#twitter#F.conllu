@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CarlottaRech perché il 9 sono nata io dunque è un giorno d'importanza globale carly
+1	@CarlottaRech	@CarlottaRech	ADV	B	_	11	advmod	_	_
+2	perché	perché	SCONJ	CS	_	6	mark	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	9	9	NUM	N	NumType=Card	6	nsubj	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	nata	nascere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+8	dunque	dunque	ADV	B	_	6	advmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+12	d'	di	ADP	E	_	13	case	_	SpaceAfter=No
+13	importanza	importanza	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	globale	globale	ADJ	A	Number=Sing	13	amod	_	_
+15	carly	carly	NOUN	S	Gender=Fem	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dan Bilzerian vince la prop bet:
+1	Dan	Dan	PROPN	SP	_	3	nsubj	_	_
+2	Bilzerian	Bilzerian	PROPN	SP	_	1	flat:name	_	_
+3	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	prop	prop	ADJ	A	_	6	amod	_	_
+6	bet	bet	NOUN	S	_	3	obj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = Bill Perkins dovrà pagare 600.000 dollari http://www.
+1	Bill	Bill	PROPN	SP	_	4	nsubj	_	_
+2	Perkins	Perkins	PROPN	SP	_	1	flat:name	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+5	600.000	600.000	NUM	N	NumType=Card	6	nummod	_	_
+6	dollari	dollaro	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	http://www	http://www	NOUN	S	_	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = pokerfirma.it/?p=43020
+1	pokerfirma.it/?p=43020	pokerfirma.it/?p=43020	NUM	N	NumType=Range	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @miclerario Il saggio invece è una persona che si pone dei dubbi, tanto da sembrare quello che sa meno di tutti
+1	@miclerario	@miclerario	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	saggio	saggio	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	invece	invece	ADV	B	_	1	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	persona	persona	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	pone	porre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	7	punct	_	_
+15	tanto	tanto	ADV	B	_	17	advmod	_	_
+16	da	da	ADP	E	_	17	mark	_	_
+17	sembrare	sembrare	VERB	V	VerbForm=Inf	7	acl	_	_
+18	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	17	obj	_	_
+19	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+20	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	meno	meno	ADV	B	_	20	advmod	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	20	obl	_	SpacesAfter=\n
+

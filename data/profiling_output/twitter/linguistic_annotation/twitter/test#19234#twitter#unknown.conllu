@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CAF>Roma in arrivo a lidocentro alle 7:41 #labuonaremodulada oggi 4 CAF consecutivi : complotto spagnolo?
+1	CAF>Roma	CAF>Romare	ADV	B	_	3	advmod	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	arrivo	arrivo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	lidocentro	lidocentro	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	7:41	7:41	NUM	N	NumType=Card	9	nummod	_	_
+9	#labuonaremodulada	#labuonaremodulada	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+10	oggi	oggi	ADV	B	_	12	advmod	_	_
+11	4	4	NUM	N	NumType=Card	12	nummod	_	_
+12	CAF	CAF	PROPN	SP	_	3	nmod	_	_
+13	consecutivi	consecutivo	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+14	:	:	PUNCT	FC	_	12	punct	_	_
+15	complotto	complotto	NOUN	S	Gender=Masc|Number=Sing	12	appos	_	_
+16	spagnolo	spagnolo	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @TreninoBlu @iltrenoromalido
+1	@TreninoBlu	i@TreninoBl	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@iltrenoromalido	@iltrenoromalido	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

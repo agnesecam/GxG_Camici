@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sii uomo ,affronta i problemi.Non è #camminando intorno ad essi che li risolvi o compiendo chissà quale impresa.Uomo pic.twitter.com/S8umgpf5bQ
+1	Sii	essere	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	_
+2	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	affronta	affrontare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	problemi.Non	problemi.Non	PROPN	SP	_	4	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	#camminando	#camminare	VERB	V	VerbForm=Ger	0	root	_	_
+9	intorno	intorno	ADV	B	_	11	case	_	_
+10	ad	a	ADP	E	_	9	fixed	_	_
+11	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obl	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	risolvi	risolvere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+15	o	o	CCONJ	CC	_	16	cc	_	_
+16	compiendo	compiere	VERB	V	VerbForm=Ger	14	conj	_	_
+17	chissà	chissà	ADV	B	_	16	advmod	_	_
+18	quale	quale	DET	DQ	Number=Sing|PronType=Int	19	det	_	_
+19	impresa.Uomo	impresa.Uomo	PROPN	SP	_	16	obj	_	_
+20	pic.twitter.com/S8umgpf5bQ	pic.twitter.com/S8umgpf5bQ	PROPN	SP	_	19	flat:name	_	SpacesAfter=\n
+

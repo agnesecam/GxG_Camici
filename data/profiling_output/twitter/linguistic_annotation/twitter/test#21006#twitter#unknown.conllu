@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = i cittadini creano il valore della moneta Draghi la stampa espropriandoli poi gliela presta indebitandoli caricando costo di denaro di 200%
+1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	creano	creare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	valore	valore	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	moneta	moneta	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	Draghi	Draghi	PROPN	SP	_	8	nmod	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	stampa	stampa	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+12-13	espropriandoli	_	_	_	_	_	_	_	_
+12	espropriando	espropriare	VERB	V	VerbForm=Ger	3	advcl	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+14	poi	poi	ADV	B	_	12	advmod	_	_
+15-16	gliela	_	_	_	_	_	_	_	_
+15	glie	gliere	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	iobj	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	presta	presta	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+18-19	indebitandoli	_	_	_	_	_	_	_	_
+18	indebitando	indebitare	VERB	V	VerbForm=Ger	12	advcl	_	_
+19	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+20	caricando	caricare	VERB	V	VerbForm=Ger	18	advcl	_	_
+21	costo	costo	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	denaro	denaro	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
+24	di	di	ADP	E	_	26	case	_	_
+25	200	200	NUM	N	NumType=Card	26	nummod	_	SpaceAfter=No
+26	%	%	SYM	SYM	_	23	nmod	_	SpacesAfter=\n
+

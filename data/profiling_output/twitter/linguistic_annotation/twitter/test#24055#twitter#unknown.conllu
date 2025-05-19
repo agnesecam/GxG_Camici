@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @smovrhalder per cortesia puoi comprarmi dell'uva?
+1	@smovrhalder	@smovrhaldere	NOUN	S	_	5	obl	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	puoi	puo	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	comprarmi	arma|comprarme	ADJ	A	Number=Plur	0	root	_	_
+6-7	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	di	di	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	uva	uva	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Non ne posso fare a meno, sono al verde in questo momento https:// twitter.com/niallsdistance /status/714788397840265218 …
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	11	advcl	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	meno	meno	ADV	B	_	4	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	verde	verde	ADJ	A	Number=Sing	0	root	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+14	momento	momento	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	11	punct	_	_
+18	twitter.com/niallsdistance	twitter.com/niallsdistance	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
+19	/status/714788397840265218	/status/714788397840265218	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pretty sure che Iron Man e Cap li avranno messi solo in due uova in tutta Italia
+1	Pretty	Pretty	CCONJ	CC	_	10	cc	_	_
+2	sure	sure	ADV	B	_	10	mark	_	_
+3	che	che	SCONJ	CS	_	2	fixed	_	_
+4	Iron	Iron	PROPN	SP	_	10	nsubj	_	_
+5	Man	man	PROPN	SP	_	4	flat:name	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	Cap	Cap	PROPN	SP	_	4	conj	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+9	avranno	avere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+11	solo	solo	ADV	B	_	14	advmod	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	due	due	NUM	N	NumType=Card	14	nummod	_	_
+14	uova	uovo	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	17	det	_	_
+17	Italia	Italia	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

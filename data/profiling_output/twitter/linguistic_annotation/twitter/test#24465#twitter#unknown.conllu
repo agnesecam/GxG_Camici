@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quando accetterete che a liam non gliene frega un cazzo se voi gli dite che cheryl sembra sua madre.
+1	quando	quando	SCONJ	CS	_	2	mark	_	_
+2	accetterete	accetteere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	liam	liam	NOUN	S	_	8	obl	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	gliene	glenere	SCONJ	CS	_	8	mark	_	_
+8	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	se	se	SCONJ	CS	_	14	mark	_	_
+12	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_
+13	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	_
+14	dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+15	che	che	SCONJ	CS	_	17	mark	_	_
+16	cheryl	cheryl	PRON	PQ	Number=Sing|PronType=Int	17	nsubj	_	_
+17	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+18	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	madre	madre	NOUN	S	Gender=Fem|Number=Sing	17	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ma liam.
+1	ma	ma	CCONJ	CC	_	2	cc	_	_
+2	liam	liam	X	X	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

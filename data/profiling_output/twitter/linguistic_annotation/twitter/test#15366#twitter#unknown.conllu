@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tutticonvocati @fabriziobocca1
+1	@tutticonvocati	@tutticonvocare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	@fabriziobocca1	@fabriziobocca1	NUM	N	NumType=Card	1	nummod	_	_
+
+# sent_id = 2
+# text = È vero,ma basterebbe che ci facesse divertire un po', come in autunno
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	vero,ma	vero,mo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	basterebbe	bastare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+6	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+7	divertire	divertire	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	po'	poco	ADV	B	_	7	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	7	punct	_	_
+11	come	come	ADP	E	_	13	case	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	autunno	autunno	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpacesAfter=\n
+

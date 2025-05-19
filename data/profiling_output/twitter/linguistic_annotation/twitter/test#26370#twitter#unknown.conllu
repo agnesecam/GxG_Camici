@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo significa che tra poco avremo foto Freebatch dal set e quindi sarò molto happy
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	tra	tra	ADP	E	_	5	case	_	_
+5	poco	poco	ADV	B	_	6	advmod	_	_
+6	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+7	foto	fotare	NOUN	S	Gender=Fem	6	obj	_	_
+8	Freebatch	Freebatch	PROPN	SP	_	7	flat:name	_	_
+9-10	dal	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	set	set	NOUN	S	Gender=Masc	7	nmod	_	_
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	quindi	quindi	ADV	B	_	16	advmod	_	_
+14	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	16	cop	_	_
+15	molto	molto	ADV	B	_	16	advmod	_	_
+16	happy	happy	CCONJ	CC	_	2	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ricordiamo inoltre che il giorno di PASQUA la pasticceria chiuderá alle ore 12:30, mentre il giorno di PASQUETTA... http:// fb.me/7R8UTh9dB
+1	Ricordiamo	ricordare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	inoltre	inoltre	ADV	B	_	1	advmod	_	_
+3	che	che	SCONJ	CS	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	PASQUA	PASQUA	PROPN	SP	_	5	nmod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pasticceria	pasticcerio	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	chiuderá	chiuderá	PROPN	SP	_	9	nmod	_	_
+11-12	alle	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	ore	ora	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+14	12:30	12:30	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	5	punct	_	_
+16	mentre	mentre	SCONJ	CS	_	18	advmod	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	PASQUETTA...	PASQUETTA...	PROPN	SP	_	18	nmod	_	_
+21	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	fb.me/7R8UTh9dB	fb.me/7R8UTh9dB	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sulla discussione con Lorenzo, "Io a Misano fui punito, lui nemmeno ha chiesto scusa" http:// fb.me/7Tpy3s7cb
+1-2	Sulla	_	_	_	_	_	_	_	_
+1	Su	su	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	discussione	discussione	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	Lorenzo	Lorenzo	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	Misano	Misano	PROPN	SP	_	12	obl	_	_
+11	fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	aux	_	_
+12	punito	punire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	17	punct	_	_
+14	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+15	nemmeno	nemmeno	ADV	BN	PronType=Neg	17	advmod	_	_
+16	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	_
+18	scusa	scusare	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	20	punct	_	_
+20	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	_
+23	fb.me/7Tpy3s7cb	fb.me/7Tpy3s7cb	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

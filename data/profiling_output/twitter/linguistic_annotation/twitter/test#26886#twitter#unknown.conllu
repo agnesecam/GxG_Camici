@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...siiii...dovrebbe essere ....
+1	...siiii...dovrebbe	...siiii...dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	essere	essere	AUX	V	VerbForm=Inf	0	root	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ahimé non sempre; mi dispiace quando accade pic.twitter.com/qqMSi1JEv8
+1	ahimé	ahimé	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	sempre	sempre	ADV	B	_	6	advmod	_	SpaceAfter=No
+4	;	;	PUNCT	FC	_	3	punct	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	quando	quando	SCONJ	CS	_	8	mark	_	_
+8	accade	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+9	pic.twitter.com/qqMSi1JEv8	pic.twitter.com/qqMSi1JEv8	PROPN	SP	_	8	nsubj	_	SpacesAfter=\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ne facessi una giusta, non sarebbe male.
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+2	facessi	facettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	giusta	giusta	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	male	male	ADV	B	_	2	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

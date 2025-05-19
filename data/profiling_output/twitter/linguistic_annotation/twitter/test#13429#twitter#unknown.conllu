@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PasqualeDeFalc1 ma figurati ne conosco parecchi di questi @katnip74
+1	@PasqualeDeFalc1	@PasqualeDeFalc1	NUM	N	NumType=Card	3	nummod	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	figurati	figurare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+5	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+9	@katnip74	@katnip74	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @orgiapetro nessuna offesa ma il gelato artigianale si fa col latte, punto aha
+1	@orgiapetro	@orgiapetro	ADP	E	_	3	case	_	_
+2	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	offesa	offesa	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+4	ma	ma	CCONJ	CC	_	9	cc	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	gelato	gelato	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	artigianale	artigianale	ADJ	A	Number=Sing	6	amod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+9	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+10-11	col	_	_	_	_	_	_	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	latte	latte	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	punto	punto	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+15	aha	aavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

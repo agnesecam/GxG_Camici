@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se Zapata vuole migliorare il record dovrà fare i conti con Reina, prima in campo e poi nello spogliatoio.
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	Zapata	Zapata	PROPN	SP	_	4	nsubj	_	_
+3	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	migliorare	migliorare	VERB	V	VerbForm=Inf	8	advcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	record	record	NOUN	S	Gender=Masc	4	obj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	conti	conto	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	con	con	ADP	E	_	12	case	_	_
+12	Reina	Reina	PROPN	SP	_	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	8	punct	_	_
+14	prima	prima	ADV	B	_	16	advmod	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	campo	campo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+17	e	e	CCONJ	CC	_	21	cc	_	_
+18	poi	poi	ADV	B	_	21	advmod	_	_
+19-20	nello	_	_	_	_	_	_	_	_
+19	in	in	ADP	E	_	21	case	_	_
+20	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	spogliatoio	spogliatoio	NOUN	S	Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = #sky #juvecamorrista
+1	#sky	#sky	NOUN	S	Gender=Masc	0	root	_	_
+2	#juvecamorrista	#juvecamorrista	NOUN	S	Number=Sing	1	compound	_	SpacesAfter=\n
+

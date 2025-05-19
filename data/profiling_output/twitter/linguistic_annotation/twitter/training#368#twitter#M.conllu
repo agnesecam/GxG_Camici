@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ce ne avessimo tante donne (e uomini) così, al servizio dello Stato con passione, competenza e sobrietà.
+1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	donne	donna	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+6	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	così	così	ADV	B	_	5	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	servizio	servizio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+15-16	dello	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Stato	stato	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+18	con	con	ADP	E	_	19	case	_	_
+19	passione	passione	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21	competenza	competenza	NOUN	S	Gender=Fem|Number=Sing	19	conj	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	sobrietà	sobrietà	NOUN	S	Gender=Fem	19	conj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Oggi su... http:// fb.me/7FBo5l82n
+1	Oggi	oggi	ADV	B	_	6	advmod	_	_
+2	su...	su.	PUNCT	FF	_	3	punct	_	_
+3	http:	http:	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	fb.me/7FBo5l82n	fb.me/7FBo5l82n	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

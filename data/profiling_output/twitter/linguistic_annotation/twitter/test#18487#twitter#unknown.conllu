@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #paolacarta ahaha #lauraepaola pensavi alla tua Paola qnd avevi sbagliato?
+1	#paolacarta	#paolacartare	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	2	amod	_	_
+2	ahaha	ahaavere	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	#lauraepaola	#lauraepaolare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pensavi	pensave	ADV	B	_	3	advmod	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	Paola	Paola	PROPN	SP	_	3	obl	_	_
+9	qnd	qnd	CCONJ	CC	_	11	cc	_	_
+10	avevi	avere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	sbagliato	sbagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @LauraPausini i m crazy for Laura Pausini
+1	@LauraPausini	@LauraPausini	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	m	metro	NOUN	S	Gender=Masc	1	obj	_	_
+4	crazy	crazy	NOUN	S	Gender=Masc	3	compound	_	_
+5	for	for	ADP	E	_	6	case	_	_
+6	Laura	Laura	PROPN	SP	_	3	nmod	_	_
+7	Pausini	Pausini	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque . ... mi sono ritrovata in borsa le chiavi di una macchina....
+1	Dunque	dunque	ADV	B	_	6	advmod	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	_
+3	...	...	PUNCT	FF	_	1	punct	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	ritrovata	ritrovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	borsa	borsa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	chiavi	chiave	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	macchina...	macchina...	NOUN	S	_	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = una volkswagen.
+1	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	volkswagen.	volkswagenerale	NOUN	S	Gender=Masc	0	root	_	_
+
+# sent_id = 3
+# text = ..
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = non ricordavo di averle...
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ricordavo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	averle...	averle...	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+
+# sent_id = 5
+# text = http:// fb.me/4wq7G86ih
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4wq7G86ih	fb.me/4wq7G86ih	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

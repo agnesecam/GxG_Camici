@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Paula___b
+1	@Paula___b	@Paula___b	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = Con cinquanta mila lire prima si riempivano almeno due borse, ora con cinquanta euro una a malapena.
+1	Con	con	ADP	E	_	4	case	_	_
+2	cinquanta	cinquanto	NUM	N	NumType=Card	4	nummod	_	_
+3	mila	mila	NUM	N	NumType=Card	2	flat	_	_
+4	lire	lira	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+5	prima	prima	ADV	B	_	7	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	riempivano	riempire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	almeno	almeno	ADV	B	_	9	advmod	_	_
+9	due	due	NUM	N	NumType=Card	10	nummod	_	_
+10	borse	borsa	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	ora	ora	ADV	B	_	10	advmod	_	_
+13	con	con	ADP	E	_	15	case	_	_
+14	cinquanta	cinquanta	NUM	N	NumType=Card	15	nummod	_	_
+15	euro	euro	NOUN	S	Gender=Masc	7	obl	_	_
+16	una	uno	NUM	N	NumType=Card	18	nummod	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	malapena	malapena	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = (Cit.)
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Cit.	Cit.	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

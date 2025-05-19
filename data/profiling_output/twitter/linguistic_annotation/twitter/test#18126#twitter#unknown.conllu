@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cospignatelli @1Haribo A #Sky le coppie sono parecchie , può essere.
+1	@cospignatelli	@cospignatello	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	@1Haribo	@1Haribo	PROPN	SP	_	1	nmod	_	_
+3	A	a	ADP	E	_	4	case	_	_
+4	#Sky	#Sky	PROPN	SP	_	2	nmod	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	coppie	coppia	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	parecchie	parecchio	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	essere	essere	VERB	V	VerbForm=Inf	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = D'altronde è un posto di lavoro come gli altri.
+1	D'	da	ADP	E	_	2	case	_	SpaceAfter=No
+2	altronde	altronde	ADV	B	_	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	posto	posto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	come	come	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = marcocastoro.it/2012/02/15/dio -li-fa-e-sky-li-accoppia/ …
+1	marcocastoro.it/2012/02/15/dio	marcocastoro.it/2012/02/15/dio	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+2	-li	-le	ADJ	A	Number=Plur	5	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	fa-e-sky-li	fa-e-sky-lo	ADJ	A	Number=Plur	5	amod	_	SpaceAfter=No
+5	-accoppia	-accoppio	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	_
+7	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

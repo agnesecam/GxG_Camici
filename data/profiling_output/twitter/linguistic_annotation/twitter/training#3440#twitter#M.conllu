@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nessuno ci farà mai un monumento per il buon lavoro che facciamo tutti i giorni.
+1	Nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	3	advmod	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	monumento	monumento	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	per	per	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	buon	buono	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+13	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	15	det:predet	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Mettiamocelo in testa!
+1	Mettiamocelo	Mettiamocelare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	testa	testa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

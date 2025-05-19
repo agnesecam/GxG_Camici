@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MareBlu2015 @micheleemiliano @tittidsimone e se avessimo sempre "interpellato il popolo" oggi non avremmo rete autostradale e ferroviaria
+1	@MareBlu2015	@MareBlu2015	NUM	N	NumType=Card	3	nummod	_	_
+2	@micheleemiliano	@micheleemiliano	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	@tittidsimone	@tittidsimone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	e	e	CCONJ	CC	_	9	cc	_	_
+5	se	se	SCONJ	CS	_	9	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+7	sempre	sempre	ADV	B	_	9	advmod	_	_
+8	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	interpellato	interpellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	16	punct	_	_
+13	oggi	oggi	ADV	B	_	16	advmod	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	rete	ere	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+17	autostradale	autostradale	ADJ	A	Number=Sing	16	amod	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	ferroviaria	ferroviario	ADJ	A	Gender=Fem|Number=Sing	17	conj	_	SpacesAfter=\n
+

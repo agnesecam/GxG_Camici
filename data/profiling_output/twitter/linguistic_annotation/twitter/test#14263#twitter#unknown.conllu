@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una volta feci una simpatica conversazione on line (pubblica ovviamente) con una simpatica viaggiatrice che era stata in Australia in campe…
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	volta	volta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+3	feci	feci	ADJ	A	Number=Plur	2	amod	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	conversazione	conversazione	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	on	on	ADV	BN	PronType=Neg	8	advmod	_	_
+8	line	line	ADJ	A	Number=Sing	6	amod	_	_
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	pubblica	pubblicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	ovviamente	ovviamente	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	10	punct	_	_
+13	con	con	ADP	E	_	16	case	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	viaggiatrice	viaggiatore	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+17	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+18	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	aux	_	_
+19	stata	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	Australia	Australia	PROPN	SP	_	19	obl	_	_
+22	in	in	ADP	E	_	23	case	_	_
+23	campe…	campe…	PUNCT	FF	_	19	punct	_	SpacesAfter=\n
+

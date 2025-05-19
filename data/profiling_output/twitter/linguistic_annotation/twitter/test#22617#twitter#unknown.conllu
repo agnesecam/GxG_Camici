@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qual è il tuo spuntino di mezzanotte preferito?
+1	Qual	quale	PRON	PQ	Number=Sing|PronType=Int	0	root	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	spuntino	spuntino	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	mezzanotte	mezzanotte	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	preferito	preferito	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = — se facessi più after con @marinaapiragine lo saprei;
+1	—	—	PUNCT	FF	_	3	punct	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	after	aftere	ADP	E	_	9	case	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	@marinaapiragine	@marinaapiragine	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+8	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	saprei	sapre	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
+10	;	;	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = ma lei svi… https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM7CACRIITQP76XBFZCDV3P64ERAR4YJIIPIEYWXBTKSY7QHQJIZWDGWCTQZ57M3FAK32KZBBGWIIERFKKBN3CEI7CJSEC4IG5TSRPTUTDTT2Z6HAV2DMH5UUQLGNDIT3C7XOXT6E2Z6CVXYLXTKT2GUOBD5XVBH5J3BY2F2H7XI5LSES4VFLPHSBO …
+1	ma	ma	CCONJ	CC	_	2	cc	_	_
+2	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	0	root	_	_
+3	svi…	svi…	PUNCT	FF	_	2	punct	_	_
+4	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	_
+7	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	2	appos	_	_
+8	7B667HQMHN2IG6NM7CACRIITQP76XBFZCDV3P64ERAR4YJIIPIEYWXBTKSY7QHQJIZWDGWCTQZ57M3FAK32KZBBGWIIERFKKBN3CEI7CJSEC4IG5TSRPTUTDTT2Z6HAV2DMH5UUQLGNDIT3C7XOXT6E2Z6CVXYLXTKT2GUOBD5XVBH5J3BY2F2H7XI5LSES4VFLPHSBO	7B667HQMHN2IG6NM7CACRIITQP76XBFZCDV3P64ERAR4YJIIPIEYWXBTKSY7QHQJIZWDGWCTQZ57M3FAK32KZBBGWIIERFKKBN3CEI7CJSEC4IG5TSRPTUTDTT2Z6HAV2DMH5UUQLGNDIT3C7XOXT6E2Z6CVXYLXTKT2GUOBD5XVBH5J3BY2F2H7XI5LSES4VFLPHSBO	PROPN	SP	_	7	flat:name	_	_
+9	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

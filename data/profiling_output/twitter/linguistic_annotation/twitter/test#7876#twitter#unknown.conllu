@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @meb boschi devo capire una cosa.
+1	@meb	@mebbraio	NOUN	S	Gender=Masc	4	nsubj	_	_
+2	boschi	bosco	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	_
+3	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	capire	capire	VERB	V	VerbForm=Inf	0	root	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Chi ha scritto la riforma Costituzionale?
+1	Chi	chi	PRON	PQ	PronType=Int	3	nsubj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	riforma	riforma	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	Costituzionale	costituzionale	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Tu no.
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Dunque chi è l'esperto scelto dalle lobby per farlo?
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	chi	chi	PRON	PQ	PronType=Int	0	root	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	esperto	esperto	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+6	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+7-8	dalle	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	lobby	lobby	NOUN	S	Gender=Fem	6	obl:agent	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11-12	farlo	_	_	_	_	_	_	_	SpaceAfter=No
+11	far	fare	VERB	V	VerbForm=Inf	6	advcl	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

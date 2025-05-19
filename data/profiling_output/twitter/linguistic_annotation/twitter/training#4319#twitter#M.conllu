@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #workCracolic Spese ingiustificate ARS, Cracolici dovrà restituire 346 mila euro #ClasseS #A6 http:// gds.it/2016/04/01/spe se-ingiustificate-allars-cracolici-dovra-restituire-346-mila-euro_494968/#.Vv_TZx50KTV.twitter …
+1	#workCracolic	#workCracolic	PROPN	SP	_	8	nsubj	_	_
+2	Spese	Spese	PROPN	SP	_	1	flat:name	_	_
+3	ingiustificate	ingiustificare	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	ARS	ARS	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	Cracolici	Cracolico	PROPN	SP	_	8	nsubj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	restituire	restituire	VERB	V	VerbForm=Inf	0	root	_	_
+9	346	346	NUM	N	NumType=Card	11	nummod	_	_
+10	mila	mila	NUM	N	NumType=Card	9	flat	_	_
+11	euro	euro	NOUN	S	Gender=Masc	8	obj	_	_
+12	#ClasseS	#ClasseS	PROPN	SP	_	11	nmod	_	_
+13	#A6	#A6	PROPN	SP	_	12	flat:name	_	_
+14	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	_
+17	gds.it/2016/04/01/spe	gds.it/2016/04/01/spo	X	X	_	12	nmod	_	_
+18	se-ingiustificate-allars	se-ingiustificate-allar	X	X	_	17	flat:foreign	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	cracolici-dovra-restituire-346	cracolici-dovra-restituire-346	NUM	N	NumType=Card	24	nummod	_	SpaceAfter=No
+21	-mila-euro_494968	-mila-euro_494968	NUM	N	NumType=Card	24	nummod	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+23	#	#	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	.Vv_TZx50KTV.twitter	.Vv_TZx50KTV.twitter	PROPN	SP	_	17	nmod	_	_
+25	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

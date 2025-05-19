@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se oggi da #Vespa a #PortaaPorta il plastico lo porta #Riina sicuramente farà il botto.
+1	Se	se	SCONJ	CS	_	10	mark	_	_
+2	oggi	oggi	ADV	B	_	4	advmod	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	#Vespa	#Vespa	PROPN	SP	_	10	obl	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	#PortaaPorta	#PortaaPorta	PROPN	SP	_	10	obl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	plastico	plastico	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+11	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	Riina	Riina	PROPN	SP	_	14	nsubj	_	_
+13	sicuramente	sicuramente	ADV	B	_	12	advmod	_	_
+14	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	botto	botto	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/FLWgwrxQfx
+1	pic.twitter.com/FLWgwrxQfx	pic.twitter.com/FLWgwrxQfx	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

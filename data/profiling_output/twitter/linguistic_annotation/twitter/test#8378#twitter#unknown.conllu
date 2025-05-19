@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Stavo con una persona".
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Stavo	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Dunque eri gay e adesso stai con lei?
+1	Dunque	dunque	NUM	N	NumType=Card	2	nummod	_	_
+2	eri	ero	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	gay	gay	NOUN	S	Gender=Masc	2	compound	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	adesso	adesso	ADV	B	_	6	advmod	_	_
+6	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	2	conj	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #tvoi
+1	#tvoi	#tvoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Looking for #ipagliacci di #leoncavallo ! #sopranolife "E voi, piuttosto che le nostre povere… https://www.
+1	Looking	Looking	NOUN	S	_	7	nmod	_	_
+2	for	for	ADP	E	_	3	case	_	_
+3	#ipagliacci	#ipagliaccio	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	#leoncavallo	#leoncavallo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	!	!	PUNCT	FS	_	1	punct	_	_
+7	#sopranolife	#sopranolife	NOUN	S	_	0	root	_	_
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	E	e	CCONJ	CC	_	10	cc	_	_
+10	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	piuttosto	piuttosto	ADV	B	_	17	case	_	_
+13	che	che	ADP	E	_	12	fixed	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+15	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+16	povere…	povere…	PUNCT	FF	_	17	punct	_	_
+17	https://www	https://www	NOUN	S	_	10	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD9VoXxLADj/
+1	instagram.com/p/BD9VoXxLADj/	instagram.com/p/BD9VoXxLADj/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

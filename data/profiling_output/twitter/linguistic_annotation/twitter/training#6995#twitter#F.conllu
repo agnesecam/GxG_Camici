@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marienassar_ @AlinaDal_F che meraviglioso spettacolo!
+1	@marienassar_	ExtraSubj=Yes|@marienassar_	ADJ	NO	NumType=Ord	2	amod	_	_
+2	@AlinaDal_F	@AlinaDal_F	PROPN	SP	_	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	case	_	_
+4	meraviglioso	meraviglioso	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	2	acl:relcl	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Essi volano e non sanno di essere spettacolari!
+1	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	volano	volare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	di	di	ADP	E	_	8	mark	_	_
+7	essere	essere	AUX	V	VerbForm=Inf	8	cop	_	_
+8	spettacolari	spettacolare	ADJ	A	Gender=Masc|Number=Plur	5	xcomp	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

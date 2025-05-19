@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Top Condition per il Coast Trail , oggi è stato pulito da tutte le foglie e tolti parecchi sassi smossi......da... http:// fb.me/4U0q0dByr
+1	Top	top	PROPN	SP	_	11	nsubj:pass	_	_
+2	Condition	Condition	PROPN	SP	_	1	flat:name	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Coast	coast	PROPN	SP	_	1	nmod	_	_
+6	Trail	Trail	PROPN	SP	_	5	flat:name	_	_
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	oggi	oggi	ADV	B	_	11	advmod	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	aux:pass	_	_
+11	pulito	pulire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	da	da	ADP	E	_	15	case	_	_
+13	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	15	det:predet	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	foglie	foglia	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	tolti	togliere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	conj	_	_
+18	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
+19	sassi	sasso	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	_
+20	smossi......da...	smossi......da.	NOUN	S	_	19	compound	_	_
+21	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	fb.me/4U0q0dByr	fb.me/4U0q0dByr	PROPN	SP	_	11	xcomp	_	SpacesAfter=\n
+

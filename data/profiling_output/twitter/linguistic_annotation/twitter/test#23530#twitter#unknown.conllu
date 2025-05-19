@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un coniglio per coglier carote all'amico chiese aiuto a mani vuote.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	coniglio	coniglio	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	coglier	cogliere	VERB	V	VerbForm=Inf	2	acl	_	_
+5	carote	carota	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6-7	all'	_	_	_	_	_	_	_	SpaceAfter=No
+6	a	a	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	amico	amico	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	chiese	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	mani	mano	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+13	vuote	vuoto	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Egli rispose un po' impacciato:
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	rispose	rispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	po'	poco	ADV	B	_	5	advmod	_	_
+5	impacciato	impacciare	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = "Mi spiace ma di schiena son bloccato!"
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	spiace	spiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	schiena	schiena	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+7	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	bloccato	bloccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

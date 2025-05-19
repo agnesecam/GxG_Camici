@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Wasp19__ Eh, sì.
+1	@Wasp19__	@Wasp19_-	PROPN	SP	_	0	root	_	_
+2	Eh	eh	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	sì	sì	INTJ	I	Polarity=Pos	1	appos	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E io non ho ancora letto "Abissi d'acciaio", ma si legge benissimo anche da solo.
+1	E	e	CCONJ	CC	_	6	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	ancora	ancora	ADV	B	_	6	advmod	_	_
+6	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Abissi	Abissi	PROPN	SP	_	6	obj	_	_
+9	d'	di	ADP	E	_	10	case	_	SpaceAfter=No
+10	acciaio	acciaio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	ma	ma	CCONJ	CC	_	15	cc	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:impers	_	_
+15	legge	leggere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+16	benissimo	bene	ADV	B	Degree=Abs	15	advmod	_	_
+17	anche	anche	ADV	B	_	19	advmod	_	_
+18	da	da	ADP	E	_	19	case	_	_
+19	solo	solo	ADV	B	_	15	advmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

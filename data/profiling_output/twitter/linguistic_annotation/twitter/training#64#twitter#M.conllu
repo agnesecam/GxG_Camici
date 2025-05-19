@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma perché dobbiamo votare a ridosso di un ponte?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	perché	perché	ADV	B	_	4	advmod	_	_
+3	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	votare	votare	VERB	V	VerbForm=Inf	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	ridosso	ridosso	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ponte	ponte	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Non si poteva votare la settimana dopo, quando studenti non vanno a scuola?
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:pass	_	_
+3	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	votare	votare	VERB	V	VerbForm=Inf	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+7	dopo	dopo	ADV	B	_	4	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	quando	quando	SCONJ	CS	_	12	mark	_	_
+10	studenti	studente	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = #Elezioni2016
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Elezioni2016	Elezioni2016	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

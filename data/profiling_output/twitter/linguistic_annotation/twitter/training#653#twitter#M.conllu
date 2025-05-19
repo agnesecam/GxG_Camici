@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MediasetTgcom24 non riusciamo più ad accoglierli!
+1	@MediasetTgcom24	@MediasetTgcom24	PROPN	SP	_	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	riusciamo	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	3	advmod	_	_
+5	ad	a	ADP	E	_	6	mark	_	_
+6-7	accoglierli	_	_	_	_	_	_	_	SpaceAfter=No
+6	accoglier	accogliere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+8	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se avessimo speso i soldi che spendiamo per costruire case là li avremmo salvati tutti
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	speso	spendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	spendiamo	spendere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	costruire	costruire	VERB	V	VerbForm=Inf	7	advcl	_	_
+10	case	casa	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+11	là	là	ADV	B	_	14	advmod	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+13	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	salvati	salvare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+15	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	SpacesAfter=\n
+

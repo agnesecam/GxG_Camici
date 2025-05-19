@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - originario.
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	originario	originario	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = In fondo non sono l'unica a volerlo e fareste un favore a tutti.
+1	In	in	ADP	E	_	2	case	_	_
+2	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	unica	unico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8-9	volerlo	_	_	_	_	_	_	_	_
+8	voler	volere	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	fareste	faredere	VERB	V	Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	8	conj	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	favore	favore	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/RaiQuattro/sta tus/711888640776003584 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/RaiQuattro/sta	twitter.com/RaiQuattro/sta	PROPN	SP	_	0	root	_	_
+5	tus/711888640776003584	tus/711888640776003584	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

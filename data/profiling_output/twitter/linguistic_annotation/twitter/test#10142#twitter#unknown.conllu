@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la reputo troppo arguto per andare in TV a sciorinare le tavolette di governo, come faceva la Santanche...
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	reputo	reputo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	troppo	troppo	ADV	B	_	4	advmod	_	_
+4	arguto	arguto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	andare	andare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	TV	TV	PROPN	SP	_	6	obl	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	sciorinare	sciorinare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	tavolette	tavoletta	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	governo	governo	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	2	punct	_	_
+16	come	come	SCONJ	CS	_	17	mark	_	_
+17	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Santanche..	Santanche..	PROPN	SP	_	17	nsubj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dovrà sopravvivere con il male allo sterno da sola?
+1	Dovrà	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	sopravvivere	sopravvivere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	male	male	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6-7	allo	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sterno	sterno	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	sola	solo	ADJ	A	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Isola
+1	#Isola	#Isolo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Yi_Benevolence @ElioLannutti se non avessimo al governo dei servi incapaci sarebbe possibile.
+1	@Yi_Benevolence	@Yi_Benevolencere	PROPN	SP	_	14	nsubj	_	_
+2	@ElioLannutti	@ElioLannutto	PROPN	SP	_	1	flat:name	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	advcl	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	governo	governo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	servi	servo	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	incapaci	incapace	ADJ	A	Number=Plur	11	amod	_	_
+13	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	possibile	possibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il livello di capitalizzazione delle nostre banche e' debole e quindi la tempesta che da tempo colpisce i relativi titoli non potrà cessare!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	livello	livello	NOUN	S	Gender=Masc|Number=Sing	25	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	capitalizzazione	capitalizzazione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	banche	banca	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+10	'	'	PUNCT	FB	_	11	punct	_	_
+11	debole	debole	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	quindi	quindi	ADV	B	_	15	advmod	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	tempesta	tempesta	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+16	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+17	da	da	ADP	E	_	18	case	_	_
+18	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+19	colpisce	colpire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	relativi	relativo	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	_
+22	titoli	titolo	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	_
+23	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+24	potrà	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	25	aux	_	_
+25	cessare	cessare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	25	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Restituire il Virgolo alla città.
+1	Restituire	restituire	VERB	V	VerbForm=Inf	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Virgolo	Virgolo	PROPN	SP	_	1	obj	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	città	città	NOUN	S	Gender=Fem	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ripulirlo e renderlo il luogo delle nostre passeggiate, scampagnate, gite....
+1-2	Ripulirlo	_	_	_	_	_	_	_	_
+1	Ripulir	Ripulire	VERB	V	VerbForm=Inf	0	root	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4-5	renderlo	_	_	_	_	_	_	_	_
+4	render	rendere	VERB	V	VerbForm=Inf	1	conj	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	luogo	luogo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8-9	delle	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	passeggiate	passeggiata	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	scampagnate	scampagnato	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	gite...	gite.	NOUN	S	_	11	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/77Mf6LWlq
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/77Mf6LWlq	fb.me/77Mf6LWlq	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

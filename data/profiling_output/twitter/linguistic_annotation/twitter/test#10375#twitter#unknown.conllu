@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cropy03 va benissimo :)inizio sempre con 15/20 min di cardio tapirulan per riscaldarmi e poi ieri feci dorsali bicipiti tricipiti
+1	@cropy03	@cropy03	NUM	N	NumType=Card	2	nummod	_	_
+2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	benissimo	bene	ADV	B	Degree=Abs	2	advmod	_	_
+4	:	:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+5	)inizio	)inizio	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7	con	con	ADP	E	_	11	case	_	_
+8	15	15	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	20	20	NUM	N	NumType=Card	8	compound	_	_
+11	min	mino	NOUN	S	Gender=Masc	5	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	cardio	cardio	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	tapirulan	tapirulan	ADV	B	_	16	advmod	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16-17	riscaldarmi	_	_	_	_	_	_	_	_
+16	riscaldar	riscaldare	VERB	V	VerbForm=Inf	11	acl	_	_
+17	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	obj	_	_
+18	e	e	CCONJ	CC	_	23	cc	_	_
+19	poi	poi	ADV	B	_	23	advmod	_	_
+20	ieri	ieri	ADV	B	_	23	advmod	_	_
+21	feci	feci	ADJ	A	Number=Plur	23	amod	_	_
+22	dorsali	dorsale	ADJ	A	Number=Plur	23	amod	_	_
+23	bicipiti	bicipito	NOUN	S	Gender=Masc|Number=Plur	16	conj	_	_
+24	tricipiti	tricipito	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	SpacesAfter=\n
+

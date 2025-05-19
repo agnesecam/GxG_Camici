@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iosonoiotuno ke moda del ca...volo 'sti uomini rasati!!
+1	@iosonoiotuno	@iosonoiotuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	ke	ke	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	moda	moda	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ca...volo	ca...volo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	'	'	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	sti	sto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+9	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+10	rasati	rasato	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = sperate ke sembri + lungo...!!?
+1	sperate	sperare	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	ke	ke	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	sembri	sembre	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	+	+	SYM	SYM	_	3	obl	_	_
+5	lungo...	lungo.	NOUN	S	_	4	compound	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = hahahaaa
+1	hahahaaa	hahahaaare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

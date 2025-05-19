@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma perché la gente a LA va in giro a piedi nudi?!
+1	Ma	ma	CCONJ	CC	_	7	cc	_	_
+2	perché	perché	SCONJ	CS	_	7	mark	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	gente	gente	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	LA	la	PROPN	SP	_	4	nmod	_	_
+7	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	giro	giro	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+12	nudi	nudo	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Essì che i soldi per pagarsi le scarpe li hanno.
+1	Essì	Essì	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	11	mark	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6-7	pagarsi	_	_	_	_	_	_	_	_
+6	pagar	pagare	VERB	V	VerbForm=Inf	11	advcl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	scarpe	scarpa	NOUN	S	Gender=Fem|Number=Plur	11	nsubj	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+11	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

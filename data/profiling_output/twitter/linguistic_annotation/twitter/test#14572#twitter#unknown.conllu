@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PortaKittePare guarda io da manovale del diritto gironzolo parecchio e, in effetti, ci si ammuffisce poco
+1	@PortaKittePare	@PortaKittePare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	parataxis	_	_
+2	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	manovale	manovale	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	gironzolo	gironzolo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	parecchio	parecchio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+11	e	e	CCONJ	CC	_	2	cc	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	2	punct	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	effetti	effetto	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	18	punct	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	18	expl	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl:impers	_	_
+18	ammuffisce	ammuffire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	poco	poco	ADV	B	_	18	advmod	_	SpacesAfter=\n
+

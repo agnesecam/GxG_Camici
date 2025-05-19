@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gpastorino67 @FrankAg271 se noi avessimo scritto sbagliato qualcosa su Simon ci avresti massacrato
+1	@gpastorino67	@gpastorino67	NUM	N	NumType=Card	2	nummod	_	_
+2	@FrankAg271	@FrankAg271	PROPN	SP	_	0	root	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+7	sbagliato	sbagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+8	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	_
+9	su	su	ADP	E	_	10	case	_	_
+10	Simon	Simon	PROPN	SP	_	13	obl	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	iobj	_	_
+12	avresti	avredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	massacrato	massacrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpacesAfter=\n
+

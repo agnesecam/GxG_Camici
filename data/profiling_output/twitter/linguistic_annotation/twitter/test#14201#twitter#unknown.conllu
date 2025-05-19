@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @romeogentile @marcocattaneo @devicerandom @divagatrice la smentita è il tuo blog?
+1	@romeogentile	@romeogentile	ADJ	A	Number=Sing	3	amod	_	_
+2	@marcocattaneo	@marcocattaneo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	@devicerandom	@devicerandom	NOUN	S	Gender=Masc	4	nsubj	_	_
+4	@divagatrice	@divagatore	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	smentita	smentita	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	blog	blog	NOUN	S	_	4	nsubj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = e voi sareste scienziati?
+1	e	e	CCONJ	CC	_	3	cc	_	_
+2	voi	vo	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	sareste	saresto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	scienziati	scienziato	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = fate ridere
+1	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ridere	ridere	VERB	V	VerbForm=Inf	1	ccomp	_	SpacesAfter=\n
+

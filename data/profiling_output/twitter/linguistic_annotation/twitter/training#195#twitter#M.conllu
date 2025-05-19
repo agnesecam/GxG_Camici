@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Certo che lo United da 2 anni a questa parte ha speso 200 ml per fare cagare come prima.
+1	Certo	certo	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	12	mark	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	United	United	PROPN	SP	_	12	nsubj	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	2	2	NUM	N	NumType=Card	7	nummod	_	_
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	speso	spendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+13	200	200	NUM	N	NumType=Card	14	nummod	_	_
+14	ml	ml	NOUN	S	_	12	obj	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	12	advcl	_	_
+17	cagare	cagare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+18	come	come	ADP	E	_	19	case	_	_
+19	prima	prima	ADV	B	_	17	advmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Avessimo noi quei soldi da spendere...
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	spendere..	spendere..	NOUN	S	_	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

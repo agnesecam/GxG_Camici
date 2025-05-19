@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voglio proprio vedere quando avranno eliminato tutti e dovranno votarsi tra di loro.
+1	Voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	proprio	proprio	ADV	B	_	3	advmod	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+4	quando	quando	SCONJ	CS	_	6	mark	_	_
+5	avranno	avere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	eliminato	eliminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	dovranno	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10-11	votarsi	_	_	_	_	_	_	_	_
+10	votar	votare	VERB	V	VerbForm=Inf	6	conj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+12	tra	tra	ADP	E	_	14	case	_	_
+13	di	di	ADP	E	_	12	fixed	_	_
+14	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Avanti Simooooo #isola
+1	Avanti	avanti	PROPN	SP	_	3	nsubj	_	_
+2	Simooooo	Simooooo	PROPN	SP	_	1	flat:name	_	_
+3	#isola	#isolo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

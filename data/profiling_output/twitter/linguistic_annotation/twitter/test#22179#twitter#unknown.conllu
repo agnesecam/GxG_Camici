@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Poi ch' ebbe #sospirando il capo mosso a ciò' non fu' io sol, disse, ne' certo senza cagion con li altri sarei mosso pic.twitter.com/KV1SpgQtRP
+1	Poi	poi	ADV	B	_	3	advmod	_	_
+2	ch'	perché	ADV	B	_	3	advmod	_	_
+3	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	#sospirando	#sospirare	VERB	V	VerbForm=Ger	3	advcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	capo	capo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	mosso	mosso	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	SpaceAfter=No
+10	'	'	PUNCT	FB	_	13	punct	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	fu'	fu'	ADP	E	_	13	case	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
+14	sol	solo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	disse	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	parataxis	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18-19	ne'	_	_	_	_	_	_	_	_
+18	ni	ne	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+19	i	europeo	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	_
+20	certo	certo	ADV	B	_	16	advmod	_	_
+21	senza	senza	ADP	E	_	22	case	_	_
+22	cagion	cagione	NOUN	S	Gender=Fem	16	obl	_	_
+23	con	con	ADP	E	_	24	case	_	_
+24	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obl	_	_
+25	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obj	_	_
+26	sarei	essere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	aux	_	_
+27	mosso	muovere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+28	pic.twitter.com/KV1SpgQtRP	pic.twitter.com/KV1SpgQtRP	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

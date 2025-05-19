@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No!
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Per assurdo che possa sembrare , la prima mossa da fare è la MESSA AL BANDO del comunismo, scatola cinese n. 1 https:// twitter.com/renatobrunetta /status/714395383024238592 …
+1	Per	per	ADP	E	_	2	case	_	_
+2	assurdo	assurdo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
+9	mossa	mossa	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+10	da	da	ADP	E	_	11	mark	_	_
+11	fare	fare	VERB	V	VerbForm=Inf	9	acl	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	MESSA	Messa	PROPN	SP	_	0	root	_	_
+15-16	AL	_	_	_	_	_	_	_	_
+15	A	A	PROPN	SP	_	14	flat:name	_	_
+16	IL	Il	PROPN	SP	_	14	flat:name	_	_
+17	BANDO	BANDO	PROPN	SP	_	14	flat:name	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	comunismo	comunismo	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	14	punct	_	_
+22	scatola	scatolare	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+23	cinese	cinese	ADJ	A	Number=Sing	24	amod	_	_
+24	n.	numero	NOUN	S	Gender=Masc	22	nmod	_	_
+25	1	1	NUM	N	NumType=Card	24	nummod	_	_
+26	https:	https:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	24	punct	_	_
+29	twitter.com/renatobrunetta	twitter.com/renatobrunettare	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	_
+30	/status/714395383024238592	/status/714395383024238592	NUM	N	NumType=Card	29	nummod	_	_
+31	…	…	PUNCT	FF	_	24	punct	_	SpacesAfter=\n
+

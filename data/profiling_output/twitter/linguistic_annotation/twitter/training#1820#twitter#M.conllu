@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxGramel Perchè rovinare la nostra azienda e rovinare le nostre vite.
+1	@MaxGramel	@MaxGramel	PROPN	SP	_	3	nsubj	_	_
+2	Perchè	perché	PROPN	SP	_	1	flat:name	_	_
+3	rovinare	rovinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	azienda	azienda	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	rovinare	rovinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	vite	vita	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Migliaia di persone chiedono aiuto #savetelecom
+1	Migliaia	migliaio	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	persone	persona	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+4	chiedono	chiedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	#savetelecom	#savetelecom	X	X	_	4	nmod	_	SpacesAfter=\n
+

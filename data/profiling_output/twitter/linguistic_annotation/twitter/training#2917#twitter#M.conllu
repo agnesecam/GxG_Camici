@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quando pensavi di essere venuto bene nelle foto di sabato sera ma poi ti accorgi di sembrare britney nel 2007 pic.twitter.com/FrdnrNwSsR
+1	quando	quando	SCONJ	CS	_	2	mark	_	_
+2	pensavi	pensave	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+3	di	di	ADP	E	_	5	mark	_	_
+4	essere	essere	AUX	VA	VerbForm=Inf	5	aux	_	_
+5	venuto	venire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
+6	bene	bene	ADV	B	_	5	advmod	_	_
+7-8	nelle	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	foto	foto	NOUN	S	Gender=Fem	5	obl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+12	sera	sera	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+13	ma	ma	CCONJ	CC	_	16	cc	_	_
+14	poi	poi	ADV	B	_	16	advmod	_	_
+15	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	iobj	_	_
+16	accorgi	accorgio	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
+17	di	di	ADP	E	_	18	mark	_	_
+18	sembrare	sembrare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+19	britney	britney	PROPN	SW	Foreign=Yes	18	xcomp	_	_
+20-21	nel	_	_	_	_	_	_	_	_
+20	in	in	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	2007	2007	NUM	N	NumType=Card	18	obl	_	_
+23	pic.twitter.com/FrdnrNwSsR	pic.twitter.com/FrdnrNwSsR	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

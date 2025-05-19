@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pesna94 @bvb67 Sì, ed avevamo in campo uno dei "più forti difensori al mondo":-) :-)
+1	@pesna94	@pesna94	NUM	N	NumType=Card	3	nummod	_	_
+2	@bvb67	@bvb67	NUM	N	NumType=Card	3	nummod	_	_
+3	Sì	sì	INTJ	I	Polarity=Pos	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	ed	e	CCONJ	CC	_	6	cc	_	_
+6	avevamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	conj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	campo	campo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	_
+10-11	dei	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	14	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+12	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+13	più	più	ADV	B	_	14	advmod	_	_
+14	forti	forte	ADJ	A	Number=Plur	9	nmod	_	_
+15	difensori	difensore	ADV	B	_	18	advmod	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+20	:	:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+22	)	)	PUNCT	FB	_	9	punct	_	_
+23	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+24	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+25	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

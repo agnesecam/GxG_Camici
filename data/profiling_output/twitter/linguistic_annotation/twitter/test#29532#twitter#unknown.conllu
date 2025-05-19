@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fui io a dirgli:
+1	Fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	cop	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4-5	dirgli	_	_	_	_	_	_	_	SpaceAfter=No
+4	dir	dire	VERB	V	VerbForm=Inf	2	advcl	_	_
+5	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+6	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = lasciati accompagnare.
+1	lasciati	lasciare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	accompagnare	accompagnare	VERB	V	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #Chirù @Einaudieditore https:// it.pinterest.com/pin/1139270655 51615586/ …
+1	#Chirù	#Chirù	PROPN	SP	_	0	root	_	_
+2	@Einaudieditore	@Einaudieditore	PROPN	SP	_	1	flat:name	_	_
+3	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	it.pinterest.com/pin/1139270655	it.pinterest.com/pin/1139270655	NUM	N	NumType=Card	1	nmod	_	_
+7	51615586	51615586	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	_
+9	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

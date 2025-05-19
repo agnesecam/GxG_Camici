@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @elihh3 Il pane "sciapo" esalta i sapori e la colpa è dei pisani che bloccarono l'approvvigionamento dei fiorentini che ne fecero a meno
+1	@elihh3	@elihh3	NUM	N	NumType=Range	7	nummod	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pane	pane	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	sciapo	sciapo	NOUN	S	Gender=Masc|Number=Sing	3	compound	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	5	punct	_	_
+7	esalta	esaltare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	sapori	sapore	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	pisani	pisano	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	bloccarono	bloccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	approvvigionamento	approvvigionamento	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+21-22	dei	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	fiorentini	fiorentino	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
+24	che	che	PRON	PR	PronType=Rel	26	nsubj	_	_
+25	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	26	iobj	_	_
+26	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	acl:relcl	_	_
+27	a	a	ADP	E	_	28	case	_	_
+28	meno	meno	ADV	B	_	26	advmod	_	SpacesAfter=\n
+

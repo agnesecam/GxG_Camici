@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi essi ... O sei perbene o sei comunista.
+1	@matteosalvinimi	@matteosalvinimo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	_
+4	O	o	CCONJ	CC	_	5	cc	_	_
+5	sei	essere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	perbene	perbene	SCONJ	CS	_	9	mark	_	_
+7	o	o	CCONJ	CC	_	9	cc	_	_
+8	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	comunista	comunista	ADJ	A	Number=Sing	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Magari Padano...
+1	Magari	magari	ADV	B	_	2	advmod	_	_
+2	Padano...	Padano...	PROPN	SP	_	0	root	_	_
+
+# sent_id = 3
+# text = Vero Salvi'?
+1	Vero	vero	PROPN	SP	_	0	root	_	_
+2	Salvi	salvo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	'	'	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

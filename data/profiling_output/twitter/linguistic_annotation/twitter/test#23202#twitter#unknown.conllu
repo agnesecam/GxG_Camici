@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 'jack guarda alex come se avesse costruito l'arena e ci avesse messo ogni persona dentro personalmente'
+1	'	'	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	jack	jack	NOUN	S	Gender=Masc	3	nsubj	_	_
+3	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	alex	alex	ADJ	A	_	3	xcomp	_	_
+5	come	come	ADV	B	_	8	advmod	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	costruito	costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	arena	arena	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+13	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	_
+15	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
+16	persona	persona	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+17	dentro	dentro	ADV	B	_	18	advmod	_	_
+18	personalmente	personalmente	ADV	B	_	16	advmod	_	SpaceAfter=No
+19	'	'	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

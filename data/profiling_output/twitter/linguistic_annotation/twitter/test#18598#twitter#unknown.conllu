@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma se facessimo clonare dieci milioni di Andrea?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	facessimo	facessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	clonare	clonare	VERB	V	VerbForm=Inf	0	root	_	_
+5	dieci	dieci	NUM	N	NumType=Card	6	nummod	_	_
+6	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Andrea	Andrea	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

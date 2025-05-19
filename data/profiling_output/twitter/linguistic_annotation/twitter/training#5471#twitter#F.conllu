@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @redcheries certe cose qualcuna di noi le ha davvero passate sulla propria pelle.
+1	@redcheries	@redchery	ADP	E	_	3	case	_	_
+2	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	10	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
+7	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	davvero	davvero	ADV	B	_	10	advmod	_	_
+10	passate	passare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+11-12	sulla	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	14	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	propria	proprio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Io capisco che ci tengano, anche io tengo a lui, ma non è-
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	tengano	tenere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	anche	anche	ADV	B	_	8	advmod	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+9	tengo	tenere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	ma	ma	CCONJ	CC	_	15	cc	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	SpaceAfter=No
+16	-	-	PUNCT	FB	_	15	punct	_	SpacesAfter=\n
+

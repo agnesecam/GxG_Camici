@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SteGiannini @matteorenzi La buona scuola dominata da#burocrazia si farà beffa#meritocrazia costata anni studi e lavoro in Italia ed Estero
+1	@SteGiannini	@SteGiannino	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+2	@matteorenzi	@matteorenzi	ADP	E	_	5	case	_	_
+3	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	buona	buono	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	dominata	dominare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+7	da	da	ADP	E	_	8	case	_	SpaceAfter=No
+8	#burocrazia	#burocrazia	NOUN	S	Gender=Fem|Number=Sing	6	obl:agent	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	beffa#meritocrazia	beffa#meritocrazia	NOUN	S	Gender=Fem|Number=Sing	10	xcomp	_	_
+12	costata	costare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+13	anni	anno	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+14	studi	studio	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	14	conj	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	Italia	Italia	PROPN	SP	_	16	nmod	_	_
+19	ed	e	CCONJ	CC	_	20	cc	_	_
+20	Estero	Estero	PROPN	SP	_	18	conj	_	SpacesAfter=\n
+

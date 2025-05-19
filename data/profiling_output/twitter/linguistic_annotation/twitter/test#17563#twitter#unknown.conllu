@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Fiorello Una cortesia, se di pomeriggio farai le prove live , per favore salva il video, così poi appena finisco di stirare lo vedrò
+1	@Fiorello	@Fiorello	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+2	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	pomeriggio	pomeriggio	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+8	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	prove	prova	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+11	live	live	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+12	,	,	PUNCT	FF	_	1	punct	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	favore	favore	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+15	salva	salvo	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	video	video	NOUN	S	Gender=Masc	15	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	17	punct	_	_
+19	così	così	ADV	B	_	22	advmod	_	_
+20	poi	poi	ADV	B	_	22	advmod	_	_
+21	appena	appena	ADV	B	_	22	advmod	_	_
+22	finisco	finisco	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+23	di	di	ADP	E	_	24	mark	_	_
+24	stirare	stirare	VERB	V	VerbForm=Inf	22	advcl	_	_
+25	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+26	vedrò	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

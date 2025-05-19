@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Spi0478 nessuno juventino dovrà seguire l'europeo!
+1	@Spi0478	@Spi0478	NUM	N	NumType=Card	3	nummod	_	_
+2	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	juventino	juventino	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	seguire	seguire	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	europeo	europeo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

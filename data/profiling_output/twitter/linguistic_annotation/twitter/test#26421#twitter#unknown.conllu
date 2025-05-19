@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se alla fine di tutto saremo ancora capaci di amare, allora avremo vinto davvero....
+1	Se	se	SCONJ	CS	_	9	mark	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fine	fine	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	_
+7	saremo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	9	cop	_	_
+8	ancora	ancora	ADV	B	_	9	advmod	_	_
+9	capaci	capace	ADJ	A	Number=Plur	15	advcl	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	amare	amare	VERB	V	VerbForm=Inf	15	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	allora	allora	ADV	B	_	15	advmod	_	_
+14	avremo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	davvero...	davvero.	NOUN	S	_	15	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n
+

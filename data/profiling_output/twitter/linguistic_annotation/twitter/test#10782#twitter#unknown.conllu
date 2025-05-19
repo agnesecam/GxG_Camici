@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per la cronaca, so che "più bello assai " non si può dire.
+1	Per	per	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cronaca	cronaca	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+8	più	più	ADV	B	_	9	advmod	_	_
+9	bello	bello	ADJ	A	Gender=Masc|Number=Sing	5	ccomp	_	_
+10	assai	assai	ADV	B	_	9	advmod	_	_
+11	"	"	PUNCT	FB	_	9	punct	_	_
+12	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:impers	_	_
+14	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	dire	dire	VERB	V	VerbForm=Inf	5	csubj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/tmEkaGyRub
+1	pic.twitter.com/tmEkaGyRub	pic.twitter.com/tmEkaGyRub	NOUN	S	_	0	root	_	SpacesAfter=\n
+

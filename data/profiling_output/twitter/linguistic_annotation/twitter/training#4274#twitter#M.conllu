@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quante idiozie dovrà ancora sopportare il popolo italiano , prima di fare a meno di una tragedia come Renzi??
+1	Quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
+2	idiozie	idiozia	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+4	ancora	ancora	ADV	B	_	5	advmod	_	_
+5	sopportare	sopportare	VERB	V	VerbForm=Inf	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	prima	prima	ADV	B	_	12	mark	_	_
+11	di	di	ADP	E	_	10	fixed	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	7	advcl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	meno	meno	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	tragedia	tragedia	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	come	come	ADP	E	_	19	case	_	_
+19	Renzi	Renzi	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ugo2103 ahahahaha...
+1	@ugo2103	@ugo2103	NUM	N	NumType=Range	2	nummod	_	_
+2	ahahahaha..	ahahahaha..	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E mica solo alla tua età,ne vedo parecchi che non capiscono le differenze,e' un business
+1	E	e	CCONJ	CC	_	8	cc	_	_
+2	mica	mica	ADV	BN	PronType=Neg	8	advmod	_	_
+3	solo	solo	ADV	B	_	7	advmod	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	età,ne	età,ne	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+8	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	capiscono	capire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	differenze,e	differenze,e	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+15	'	'	PUNCT	FB	_	17	punct	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	business	business	NOUN	S	Gender=Masc	14	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @triomedusa @radiodeejay @maxino1980 direi genere reggaeton se non fosse insopportabile ... Dunque jazz! P.s.: è bravissimo
+1	@triomedusa	@triomedudere	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+2	@radiodeejay	@radiodeejay	ADJ	A	_	1	amod	_	_
+3	@maxino1980	@maxino1980	NUM	N	NumType=Card	2	nummod	_	_
+4	direi	dire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	genere	genere	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	reggaeton	reggaeton	ADV	BN	PronType=Neg	4	advmod	_	_
+7	se	se	SCONJ	CS	_	10	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	insopportabile	insopportabile	ADJ	A	Number=Sing	4	advcl	_	_
+11	...	...	PUNCT	FF	_	13	punct	_	_
+12	Dunque	dunque	NUM	N	NumType=Card	13	nummod	_	_
+13	jazz	jazz	NOUN	S	Gender=Masc	15	nmod	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	13	punct	_	_
+15	P.s.	P.s.	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	FC	_	1	punct	_	_
+17	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+18	bravissimo	bravo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

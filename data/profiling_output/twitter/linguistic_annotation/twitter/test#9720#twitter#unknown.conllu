@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @juventusfc @MarioMandzukic9 @AlvaroMorata Basta nazionale!!
+1	@juventusfc	@juventusfc	ADV	B	_	2	advmod	_	_
+2	@MarioMandzukic9	@MarioMandzukic9	PROPN	SP	_	0	root	_	_
+3	@AlvaroMorata	@AlvaroMorare	PROPN	SP	_	2	flat:name	_	_
+4	Basta	Basta	PROPN	SP	_	2	flat:name	_	_
+5	nazionale	nazionale	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = andiamo a vincere il 5° scudetto consecutivo !!!!
+1	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	vincere	vincere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	5°	5°	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	!!!	!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #ForzaJuve
+1	#ForzaJuve	#ForzaJuvo	ADV	B	_	0	root	_	SpacesAfter=\n
+

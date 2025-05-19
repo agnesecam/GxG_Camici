@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chi fa l'idiota con tante donne è solo perchè non riesce a soddisfarne neppure una.
+1	Chi	chi	PRON	PQ	PronType=Int	2	nsubj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	idiota	idiota	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+7	donne	donna	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+9	solo	solo	ADV	B	_	12	advmod	_	_
+10	perchè	perché	SCONJ	CS	_	12	mark	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	soddisfarne	soddisfarne	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	neppure	neppure	ADV	BN	PronType=Neg	16	advmod	_	_
+16	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	12	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

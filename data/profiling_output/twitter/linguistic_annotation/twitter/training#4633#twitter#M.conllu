@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da una parte si prega, dall'altra si uccide.
+1	Da	da	ADP	E	_	3	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	prega	pregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7-8	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+7	da	da	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	obl	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+11	uccide	uccidere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Uno fra musulmani e cattolici dovrà smetterla di comportarsi così.
+1	Uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+2	fra	fra	ADP	E	_	3	case	_	_
+3	musulmani	musulmano	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	cattolici	cattolico	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7-8	smetterla	_	_	_	_	_	_	_	_
+7	smetter	smettere	VERB	V	VerbForm=Inf	0	root	_	_
+8	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10-11	comportarsi	_	_	_	_	_	_	_	_
+10	comportar	comportare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+12	così	così	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = O per scelta o per forza.
+1	O	o	CCONJ	CC	_	3	cc	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	o	o	CCONJ	CC	_	6	cc	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	forza	forza	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

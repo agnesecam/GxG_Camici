@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A volte mi domando se di alcune cose avessimo davvero bisogno.
+1	A	a	ADP	E	_	2	case	_	_
+2	volte	volte	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	domando	domandare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	SCONJ	CS	_	11	mark	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	alcune	alcuno	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+9	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	davvero	davvero	ADV	B	_	11	advmod	_	_
+11	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	4	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Tipo della zanzara.
+1	Tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	della	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	zanzara	zanzara	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = O del mapo.
+1	O	o	CCONJ	CC	_	4	cc	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mapo	mapo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = O di Rocco Hunt.
+1	O	o	CCONJ	CC	_	3	cc	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	Rocco	Rocco	PROPN	SP	_	0	root	_	_
+4	Hunt	Hunt	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

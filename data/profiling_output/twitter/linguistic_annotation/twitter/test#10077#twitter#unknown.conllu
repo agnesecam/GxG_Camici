@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque, non per allarmarvi ulteriormente ma la GDS oggi faceva il nome anche di Giampaolo per la nostra panchina.
+1	Comunque	comunque	ADV	B	_	5	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5-6	allarmarvi	_	_	_	_	_	_	_	_
+5	allarmar	allarmare	VERB	V	VerbForm=Inf	0	root	_	_
+6	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	5	expl	_	_
+7	ulteriormente	ulteriormente	ADV	B	_	12	advmod	_	_
+8	ma	ma	CCONJ	CC	_	12	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	GDS	GDS	PROPN	SP	_	12	nsubj	_	_
+11	oggi	oggi	ADV	B	_	12	advmod	_	_
+12	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	nome	nome	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	anche	anche	ADV	B	_	17	advmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	Giampaolo	Giampaolo	PROPN	SP	_	12	obl	_	_
+18	per	per	ADP	E	_	21	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	panchina	panchina	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

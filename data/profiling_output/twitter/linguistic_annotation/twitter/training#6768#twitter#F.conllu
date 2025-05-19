@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se a 30 suonati mi scrivi perchè vuoi baccagliare la mia amica su fb e la sera prima non ci hai fatto nemmeno 2parole non ti senti idiota?
+1	se	se	SCONJ	CS	_	6	mark	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	30	30	NUM	N	NumType=Card	4	nummod	_	_
+4	suonati	suonato	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	scrivi	scrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	perchè	perché	SCONJ	CS	_	9	mark	_	_
+8	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	baccagliare	baccagliare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	amica	amico	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+13	su	su	ADP	E	_	14	case	_	_
+14	fb	fb	NOUN	S	_	12	nmod	_	_
+15	e	e	CCONJ	CC	_	22	cc	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	sera	sera	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	_
+18	prima	prima	ADV	B	_	17	advmod	_	_
+19	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+20	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+21	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
+23	nemmeno	nemmeno	ADV	BN	PronType=Neg	24	advmod	_	_
+24	2parole	2parole	NOUN	S	Gender=Fem|Number=Plur	27	nsubj	_	_
+25	non	non	ADV	BN	PronType=Neg	27	advmod	_	_
+26	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	27	expl	_	_
+27	senti	sentire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+28	idiota	idioto	ADJ	A	Number=Sing	27	xcomp	_	SpaceAfter=No
+29	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

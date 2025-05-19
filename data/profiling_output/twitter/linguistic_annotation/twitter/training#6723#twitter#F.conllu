@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pansy182 @cloethecat_10 Dunno XD Forse ho gli occhi con un taglio un pò a mandorla, ma nemmeno tanto XD
+1	@pansy182	@pansy182	NUM	N	NumType=Card	3	nummod	_	_
+2	@cloethecat_10	@cloethecat_10	NUM	N	NumType=Card	3	nummod	_	_
+3	Dunno	Dunno	PROPN	SP	_	6	nsubj	_	_
+4	XD	XD	PROPN	SP	_	3	flat:name	_	_
+5	Forse	forse	ADV	B	_	6	advmod	_	_
+6	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	pò	pò	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	mandorla	mandorla	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	19	punct	_	_
+17	ma	ma	CCONJ	CC	_	19	cc	_	_
+18	nemmeno	nemmeno	ADV	BN	PronType=Neg	19	advmod	_	_
+19	tanto	tanto	ADV	B	_	13	advmod	_	_
+20	XD	XD	PROPN	SP	_	6	obj	_	SpacesAfter=\n
+

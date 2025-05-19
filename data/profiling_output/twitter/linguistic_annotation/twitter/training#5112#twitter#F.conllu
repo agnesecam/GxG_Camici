@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alecattelan se x TRL facevate salire la prima ke vi capitava..beh..son stata fortunata!
+1	@alecattelan	@alecattelan	ADV	B	_	13	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	x	x	SYM	SYM	_	6	nsubj	_	_
+4	TRL	TRL	PROPN	SP	_	3	flat:name	_	_
+5	facevate	facevare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	salire	salire	VERB	V	VerbForm=Inf	13	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
+9	ke	ke	NOUN	S	Gender=Fem|Number=Sing	13	nsubj:pass	_	_
+10	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	13	iobj	_	_
+11	capitava..beh..son	escapitava..beh..sere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	aux:pass	_	_
+13	fortunata	fortunare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = #EPCC @EPCCattelan .ti amo da quella volta.
+1	#EPCC	#EPCC	PROPN	SP	_	4	nsubj	_	_
+2	@EPCCattelan	@EPCCattelan	PROPN	SP	_	1	flat:name	_	_
+3	.ti	.to	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+4	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	volta.	volta.	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

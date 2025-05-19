@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Storace :"dobbiamo inquinare il cdx con le nostre idee" @AlemannoTW @An_AzNazionale @robertomenia @FOrsomarso
+1	@Storace	@Storace	PROPN	SP	_	4	nsubj	_	_
+2	:"	:"	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	inquinare	inquinare	VERB	V	VerbForm=Inf	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cdx	cdx	NOUN	S	Gender=Masc	4	obj	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	idee	idea	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	12	punct	_	_
+12	@AlemannoTW	@AlemannoTW	PROPN	SP	_	10	nmod	_	_
+13	@An_AzNazionale	@An_AzNazionale	PROPN	SP	_	12	flat:name	_	_
+14	@robertomenia	@robertomenia	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	@FOrsomarso	@FOrsomarso	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

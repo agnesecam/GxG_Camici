@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = G8 Genova, Corte Strasburgo condanna l'Italia:
+1	G8	G8	PROPN	SP	_	6	obl	_	_
+2	Genova	Genova	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	Corte	Corte	PROPN	SP	_	6	nsubj	_	_
+5	Strasburgo	Strasburgo	PROPN	SP	_	4	flat:name	_	_
+6	condanna	condannare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	Italia	Italia	PROPN	SP	_	6	obj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = "Alla Diaz fu tortura, ma colpevoli impuniti" http://www.
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2-3	Alla	_	_	_	_	_	_	_	_
+2	A	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Diaz	Diaz	PROPN	SP	_	6	obl	_	_
+5	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+6	tortura	tortura	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	ma	ma	CCONJ	CC	_	10	cc	_	_
+9	colpevoli	colpevole	ADJ	A	Number=Plur	10	amod	_	_
+10	impuniti	impunito	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	12	punct	_	_
+12	http://www	http://www	NOUN	S	_	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = repubblica.it/politica/2015/ 04/07/news/diaz_corte_strasburgo_condanna_l_italia_per_tortura-111347188/ … via @repubblicait
+1	repubblica.it/politica/2015/	repubblica.it/politica/2015/	PUNCT	FF	_	2	punct	_	_
+2	04/07	04/07	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+3	/news/diaz_corte_strasburgo_condanna_l_italia_per_tortura-111347188	/news/diaz_corte_strasburgo_condanna_l_italia_per_tortura-111347188	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	_
+5	…	…	PUNCT	FF	_	3	punct	_	_
+6	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	@repubblicait	@repubblicait	NOUN	S	Gender=Masc	6	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sembra che in cambio nostre zone pescose mare, Francia ci darebbe zone per trivellazioni che a lei non interessano https:// twitter.com/RossMuroni/sta tus/718723040578834432 …
+1	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	12	mark	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	zone	zona	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	pescose	pescoso	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	mare	mare	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	Francia	Francia	PROPN	SP	_	12	nsubj	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	iobj	_	_
+12	darebbe	dare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+13	zone	zona	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+14	per	per	ADP	E	_	15	case	_	_
+15	trivellazioni	trivellazione	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+16	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	interessano	interessare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+21	https:	https:	PUNCT	FS	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	13	punct	_	_
+24	twitter.com/RossMuroni/sta	twitter.com/RossMuroni/sta	PROPN	SP	_	12	nsubj	_	_
+25	tus/718723040578834432	tus/718723040578834432	NUM	N	NumType=Card	24	nummod	_	_
+26	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il mio diciottesimo ---> "Fura Paura" tra l'altro c'erano #leiene con l'inviato che faceva lo "sconvolt quiz" chi se lo dimentica più.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+3	diciottesimo	diciottesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	>	>	SYM	SYM	_	16	nsubj	_	_
+8	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	Fura	Fura	PROPN	SP	_	7	appos	_	_
+10	Paura	paura	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	9	punct	_	_
+12	tra	tra	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	obl	_	_
+15	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	SpaceAfter=No
+16	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+17	#leiene	#leenere	ADV	B	_	16	advmod	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	inviato	inviato	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+21	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+22	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
+23	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	"	"	PUNCT	FB	_	25	punct	_	SpaceAfter=No
+25	sconvolt	sconvolt	NOUN	S	Gender=Masc	22	obj	_	_
+26	quiz	quiz	NOUN	S	Gender=Masc	25	nmod	_	SpaceAfter=No
+27	"	"	PUNCT	FB	_	28	punct	_	_
+28	chi	chi	PRON	PR	Number=Sing|PronType=Rel	25	appos	_	_
+29	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	31	expl	_	_
+30	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	obj	_	_
+31	dimentica	dimenticare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
+32	più	più	ADV	B	_	28	advmod	_	SpaceAfter=No
+33	.	.	PUNCT	FS	_	16	punct	_	SpacesAfter=\n
+

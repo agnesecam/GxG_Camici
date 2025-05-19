@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @s_martinello @f_pancani ma caricando l'anteriore immediatamente dopo e sollevandosi dalla sella per allegerire la ruota posteriore.
+1	@s_martinello	@s_martinello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@f_pancani	@f_pancano	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	caricando	caricare	VERB	V	VerbForm=Ger	1	conj	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	anteriore	anteriora	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	immediatamente	immediato	ADV	B	_	6	advmod	_	_
+8	dopo	dopo	ADP	E	_	7	case	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10-11	sollevandosi	_	_	_	_	_	_	_	_
+10	sollevando	sollevare	VERB	V	VerbForm=Ger	8	conj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	sella	sella	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	allegerire	allegerire	VERB	V	VerbForm=Inf	10	advcl	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	ruota	ruota	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+19	posteriore	posteriore	ADJ	A	Number=Sing	18	amod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

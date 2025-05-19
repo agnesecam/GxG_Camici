@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Complimenti @ReteSport grandi momenti di radio con Catalani.
+1	Complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@ReteSport	@ReteSport	PROPN	SP	_	1	nmod	_	_
+3	grandi	grande	ADJ	A	Number=Plur	4	amod	_	_
+4	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	radio	radio	NOUN	S	Gender=Fem	4	nmod	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	Catalani	Catalani	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = In parecchi bar ho ascoltato maggiore competenza .Ma si..
+1	In	in	ADP	E	_	3	case	_	_
+2	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	bar	bar	NOUN	S	Gender=Masc	5	obl	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	ascoltato	ascoltare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	maggiore	maggiore	ADJ	A	Degree=Cmp|Number=Sing	7	amod	_	_
+7	competenza	competenza	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	.Ma	.Ma	PROPN	SP	_	7	nmod	_	_
+9	si.	si.	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = se avevamo Ibra..
+1	se	se	SCONJ	CS	_	2	mark	_	_
+2	avevamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	Ibra.	Ibra.	PROPN	SP	_	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

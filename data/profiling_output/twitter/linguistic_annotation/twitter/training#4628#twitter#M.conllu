@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se @HillaryClinton dovesse vincere @WhiteHouse dovrà ringraziare @BernieSanders che sveglia elettorato #Dem come @POTUS
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	@HillaryClinton	@HillaryClinton	PROPN	SP	_	4	nsubj	_	_
+3	dovesse	dovere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	vincere	vincere	VERB	V	VerbForm=Inf	7	advcl	_	_
+5	@WhiteHouse	@WhiteHouse	PROPN	SP	_	4	obj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	ringraziare	ringraziare	VERB	V	VerbForm=Inf	0	root	_	_
+8	@BernieSanders	@BernieSanders	PROPN	SP	_	7	obj	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	sveglia	svegliare	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	elettorato	elettorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+12	#Dem	#Dem	PROPN	SP	_	11	obj	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	@POTUS	@POTUS	PROPN	SP	_	11	obl	_	SpacesAfter=\n
+

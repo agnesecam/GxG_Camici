@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #illycaffe unica azienda italiana scelta (per il quarto anno consecutivo ) da #ethisphere tra le #worldsmostethicalco http:// buff.ly/22wYhkV
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	illycaffe	illycaffa	VERB	V	VerbForm=Inf	22	acl	_	_
+3	unica	unico	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	azienda	azienda	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	scelta	scegliere	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+7	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+8	per	per	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
+11	anno	anno	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+12	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	)	)	PUNCT	FB	_	11	punct	_	_
+14	da	da	ADP	E	_	15	mark	_	_
+15	#ethisphere	#ethisphere	VERB	V	VerbForm=Inf	2	acl	_	_
+16	tra	tra	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	#worldsmostethicalco	#worldsmostethicalco	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	buff.ly/22wYhkV	buff.ly/22wYhkV	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

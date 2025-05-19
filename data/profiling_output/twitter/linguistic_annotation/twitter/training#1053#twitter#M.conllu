@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pretemessicano @enver @vedogente sono appena arrivato dalla ridente marina di san salvo.
+1	@pretemessicano	@pretemessicare	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@enver	@enver	NOUN	S	_	6	nsubj	_	_
+3	@vedogente	@vedogente	ADJ	A	Number=Sing	2	amod	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	appena	appena	ADV	B	_	6	advmod	_	_
+6	arrivato	arrivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	ridente	ridente	ADJ	A	Number=Sing	10	amod	_	_
+10	marina	marina	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	san	san	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+13	salvo	salvo	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = dammi il tempo di un fisiologico ripiglio.
+1	dammi	dare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	fisiologico	fisiologico	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	ripiglio	ripiglio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

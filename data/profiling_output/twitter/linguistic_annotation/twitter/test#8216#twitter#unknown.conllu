@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlbertoBagnai ... e dunque non c'è speranza x nessuno...
+1	@AlbertoBagnai	@AlbertoBagnai	ADV	B	_	0	root	_	_
+2	...	...	PUNCT	FF	_	1	punct	_	_
+3	e	e	CCONJ	CC	_	7	cc	_	_
+4	dunque	dunque	ADV	B	_	7	advmod	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+9	x	x	SYM	SYM	_	8	nmod	_	_
+10	nessuno...	nessuno.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = @rekotc
+1	@rekotc	@rekotc	ADV	B	_	0	root	_	SpacesAfter=\n
+

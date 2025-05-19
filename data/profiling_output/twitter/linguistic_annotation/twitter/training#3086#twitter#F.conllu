@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2.
+1	2	2	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = A prima vista posso sembrare una di quelle che se la tira ma in realtà sono completamente l'opposto
+1	A	a	ADP	E	_	3	case	_	_
+2	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+3	vista	vista	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+4	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+6	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	12	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	12	case	_	_
+10	se	se	SCONJ	CS	_	9	fixed	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	tira	tira	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+13	ma	ma	CCONJ	CC	_	19	cc	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	realtà	realtà	NOUN	S	Gender=Fem	19	obl	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+17	completamente	completamente	ADV	B	_	19	advmod	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	opposto	opposto	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	SpacesAfter=\n
+

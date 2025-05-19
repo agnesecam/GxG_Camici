@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scienziati Usa:
+1	Scienziati	scienziare	PROPN	SP	_	0	root	_	_
+2	Usa	Usa	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = “Il Vesuvio sta per esplodere <br>non avrete il tempo di scappare” => http://www.
+1	“	“	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Vesuvio	Vesuvio	PROPN	SP	_	4	nsubj	_	_
+4	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	esplodere	esplodere	VERB	V	VerbForm=Inf	8	advcl	_	_
+7	<br>non	<br>non	ADV	BN	PronType=Neg	6	advmod	_	_
+8	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	12	mark	_	_
+12	scappare	scappare	VERB	V	VerbForm=Inf	10	acl	_	SpaceAfter=No
+13	”	”	PUNCT	FB	_	12	punct	_	_
+14	=>	=>	SYM	SYM	_	12	obj	_	_
+15	http://www	http://www	NOUN	S	_	14	compound	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = retenews24.it/scienziati-usa -vesuvio-sta-esplodere-non-avrete-tempo-scappare/ …
+1	retenews24.it/scienziati-usa	retenews24.it/scienziati-uso	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	vesuvio-sta-esplodere	vesuvio-sta-esplodere	VERB	V	VerbForm=Inf	7	parataxis	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+7	avrete-tempo-scappare	avrete-tempo-scappare	VERB	V	VerbForm=Inf	1	conj	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	_
+9	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

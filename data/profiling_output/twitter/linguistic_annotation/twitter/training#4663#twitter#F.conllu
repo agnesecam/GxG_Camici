@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quante volte ancora dovrà morire sto povero ragazzo?
+1	Quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
+2	volte	volta	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+3	ancora	ancora	ADV	B	_	5	advmod	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	morire	morire	VERB	V	VerbForm=Inf	0	root	_	_
+6	sto	stare	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+7	povero	povero	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #Regeni io pretendo la verità,basta depistaggi e bugie!
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Regeni	Regeno	PROPN	SP	_	0	root	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	pretendo	pretendere	VERB	V	VerbForm=Ger	2	advcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	verità	verità	NOUN	S	Gender=Fem	4	obj	_	SpaceAfter=No
+7	,basta	,basto	ADJ	A	Number=Sing	8	amod	_	_
+8	depistaggi	depistaggio	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	bugie	bugia	NOUN	S	Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/ultimenotizie/ status/713809014564470784 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/ultimenotizie/	twitter.com/ultimenotizie/	PUNCT	FF	_	1	punct	_	_
+5	status/713809014564470784	status/713809014564470784	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

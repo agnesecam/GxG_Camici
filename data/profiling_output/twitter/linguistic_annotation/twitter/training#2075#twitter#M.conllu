@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma vi rendete conto che gli LSU non sono altro che lavoratori a nero stipendiati dallo stato !!!
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	rendete	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	conto	conto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	LSU	LSU	PROPN	SP	_	10	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	advcl	_	_
+11	che	che	SCONJ	CS	_	12	mark	_	_
+12	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	10	advcl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	nero	nero	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+15	stipendiati	stipendiato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	_
+16-17	dallo	_	_	_	_	_	_	_	_
+16	da	da	ADP	E	_	18	case	_	_
+17	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	stato	stato	NOUN	S	Gender=Masc|Number=Sing	15	obl:agent	_	_
+19	!!!	!!!	PUNCT	FF	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ma dove siamo... http:// fb.me/4DCOqttyh
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	dove	dove	ADV	B	_	7	advmod	_	_
+3	siamo...	siamo.	PUNCT	FS	_	2	punct	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	fb.me/4DCOqttyh	fb.me/4DCOqttyh	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

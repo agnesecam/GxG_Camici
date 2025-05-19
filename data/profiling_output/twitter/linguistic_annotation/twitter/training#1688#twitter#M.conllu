@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le nostre scarpe meraviglioseee!!
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	scarpe	scarpe	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	meraviglioseee	meraviglioseeo	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = X info 3384421242 http:// fb.me/7SyR1QuzN
+1	X	X	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	_
+2	info	info	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	3384421242	3384421242	NUM	N	NumType=Card	2	nummod	_	_
+4	http:	http:	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	fb.me/7SyR1QuzN	fb.me/7SyR1QuzN	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

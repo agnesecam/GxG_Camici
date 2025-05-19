@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un brillante e interessante squarcio dentro un mondo a noi pecorelle smarrite sconosciuto.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+2	brillante	brillante	ADJ	A	Number=Sing	5	amod	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	interessante	interessante	ADJ	A	Number=Sing	2	conj	_	_
+5	squarcio	squarcio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	dentro	dentro	ADP	E	_	8	case	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
+11	pecorelle	pecorella	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	12	det	_	_
+12	smarrite	smarrito	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+13	sconosciuto	sconosciuto	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Il mondo di coloro che... http:// fb.me/8oAiiGCaF
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	coloro	coloro	PRON	PD	Number=Plur|PronType=Dem	2	nmod	_	_
+5	che...	che.	PUNCT	FS	_	4	punct	_	_
+6	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	fb.me/8oAiiGCaF	fb.me/8oAiiGCaF	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

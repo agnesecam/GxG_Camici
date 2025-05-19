@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @maitre_a_panZer straordinaria opportunità solo per i datori di lavoro.
+1	@maitre_a_panZer	@maitre_a_panZere	ADP	E	_	3	case	_	_
+2	straordinaria	straordinario	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	opportunità	opportunità	NOUN	S	Gender=Fem	0	root	_	_
+4	solo	solo	ADV	B	_	7	advmod	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	datori	datore	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Chiunque essi siano.
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	siano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

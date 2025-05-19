@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Jonathan Coe:
+1	Jonathan	Jonathan	PROPN	SP	_	0	root	_	_
+2	Coe	coe	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Oggi avremmo bisogno di leader come Churchill" http:// fb.me/4JMrywbGl
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Oggi	oggi	ADV	B	_	3	advmod	_	_
+3	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	leader	leader	NOUN	S	_	4	nmod	_	_
+7	come	come	ADP	E	_	8	case	_	_
+8	Churchill	Churchill	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	10	punct	_	_
+10	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	6	punct	_	_
+13	fb.me/4JMrywbGl	fb.me/4JMrywbGl	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

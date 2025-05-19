@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FulvioPaglia ricordo quando stavamo per andare, lui al Real ed io alla Cnn.
+1	@FulvioPaglia	@FulvioPaglia	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	ricordo	ricordare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	quando	quando	SCONJ	CS	_	4	mark	_	_
+4	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	andare	andare	VERB	V	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Real	Real	PROPN	SP	_	8	nmod	_	_
+12	ed	e	CCONJ	CC	_	13	cc	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	conj	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Cnn	Cnn	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ci fermarono in aeroporto.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	fermarono	fermare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	aeroporto	aeroporto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Maledetto #sistema !
+1	Maledetto	maledetto	ADP	E	_	2	case	_	_
+2	#sistema	#sistema	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

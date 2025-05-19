@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessero trovato un miliardario che avesse detto" vendo calzini", la Mogherini gli avrebbe creduto?
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	miliardario	miliardario	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	10	punct	_	_
+10	vendo	vendere	VERB	V	VerbForm=Ger	8	advcl	_	_
+11	calzini	calzino	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Mogherini	Mogherini	PROPN	SP	_	18	nsubj	_	_
+16	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	_
+17	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	creduto	credere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 2
+# text = @andreasalutari
+1	@andreasalutari	@andreasalutario	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pvrvmore25 @VibeAlive17 ahahahah è vero, si cominciavo a sentire puzza di shit dallo schermo
+1	@pvrvmore25	@pvrvmore25	NUM	N	NumType=Card	2	nummod	_	_
+2	@VibeAlive17	@VibeAlive17	PROPN	SP	_	5	nsubj	_	_
+3	ahahahah	ahahahah	INTJ	I	_	5	discourse	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	cominciavo	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	conj	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	sentire	sentire	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	puzza	puzza	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	shit	shit	NOUN	S	Gender=Masc	11	nmod	_	_
+14-15	dallo	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	schermo	schermo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpacesAfter=\n
+

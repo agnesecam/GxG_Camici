@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @madeinsud_rai mi fa ridere quando l'uomo dei fuochi interpreta cio che succede al sud,triste..ma lui ce lo fa sembrare molto divertente
+1	@madeinsud_rai	@madeinsud_ere	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ridere	ridere	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	quando	quando	SCONJ	CS	_	11	mark	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	fuochi	fuoco	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	interpreta	interpretare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+12	cio	cio	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	succede	succedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	sud,triste..ma	sud,triste..ma	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+19	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	21	expl	_	_
+20	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+21	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+22	sembrare	sembrare	VERB	V	VerbForm=Inf	12	acl	_	_
+23	molto	molto	ADV	B	_	24	advmod	_	_
+24	divertente	divertente	ADJ	A	Number=Sing	22	xcomp	_	SpacesAfter=\n
+

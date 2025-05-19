@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Va detto che la Guidi è stata potuta intercettare giacché cooptata nel Governo.Per altri non è possibile altrimenti troppe ne leggeremmo.
+1	Va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Guidi	Guide	PROPN	SP	_	9	nsubj	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+7	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	aux	_	_
+8	potuta	potere	AUX	VM	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	aux	_	_
+9	intercettare	intercettare	VERB	V	VerbForm=Inf	18	csubj	_	_
+10	giacché	giacché	SCONJ	CS	_	11	mark	_	_
+11	cooptata	cooptare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+12-13	nel	_	_	_	_	_	_	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Governo.Per	Governo.Per	PROPN	SP	_	11	obl	_	_
+15	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	_
+16	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+17	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+18	possibile	possibile	ADJ	A	Number=Sing	2	ccomp	_	_
+19	altrimenti	altrimenti	CCONJ	CC	_	20	cc	_	_
+20	troppe	troppo	ADJ	A	Gender=Fem|Number=Plur	22	conj	_	_
+21	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	22	iobj	_	_
+22	leggeremmo	leggeere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	18	csubj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

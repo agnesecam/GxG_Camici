@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quanto vorrei che oggi #Martinez mi facesse pentire di tutte le cattiverie che dico su di lui, giuro, basterebbe il gol vittoria #GenoaToro
+1	Quanto	quanto	ADV	B	_	2	advmod	_	_
+2	vorrei	volere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	acl	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	oggi	oggi	ADV	B	_	7	advmod	_	_
+5	#Martinez	#Martinez	PROPN	SP	_	7	nsubj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+8	pentire	pentire	VERB	V	VerbForm=Inf	7	xcomp	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	12	det:predet	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	cattiverie	cattiveria	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+14	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15	su	su	ADP	E	_	17	case	_	_
+16	di	di	ADP	E	_	15	fixed	_	_
+17	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	giuro	giuro	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21	basterebbe	bastare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	gol	gol	NOUN	S	Gender=Masc	21	obj	_	_
+24	vittoria	vittorio	NOUN	S	Gender=Fem|Number=Sing	23	compound	_	_
+25	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+26	GenoaToro	GenoaToro	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pdnetwork No,per Casaleggio è vero ciò che è verale , mentre lo schizzo è inorganico per far sembrare la Vs.una brutta superCazzola SIvota
+1	@pdnetwork	@pdnetwork	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	No,per	No,per	PROPN	SP	_	1	nmod	_	_
+3	Casaleggio	Casaleggio	PROPN	SP	_	2	flat:name	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+6	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	verale	verale	ADJ	A	Number=Sing	6	acl:relcl	_	_
+10	,	,	PUNCT	FF	_	15	punct	_	_
+11	mentre	mentre	SCONJ	CS	_	15	mark	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	schizzo	schizzo	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	inorganico	inorganico	ADJ	A	Gender=Masc|Number=Sing	5	conj	_	_
+16	per	per	ADP	E	_	17	mark	_	_
+17	far	fare	VERB	V	VerbForm=Inf	15	advcl	_	_
+18	sembrare	sembrare	VERB	V	VerbForm=Inf	17	ccomp	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	Vs.una	Vs.una	PROPN	SP	_	18	obj	_	_
+21	brutta	brutto	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+22	superCazzola	superCazzola	PROPN	SP	_	20	flat:name	_	_
+23	SIvota	SIvota	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

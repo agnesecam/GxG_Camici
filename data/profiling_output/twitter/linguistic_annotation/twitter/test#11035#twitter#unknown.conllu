@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sta scemando col passare dei minuti la grande aggressività dei viola, mentre l'Empoli prende coraggio #EmpoliFiorentina #empolinazione
+1	Sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	scemando	scemare	VERB	V	VerbForm=Ger	0	root	_	_
+3-4	col	_	_	_	_	_	_	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	passare	passare	VERB	V	VerbForm=Inf	2	obl	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	grande	grande	ADJ	A	Number=Sing	11	amod	_	_
+11	aggressività	aggressività	NOUN	S	Gender=Fem	5	obj	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	viola	viola	NOUN	S	_	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	5	punct	_	_
+16	mentre	mentre	SCONJ	CS	_	19	mark	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	Empoli	Empoli	PROPN	SP	_	19	nsubj	_	_
+19	prende	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+20	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+21	#EmpoliFiorentina	#EmpoliFiorentina	PROPN	SP	_	20	nmod	_	_
+22	#empolinazione	#empolinazione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpacesAfter=\n
+

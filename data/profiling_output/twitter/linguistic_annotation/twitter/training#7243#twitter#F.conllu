@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @markorusso69 e secondo te perché lasciano sproloquiare lei e quelle come lei?
+1	@markorusso69	@markorusso69	NUM	N	NumType=Card	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	secondo	secondo	ADP	E	_	4	case	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	conj	_	_
+5	perché	perché	SCONJ	CS	_	6	mark	_	_
+6	lasciano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	sproloquiare	sproloquiare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	8	conj	_	_
+11	come	come	ADP	E	_	12	case	_	_
+12	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nmod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Perché servono alla "causa" ( di ESSI )
+1	Perché	perché	ADV	B	_	2	advmod	_	_
+2	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	causa	causa	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	_
+8	(	(	PUNCT	FB	_	10	punct	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	ESSI	Essi	PROPN	SP	_	6	nmod	_	_
+11	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

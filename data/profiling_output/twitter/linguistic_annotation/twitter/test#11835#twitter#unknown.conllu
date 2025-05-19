@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = oggi mentre eravamo tutto insieme all'uscita e stavamo ridendo, scherzando mi ha dato come uno "schiaffo" sulla guancia, poi mi ha -
+1	oggi	oggi	ADV	B	_	28	advmod	_	_
+2	mentre	mentre	SCONJ	CS	_	28	mark	_	_
+3	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	28	aux	_	_
+4	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	28	obl	_	_
+5	insieme	insieme	ADV	B	_	8	case	_	_
+6-7	all'	_	_	_	_	_	_	_	SpaceAfter=No
+6	a	a	ADP	E	_	5	fixed	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	uscita	uscita	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	ridendo	ridere	VERB	V	VerbForm=Ger	28	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	scherzando	scherzare	VERB	V	VerbForm=Ger	28	advcl	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+15	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	_	_
+17	come	come	ADP	E	_	20	case	_	_
+18	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	schiaffo	schiaffo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	20	punct	_	_
+22-23	sulla	_	_	_	_	_	_	_	_
+22	su	su	ADP	E	_	24	case	_	_
+23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	guancia	guancia	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	28	punct	_	_
+26	poi	poi	ADV	B	_	28	advmod	_	_
+27	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	28	iobj	_	_
+28	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+29	-	-	PUNCT	FB	_	28	punct	_	SpacesAfter=\n
+

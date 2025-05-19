@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prendi ciò che ti spetta, o lo farà qualcun altro
+1	Prendi	prendere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	spetta	spettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	o	o	CCONJ	CC	_	9	cc	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+10	qualcun	qualcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+11	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	SpacesAfter=\n
+

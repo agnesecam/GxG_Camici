@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ricordo dove eravamo di preciso;
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dove	dove	ADV	B	_	2	advmod	_	_
+4	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	preciso	preciso	ADJ	A	Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
+7	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = in ogni caso ... #London … https://www.
+1	in	in	ADP	E	_	3	case	_	_
+2	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+4	...	...	PUNCT	FF	_	3	punct	_	_
+5	#London	#London	PROPN	SP	_	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	_
+7	https://www	https://www	NOUN	S	_	5	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD9sGd-rqZTZ l__j3rTjaoCnPDfjQxVOuu07p00/ …
+1	instagram.com/p/BD9sGd-rqZTZ	instagram.com/p/BD9sGd-rqZTZ	PROPN	SP	_	0	root	_	_
+2	l__j3rTjaoCnPDfjQxVOuu07p00	l__j3rTjaoCnPDfjQxVOuu07p00	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

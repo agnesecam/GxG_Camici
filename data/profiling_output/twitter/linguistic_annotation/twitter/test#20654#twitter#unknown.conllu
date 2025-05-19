@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 1 anno che conosco questa tipa strana che ha cancellato radioactive e non glielo perdonerò mai.
+1	1	1	NUM	N	NumType=Card	2	nummod	_	_
+2	anno	anno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	tipa	tipo	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	strana	strano	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	cancellato	cancellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+11	radioactive	radioactiva	SCONJ	CS	_	16	mark	_	_
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+14-15	glielo	_	_	_	_	_	_	_	_
+14	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	perdonerò	perdonerare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+17	mai	mai	ADV	B	_	16	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @malikitemmuort
+1	@malikitemmuort	@malikitemmuort	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

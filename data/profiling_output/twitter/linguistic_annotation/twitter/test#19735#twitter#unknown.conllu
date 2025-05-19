@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...tu ci facevi alzare tutti in piedi, / e quando entrava in classe il bidello / ci permettevi di restar seduti.
+1	...tu	...tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	facevi	facevere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	alzare	alzare	VERB	V	VerbForm=Inf	0	root	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obj	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	/	/	PUNCT	FF	_	7	punct	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	quando	quando	SCONJ	CS	_	12	mark	_	_
+12	entrava	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	classe	classe	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	bidello	bidello	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+17	/	/	PUNCT	FF	_	12	punct	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	expl	_	_
+19	permettevi	permetre	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+20	di	di	ADP	E	_	21	mark	_	_
+21	restar	restare	VERB	V	VerbForm=Inf	19	xcomp	_	_
+22	seduti	sedere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	21	xcomp	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = "
+1	"	"	PUNCT	FB	_	0	root	_	SpacesAfter=\n
+

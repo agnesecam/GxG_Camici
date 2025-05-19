@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ..la si dovra ' regolamentare perche' non sia devastante per lo status quo bancario.
+1	..la	..lare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	_
+3	dovra	dovrare	ADP	E	_	5	mark	_	_
+4	'	'	PUNCT	FB	_	5	punct	_	_
+5	regolamentare	regolamentare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+6	perche	perca	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	'	'	PUNCT	FB	_	5	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	devastante	devastare	ADJ	A	Number=Sing	5	ccomp	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	status	status	NOUN	S	Gender=Masc	10	obl	_	_
+14	quo	quo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	bancario.	bancario.	NOUN	S	_	13	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma la strada e' ormai tracciata https:// twitter.com/Laboriusa/stat us/715490963322380288 …
+1	..ma	..mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	strada	strada	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	SpaceAfter=No
+5	'	'	PUNCT	FB	_	7	punct	_	_
+6	ormai	ormai	ADV	B	_	7	advmod	_	_
+7	tracciata	tracciare	ADJ	A	Gender=Fem|Number=Sing	11	conj	_	_
+8	https:	https:	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	twitter.com/Laboriusa/stat	twitter.com/Laboriusa/stat	PROPN	SP	_	1	nsubj	_	_
+12	us/715490963322380288	us/715490963322380288	NUM	N	NumType=Card	11	nummod	_	_
+13	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

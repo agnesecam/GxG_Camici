@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #PapaDicevaSempre guardati da quelli che vivono col timore di sembrare poveri,non si fanno scrupoli di nulla e nessuno
+1	#PapaDicevaSempre	#PapaDicevaSempre	ADV	B	_	2	advmod	_	_
+2	guardati	guardare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	2	obl	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7-8	col	_	_	_	_	_	_	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	timore	timore	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	9	acl	_	_
+12	poveri,non	poveri,non	ADV	BN	PronType=Neg	11	advmod	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+14	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+15	scrupoli	scrupolo	NOUN	S	Gender=Masc|Number=Plur	14	obj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	nmod	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	conj	_	SpacesAfter=\n
+

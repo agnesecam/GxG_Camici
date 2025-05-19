@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È stata dura, e sono piuttosto sicura di averne dimenticata qualcuna , ma ce l'ho fatta.
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
+3	dura	duro	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	piuttosto	piuttosto	ADV	B	_	8	advmod	_	_
+8	sicura	sicuro	ADJ	A	Gender=Fem|Number=Sing	3	conj	_	_
+9	di	di	ADP	E	_	12	mark	_	_
+10-11	averne	_	_	_	_	_	_	_	_
+10	aver	avere	AUX	VA	VerbForm=Inf	12	aux	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+12	dimenticata	dimenticare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+13	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	12	obj	_	_
+14	,	,	PUNCT	FF	_	19	punct	_	_
+15	ma	ma	CCONJ	CC	_	19	cc	_	_
+16	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	_
+17	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	19	obj	_	SpaceAfter=No
+18	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IGT_official @YouTube L'accento sardo l'hai fatto benissimo ma non vale farmi piangere.
+1	@IGT_official	@IGT_official	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	@YouTube	@YouTube	PROPN	SP	_	8	nsubj	_	_
+3	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	accento	accento	NOUN	S	Gender=Masc|Number=Sing	8	dislocated	_	_
+5	sardo	sardo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+7	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	benissimo	bene	ADV	B	Degree=Abs	8	advmod	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+13	farmi	arma|farme	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+14	piangere	piangero	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = #igt
+1	#igt	#igt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

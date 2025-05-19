@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @hhisjuliet ci sono gli uccelli qua che fanno casino
+1	@hhisjuliet	@hhisjulie	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	uccelli	uccello	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	qua	quo	ADV	B	_	5	advmod	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	casino	casino	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sambuca di sicilia borgo dei borghi, la Sicilia vince per il terzo anno consecutivo
+1	sambuca	sambuca	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	sicilia	sicilia	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	borgo	borgo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	borghi	borgo	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Sicilia	Sicilia	PROPN	SP	_	11	nsubj	_	_
+11	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	per	per	ADP	E	_	15	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	terzo	terzo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
+15	anno	anno	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+16	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	11	xcomp	_	SpacesAfter=\n
+

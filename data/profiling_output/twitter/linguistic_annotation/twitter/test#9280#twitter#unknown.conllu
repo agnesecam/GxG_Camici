@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jackbass68 @ArsenaleKappa Non sono renziano.
+1	@jackbass68	@jackbass68	NUM	N	NumType=Card	2	nummod	_	_
+2	@ArsenaleKappa	@ArsenaleKappa	PROPN	SP	_	5	nsubj	_	_
+3	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	renziano	renziare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ma neppure talmente idiota da considerare divertenti ed intelligenti tutte le battute su Renzi
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	neppure	neppure	ADV	BN	PronType=Neg	4	advmod	_	_
+3	talmente	talmente	ADV	B	_	4	advmod	_	_
+4	idiota	idiotare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	da	da	ADP	E	_	6	mark	_	_
+6	considerare	considerare	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	divertenti	divertente	ADJ	A	Number=Plur	6	xcomp	_	_
+8	ed	e	CCONJ	CC	_	9	cc	_	_
+9	intelligenti	intelligente	ADJ	A	Number=Plur	7	conj	_	_
+10	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	12	det:predet	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	battute	battuta	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+13	su	su	ADP	E	_	14	case	_	_
+14	Renzi	Renzi	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @suertefinal gli immigrati economici e i falsi profughi.
+1	@suertefinal	@suertefinal	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	immigrati	immigrato	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	economici	economico	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	falsi	falso	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+8	profughi	profughi	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .(la maggioranza..
+1	.(	.(	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	maggioranza..	maggioranza..	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = )vanno espulsi..questo governo ne dovrà rispondere!
+1	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	espulsi..questo	espulsi..questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	governo	governo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	rispondere	rispondere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

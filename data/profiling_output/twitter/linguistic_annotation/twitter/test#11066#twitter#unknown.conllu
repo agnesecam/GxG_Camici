@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dopo l'Inghilterra,anche l'Italia:la protesta dei tifosi contro i prezzi dei biglietti si espande dappertutto https:// twitter.com/gazzetta_it/st atus/717700410170060800 …
+1	Dopo	dopo	ADP	E	_	3	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	Inghilterra	Inghilterra	PROPN	SP	_	8	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	Italia:la	Italia:la	PROPN	SP	_	8	nsubj	_	_
+8	protesta	protesta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	tifosi	tifoso	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+12	contro	contro	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	prezzi	prezzo	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15-16	dei	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	biglietti	biglietto	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	_
+19	espande	espande	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+20	dappertutto	dappertutto	ADV	B	_	19	advmod	_	_
+21	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	twitter.com/gazzetta_it/st	twitter.com/gazzetta_it/st	CCONJ	CC	_	25	cc	_	_
+25	atus/717700410170060800	atus/717700410170060800	NUM	N	NumType=Range	8	conj	_	_
+26	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

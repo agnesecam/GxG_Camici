@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho Trovato Lo Stageee.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	Trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Stageee	Stageee	PROPN	SP	_	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E niente.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Sono cosi stanca e impegnata che nn riesco neppure ad esultare.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	cosi	coso	ADJ	A	Number=Plur	0	root	_	_
+3	stanca	stancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	impegnata	impegnare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	nn	nno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	8	det	_	_
+8	riesco	riesco	NOUN	S	Gender=Masc|Number=Sing	5	advcl	_	_
+9	neppure	neppure	ADV	BN	PronType=Neg	11	advmod	_	_
+10	ad	a	ADP	E	_	11	mark	_	_
+11	esultare	esultare	VERB	V	VerbForm=Inf	8	acl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

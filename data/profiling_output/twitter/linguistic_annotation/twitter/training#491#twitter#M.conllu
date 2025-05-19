@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @esbe7 non è un pensiero reale, ho immaginato, rompono i coglioni adesso, figuriamoci se avessimo Messi, Suarez, Ronaldo...
+1	@esbe7	@esbe7	NUM	N	NumType=Card	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+6	reale	reale	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	immaginato	immaginare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	rompono	rompere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	coglioni	coglione	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	adesso	adesso	ADV	B	_	11	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	11	punct	_	_
+16-17	figuriamoci	_	_	_	_	_	_	_	_
+16	figuriamo	figurare	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	obj	_	_
+18	se	se	SCONJ	CS	_	20	mark	_	_
+19	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	20	aux	_	_
+20	Messi	messo	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	22	punct	_	_
+22	Suarez	Suarez	PROPN	SP	_	11	conj	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	24	punct	_	_
+24	Ronaldo...	Ronaldo...	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @paogrilli5 il rischio di incidenti è alto e il nostro è un mare chiuso inoltre giacimenti non soddisfano fabbisogno pic.twitter.com/rXJACNYatZ
+1	@paogrilli5	@paogrilli5	NUM	N	NumType=Card	3	nummod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	rischio	rischio	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	incidenti	incidente	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	alto	alto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+8	e	e	CCONJ	CC	_	13	cc	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	nostro	nostro	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mare	mare	NOUN	S	Gender=Masc|Number=Sing	18	conj	_	_
+14	chiuso	chiuso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	acl	_	_
+15	inoltre	inoltre	ADV	B	_	18	advmod	_	_
+16	giacimenti	giacimente	NOUN	S	Gender=Masc|Number=Plur	18	nsubj	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	soddisfano	soddisfare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+19	fabbisogno	fabbisogno	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+20	pic.twitter.com/rXJACNYatZ	pic.twitter.com/rXJACNYatZ	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

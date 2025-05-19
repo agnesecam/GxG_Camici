@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi ha chiesto un semi raccolto semplice che non sembrasse un raccolto e che non facesse … https://www.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	semi	seme	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	raccolto	raccogliere	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	semplice	semplice	ADJ	A	Number=Sing	6	amod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	sembrasse	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	raccolto	raccolto	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	che	che	SCONJ	CS	_	16	mark	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	conj	_	_
+17	…	…	PUNCT	FF	_	18	punct	_	_
+18	https://www	https://www	NOUN	S	_	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDX_khVSmwA/
+1	instagram.com/p/BDX_khVSmwA/	instagram.com/p/BDX_khVSmwA/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

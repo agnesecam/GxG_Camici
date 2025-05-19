@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = RAGA STANOTTE HO SOGNATO CHE DAN E PHIL STAVANO FACENDO UN VIDEO E ALLA FINE DAN FA "I CANT KEEP THIS SECRET ANYMORE" ODDUO
+1	RAGA	RAGA	PROPN	SP	_	10	nsubj	_	_
+2	STANOTTE	STANOTTE	PROPN	SP	_	1	flat:name	_	_
+3	HO	Ho	PROPN	SP	_	1	flat:name	_	_
+4	SOGNATO	SOGNATO	PROPN	SP	_	1	nmod	_	_
+5	CHE	Che	PROPN	SP	_	4	flat:name	_	_
+6	DAN	DAN	PROPN	SP	_	4	flat:name	_	_
+7	E	e	CCONJ	CC	_	8	cc	_	_
+8	PHIL	Phil	PROPN	SP	_	4	conj	_	_
+9	STAVANO	stare	PROPN	SP	_	8	flat:name	_	_
+10	FACENDO	fare	VERB	V	VerbForm=Ger	0	root	_	_
+11	UN	Un	PROPN	SP	_	10	obj	_	_
+12	VIDEO	video	PROPN	SP	_	11	flat:name	_	_
+13	E	e	CCONJ	CC	_	14	cc	_	_
+14-15	ALLA	_	_	_	_	_	_	_	_
+14	A	a	PROPN	SP	_	12	flat:name	_	_
+15	LA	il	PROPN	SP	_	14	flat:name	_	_
+16	FINE	fine	PROPN	SP	_	14	flat:name	_	_
+17	DAN	DAN	PROPN	SP	_	14	flat:name	_	_
+18	FA	fa	PROPN	SP	_	14	flat:name	_	_
+19	"	"	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+20	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	CANT	CANT	PROPN	SP	_	14	flat:name	_	_
+22	KEEP	KEEP	PROPN	SP	_	14	flat:name	_	_
+23	THIS	THIS	PROPN	SP	_	14	flat:name	_	_
+24	SECRET	secret	PROPN	SP	_	14	flat:name	_	_
+25	ANYMORE	ANYMORE	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+26	"	"	PUNCT	FB	_	14	punct	_	_
+27	ODDUO	ODDUO	PROPN	SP	_	14	flat:name	_	SpacesAfter=\n
+

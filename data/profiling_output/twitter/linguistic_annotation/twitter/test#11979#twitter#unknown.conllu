@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = mi ricordoooooooo l'avevo sentito al telegiornale io e mamma stavamo scioccate https:// twitter.com/whiteboybizzle /status/680801388545183744 …
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	ricordoooooooo	ricordoooooooo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	avevo	avere	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	sentito	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	telegiornale	telegiornale	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	_
+12	stavamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	scioccate	scioccare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	_
+14	https:	https:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	twitter.com/whiteboybizzle	twitter.com/whiteboybizzle	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+18	/status/680801388545183744	/status/680801388545183744	NUM	N	NumType=Card	17	nummod	_	_
+19	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

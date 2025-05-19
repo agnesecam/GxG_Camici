@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #CoachTeaTime Sono le cinque, è l'ora del tea!
+1	#CoachTeaTime	#CoachTeaTimo	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cinque	cinque	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	ora	ora	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tea	tea	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Le nostre paure possono impedirci di impegnarci per realizzare...
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	paure	paura	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+4	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5-6	impedirci	_	_	_	_	_	_	_	_
+5	impedir	impedire	VERB	V	VerbForm=Inf	0	root	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8-9	impegnarci	_	_	_	_	_	_	_	_
+8	impegnar	impegnare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	realizzare...	realizzare...	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+
+# sent_id = 3
+# text = http:// fb.me/6gIlaPMuV
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/6gIlaPMuV	fb.me/6gIlaPMuV	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @brividillusori -era dentro e da lì loro sono andati sul 12-10, non dico che avrebbe fatto la differenza ma un punto a metà set pesa sempre
+1	@brividillusori	@brividillusore	ADV	B	_	2	advmod	_	_
+2	-era	-ero	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	dentro	dentro	ADV	B	_	2	advmod	_	_
+4	e	e	CCONJ	CC	_	9	cc	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	lì	lì	ADV	B	_	9	advmod	_	_
+7	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+10-11	sul	_	_	_	_	_	_	_	_
+10	su	su	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	12	12	NUM	N	NumType=Card	9	obl	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	10	10	NUM	N	NumType=Card	12	compound	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	dico	dico	ADJ	A	Gender=Masc|Number=Sing	20	conj	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
+23	ma	ma	CCONJ	CC	_	25	cc	_	_
+24	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	punto	punto	NOUN	S	Gender=Masc|Number=Sing	20	conj	_	_
+26	a	a	ADP	E	_	27	case	_	_
+27	metà	metà	NOUN	S	Gender=Fem	25	nmod	_	_
+28	set	se	NOUN	S	Gender=Masc	27	compound	_	_
+29	pesa	pesare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	25	acl	_	_
+30	sempre	sempre	ADV	B	_	29	advmod	_	SpacesAfter=\n
+

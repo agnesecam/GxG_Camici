@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tearsmika finisco geografia mentre aspetto che si facciano le 16, tu?
+1	@tearsmika	@tearsmikare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	finisco	finisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+3	geografia	geografia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	mentre	mentre	SCONJ	CS	_	5	mark	_	_
+5	aspetto	aspetto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:pass	_	_
+8	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	16	16	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nsubj:pass	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

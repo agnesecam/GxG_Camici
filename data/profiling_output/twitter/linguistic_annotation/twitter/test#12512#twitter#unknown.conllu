@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Wu_Ming_Foundt @abesibe @gbarbacetto @zeropregi non cado in nessuna trappola.
+1	@Wu_Ming_Foundt	@Wu_Ming_Foundt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@abesibe	@abesiba	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+3	@gbarbacetto	@gbarbacetto	ADP	E	_	4	case	_	_
+4	@zeropregi	@zeropregio	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	cado	cado	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
+9	trappola	trappola	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ti chiedo però se lo stesso gesto lo avesse fatto disabile?
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl:impers	_	_
+2	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	però	però	ADV	B	_	2	advmod	_	_
+4	se	se	SCONJ	CS	_	10	mark	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	gesto	gesto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+9	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+11	disabile	disabile	ADJ	A	Number=Sing	10	xcomp	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

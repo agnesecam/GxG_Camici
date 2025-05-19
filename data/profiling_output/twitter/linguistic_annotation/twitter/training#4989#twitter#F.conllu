@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mai cosa fu più vera di "la vita è un pendolo che oscilla tra il dolore e la noia passando per il piacere"
+1	Mai	mai	ADV	B	_	5	advmod	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	nsubj	_	_
+3	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	vera	vero	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+6	di	di	ADP	E	_	12	case	_	_
+7	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	vita	vita	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	pendolo	pendolo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	oscilla	oscillare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15	tra	tra	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	dolore	dolore	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	noia	noia	NOUN	S	Gender=Fem|Number=Sing	17	conj	_	_
+21	passando	passare	VERB	V	VerbForm=Ger	14	advcl	_	_
+22	per	per	ADP	E	_	24	case	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	piacere	piacere	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+25	"	"	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

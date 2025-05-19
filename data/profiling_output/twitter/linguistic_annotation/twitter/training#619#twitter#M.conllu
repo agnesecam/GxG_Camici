@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @capuanogio avessimo avuto dei sorteggi un po' più fortunati magari!
+1	@capuanogio	@capuanogio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	sorteggi	sorteggio	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	po'	poco	ADV	B	_	9	advmod	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	fortunati	fortunato	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+11	magari	magari	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

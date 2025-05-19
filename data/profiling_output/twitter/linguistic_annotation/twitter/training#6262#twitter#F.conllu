@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'esclusione fissa dal primo minuto di Keita è la dimostrazione della pochezza di Pioli.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	esclusione	esclusione	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	fissa	fissare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	dal	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
+7	minuto	minuto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Keita	Keita	PROPN	SP	_	7	nmod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	dimostrazione	dimostrazione	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+13-14	della	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	pochezza	pochezza	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	Pioli	pioli	PROPN	SP	_	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Scelta folle pure se fossimo primi.
+1	Scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	folle	folle	ADJ	A	Number=Sing	1	amod	_	_
+3	pure	pure	ADV	B	_	6	advmod	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	1	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #MilanLazio
+1	#MilanLazio	#MilanLazio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

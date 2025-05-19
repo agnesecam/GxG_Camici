@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi mancano i tuoi abbracci le tue espressioni le tue coccole e il rumore che mi entra dentro quando ti dico che è... http:// fb.me/7JV7E3iQL
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	mancano	mancare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	abbracci	abbraccio	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	espressioni	espressione	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	coccole	coccola	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	rumore	rumore	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+17	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+18	dentro	dentro	ADV	B	_	17	advmod	_	_
+19	quando	quando	SCONJ	CS	_	21	mark	_	_
+20	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	21	iobj	_	_
+21	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+22	che	che	DET	DE	PronType=Exc	23	det	_	_
+23	è...	è.	NOUN	S	_	21	obj	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	fb.me/7JV7E3iQL	fb.me/7JV7E3iQL	PROPN	SP	_	2	nsubj	_	SpacesAfter=\n
+

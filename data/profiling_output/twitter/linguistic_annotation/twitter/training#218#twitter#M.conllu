@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FiloSama ma anche se non avessimo iniziato di merda
+1	@FiloSama	@FiloSama	ADV	B	_	0	root	_	_
+2	ma	ma	CCONJ	CC	_	7	cc	_	_
+3	anche	anche	ADV	B	_	7	advmod	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	iniziato	iniziare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	merda	merda	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpacesAfter=\n
+

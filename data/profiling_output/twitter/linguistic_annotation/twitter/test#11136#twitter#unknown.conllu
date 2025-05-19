@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho i brividi dappertutto #Elisa #Emma #Elodie Fantastiche #Lacura #Amici15 @Amiciufficiale
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	brividi	brividio	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	dappertutto	dappertutto	ADV	B	_	5	advmod	_	_
+5	#Elisa	#Elisa	PROPN	SP	_	3	nmod	_	_
+6	#Emma	#Emma	PROPN	SP	_	5	flat:name	_	_
+7	#Elodie	#Elodie	PROPN	SP	_	5	flat:name	_	_
+8	Fantastiche	Fantastiche	PROPN	SP	_	5	flat:name	_	_
+9	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	Lacura	Lacura	PROPN	SP	_	5	nmod	_	_
+11	#Amici15	#Amici15	PROPN	SP	_	10	flat:name	_	_
+12	@Amiciufficiale	@Amiciufficiale	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

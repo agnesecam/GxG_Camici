@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se fosse accaduto altrove, oggi non ci sarebbe stato spazio per nessun altra notizia.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	accaduto	accadere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+4	altrove	altrove	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	oggi	oggi	ADV	B	_	11	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+9	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	cop	_	_
+11	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12	per	per	ADP	E	_	15	case	_	_
+13	nessun	nessuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
+14	altra	altro	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Nessuno farà fiaccolate,... http:// fb.me/7bkQbXDtZ
+1	Nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	fiaccolate,...	fiaccolate,...	PUNCT	FS	_	2	punct	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	_
+7	fb.me/7bkQbXDtZ	fb.me/7bkQbXDtZ	PROPN	SP	_	2	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi al massimo può esser la brutta copia di B senza i soldi, senza le aziende e senza fi@a ;) https:// twitter.com/NonostanteMe/s tatus/717022533883719681 …
+1	Renzi	Renzi	ADV	B	_	6	advmod	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	massimo	massimo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	esser	essere	VERB	V	VerbForm=Inf	0	root	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	brutta	brutto	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	copia	copia	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	B	B	PROPN	SP	_	9	nmod	_	_
+12	senza	senza	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	9	punct	_	_
+16	senza	senza	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	aziende	azienda	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	_
+20	senza	senza	ADP	E	_	21	case	_	_
+21	fi@a	fi@a	NOUN	S	Gender=Fem|Number=Sing	18	conj	_	_
+22	;	;	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+23	)	)	PUNCT	FB	_	6	punct	_	_
+24	https:	https:	PUNCT	FC	_	27	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	_
+27	twitter.com/NonostanteMe/s	twitter.com/NonostanteMe/s	PROPN	SP	_	6	appos	_	_
+28	tatus/717022533883719681	tatus/717022533883719681	NUM	N	NumType=Card	27	nummod	_	_
+29	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CiroSterchele ...e poi credi in un dio di cui Nn ne sai nulla a parte un libro?
+1	@CiroSterchele	@CiroSterchela	PROPN	SP	_	2	nsubj	_	_
+2	...e	...e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	poi	poi	ADV	B	_	2	advmod	_	_
+4	credi	credere	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	dio	dio	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	cui	cui	PRON	PR	PronType=Rel	12	obl	_	_
+10	Nn	Nn	PROPN	SP	_	12	nsubj	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+12	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+13	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	libro	libro	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...
+1	..	..	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ma se da piccolo Nn ti avessero parlato di dio....
+1	Ma	ma	CCONJ	CC	_	8	cc	_	_
+2	se	se	SCONJ	CS	_	8	mark	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	Nn	Nn	PROPN	SP	_	8	obl	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+7	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	dio...	dio...	NOUN	S	_	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

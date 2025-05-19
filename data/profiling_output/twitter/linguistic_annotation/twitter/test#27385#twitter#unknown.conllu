@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sergiopuglia VENISTI A CASALNUOVO E MI COLPISTI MOLTO, EBBI L'OCCASIONE DI SCAMBIARE 2 CHIACCHIERE CON TE,SERGIO.
+1	@sergiopuglia	@sergiopugliare	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	VENISTI	VENISTI	PROPN	SP	_	0	root	_	_
+3	A	a	PROPN	SP	_	2	nmod	_	_
+4	CASALNUOVO	CASALNUOVO	PROPN	SP	_	3	flat:name	_	_
+5	E	e	CCONJ	CC	_	6	cc	_	_
+6	MI	mi	PROPN	SP	_	3	conj	_	_
+7	COLPISTI	COLPISTI	PROPN	SP	_	6	flat:name	_	_
+8	MOLTO	molto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	EBBI	EBBI	PROPN	SP	_	8	nmod	_	_
+11	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	OCCASIONE	occasione	PROPN	SP	_	10	flat:name	_	_
+13	DI	Di	ADP	E	_	14	case	_	_
+14	SCAMBIARE	SCAMBIARE	PROPN	SP	_	12	nmod	_	_
+15	2	2	NUM	N	NumType=Card	12	flat:name	_	_
+16	CHIACCHIERE	CHIACCHIERE	PROPN	SP	_	12	flat:name	_	_
+17	CON	con	PROPN	SP	_	12	flat:name	_	_
+18	TE	Te	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+20	SERGIO.	SERGIO.	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .MASSACRIAMOLI!!!!!!
+1-2	.MASSACRIAMOLI	_	_	_	_	_	_	_	SpaceAfter=No
+1	.MASSACRiamo	.MASSACRare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	!!!!!	!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

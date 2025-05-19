@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = eh si... dalla padella(ro)..alla brace https:// twitter.com/PieraPadovani/ status/719245295989755904 …
+1	eh	eh	INTJ	I	_	0	root	_	_
+2	si...	si.	PUNCT	FF	_	1	punct	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	padella(	padella(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	ro	ro	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+8	..alla	..alla	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+9	brace	brace	ADJ	A	Number=Sing	8	amod	_	_
+10	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	_
+13	twitter.com/PieraPadovani/	twitter.com/PieraPadovani/	PROPN	SP	_	8	nmod	_	_
+14	status/719245295989755904	status/719245295989755904	NUM	N	NumType=Card	13	nummod	_	_
+15	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

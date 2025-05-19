@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarcoFigiVale96 è una vittoria importante questa per lei per risollevare il morale dopo tutte le porcate che ha subito jobbando a chiunque
+1	@MarcoFigiVale96	@MarcoFigiVale96	PROPN	SP	_	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	importante	importante	ADJ	A	Number=Sing	4	amod	_	_
+6	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	4	nmod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+9	per	per	ADP	E	_	10	mark	_	_
+10	risollevare	risollevare	VERB	V	VerbForm=Inf	4	advcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	morale	morale	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	dopo	dopo	ADP	E	_	16	case	_	_
+14	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	16	det:predet	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	porcate	porcato	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+17	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+18	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+19	subito	subito	ADV	B	_	20	advmod	_	_
+20	jobbando	jobbare	VERB	V	VerbForm=Ger	16	acl:relcl	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	20	obl	_	SpacesAfter=\n
+

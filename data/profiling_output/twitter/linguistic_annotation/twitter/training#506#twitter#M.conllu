@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bisogna sempre ringraziare l'INPS che ci ricorda, qualora l' avessimo scordato, che viviamo in uno stato che ha... http:// fb.me/873CCJHX3
+1	Bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sempre	sempre	ADV	B	_	1	advmod	_	_
+3	ringraziare	ringraziare	VERB	V	VerbForm=Inf	1	csubj	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	INPS	Inps	PROPN	SP	_	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	iobj	_	_
+8	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	qualora	qualora	SCONJ	CS	_	12	advmod	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+13	scordato	scordato	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	12	punct	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	viviamo	vivere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	stato	stato	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+20	che	che	PRON	PR	PronType=Rel	16	obj	_	_
+21	ha...	ha.	PUNCT	FS	_	22	punct	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	_
+25	fb.me/873CCJHX3	fb.me/873CCJHX3	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di Stefano:
+1	Di	di	ADP	E	_	2	case	_	_
+2	Stefano	Stefano	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = "Il Milan dovrà tenere botta agli assalti di Premier e Bayern per Bacca" http:// fb.me/4ViWRx89P
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Milan	Milan	PROPN	SP	_	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	tenere	tenere	VERB	V	VerbForm=Inf	0	root	_	_
+6	botta	botta	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7-8	agli	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	assalti	assalto	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Premier	premier	PROPN	SP	_	9	nmod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	Bayern	Bayern	PROPN	SP	_	9	conj	_	_
+14	per	per	ADP	E	_	15	case	_	_
+15	Bacca	Bacca	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	17	punct	_	_
+17	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	13	punct	_	_
+20	fb.me/4ViWRx89P	fb.me/4ViWRx89P	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

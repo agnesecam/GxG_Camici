@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CederlePaolo in certi casi no.
+1	@CederlePaolo	@CederlePaolo	ADV	B	_	4	advmod	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	casi	caso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	no	no	ADV	BN	PronType=Neg	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Leggi (e fai leggere) #CostruireIlDomani ! :-)
+1	Leggi	legge	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	leggere	leggere	VERB	V	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+6	)	)	PUNCT	FB	_	4	punct	_	_
+7	#CostruireIlDomani	#CostruireIlDomani	PROPN	SP	_	1	nmod	_	_
+8	!	!	PUNCT	FS	_	7	punct	_	_
+9	:	:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

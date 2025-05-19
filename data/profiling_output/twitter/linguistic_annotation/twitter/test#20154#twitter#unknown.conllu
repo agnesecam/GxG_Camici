@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fattoquotidiano io direi che le "riforme" che ha fatto le ha fatte xchè l italia e la gran massa degl italiani continuano a dormire
+1	@fattoquotidiano	@fattoquotidiare	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	direi	dire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	14	mark	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	riforme	riforma	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+12	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+13	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	ccomp	_	_
+15	xchè	xché	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	obj	_	_
+16	l	l	X	X	_	14	obl	_	_
+17	italia	italia	X	SW	Foreign=Yes	16	flat:foreign	_	_
+18	e	e	CCONJ	CC	_	21	cc	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	gran	grande	ADJ	A	Number=Sing	21	amod	_	_
+21	massa	massa	NOUN	S	Gender=Fem|Number=Sing	24	nsubj	_	_
+22	degl	degl	ADJ	A	Number=Sing	21	amod	_	_
+23	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	_
+24	continuano	continuare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+25	a	a	ADP	E	_	26	mark	_	_
+26	dormire	dormire	VERB	V	VerbForm=Inf	24	xcomp	_	SpacesAfter=\n
+

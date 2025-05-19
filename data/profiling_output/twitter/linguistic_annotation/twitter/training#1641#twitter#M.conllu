@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dirce270258 É una delle nostre priorità che spesso ci hanno fatto seguire solo gli interessi dei clienti anche a gratuito patrocinio .
+1	@dirce270258	@dirce270258	NUM	N	NumType=Card	2	nummod	_	_
+2	É	essere	PROPN	SP	_	0	root	_	_
+3	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nmod	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	priorità	priorità	NOUN	S	Gender=Fem	3	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+9	spesso	spesso	ADV	B	_	12	advmod	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	iobj	_	_
+11	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+13	seguire	seguire	VERB	V	VerbForm=Inf	12	ccomp	_	_
+14	solo	solo	ADV	B	_	13	advmod	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+17-18	dei	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	clienti	cliente	NOUN	S	Number=Plur	16	nmod	_	_
+20	anche	anche	ADV	B	_	23	advmod	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	gratuito	gratuito	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	patrocinio	patrocinio	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+24	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

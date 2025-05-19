@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 'Non penso di essere adatto per fare il politico.
+1	'	'	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	di	di	ADP	E	_	6	mark	_	_
+5	essere	essere	AUX	V	VerbForm=Inf	6	cop	_	_
+6	adatto	adatto	ADJ	A	Gender=Masc|Number=Sing	3	ccomp	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	politico	politico	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ho tanti valori dentro di me, che per un politico non vanno bene' (A. Shevchenko)
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	valori	valore	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	dentro	dentro	ADV	B	_	6	case	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	politico	politico	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+14	bene	bene	ADV	B	_	13	advmod	_	SpaceAfter=No
+15	'	'	PUNCT	FB	_	13	punct	_	_
+16	(	(	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+17	A	A	PROPN	SP	_	3	appos	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	17	punct	_	_
+19	Shevchenko	Shevchenko	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

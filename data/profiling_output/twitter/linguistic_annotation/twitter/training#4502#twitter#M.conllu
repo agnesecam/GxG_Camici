@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuno dovrà pur fotografare il fotografo!
+1	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+3	pur	pure	ADV	B	_	4	advmod	_	_
+4	fotografare	fotografare	VERB	V	VerbForm=Inf	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	fotografo	fotografo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #contadinner #cena5 #cerignola #moschella http:// fb.me/6ZExXbQNA
+1	#contadinner	#contadinnere	VERB	V	VerbForm=Inf	0	root	_	_
+2	#cena5	#cena5	NUM	N	NumType=Card	4	nummod	_	_
+3	#cerignola	#cerignolo	NUM	N	NumType=Card	4	nummod	_	_
+4	#moschella	#moschella	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	fb.me/6ZExXbQNA	fb.me/6ZExXbQNA	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

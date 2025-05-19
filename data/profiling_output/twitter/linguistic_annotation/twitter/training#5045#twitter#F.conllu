@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @guglielmopicchi Per tenere ferme opere pubbliche x decenni come facevate voi con @sberlusconi16 ?
+1	@guglielmopicchi	@guglielmopicco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+2	Per	per	ADP	E	_	3	mark	_	_
+3	tenere	tenere	VERB	V	VerbForm=Inf	1	advcl	_	_
+4	ferme	fermo	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+5	opere	opera	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	pubbliche	pubblico	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+7	x	x	SYM	SYM	_	5	nmod	_	_
+8	decenni	decennio	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	facevate	facevare	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	@sberlusconi16	@sberlusconi16	NUM	N	NumType=Card	10	nummod	_	_
+14	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = @matteorenzi ha coraggio e decide x paese.
+1	@matteorenzi	@matteorenzi	ADV	B	_	2	advmod	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	decide	decidere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	x	x	SYM	SYM	_	5	obj	_	_
+7	paese	paese	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

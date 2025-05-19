@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Genoa , #Dzemaili :
+1	#Genoa	#Genoa	PROPN	SP	_	0	root	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	Dzemaili	Dzemaile	PROPN	SP	_	1	flat:name	_	_
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = 'Se avessimo raddoppiato al San Paolo...' http://www.
+1	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	raddoppiato	raddoppiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	San	San	PROPN	SP	_	4	obl	_	_
+8	Paolo...'	Paolo...'	PROPN	SP	_	7	flat:name	_	_
+9	http://www	http://www	NOUN	S	_	7	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = calciomercato.com/news/genoa-dze maili-se-avessimo-raddoppiato-al-san-paolo-911576?ref=twitter … via @cmdotcom
+1	calciomercato.com/news/genoa-dze	calciomercato.com/news/genoa-dza	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
+2	maili-se	maili-so	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	raddoppiato	raddoppiare	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	SpaceAfter=No
+7	-al-san-	_	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	paolo-911576	paolo-911576	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+9	?	?	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	ref=twitter	ref=twittere	NOUN	S	Gender=Masc	1	nmod	_	_
+11	…	…	PUNCT	FF	_	10	punct	_	_
+12	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+13	@cmdotcom	@cmdotcom	NOUN	S	Gender=Masc	12	compound	_	SpacesAfter=\n
+

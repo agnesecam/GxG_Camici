@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @piersmorgan grande claudio!
+1	@piersmorgan	@piersmorgan	ADV	B	_	3	advmod	_	_
+2	grande	grande	ADJ	A	Number=Sing	3	amod	_	_
+3	claudio	claudio	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Romanista e Romano doc.
+1	Romanista	romanista	NOUN	S	Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	Romano	Romano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	doc	doc	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = VE FAMO I BOZZI DOVUNQUE ANNAMO
+1	VE	vi	PROPN	SP	_	0	root	_	_
+2	FAMO	Fre	PROPN	SP	_	1	flat:name	_	_
+3	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	BOZZI	BOZZI	PROPN	SP	_	1	nmod	_	_
+5	DOVUNQUE	dovunque	PROPN	SP	_	4	flat:name	_	_
+6	ANNAMO	ANNAMO	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

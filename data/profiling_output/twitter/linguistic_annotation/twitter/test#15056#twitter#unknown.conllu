@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Baeouis @ZaynJMNews sei dal pc o dal telefono?
+1	@Baeouis	@Baeouis	PROPN	SP	_	0	root	_	_
+2	@ZaynJMNews	@ZaynJMNews	PROPN	SP	_	1	flat:name	_	_
+3	sei	essere	NUM	N	NumType=Card	1	flat:name	_	_
+4-5	dal	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pc	pc	NOUN	S	Gender=Masc	1	nmod	_	_
+7	o	o	CCONJ	CC	_	10	cc	_	_
+8-9	dal	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Io non sapevo neanche facesse la live, cioè ho aperto il link e me lo sono trovata panico
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	neanche	neanche	ADV	BN	PronType=Neg	5	advmod	_	_
+5	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	live	live	ADJ	A	_	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	cioè	cioè	CCONJ	CC	_	11	cc	_	_
+10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	aperto	aprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	link	link	NOUN	S	Gender=Masc	11	obj	_	_
+14	e	e	CCONJ	CC	_	18	cc	_	_
+15	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+16	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+17	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	trovata	trovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+19	panico	panico	ADJ	A	Gender=Masc|Number=Sing	18	xcomp	_	SpacesAfter=\n
+

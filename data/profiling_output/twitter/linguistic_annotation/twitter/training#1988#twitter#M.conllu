@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Trivellazioni : basta sottrarsi dallo #sviluppo energetico.
+1	#Trivellazioni	#Trivellazione	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	sottrarsi	_	_	_	_	_	_	_	_
+4	sottrar	sottrarre	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+6-7	dallo	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	#sviluppo	#sviluppo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	energetico	energetico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non commettere l'errore del nucleare, visto che ne siamo circondati!
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	commettere	commettere	VERB	V	VerbForm=Inf	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	errore	errore	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	nucleare	nucleare	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	13	iobj	_	_
+12	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
+13	circondati	circondare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	ccomp	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

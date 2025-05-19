@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quante ragazze coabitano in ognuna di noi?
+1	Quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
+2	ragazze	ragazza	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	coabitano	coabitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	ognuna	ognuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Francesca Isola ce ne ha presentate 10.
+1	Francesca	Francesca	PROPN	SP	_	6	nsubj	_	_
+2	Isola	isola	PROPN	SP	_	1	flat:name	_	_
+3	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	presentate	presentare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	10	10	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Autoironia che fa bene al cuore colazione@Linklaters
+1	Autoironia	Autoironia	PROPN	SP	_	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	bene	bene	ADV	B	_	3	advmod	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	colazione@Linklaters	colazione@Linklaters	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

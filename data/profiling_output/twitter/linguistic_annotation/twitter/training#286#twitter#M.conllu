@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @virginiaraggi Magari avessimo un sindaco come nel mio paese ciociaro.
+1	@virginiaraggi	@virginiaraggio	ADV	B	_	5	advmod	_	_
+2	Magari	magari	PROPN	SP	_	5	nsubj	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	come	come	ADV	B	_	10	advmod	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	paese	paese	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+11	ciociaro	ciociaro	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Mi raccomando la giunta sceglila bene.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	raccomando	raccomare	VERB	V	VerbForm=Ger	5	advcl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	giunta	giunta	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	sceglila	sceglilare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	bene	bene	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

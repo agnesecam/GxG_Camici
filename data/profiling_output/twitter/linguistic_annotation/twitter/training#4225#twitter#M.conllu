@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #skywwe ora dovra tenerla contro ko?
+1	#skywwe	#skywwe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ora	ora	ADV	B	_	1	advmod	_	_
+3	dovra	dovra	ADP	E	_	4	mark	_	_
+4-5	tenerla	_	_	_	_	_	_	_	_
+4	tener	tenere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	contro	contro	ADP	E	_	7	case	_	_
+7	ko	ko	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

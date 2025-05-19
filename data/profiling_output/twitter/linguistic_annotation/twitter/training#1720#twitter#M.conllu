@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alessandro Greco “Ho sposato Beatrice grazie a Dio che ha spezzato le nostre catene” http:// dlvr.it/L0kTht pic.twitter.com/SnapnxCylb
+1	Alessandro	Alessandro	PROPN	SP	_	5	nsubj	_	_
+2	Greco	Greco	PROPN	SP	_	1	flat:name	_	_
+3	“	“	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+4	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sposato	sposare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	Beatrice	Beatore	PROPN	SP	_	5	obj	_	_
+7	grazie	grazie	NOUN	S	_	9	case	_	_
+8	a	a	ADP	E	_	7	fixed	_	_
+9	Dio	dio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	spezzato	spezzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	catene	catena	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+16	”	”	PUNCT	FB	_	17	punct	_	_
+17	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	15	punct	_	_
+20	dlvr.it/L0kTht	dlvr.it/L0kTht	PROPN	SP	_	12	obl	_	_
+21	pic.twitter.com/SnapnxCylb	pic.twitter.com/SnapnxCylb	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @danilobreschi grazie!
+1	@danilobreschi	@danilobresco	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	grazie	grazie	NOUN	S	_	1	compound	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma il Fato è già scritto, neppure gli Dei osavano opporsi al Fato!
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Fato	Fato	PROPN	SP	_	6	nsubj:pass	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+5	già	già	ADV	B	_	6	advmod	_	_
+6	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	13	advmod	_	_
+9	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+10-11	Dei	_	_	_	_	_	_	_	_
+10	Di	Di	ADP	E	_	13	case	_	_
+11	i	europeo	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	osavano	osare	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13-14	opporsi	_	_	_	_	_	_	_	_
+13	oppor	opporre	NOUN	S	Gender=Masc	6	obj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Fato	Fato	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
+

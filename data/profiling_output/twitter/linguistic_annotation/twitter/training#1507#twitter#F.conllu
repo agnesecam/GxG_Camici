@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La cosa migliore che si possa fare è usare le nostre labbra solo per pronunciare parole… https://www.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	2	amod	_	_
+4	che	che	PRON	PR	PronType=Rel	7	mark	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+6	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	usare	usare	VERB	V	VerbForm=Inf	0	root	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	labbra	labbro	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+13	solo	solo	ADV	B	_	15	advmod	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	pronunciare	pronunciare	VERB	V	VerbForm=Inf	9	advcl	_	_
+16	parole…	parole…	PUNCT	FF	_	17	punct	_	_
+17	https://www	https://www	NOUN	S	_	15	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD-5-JLPPoI/
+1	instagram.com/p/BD-5-JLPPoI/	instagram.com/p/BD-5-JLPPoI/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

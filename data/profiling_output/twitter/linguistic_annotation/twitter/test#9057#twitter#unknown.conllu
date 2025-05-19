@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OcchioCritico2 @leonardicarmen @DossiCarla @nonhosoldi @italiaoranet Vuoi dire che non vi pagano neppure ?
+1	@OcchioCritico2	@OcchioCritico2	NUM	N	NumType=Card	8	nummod	_	_
+2	@leonardicarmen	@leonardicarmen	INTJ	I	_	8	discourse	_	_
+3-4	@DossiCarla	_	_	_	_	_	_	_	_
+3	@Dossicar	@Dossicar	PROPN	SP	_	2	flat:name	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	@nonhosoldi	@nonhosoldo	ADJ	A	Number=Plur	6	amod	_	_
+6	@italiaoranet	@italiaorane	NOUN	S	_	8	nsubj	_	_
+7	Vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	12	obj	_	_
+12	pagano	pagare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+14	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Torno stasera a fare altre 2 risa
+1	Torno	tornare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	stasera	stasera	ADV	B	_	1	advmod	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	altre	altro	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+6	2	2	NUM	N	NumType=Card	7	nummod	_	_
+7	risa	risare	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpacesAfter=\n
+

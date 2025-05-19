@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = LA LIBERTA' E CAPACITA'
+1	LA	il	PROPN	SP	_	0	root	_	_
+2	LIBERTA'	LIBERTA'	PROPN	SP	_	1	flat:name	_	_
+3	E	e	CCONJ	CC	_	4	cc	_	_
+4	CAPACITA'	CAPACITA'	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 2
+# text = INDIVIDUALE E LA "SOAVE”
+1	INDIVIDUALE	individuale	PROPN	SP	_	0	root	_	_
+2	E	e	PROPN	SP	_	1	flat:name	_	_
+3	LA	La	PROPN	SP	_	1	flat:name	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	SOAVE	SOAVE	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+6	”	”	PUNCT	FB	_	1	punct	_	_
+
+# sent_id = 3
+# text = AMMINISTRAZIONE DI "SOSTEGNO" DENTRO IL PARADIGMA... http:// fb.me/4g595XomT
+1	AMMINISTRAZIONE	amministrazione	PROPN	SP	_	0	root	_	_
+2	DI	di	ADP	E	_	4	case	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	SOSTEGNO	sostegno	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	DENTRO	dentro	PROPN	SP	_	1	flat:name	_	_
+7	IL	il	PROPN	SP	_	6	flat:name	_	_
+8	PARADIGMA...	PARADIGMA...	PROPN	SP	_	6	flat:name	_	_
+9	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	6	punct	_	_
+12	fb.me/4g595XomT	fb.me/4g595XomT	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Aprire i file riservati sugli Ufo, la Clinton farà chiarezza" http://www.
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Aprire	aprire	VERB	V	VerbForm=Inf	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	file	fila	NOUN	S	Number=Sing	2	obj	_	_
+5	riservati	riservato	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6-7	sugli	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Ufo	Ufo	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Clinton	Clinton	PROPN	SP	_	12	nsubj	_	_
+12	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	parataxis	_	_
+13	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	15	punct	_	_
+15	http://www	http://www	NOUN	S	_	13	compound	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = repubblica.it/scienze/2016/0 4/08/news/clinton_ufo_alieni_verita_-137186876/ … via @repubblicait
+1	repubblica.it/scienze/2016/0	repubblica.it/scienze/2016/0	NUM	N	NumType=Card	4	nummod	_	_
+2	4/08	4/08	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	news	news	NOUN	S	Gender=Masc	9	nmod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	clinton_ufo_alieni_verita_-137186876	clinton_ufo_alieni_verita_-137186876	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	_
+8	…	…	PUNCT	FF	_	6	punct	_	_
+9	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	@repubblicait	@repubblicait	NOUN	S	Gender=Masc	9	nmod	_	SpacesAfter=\n
+

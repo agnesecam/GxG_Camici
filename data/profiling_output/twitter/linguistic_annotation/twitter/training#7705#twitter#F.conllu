@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque vediamo, ho un Uomo (figo) e l'ultimo modello del folletto...
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Uomo	uomo	PROPN	SP	_	4	obj	_	_
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	figo	figo	NOUN	S	Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	e	e	CCONJ	CC	_	13	cc	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+12	ultimo	ultimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	13	amod	_	_
+13	modello	modello	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	folletto..	folletto..	NOUN	S	_	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Direi che per scopare non mi occorre altro... ;-))))
+1	Direi	dire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	scopare	scopare	VERB	V	VerbForm=Inf	1	advcl	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	occorre	occorrere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	altro...	altro.	PUNCT	FS	_	7	punct	_	_
+9	;	;	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

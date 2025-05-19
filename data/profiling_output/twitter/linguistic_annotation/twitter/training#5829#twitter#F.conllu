@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Abbiamo foto giornaliere di Louis e Danielle anche ancora un po' mentre cagano ma neanche una mezza foto di, che so, Niall con qualcuna ..
+1	Abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	foto	foto	NOUN	S	Gender=Fem	1	obj	_	_
+3	giornaliere	giornaliere	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Louis	Louis	PROPN	SP	_	2	nmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	Danielle	Danielle	PROPN	SP	_	2	conj	_	_
+8	anche	anche	ADV	B	_	11	advmod	_	_
+9	ancora	ancora	ADV	B	_	11	advmod	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	po'	poco	ADV	B	_	13	advmod	_	_
+12	mentre	mentre	SCONJ	CS	_	13	mark	_	_
+13	cagano	cagano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+14	ma	ma	CCONJ	CC	_	18	cc	_	_
+15	neanche	neanche	ADV	BN	PronType=Neg	18	advmod	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	mezza	mezzo	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+18	foto	foto	NOUN	S	Gender=Fem	1	conj	_	_
+19	di	di	ADP	E	_	22	mark	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	22	punct	_	_
+21	che	che	PRON	PR	PronType=Rel	22	obj	_	_
+22	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	acl	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	24	punct	_	_
+24	Niall	Niall	PROPN	SP	_	22	nsubj	_	_
+25	con	con	ADP	E	_	26	case	_	_
+26	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	24	nmod	_	_
+27	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

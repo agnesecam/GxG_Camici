@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Bellezza fuggitiva Che con un solo sguardo mi hai chiamato da morte, Non ti vedrò più dunque che al di là della vita" #Baudelaire
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Bellezza	bellezza	NOUN	S	Gender=Fem|Number=Sing	30	nsubj	_	_
+3	fuggitiva	fuggitire	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	Che	che	PRON	PR	PronType=Rel	11	obj	_	_
+5	con	con	ADP	E	_	8	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	solo	solo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	sguardo	sguardo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+10	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	chiamato	chiamare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	morte	morte	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	Non	Non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	expl	_	_
+17	vedrò	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	conj	_	_
+18	più	più	ADV	B	_	17	advmod	_	_
+19	dunque	dunque	ADV	B	_	17	advmod	_	_
+20	che	che	SCONJ	CS	_	27	mark	_	_
+21-22	al	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	24	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+23	di	di	ADP	E	_	24	case	_	_
+24	là	là	ADV	B	_	27	advmod	_	_
+25-26	della	_	_	_	_	_	_	_	_
+25	di	di	ADP	E	_	27	case	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	vita	vita	NOUN	S	Gender=Fem|Number=Sing	17	ccomp	_	SpaceAfter=No
+28	"	"	PUNCT	FB	_	27	punct	_	_
+29	#	#	PUNCT	FF	_	27	punct	_	SpaceAfter=No
+30	Baudelaire	Baudelaire	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Niall non deve neppure avvicinarsi ad Ariana, non ne è degno
+1	Niall	Niall	PRON	PQ	Number=Sing|PronType=Int	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+5-6	avvicinarsi	_	_	_	_	_	_	_	_
+5	avvicinar	avvicinarre	VERB	V	VerbForm=Inf	13	advcl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+7	ad	a	ADP	E	_	8	case	_	_
+8	Ariana	Ariana	PROPN	SP	_	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	13	punct	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	13	iobj	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	degno	degno	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

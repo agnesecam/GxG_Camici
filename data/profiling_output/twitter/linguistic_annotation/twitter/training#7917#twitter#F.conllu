@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #scalamercalli Dunque cambiare è possibile #Tirolo https:// twitter.com/MartinissSima/ status/716368816612196353 …
+1	#scalamercalli	#scalamercallo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	Dunque	dunque	PROPN	SP	_	3	obj	_	_
+3	cambiare	cambiare	VERB	V	VerbForm=Inf	1	acl	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	possibile	possibile	ADJ	A	Number=Sing	0	root	_	_
+6	#Tirolo	#Tirolo	PROPN	SP	_	5	nsubj	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/MartinissSima/	twitter.com/MartinissSima/	PROPN	SP	_	6	nmod	_	_
+11	status/716368816612196353	status/716368816612196353	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

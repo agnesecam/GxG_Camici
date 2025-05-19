@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sì dice "la calma prima della tempesta" ma se dopo la tempesta torna la calma, la tempesta dovrà tornare per forza?
+1	Sì	sì	INTJ	I	Polarity=Pos	2	discourse	_	_
+2	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+3	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	calma	calma	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	prima	prima	ADV	B	_	9	case	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	6	fixed	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	tempesta	tempesta	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	5	punct	_	_
+11	ma	ma	CCONJ	CC	_	16	cc	_	_
+12	se	se	ADV	B	_	16	advmod	_	_
+13	dopo	dopo	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	tempesta	tempesta	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+16	torna	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	calma	calma	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	2	punct	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	tempesta	tempesta	NOUN	S	Gender=Fem|Number=Sing	23	nsubj	_	_
+22	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	aux	_	_
+23	tornare	tornare	VERB	V	VerbForm=Inf	0	root	_	_
+24	per	per	ADP	E	_	25	case	_	_
+25	forza	forza	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	23	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensavo che in Italia fossimo messi male, ma in Belgio sono peggio.
+1	Pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Italia	Italia	PROPN	SP	_	6	obl	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	ccomp	_	_
+7	male	male	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	13	punct	_	_
+9	ma	ma	CCONJ	CC	_	13	cc	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	Belgio	Belgio	PROPN	SP	_	13	obl	_	_
+12	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	peggio	peggio	ADV	B	_	6	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la vita non è mai nelle nostre stanze moriamo e poi torniamo.
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vita	vita	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+5	mai	mai	ADV	B	_	10	advmod	_	_
+6-7	nelle	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	stanze	stanza	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+10	moriamo	morire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	poi	poi	ADV	B	_	13	advmod	_	_
+13	torniamo.	torniamo.	ADJ	A	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....come tutto.
+1	.....come	.....come	ADP	E	_	2	case	_	_
+2	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = (da Mine Vaganti - La storia di Ilaria)
+1	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	da	da	ADP	E	_	3	case	_	_
+3	Mine	mine	PROPN	SP	_	0	root	_	_
+4	Vaganti	Vagante	PROPN	SP	_	3	flat:name	_	_
+5	-	-	PUNCT	FF	_	3	punct	_	_
+6	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Ilaria	Ilaria	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

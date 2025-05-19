@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Potrà sembrare di no ma ho bisogno di continue dimostrazioni.
+1	Potrà	potere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	no	no	ADV	BN	PronType=Neg	2	advmod	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	continue	continuo	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+10	dimostrazioni	dimostrazione	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E sincere.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	sincere	sincere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Mi sono rotta di sentire solo parole.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	rotta	rottare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	sentire	sentire	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	solo	solo	ADV	B	_	7	advmod	_	_
+7	parole	parola	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marianna_bl è il terzino più bravo ( avessimo detto Roberto Carlos, comunque), quindi non gioca.
+1	@marianna_bl	@marianna_bl	PRON	PQ	Number=Sing|PronType=Int	0	root	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	terzino	terzino	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	bravo	bravo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+7	(	(	PUNCT	FB	_	9	punct	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+10	Roberto	Roberto	PROPN	SP	_	9	nsubj	_	_
+11	Carlos	Carlos	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	10	punct	_	_
+13	comunque	comunque	ADV	B	_	10	advmod	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	18	punct	_	_
+16	quindi	quindi	ADV	B	_	18	advmod	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	gioca	giocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #InterTorino
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	InterTorino	InterTorino	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

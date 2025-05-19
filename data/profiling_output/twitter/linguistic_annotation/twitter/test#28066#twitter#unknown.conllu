@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = speriamo!
+1	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E anche che non facciano prigionieri!
+1	E	e	CCONJ	CC	_	5	cc	_	_
+2	anche	anche	ADV	B	_	5	advmod	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	prigionieri	prigioniero	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = O che non lascino scappare nessuno!
+1	O	o	CCONJ	CC	_	4	cc	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	lascino	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	scappare	scappare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/MnMick62/statu s/714122952690769920 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/MnMick62/statu	twitter.com/MnMick62/statu	PROPN	SP	_	0	root	_	_
+5	s/714122952690769920	s/714122952690769920	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

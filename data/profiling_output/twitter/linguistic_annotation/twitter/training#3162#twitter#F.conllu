@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amici del Twitter, indignarvi il 25 marzo per una strage di Boko Haram risalente al 31 gennaio non vi fa sembrare più sensibili o umani.
+1	Amici	amico	NOUN	S	Gender=Masc|Number=Plur	17	nsubj	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Twitter	Twitter	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6-7	indignarvi	_	_	_	_	_	_	_	_
+6	indignar	indignare	VERB	V	VerbForm=Inf	1	conj	_	_
+7	vi	vi	ADV	B	_	6	advmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	25	25	NUM	N	NumType=Card	6	obl	_	_
+10	marzo	marzo	NOUN	S	Gender=Masc|Number=Sing	9	flat	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	strage	strage	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Boko	Boko	PROPN	SP	_	13	nmod	_	_
+16	Haram	Haram	PROPN	SP	_	15	flat:name	_	_
+17	risalente	risalente	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	31	31	NUM	N	NumType=Card	17	obl	_	_
+21	gennaio	gennaio	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
+22	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+23	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	24	iobj	_	_
+24	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
+25	sembrare	sembrare	VERB	V	VerbForm=Inf	24	ccomp	_	_
+26	più	più	ADV	B	_	27	advmod	_	_
+27	sensibili	sensibile	ADJ	A	Number=Plur	25	xcomp	_	_
+28	o	o	CCONJ	CC	_	29	cc	_	_
+29	umani	umano	ADJ	A	Gender=Masc|Number=Plur	27	conj	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	17	punct	_	SpacesAfter=\n
+

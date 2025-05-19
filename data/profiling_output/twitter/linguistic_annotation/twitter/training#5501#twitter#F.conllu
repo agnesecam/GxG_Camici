@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cosa diranno a quelle che arrivano in ritardo?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	diranno	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	2	obl	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	arrivano	arrivare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	ritardo	ritardo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Qualcuna me lo può dire?
+1	Qualcuna	Qualcuna	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	dire	dire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Risp
+1	Risp	Risp	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

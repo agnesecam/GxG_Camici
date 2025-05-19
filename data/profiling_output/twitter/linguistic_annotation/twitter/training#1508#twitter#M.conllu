@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non sono d'accordo, il mezzo più potente è nelle nostre mani, uno scatolotto lungo e nero chiamato telecomando....
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	d'	di	ADP	E	_	4	case	_	SpaceAfter=No
+4	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	14	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	potente	potente	ADJ	A	Number=Sing	7	amod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+11-12	nelle	_	_	_	_	_	_	_	_
+11	in	in	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	mani	mano	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	scatolotto	scatolotto	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+18	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	nero	nero	ADJ	A	Gender=Masc|Number=Sing	18	conj	_	_
+21	chiamato	chiamare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
+22	telecomando....	telecomando..	NOUN	S	_	21	xcomp	_	_
+
+# sent_id = 2
+# text = http:// fb.me/19DP5Bl9O
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/19DP5Bl9O	fb.me/19DP5Bl9O	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

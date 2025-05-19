@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @napolista se il vostro campione non avesse fatto il coglione a quest'ora non sarebbe stato sanzionato e avrebbe saltato solo una giornata
+1	@napolista	@napolista	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	8	mark	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	campione	campione	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	coglione	coglione	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	quest'	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	13	det	_	SpaceAfter=No
+13	ora	ora	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+14	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+15	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+16	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	aux:pass	_	_
+17	sanzionato	sanzionare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	conj	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	saltato	saltare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+21	solo	solo	ADV	B	_	20	advmod	_	_
+22	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	SpacesAfter=\n
+

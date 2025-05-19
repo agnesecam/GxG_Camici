@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @albtali e dunque ?
+1	@albtali	@albtale	ADJ	A	Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	dunque	dunque	ADV	B	_	1	advmod	_	_
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Nuove elezioni nel 2013, nuovo stallo, nuove elezioni?
+1	Nuove	nuovo	NUM	N	NumType=Card	2	nummod	_	_
+2	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3-4	nel	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	2013	2013	NUM	N	NumType=Card	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	stallo	stallo	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	nuove	nuovo	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+11	elezioni	elezioni	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Unica soluzione è #Italicum
+1	Unica	unico	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	#Italicum	#Italicum	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

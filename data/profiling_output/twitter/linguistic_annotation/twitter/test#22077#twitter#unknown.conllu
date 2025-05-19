@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NobileJack #askgieck i trucchi che fai stupiscono anche te o, essendo la persona che li fa, non hanno più tanto effetto da parte tua?
+1	@NobileJack	@NobileJack	NOUN	S	_	7	obj	_	_
+2	#askgieck	#askgieck	NOUN	S	_	1	compound	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	trucchi	trucco	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+6	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	stupiscono	stupire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+8	anche	anche	ADV	B	_	7	advmod	_	_
+9	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	conj	_	_
+10	o	o	CCONJ	CC	_	9	cc	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	7	punct	_	_
+12	essendo	essere	AUX	V	VerbForm=Ger	14	cop	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	persona	persona	NOUN	S	Gender=Fem|Number=Sing	20	nsubj	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+17	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	14	punct	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	più	più	ADV	B	_	20	advmod	_	_
+22	tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	23	det	_	_
+23	effetto	effetto	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+24	da	da	ADP	E	_	25	case	_	_
+25	parte	parte	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+26	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	det:poss	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	20	punct	_	SpacesAfter=\n
+

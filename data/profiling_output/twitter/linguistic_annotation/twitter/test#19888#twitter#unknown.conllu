@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Freddo come la neve non mostro alcuna emozione, qualsiasi sia non chiedetemi perchè http:// fb.me/7e78jhjjB
+1	Freddo	freddo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	neve	neve	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	mostro	mostro	ADJ	A	_	1	amod	_	_
+7	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	emozione	emozione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	qualsiasi	qualsiasi	SCONJ	CS	_	13	mark	_	_
+11	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13-14	chiedetemi	_	_	_	_	_	_	_	_
+13	chiedete	chiedere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+15	perchè	perché	SCONJ	CS	_	19	mark	_	_
+16	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	fb.me/7e78jhjjB	fb.me/7e78jhjjB	PROPN	SP	_	13	advcl	_	SpacesAfter=\n
+

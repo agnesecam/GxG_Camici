@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = RT SkyTG24:
+1	RT	RT	PROPN	SP	_	0	root	_	_
+2	SkyTG24	SkyTG24	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Le truffe per far sembrare fresco il pesce che non lo è.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	truffe	truffa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	far	fare	VERB	V	VerbForm=Inf	2	acl	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	fresco	fresco	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Guardate il video di #unpiattodisalute http:// sky.tg/1lam
+1	Guardate	Guardare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	video	video	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	#unpiattodisalute	#unpiattodisaluta	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	sky.tg/1lam	sky.tg/1lam	X	X	_	1	nmod	_	SpacesAfter=\n
+

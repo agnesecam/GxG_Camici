@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oltre i confini del mondo, questo è il tema che è stato scelto dalle nostre Penne, un titolo decisamente... http:// fb.me/zKFvSaq5
+1	Oltre	oltre	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	confini	confine	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	nsubj	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tema	tema	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12	che	che	PRON	PR	PronType=Rel	15	nsubj:pass	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	aux:pass	_	_
+15	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+16-17	dalle	_	_	_	_	_	_	_	_
+16	da	da	ADP	E	_	19	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	Penne	Penne	PROPN	SP	_	15	obl:agent	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	22	punct	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+23	decisamente...	decisamente.	PUNCT	FS	_	24	punct	_	_
+24	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	22	punct	_	_
+27	fb.me/zKFvSaq5	fb.me/zKFvSaq5	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

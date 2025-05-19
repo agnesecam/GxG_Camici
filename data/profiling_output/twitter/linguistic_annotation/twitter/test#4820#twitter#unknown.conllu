@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pantani era innocente, fu incastrato dalla camorra:
+1	Pantani	Pantani	ADV	B	_	3	advmod	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	innocente	innocente	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	incastrato	incastrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	camorra	camorra	NOUN	S	Gender=Fem|Number=Sing	6	obl:agent	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = spunta la prova certa http:// fb.me/53xhSjhyM
+1	spunta	spungere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	prova	prova	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	certa	certo	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	http:	http:	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	3	punct	_	_
+8	fb.me/53xhSjhyM	fb.me/53xhSjhyM	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

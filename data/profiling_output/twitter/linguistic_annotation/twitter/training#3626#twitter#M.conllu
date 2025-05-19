@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dukana2 Padoan prima ha fatto i danni in Argentina poi li farà da noi.
+1	@dukana2	@dukana2	NUM	N	NumType=Card	2	nummod	_	_
+2	Padoan	Padoan	PROPN	SP	_	5	nsubj	_	_
+3	prima	prima	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	2	amod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	danni	danno	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	Argentina	Argentina	PROPN	SP	_	7	nmod	_	_
+10	poi	poi	ADV	B	_	12	advmod	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+12	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

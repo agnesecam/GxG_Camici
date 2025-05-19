@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fabro, la centrale a biomasse non si farà , revocata autorizzazione, esulta comitato http:// fb.me/129Yy20rc
+1	Fabro	Fabro	PROPN	SP	_	9	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	centrale	centrale	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	biomasse	biomassa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	revocata	revocare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+12	autorizzazione	autorizzazione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	esulta	esultare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
+15	comitato	comitato	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	12	punct	_	_
+19	fb.me/129Yy20rc	fb.me/129Yy20rc	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il giorno in cui faranno un hashtag su di me..
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	cui	cui	PRON	PR	PronType=Rel	5	obl	_	_
+5	faranno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hashtag	hashtag	NOUN	S	Gender=Masc	5	nsubj	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	di	di	ADP	E	_	8	fixed	_	_
+10	me..	me..	NOUN	S	Gender=Masc	7	nmod	_	_
+
+# sent_id = 2
+# text = NON AVRÒ PIÙ PROBLEMI DI AUTOSTIMA #50TwitterTips #SMMdayIT @FlashAndrea
+1	NON	non	PROPN	SP	_	0	root	_	_
+2	AVRÒ	avere	PROPN	SP	_	1	flat:name	_	_
+3	PIÙ	più	PROPN	SP	_	2	flat:name	_	_
+4	PROBLEMI	problemi	PROPN	SP	_	2	flat:name	_	_
+5	DI	Di	ADP	E	_	6	case	_	_
+6	AUTOSTIMA	AUTOSTIMA	PROPN	SP	_	2	nmod	_	_
+7	#50TwitterTips	#50TwitterTips	PROPN	SP	_	6	flat:name	_	_
+8	#SMMdayIT	#SMMdayIT	PROPN	SP	_	6	flat:name	_	_
+9	@FlashAndrea	@FlashAndrea	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

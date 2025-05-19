@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C'è chi fatica a scrivere qualcosa dentro a 140 caratteri.
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	nsubj	_	_
+4	fatica	fatica	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	scrivere	scrivere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	6	obj	_	_
+8	dentro	dentro	ADV	B	_	11	case	_	_
+9	a	a	ADP	E	_	8	fixed	_	_
+10	140	140	NUM	N	NumType=Card	11	nummod	_	_
+11	caratteri	carattere	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = C'è chi fatica a convivere con i 140 caratteri che a dentro di se.
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	nsubj	_	_
+4	fatica	fatica	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	convivere	convivere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	140	140	NUM	N	NumType=Card	10	nummod	_	_
+10	caratteri	carattere	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+11	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	dentro	dentro	ADV	B	_	15	fixed	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	acl:relcl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #Twitter
+1	#Twitter	#Twitter	ADP	E	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Eccociqui.Di nuovo insieme per le nostre cazzate quotidiane.All'orizzonte nulla dinuovo.All'opposto solo Vespa chefa l'inventario deibrufoli
+1	Eccociqui.Di	Eccociqui.Di	ADP	E	_	3	case	_	_
+2	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	insieme	insieme	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+4	per	per	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	cazzate	cazzata	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+8	quotidiane.All	quotidiane.All	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	orizzonte	orizzonte	NOUN	S	Number=Sing	7	nmod	_	_
+11	nulla	nulla	NOUN	S	Gender=Masc	10	compound	_	_
+12	dinuovo.All	dinuovo.All	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+13	'	'	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+14	opposto	opporre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+15	solo	solo	ADV	B	_	16	advmod	_	_
+16	Vespa	Vespa	PROPN	SP	_	14	nsubj	_	_
+17	chefa	chefare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	inventario	inventario	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+20	deibrufoli	deibrufole	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

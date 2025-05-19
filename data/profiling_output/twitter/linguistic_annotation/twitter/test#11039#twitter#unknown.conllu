@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sergiodemichiel buona domenica a te e alle amiche @vannabiagini @ErikaCastagnoli un abbraccio fatto col pic.twitter.com/Ojzw2LR8tu
+1	@sergiodemichiel	@sergiodemichii	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+2	buona	buono	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+6	e	e	CCONJ	CC	_	10	cc	_	_
+7-8	alle	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	amiche	amico	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+10	@vannabiagini	@vannabiagino	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+11	@ErikaCastagnoli	@ErikaCastagnoli	PROPN	SP	_	10	nmod	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	abbraccio	abbraccio	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+15-16	col	_	_	_	_	_	_	_	_
+15	con	con	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	pic.twitter.com/Ojzw2LR8tu	pic.twitter.com/Ojzw2LR8tu	PROPN	SP	_	14	obl	_	SpacesAfter=\n
+

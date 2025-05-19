@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @trattomale come prima cosa [mi dispiace per te], il conclave dovrà avere tra i papabili il Cardinale Pizarro @TrappeTripel @NuNuZ_00
+1	@trattomale	@trattomale	ADV	B	_	4	advmod	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+4	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+5	[	[	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obl	_	SpaceAfter=No
+10	]	]	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	4	punct	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	conclave	conclave	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+16	tra	tra	ADP	E	_	18	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	papabili	papabile	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Cardinale	cardinale	PROPN	SP	_	15	obj	_	_
+21	Pizarro	Pizarro	PROPN	SP	_	20	flat:name	_	_
+22	@TrappeTripel	@TrappeTripel	PROPN	SP	_	20	flat:name	_	_
+23	@NuNuZ_00	@NuNuZ_00	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Solo gli idioti credono di ottenere risultati socialmente utili, dai potentati economici e istituzionali, non avendo unanimità di consensi
+1	Solo	solo	ADV	B	_	4	advmod	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	idioti	idiota	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	credono	credere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	ottenere	ottenere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	socialmente	socialmente	ADV	B	_	9	advmod	_	_
+9	utili	utile	ADJ	A	Number=Plur	7	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11-12	dai	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	potentati	potentato	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+14	economici	economico	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	istituzionali	istituzionale	ADJ	A	Number=Plur	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+19	avendo	avere	VERB	V	VerbForm=Ger	4	conj	_	_
+20	unanimità	unanimità	NOUN	S	Gender=Fem	19	obj	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	consensi	consenso	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	SpacesAfter=\n
+

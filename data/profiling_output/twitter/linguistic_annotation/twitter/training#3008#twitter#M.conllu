@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Damilano e #laRepubblica riescono a farmi sembrare simpatico #Salvini .
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Damilano	Damilano	PROPN	SP	_	5	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	#laRepubblica	#laRepubblica	PROPN	SP	_	2	conj	_	_
+5	riescono	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	farmi	arma|farme	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+9	simpatico	simpatico	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+10	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	Salvini	Salvini	PROPN	SP	_	8	nsubj	_	_
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Se questo è un giornalista io sono il Papa.
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	giornalista	giornalista	NOUN	S	Number=Sing	9	advcl	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Papa	Papa	PROPN	SP	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = #dimartedì
+1	#dimartedì	#dimartedì	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

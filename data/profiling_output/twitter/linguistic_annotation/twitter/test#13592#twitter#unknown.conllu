@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cristiantesta1 ero tra i 5 che lo fondarono (con melon, la russa, rampelli e crosetto).
+1	@cristiantesta1	@cristiantesta1	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ero	essere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	tra	tra	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	5	5	NUM	N	NumType=Card	2	nummod	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	fondarono	fondare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+9	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	con	con	ADP	E	_	11	case	_	_
+11	melon	melon	NOUN	S	_	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	russa	russo	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	rampelli	rampello	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	crosetto	crosetto	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E fummo d'accordo che non c'era spazio per correnti
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	fummo	fure	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	d'	di	ADP	E	_	4	case	_	SpaceAfter=No
+4	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	SpaceAfter=No
+8	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+9	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	correnti	corrente	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel frattempo le azioni intraprese nei confronti dell'Egitto si fanno sempre più aspre.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	azioni	azione	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	_
+6	intraprese	intraprendere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+7-8	nei	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	confronti	confronto	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+10-11	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+10	di	di	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	Egitto	Egitto	PROPN	SP	_	9	nmod	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	sempre	sempre	ADV	B	_	14	advmod	_	_
+16	più	più	ADV	B	_	17	advmod	_	_
+17	aspre	aspre	ADJ	A	Gender=Fem|Number=Plur	14	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

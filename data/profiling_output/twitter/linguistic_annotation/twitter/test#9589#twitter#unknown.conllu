@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @X_Fundo94_X yess!
+1	@X_Fundo94_X	@x_fundo94_x	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	_
+2	yess	yess	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ci sarà come al solito il doppio sason finale e uno dei due lo dirigerà lui!
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	come	come	ADV	B	_	2	advmod	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	solito	solito	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	doppio	doppio	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	sason	sason	NOUN	S	Gender=Masc	2	nsubj	_	_
+10	finale	finale	ADJ	A	Number=Sing	9	amod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	_
+13-14	dei	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	due	due	NUM	N	NumType=Card	12	nmod	_	_
+16	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	dirigerà	dirigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	_	_
+18	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = (non vorrei sbagliarmi ma credo sia il 22)
+1	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sbagliarmi	arma|sbagliarme	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	22	22	NUM	N	NumType=Card	6	ccomp	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DavideRicci1973 se fosse stata parlamentare,prima che ministro,non ne avremmo saputo nulla
+1	@DavideRicci1973	@DavideRicci1973	NUM	N	NumType=Card	0	root	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
+4	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
+5	parlamentare	parlamentare	VERB	V	VerbForm=Inf	1	advcl	_	SpaceAfter=No
+6	,prima	,prima	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	che	che	SCONJ	CS	_	11	mark	_	_
+8	ministro,non	ministro,non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	11	iobj	_	_
+10	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+12	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rdeldeserto @alexginotta io ciò una sonnolenza ke sto resistendo!Stiamo tristi fino a qndo ke nn saremo felici!
+1	@rdeldeserto	@rdeldeserto	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+2	@alexginotta	@alexginotto	ADJ	A	_	1	amod	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	obj	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	sonnolenza	sonnolenza	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+7	ke	ke	ADJ	A	Number=Sing	6	amod	_	_
+8	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	resistendo	resistere	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+10	!Stiamo	!stiamo	PROPN	SP	_	9	obj	_	_
+11	tristi	triste	ADJ	A	Number=Plur	10	amod	_	_
+12	fino	fino	ADV	B	_	14	case	_	_
+13	a	a	ADP	E	_	12	fixed	_	_
+14	qndo	qre	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+15	ke	ke	ADJ	A	Number=Sing	14	amod	_	_
+16	nn	nn	ADP	E	_	18	mark	_	_
+17	saremo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	18	cop	_	_
+18	felici	felice	ADJ	A	Gender=Masc|Number=Plur	9	xcomp	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = :-)))
+1	:	:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	0	root	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " #Giuseppino : saresti anche bravo(in radio)ma ti vedo proprio stanco e vittima di te stesso.Non sei per nulla al top(cit).Pari un #Capezzone "
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	#Giuseppino	#Giuseppino	PROPN	SP	_	27	nsubj	_	_
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	saresti	saredere	NOUN	S	Gender=Masc|Number=Plur	2	appos	_	_
+5	anche	anche	ADV	B	_	6	advmod	_	_
+6	bravo(	bravo(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+7	in	in	ADP	E	_	8	case	_	_
+8	radio	radio	NOUN	S	Gender=Fem	4	nmod	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	iobj	_	_
+12	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	stanco	stanco	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	vittima	vittima	NOUN	S	Gender=Fem|Number=Sing	14	conj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	nmod	_	_
+19	stesso.Non	stesso.Non	PROPN	SP	_	18	nsubj	_	_
+20	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	27	aux	_	_
+21	per	per	ADP	E	_	22	case	_	_
+22	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	27	obl	_	_
+23-24	al	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	27	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+25	top(	top(	PUNCT	FB	_	27	punct	_	SpaceAfter=No
+26	cit)	cit)	PUNCT	FB	_	27	punct	_	SpaceAfter=No
+27	.Pari	.Pari	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+28	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	#Capezzone	#Capezzone	PROPN	SP	_	27	obj	_	_
+30	"	"	PUNCT	FB	_	27	punct	_	SpacesAfter=\n
+

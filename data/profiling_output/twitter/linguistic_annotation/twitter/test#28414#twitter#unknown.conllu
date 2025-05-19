@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlvaroMorata se fossi rimasto in campo saremmo andati ai quarti....
+1	@AlvaroMorata	@AlvaroMorare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	fossi	essere	AUX	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	rimasto	rimanere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	campo	campo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	quarti...	quarti...	NOUN	S	_	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Grande campione
+1	Grande	grande	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	campione	campione	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

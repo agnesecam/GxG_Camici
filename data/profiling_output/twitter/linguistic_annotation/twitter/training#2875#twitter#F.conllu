@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Può sembrare stupido, ma è come se lo tradissi anche se noi due non siamo nulla...
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	stupido	stupido	ADJ	A	_	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	come	come	ADV	B	_	17	advmod	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	tradissi	tradiggere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+11	anche	anche	ADV	B	_	17	advmod	_	_
+12	se	se	SCONJ	CS	_	11	fixed	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+14	due	due	NUM	N	NumType=Card	17	nummod	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	nulla...	nulla.	NOUN	S	_	6	nsubj	_	SpacesAfter=\n
+

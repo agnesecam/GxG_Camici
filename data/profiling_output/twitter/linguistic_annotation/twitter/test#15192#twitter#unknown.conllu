@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cg_lnd thanks!
+1	@cg_lnd	@cg_lnd	NOUN	S	Gender=Masc	0	root	_	_
+2	thanks	thanks	NOUN	S	Gender=Masc	1	compound	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Pensavo Che l'inter Ieri mi facesse un regalo ma Niente, mi accontento Del #SundayFunday e total rest enjoy the #vibe
+1	Pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	Che	che	SCONJ	CS	_	7	mark	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	inter	inter	NOUN	S	_	7	nsubj	_	_
+5	Ieri	ieri	ADV	B	_	7	advmod	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	regalo	regalo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	ma	ma	CCONJ	CC	_	11	cc	_	_
+11	Niente	niente	PROPN	SP	_	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	expl	_	_
+14	accontento	accontento	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+15-16	Del	_	_	_	_	_	_	_	_
+15	Di	Di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	#SundayFunday	#SundayFunday	PROPN	SP	_	14	obl	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	total	totale	DET	DQ	Number=Sing|PronType=Int	20	det	_	_
+20	rest	rest	NOUN	S	Gender=Masc	17	conj	_	_
+21	enjoy	enjoy	CCONJ	CC	_	23	cc	_	_
+22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
+23	#vibe	#viba	NOUN	S	Gender=Fem|Number=Plur	17	conj	_	SpacesAfter=\n
+

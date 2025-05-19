@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bobogiac pelandrone smettila di andare in giro a fare l'aspirante sindaco a spese nostre
+1	@bobogiac	@bobogiac	X	SW	Foreign=Yes	0	root	_	_
+2	pelandrone	pelandrone	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	smettila	smettila	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	andare	andare	VERB	V	VerbForm=Inf	1	acl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	giro	giro	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+11	aspirante	aspirante	ADJ	A	Number=Sing	12	amod	_	_
+12	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+15	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	SpacesAfter=\n
+

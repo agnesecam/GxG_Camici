@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @blusewillis dunque questo messaggio verrà cancellato e voi non avrete visto niente
+1	@blusewillis	@blusewillis	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	messaggio	messaggio	NOUN	S	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+5	verrà	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux:pass	_	_
+6	cancellato	cancellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+12	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaraFlorenzi certo uno possiede e l'altra si fa possedere .
+1	@LaraFlorenzi	@LaraFlorenzi	ADP	E	_	3	case	_	_
+2	certo	certo	ADV	B	_	3	advmod	_	_
+3	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	_
+4	possiede	possedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	e	e	CCONJ	CC	_	9	cc	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	9	obj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+9	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	possedere	possedere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

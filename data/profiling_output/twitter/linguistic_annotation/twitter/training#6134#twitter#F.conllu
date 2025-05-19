@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Francesco_Inc @MsgSilvia @Storace saremmo stupidi se fossimo informati male come te!
+1	@Francesco_Inc	@Francesco_Inc	PROPN	SP	_	5	nsubj	_	_
+2	@MsgSilvia	@MsgSilvia	PROPN	SP	_	1	flat:name	_	_
+3	@Storace	@Storace	PROPN	SP	_	1	flat:name	_	_
+4	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	stupidi	stupido	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	informati	informare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+9	male	male	ADV	B	_	11	advmod	_	_
+10	come	come	ADP	E	_	11	case	_	_
+11	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obl	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ma votiamo Storace perché siamo informati
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	votiamo	votare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Storace	Storace	PROPN	SP	_	2	obj	_	_
+4	perché	perché	SCONJ	CS	_	6	mark	_	_
+5	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	informati	informare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	SpacesAfter=\n
+

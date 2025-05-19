@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cakegardenP ahinoi era quello che mi era sembrato di capire.
+1	@cakegardenP	@cakegardenP	PROPN	SP	_	4	nmod	_	_
+2	ahinoi	ahinoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+7	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	capire	capire	VERB	V	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Tu però ce la faresti eccome a farla ;-)
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+2	però	però	ADV	B	_	5	advmod	_	_
+3	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	faresti	fare	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	eccome	eccome	ADV	B	_	5	advmod	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8-9	farla	_	_	_	_	_	_	_	_
+8	far	fare	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	;	;	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #iHeartAwards #BestFanArmy #5SOSFam <3 ce la faremo u.u GO 5SOSFAM
+1	#iHeartAwards	#iHeartAwards	PROPN	SP	_	7	obj	_	_
+2	#BestFanArmy	#BestFanArmy	PROPN	SP	_	1	flat:name	_	_
+3	#5SOSFam	#5SOSFam	PROPN	SP	_	1	flat:name	_	_
+4	<3	<3	NUM	N	NumType=Card	7	nummod	_	_
+5	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+6	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	u.u	u.u	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	GO	Go	PROPN	SP	_	7	nsubj	_	_
+10	5SOSFAM	5SOSFAM	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

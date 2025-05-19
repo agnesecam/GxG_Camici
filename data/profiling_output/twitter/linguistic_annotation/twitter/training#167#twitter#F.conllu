@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Napoli uscirà dall'isolamento perché Valeria Valente ha il Governo dalla sua.
+1	Napoli	Napoli	PROPN	SP	_	2	nsubj	_	_
+2	uscirà	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3-4	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+3	da	da	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	isolamento	isolamento	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	perché	perché	SCONJ	CS	_	9	mark	_	_
+7	Valeria	Valeria	PROPN	SP	_	9	nsubj	_	_
+8	Valente	Valente	PROPN	SP	_	7	flat:name	_	_
+9	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Chiunque su FB contraddica il... http:// fb.me/55VhqCWnV
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+2	su	su	ADP	E	_	3	case	_	_
+3	FB	FB	PROPN	SP	_	4	obl	_	_
+4	contraddica	contraddico	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+5	il...	il.	PUNCT	FF	_	4	punct	_	_
+6	http:	http:	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	fb.me/55VhqCWnV	fb.me/55VhqCWnV	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

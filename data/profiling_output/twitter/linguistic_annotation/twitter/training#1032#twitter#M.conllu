@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ho appena finito di fare pipì e c'erano ospiti fuori dalla porta che parlavano coi miei è stato troppo imbarazzante r
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	appena	appena	ADV	B	_	3	advmod	_	_
+3	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	pipì	pipì	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	SpaceAfter=No
+9	erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	ospiti	ospire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+11	fuori	fuori	ADV	B	_	14	case	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	11	fixed	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	porta	porta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	parlavano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	_
+17-18	coi	_	_	_	_	_	_	_	_
+17	con	con	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	obl	_	_
+20	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+21	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	cop	_	_
+22	troppo	troppo	ADV	B	_	23	advmod	_	_
+23	imbarazzante	imbarazzare	ADJ	A	Number=Sing	3	conj	_	_
+24	r	r	VERB	V	VerbForm=Inf	23	csubj	_	SpacesAfter=\n
+

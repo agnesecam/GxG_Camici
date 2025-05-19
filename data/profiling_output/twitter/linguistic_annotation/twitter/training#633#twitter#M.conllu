@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Fran978081 @JuveClubTweet infatti, ma non avessimo avuto la consapevolezza di poterli battere saremmo stati rassegnati non incazzati
+1	@Fran978081	@Fran97808l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@JuveClubTweet	@JuveClubTweet	PROPN	SP	_	17	nsubj:pass	_	_
+3	infatti	infatti	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	ma	ma	CCONJ	CC	_	8	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	consapevolezza	consapevolezza	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	14	mark	_	_
+12-13	poterli	_	_	_	_	_	_	_	_
+12	poter	potere	AUX	VM	VerbForm=Inf	14	aux	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	battere	battere	VERB	V	VerbForm=Inf	10	acl	_	_
+15	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+16	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	aux:pass	_	_
+17	rassegnati	rassegnare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+18	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+19	incazzati	incazzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	xcomp	_	SpacesAfter=\n
+

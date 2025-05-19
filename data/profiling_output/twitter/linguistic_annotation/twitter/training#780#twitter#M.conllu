@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Partita di andata e di ritorno che si potrebbero riassumere cosi:
+1	Partita	partita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	andata	andata	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	ritorno	ritorno	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+7	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+9	potrebbero	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	riassumere	riassumere	VERB	V	VerbForm=Inf	1	acl:relcl	_	_
+11	cosi	coso	ADJ	A	Gender=Masc|Number=Plur	10	xcomp	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "se solo avessimo segnato prima...".
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	solo	solo	ADV	B	_	5	advmod	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	segnato	segnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	prima...	prima...	NOUN	S	_	5	obj	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #RealRoma
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	RealRoma	RealRoma	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

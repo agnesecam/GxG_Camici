@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io vado,Tu vai, Egli va, Noi andiamo, Voi andate, Essi vanno ....
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	vado,Tu	vado,tu	PROPN	SP	_	6	vocative	_	_
+3	vai	andare	NOUN	S	_	2	compound	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+9	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	Voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_
+12	andate	andare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+15	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+16	...	...	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = in pratica partecipano tutti :) @s_margiotta pic.twitter.com/Zigc9KgVvQ
+1	in	in	ADP	E	_	2	case	_	_
+2	pratica	pratica	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+3	partecipano	partecipare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
+5	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+6	)	)	PUNCT	FB	_	3	punct	_	_
+7	@s_margiotta	@s_margiurre	ADJ	A	_	8	amod	_	_
+8	pic.twitter.com/Zigc9KgVvQ	pic.twitter.com/Zigc9KgVvQ	PROPN	SP	_	3	obl	_	SpacesAfter=\n
+

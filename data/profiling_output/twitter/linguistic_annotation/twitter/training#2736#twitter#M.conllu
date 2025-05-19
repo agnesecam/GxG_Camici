@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #coffeebreakla7 Abrignani gli manca solo una penna di gallina, in testa per sembrare un pellerossa!
+1	#coffeebreakla7	#coffeebreakla7	NUM	N	NumType=Card	2	nummod	_	_
+2	Abrignani	Abrignani	PROPN	SP	_	4	nsubj	_	_
+3	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	solo	solo	ADV	B	_	4	advmod	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	penna	penna	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	gallina	gallina	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	7	punct	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	testa	testa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+13	per	per	ADP	E	_	14	mark	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	12	acl	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	pellerossa	pellerossa	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

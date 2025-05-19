@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'orgoglio è un difetto assai comune.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	orgoglio	orgoglio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	difetto	difetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	assai	assai	ADV	B	_	7	advmod	_	_
+7	comune	comune	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Da tutto quello che ho letto, sono convinta che è assai frequente;
+1	Da	da	ADP	E	_	3	case	_	_
+2	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	obl	_	_
+4	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	convinta	convincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	assai	assai	ADV	B	_	13	advmod	_	_
+13	frequente	frequente	ADJ	A	Number=Sing	9	ccomp	_	SpaceAfter=No
+14	;	;	PUNCT	FC	_	9	punct	_	_
+
+# sent_id = 3
+# text = che la... http:// fb.me/2n7FosU6x
+1	che	che	DET	DQ	PronType=Int	2	det	_	_
+2	la...	la.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	fb.me/2n7FosU6x	fb.me/2n7FosU6x	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DavidePrandiWil @ClaudioDeglinn2 se avessimo avuto le palle non avremo questi governi non eletti e non faremo figure di me..a con l'estero
+1	@DavidePrandiWil	@DavidePrandiWil	PROPN	SP	_	9	nsubj	_	_
+2	@ClaudioDeglinn2	@ClaudioDeglinn2	PROPN	SP	_	1	flat:name	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	palle	palla	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+11	governi	governo	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	eletti	eleggere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	xcomp	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	9	conj	_	_
+17	figure	figura	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	me..a	me..a	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20	con	con	ADP	E	_	22	case	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
+22	estero	estero	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpacesAfter=\n
+

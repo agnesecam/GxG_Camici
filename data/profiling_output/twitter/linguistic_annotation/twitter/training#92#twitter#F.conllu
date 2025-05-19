@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = France5 A. Delon, il tuo discorso sui i gay non mi FA ridere.
+1	France5	France5	PROPN	SP	_	16	obl	_	_
+2	A	A	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FF	_	1	punct	_	_
+4	Delon	Delon	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+9-10	sui	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	gay	gay	NOUN	S	Gender=Masc	8	nmod	_	_
+13	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+15	FA	fare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	ridere	ridere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = Perche ' non parli del tuo passato avresti tante cose Da raccontare ma tante...
+1	Perche	Perca	ADV	B	_	4	advmod	_	_
+2	'	'	PUNCT	FB	_	4	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4-5	parli	_	_	_	_	_	_	_	_
+4	par	parre	VERB	V	VerbForm=Inf	0	root	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	passato	passato	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+10	avresti	avredere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+11	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+13	Da	Da	ADP	E	_	14	mark	_	_
+14	raccontare	raccontare	VERB	V	VerbForm=Inf	12	acl	_	_
+15	ma	ma	CCONJ	CC	_	16	cc	_	_
+16	tante...	tante.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mareske_ A dire il vero (non voglio sembrare una sapientona!) ma è Collodi che ha scritto Pinocchio
+1	@Mareske_	@mareske_	PUNCT	FB	_	16	punct	_	_
+2	A	a	ADP	E	_	3	mark	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	16	advcl	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	_
+6	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	5	advcl	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	sapientona	sapientona	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	9	punct	_	_
+14	ma	ma	CCONJ	CC	_	16	cc	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	Collodi	Collodi	PROPN	SP	_	0	root	_	_
+17	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+18	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
+20	Pinocchio	Pinocchio	PROPN	SP	_	19	obj	_	SpacesAfter=\n
+

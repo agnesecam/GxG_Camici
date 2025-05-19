@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ANTONINORABOTTI Essendo cosi sparpagliati fanno del male solo a noi , immagina se i clan fossero tutti insieme che guerre ?
+1	@ANTONINORABOTTI	@ANTONINORABOTTI	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	Essendo	essere	AUX	V	VerbForm=Ger	3	aux	_	_
+3	cosi	coso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	sparpagliati	sparpagliare	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+5	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	male	male	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	solo	solo	ADV	B	_	11	advmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	obl	_	_
+12	,	,	PUNCT	FF	_	5	punct	_	_
+13	immagina	immaginare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+14	se	se	SCONJ	CS	_	21	mark	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	clan	clan	NOUN	S	Gender=Masc	21	nsubj	_	_
+17	fossero	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	_
+18	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	obl	_	_
+19	insieme	insieme	ADV	B	_	21	mark	_	_
+20	che	che	SCONJ	CS	_	19	fixed	_	_
+21	guerre	guerrere	VERB	V	VerbForm=Inf	13	advcl	_	_
+22	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

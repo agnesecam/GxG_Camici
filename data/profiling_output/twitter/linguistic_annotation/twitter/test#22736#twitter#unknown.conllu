@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NicolinoBerti @emrata io l' avrai accettata pure se fosse stata Dorotea o post craxiana.
+1	@NicolinoBerti	@NicolinoBerti	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@emrata	@emrare	NOUN	S	Gender=Masc|Number=Plur	6	dislocated	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	avrai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	accettata	accettare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	pure	pure	ADV	B	_	11	advmod	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+10	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	cop	_	_
+11	Dorotea	Dorotea	PROPN	SP	_	6	advcl	_	_
+12	o	o	CCONJ	CC	_	14	cc	_	_
+13	post	post	ADV	B	_	14	advmod	_	_
+14	craxiana	craxiano	ADJ	A	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = pensa quanto sono democratico
+1	pensa	pensare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quanto	quanto	ADV	B	_	4	advmod	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	democratico	democratico	ADJ	A	Gender=Masc|Number=Sing	1	ccomp	_	SpacesAfter=\n
+

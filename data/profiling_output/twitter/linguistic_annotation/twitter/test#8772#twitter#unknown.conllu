@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @1Dovahkiin @GranataAndy @fabiofulco Ciao VERY.Ho paura che non servirà a niente.Quello non lo sposteranno neppure le cannonate!
+1	@1Dovahkiin	@1Dovahkiin	PROPN	SP	_	14	nsubj	_	_
+2	@GranataAndy	@GranataAndy	PROPN	SP	_	1	flat:name	_	_
+3	@fabiofulco	@fabiofulco	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+4	Ciao	ciao	PROPN	SP	_	1	nmod	_	_
+5	VERY.Ho	VERY.Ho	PROPN	SP	_	4	flat:name	_	_
+6	paura	paura	NOUN	S	Gender=Fem|Number=Sing	4	flat:name	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	servirà	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	acl:relcl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	niente.Quello	niente.Quello	PROPN	SP	_	9	obl	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	sposteranno	spostare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+15	neppure	neppure	ADV	BN	PronType=Neg	17	advmod	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	cannonate	cannonata	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

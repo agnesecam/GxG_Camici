@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #volley #pallavolo #SuperLegaPOChallenge - Hristo Zlatanov:
+1	#volley	#volley	NOUN	S	Gender=Masc	0	root	_	_
+2	#pallavolo	#pallavolo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	#SuperLegaPOChallenge	#SuperLegaPOChallenge	PROPN	SP	_	1	nmod	_	_
+4	-	-	PUNCT	FF	_	3	punct	_	_
+5	Hristo	Hristo	PROPN	SP	_	3	flat:name	_	_
+6	Zlatanov	Zlatanov	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Se avessimo giocato sempre così...": http:// bit.ly/1YMHY1m Video
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	sempre	sempre	ADV	B	_	4	advmod	_	_
+6	così...	così.	NOUN	S	_	4	obj	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	6	punct	_	_
+9	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	6	punct	_	_
+12	bit.ly/1YMHY1m	bit.ly/1YMHY1m	PROPN	SP	_	6	nmod	_	_
+13	Video	video	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

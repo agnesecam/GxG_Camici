@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #championLigue che tristezza in questo albergo che ha tutte le paytv e io non ho interesse in nessuna partita
+1	#championLigue	#championLiguire	PRON	PI	Number=Sing|PronType=Ind	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	tristezza	tristezza	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	albergo	albergo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+9	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	11	det:predet	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	paytv	paytv	NOUN	S	Gender=Fem	8	obj	_	_
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	_
+19	partita	partita	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpacesAfter=\n
+

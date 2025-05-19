@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Adesso che il BOachella non si farà più, la mia occasione di fare la fashion blogger gipsy-chic sotto cassa è svanita per sempre.
+1	Adesso	adesso	ADV	B	_	7	mark	_	_
+2	che	che	SCONJ	CS	_	1	fixed	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	BOachella	BOachella	PROPN	SP	_	7	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	advcl	_	_
+8	più	più	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	22	nsubj:pass	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	fare	fare	VERB	V	VerbForm=Inf	12	acl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	fashion	fashion	NOUN	S	Gender=Fem	14	obj	_	_
+17	blogger	bloggere	ADP	E	_	18	case	_	_
+18	gipsy-chic	gipsy-chic	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	_
+19	sotto	sotto	ADP	E	_	20	case	_	_
+20	cassa	cassa	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+21	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
+22	svanita	svanire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24	sempre	sempre	ADV	B	_	22	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	22	punct	_	SpacesAfter=\n
+

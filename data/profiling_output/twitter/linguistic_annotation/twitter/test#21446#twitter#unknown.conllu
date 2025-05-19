@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la foto di destra potevate pure risparmiarvela, cosa sono ste minchiate infantili?
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	foto	foto	NOUN	S	Gender=Fem	7	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	destra	destra	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	potevate	potere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	pure	pure	ADV	B	_	7	advmod	_	_
+7	risparmiarvela	risparmiarvelare	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	11	nsubj	_	_
+10	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	ste	rre	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	conj	_	_
+12	minchiate	minchiato	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+13	infantili	infantile	ADJ	A	Number=Plur	12	amod	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = lali starà meno male secondo voi?
+1	lali	lale	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	meno	meno	ADV	B	_	4	advmod	_	_
+4	male	male	ADV	B	_	2	advmod	_	_
+5	secondo	secondo	ADP	E	_	6	case	_	_
+6	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/camiantequeda/ status/714321993592619009 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/camiantequeda/	twitter.com/camiantequeda/	PUNCT	FF	_	1	punct	_	_
+5	status/714321993592619009	status/714321993592619009	NUM	N	NumType=Card	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agiannett Ci sta.
+1	@agiannett	@agiannett	ADV	B	_	3	advmod	_	_
+2	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = La Fortitudo ha un calendario abbordabilissimo:
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Fortitudo	Fortitudo	PROPN	SP	_	3	nsubj	_	_
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	calendario	calendario	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	abbordabilissimo	abbordabilissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = potrebbe arrivare sesta e sarebbe ns. avversaria se noi fossimo terzi...
+1	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	arrivare	arrivare	VERB	V	VerbForm=Inf	0	root	_	_
+3	sesta	sesto	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	2	xcomp	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	ns	ns	PROPN	SW	Foreign=Yes	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	8	punct	_	_
+8	avversaria	avversario	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	se	se	SCONJ	CS	_	12	mark	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+11	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	terzi...	terzi.	NOUN	S	_	8	advcl	_	SpacesAfter=\n
+

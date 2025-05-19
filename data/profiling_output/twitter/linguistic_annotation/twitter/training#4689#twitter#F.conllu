@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #MariaDeFilippi ha perso la mamma, così la conduttrice di #uominiedonne dovrà elaborare questo lutto @AmiciUfficiale http:// gossipland.it/maria-de-filip pi-in-lutto-e-morta-la-mamma/ …
+1	#MariaDeFilippi	#MariaDeFilippi	PROPN	SP	_	3	nsubj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	13	punct	_	_
+7	così	così	ADV	B	_	13	advmod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	conduttrice	conduttore	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	elaborare	elaborare	VERB	V	VerbForm=Inf	3	conj	_	_
+14	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
+15	lutto	lutto	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	@AmiciUfficiale	@AmiciUfficiale	ADJ	A	Number=Sing	15	amod	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	gossipland.it/maria-de-filip	gossipland.it/maria-de-filip	NOUN	S	Gender=Masc	16	conj	_	_
+21	pi-in	pi-ino	ADP	E	_	22	case	_	SpaceAfter=No
+22	-lutto	-lutto	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	e-morta-la-mamma	e-morta-la-mamma	NOUN	S	Gender=Masc|Number=Sing	22	compound	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	20	punct	_	_
+26	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

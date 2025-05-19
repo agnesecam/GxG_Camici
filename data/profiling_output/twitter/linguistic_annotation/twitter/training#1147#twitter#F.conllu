@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Secondo giorno di applicazione a 10 giorni dalla prima ; la pelle è più soda e Compatta , al tatto appare... http:// fb.me/2AScPrNEv
+1	Secondo	secondo	ADP	E	_	2	case	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	applicazione	applicazione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	10	10	NUM	N	NumType=Card	7	nummod	_	_
+7	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	23	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+10	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	23	amod	_	_
+11	;	;	PUNCT	FC	_	16	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	più	più	ADV	B	_	16	advmod	_	_
+16	soda	sodo	ADJ	A	Gender=Fem|Number=Sing	10	conj	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	Compatta	compatto	ADJ	A	Gender=Fem|Number=Sing	16	conj	_	_
+19	,	,	PUNCT	FF	_	10	punct	_	_
+20-21	al	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	tatto	tatto	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
+23	appare...	appare.	NOUN	S	_	2	nmod	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	fb.me/2AScPrNEv	fb.me/2AScPrNEv	PROPN	SP	_	23	nmod	_	SpacesAfter=\n
+

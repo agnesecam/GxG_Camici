@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaLaudadio @LaRepubblica_it @meb il problema è che lei è dappertutto .
+1	@AndreaLaudadio	@AndreaLaudadio	PROPN	SP	_	6	nsubj	_	_
+2	@LaRepubblica_it	@LaRepubblica_it	PROPN	SP	_	1	flat:name	_	_
+3	@meb	@mebbraio	NOUN	S	_	5	nmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	dappertutto	dappertutto	ADV	B	_	6	advmod	_	_
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Comunque questa è la Madia
+1	Comunque	comunque	ADV	B	_	5	advmod	_	_
+2	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Madia	Madia	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @73deva73 @rassegnastampa La resa?
+1	@73deva73	@73deva73	NUM	N	NumType=Card	2	nummod	_	_
+2	@rassegnastampa	@rassegnastampa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	resa	resa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = Ma se ho letto che sono state rapite 16 donne.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	state	essere	AUX	VA	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	aux:pass	_	_
+8	rapite	rapire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	ccomp	_	_
+9	16	16	NUM	N	NumType=Card	10	nummod	_	_
+10	donne	donna	NOUN	S	Gender=Fem|Number=Plur	8	nsubj:pass	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 5
+# text = .rivendicato rapimento da Boko Haram..e dunque ?!?
+1	.rivendicato	.rivendicare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	rapimento	rapimento	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	Boko	Boko	PROPN	SP	_	1	obl:agent	_	_
+5	Haram..e	Haram..e	PROPN	SP	_	4	flat:name	_	_
+6	dunque	dunque	ADV	B	_	4	advmod	_	_
+7	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+8	!?	!?	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

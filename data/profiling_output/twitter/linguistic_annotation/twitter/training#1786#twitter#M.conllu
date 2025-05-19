@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ckyenge @HuffPostItalia
+1	@ckyenge	@ckyengere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@HuffPostItalia	@HuffPostItalia	PROPN	SP	_	1	obj	_	_
+
+# sent_id = 2
+# text = Il futuro dei nostri figli è nelle nostre mani, al referendum di domenica 17 aprile votate Sì!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8-9	nelle	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	mani	mano	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	referendum	referendum	NOUN	S	Gender=Masc	20	obl	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+18	17	17	NUM	N	NumType=Card	17	nmod	_	_
+19	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	18	flat	_	_
+20	votate	votare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+21	Sì	Sì	INTJ	I	Polarity=Pos	7	parataxis	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	21	punct	_	SpacesAfter=\n
+

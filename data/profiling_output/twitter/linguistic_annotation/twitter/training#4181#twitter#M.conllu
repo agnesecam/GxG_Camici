@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli austriaci non accetteranno mai l'idea che molte delle opere di Mozart furono comprate da un italiano.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	austriaci	austriaco	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	accetteranno	accettare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	mai	mai	ADV	B	_	4	advmod	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	idea	idea	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	che	che	SCONJ	CS	_	16	mark	_	_
+9	molte	molto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	16	nsubj:pass	_	_
+10-11	delle	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	opere	opera	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	Mozart	Mozart	PROPN	SP	_	12	nmod	_	_
+15	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	_
+16	comprate	comprare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	_
+17	da	da	ADP	E	_	19	case	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	italiano	italiano	NOUN	S	Gender=Masc|Number=Sing	16	obl:agent	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ma il mondo dovrà farlo!
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5-6	farlo	_	_	_	_	_	_	_	SpaceAfter=No
+5	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #luchesi
+1	#luchesi	#luchese	NOUN	S	Number=Plur	0	root	_	SpacesAfter=\n
+

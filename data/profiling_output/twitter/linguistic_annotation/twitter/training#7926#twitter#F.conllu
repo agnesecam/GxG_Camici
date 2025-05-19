@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che cos'è una casa?
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	cos'	cosa	PRON	PQ	Number=Sing|PronType=Int	0	root	_	SpaceAfter=No
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	casa	casa	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = qualcosa che ti avvolge e ti protegge.
+1	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	avvolge	avvolgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+7	protegge	proteggere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Anche un abbraccio, dunque , può essere casa.
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	abbraccio	abbraccio	NOUN	S	Gender=Masc|Number=Sing	9	nsubj:pass	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	dunque	dunque	ADV	B	_	9	advmod	_	_
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	essere	essere	AUX	VA	VerbForm=Inf	9	aux:pass	_	_
+9	casa	casa	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

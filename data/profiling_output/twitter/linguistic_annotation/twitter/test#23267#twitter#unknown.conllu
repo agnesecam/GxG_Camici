@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chissà, forse se invece di far giocare quel cancro di Candreva, avesse messo Keita dall’inizio …
+1	Chissà	chissà	INTJ	I	_	7	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	forse	forse	ADV	B	_	7	advmod	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	invece	invece	ADV	B	_	7	mark	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+8	giocare	giocare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	cancro	cancro	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Candreva	candreva	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	10	punct	_	_
+14	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_
+16	Keita	Keita	PROPN	SP	_	15	obj	_	_
+17-18	dall’	_	_	_	_	_	_	_	SpaceAfter=No
+17	da	da	ADP	E	_	19	case	_	_
+18	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
+19	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+20	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cookery Course for mothers Corso di Cucina, Nutrizione e Igiene per le nostre mamme!
+1	Cookery	Cookery	PROPN	SP	_	0	root	_	_
+2	Course	course	PROPN	SP	_	1	flat:name	_	_
+3	for	for	ADP	E	_	4	case	_	_
+4	mothers	mother	NOUN	S	Gender=Masc	1	nmod	_	_
+5	Corso	corso	PROPN	SP	_	4	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Cucina	cucina	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	Nutrizione	nutrizione	PROPN	SP	_	1	conj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	Igiene	igiene	PROPN	SP	_	1	conj	_	_
+12	per	per	ADP	E	_	15	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	mamme	mamma	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = @FondazioneAVSI #avsiinkenya pic.twitter.com/s7u8rxbxbo
+1	@FondazioneAVSI	@FondazioneAVSI	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	#avsiinkenya	#avsiinkenya	ADJ	A	Number=Sing	3	amod	_	_
+3	pic.twitter.com/s7u8rxbxbo	pic.twitter.com/s7u8rxbxbo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

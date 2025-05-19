@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se fosse per me saremmo lontani da cose normali, senza lavoro e senza ideali... https://www.
+1	se	se	SCONJ	CS	_	6	mark	_	_
+2	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+5	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	lontani	lontano	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+9	normali	normale	ADJ	A	Number=Plur	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	6	punct	_	_
+11	senza	senza	ADP	E	_	12	case	_	_
+12	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	senza	senza	ADP	E	_	15	case	_	_
+15	ideali...	ideali...	NOUN	S	_	12	conj	_	_
+16	https://www	https://www	NOUN	S	_	12	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDV76H1L35c/
+1	instagram.com/p/BDV76H1L35c/	instagram.com/p/BDV76H1L35c/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #referendum17aprile Ogni giorno un bufala.
+1	#referendum17aprile	#referendum17aprile	ADJ	A	Number=Sing	5	amod	_	_
+2	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bufala	bufala	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Se da mesi avessimo seguito coloro che ci raccontavano che la nostra... http:// fb.me/7iMnamG96
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux:pass	_	_
+5	seguito	seguire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+6	coloro	coloro	PRON	PD	Number=Plur|PronType=Dem	5	nsubj:pass	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+9	raccontavano	raccontare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
+10	che	che	SCONJ	CS	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	nostra...	nostra...	NOUN	S	_	9	obl	_	_
+13	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	fb.me/7iMnamG96	fb.me/7iMnamG96	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

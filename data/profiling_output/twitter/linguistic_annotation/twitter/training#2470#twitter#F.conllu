@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @elisatoffoli ..a notte fonda ascoltare On,'sentirti' dentro e piangere d'emozione e di contatto con l'anima,poi leggere queste parole...
+1	@elisatoffoli	@elisatoffole	ADJ	A	Number=Plur	3	amod	_	_
+2	..a	..are	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	notte	notte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+4	fonda	fondo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ascoltare	ascoltare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	On,'	On,'	ADP	E	_	7	mark	_	SpaceAfter=No
+7-8	sentirti	_	_	_	_	_	_	_	SpaceAfter=No
+7	sentir	sentire	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+9	'	'	PUNCT	FB	_	7	punct	_	_
+10	dentro	dentro	ADV	B	_	7	advmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	piangere	piangere	VERB	V	VerbForm=Inf	7	conj	_	_
+13	d'	di	ADP	E	_	14	case	_	SpaceAfter=No
+14	emozione	emozione	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	contatto	contatto	NOUN	S	Gender=Masc|Number=Sing	14	conj	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	anima,poi	anima,poi	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+21	leggere	leggere	VERB	V	VerbForm=Inf	12	xcomp	_	_
+22	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	23	det	_	_
+23	parole..	parole..	NOUN	S	_	21	obj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo una legge sul #whistleblowing non sarebbe successo.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	legge	legge	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5-6	sul	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#whistleblowing	#whistleblowing	NOUN	S	Gender=Masc	4	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Accade anche questo l' #8marzo ad una donna e mamma pic.twitter.com/0yKIQaRLSS
+1	Accade	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	anche	anche	ADV	B	_	1	advmod	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	#8marzo	#8marzo	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+6	ad	a	ADP	E	_	8	case	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	donna	donna	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	_
+11	pic.twitter.com/0yKIQaRLSS	pic.twitter.com/0yKIQaRLSS	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

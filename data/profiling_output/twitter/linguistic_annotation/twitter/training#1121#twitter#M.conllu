@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oriana Fallaci dimenticata ​ dalla sua Firenze:
+1	Oriana	Oriana	PROPN	SP	_	0	root	_	_
+2	Fallaci	Fallaci	PROPN	SP	_	1	flat:name	_	_
+3	dimenticata	dimenticare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+4	​	​	PROPN	SP	_	1	flat:name	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	Firenze	Firenze	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = A settembre sarà il decino anniversario dalla scomparsa di Oria... http:// bit.ly/1qGX9hv
+1	A	a	ADP	E	_	2	case	_	_
+2	settembre	settembre	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	decino	decino	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	anniversario	anniversario	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	scomparsa	scomparsa	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Oria...	Oria...	PROPN	SP	_	9	nmod	_	_
+12	http:	http:	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	bit.ly/1qGX9hv	bit.ly/1qGX9hv	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

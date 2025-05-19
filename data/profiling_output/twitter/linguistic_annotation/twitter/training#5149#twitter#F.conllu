@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gialucros che bello quando nel secolo scorso facevate le telecronache dallo stadio!
+1	@gialucros	@gialucros	NOUN	S	Gender=Masc	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	obj	_	_
+3	bello	bello	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	quando	quando	SCONJ	CS	_	9	mark	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	secolo	secolo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+8	scorso	scorso	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	facevate	facevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	telecronache	telecronaca	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12-13	dallo	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

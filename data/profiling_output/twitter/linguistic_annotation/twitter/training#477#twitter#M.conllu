@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Farmaceutica 2015.
+1	Farmaceutica	farmaceutico	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	2015	2015	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Volano produzione ed export.
+1	Volano	volare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	produzione	produzione	NOUN	S	Gender=Fem|Number=Sing	1	xcomp	_	_
+3	ed	e	CCONJ	CC	_	4	cc	_	_
+4	export	export	NOUN	S	Gender=Masc	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Scaccabarozzi:
+1	Scaccabarozzi	Scaccabarozzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 4
+# text = «Se avessimo una nuova governance…» http:// 24o.it/Eeaxd4 via @sole24ore
+1	«	«	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+5	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+6	governance…	governance…	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	»	»	PUNCT	FB	_	5	punct	_	_
+8	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	5	punct	_	_
+11	24o.it/Eeaxd4	24o.it/Eeaxd4	PROPN	SP	_	3	obj	_	_
+12	via	via	ADV	B	_	3	advmod	_	_
+13	@sole24ore	@sole24ore	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpacesAfter=\n
+

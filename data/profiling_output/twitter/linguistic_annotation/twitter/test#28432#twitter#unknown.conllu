@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sghi29 ci siamo eccome, e senza #farsopoli lo saremmo stabilmente da tempo #bruttibastardoni
+1	@sghi29	@sghi29	NUM	N	NumType=Card	10	nummod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+3	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+4	eccome	eccome	ADV	B	_	10	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	senza	senza	ADP	E	_	8	case	_	_
+8	#farsopoli	#farsopolo	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+9	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	saremmo	essere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+11	stabilmente	stabilmente	ADV	B	_	13	advmod	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14	#bruttibastardoni	#bruttibastardone	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	SpacesAfter=\n
+

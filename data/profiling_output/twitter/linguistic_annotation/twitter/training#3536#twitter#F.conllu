@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @enzobianchi7 Si, ma poveretto, che chiesa corrotta che ha trovato, ce la farà da solo?
+1	@enzobianchi7	@enzobianchi7	NUM	N	NumType=Card	16	nummod	_	_
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	ma	ma	CCONJ	CC	_	5	cc	_	_
+5	poveretto	poveretto	ADJ	A	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	che	che	DET	DQ	PronType=Int	8	det	_	_
+8	chiesa	chiendere	NOUN	S	Gender=Fem|Number=Sing	2	appos	_	_
+9	corrotta	corrotta	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+15	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+17	da	da	ADP	E	_	18	case	_	_
+18	solo	solo	ADV	B	_	16	advmod	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = @PLCastagnetti
+1	@PLCastagnetti	@PLCastagnetti	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

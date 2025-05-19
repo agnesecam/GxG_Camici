@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E buio fu.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	buio	buio	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	fu.	fu.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !..Roccasecca Centro-VIA SANTA MARIA NUOVA E PIAZZETTA ANDANDO SU BUIO PESTO ....
+1	!..Roccasecca	!..Roccasecca	ADP	E	_	2	case	_	_
+2	Centro	Centro	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	VIA	via	PROPN	SP	_	2	nmod	_	_
+5	SANTA	Santa	PROPN	SP	_	4	flat:name	_	_
+6	MARIA	Maria	PROPN	SP	_	4	flat:name	_	_
+7	NUOVA	Nuova	PROPN	SP	_	4	flat:name	_	_
+8	E	e	CCONJ	CC	_	9	cc	_	_
+9	PIAZZETTA	PIAZZETTA	PROPN	SP	_	2	conj	_	_
+10	ANDANDO	andando	PROPN	SP	_	9	flat:name	_	_
+11	SU	su	PROPN	SP	_	9	flat:name	_	_
+12	BUIO	buio	PROPN	SP	_	9	flat:name	_	_
+13	PESTO	pesto	PROPN	SP	_	9	flat:name	_	_
+14	...	...	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = NEPPURE QUELLE... http:// fb.me/5mxOFUi9E
+1	NEPPURE	neppure	PROPN	SP	_	0	root	_	_
+2	QUELLE...	QUELLE...	PROPN	SP	_	1	flat:name	_	_
+3	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	fb.me/5mxOFUi9E	fb.me/5mxOFUi9E	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

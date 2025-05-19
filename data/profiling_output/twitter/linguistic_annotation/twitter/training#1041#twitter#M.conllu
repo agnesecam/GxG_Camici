@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando torni dalla California e non vuoi che la gente lo sappia.
+1	Quando	quando	SCONJ	CS	_	2	mark	_	_
+2	torni	tornare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	California	California	PROPN	SP	_	2	obl	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	che	che	SCONJ	CS	_	13	mark	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	gente	gente	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	sappia	sapere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #California #backhome #trip … https://www.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	California	California	PROPN	SP	_	0	root	_	_
+3	#backhome	#backhome	X	SW	Foreign=Yes	2	flat:foreign	_	_
+4	#trip	#trip	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	…	…	PUNCT	FF	_	2	punct	_	_
+6	https://www	https://www	X	SW	Foreign=Yes	2	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BEB3eJ6p8KU/
+1	instagram.com/p/BEB3eJ6p8KU/	instagram.com/p/BEB3eJ6p8KU/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

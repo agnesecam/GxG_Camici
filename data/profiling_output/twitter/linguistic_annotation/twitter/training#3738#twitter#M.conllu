@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Yattaran Sebino Nela sconvolto cerca di spiegare che tutto ciò non ha senso.
+1	@Yattaran	@Yattaran	PROPN	SP	_	5	nsubj	_	_
+2	Sebino	Sebino	PROPN	SP	_	1	flat:name	_	_
+3	Nela	Nela	PROPN	SP	_	1	flat:name	_	_
+4	sconvolto	sconvolto	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+5	cerca	cercare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	spiegare	spiegare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+9	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
+10	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+13	senso	senso	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

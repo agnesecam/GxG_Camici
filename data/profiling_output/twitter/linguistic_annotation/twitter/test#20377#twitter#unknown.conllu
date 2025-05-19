@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci dai una mano?
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+2-3	dai	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	5	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mano	mano	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Perché?
+1	Perché	perché	ADV	B	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Perché noi stiamo con gli ultimi, con chi ha più bisogno, dovunque si trovi, tutto... http:// fb.me/4KYh6My4P
+1	Perché	perché	SCONJ	CS	_	3	mark	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	ultimi	ultimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	chi	chi	PRON	PR	Number=Sing|PronType=Rel	3	obl	_	_
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14	dovunque	dovunque	SCONJ	CS	_	16	mark	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	trovi	trovare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	tutto...	tutto.	PUNCT	FS	_	16	punct	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	3	punct	_	_
+22	fb.me/4KYh6My4P	fb.me/4KYh6My4P	PROPN	SP	_	3	conj	_	SpacesAfter=\n
+

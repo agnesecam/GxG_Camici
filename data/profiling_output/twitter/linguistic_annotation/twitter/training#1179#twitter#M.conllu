@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La storia d'italia vista dalla giusta prospettiva e non come c'è l'hanno raccontata fino ad ora.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	storia	storia	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+3	d'	di	ADP	E	_	4	case	_	SpaceAfter=No
+4	italia	italia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	vista	vedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	prospettiva	prospettiva	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+12	come	come	ADP	E	_	14	mark	_	_
+13	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	SpaceAfter=No
+14	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	obj	_	SpaceAfter=No
+16	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	raccontata	raccontare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
+18	fino	fino	ADV	B	_	20	case	_	_
+19	ad	a	ADP	E	_	18	fixed	_	_
+20	ora	ora	ADV	B	_	17	advmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = http:// venetostoria.com/2016/04/08/tre -milioni-di-franchi-in-piastre-doro-a-garibaldi-per-comprarsi-il-sud-ce-lo-raccontano-i-massoni/ …
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	venetostoria.com/2016/04/08/tre	venetostoria.com/2016/04/08/tro	X	SW	Foreign=Yes	0	root	_	_
+5	-milioni-di	-milioni-do	X	SW	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	franchi-in	franchi-ino	X	SW	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+9	piastre	piastra	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+10	-doro	-doro	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	a-garibaldi-per	a-garibaldi-pere	ADP	E	_	13	case	_	SpaceAfter=No
+13	-comprarsi-il-sud-ce-lo	-comprarsi-il-sud-ce-lo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	raccontano	raccontare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	i-massoni	i-massone	NOUN	S	Gender=Masc|Number=Plur	15	compound	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pisto_gol Pistocchi sei ributtante da quanto fazioso sei, forse la tua repressione dipende dalla mancanza di centimetri, Auriemma ti vuole
+1	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Pistocchi	Pistocchi	PROPN	SP	_	14	nsubj	_	_
+3	sei	essere	NUM	N	NumType=Card	2	nummod	_	_
+4	ributtante	ributtare	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	2	acl	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	7	obl	_	_
+7	fazioso	fazioso	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	_
+8	sei	sei	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	forse	forse	ADV	B	_	14	advmod	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	repressione	repressione	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+14	dipende	dipendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15-16	dalla	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	mancanza	mancanza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	centimetri	centimetro	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21	Auriemma	Auriemma	PROPN	SP	_	23	nsubj	_	_
+22	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	23	iobj	_	_
+23	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	SpacesAfter=\n
+

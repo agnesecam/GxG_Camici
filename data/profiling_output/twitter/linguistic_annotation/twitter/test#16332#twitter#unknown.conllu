@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il sorriso di Lodovica mentre abbraccia le fan..
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Lodovica	Lodovica	PROPN	SP	_	2	nmod	_	_
+5	mentre	mentre	SCONJ	CS	_	6	mark	_	_
+6	abbraccia	abbracciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	fan.	faumero	NOUN	S	_	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = scusami @dodomisonrisa per la foto ma eravate troppo carine pic.twitter.com/8ZxSnGq8go
+1	scusami	scusame	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@dodomisonrisa	@dodomisonriso	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	foto	foto	NOUN	S	Gender=Fem	7	obl	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7	eravate	erare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	_
+8	troppo	troppo	ADV	B	_	7	advmod	_	_
+9	carine	carino	NOUN	S	Gender=Fem	7	obj	_	_
+10	pic.twitter.com/8ZxSnGq8go	pic.twitter.com/8ZxSnGq8go	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

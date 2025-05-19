@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = IN DIRETTA su #Periscope :
+1	IN	in	ADP	E	_	2	case	_	_
+2	DIRETTA	diretta	PROPN	SP	_	0	root	_	_
+3	su	su	ADP	E	_	4	case	_	_
+4	#Periscope	#Periscope	PROPN	SP	_	2	nmod	_	_
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Scusate mi hanno telefonato dicevo, se voi foste milionari cosa fareste #museumwee … https://www.
+1	Scusate	scusato	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	telefonato	telefonare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	parataxis	_	_
+5	dicevo	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	voi	vo	PRON	PE	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
+9	foste	fosta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	milionari	milionario	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+11	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	fareste	faredere	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
+13	#museumwee	#museumwea	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+14	…	…	PUNCT	FF	_	15	punct	_	_
+15	https://www	https://www	NOUN	S	_	13	compound	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = pscp.tv/w/acv4njQ0MjA4 NTJ8MWVhS2J5WG1FTmR4WKGCMpfYZ6nOR_MSTZ-MZ0v5j1ZyTysuEdOwkdgHH5UT …
+1	pscp.tv/w/acv4njQ0MjA4	pscp.tv/w/acv4njQ0MjA4	PROPN	SP	_	0	root	_	_
+2	NTJ8MWVhS2J5WG1FTmR4WKGCMpfYZ6nOR_MSTZ	NTJ8MWVhS2J5WG1FTmR4WKGCMpfYZ6nOR_MSTZ	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	-MZ0v5j1ZyTysuEdOwkdgHH5UT	-MZ0v5j1ZyTysuEdOwkdgHH5UT	PROPN	SP	_	1	flat:name	_	_
+4	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

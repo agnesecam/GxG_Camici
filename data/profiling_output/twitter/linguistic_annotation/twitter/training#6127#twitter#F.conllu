@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TecchiaSveva tutti in casa e mia mamma ha appeso un cartello in bagno per tirare l'acqua manco fossimo animali ahah
+1	@TecchiaSveva	@TecchiaSvere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	nsubj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	casa	casa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	appeso	appendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	acl:relcl	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	cartello	cartello	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	bagno	bagno	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	tirare	tirare	VERB	V	VerbForm=Inf	20	acl	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+18	manco	manco	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	20	cop	_	_
+20	animali	animale	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+21	ahah	ahah	INTJ	I	_	0	root	_	SpacesAfter=\n
+

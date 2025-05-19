@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ariete...
+1	ariete..	ariete..	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = avrete a che fare con l'amore oggi che vi potrebbe inquietare e innervosire...
+1	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	mark	_	_
+3	che	che	SCONJ	CS	_	2	fixed	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	amore	amore	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	oggi	oggi	ADV	B	_	12	advmod	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	vi	vi	ADV	B	_	12	advmod	_	_
+11	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	inquietare	inquietare	VERB	V	VerbForm=Inf	7	advcl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	innervosire..	innervosire	NUM	N	NumType=Card	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

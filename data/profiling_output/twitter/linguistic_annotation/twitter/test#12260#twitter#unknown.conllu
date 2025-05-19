@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E poi ci sono delle mattine in cui hai solo voglia fare 1telefonata....
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	poi	poi	ADV	B	_	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	mattine	mattina	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	cui	cui	PRON	PR	PronType=Rel	10	obl	_	_
+10	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	solo	solo	ADV	B	_	13	advmod	_	_
+12	voglia	volere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	fare	fare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+14	1telefonata...	1telefonata.	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = giusto per fare 2 chiacchiere come facevamo un tempo...
+1	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+4	2	2	NUM	N	NumType=Card	5	nummod	_	_
+5	chiacchiere	chiacchiere	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	come	come	SCONJ	CS	_	7	mark	_	_
+7	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tempo...	tempo...	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+
+# sent_id = 3
+# text = #mancanza
+1	#mancanza	#mancanza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

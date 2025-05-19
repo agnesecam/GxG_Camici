@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CLIFFH0ECHLIN @_gretamyworld_ - buone intenzioni.
+1	@CLIFFH0ECHLIN	@cliffh0echlino	ADV	B	_	5	advmod	_	_
+2	@_gretamyworld_	@_gretamyworld-	PUNCT	FB	_	1	punct	_	_
+3	-	-	PUNCT	FF	_	1	punct	_	_
+4	buone	buono	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+5	intenzioni	intenzione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Inoltre sono dell'idea che Greta avrebbe potuto dirglielo in modo più gentile e ripeto -
+1	Inoltre	inoltre	ADV	B	_	5	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3-4	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+3	di	di	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	idea	idea	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	che	che	SCONJ	CS	_	10	mark	_	_
+7	Greta	Greta	PROPN	SP	_	10	nsubj	_	_
+8	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	_
+10-11	dirglielo	_	_	_	_	_	_	_	_
+10	dirglie	dirgliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	modo	modo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	gentile	gentile	ADJ	A	Number=Sing	13	amod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	ripeto	ripetere	ADJ	A	Gender=Masc|Number=Sing	15	conj	_	_
+18	-	-	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = UNA PREGHIERA...SE MAI AVESSIMO BISOGNO DI PIÙ POLIZIA...PER PIACERE NON MANDATECI POLIZIOTTI BELGI....PLEASE!!
+1	UNA	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	PREGHIERA...SE	PREGHIERA...SE	PROPN	SP	_	0	root	_	_
+3	MAI	Mai	PROPN	SP	_	2	flat:name	_	_
+4	AVESSIMO	AVESSIMO	PROPN	SP	_	2	flat:name	_	_
+5	BISOGNO	bisogno	PROPN	SP	_	4	flat:name	_	_
+6	DI	di	ADP	E	_	7	case	_	_
+7	PIÙ	più	PROPN	SP	_	2	nmod	_	_
+8	POLIZIA...PER	POLIZIA...PER	PROPN	SP	_	7	flat:name	_	_
+9	PIACERE	piacere	PROPN	SP	_	7	flat:name	_	_
+10	NON	non	PROPN	SP	_	7	nmod	_	_
+11-12	MANDATECI	_	_	_	_	_	_	_	_
+11	MANDATE	MANDATE	PROPN	SP	_	10	flat:name	_	_
+12	CI	ci	PROPN	SP	_	10	flat:name	_	_
+13	POLIZIOTTI	poliziotti	PROPN	SP	_	10	flat:name	_	_
+14	BELGI....PLEASE	BELGI....PLEASE	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

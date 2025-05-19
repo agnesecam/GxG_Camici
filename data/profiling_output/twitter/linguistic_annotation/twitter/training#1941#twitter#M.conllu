@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Adnkronos ( @Adnkronos ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Adnkronos	Adnkronos	PROPN	SP	_	1	flat:name	_	_
+3	(	(	PUNCT	FB	_	4	punct	_	_
+4	@Adnkronos	@Adnkronos	PROPN	SP	_	1	nmod	_	_
+5	)	)	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Dallo spaccio alla rapina, 12 arresti in 48 ore a #Roma ... http:// fb.me/3Z3Gr67LO
+1-2	Dallo	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	spaccio	spaccio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	rapina	rapina	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	12	12	NUM	N	NumType=Card	9	nummod	_	_
+9	arresti	arresto	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	48	48	NUM	N	NumType=Card	12	nummod	_	_
+12	ore	ora	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	#Roma	#Roma	PROPN	SP	_	12	nmod	_	_
+15	...	...	PUNCT	FF	_	3	punct	_	_
+16	http:	http:	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	3	punct	_	_
+19	fb.me/3Z3Gr67LO	fb.me/3Z3Gr67LO	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

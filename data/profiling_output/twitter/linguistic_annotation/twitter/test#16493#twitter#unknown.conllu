@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #GRADO Basilica Cena del #Signore e #lavanda dei #piedi a volontari #CRI #SOGIT (TribunaIllustrata 1902 coll .
+1	#GRADO	#grado	ADP	E	_	2	case	_	_
+2	Basilica	Basilica	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	Cena	cena	PROPN	SP	_	2	nmod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	#Signore	#Signore	PROPN	SP	_	3	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	#lavanda	#lavanda	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	#piedi	#piede	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	volontari	volontario	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+14	#CRI	#CRI	PROPN	SP	_	13	nmod	_	_
+15	#SOGIT	#SOGIT	PROPN	SP	_	14	flat:name	_	_
+16	(	(	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+17	TribunaIllustrata	TribunaIllustrata	PROPN	SP	_	14	nmod	_	_
+18	1902	1902	NUM	N	NumType=Card	17	nummod	_	_
+19	coll	coll	NOUN	S	Gender=Masc	17	nmod	_	_
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Boemo) pic.twitter.com/QM7VTT06xL
+1	Boemo	boemo	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	_
+3	pic.twitter.com/QM7VTT06xL	pic.twitter.com/QM7VTT06xL	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

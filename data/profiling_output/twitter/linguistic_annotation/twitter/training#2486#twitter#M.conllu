@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = tutto scorre dentro e fuori di me:la vita è dinamismo.
+1	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	scorre	scorrere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dentro	dentro	ADV	B	_	2	advmod	_	_
+4	e	e	CCONJ	CC	_	10	cc	_	_
+5	fuori	fuori	ADV	B	_	8	case	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	me:la	me:la	DET	RD	Gender=Fem|Number=Sing	8	det	_	_
+8	vita	vita	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	dinamismo	dinamismo	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/27EM64dI53
+1	pic.twitter.com/27EM64dI53	pic.twitter.com/27EM64dI53	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

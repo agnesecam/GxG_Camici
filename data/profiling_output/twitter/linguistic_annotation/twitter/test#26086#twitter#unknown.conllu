@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #leiene Luca e Paolo non facevano ridere nemmeno nel 2002
+1	#leiene	#leenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Luca	Luca	PROPN	SP	_	1	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	Paolo	Paolo	PROPN	SP	_	2	conj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	obj	_	_
+7	ridere	ridere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	nemmeno	nemmeno	ADV	BN	PronType=Neg	7	advmod	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	2002	2002	NUM	N	NumType=Card	7	obl	_	SpacesAfter=\n
+

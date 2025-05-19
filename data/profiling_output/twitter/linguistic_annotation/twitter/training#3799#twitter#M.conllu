@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il destino sei tu!!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	destino	destino	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	sei	essere	NUM	N	NumType=Card	4	nummod	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = "Se credi di riuscire o di fallire nella vita il tempo ti darà ragione perché tu sei ciò che... http:// fb.me/7OcXu9ZCs
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	credi	credere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	riuscire	riuscire	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	o	o	CCONJ	CC	_	8	cc	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	fallire	fallire	VERB	V	VerbForm=Inf	5	conj	_	_
+9-10	nella	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	iobj	_	_
+15	darà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+16	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+17	perché	perché	SCONJ	CS	_	20	mark	_	_
+18	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
+19	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	15	advcl	_	_
+21	che...	che.	PUNCT	FS	_	20	punct	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	_
+25	fb.me/7OcXu9ZCs	fb.me/7OcXu9ZCs	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

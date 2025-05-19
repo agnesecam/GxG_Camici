@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Potrebbe diventare davvero tutto molto più semplice, se solo avessimo il coraggio di abbandonarci alla vita... http:// fb.me/5656LWUZG
+1	Potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	diventare	diventare	VERB	V	VerbForm=Inf	0	root	_	_
+3	davvero	davvero	ADV	B	_	2	advmod	_	_
+4	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obl	_	_
+5	molto	molto	ADV	B	_	6	advmod	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	semplice	semplice	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	se	se	SCONJ	CS	_	11	mark	_	_
+10	solo	solo	ADV	B	_	11	advmod	_	_
+11	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15-16	abbandonarci	_	_	_	_	_	_	_	_
+15	abbandonar	abbandonare	VERB	V	VerbForm=Inf	13	acl	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	expl	_	_
+17-18	alla	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	vita...	vita...	NOUN	S	_	15	obl	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/5656LWUZG	fb.me/5656LWUZg	PROPN	SP	_	2	xcomp	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @frencina82 Bello, inoltre abbiamo mangiato benissimo, adesso aspetto la "tarte tatin"
+1	@frencina82	@frencina82	NUM	N	NumType=Card	2	nummod	_	_
+2	Bello	bello	PROPN	SP	_	6	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	inoltre	inoltre	ADV	B	_	6	advmod	_	_
+5	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	mangiato	mangiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	benissimo	bene	ADV	B	Degree=Abs	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	adesso	adesso	ADV	B	_	13	advmod	_	_
+10	aspetto	aspettare	ADP	E	_	13	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	tarte	tarte	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+14	tatin	tatino	NOUN	S	_	13	compound	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

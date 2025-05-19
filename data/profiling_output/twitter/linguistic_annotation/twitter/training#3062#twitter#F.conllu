@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Continuo a mangiare cioccolato e già sento i brufoli che si preparano a spuntare e a farmi sembrare ancora più brutta
+1	Continuo	continuare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	mangiare	mangiare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	cioccolato	cioccolato	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	sento	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	brufoli	brufolo	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	preparano	preparare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	spuntare	spuntare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	farmi	arma|farme	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+18	sembrare	sembrare	VERB	V	VerbForm=Inf	14	conj	_	_
+19	ancora	ancora	ADV	B	_	20	advmod	_	_
+20	più	più	ADV	B	_	21	advmod	_	_
+21	brutta	brutto	ADJ	A	Gender=Fem|Number=Sing	18	xcomp	_	SpacesAfter=\n
+

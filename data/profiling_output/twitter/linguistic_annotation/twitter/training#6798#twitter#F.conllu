@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il fatto che mi venga da vomitare, stamattina, non è nemmeno il problema più grave...
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	_
+5	venga	venire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	vomitare	vomitare	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	stamattina	stamattina	ADV	B	_	5	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	5	punct	_	_
+11	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	nemmeno	nemmeno	ADV	BN	PronType=Neg	15	advmod	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	problema	problema	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+16	più	più	ADV	B	_	15	advmod	_	_
+17	grave...	grave.	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = #buongiorno
+1	#buongiorno	#buongiorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

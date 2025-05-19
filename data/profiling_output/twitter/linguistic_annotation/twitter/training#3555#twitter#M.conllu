@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DavidErmini1 quando sua madre farà questa fine, forse farete rispettare l'ordine e la sicurezza #dallavostraparte pic.twitter.com/sxu1a8Yzpm
+1	@DavidErmini1	@DavidErmini1	NUM	N	NumType=Card	11	nummod	_	_
+2	quando	quando	SCONJ	CS	_	5	mark	_	_
+3	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	madre	madre	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	advcl	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	fine	fine	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	forse	forse	ADV	B	_	11	advmod	_	_
+10	farete	faere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	rispettare	rispettare	VERB	V	VerbForm=Inf	0	root	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	ordine	ordine	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
+17	#dallavostraparte	#dallavostraparte	NOUN	S	Gender=Fem|Number=Sing	16	compound	_	_
+18	pic.twitter.com/sxu1a8Yzpm	pic.twitter.com/sxu1a8Yzpm	PROPN	SP	_	17	nmod	_	SpacesAfter=\n
+

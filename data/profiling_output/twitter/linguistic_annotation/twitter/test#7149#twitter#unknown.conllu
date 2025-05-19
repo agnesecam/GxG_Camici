@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non vivo di sogni ma mi nutro di essi
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	vivo	vivo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	sogni	sogno	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+5	ma	ma	CCONJ	CC	_	7	cc	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	nutro	nutro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	conj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	SpacesAfter=\n
+

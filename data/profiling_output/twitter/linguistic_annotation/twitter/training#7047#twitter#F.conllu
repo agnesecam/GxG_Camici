@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Pasqua in Pakistan è strage.
+1	#Pasqua	#Pasqua	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Pakistan	Pakistan	PROPN	SP	_	5	obl	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	strage	strage	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Almeno 56 morti, la maggior parte di essi donne e bambini, in attacco kamikaze in parco popolare di Lahore
+1	Almeno	almeno	ADV	B	_	3	advmod	_	_
+2	56	56	NUM	N	NumType=Card	3	nummod	_	_
+3	morti	morto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	maggior	maggiore	ADJ	A	Degree=Cmp|Number=Sing	7	amod	_	_
+7	parte	parte	NOUN	S	Gender=Fem|Number=Sing	3	appos	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
+10	donne	donna	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	7	punct	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	attacco	attacco	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+16	kamikaze	kamikazo	NOUN	S	Gender=Masc	7	appos	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	parco	parco	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+19	popolare	popolare	ADJ	A	Number=Sing	18	amod	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	Lahore	Lahore	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cita e rispondi su Michael Jackson.
+1	Cita	cita	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	rispondi	rispondo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	Michael	Michael	PROPN	SP	_	3	obl	_	_
+6	Jackson	Jackson	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Lo sapevi che l'ultima scena del video di "YANA" è stata girata senza che essi lo sapessero?
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	sapevi	sapere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	16	mark	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+5	ultima	ultimo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	_
+6	scena	scena	NOUN	S	Gender=Fem|Number=Sing	16	nsubj:pass	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	video	video	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	YANA	YANA	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	12	punct	_	_
+14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	aux:pass	_	_
+16	girata	girare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+17	senza	senza	ADP	E	_	21	mark	_	_
+18	che	che	SCONJ	CS	_	17	fixed	_	_
+19	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+20	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+21	sapessero	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

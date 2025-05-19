@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vittoriozucconi @M5S_No_Grazie @nonleggerlo la solita storia del pelo e la trave vuole far sembrare un pelo una trave per nascondere la sua
+1	@vittoriozucconi	@vittoriozuccone	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	@M5S_No_Grazie	@M5S_No_Grazie	PROPN	SP	_	1	nmod	_	_
+3-4	@nonleggerlo	_	_	_	_	_	_	_	_
+3	@nonlegger	@nonleggere	AUX	VA	VerbForm=Inf	4	cop	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	solita	solito	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pelo	pelo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	e	e	CCONJ	CC	_	15	cc	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	trave	trave	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+14	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	far	fare	VERB	V	VerbForm=Inf	7	conj	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	15	ccomp	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	pelo	pelo	NOUN	S	Gender=Masc|Number=Sing	16	xcomp	_	_
+19	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	trave	trave	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+21	per	per	ADP	E	_	22	mark	_	_
+22	nascondere	nascondere	VERB	V	VerbForm=Inf	20	acl	_	_
+23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	obj	_	SpacesAfter=\n
+

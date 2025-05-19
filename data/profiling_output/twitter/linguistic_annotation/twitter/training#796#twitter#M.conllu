@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gratis.
+1	Gratis	gratis	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Come se non le avessimo pagate noi, fino ad oggi... https:// twitter.com/la_stampa/stat us/707117513113374720 …
+1	Come	come	ADV	B	_	15	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	pagate	pagare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	advcl	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	fino	fino	ADP	E	_	11	case	_	_
+10	ad	a	ADP	E	_	9	fixed	_	_
+11	oggi...	oggi...	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+12	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	twitter.com/la_stampa/stat	twitter.com/la_stampa/stare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	us/707117513113374720	us/707117513113374720	NUM	N	NumType=Card	15	nummod	_	_
+17	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

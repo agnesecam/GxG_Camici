@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non c'è nessuna ipotesi di DISASTRO AMBIENTALE in #Basilicata #echecazzo studiare di più e non scrivere e/o dire... http:// fb.me/7c2C5kcpY
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nessuna	nessuna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	ipotesi	ipotesi	NOUN	S	Gender=Fem	3	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	DISASTRO	disastro	PROPN	SP	_	5	nmod	_	_
+8	AMBIENTALE	ambientale	PROPN	SP	_	7	flat:name	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	#Basilicata	#Basilicata	PROPN	SP	_	7	nmod	_	_
+11	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+12	echecazzo	echecazzo	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	studiare	studiare	VERB	V	VerbForm=Inf	7	conj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	più	più	ADV	B	_	13	advmod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	scrivere	scrivere	VERB	V	VerbForm=Inf	13	conj	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	SpaceAfter=No
+20	/o	/o	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
+21	dire...	dire.	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	13	punct	_	_
+25	fb.me/7c2C5kcpY	fb.me/7c2c5kcpy	PROPN	SP	_	3	nsubj	_	SpacesAfter=\n
+

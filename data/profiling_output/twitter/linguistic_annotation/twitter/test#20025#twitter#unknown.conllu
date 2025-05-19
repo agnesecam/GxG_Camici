@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Ciao Darwin ( @CiaoDarwinReal ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Ciao	ciao	PROPN	SP	_	1	flat:name	_	_
+3	Darwin	Darwin	PROPN	SP	_	1	flat:name	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@CiaoDarwinReal	@CiaoDarwinReal	PROPN	SP	_	1	nmod	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il momento che TUTTI stavate aspettando:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	momento	momento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	TUTTI	Tutti	PROPN	SP	_	6	nsubj	_	_
+5	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	aspettando	aspettare	VERB	V	VerbForm=Ger	2	acl	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = entra Madre Natura!
+1	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Madre	Madre	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	Natura	Natura	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = 󾆫... http:// fb.me/16wXDIM2h
+1	󾆫...	󾆫...	NOUN	S	_	0	root	_	_
+2	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/16wXDIM2h	fb.me/16wXDIM2h	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cristiano e Chiara sono tra i pochissimi talenti là dentro ,e rischiano l'eliminazione.
+1	Cristiano	cristiano	PROPN	SP	_	8	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	Chiara	Chiara	PROPN	SP	_	1	conj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+5	tra	tra	ADP	E	_	8	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	pochissimi	poco	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	8	amod	_	_
+8	talenti	talento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+9	là	là	ADV	B	_	11	advmod	_	_
+10	dentro	dentro	ADV	B	_	11	advmod	_	_
+11	,e	,e	ADJ	A	Number=Sing	8	amod	_	_
+12	rischiano	rischiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	eliminazione	eliminazione	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Io sono scioccata.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	scioccata	scioccare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #Amici15
+1	#Amici15	#Amici15	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

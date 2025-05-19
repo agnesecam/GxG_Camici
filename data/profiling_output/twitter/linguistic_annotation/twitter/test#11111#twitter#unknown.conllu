@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho terminato la missione Nemici dappertutto ! Riesci a completare lo stesso compito?
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	terminato	terminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	missione	missione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	Nemici	nemici	PROPN	SP	_	4	nmod	_	_
+6	dappertutto	dappertutto	ADV	B	_	5	advmod	_	_
+7	!	!	PUNCT	FS	_	2	punct	_	_
+8	Riesci	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	completare	completare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	compito	compito	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = http:// gigam.es/Castlez_tw #android , #androidgames , #ga ...
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	gigam.es/Castlez_tw	gigam.es/Castlez_tw	X	SW	Foreign=Yes	0	root	_	_
+5	#android	#android	X	SW	Foreign=Yes	4	flat:foreign	_	_
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	#androidgames	#androidgames	X	SW	Foreign=Yes	4	flat:foreign	_	_
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	#ga	#ga	NOUN	S	Gender=Fem|Number=Sing	4	appos	_	_
+10	...	...	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = può sembrare strano ma hai un naso bellissimo secondo me — Perché dovrebbe sembrare strano?
+1	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	strano	strano	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	ma	ma	CCONJ	CC	_	5	cc	_	_
+5	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	naso	naso	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	7	amod	_	_
+9	secondo	secondo	ADP	E	_	10	case	_	_
+10	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
+11	—	—	PUNCT	FF	_	14	punct	_	_
+12	Perché	perché	ADV	B	_	14	advmod	_	_
+13	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	2	conj	_	_
+15	strano	strano	ADJ	A	Gender=Masc|Number=Sing	14	xcomp	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Bah, grazie comunque.
+1	Bah	Bah	INTJ	I	_	3	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	grazie	grazie	NOUN	S	_	0	root	_	_
+4	comunque	comunque	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM3CACRIITQPI6DC5TCHSPPPN2ZEY5KMYNNRKMSQBVKKY7KHQEI5XD6UC7Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4=== …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+5	7B667HQMHN2IG6NM3CACRIITQPI6DC5TCHSPPPN2ZEY5KMYNNRKMSQBVKKY7KHQEI5XD6UC7Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4===	7B667HQMHN2IG6NM3CACRIITQPI6DC5TCHSPPPN2ZEY5KMYNNRKMSQBVKKY7KHQEI5XD6UC7Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4===	PROPN	SP	_	4	flat:name	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

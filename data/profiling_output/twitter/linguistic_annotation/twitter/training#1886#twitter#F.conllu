@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IlariaDiRaimo @theshowisyou @zaynmalik Zayn malik è sempre nelle nostre conversazioni
+1	@IlariaDiRaimo	@IlariaDiRaimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	_
+2	@theshowisyou	@theshowisyou	X	SW	Foreign=Yes	11	nsubj	_	_
+3	@zaynmalik	@zaynmalik	X	SW	Foreign=Yes	2	flat:foreign	_	_
+4	Zayn	Zayn	X	SW	Foreign=Yes	2	flat:foreign	_	_
+5	malik	malik	X	SW	Foreign=Yes	2	flat:foreign	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+7	sempre	sempre	ADV	B	_	11	advmod	_	_
+8-9	nelle	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	conversazioni	conversazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = All'artista che mi accompagna da anni e che mi conosce meglio di chiunque altro, nato nel mio stesso giorno @fdegregori buon compleanno!
+1-2	All'	_	_	_	_	_	_	_	SpaceAfter=No
+1	A	a	ADP	E	_	3	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	artista	artista	NOUN	S	Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	accompagna	accompagnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+12	conosce	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	meglio	meglio	ADV	B	_	15	case	_	_
+14	di	di	ADP	E	_	13	fixed	_	_
+15	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	12	obl	_	_
+16	altro	altro	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	15	punct	_	_
+18	nato	nato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl	_	_
+19-20	nel	_	_	_	_	_	_	_	_
+19	in	in	ADP	E	_	23	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+21	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+22	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+24	@fdegregori	@fdegregore	ADV	B	_	26	advmod	_	_
+25	buon	buono	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	_
+26	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+27	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

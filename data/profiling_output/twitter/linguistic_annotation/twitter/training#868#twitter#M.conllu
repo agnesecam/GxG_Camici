@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo tutti la stessa voglia di arrivare non ci sarebbe nemmeno bisogno di partire!
+1	Se	se	SCONJ	CS	_	6	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	arrivare	arrivare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+9	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	_
+11	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	nemmeno	nemmeno	ADV	BN	PronType=Neg	13	advmod	_	_
+13	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15	partire	partire	VERB	V	VerbForm=Inf	13	acl	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #gliaforismidelbosco
+1	#gliaforismidelbosco	#gliaforismidelbosco	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @reportrai3 siete giornalisti o politici?
+1	@reportrai3	@reportrai3	NUM	N	NumType=Card	3	nummod	_	_
+2	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	politici	politico	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = perché questi appelli?
+1	perché	perché	SCONJ	CS	_	3	mark	_	_
+2	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
+3	appelli	appello	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Il quorum differenzia referendum da elezioni.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	quorum	quorum	NOUN	S	Gender=Masc	3	nsubj	_	_
+3	differenzia	differenziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	referendum	referendum	NOUN	S	Gender=Masc	3	obj	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = Nn votare esprime una scelta.
+1	Nn	Nn	ADP	E	_	2	mark	_	_
+2	votare	votare	VERB	V	VerbForm=Inf	3	advcl	_	_
+3	esprime	esprimere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

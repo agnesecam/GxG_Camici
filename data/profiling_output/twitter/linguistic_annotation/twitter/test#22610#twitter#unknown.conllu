@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una ottenne insegna filosofia - Come sarebbe la tua vita se non facessi la cantante?
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+2	ottenne	ottenne	ADJ	A	Number=Sing	4	amod	_	_
+3	insegna	insegnare	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	filosofia	filosofia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+5	-	-	PUNCT	FB	_	4	punct	_	_
+6	Come	come	ADV	B	_	10	advmod	_	_
+7	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+11	se	se	SCONJ	CS	_	13	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	cantante	cantante	NOUN	S	Number=Sing	13	obj	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = - Bella perché sarebbe comunque vita #pequenosgigantes
+1	-	-	PUNCT	FF	_	6	punct	_	_
+2	Bella	bello	PROPN	SP	_	1	nmod	_	_
+3	perché	perché	SCONJ	CS	_	6	mark	_	_
+4	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	comunque	comunque	ADV	B	_	6	advmod	_	_
+6	vita	vitare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	#pequenosgigantes	#pequenosgigantes	PROPN	SW	Foreign=Yes	6	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Autogol della Meloni: ci ricorda la lupa.
+1	Autogol	Autogoal	NOUN	S	Gender=Masc	7	nsubj	_	_
+2-3	della	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Meloni	Meloni	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+7	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	lupa	lupo	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Che non pare facesse altro che allattare.
+1	Che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+5	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	allattare	allattare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = E i gemelli, sempre a succhiare
+1	E	e	CCONJ	CC	_	7	cc	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	gemelli	gemello	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	sempre	sempre	ADV	B	_	7	advmod	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	succhiare	succhiare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

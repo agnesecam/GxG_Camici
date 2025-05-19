@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = a roma nei parchi i topi non hanno più paura dell uomo quindi ci vuole un bel lavoro di squadra con ditte specializzate e storace lo farà
+1	a	a	ADP	E	_	2	case	_	_
+2	roma	roma	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+3-4	nei	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	parchi	parco	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	topi	topio	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	advcl	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	paura	paura	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+12	dell	dell	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+14	quindi	quindi	ADV	B	_	13	advmod	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	bel	bello	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+19	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+22	con	con	ADP	E	_	23	case	_	_
+23	ditte	ditta	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+24	specializzate	specializzato	ADJ	A	Gender=Fem|Number=Plur	23	amod	_	_
+25	e	e	CCONJ	CC	_	26	cc	_	_
+26	storace	storace	ADJ	A	Number=Sing	24	conj	_	_
+27	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+28	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

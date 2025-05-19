@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Prof_Sconvolto scherzavo!
+1	@Prof_Sconvolto	@Prof_Sconvolto	ADV	B	_	2	advmod	_	_
+2	scherzavo	scherzavo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sai che non investirei mai:
+1	Sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	investirei	investire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	mai	mai	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = se lo facessi sceglierei Fiat più Ferrari visto che fa prodotti x tutti.
+1	se	se	SCONJ	CS	_	4	mark	_	_
+2	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	facessi	facesso	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	sceglierei	scegliere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Fiat	Fiat	PROPN	SP	_	4	obl	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	Ferrari	Ferrari	PROPN	SP	_	5	flat:name	_	_
+8	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+9	che	che	SCONJ	CS	_	10	mark	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+11	prodotti	prodotto	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	x	x	SYM	SYM	_	11	nmod	_	_
+13	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	nsubj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

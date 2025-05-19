@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = così vicini da sembrare gemelli così diversi stupendamente fratelli!!! https://www.
+1	così	così	ADV	B	_	2	advmod	_	_
+2	vicini	vicino	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+3	da	da	ADP	E	_	4	mark	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	2	advcl	_	_
+5	gemelli	gemello	ADJ	A	Gender=Masc|Number=Plur	4	xcomp	_	_
+6	così	così	ADV	B	_	12	advmod	_	_
+7	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+8	stupendamente	stupendamente	ADV	B	_	9	advmod	_	_
+9	fratelli	fratello	ADJ	A	Number=Plur	12	amod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+11	!!	!!	PUNCT	FF	_	9	punct	_	_
+12	https://www	https://www	NOUN	S	_	4	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDTI872NG1dO 0bRwQZemtwlmQlV-bfBk9WHGFs0/ …
+1	instagram.com/p/BDTI872NG1dO	instagram.com/p/BDTI872NG1dO	ADP	E	_	2	case	_	_
+2	0bRwQZemtwlmQlV	0bRwQZemtwlmQlV	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	bfBk9WHGFs0	bfBk9WHGFs0	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

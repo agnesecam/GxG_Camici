@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tra il fare ed il sembrare preferisco restarmene per conto mio.....
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+4	ed	e	CCONJ	CC	_	6	cc	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	3	conj	_	_
+7	preferisco	preferisco	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	_
+8-10	restarmene	_	_	_	_	_	_	_	_
+8	restar	restare	VERB	V	VerbForm=Inf	7	advcl	_	_
+9	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	expl	_	_
+10	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	conto	conto	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+13	mio.....	mio...	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = MM
+1	MM	mm	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Marea Nera, Bp dovrà risarcire 20 mld - Nord America http:// fb.me/3npPWLz7W
+1	Marea	Marea	PROPN	SP	_	6	obl	_	_
+2	Nera	nera	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	Bp	Bp	PROPN	SP	_	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	_
+7	20	20	NUM	N	NumType=Card	8	nummod	_	_
+8	mld	miliardo	NOUN	S	Gender=Masc	6	obj	_	_
+9	-	-	PUNCT	FF	_	8	punct	_	_
+10	Nord	Nord	PROPN	SP	_	8	nmod	_	_
+11	America	America	PROPN	SP	_	10	flat:name	_	_
+12	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	_
+15	fb.me/3npPWLz7W	fb.me/3npPWLz7W	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

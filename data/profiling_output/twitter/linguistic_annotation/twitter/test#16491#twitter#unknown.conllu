@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = UNO, DUE.
+1	UNO	uno	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	DUE	due	PROPN	SP	_	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Poco conta, E DIO IN PERSONA SU LORO DUE.BENEDETTO, FRANCESCO.NON SI VÀ OLTRE COLL 'INTELLETTO!DIO FÀ QUELLO CHE VUOLE LUI.
+1	Poco	poco	ADV	B	_	2	advmod	_	_
+2	conta	conta	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	E	e	CCONJ	CC	_	5	cc	_	_
+5	DIO	Dio	PROPN	SP	_	2	nsubj	_	_
+6	IN	In	PROPN	SP	_	5	flat:name	_	_
+7	PERSONA	persona	PROPN	SP	_	5	flat:name	_	_
+8	SU	su	PROPN	SP	_	5	flat:name	_	_
+9	LORO	Loro	PROPN	SP	_	5	flat:name	_	_
+10	DUE.BENEDETTO	DUE.BENEDETTO	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	FRANCESCO.NON	FRANCESCO.NON	PROPN	SP	_	5	appos	_	_
+13	SI	si	PROPN	SP	_	12	flat:name	_	_
+14	VÀ	Và	PROPN	SP	_	12	flat:name	_	_
+15	OLTRE	oltre	PROPN	SP	_	12	flat:name	_	_
+16	COLL	COLL	PROPN	SP	_	12	flat:name	_	_
+17	'INTELLETTO	'INTELLETTO	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+18	!DIO	!DIO	PROPN	SP	_	12	flat:name	_	_
+19	FÀ	Fà	PROPN	SP	_	12	flat:name	_	_
+20	QUELLO	quello	PROPN	SP	_	12	flat:name	_	_
+21	CHE	Che	PROPN	SP	_	12	flat:name	_	_
+22	VUOLE	volere	PROPN	SP	_	12	flat:name	_	_
+23	LUI	lui	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

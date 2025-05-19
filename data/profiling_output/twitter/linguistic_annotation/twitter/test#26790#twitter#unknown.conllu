@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mai avute le spugne microfoniche personalizzate!
+1	Mai	mai	ADV	B	_	2	advmod	_	_
+2	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	spugne	spugna	NOUN	S	Gender=Fem|Number=Plur	2	nsubj:pass	_	_
+5	microfoniche	microfonico	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6	personalizzate	personalizzato	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Bellissime e un po' "tennistiche" pic.twitter.com/W4ZLVEe8ta
+1	Bellissime	bellissime	ADJ	A	Degree=Abs|Gender=Fem|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	8	cc	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	po'	poco	ADV	B	_	8	advmod	_	_
+5	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+6	tennistiche	tennistico	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	pic.twitter.com/W4ZLVEe8ta	pic.twitter.com/W4ZLVEe8to	PROPN	SP	_	1	conj	_	SpacesAfter=\n
+

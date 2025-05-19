@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Po_st e io che credevo che i decerebrati li avessimo solo noi !!!!!!!
+1	@Po_st	@Po_st	ADV	B	_	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	conj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	credevo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	acl:relcl	_	_
+6	che	che	SCONJ	CS	_	12	mark	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	decerebrati	decerebrato	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+9	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+10	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	cop	_	_
+11	solo	solo	ADV	B	_	12	advmod	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	ccomp	_	_
+13	!!!!!!!	!!!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

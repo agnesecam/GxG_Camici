@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni sera una Elena va a letto sapendo che l'indomani mattina dovrà vedersela con una tribù di bambini milanesi con il monopattino.
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	sera	sera	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Elena	Elena	PROPN	SP	_	5	nsubj	_	_
+5	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	letto	letto	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	sapendo	sapere	VERB	V	VerbForm=Ger	5	advcl	_	_
+9	che	che	SCONJ	CS	_	14	mark	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+11	indomani	indomano	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+12	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14-16	vedersela	_	_	_	_	_	_	_	_
+14	veder	vedere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+15	se	se	SCONJ	CS	_	19	case	_	_
+16	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+17	con	con	ADP	E	_	19	case	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	tribù	tribù	NOUN	S	Gender=Fem	14	obl	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	_
+22	milanesi	milanese	ADJ	A	Number=Plur	21	amod	_	_
+23	con	con	ADP	E	_	25	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	monopattino	monopattino	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

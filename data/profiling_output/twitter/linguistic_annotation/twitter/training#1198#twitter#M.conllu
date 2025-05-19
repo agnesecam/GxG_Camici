@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CatenaUmana METTETEVI TRANQUILLI, RENZI NON CADE SINO A TRE MESI DALLA FINE DEL MANDATO, SIETE TUTTI D'ACCORDO LI AL TAVOLO DEL POTERE!!!
+1	@CatenaUmana	@CatenaUmana	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	METTETEVI	METTETEVI	PROPN	SP	_	0	root	_	_
+3	TRANQUILLI	tranquillo	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	RENZI	RENZI	PROPN	SP	_	2	conj	_	_
+6	NON	non	PROPN	SP	_	20	nsubj	_	_
+7	CADE	cade	PROPN	SP	_	6	flat:name	_	_
+8	SINO	sino	PROPN	SP	_	6	flat:name	_	_
+9	A	A	ADP	E	_	10	case	_	_
+10	TRE	tre	PROPN	SP	_	11	nmod	_	_
+11	MESI	mese	PROPN	SP	_	20	obl	_	_
+12-13	DALLA	_	_	_	_	_	_	_	_
+12	DA	Da	PROPN	SP	_	11	flat:name	_	_
+13	LA	La	PROPN	SP	_	11	flat:name	_	_
+14	FINE	fine	PROPN	SP	_	11	flat:name	_	_
+15-16	DEL	_	_	_	_	_	_	_	_
+15	DI	di	ADP	E	_	16	case	_	_
+16	IL	il	PROPN	SP	_	11	nmod	_	_
+17	MANDATO	mandato	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	11	punct	_	_
+19	SIETE	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	TUTTI	tutto	PROPN	SP	_	5	flat:name	_	_
+21	D'	D'	PROPN	SP	_	20	flat:name	_	SpaceAfter=No
+22	ACCORDO	accordo	PROPN	SP	_	20	flat:name	_	_
+23	LI	li	PROPN	SP	_	20	flat:name	_	_
+24-25	AL	_	_	_	_	_	_	_	_
+24	A	a	ADP	E	_	25	case	_	_
+25	IL	il	PROPN	SP	_	20	flat:name	_	_
+26	TAVOLO	tavolo	PROPN	SP	_	25	flat:name	_	_
+27-28	DEL	_	_	_	_	_	_	_	_
+27	DI	Di	ADP	E	_	28	case	_	_
+28	IL	il	PROPN	SP	_	25	flat:name	_	_
+29	POTERE!	POTERE!	PROPN	SP	_	25	flat:name	_	SpaceAfter=No
+30	!!	!!	PUNCT	FF	_	25	punct	_	SpacesAfter=\n
+

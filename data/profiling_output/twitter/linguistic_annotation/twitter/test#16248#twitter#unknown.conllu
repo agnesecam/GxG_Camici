@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @luigidimaio Eravate dei derelitti, ora che vi rimpinguiamo con le nostre tasse fate i galletti.
+1	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Eravate	Eravato	PROPN	SP	_	1	nmod	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	derelitti	derelitto	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	ora	ora	ADV	B	_	1	advmod	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	vi	vi	ADV	B	_	10	advmod	_	_
+10	rimpinguiamo	rimpinguare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+11	con	con	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+15	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	galletti	galletto	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = serietà per Dio
+1	serietà	serietà	NOUN	S	Gender=Fem	0	root	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	Dio	dio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpacesAfter=\n
+

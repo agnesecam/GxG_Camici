@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 9.5 cosa ne pensi di me?
+1	9.5	9.5	NUM	N	NumType=Card	4	nummod	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	pensi	pensare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = — Grazie mille sembri simpatica e sei carina https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM6KECTOI7RXG6PCNED6S2J7FI2AT5AJKQFZEM4SZTKC6PIHQDIRUTKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U====== …
+1	—	—	PUNCT	FF	_	4	punct	_	_
+2	Grazie	grazie	INTJ	I	_	4	discourse	_	_
+3	mille	mille	NUM	N	NumType=Card	4	nummod	_	_
+4	sembri	sembrare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	sei	sei	NUM	N	NumType=Card	8	nummod	_	_
+8	carina	carina	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	4	punct	_	_
+12	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	4	nmod	_	_
+13	7B667HQMHN2IG6NM6KECTOI7RXG6PCNED6S2J7FI2AT5AJKQFZEM4SZTKC6PIHQDIRUTKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U======	7B667HQMHN2IG6NM6KECTOI7RXG6PCNED6S2J7FI2AT5AJKQFZEM4SZTKC6PIHQDIRUTKFAU34N7A55YPPSKNTBAUYOADFKYCASCGMX5GWID6KPLQSVKBSDZSKQY2H2QZTGX7K4GJSNBWTLK67BSL4ET2LHV77K3QK236UUDLFOUVQHX5FR2P3XGTIUKEOQF7U======	PROPN	SP	_	12	flat:name	_	_
+14	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

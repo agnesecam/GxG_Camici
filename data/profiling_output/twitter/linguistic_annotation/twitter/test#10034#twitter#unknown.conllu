@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vespa e quegli inviti di cui si faceva volentieri a meno.
+1	Vespa	Vespa	PROPN	SP	_	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	quegli	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	inviti	invito	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	cui	cui	PRON	PR	PronType=Rel	8	obl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+8	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+9	volentieri	volentieri	ADV	B	_	8	advmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	meno	meno	ADV	B	_	8	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/5ihvCjlHn
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/5ihvCjlHn	fb.me/5ihvCjlHn	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

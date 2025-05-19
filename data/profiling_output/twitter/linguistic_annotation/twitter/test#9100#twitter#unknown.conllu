@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'invasione di CLANDESTINI non si ferma neppure a #Pasqua https:// twitter.com/noiconsalvini/ status/714125940146708480 …
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	invasione	invasione	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	CLANDESTINI	clandestini	PROPN	SP	_	2	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	ferma	fermare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	10	advmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	#Pasqua	#Pasqua	PROPN	SP	_	7	obl	_	_
+11	https:	https:	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	twitter.com/noiconsalvini/	twitter.com/noiconsalvini/	PUNCT	FF	_	15	punct	_	_
+15	status/714125940146708480	status/714125940146708480	NUM	N	NumType=Range	7	conj	_	_
+16	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

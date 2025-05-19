@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ho difficoltà a dirti ciò che penso in faccia.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	difficoltà	difficoltà	NOUN	S	Gender=Fem	2	obj	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5-6	dirti	_	_	_	_	_	_	_	_
+5	dir	dire	VERB	V	VerbForm=Inf	2	advcl	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+7	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+9	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	faccia.	faccia.	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .anche se non sembra so bene quello che faccio
+1	.anche	.anche	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+6	bene	bene	ADV	B	_	5	advmod	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+9	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	SpacesAfter=\n
+

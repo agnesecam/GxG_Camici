@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi riempio di poesie e talvolta ne scrivo qualcuna , maldestramente.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	riempio	riempio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	poesie	poesie	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	talvolta	talvolta	ADV	B	_	8	advmod	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	scrivo	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	obj	_	_
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	maldestramente	maldestramente	ADV	B	_	8	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Un pò per distrarmi, un pò per amarti.
+1	Un	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	pò	pò	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	distrarmi	arma|distrarme	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pò	pò	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	amarti	amarto	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

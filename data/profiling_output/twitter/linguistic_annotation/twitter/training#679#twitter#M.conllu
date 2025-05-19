@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E poi xké mi piace la Merkel.
+1	E	e	CCONJ	CC	_	5	cc	_	_
+2	poi	poi	ADV	B	_	5	advmod	_	_
+3	xké	xké	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Merkel	Merkel	PROPN	SP	_	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Se avessimo leader di quella tempra in Italia, Francia, Inghilterra la questione...
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	leader	leader	NOUN	S	_	0	root	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	tempra	tempra	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	Italia	Italia	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	Francia	Francia	PROPN	SP	_	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	Inghilterra	Inghilterra	PROPN	SP	_	14	nmod	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	questione...	questione...	NOUN	S	_	3	appos	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7JXZBsvIP
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7JXZBsvIP	fb.me/7JXZBsvIP	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

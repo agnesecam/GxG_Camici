@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlbeFum Poi ho sempre saputo che facevamo parte dello stesso continente, ma magari mi sbaglio.
+1	@AlbeFum	@AlbeFum	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	_
+2	Poi	poi	ADV	B	_	5	advmod	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	sempre	sempre	ADV	B	_	5	advmod	_	_
+5	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9-10	dello	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	continente	continente	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	17	punct	_	_
+14	ma	ma	CCONJ	CC	_	17	cc	_	_
+15	magari	magari	ADV	B	_	17	advmod	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+17	sbaglio	sbalere	ADJ	A	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Illuminami.
+1	Illuminami	Illuminame	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

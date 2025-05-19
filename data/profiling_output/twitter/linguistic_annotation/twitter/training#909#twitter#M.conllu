@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo letto un po' meglio - e un po' più di - Delany, oggi avremmo tutti meno dogmi e più idee sul concetto di famiglia #unionicivili
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po'	poco	ADV	B	_	6	advmod	_	_
+6	meglio	meglio	ADJ	A	_	3	xcomp	_	_
+7	-	-	PUNCT	FF	_	3	punct	_	_
+8	e	e	CCONJ	CC	_	14	cc	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	po'	poco	ADV	B	_	11	advmod	_	_
+11	più	più	ADV	B	_	14	advmod	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	-	-	PUNCT	FF	_	14	punct	_	_
+14	Delany	Delany	PROPN	SP	_	3	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	3	punct	_	_
+16	oggi	oggi	ADV	B	_	17	advmod	_	_
+17	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+18	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	20	obl	_	_
+19	meno	meno	ADV	B	_	20	advmod	_	_
+20	dogmi	dogma	ADJ	A	Number=Plur	17	xcomp	_	_
+21	e	e	CCONJ	CC	_	23	cc	_	_
+22	più	più	ADV	B	_	23	advmod	_	_
+23	idee	idea	NOUN	S	Gender=Fem|Number=Plur	20	conj	_	_
+24-25	sul	_	_	_	_	_	_	_	_
+24	su	su	ADP	E	_	26	case	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	concetto	concetto	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	_
+27	di	di	ADP	E	_	28	case	_	_
+28	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	26	nmod	_	_
+29	#unionicivili	#unionicivile	ADJ	A	Number=Plur	28	amod	_	SpacesAfter=\n
+

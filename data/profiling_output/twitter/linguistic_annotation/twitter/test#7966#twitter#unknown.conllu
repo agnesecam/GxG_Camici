@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bravo Scandroglio.
+1	Bravo	bravo	PROPN	SP	_	0	root	_	_
+2	Scandroglio	Scandroglio	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Un ragionamento molto lineare: l'omosessualità è un disordine, dunque non è un bene, dunque non merita riconoscimento
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ragionamento	ragionamento	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+3	molto	molto	ADV	B	_	4	advmod	_	_
+4	lineare	lineare	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	omosessualità	omosessualità	NOUN	S	Gender=Fem	10	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	disordine	disordine	NOUN	S	Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	dunque	dunque	ADV	B	_	2	advmod	_	_
+13	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	bene	bene	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18	dunque	dunque	ADV	B	_	20	advmod	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	merita	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	riconoscimento	riconoscimento	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	SpacesAfter=\n
+

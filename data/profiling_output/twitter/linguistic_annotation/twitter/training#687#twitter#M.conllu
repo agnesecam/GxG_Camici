@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dovremo perdere l'abitudine delle cose per poi vederla da una nuova prospettiva, come se non l' avessimo viste mai
+1	dovremo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	perdere	perdere	VERB	V	VerbForm=Inf	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	abitudine	abitudine	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	per	per	ADP	E	_	10	mark	_	_
+9	poi	poi	ADV	B	_	10	advmod	_	_
+10-11	vederla	_	_	_	_	_	_	_	_
+10	veder	vedere	VERB	V	VerbForm=Inf	2	advcl	_	_
+11	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	da	da	ADP	E	_	15	case	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	prospettiva	prospettiva	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	10	punct	_	_
+17	come	come	ADV	B	_	22	advmod	_	_
+18	se	se	SCONJ	CS	_	22	mark	_	_
+19	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+20	l'	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+21	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	22	aux	_	_
+22	viste	vedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	_
+23	mai	mai	ADV	B	_	2	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ad una settimana di distanza ! grazie per le tue foto Matteo De Pandis sei stato grande!!! nonostante fossimo al buio!!!
+1	ad	a	ADP	E	_	3	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	distanza	distanza	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	!	!	PUNCT	FS	_	11	punct	_	_
+7	grazie	grazie	NOUN	S	_	11	case	_	_
+8	per	per	ADP	E	_	7	fixed	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	foto	foto	NOUN	S	Gender=Fem	17	obl	_	_
+12	Matteo	Matteo	PROPN	SP	_	11	nmod	_	_
+13	De	De	PROPN	SP	_	12	flat:name	_	_
+14	Pandis	Pandis	PROPN	SP	_	12	flat:name	_	_
+15	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	_
+16	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	cop	_	_
+17	grande	grande	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+18	!!!	!!!	PUNCT	FF	_	17	punct	_	_
+19	nonostante	nonostante	SCONJ	CS	_	23	mark	_	_
+20	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	23	cop	_	_
+21-22	al	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	buio	buio	NOUN	S	Gender=Masc|Number=Sing	17	advcl	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	23	punct	_	SpaceAfter=No
+25	!!	!!	PUNCT	FF	_	17	punct	_	SpacesAfter=\n
+

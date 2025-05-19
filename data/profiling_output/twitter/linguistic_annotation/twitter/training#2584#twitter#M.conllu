@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo può sembrare difficile quanto trovare il classico ago nel pagliaio.
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+4	difficile	difficile	ADJ	A	Number=Sing	3	xcomp	_	_
+5	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	3	obj	_	_
+6	trovare	trovare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	classico	classico	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	ago	ago	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	pagliaio	pagliaio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Forse anche di più.
+1	Forse	forse	ADV	B	_	4	advmod	_	_
+2	anche	anche	ADV	B	_	4	advmod	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	più	più	ADV	B	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/NASA/status/71 8545613051158529 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/NASA/status/71	twitter.com/NASA/status/71	PROPN	SP	_	0	root	_	_
+5	8545613051158529	8545613051158529	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

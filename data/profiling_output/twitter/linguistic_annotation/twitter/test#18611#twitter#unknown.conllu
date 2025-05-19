@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E se li facessimo davvero gli investimenti in economia reale ?
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	davvero	davvero	ADV	B	_	4	advmod	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	investimenti	investimento	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	economia	economia	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	reale	reale	ADJ	A	Number=Sing	9	amod	_	_
+11	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Invece di discutere di "garanzie" mi piacerebbe si ragionasse di finalità
+1	Invece	invece	ADV	B	_	3	advmod	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	discutere	discutere	VERB	V	VerbForm=Inf	9	advcl	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	garanzie	garanzia	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	piacerebbe	piacere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	ragionasse	ragionare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	finalità	finalità	NOUN	S	Gender=Fem	11	obl	_	SpacesAfter=\n
+

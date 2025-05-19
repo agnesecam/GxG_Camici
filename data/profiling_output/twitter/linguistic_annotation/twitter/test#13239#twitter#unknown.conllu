@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mikypao2007 io di te potrei scrivere parecchi nomi di giocatori ma a differenza tua godo solo per la mia squadra....
+1	@Mikypao2007	@Mikypao2007	NUM	N	NumType=Card	2	nummod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+5	potrei	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	scrivere	scrivere	VERB	V	VerbForm=Inf	0	root	_	_
+7	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	nomi	nome	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	giocatori	giocatore	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+11	ma	ma	CCONJ	CC	_	15	cc	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+14	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	godo	godo	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	_
+16	solo	solo	ADV	B	_	20	advmod	_	_
+17	per	per	ADP	E	_	20	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	squadra...	squadra...	NOUN	S	_	6	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = la JUVE
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	JUVE	Juve	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

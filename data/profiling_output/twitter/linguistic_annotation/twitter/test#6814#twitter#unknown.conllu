@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un “pane” molto importante A Gesù non interessa affatto il plauso della folla, o che essi gli attribuiscano...
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	“	“	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	pane	pane	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+4	”	”	PUNCT	FB	_	3	punct	_	_
+5	molto	molto	ADV	B	_	6	advmod	_	_
+6	importante	importante	ADJ	A	Number=Sing	3	amod	_	_
+7	A	a	ADP	E	_	8	case	_	_
+8	Gesù	Gesù	PROPN	SP	_	6	obl	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	interessa	interessare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	affatto	affatto	ADV	B	_	10	advmod	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	plauso	plauso	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	folla	folla	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	21	punct	_	_
+18	o	o	CCONJ	CC	_	21	cc	_	_
+19	che	che	SCONJ	CS	_	21	fixed	_	_
+20	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+21	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	conj	_	_
+22	attribuiscano...	attribuiscano...	PUNCT	FS	_	21	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2bQPLwaU0
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2bQPLwaU0	fb.me/2bQPLwaU0	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

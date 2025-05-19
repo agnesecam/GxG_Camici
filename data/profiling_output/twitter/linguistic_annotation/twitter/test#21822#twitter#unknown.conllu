@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA ERANO TUTTI FERMI MA CHE CAZZO STAVANO FACENDO MA CHI DIFENDEVA MA CHE MERDA
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	ERANO	essere	PROPN	SP	_	1	flat:name	_	_
+3	TUTTI	tutto	PROPN	SP	_	1	flat:name	_	_
+4	FERMI	fermare	PROPN	SP	_	1	flat:name	_	_
+5	MA	Ma	PROPN	SP	_	4	flat:name	_	_
+6	CHE	Che	PROPN	SP	_	4	flat:name	_	_
+7	CAZZO	CAZZO	PROPN	SP	_	4	nmod	_	_
+8	STAVANO	stare	PROPN	SP	_	7	flat:name	_	_
+9	FACENDO	fare	VERB	V	VerbForm=Ger	4	advcl	_	_
+10	MA	Ma	PROPN	SP	_	9	obj	_	_
+11	CHI	chi	PROPN	SP	_	10	flat:name	_	_
+12	DIFENDEVA	DIFENDEVA	PROPN	SP	_	10	flat:name	_	_
+13	MA	Ma	PROPN	SP	_	10	flat:name	_	_
+14	CHE	che	PROPN	SP	_	13	flat:name	_	_
+15	MERDA	MERDA	PROPN	SP	_	9	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @robertavincenz2 eh si lui é un angelo é starà sempre con me!!
+1	@robertavincenz2	@robertavincenz2	NUM	N	NumType=Card	9	nummod	_	_
+2	eh	eh	INTJ	I	_	9	discourse	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+4	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+5	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	angelo	angelo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+8	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	sempre	sempre	ADV	B	_	9	advmod	_	_
+11	con	con	ADP	E	_	12	case	_	_
+12	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	obl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Grazie teso robi t.v.b #festadelpapa
+1	Grazie	grazie	NOUN	S	_	5	nsubj	_	_
+2	teso	teso	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	robi	robo	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+4	t.v.b	t.v.b	NOUN	S	Gender=Masc	1	compound	_	_
+5	#festadelpapa	#festadelpapare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

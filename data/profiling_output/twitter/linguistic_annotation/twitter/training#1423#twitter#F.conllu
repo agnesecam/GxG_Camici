@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I 17 mila soci di Trieste hanno subito giá la beffa l'altro anno, ma per le nostre istituzioni nella persona... http:// fb.me/2MvvamafN
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+2	17	17	NUM	N	NumType=Card	4	nummod	_	_
+3	mila	mila	NUM	N	NumType=Card	2	flat	_	_
+4	soci	socio	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Trieste	Trieste	PROPN	SP	_	4	nmod	_	_
+7	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	subito	subito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	giá	giá	PROPN	SP	_	8	obj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	beffa	beffa	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+13	altro	altro	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	20	punct	_	_
+16	ma	ma	CCONJ	CC	_	20	cc	_	_
+17	per	per	ADP	E	_	20	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+19	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	istituzioni	istituzione	NOUN	S	Gender=Fem|Number=Plur	8	conj	_	_
+21-22	nella	_	_	_	_	_	_	_	_
+21	in	in	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	persona...	persona...	NOUN	S	_	20	nmod	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	20	punct	_	_
+27	fb.me/2MvvamafN	fb.me/2MvvamafN	PROPN	SP	_	8	obj	_	SpacesAfter=\n
+

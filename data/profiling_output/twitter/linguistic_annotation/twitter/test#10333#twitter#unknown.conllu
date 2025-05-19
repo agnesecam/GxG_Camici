@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Vogliadarianuov ....non l'ho visto.
+1	@Vogliadarianuov	@Vogliadarianuov	NOUN	S	Gender=Masc	0	root	_	_
+2	....non	....non	ADP	E	_	5	case	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+4	ho	ho	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	visto.	visto.	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...non avevo voglia di farmi del male.
+1	...non	...non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	farmi	arma|farme	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	male.	male.	NOUN	S	Gender=Masc	5	nmod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ....ma posso immaginare benissimo ....
+1	....ma	....ma	ADV	B	_	3	advmod	_	_
+2	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	immaginare	immaginare	VERB	V	VerbForm=Inf	0	root	_	_
+4	benissimo	bene	ADV	B	Degree=Abs	3	advmod	_	_
+5	...	...	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

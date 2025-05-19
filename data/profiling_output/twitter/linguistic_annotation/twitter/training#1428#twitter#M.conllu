@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E la magia di una nuova serata nella meraviglia di #BergamoAlta .
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	magia	magia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	serata	serata	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	meraviglia	meraviglia	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	#BergamoAlta	#BergamoAlta	PROPN	SP	_	10	nmod	_	_
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Da #daMimmo alle nostre #MuraversoUNESCO ... pic.twitter.com/7g9EI6t2tO
+1	Da	da	ADP	E	_	2	case	_	_
+2	#daMimmo	#damimmo	PROPN	SP	_	0	root	_	_
+3-4	alle	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	#MuraversoUNESCO	#MuraversoUNESCO	PROPN	SP	_	2	nmod	_	_
+7	...	...	PUNCT	FF	_	2	punct	_	_
+8	pic.twitter.com/7g9EI6t2tO	pic.twitter.com/7g9EI6t2tO	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

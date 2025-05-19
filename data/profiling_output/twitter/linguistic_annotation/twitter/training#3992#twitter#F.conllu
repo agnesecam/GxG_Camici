@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @xshouldenvyusx @memaprazzol Io guarderò solo la puntata con la #baellsquad che DOVRÀ esserci.
+1	@xshouldenvyusx	@xshouldenvyusx	ADP	E	_	3	case	_	_
+2	@memaprazzol	@memaprazzol	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Io	Io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+4	guarderò	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	solo	solo	ADV	B	_	4	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	#baellsquad	#baellsquad	NOUN	S	Gender=Fem	7	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	DOVRÀ	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	acl:relcl	_	_
+13	esserci.	esserci.	NUM	N	NumType=Card	12	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

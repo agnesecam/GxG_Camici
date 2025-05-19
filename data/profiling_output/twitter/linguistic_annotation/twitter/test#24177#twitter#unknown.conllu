@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gravitycoil una però perché gliene voleva dare mezza ma però é disney
+1	@gravitycoil	@gravitycoil	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	una	uno	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	però	però	ADV	B	_	2	advmod	_	_
+4	perché	perché	SCONJ	CS	_	7	mark	_	_
+5	gliene	glenere	SCONJ	CS	_	7	mark	_	_
+6	voleva	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	dare	dare	VERB	V	VerbForm=Inf	3	advcl	_	_
+8	mezza	mezzo	ADJ	A	Gender=Fem|Number=Sing	7	xcomp	_	_
+9	ma	ma	CCONJ	CC	_	11	cc	_	_
+10	però	però	ADV	B	_	11	advmod	_	_
+11	é	é	CCONJ	CC	_	12	cc	_	_
+12	disney	disney	PROPN	SW	Foreign=Yes	8	conj	_	SpacesAfter=\n
+

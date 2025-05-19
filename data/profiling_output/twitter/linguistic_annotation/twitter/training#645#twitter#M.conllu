@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #BayernJuve avessimo avuto il bel giuoco di Sarri o di Spalletti e vedevi come finiva.
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	BayernJuve	BayernJuva	PROPN	SP	_	4	nsubj	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	bel	bello	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	giuoco	giuoco	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Sarri	Sarri	PROPN	SP	_	7	nmod	_	_
+10	o	o	CCONJ	CC	_	12	cc	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Spalletti	Spalletti	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	vedevi	vedere	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+15	come	come	ADP	E	_	16	case	_	_
+16	finiva	finire	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

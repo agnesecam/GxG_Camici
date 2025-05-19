@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cosa volete dirgli a questa?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	obj	_	_
+2	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3-4	dirgli	_	_	_	_	_	_	_	_
+3	dir	dire	VERB	V	VerbForm=Inf	0	root	_	_
+4	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = L'autostima non l'ho mai avuta ,ma lei proprio me la fa andare sotto 0! pic.twitter.com/6CzE6oVE1l
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	autostima	autostima	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	mai	mai	ADV	B	_	7	advmod	_	_
+7	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	,ma	,mare	ADV	B	_	7	advmod	_	_
+9	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+10	proprio	proprio	ADV	B	_	13	advmod	_	_
+11	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+12	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+13	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+14	andare	andare	VERB	V	VerbForm=Inf	13	ccomp	_	_
+15	sotto	sotto	ADP	E	_	16	case	_	_
+16	0	0	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	7	punct	_	_
+18	pic.twitter.com/6CzE6oVE1l	pic.twitter.com/6CzE6oVE1l	PROPN	SP	_	7	obj	_	SpacesAfter=\n
+

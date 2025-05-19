@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il "non succede ma se.." vi ricordo era lo slogan dei Riommers quando si fecero trapanare dai prescritti, quindi fossi in voi EVITEREI ehhh
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	succede	succedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	se.	se.	NOUN	S	_	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	10	punct	_	_
+9	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
+10	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+11	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	slogan	slogan	NOUN	S	Gender=Masc	10	nsubj	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	Riommers	Riommers	PROPN	SP	_	13	nmod	_	_
+17	quando	quando	SCONJ	CS	_	19	mark	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	_
+19	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+20	trapanare	trapanare	VERB	V	VerbForm=Inf	26	xcomp	_	_
+21-22	dai	_	_	_	_	_	_	_	_
+21	da	da	ADP	E	_	23	case	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	prescritti	prescritto	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	26	punct	_	_
+25	quindi	quindi	ADV	B	_	26	advmod	_	_
+26	fossi	fuovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	19	ccomp	_	_
+27	in	in	ADP	E	_	29	case	_	_
+28	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	29	det:poss	_	_
+29	EVITEREI	EVITEREI	PROPN	SP	_	26	obl	_	_
+30	ehhh	ehhh	INTJ	I	_	4	advmod	_	SpacesAfter=\n
+

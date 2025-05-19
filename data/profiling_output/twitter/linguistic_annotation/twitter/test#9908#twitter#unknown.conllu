@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io che guardo per il terzo venerdì consecutivo lo spettacolo di magia di Kledi.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	per	per	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	terzo	terzo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
+7	venerdì	venerdì	NOUN	S	Gender=Masc	3	obl	_	_
+8	consecutivo	consecutire	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	magia	magia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	Kledi	Klede	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #pequenosgigantes pic.twitter.com/MEnrFOfDgP
+1	#pequenosgigantes	#pequenosgigantes	ADP	E	_	2	case	_	_
+2	pic.twitter.com/MEnrFOfDgP	pic.twitter.com/MEnrFOfDgP	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

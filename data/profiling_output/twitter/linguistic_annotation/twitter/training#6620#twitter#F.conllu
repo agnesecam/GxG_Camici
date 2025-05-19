@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lentamente esco da un blocco enorme ma già vorrei fare discorsi di ringraziamento manco fossimo agli Oscar, che persona sono diventata?
+1	Lentamente	lento	ADV	B	_	2	advmod	_	_
+2	esco	uscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	blocco	blocco	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	enorme	enorme	ADJ	A	Number=Sing	5	amod	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	già	già	ADV	B	_	10	advmod	_	_
+9	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	fare	fare	VERB	V	VerbForm=Inf	2	conj	_	_
+11	discorsi	discorso	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	ringraziamento	ringraziamento	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+14	manco	manco	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15	fossimo	essere	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
+16-17	agli	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	Oscar	Oscar	PROPN	SP	_	10	obl	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	18	punct	_	_
+20	che	che	PRON	PR	PronType=Rel	23	nsubj	_	_
+21	persona	persona	NOUN	S	Gender=Fem|Number=Sing	23	nsubj	_	_
+22	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	diventata	diventare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	18	acl:relcl	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

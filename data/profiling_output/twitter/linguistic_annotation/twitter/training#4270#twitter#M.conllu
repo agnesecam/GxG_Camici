@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A SEGUIRE PENSO CHE IL MEDESIMO CASINO SI DOVRÀ FARE CONTRO LA RACCOLTA DATI BANCARIA PER L'AGENZIA DELLE ENTRATE... http:// fb.me/41fOC1AnV
+1	A	a	ADP	E	_	2	case	_	_
+2	SEGUIRE	seguire	PROPN	SP	_	9	obl	_	_
+3	PENSO	Penso	PROPN	SP	_	9	nsubj	_	_
+4	CHE	Che	PROPN	SP	_	3	flat:name	_	_
+5	IL	il	PROPN	SP	_	3	flat:name	_	_
+6	MEDESIMO	medesimo	PROPN	SP	_	3	flat:name	_	_
+7	CASINO	CASINO	PROPN	SP	_	3	flat:name	_	_
+8	SI	si	PROPN	SP	_	3	flat:name	_	_
+9	DOVRÀ	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	parataxis	_	_
+10	FARE	fare	PROPN	SP	_	9	obj	_	_
+11	CONTRO	contro	PROPN	SP	_	10	flat:name	_	_
+12	LA	La	PROPN	SP	_	10	flat:name	_	_
+13	RACCOLTA	raccolta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	DATI	dati	PROPN	SP	_	13	nsubj	_	_
+15	BANCARIA	BANCARIA	PROPN	SP	_	14	flat:name	_	_
+16	PER	per	PROPN	SP	_	14	flat:name	_	_
+17	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	AGENZIA	Agenzia	PROPN	SP	_	14	nmod	_	_
+19-20	DELLE	_	_	_	_	_	_	_	_
+19	DI	Di	ADP	E	_	20	case	_	_
+20	LE	Le	PROPN	SP	_	18	nmod	_	_
+21	ENTRATE...	ENTRATE...	PROPN	SP	_	20	flat:name	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	_
+25	fb.me/41fOC1AnV	fb.me/41fOC1AnV	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

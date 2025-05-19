@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È stato abbattuto un record storico e rompete ancora il cazzo per gli arbitraggi.
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	aux:pass	_	_
+3	abbattuto	abbattere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	record	record	NOUN	S	Gender=Masc	3	nsubj:pass	_	_
+6	storico	storico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	rompete	rompetere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	ancora	ancora	ADV	B	_	8	advmod	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	arbitraggi	arbitraggio	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Mercoledì non eravate così però #BUFFONLEGEND #coerenza
+1	Mercoledì	mercoledì	NOUN	S	Gender=Masc	6	nmod	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	così	così	ADV	B	_	6	advmod	_	_
+5	però	però	ADV	B	_	6	advmod	_	_
+6	#BUFFONLEGEND	#BUFFONLEGEND	PROPN	SP	_	0	root	_	_
+7	#coerenza	#coerenza	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpacesAfter=\n
+

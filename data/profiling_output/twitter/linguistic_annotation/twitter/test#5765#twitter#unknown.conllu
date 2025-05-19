@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per ricordare a qualcuna che gli auguri non sono mai banali.
+1	Per	per	ADP	E	_	2	mark	_	_
+2	ricordare	ricordare	VERB	V	VerbForm=Inf	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	nmod	_	_
+5	che	che	SCONJ	CS	_	11	mark	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	mai	mai	ADV	B	_	11	advmod	_	_
+11	banali.	banali.	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Auguri Donne
+1	Auguri	auguri	PROPN	SP	_	0	root	_	_
+2	Donne	donne	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

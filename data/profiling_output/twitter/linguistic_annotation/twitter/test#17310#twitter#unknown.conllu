@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma quando mai l'hai avuta una donna bella e sexy ?
+1	ma	ma	CCONJ	CC	_	6	cc	_	_
+2	quando	quando	SCONJ	CS	_	6	mark	_	_
+3	mai	mai	ADV	B	_	6	advmod	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+5	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	donna	donna	NOUN	S	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+9	bella	bello	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	sexy	sexy	ADJ	A	_	9	conj	_	_
+12	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Come puoi usarla come paragone ?
+1	Come	come	ADV	B	_	3	advmod	_	_
+2	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3-4	usarla	_	_	_	_	_	_	_	_
+3	usar	usare	VERB	V	VerbForm=Inf	0	root	_	_
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	paragone	paragone	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = ROTFL... http:// video.repubblica.it/sport/juve-bay ern-e-lite-sull-arbitro/232586/232140?
+1	ROTFL...	ROTFL...	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	video.repubblica.it/sport/juve-bay	video.repubblica.it/sport/juve-bay	X	SW	Foreign=Yes	1	nmod	_	_
+6	ern	ern	X	SW	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	e-lite-sull	e-lite-sull	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	arbitro/232586/232140	arbitro/232586/232140	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ref=fbpr#gig_comment_id=567c9ac3858b498bbd7c7acd599e1d8b …
+1	ref=fbpr#gig_comment_id=567c9ac3858b498bbd7c7acd599e1d8b	ref=fbpr#gig_comment_id=567c9ac3858b498bbd7c7acd599e1d8b	NOUN	S	Gender=Masc	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

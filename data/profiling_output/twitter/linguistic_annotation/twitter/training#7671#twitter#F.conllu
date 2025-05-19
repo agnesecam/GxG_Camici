@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rotanicolas Ma che Renzi fosse bugiardo;
+1	@rotanicolas	@rotanicolas	NOUN	S	Gender=Masc	0	root	_	_
+2	Ma	ma	CCONJ	CC	_	6	cc	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	Renzi	Renzi	PROPN	SP	_	6	nsubj	_	_
+5	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	bugiardo	bugiardo	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+7	;	;	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = lo si era capito subito quindi io non lo ascolto nemmeno!
+1	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+3	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	subito	subito	ADV	B	_	10	advmod	_	_
+6	quindi	quindi	ADV	B	_	10	advmod	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	ascolto	ascolgere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	_
+11	nemmeno	nemmeno	ADV	BN	PronType=Neg	10	advmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Dunque mettendo assieme que
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	mettendo	mettere	VERB	V	VerbForm=Ger	0	root	_	_
+3	assieme	assieme	ADV	B	_	2	advmod	_	_
+4	que	que	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	SpacesAfter=\n
+

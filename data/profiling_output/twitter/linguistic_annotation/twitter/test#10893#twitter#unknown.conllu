@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = altrimenti , saremo colonizzati.
+1	altrimenti	altrimenti	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	saremo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	colonizzati	colonizzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/MauroCherubino /status/715849551320649729 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/MauroCherubino	twitter.com/MauroCherubino	PROPN	SP	_	0	root	_	_
+5	/status/715849551320649729	/status/715849551320649729	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

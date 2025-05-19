@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SilviettaOnMars ehh infatti !
+1	@SilviettaOnMars	@SilviettaOnMars	PROPN	SP	_	0	root	_	_
+2	ehh	ehh	INTJ	I	_	1	punct	_	_
+3	infatti	infatti	ADV	B	_	2	advmod	_	_
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E in più durano parecchi giorni purtroppo.
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	durano	durare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+7	purtroppo	purtroppo	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = La mia ormai si è trasformata in bronchite grazie cara
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mia	mio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nsubj	_	_
+3	ormai	ormai	ADV	B	_	2	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	trasformata	trasformare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	bronchite	bronchito	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+9	grazie	grazia	NOUN	S	_	6	obl	_	_
+10	cara	caro	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpacesAfter=\n
+

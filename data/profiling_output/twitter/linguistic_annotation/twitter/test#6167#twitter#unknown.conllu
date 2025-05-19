@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @shymon84 ok, voglio cranberry e raspberry!
+1	@shymon84	@shymon84	NUM	N	NumType=Card	2	nummod	_	_
+2	ok	ok	NOUN	S	Gender=Masc	5	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	cranberry	cranberry	NOUN	S	Gender=Masc	0	root	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	raspberry	raspberry	NOUN	S	Gender=Masc	5	conj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Organizza un te come fossimo comari del burraco e fammi sapere.
+1	Organizza	organizzare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+4	come	come	ADV	B	_	6	advmod	_	_
+5	fossimo	fossimo	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	comari	comaro	ADJ	A	Gender=Masc|Number=Plur	1	advcl	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	burraco	burraco	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	fammi	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+12	sapere	sapere	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @art_cucu Risponde arzigogolato che non prevede affatto il "a vanvera", non ci provi neppure .
+1	@art_cucu	@art_cucu	ADP	E	_	2	case	_	_
+2	Risponde	Rispondo	PROPN	SP	_	3	obl	_	_
+3	arzigogolato	arzigogolare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	prevede	prevedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	affatto	affatto	ADV	B	_	6	advmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+9	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	a	a	ADP	E	_	11	case	_	_
+11	vanvera	vanvera	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	16	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	provi	provare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+17	neppure	neppure	ADV	BN	PronType=Neg	16	advmod	_	_
+18	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

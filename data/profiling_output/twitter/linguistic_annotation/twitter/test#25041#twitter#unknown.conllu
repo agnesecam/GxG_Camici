@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se i gatti potessero parlare...
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	gatti	gatto	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	potessero	potere	AUX	VM	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	parlare...	parlare.	NOUN	S	_	0	root	_	_
+
+# sent_id = 2
+# text = non lo farebbero ! http:// fb.me/2N4ZMZAuz
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	!	!	PUNCT	FS	_	5	punct	_	_
+5	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	_
+8	fb.me/2N4ZMZAuz	fb.me/2N4ZMZAuz	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

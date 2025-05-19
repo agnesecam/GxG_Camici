@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma basta parlare solo della Ferrari.
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	parlare	parlare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	solo	solo	ADV	B	_	7	advmod	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Ferrari.	Ferrari.	PROPN	SP	_	3	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..Se era Vettel al posto di Alo facevate una puntata intera solo per parlare di quello @SkySportF1HD
+1	..Se	..Se	ADV	B	_	3	advmod	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	Vettel	Vettel	PROPN	SP	_	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	posto	posto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Alo	Alo	PROPN	SP	_	6	nmod	_	_
+9	facevate	facevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+12	intera	intero	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	solo	solo	ADV	B	_	15	advmod	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	parlare	parlare	VERB	V	VerbForm=Inf	11	acl	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	15	obl	_	_
+18	@SkySportF1HD	@SkySportF1HD	PROPN	SP	_	17	nmod	_	SpacesAfter=\n
+

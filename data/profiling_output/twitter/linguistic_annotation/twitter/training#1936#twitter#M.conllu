@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @igorghigo @ParodiAl non hai capito na fava,è SATIRA ,tratta dallo spettacolo.strumentalizzata per nn parlare caso guidi,e pesci abboccano
+1	@igorghigo	@igorghigo	ADP	E	_	2	case	_	_
+2	@ParodiAl	@ParodiAl	PROPN	SP	_	5	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	parataxis	_	_
+6	na	no	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	fava,	fava,	X	X	_	5	obj	_	SpaceAfter=No
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	SATIRA	SATIRA	PROPN	SP	_	20	nsubj	_	_
+10	,tratta	,trattare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+11-12	dallo	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	spettacolo.strumentalizzata	spettacolo.strumentalizzata	NOUN	S	Gender=Fem|Number=Sing	10	obl:agent	_	_
+14	per	per	ADP	E	_	16	case	_	_
+15	nn	nno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	16	det	_	_
+16	parlare	parlare	VERB	V	VerbForm=Inf	10	obl	_	_
+17	caso	caso	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+18	guidi,e	guidi,e	ADJ	A	Number=Sing	17	amod	_	_
+19	pesci	pesce	NOUN	S	Gender=Masc|Number=Plur	17	compound	_	_
+20	abboccano	abboccano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

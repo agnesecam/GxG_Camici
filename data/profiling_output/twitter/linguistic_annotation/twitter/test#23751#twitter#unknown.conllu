@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaiPortaaPorta Fase B a casa.Un algoritmo non può rovinare famiglie.Bambini non avranno più la loro docente di sostegno #8000esiliatifaseb
+1	@RaiPortaaPorta	@RaiPortaaPortare	PROPN	SP	_	9	nsubj	_	_
+2	Fase	fase	PROPN	SP	_	1	flat:name	_	_
+3	B	b	PROPN	SP	_	1	flat:name	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	casa.Un	casa.Un	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	algoritmo	algoritmo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	rovinare	rovinare	VERB	V	VerbForm=Inf	0	root	_	_
+10	famiglie.Bambini	famiglie.Bambini	PROPN	SP	_	9	obj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	avranno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	conj	_	_
+13	più	più	ADV	B	_	12	advmod	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	loro	loro	DET	AP	Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	docente	docente	NOUN	S	Number=Sing	12	obj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	sostegno	sostegno	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+19	#8000esiliatifaseb	#8000esiliatifaseb	ADJ	A	_	18	amod	_	SpacesAfter=\n
+

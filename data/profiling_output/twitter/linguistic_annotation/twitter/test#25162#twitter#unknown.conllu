@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciò non toglie che D'Acquisto resta Eroe e "quei" partigiani furono vigliacchi.
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	toglie	togliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	D'	D'	PROPN	SP	_	7	nsubj	_	SpaceAfter=No
+6	Acquisto	acquisto	PROPN	SP	_	5	flat:name	_	_
+7	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+8	Eroe	eroe	PROPN	SP	_	7	xcomp	_	_
+9	e	e	CCONJ	CC	_	15	cc	_	_
+10	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+11	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	13	det	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	13	punct	_	_
+13	partigiani	partigiano	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+14	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
+15	vigliacchi	vigliacco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @PeroMatteo @nordkatte @AnpiBrescia @Wu_Ming_Foundt
+1	@PeroMatteo	@PeroMatteo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@nordkatte	@nordkatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	@AnpiBrescia	@AnpiBrescia	PROPN	SP	_	2	nmod	_	_
+4	@Wu_Ming_Foundt	@Wu_Ming_Foundt	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

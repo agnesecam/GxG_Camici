@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = infangare adesso il CSM della #Marina De Giorgi senza alcuna evidenza, pare molto azione ispirata dall'estero.
+1	infangare	infangare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	adesso	adesso	ADV	B	_	1	advmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	CSM	Csm	PROPN	SP	_	1	obj	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	#Marina	#Marina	PROPN	SP	_	4	nmod	_	_
+8	De	De	PROPN	SP	_	7	flat:name	_	_
+9	Giorgi	Giorgi	PROPN	SP	_	7	flat:name	_	_
+10	senza	senza	ADP	E	_	12	case	_	_
+11	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
+12	evidenza	evidenza	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	1	punct	_	_
+14	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+15	molto	molto	ADV	B	_	16	advmod	_	_
+16	azione	azione	NOUN	S	Gender=Fem|Number=Sing	14	xcomp	_	_
+17	ispirata	ispirare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+18-19	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+18	da	da	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	estero.	estero.	NOUN	S	Gender=Masc|Number=Sing	17	obl:agent	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/GiuliaDiVita/s tatus/716226488744472576 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/GiuliaDiVita/s	twitter.com/GiuliaDiVita/s	PROPN	SP	_	0	root	_	_
+5	tatus/716226488744472576	tatus/716226488744472576	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

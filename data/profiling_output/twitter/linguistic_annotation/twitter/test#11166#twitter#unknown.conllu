@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho visto laggente spacciare per propri i tweet altrui, per rendersi figa.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	laggente	laggente	ADJ	A	Number=Sing	2	xcomp	_	_
+4	spacciare	spacciare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+5	per	per	ADP	E	_	8	case	_	_
+6	propri	proprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:predet	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	tweet	tweet	NOUN	S	Gender=Masc	4	obl	_	_
+9	altrui	altrui	DET	AP	Poss=Yes|PronType=Prs	8	det:poss	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12-13	rendersi	_	_	_	_	_	_	_	_
+12	render	rendere	VERB	V	VerbForm=Inf	14	advcl	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	obj	_	_
+14	figa	figere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Loro sono dappertutto .
+1	Loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	dappertutto	dappertutto	ADV	B	_	0	root	_	_
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

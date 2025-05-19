@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Che tu creda di farcela o che tu creda di non farcela, avrai comunque ragione".
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Che	che	SCONJ	CS	_	4	mark	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	creda	credere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	farcela	farcela	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	o	o	CCONJ	CC	_	10	cc	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+10	creda	credere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	di	di	ADP	E	_	13	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	farcela	farcelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	avrai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	13	conj	_	_
+16	comunque	comunque	ADV	B	_	15	advmod	_	_
+17	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = *Henry Ford*.
+1	*Henry	*Henry	PROPN	SP	_	0	root	_	_
+2	Ford*	ford*	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = In pratica, sono... http:// fb.me/4eANS2oo1
+1	In	in	ADP	E	_	2	case	_	_
+2	pratica	pratica	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	sono...	sono...	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+5	http:	http:	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	fb.me/4eANS2oo1	fb.me/4eANS2oo1	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

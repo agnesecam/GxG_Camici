@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ArenaGiletti prendo 800€ di mobilità, pago 1000€ affitto feci d.
+1	@ArenaGiletti	@ArenaGiletti	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	prendo	prendere	VERB	V	VerbForm=Ger	1	advcl	_	_
+3	800€	800€	PROPN	SP	_	2	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	mobilità	mobilità	NOUN	S	Gender=Fem	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	pago	pago	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	1000€	1000€	PROPN	SP	_	3	flat:name	_	_
+9	affitto	affiggere	ADV	B	_	11	advmod	_	_
+10	feci	feci	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+11	d	d	NOUN	S	_	3	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ater niente.
+1	Ater	Atere	ADP	E	_	2	case	_	_
+2	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Vivo con l aiuto dei figli x una mia dignità !
+1	Vivo	vivo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	l	l	X	X	_	1	obl	_	_
+4	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	3	compound	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	x	x	SYM	SYM	_	11	det:predet	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	dignità	dignità	NOUN	S	Gender=Fem	7	obj	_	_
+12	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

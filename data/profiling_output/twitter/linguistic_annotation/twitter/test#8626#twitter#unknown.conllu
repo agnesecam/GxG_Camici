@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ale_dibattista noi sardi non ci facciamo mancare niente:
+1	@ale_dibattista	@ale_dibattedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	sardi	sardo	ADV	B	_	1	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+6	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	obj	_	_
+7	mancare	mancare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = neppure farci male da soli.
+1	neppure	neppure	ADV	BN	PronType=Neg	2	advmod	_	_
+2-3	farci	_	_	_	_	_	_	_	_
+2	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+4	male	male	ADV	B	_	2	advmod	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	soli	solo	ADJ	A	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

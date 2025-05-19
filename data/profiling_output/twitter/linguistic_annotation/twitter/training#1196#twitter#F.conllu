@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dalla cara Francesina alla torta “Pavlova” - Regione - il Tirreno http:// fb.me/2MmNK7ubZ
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	cara	caro	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	Francesina	Francesina	PROPN	SP	_	0	root	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	torta	torta	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	“	“	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	Pavlova	Pavlova	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	”	”	PUNCT	FB	_	9	punct	_	_
+11	-	-	PUNCT	FF	_	9	punct	_	_
+12	Regione	regione	PROPN	SP	_	9	flat:name	_	_
+13	-	-	PUNCT	FB	_	9	punct	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Tirreno	Tirreno	PROPN	SP	_	9	nmod	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/2MmNK7ubZ	fb.me/2MmNK7ubZ	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

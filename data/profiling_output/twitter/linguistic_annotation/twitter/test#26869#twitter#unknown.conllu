@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nonostante una partita indegna, tre occasioni solari le abbiamo avute , tutte guadagnate da un grande Zaza.
+1	Nonostante	nonostante	ADP	E	_	3	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	partita	partita	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+4	indegna	indegno	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	tre	tre	NUM	N	NumType=Card	7	nummod	_	_
+7	occasioni	occasione	NOUN	S	Gender=Fem|Number=Plur	11	nsubj	_	_
+8	solari	solare	ADJ	A	Number=Plur	7	amod	_	_
+9	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	11	obj	_	_
+10	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	14	obl	_	_
+14	guadagnate	guadagnascere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	conj	_	_
+15	da	da	ADP	E	_	18	case	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	grande	grande	ADJ	A	Number=Sing	18	amod	_	_
+18	Zaza	Zaza	PROPN	SP	_	14	obl:agent	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = #jvtblive #InterJuve
+1	#jvtblive	#jvtblive	ADV	B	_	3	advmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	InterJuve	InterJuve	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

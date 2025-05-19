@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Germania Italia, Conte:
+1	Germania	Germania	PROPN	SP	_	0	root	_	_
+2	Italia	Italia	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	Conte	Conte	PROPN	SP	_	1	conj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Non avremo paura" http://www.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	paura	paura	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	http://www	http://www	NOUN	S	_	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = natiperlavorare.it/2016/03/28/ger mania-italia-conte-non-avremo-paura/ …
+1	natiperlavorare.it/2016/03/28/ger	natiperlavorare.it/2016/03/28/gere	X	SW	Foreign=Yes	0	root	_	_
+2	mania-italia-conte-non	mania-italia-conte-non	X	SW	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	avremo-paura	avremo-paura	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	_
+6	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

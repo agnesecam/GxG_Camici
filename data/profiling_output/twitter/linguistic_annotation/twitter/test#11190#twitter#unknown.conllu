@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo porta un coniglio con la scabbia e adesso sento prurito dappertutto .
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	coniglio	coniglio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	scabbia	scabbia	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	adesso	adesso	ADV	B	_	11	advmod	_	_
+10	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+11	prurito	prurire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	dappertutto	dappertutto	ADV	B	_	11	advmod	_	_
+13	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

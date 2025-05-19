@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @stefanoesposito e di cosa parla?
+1	@stefanoesposito	@stefanoesposito	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	obl	_	_
+5	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = visto che a Roma ne avete avute 85000 e chiusa neanche 1.
+1	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	Roma	Roma	PROPN	SP	_	6	obl	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+7	avute	avere	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	85000	85000	NUM	N	NumType=Card	7	nummod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	chiusa	chiudere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	neanche	neanche	ADV	BN	PronType=Neg	12	advmod	_	_
+12	1	1	NUM	N	NumType=Card	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Vuoi rovinare anche il piemonte?
+1	Vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	rovinare	rovinare	VERB	V	VerbForm=Inf	0	root	_	_
+3	anche	anche	ADV	B	_	5	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	piemonte	piemonte	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

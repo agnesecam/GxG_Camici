@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parole così dolci da sembrare quasi ingenue.
+1	Parole	parola	PROPN	SP	_	0	root	_	_
+2	così	così	ADV	B	_	3	advmod	_	_
+3	dolci	dolce	ADJ	A	Number=Plur	1	amod	_	_
+4	da	da	ADP	E	_	5	mark	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	quasi	quasi	ADV	B	_	7	advmod	_	_
+7	ingenue	ingenuo	ADJ	A	Gender=Fem|Number=Plur	5	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Peccato che non sai che fartene.
+1	Peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	fartene	fartena	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Respiro il mare,con un mare di gioia dentro ,il sapore del sale mi veste di salsedine" #Duplicatio @AvverbiAmente pic.twitter.com/DYtqsdDy4F
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Respiro	respirare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mare,con	mare,con	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mare	mare	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	gioia	gioia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	dentro	dentro	ADP	E	_	11	case	_	_
+10	,il	,il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	sapore	sapore	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	sale	sala	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	obj	_	_
+16	veste	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	salsedine	salsedine	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	18	punct	_	_
+20	#	#	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	Duplicatio	Duplicatio	PROPN	SP	_	18	appos	_	_
+22	@AvverbiAmente	@AvverbiAmente	PROPN	SP	_	21	flat:name	_	_
+23	pic.twitter.com/DYtqsdDy4F	pic.twitter.com/DYtqsdDy4F	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

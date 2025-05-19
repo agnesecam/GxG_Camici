@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = S Teresina:
+1	S	S	PROPN	SP	_	0	root	_	_
+2	Teresina	Teresina	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = La carità perfetta consiste nel sopportare i difetti degli altri, non stupirsi di essi , edificarsi dei loro minimi atti di virtù
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	carità	carità	NOUN	S	Gender=Fem	4	nsubj	_	_
+3	perfetta	perfetto	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	consiste	consistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	sopportare	sopportare	VERB	V	VerbForm=Inf	20	obl	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	difetti	difetto	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10-11	degli	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	7	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15-16	stupirsi	_	_	_	_	_	_	_	_
+15	stupir	stupire	VERB	V	VerbForm=Inf	7	conj	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obl	_	_
+19	,	,	PUNCT	FF	_	7	punct	_	_
+20-21	edificarsi	_	_	_	_	_	_	_	_
+20	edificar	edificare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+21	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+22-23	dei	_	_	_	_	_	_	_	_
+22	di	di	ADP	E	_	26	case	_	_
+23	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+24	loro	loro	DET	AP	Poss=Yes|PronType=Prs	26	det:poss	_	_
+25	minimi	minimo	ADJ	A	Gender=Masc|Number=Plur	26	amod	_	_
+26	atti	atto	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
+27	di	di	ADP	E	_	28	case	_	_
+28	virtù	virtù	NOUN	S	Gender=Fem	26	nmod	_	SpacesAfter=\n
+

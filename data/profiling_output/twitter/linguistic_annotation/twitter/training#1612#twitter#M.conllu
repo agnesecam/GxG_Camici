@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @raf_frate Caro fra Raffaele buon sabato di Maria!
+1	@raf_frate	@raf_frare	NOUN	S	Gender=Masc	0	root	_	_
+2	Caro	Caro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	fra	fra	ADP	E	_	4	case	_	_
+4	Raffaele	Raffaele	PROPN	SP	_	1	nmod	_	_
+5	buon	buono	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Maria	Maria	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È Lui che viene incontro,placa le nostre tempeste,illumina le notti e ci conduce in porto
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+2	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	incontro,placa	incontro,placare	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	tempeste	tempesta	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+9	,illumina	,illuminare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	notti	notte	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	obj	_	_
+14	conduce	condurre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	porto	porto	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpacesAfter=\n
+

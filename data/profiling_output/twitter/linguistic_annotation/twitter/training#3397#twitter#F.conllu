@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi andrete a bari e purtroppo io non ci sarò ......fortunate chi vi abbraccierá e farà una foto con voi @Benji_Mascolo @fedefederossi
+1	Oggi	oggi	ADV	B	_	2	advmod	_	_
+2	andrete	andere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	bari	bario	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+5	e	e	CCONJ	CC	_	11	cc	_	_
+6	purtroppo	purtroppo	ADV	B	_	11	advmod	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+10	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	......fortunate	......fortunare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+12	chi	chi	PRON	PR	Number=Sing|PronType=Rel	11	nsubj	_	_
+13	vi	vi	ADV	B	_	12	advmod	_	_
+14	abbraccierá	abbraccierá	PROPN	SP	_	12	flat:name	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	conj	_	_
+17	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	foto	foto	NOUN	S	Gender=Fem	16	obj	_	_
+19	con	con	ADP	E	_	21	case	_	_
+20	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	16	obl	_	_
+22	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	SpacesAfter=\n
+

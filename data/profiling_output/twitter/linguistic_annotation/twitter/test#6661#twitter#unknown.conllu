@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chissà se finita la settimana del petaloso comincerà mai quella del ghippo.
+1	Chissà	chissà	ADV	B	_	3	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	finita	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	petaloso	petaloso	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	comincerà	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	mai	mai	ADV	B	_	9	advmod	_	_
+11	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	9	obj	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	ghippo	ghippo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Pensavate che ce ne fossimo ... http:// fb.me/QV0h3RvM
+1	Pensavate	Pensavare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+6	...	...	PUNCT	FF	_	7	punct	_	_
+7	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	fb.me/QV0h3RvM	fb.me/QV0h3RvM	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

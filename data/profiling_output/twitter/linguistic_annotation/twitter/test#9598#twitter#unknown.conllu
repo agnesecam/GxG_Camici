@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Devo cominciare ad andare a dormire prima, la mattina sta diventando ancora più traumatica del solito #bonnenuit
+1	Devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	cominciare	cominciare	VERB	V	VerbForm=Inf	19	csubj	_	_
+3	ad	a	ADP	E	_	4	mark	_	_
+4	andare	andare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	dormire	dormire	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	prima	prima	ADV	B	_	12	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+11	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	diventando	diventare	VERB	V	VerbForm=Ger	2	advcl	_	_
+13	ancora	ancora	ADV	B	_	14	advmod	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	traumatica	traumatico	ADJ	A	Gender=Fem|Number=Sing	12	xcomp	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	solito	solito	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+19	#bonnenuit	#bonnenuit	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

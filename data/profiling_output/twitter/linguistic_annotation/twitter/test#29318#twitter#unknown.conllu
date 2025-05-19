@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domenica avrete tutto il sostegno del pubblico del #PalaBianchini !
+1	Domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+2	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	5	det:predet	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sostegno	sostegno	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	#PalaBianchini	#PalaBianchini	PROPN	SP	_	8	nmod	_	_
+12	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Insieme siamo più forti #civediamoalpalazzetto pic.twitter.com/y21aMsIHfr
+1	Insieme	insieme	ADV	B	_	4	advmod	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	forti	forte	ADJ	A	Number=Plur	0	root	_	_
+5	#civediamoalpalazzetto	#civediamoalpalazzetto	ADP	E	_	6	case	_	_
+6	pic.twitter.com/y21aMsIHfr	pic.twitter.com/y21aMsIHfr	PROPN	SP	_	4	obl	_	SpacesAfter=\n
+

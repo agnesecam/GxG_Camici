@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Penso a #PaoloPoli e mi viene in mente ciò che ancora dovrà accadere.
+1	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	#PaoloPoli	#PaoloPoli	PROPN	SP	_	1	obl	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	mente	mente	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
+10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+11	ancora	ancora	ADV	B	_	13	advmod	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	accadere	accadere	VERB	V	VerbForm=Inf	9	acl:relcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Buon meritato riposo.
+1	Buon	buono	PROPN	SP	_	2	nsubj	_	_
+2	meritato	meritato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

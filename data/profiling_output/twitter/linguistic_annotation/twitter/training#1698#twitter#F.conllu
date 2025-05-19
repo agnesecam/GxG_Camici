@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vi ringrazio, ma io parlo solo Italiano.
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	iobj	_	_
+2	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	6	punct	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	parlo	parlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	solo	solo	ADV	B	_	8	advmod	_	_
+8	Italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Il secondo volume di ebook "Serial killer.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+3	volume	volume	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	ebook	ebook	NOUN	S	_	8	nmod	_	_
+6	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+7	Serial	Serial	DET	DQ	Number=Sing|PronType=Int	8	det	_	_
+8	killer	killere	NOUN	S	_	3	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Come uccidiamo le nostre vittime " è very strong Monica
+1	Come	come	ADV	B	_	2	advmod	_	_
+2	uccidiamo	uccidere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	"	"	PUNCT	FB	_	9	punct	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	very	very	DET	DI	PronType=Ind	9	det	_	_
+9	strong	strong	NOUN	S	Gender=Fem	2	parataxis	_	_
+10	Monica	Monica	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

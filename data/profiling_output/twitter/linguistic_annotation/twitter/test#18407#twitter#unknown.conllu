@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perchè avevi dei dubbi?
+1	Perchè	perché	ADV	B	_	2	advmod	_	_
+2	avevi	aveve	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Tra cinque minuti Higuain sarà Santo ... http:// shr.gs/I8gIVIF
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	cinque	cinque	NUM	N	NumType=Card	3	nummod	_	_
+3	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+4	Higuain	Higuain	PROPN	SP	_	6	nsubj	_	_
+5	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
+6	Santo	Santo	PROPN	SP	_	0	root	_	_
+7	...	...	PUNCT	FF	_	8	punct	_	_
+8	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	_
+11	shr.gs/I8gIVIF	shr.gs/I8gIVIF	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LisadaCa @ilgiornale purtroppo le vittime cadute sotto i colpi di Kabobo,sono morte invano!Quanti di questi si aggirano nelle nostre città?
+1	@LisadaCa	@LisadaCa	ADP	E	_	2	case	_	_
+2	@ilgiornale	@ilgiornale	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+3	purtroppo	purtroppo	ADV	B	_	5	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+6	cadute	cadere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+7	sotto	sotto	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	colpi	colpo	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Kabobo,sono	kabobo,sono	PROPN	SP	_	9	nmod	_	_
+12	morte	morto	NOUN	S	Gender=Fem|Number=Sing	11	flat:name	_	_
+13	invano	invano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	advcl	_	SpaceAfter=No
+14	!Quanti	!Quante	PROPN	SP	_	18	nsubj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	14	nmod	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+18	aggirano	aggirare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19-20	nelle	_	_	_	_	_	_	_	_
+19	in	in	ADP	E	_	22	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+21	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	città	città	NOUN	S	Gender=Fem	18	obl	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	18	punct	_	SpacesAfter=\n
+

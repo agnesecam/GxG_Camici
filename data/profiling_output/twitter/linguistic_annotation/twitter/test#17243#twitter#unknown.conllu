@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @guidomeda già avuta panda 1000 fire Bianca del 93 peccato non l'avevo trovata 4x4 ma era sempre indistruttibile, bel programma complimenti
+1	@guidomeda	@guidomedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	già	già	ADV	B	_	3	advmod	_	_
+3	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+4	panda	panda	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+5	1000	1000	NUM	N	NumType=Card	4	nummod	_	_
+6	fire	fire	VERB	V	VerbForm=Inf	4	acl	_	_
+7	Bianca	Bianca	PROPN	SP	_	6	xcomp	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	93	93	NUM	N	NumType=Card	11	nummod	_	_
+11	peccato	peccato	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+12	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+13	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	15	obj	_	SpaceAfter=No
+14	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	trovata	trovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+16	4x4	4x4	NUM	N	NumType=Card	15	nummod	_	_
+17	ma	ma	CCONJ	CC	_	20	cc	_	_
+18	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
+19	sempre	sempre	ADV	B	_	20	advmod	_	_
+20	indistruttibile	indistruttibile	ADJ	A	Number=Sing	3	conj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	20	punct	_	_
+22	bel	bello	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	programma	programma	NOUN	S	Gender=Masc|Number=Sing	20	advcl	_	_
+24	complimenti	complimente	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	SpacesAfter=\n
+

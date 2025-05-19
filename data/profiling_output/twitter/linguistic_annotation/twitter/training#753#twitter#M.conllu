@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DiaVoltaire e pensare che se avessimo ancora il talismano Traore' a quest'ora Mihajlović era primo senza sforzi
+1	@DiaVoltaire	@DiaVoltaire	VERB	V	VerbForm=Inf	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	pensare	pensare	VERB	V	VerbForm=Inf	1	conj	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+7	ancora	ancora	ADV	B	_	6	advmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	talismano	talismano	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10	Traore	Traore	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+11	'	'	PUNCT	FB	_	17	punct	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	quest'	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	SpaceAfter=No
+14	ora	ora	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+15	Mihajlović	Mihajlović	PROPN	SP	_	17	nsubj	_	_
+16	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+17	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+18	senza	senza	ADP	E	_	19	case	_	_
+19	sforzi	sforzo	NOUN	S	Gender=Masc|Number=Plur	17	obl	_	SpacesAfter=\n
+

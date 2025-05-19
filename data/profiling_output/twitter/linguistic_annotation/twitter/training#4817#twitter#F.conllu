@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Eggià alla fine la cupola,la combriccola si è ridotta a DeSantis;nessuna gara arbitrata da lui fu vinta #calciopoli pic.twitter.com/nC8qQk5Cze
+1	Eggià	Eggià	ADV	B	_	10	advmod	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fine	fine	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cupola,la	cupola,la	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	combriccola	combriccolo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	ridotta	ridurre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	advcl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	DeSantis	DeSantis	PROPN	SP	_	10	obl	_	SpaceAfter=No
+13	;nessuna	;nessuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	gara	gara	NOUN	S	Gender=Fem|Number=Sing	19	nsubj:pass	_	_
+15	arbitrata	arbitrare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+16	da	da	ADP	E	_	17	case	_	_
+17	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl:agent	_	_
+18	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux:pass	_	_
+19	vinta	vincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+20	#calciopoli	#calciopole	ADJ	A	Number=Plur	21	amod	_	_
+21	pic.twitter.com/nC8qQk5Cze	pic.twitter.com/nC8qQk5Cze	PROPN	SP	_	19	xcomp	_	SpacesAfter=\n
+

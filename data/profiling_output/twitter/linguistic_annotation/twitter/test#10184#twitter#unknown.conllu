@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlfredoPedulla il suo nome faceva tremare , ora tanta gioia per tanti . Finalmente buon campionato "sereno"....
+1	@AlfredoPedulla	@AlfredoPedullare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	nome	nome	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	parataxis	_	_
+6	tremare	tremare	VERB	V	VerbForm=Inf	5	conj	_	_
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	ora	ora	ADV	B	_	6	advmod	_	_
+9	tanta	tanto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
+10	gioia	gioia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	_
+13	.	.	PUNCT	FS	_	5	punct	_	_
+14	Finalmente	finalmente	ADV	B	_	15	advmod	_	_
+15	buon	buono	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+17	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+18	sereno	sereno	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+20	...	...	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo video ti farà commuovere.
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	video	video	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	commuovere	commuovere	VERB	V	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Stupendo http:// fb.me/4DeWXRIyF
+1	Stupendo	stupendo	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/4DeWXRIyF	fb.me/4DeWXRIyF	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

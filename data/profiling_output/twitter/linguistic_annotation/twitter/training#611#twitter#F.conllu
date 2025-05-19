@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @andrelettrico hai ragione!
+1	@andrelettrico	@andrelettrico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = La stato è invisibile!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	stato	stato	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	invisibile	invisibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Se avessimo fatta lo stesso a casa loro ci avrebbero sparato a vista!!!!
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux:pass	_	_
+3	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj:pass	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	casa	casa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8	loro	loro	DET	AP	Poss=Yes|PronType=Prs	7	det:poss	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	_
+10	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	sparato	sparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	vista	vista	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	!!!	!!!	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FuffaForte @MaleInItaly1978 @AndreaCerase Concordo.
+1	@FuffaForte	@FuffaForte	PROPN	SP	_	0	root	_	_
+2	@MaleInItaly1978	@MaleInItaly1978	PROPN	SP	_	1	flat:name	_	_
+3	@AndreaCerase	@AndreaCerase	PROPN	SP	_	1	flat:name	_	_
+4	Concordo	Concordo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Quindi, se #M5S avesse dimostrato il diritto adesso lo Stato avrebbe 42mln in meno?
+1	Quindi	quindi	ADV	B	_	12	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	#M5S	#M5S	PROPN	SP	_	6	nsubj	_	_
+5	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	dimostrato	dimostrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	adesso	adesso	ADV	B	_	8	advmod	_	_
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	avrebbe	avere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	42mln	42mln	ADV	B	_	12	advmod	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	meno	meno	ADV	B	_	12	advmod	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

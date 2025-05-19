@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli animali, esseri a noi molto superiori, non farebbero mai queste figurelle.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	animali	animale	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	obl	_	_
+7	molto	molto	ADV	B	_	8	advmod	_	_
+8	superiori	superiore	ADJ	A	Degree=Cmp|Number=Plur	6	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	mai	mai	ADV	B	_	11	advmod	_	_
+13	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	14	det	_	_
+14	figurelle	figurella	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2uKNbQ9ZD
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2uKNbQ9ZD	fb.me/2uKNbQ9ZD	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

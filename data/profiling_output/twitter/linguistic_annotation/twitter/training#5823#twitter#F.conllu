@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una vita intensa, alti e bassi, tante battaglie vinte e qualcuna persa ma io non mi arrendo mai #VotaTheKolors #KCA
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vita	vita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	intensa	intenso	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	alti	alto	ADJ	A	Gender=Masc|Number=Plur	3	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	bassi	basso	ADJ	A	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	10	det	_	_
+10	battaglie	battaglia	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+11	vinte	vincere	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	14	nsubj	_	_
+14	persa	perdere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15	ma	ma	CCONJ	CC	_	19	cc	_	_
+16	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	expl	_	_
+19	arrendo	arrere	VERB	V	VerbForm=Ger	14	advcl	_	_
+20	mai	mai	ADV	B	_	19	advmod	_	_
+21	#VotaTheKolors	#VotaTheKolors	PROPN	SP	_	19	obj	_	_
+22	#KCA	#KCA	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

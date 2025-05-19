@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @clinicaduemari
+1	@clinicaduemari	@clinicaduemare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = Il vero amore fa miracoli, perché è egli stesso il più grande miracolo.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	amore	amore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	miracoli	miracolo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	perché	perché	SCONJ	CS	_	14	mark	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+9	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	grande	grande	ADJ	A	Number=Sing	14	amod	_	_
+14	miracolo	miracolo	NOUN	S	Gender=Masc|Number=Sing	4	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = (Amado Nervo)Benvenuto Maurilio e bentornato Conte
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Amado	Amado	PROPN	SP	_	5	nmod	_	_
+3	Nervo	nervo	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	Benvenuto	Benvenuto	PROPN	SP	_	0	root	_	_
+6	Maurilio	Maurilio	PROPN	SP	_	5	flat:name	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	bentornato	bentornare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+9	Conte	Conte	PROPN	SP	_	8	obj	_	SpacesAfter=\n
+

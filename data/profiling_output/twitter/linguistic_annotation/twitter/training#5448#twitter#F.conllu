@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se cristian molla tara e si fa qualcuna all' #isola io sarò super realizzata Quanto se lo merita
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	cristian	cristian	NOUN	S	Gender=Masc	4	obl	_	_
+3	molla	mollo	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+4	tara	tarare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	7	obj	_	_
+9-10	all'	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	#isola	#isola	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+12	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14	super	super	VERB	V	VerbForm=Inf	7	ccomp	_	_
+15	realizzata	realizzare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+16	Quanto	quanto	ADV	B	_	19	mark	_	_
+17	se	se	SCONJ	CS	_	16	fixed	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	merita	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	SpacesAfter=\n
+

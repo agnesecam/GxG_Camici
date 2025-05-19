@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = -ragazzi, vedendoli come un prodotto da cui guadagnare.
+1	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4-5	vedendoli	_	_	_	_	_	_	_	_
+4	vedendo	vedere	VERB	V	VerbForm=Ger	2	advcl	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+6	come	come	ADP	E	_	8	case	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	prodotto	prodotto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	cui	cui	PRON	PR	PronType=Rel	11	obl	_	_
+11	guadagnare	guadagnare	VERB	V	VerbForm=Inf	8	acl:relcl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Dunque , partiamo da un evento molto importante:
+1	Dunque	dunque	ADV	B	_	3	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	partiamo	partire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	evento	evento	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	molto	molto	ADV	B	_	8	advmod	_	_
+8	importante	importante	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = l'abbandono di Zayn.
+1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	abbandono	abbandono	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Zayn	Zayn	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Io, manager -
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	manager	managere	NOUN	S	_	1	appos	_	_
+4	-	-	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

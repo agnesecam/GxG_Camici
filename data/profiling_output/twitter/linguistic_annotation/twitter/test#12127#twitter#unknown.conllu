@@ -1,0 +1,58 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Come erano belle le cose che facevamo : non volevo cadere nel circolo vizioso della nostalgia”.
+1	“	“	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Come	come	SCONJ	CS	_	4	mark	_	_
+3	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	belle	bello	ADJ	A	Gender=Fem|Number=Plur	12	advcl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
+9	:	:	PUNCT	FC	_	4	punct	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	cadere	cadere	VERB	V	VerbForm=Inf	0	root	_	_
+13-14	nel	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	circolo	circolo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16	vizioso	vizioso	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+17-18	della	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	nostalgia	nostalgia	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+20	”	”	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = kongnews.it/cambio-vita/co me-erano-belle-le-cose-che-facevamo-non-volevo-cadere-nel-circolo-vizioso-della-nostalgia/ …
+1	kongnews.it/cambio-vita/co	kongnews.it/cambio-vita/co	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	me-erano	me-erano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	belle-le	belle-le	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	cose-che	cose-co	ADJ	A	Gender=Fem|Number=Plur	2	conj	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	facevamo-non	facevamo-non	X	SW	Foreign=Yes	6	compound	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	volevo	volere	NOUN	S	Gender=Masc|Number=Sing	8	compound	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+12	cadere	cadere	VERB	V	VerbForm=Inf	6	conj	_	SpaceAfter=No
+13	-	-	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+14-15	nel	_	_	_	_	_	_	_	SpaceAfter=No
+14	in	in	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	-circolo	-circolo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+17	-	-	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+18	vizioso	vizioso	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
+19	-della-nostalgia	-della-nostalgia	NOUN	S	Number=Sing	16	compound	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	12	punct	_	_
+21	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

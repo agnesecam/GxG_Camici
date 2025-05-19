@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giornali che parlano di Harry womanizer che se ne fa una a settimana.
+1	Giornali	giornale	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Harry	Harry	PROPN	SP	_	3	obl	_	_
+6	womanizer	womanizere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+11	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	10	obj	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	settimana.	settimana.	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = ho controllato il calendario perché pensavo fossimo nel 2013
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	controllato	controllare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	calendario	calendario	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	perché	perché	SCONJ	CS	_	6	mark	_	_
+6	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	fossimo	fossimo	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	2013	2013	NUM	N	NumType=Card	6	obl	_	SpacesAfter=\n
+

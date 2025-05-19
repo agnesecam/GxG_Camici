@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Al direttore di canale 5 : ma non si vergogna di fare una trasmissione come quella condotta dalla Durso.
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	canale	canale	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	5	5	NUM	N	NumType=Card	5	nummod	_	_
+7	:	:	PUNCT	FC	_	3	punct	_	_
+8	ma	ma	CCONJ	CC	_	11	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+11	vergogna	vergogna	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	fare	fare	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	come	come	ADP	E	_	17	case	_	_
+17	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	15	nmod	_	_
+18	condotta	condurre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
+19-20	dalla	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Durso	Durso	PROPN	SP	_	18	obl:agent	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

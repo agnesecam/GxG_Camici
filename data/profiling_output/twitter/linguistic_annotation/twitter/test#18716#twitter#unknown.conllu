@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi ci saranno 730 comunisti in Italia?
+1	@matteosalvinimi	@matteosalvinimo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	saranno	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	730	730	NUM	N	NumType=Card	5	nummod	_	_
+5	comunisti	comunista	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	Italia	Italia	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Bene uno per ciascuno a casa loro.
+1	Bene	bene	ADV	B	_	2	advmod	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nmod	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = ..risolto!
+1	..risolto	..risogliere	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FabrizioVertua @GiuliarosaR avuta notizia a febbraio ho chiesto che la priorità fosse per tutti i bimbi in sicurezza.
+1	@FabrizioVertua	@FabrizioVertuo	PROPN	SP	_	3	nsubj	_	_
+2	@GiuliarosaR	@GiuliarosaR	PROPN	SP	_	1	flat:name	_	_
+3	avuta	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	febbraio	febbraio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	_
+9	che	che	SCONJ	CS	_	16	mark	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	priorità	priorità	NOUN	S	Gender=Fem	16	nsubj	_	_
+12	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
+13	per	per	ADP	E	_	16	case	_	_
+14	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	16	det:predet	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	bimbi	bimbo	NOUN	S	Gender=Masc|Number=Plur	8	ccomp	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Notate differenze?
+1	Notate	Notare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

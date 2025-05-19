@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = YO Regaz!!!
+1	YO	YO	PROPN	SP	_	0	root	_	_
+2	Regaz!!	Regaz!!	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = dopo anni da spettatore finalmente avremo il grandissimo piacere di prendere parte a la Rottura Del... http:// fb.me/3o96X62wk
+1	dopo	dopo	ADP	E	_	2	case	_	_
+2	anni	anno	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	spettatore	spettatore	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	finalmente	finalmente	ADV	B	_	6	advmod	_	_
+6	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	acl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	grandissimo	grande	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	9	amod	_	_
+9	piacere	piacere	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	prendere	prendere	VERB	V	VerbForm=Inf	9	acl	_	_
+12	parte	parte	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Rottura	rottura	PROPN	SP	_	11	obl	_	_
+16	Del...	Del...	PROPN	SP	_	15	flat:name	_	_
+17	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	15	punct	_	_
+20	fb.me/3o96X62wk	fb.me/3o96X62wk	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

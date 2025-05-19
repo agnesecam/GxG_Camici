@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La storia dietro le quinte dei disegni di Angelo Barile realizzati a Magà la avevate vista?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	storia	storia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	dietro	dietro	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	quinte	quinto	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	disegni	disegno	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Angelo	Angelo	PROPN	SP	_	8	nmod	_	_
+11	Barile	Barile	PROPN	SP	_	10	flat:name	_	_
+12	realizzati	realizzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	Magà	Magà	PROPN	SP	_	12	obl	_	_
+15	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	avevate	avere	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	_
+17	vista	vedere	NOUN	S	Gender=Fem|Number=Sing	12	nsubj:pass	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Nel frattempo la... http:// fb.me/PUiiw1tO
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+4	la...	la...	NOUN	S	_	0	root	_	_
+5	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	fb.me/PUiiw1tO	fb.me/PUiiw1tO	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

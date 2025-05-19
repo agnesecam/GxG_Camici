@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Penso che non è il mio tipo..." E tu puoi essere il tipo per qualcuna ?
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	tipo..	tipo..	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	8	punct	_	_
+11	E	e	CCONJ	CC	_	16	cc	_	_
+12	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	16	nsubj	_	_
+13	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	aux	_	_
+14	essere	essere	AUX	V	VerbForm=Inf	16	cop	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	16	nmod	_	_
+19	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sagittario.
+1	sagittario.	sagittario.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = avrete a che fare con una persona molto importante che vi aiuterà anche nel lavoro.
+1	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	mark	_	_
+3	che	che	SCONJ	CS	_	2	fixed	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	persona	persona	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	molto	molto	ADV	B	_	9	advmod	_	_
+9	importante	importante	ADJ	A	Number=Sing	7	amod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+12	aiuterà	aiutare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	acl:relcl	_	_
+13	anche	anche	ADV	B	_	16	advmod	_	_
+14-15	nel	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	lavoro.	lavoro.	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho sognato che parlavo di cinema e altro con Rooney Mara come se fossimo state amiche di vecchia data e ci abbracciavamo taaanto!
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sognato	sognato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	parlavo	parlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	cinema	cinema	NOUN	S	Gender=Masc	4	obl	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	altro	altro	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	Rooney	Rooney	PROPN	SP	_	4	obl	_	_
+11	Mara	Mara	PROPN	SP	_	10	flat:name	_	_
+12	come	come	ADV	B	_	16	advmod	_	_
+13	se	se	SCONJ	CS	_	16	mark	_	_
+14	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	aux	_	_
+15	state	essere	AUX	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	16	cop	_	_
+16	amiche	amico	ADJ	A	Gender=Fem|Number=Plur	4	advcl	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	vecchia	vecchio	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
+19	data	data	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+20	e	e	CCONJ	CC	_	22	cc	_	_
+21	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	22	obj	_	_
+22	abbracciavamo	abbracciare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	conj	_	_
+23	taaanto	taaanto	ADV	B	_	22	advmod	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

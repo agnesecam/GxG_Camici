@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaGabbiaTw ormai alle prossime elezioni possono fondare un partito vista la maggioranza di essi .Gli italiani zerbini in casa loro
+1	@LaGabbiaTw	@LaGabbiaTw	PROPN	SP	_	8	nsubj	_	_
+2	ormai	ormai	ADV	B	_	1	advmod	_	_
+3-4	alle	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	prossime	prossimo	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+6	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+7	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fondare	fondare	VERB	V	VerbForm=Inf	0	root	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	partito	partito	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	vista	vedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	maggioranza	maggioranza	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
+16	.Gli	.Gli	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
+17	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	_
+18	zerbini	zerbino	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	casa	casa	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+21	loro	loro	DET	AP	Poss=Yes|PronType=Prs	20	det:poss	_	SpacesAfter=\n
+

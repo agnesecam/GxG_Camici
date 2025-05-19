@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nella finale delle 17:20 Mick Schumacher scatterà dalla pole position!
+1-2	Nella	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	finale	finale	NOUN	S	Number=Sing	9	obl	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	17:20	17:20	NUM	N	NumType=Card	7	nummod	_	_
+7	Mick	Mick	PROPN	SP	_	3	nmod	_	_
+8	Schumacher	Schumacher	PROPN	SP	_	7	flat:name	_	_
+9	scatterà	scattare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	pole	pole	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	position	position	ADV	BN	PronType=Neg	12	advmod	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = #F4 #F4Italiana https:// twitter.com/PREMAPowerteam /status/719156034074447872 …
+1	#F4	#F4	PROPN	SP	_	0	root	_	_
+2	#F4Italiana	#F4Italiana	PROPN	SP	_	1	flat:name	_	_
+3	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	twitter.com/PREMAPowerteam	twitter.com/PREMAPowerteam	PROPN	SP	_	1	nmod	_	_
+7	/status/719156034074447872	/status/719156034074447872	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

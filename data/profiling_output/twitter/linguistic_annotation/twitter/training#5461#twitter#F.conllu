@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ora inizio a darle, state pronti nel caso me ne avanzi qualcuna .
+1	Ora	ora	ADV	B	_	2	advmod	_	_
+2	inizio	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4-5	darle	_	_	_	_	_	_	_	SpaceAfter=No
+4	dar	dare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	state	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	pronti	pronto	ADJ	A	Gender=Masc|Number=Plur	2	conj	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	caso	caso	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+12	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	_
+13	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	14	iobj	_	_
+14	avanzi	avanzi	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+15	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	14	obj	_	_
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

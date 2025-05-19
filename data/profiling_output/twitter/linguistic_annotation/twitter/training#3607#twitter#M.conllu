@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @eguhllort @juventusfc #Rizzoli si allena a #Napoli con voi #Napolicani - spera di essere presente quando il #Vesuvio farà il suo dovere :-)
+1	@eguhllort	@eguhllort	CCONJ	CC	_	6	cc	_	_
+2	@juventusfc	@juventusfc	ADV	B	_	6	advmod	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	Rizzoli	Rizzoli	PROPN	SP	_	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	allena	allenare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	parataxis	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	#Napoli	#Napoli	PROPN	SP	_	6	obl	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	6	obl	_	_
+11	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+12	Napolicani	Napolicani	PROPN	SP	_	6	nsubj	_	_
+13	-	-	PUNCT	FF	_	6	punct	_	_
+14	spera	sperare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	di	di	ADP	E	_	17	mark	_	_
+16	essere	essere	AUX	V	VerbForm=Inf	17	cop	_	_
+17	presente	presente	ADJ	A	Number=Sing	14	xcomp	_	_
+18	quando	quando	SCONJ	CS	_	21	mark	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	#Vesuvio	#Vesuvio	PROPN	SP	_	21	nsubj	_	_
+21	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	advcl	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+23	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+25	:	:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+26	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+27	)	)	PUNCT	FB	_	14	punct	_	SpacesAfter=\n
+

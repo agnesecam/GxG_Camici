@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Diego10_querido l'assist fu di Massimo Crippa!
+1	@Diego10_querido	@Diego10_queridere	ADP	E	_	3	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	assist	assist	NOUN	S	Gender=Masc	4	obl	_	_
+4	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Massimo	Massimo	PROPN	SP	_	4	nmod	_	_
+7	Crippa	Crippa	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Dopo che la domenica precedente fosti tu a darla a lui che si procurò un rigore.
+1	Dopo	dopo	SCONJ	CS	_	6	mark	_	_
+2	che	che	SCONJ	CS	_	1	fixed	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+5	precedente	precedente	ADJ	A	Number=Sing	4	amod	_	_
+6	fosti	fondere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	darla	_	_	_	_	_	_	_	_
+9	dar	dare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+10	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	procurò	procurare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	rigore.	rigore.	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

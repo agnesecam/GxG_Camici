@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @riotta Ma da parecchi di quei tanti @matteorenzi ha imparato a obbedire a confindustria, facendo il male della sinistra e dei lavoratori.
+1	@riotta	@riurre	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+2	Ma	ma	CCONJ	CC	_	4	cc	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+7	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	@matteorenzi	@matteorenzi	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	imparato	imparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	obbedire	obbedire	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	confindustria	confindustria	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	10	punct	_	_
+16	facendo	fare	VERB	V	VerbForm=Ger	10	advcl	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	male	male	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+22	e	e	CCONJ	CC	_	25	cc	_	_
+23-24	dei	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	21	conj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

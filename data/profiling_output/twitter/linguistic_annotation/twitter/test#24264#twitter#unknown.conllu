@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da quando Alonso ha lasciato la Ferrari non gliene va dritta una!
+1	Da	da	ADP	E	_	3	case	_	_
+2	quando	quando	SCONJ	CS	_	1	fixed	_	_
+3	Alonso	Alonso	PROPN	SP	_	5	obl	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Ferrari	Ferrari	PROPN	SP	_	5	obj	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	gliene	glenere	SCONJ	CS	_	11	mark	_	_
+10	va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	dritta	driggere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+12	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	nsubj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Abbiamo lasciato la #crisi alle nostre spalle, il problema è che continuiamo a camminare all'indietro #giornalismo
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	#crisi	#criso	NOUN	S	Gender=Fem	2	obj	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	spalle	spalla	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	problema	problema	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	che	che	SCONJ	CS	_	14	mark	_	_
+14	continuiamo	continuare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	camminare	camminare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17-18	all'	_	_	_	_	_	_	_	SpaceAfter=No
+17	a	a	ADP	E	_	20	case	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+19	indietro	indietro	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+20	#giornalismo	#giornalismo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpacesAfter=\n
+

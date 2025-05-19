@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Twitter è diventato una dipendenza.
+1	Twitter	Twitter	PROPN	SP	_	3	nsubj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	dipendenza	dipendenza	NOUN	S	Gender=Fem|Number=Sing	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Sta cosa non va affatto bene.
+1	Sta	stare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	affatto	affatto	ADV	B	_	4	advmod	_	_
+6	bene	bene	ADV	B	_	1	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Addio studio e ore di sonno
+1	Addio	Addio	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	studio	studio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	ore	ora	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	sonno	sonno	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\n
+

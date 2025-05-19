@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da oggi al 29 aprile ascolteró di continuo questa canzone POI USCIRÁ IL CD E AVREMO TIPO 20 CANZONI PER SCLERARE #SiempreBrillaras
+1	Da	da	ADP	E	_	2	case	_	_
+2	oggi	oggi	ADV	B	_	11	advmod	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	29	29	NUM	N	NumType=Card	11	nmod	_	_
+6	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	5	flat	_	_
+7	ascolteró	ascolteró	PROPN	SP	_	5	flat	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	continuo	continuare	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	canzone	canzone	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+12	POI	Po	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	USCIRÁ	USCIRÁ	PROPN	SP	_	11	nmod	_	_
+14	IL	Il	PROPN	SP	_	13	flat:name	_	_
+15	CD	cd	PROPN	SP	_	13	flat:name	_	_
+16	E	e	CCONJ	CC	_	17	cc	_	_
+17	AVREMO	avere	PROPN	SP	_	13	conj	_	_
+18	TIPO	tipo	PROPN	SP	_	17	flat:name	_	_
+19	20	20	NUM	N	NumType=Card	17	flat:name	_	_
+20	CANZONI	canzoni	PROPN	SP	_	17	flat:name	_	_
+21	PER	per	PROPN	SP	_	17	flat:name	_	_
+22	SCLERARE	SCLERARE	PROPN	SP	_	17	flat:name	_	_
+23	#SiempreBrillaras	#SiempreBrillaras	PROPN	SP	_	17	flat:name	_	SpacesAfter=\n
+

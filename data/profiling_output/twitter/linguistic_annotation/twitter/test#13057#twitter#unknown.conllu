@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stavo quasi per usare Aran invece di Nephenee...
+1	Stavo	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	quasi	quasi	ADV	B	_	4	advmod	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	usare	usare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	Aran	Aran	PROPN	SP	_	4	obj	_	_
+6	invece	invece	ADV	B	_	4	advmod	_	_
+7	di	di	ADP	E	_	6	fixed	_	_
+8	Nephenee...	Nephenee...	PROPN	SP	_	1	obj	_	_
+
+# sent_id = 2
+# text = perdonami Ashera perché ho peccato.
+1	perdonami	perdonamare	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	Ashera	Ashera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	perché	perché	SCONJ	CS	_	5	mark	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

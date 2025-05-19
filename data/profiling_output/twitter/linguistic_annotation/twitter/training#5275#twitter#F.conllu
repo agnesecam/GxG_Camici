@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vabbeh qualcuna capita!
+1	Vabbeh	Vabbeh	INTJ	I	_	3	discourse	_	_
+2	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	capita	capitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Xò......
+1	Xò	Xò	ADV	B	_	0	root	_	SpaceAfter=No
+2	......	......	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/2H9Ild7aF
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2H9Ild7aF	fb.me/2H9Ild7aF	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

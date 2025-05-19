@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TwoReaders Quante parole semplicemente per dire che non voglio sembrare patetico.
+1	@TwoReaders	@TwoReaders	PROPN	SP	_	0	root	_	_
+2	Quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	3	det	_	_
+3	parole	parola	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+4	semplicemente	semplicemente	ADV	B	_	3	advmod	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	dire	dire	VERB	V	VerbForm=Inf	3	advcl	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+11	patetico	patetico	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #LaTregua p. 10
+1	#LaTregua	#LaTregua	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	p.	p.	NOUN	S	_	0	root	_	_
+3	10	10	NUM	N	NumType=Card	2	nummod	_	SpacesAfter=\n
+

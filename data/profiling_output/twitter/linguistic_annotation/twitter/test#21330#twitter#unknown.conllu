@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oddio, la giacca di pelle come Step.
+1	Oddio	oddio	INTJ	I	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	giacca	giacca	NOUN	S	Gender=Fem|Number=Sing	1	appos	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	come	come	ADP	E	_	8	case	_	_
+8	Step	Step	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E gliela date pure, ma vergognatevi #uominiedonne
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2-3	gliela	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	date	data	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+5	pure	pure	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	vergognatevi	vergognateve	ADJ	A	Number=Plur	4	conj	_	_
+9	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

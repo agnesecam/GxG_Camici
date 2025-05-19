@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tipo ho della gente in tl che sta parlando di Gianluca e Martina Devo dire davvero ciò che penso di loro due sì
+1	Tipo	tipo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	ho	avere	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gente	gente	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	tl	tl	NOUN	S	Gender=Masc	5	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	parlando	parlare	VERB	V	VerbForm=Ger	7	acl:relcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Gianluca	Gianluca	PROPN	SP	_	10	obl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	Martina	Martina	PROPN	SP	_	12	conj	_	_
+15	Devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+17	davvero	davvero	ADV	B	_	16	advmod	_	_
+18	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	16	obj	_	_
+19	che	che	PRON	PR	PronType=Rel	20	obj	_	_
+20	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	loro	loro	DET	AP	Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	due	due	NUM	N	NumType=Card	20	obl	_	_
+24	sì	sì	ADV	B	_	16	advmod	_	SpacesAfter=\n
+

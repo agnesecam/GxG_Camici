@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come se avessimo avuto bisogno di un altro motivo per rimanere con lo sguardo appiccicato allo schermo dello...
+1	Come	come	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	altro	altro	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	motivo	motivo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	rimanere	rimanere	VERB	V	VerbForm=Inf	9	acl	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	sguardo	sguardo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15	appiccicato	appiccicare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+16-17	allo	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	schermo	schermo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+19	dello...	dello.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/10CEAdjZc
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/10CEAdjZc	fb.me/10CEAdjZc	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

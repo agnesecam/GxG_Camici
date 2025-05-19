@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #portaaporta essí ... Ognuno rispetta i comandamenti che vuole...
+1	#portaaporta	#portaaportare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	essí	essí	PROPN	SP	_	1	obj	_	_
+3	...	...	PUNCT	FF	_	5	punct	_	_
+4	Ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
+5	rispetta	rispettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	comandamenti	comandamento	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+9	vuole...	vuole.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Vespa, fai pena...
+1	Vespa	Vespa	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	pena...	pena...	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

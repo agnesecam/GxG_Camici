@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FrankoRicci56 @pisto_gol oggi le vere occasioni le ha avute la Juve,il Bayern nei 90 min ha fatto 2 tiri,2 gol
+1	@FrankoRicci56	@FrankoRicci56	NUM	N	NumType=Card	2	nummod	_	_
+2	@pisto_gol	@pisto_goal	NOUN	S	Gender=Masc	9	obl	_	_
+3	oggi	oggi	ADV	B	_	2	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	vere	vero	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+6	occasioni	occasione	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+7	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Juve,il	Juve,il	PROPN	SP	_	9	obj	_	_
+12	Bayern	Bayern	PROPN	SP	_	11	flat:name	_	_
+13-14	nei	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	16	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	90	90	NUM	N	NumType=Card	16	nummod	_	_
+16	min	min	NOUN	S	Gender=Masc	9	obl	_	_
+17	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+19	2	2	NUM	N	NumType=Card	21	nummod	_	_
+20	tiri,2	tiri,2	NUM	N	NumType=Card	19	flat	_	_
+21	gol	goal	NOUN	S	Gender=Masc	18	obj	_	SpacesAfter=\n
+

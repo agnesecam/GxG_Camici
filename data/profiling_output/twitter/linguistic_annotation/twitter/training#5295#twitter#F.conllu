@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non pensavo potesse esistere qualcuna più piatta di me..
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	potesse	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	esistere	esistere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+5	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	piatta	piatto	ADJ	A	Gender=Fem|Number=Sing	4	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	me.	me.	NOUN	S	Gender=Masc	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

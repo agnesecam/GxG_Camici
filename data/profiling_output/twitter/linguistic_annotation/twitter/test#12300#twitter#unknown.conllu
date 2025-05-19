@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #io e la carla85b all #ikeabrescia chissà cosa ci facevamo ....
+1	#io	#io	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	6	cc	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	carla85b	carla85b	ADJ	A	_	5	amod	_	_
+5	all	all	NOUN	S	_	6	nsubj	_	_
+6	#ikeabrescia	#ikeabresciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	chissà	chissà	ADV	B	_	6	advmod	_	_
+8	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	10	obj	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	_
+10	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+11	...	...	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #instagram #instaikea … https://www.
+1	#instagram	#instagram	NOUN	S	Gender=Masc	0	root	_	_
+2	#instaikea	#instaikeo	ADJ	A	Number=Sing	1	amod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	https://www	https://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BCf8NjpAAo2/
+1	instagram.com/p/BCf8NjpAAo2/	instagram.com/p/BCf8NjpAAo2/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

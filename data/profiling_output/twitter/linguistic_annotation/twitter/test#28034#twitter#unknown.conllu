@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_Librandi E be' una foto cosa dimostra?
+1	@_Librandi	@_Librandi	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+2	E	e	CCONJ	CC	_	3	cc	_	_
+3-4	be'	_	_	_	_	_	_	_	_
+3	bi	bo	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	foto	foto	NOUN	S	Gender=Fem	8	nsubj	_	_
+7	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	8	nsubj	_	_
+8	dimostra	dimostrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Io voglio i fatti quelli veri, vogliamo che a Roma facciano quello che hanno fatto a Bruxelles?
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	4	nmod	_	_
+6	veri	vero	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	vogliamo	volere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	Roma	Roma	PROPN	SP	_	12	obl	_	_
+12	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+13	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obj	_	_
+14	che	che	PRON	PR	PronType=Rel	16	obj	_	_
+15	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	Bruxelles	Bruxelles	PROPN	SP	_	16	obl	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

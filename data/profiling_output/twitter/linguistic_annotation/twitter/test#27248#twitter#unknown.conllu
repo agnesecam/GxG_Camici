@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FamCarina Caro Fabio ne sono convinto.
+1	@FamCarina	@FamCarina	ADV	B	_	6	advmod	_	_
+2	Caro	Caro	ADJ	A	Gender=Masc	3	amod	_	_
+3	Fabio	Fabio	PROPN	SP	_	6	nsubj	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	convinto	convinto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = E i recenti fatti mi darebbero ahimè ragione.
+1	E	e	CCONJ	CC	_	6	cc	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	recenti	recente	ADJ	A	Number=Plur	4	amod	_	_
+4	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	darebbero	dare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ahimè	ahimè	INTJ	I	_	8	discourse	_	_
+8	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = È l'evidenza che mi fa temere questo.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	evidenza	evidenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	temere	temere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

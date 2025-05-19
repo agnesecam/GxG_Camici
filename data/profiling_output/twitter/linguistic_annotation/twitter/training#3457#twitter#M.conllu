@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mamma di Vito,candidatela a ministro dell'istruzione, infrastrutture abbiamo la garanzia che farà nelle scuole tutto ciò che serve#tagadala7
+1	Mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	Vito	Vito	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,candidatela	,candidatelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	istruzione	istruzione	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	infrastrutture	infrastruttura	CCONJ	CC	_	12	cc	_	_
+12	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	garanzia	garanzia	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	acl:relcl	_	_
+17-18	nelle	_	_	_	_	_	_	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	scuole	scuola	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+20	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
+21	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	16	obj	_	_
+22	che	che	PRON	PR	PronType=Rel	23	obj	_	_
+23	serve#tagadala7	serve#tagadala7	NUM	N	NumType=Card	21	nummod	_	SpacesAfter=\n
+

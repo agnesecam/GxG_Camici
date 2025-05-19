@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un grande applauso ad Elisa e Emma.Spegnere sempre la Oxa, che tattica geniale.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	grande	grande	ADJ	A	Number=Sing	3	amod	_	_
+3	applauso	applauso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	ad	a	ADP	E	_	5	case	_	_
+5	Elisa	Elisa	PROPN	SP	_	3	nmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	Emma.Spegnere	Emma.Spegnere	PROPN	SP	_	5	conj	_	_
+8	sempre	sempre	ADV	B	_	10	advmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Oxa	Oxa	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	tattica	tattica	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+14	geniale	geniale	ADJ	A	Number=Sing	13	xcomp	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Fu così che in finale arrivò solo la squadra bianca.
+1	Fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+2	così	così	ADV	B	_	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	finale	finale	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+6	arrivò	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+7	solo	solo	ADV	B	_	9	advmod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+10	bianca	bianco	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #Amici15
+1	#Amici15	#Amici15	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

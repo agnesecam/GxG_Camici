@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Benji_Mascolo qualcuna ci ha provato vero?
+1	@Benji_Mascolo	@Benji_Mascolo	ADV	B	_	5	advmod	_	_
+2	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	provato	provare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	vero	vero	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

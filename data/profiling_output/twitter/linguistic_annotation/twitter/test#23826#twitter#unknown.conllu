@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @La_Connie_ ahahaha ore di attesa che ti avranno dilaniata.
+1	@La_Connie_	@La_Connie-	PUNCT	FB	_	2	punct	_	_
+2	ahahaha	ahahaavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ore	ora	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	attesa	attesa	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+8	avranno	avere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	dilaniata	dilaniare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Comunque in lingue :)
+1	Comunque	comunque	ADV	B	_	3	advmod	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	lingue	lingue	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

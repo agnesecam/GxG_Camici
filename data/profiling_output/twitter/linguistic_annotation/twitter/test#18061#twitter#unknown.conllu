@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Ballarò la dietrologia tipica #pd della #Bonafè ... IMU agricola l' avevate messa voi!
+1	#Ballarò	#Ballarare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	dietrologia	dietrologia	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	tipica	tipico	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	#pd	#pd	CCONJ	CC	_	8	cc	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	#Bonafè	#Bonafè	PROPN	SP	_	1	conj	_	_
+9	...	...	PUNCT	FF	_	8	punct	_	_
+10	IMU	IMU	PROPN	SP	_	8	flat:name	_	_
+11	agricola	agricolo	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+12	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+13	avevate	avere	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+14	messa	mettere	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+15	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	14	nmod	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vergognati di dire certe cose, schifosa ipocrita!
+1	Vergognati	Vergognato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	schifosa	schifosa	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+8	ipocrita	ipocrita	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

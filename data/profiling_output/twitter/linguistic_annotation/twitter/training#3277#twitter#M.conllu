@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alessia Buggini team Ladispoli vince la gran fondo di " Fara Sabina " partenza ENTI . Grazie ad Alessia per...
+1	Alessia	Alessia	PROPN	SP	_	5	nsubj	_	_
+2	Buggini	Buggini	PROPN	SP	_	1	flat:name	_	_
+3	team	team	X	SW	Foreign=Yes	5	nsubj	_	_
+4	Ladispoli	Ladispoli	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	gran	grande	ADJ	A	_	8	amod	_	_
+8	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	_
+11	Fara	Fara	PROPN	SP	_	8	nmod	_	_
+12	Sabina	Sabino	PROPN	SP	_	11	flat:name	_	_
+13	"	"	PUNCT	FB	_	11	punct	_	_
+14	partenza	partenza	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15	ENTI	ente	ADJ	A	Number=Plur	14	amod	_	_
+16	.	.	PUNCT	FS	_	14	punct	_	_
+17	Grazie	Grazie	NOUN	S	_	19	case	_	_
+18	ad	a	ADP	E	_	17	fixed	_	_
+19	Alessia	Alessia	PROPN	SP	_	14	nmod	_	_
+20	per...	per.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2GZetjwi8
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2GZetjwi8	fb.me/2GZetjwi8	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

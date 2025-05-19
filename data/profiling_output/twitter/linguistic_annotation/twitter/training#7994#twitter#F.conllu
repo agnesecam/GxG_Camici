@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ovviamente tali orari coincidono con le ore di lezioni.
+1	Ovviamente	ovviamente	ADV	B	_	4	advmod	_	_
+2	tali	tale	DET	DD	Number=Plur|PronType=Dem	3	det	_	_
+3	orari	orario	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	coincidono	coincidere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	ore	ora	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	lezioni	lezione	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Dunque invio un'email per chiedere un'informazione.
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	invio	inviare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	email	email	NOUN	S	_	2	obj	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	chiedere	chiedere	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	informazione	informazione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

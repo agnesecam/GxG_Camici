@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #amici15 Lele emoziona, ha la musica dentro .
+1	#amici15	#amici15	NUM	N	NumType=Card	2	nummod	_	_
+2	Lele	Lele	PROPN	SP	_	5	nsubj	_	_
+3	emoziona	emozione	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	musica	musica	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	dentro	dentro	ADV	B	_	7	advmod	_	_
+9	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

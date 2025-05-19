@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Considerazione stupida ma se tenessimo sempre dall'85esimo in poi saremmo sicuro secondi.
+1	Considerazione	considerazione	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+2	stupida	stupido	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	tenessimo	tenessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7-8	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+7	da	da	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	85esimo	85esimo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	poi	poi	ADV	B	_	12	advmod	_	_
+12	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	secondi	secondo	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

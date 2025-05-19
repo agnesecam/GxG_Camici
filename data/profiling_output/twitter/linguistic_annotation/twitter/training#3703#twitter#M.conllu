@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco: beccato Ora che farà Giulia?
+1	Ecco	ecco	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	beccato	beccato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	Ora	ora	ADV	B	_	3	advmod	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
+7	Giulia	Giulia	PROPN	SP	_	6	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #fuocoamicoTF45 pic.twitter.com/WlkuzIJy5l
+1	#fuocoamicoTF45	#fuocoamicoTF45	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/WlkuzIJy5l	pic.twitter.com/WlkuzIJy5l	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Tommasocerno Se non ricordo MALE ci furono moltissime zone d'ombra...
+1	@Tommasocerno	@Tommasocerno	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	MALE	male	PROPN	SP	_	4	obj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+7	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+8	moltissime	molto	ADJ	A	Degree=Abs|Gender=Fem|Number=Plur	9	amod	_	_
+9	zone	zona	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+10	d'	di	ADP	E	_	11	case	_	SpaceAfter=No
+11	ombra...	ombra...	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+
+# sent_id = 2
+# text = È lui dovrebbe essere il maglio per la capitale ??
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+2	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+3	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	6	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	maglio	maglio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	capitale	capitale	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Mah...
+1	Mah...	Mah.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

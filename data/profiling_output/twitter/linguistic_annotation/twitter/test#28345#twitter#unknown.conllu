@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se il tempo fosse denaro, saremmo poveri lo stesso #industrial #govegan #panesalame #birrella … https://www.
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	denaro	denaro	NOUN	S	Gender=Masc|Number=Sing	8	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	poveri	povero	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	#industrial	#industrial	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+12	#govegan	#govegan	ADJ	A	Number=Sing	11	amod	_	_
+13	#panesalame	#panesalame	ADP	E	_	14	case	_	_
+14	#birrella	#birrella	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15	…	…	PUNCT	FF	_	14	punct	_	_
+16	https://www	https://www	NOUN	S	_	14	compound	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDMUpxJtyGK/
+1	instagram.com/p/BDMUpxJtyGK/	instagram.com/p/BDMUpxJtyGK/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

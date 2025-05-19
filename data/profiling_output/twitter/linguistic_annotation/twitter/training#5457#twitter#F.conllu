@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SonoDentro qualcuna si...ma non solo su me, pure la casa...o al lavoro...gli oggetti.
+1	@SonoDentro	@SonoDentro	ADP	E	_	3	case	_	_
+2	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	si...ma	si...ma	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	solo	solo	ADV	B	_	7	advmod	_	_
+6	su	su	ADP	E	_	7	case	_	_
+7	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	pure	pure	ADV	B	_	11	advmod	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	casa...o	casa...o	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	15	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	lavoro...gli	lavoro...glio	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+15	oggetti	oggetto	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

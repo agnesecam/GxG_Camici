@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fedefederossi Ciao fede sono di roma e mi chiedevo quanto rimanevate qua e se vi facevate un altro giro per la città ti adoro
+1	@fedefederossi	@fedefederuovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	24	advcl	_	_
+2	Ciao	ciao	PROPN	SP	_	1	nsubj:pass	_	_
+3	fede	fede	NOUN	S	Gender=Fem|Number=Sing	2	flat:name	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	roma	roma	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	chiedevo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	conj	_	_
+10	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	9	obj	_	_
+11	rimanevate	rimanevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+12	qua	qua	ADV	B	_	11	advmod	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	se	se	SCONJ	CS	_	16	mark	_	_
+15	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	16	iobj	_	_
+16	facevate	facevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	altro	altro	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+19	giro	giro	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	città	città	NOUN	S	Gender=Fem	19	nmod	_	_
+23	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	24	expl	_	_
+24	adoro	adorare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

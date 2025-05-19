@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un pensiero per chi, come me, domani si dovrà alzare presto e dormirà un ora di meno ma stasera si ubriacherà lo stesso!
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	come	come	ADP	E	_	7	case	_	_
+7	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	domani	domani	ADV	B	_	12	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	alzare	alzare	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+13	presto	presto	ADV	B	_	12	advmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	dormirà	dormire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	conj	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	ora	ora	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	meno	meno	ADV	B	_	17	advmod	_	_
+20	ma	ma	CCONJ	CC	_	23	cc	_	_
+21	stasera	stasera	ADV	B	_	23	advmod	_	_
+22	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	23	expl	_	_
+23	ubriacherà	ubriacare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	conj	_	_
+24	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	23	obj	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #oralegale
+1	#oralegale	#oralegale	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n
+

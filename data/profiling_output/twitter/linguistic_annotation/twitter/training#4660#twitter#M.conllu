@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Certo se vince referendum governo dovra darsi una mossa allineandosi ai paesi che hanno capito che COP21 cosa seria https:// twitter.com/GioGalgano/sta tus/713993657402134529 …
+1	Certo	certo	ADV	B	_	3	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	referendum	referendum	NOUN	S	Gender=Masc	3	obj	_	_
+5	governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	_
+6	dovra	dovro	ADP	E	_	7	mark	_	_
+7-8	darsi	_	_	_	_	_	_	_	_
+7	dar	dare	VERB	V	VerbForm=Inf	3	advcl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mossa	mossa	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+11-12	allineandosi	_	_	_	_	_	_	_	_
+11	allineando	allineare	VERB	V	VerbForm=Ger	7	advcl	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13-14	ai	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+16	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+17	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
+19	che	che	SCONJ	CS	_	20	case	_	_
+20	COP21	COP2l	PROPN	SP	_	18	obl	_	_
+21	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	_
+22	seria	serio	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	_
+23	https:	https:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	21	punct	_	_
+26	twitter.com/GioGalgano/sta	twitter.com/GioGalgano/sta	PROPN	SP	_	21	nmod	_	_
+27	tus/713993657402134529	tus/713993657402134529	NUM	N	NumType=Card	26	nummod	_	_
+28	…	…	PUNCT	FF	_	20	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vorrei iniziare shadowhunters ma i libri mi facevano cagare e il film mi ha fatto diarreare forte.
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	iniziare	iniziare	VERB	V	VerbForm=Inf	0	root	_	_
+3	shadowhunters	shadowhunter	NOUN	S	Gender=Masc	15	obj	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	libri	libro	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+9	cagare	cagare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	e	e	CCONJ	CC	_	15	cc	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	film	film	NOUN	S	Gender=Masc	15	nsubj	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	obj	_	_
+14	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+16	diarreare	diarreare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+17	forte	forte	ADJ	A	Number=Sing	16	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Non sono sicura di volerlo fare
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	sicura	sicurare	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	7	mark	_	_
+5-6	volerlo	_	_	_	_	_	_	_	_
+5	voler	volere	AUX	VM	VerbForm=Inf	7	aux	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	3	advcl	_	SpacesAfter=\n
+

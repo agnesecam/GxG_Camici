@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Benji_Mascolo @fedefederossi @BenjieFede farete un video dove aprite i regali dell'instore di Modena?
+1	@Benji_Mascolo	@Benji_Mascolo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	@BenjieFede	@BenjieFede	PROPN	SP	_	4	nsubj	_	_
+4	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	video	video	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	dove	dove	ADV	B	_	8	advmod	_	_
+8	aprite	aprire	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	regali	regalo	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11-12	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+11	di	di	ADP	E	_	13	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	instore	instore	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Modena	Modena	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

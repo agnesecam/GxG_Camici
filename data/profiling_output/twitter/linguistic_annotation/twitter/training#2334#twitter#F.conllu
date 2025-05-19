@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trova dentro di te ciò che ti serve!
+1	Trova	trovare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dentro	dentro	ADV	B	_	1	advmod	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
+5	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	iobj	_	_
+8	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4KEyacLMM
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4KEyacLMM	fb.me/4KEyacLMM	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

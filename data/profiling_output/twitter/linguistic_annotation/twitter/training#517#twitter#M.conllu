@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lucfaz01 hai detto bene prima, assuefatti.
+1	@lucfaz01	@lucfaz01	NUM	N	NumType=Card	3	nummod	_	_
+2	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	bene	bene	ADV	B	_	3	advmod	_	_
+5	prima	prima	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	assuefatti	assuefatto	ADV	B	_	3	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se però là avessimo perso qualcuno a noi caro, scommetto che saremmo più arrabbiati e "svegli".
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	però	però	ADV	B	_	5	advmod	_	_
+3	là	là	ADV	B	_	5	advmod	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	obl	_	_
+9	caro	caro	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	scommetto	scommettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+12	che	che	SCONJ	CS	_	15	mark	_	_
+13	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	arrabbiati	arrabbiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	advcl	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+18	svegli	svegliere	NOUN	S	Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

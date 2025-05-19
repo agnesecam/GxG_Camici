@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_eleonorastyles almeno sarebbe bello se li facessero vincere dei contratti di lavoro nelle varie compagnie,meritano tutti quest'anno.
+1	@_eleonorastyles	@_eleonorastyle	ADP	E	_	4	mark	_	_
+2	almeno	almeno	ADV	B	_	4	advmod	_	_
+3	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	bello	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+7	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
+8	vincere	vincere	VERB	V	VerbForm=Inf	7	xcomp	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	contratti	contratto	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14-15	nelle	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	varie	vario	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+17	compagnie,meritano	compagnie,meritare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
+18	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	17	nsubj	_	_
+19	quest'	questo	DET	DD	Number=Sing|PronType=Dem	20	det	_	SpaceAfter=No
+20	anno	anno	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

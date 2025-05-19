@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Facebook nasconde una cartella spam, dentro potreste avere messaggi importanti http:// fb.me/7OY3iMCT1
+1	Facebook	Facebook	PROPN	SP	_	2	nsubj	_	_
+2	nasconde	nascondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cartella	cartella	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	spam	spam	NOUN	S	Gender=Masc	4	compound	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	dentro	dentro	ADV	B	_	8	advmod	_	_
+8	potreste	potresta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	avere	avere	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	messaggi	messaggio	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+11	importanti	importante	ADJ	A	Number=Plur	10	amod	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	fb.me/7OY3iMCT1	fb.me/7OY3iMCT1	PROPN	SP	_	2	conj	_	SpacesAfter=\n
+

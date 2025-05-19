@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = KABOBO CONDANNATO A 20 ANNI PER 3 OMICIDI (7 ANNI CIASCUNO ) GRANDE SUCCESSO PER LA POLITICA ROSSA DI ACCOGLIENZA,TOLLERANZA,INTEGRAZIONE
+1	KABOBO	KABOBO	PROPN	SP	_	0	root	_	_
+2	CONDANNATO	condannare	PROPN	SP	_	1	flat:name	_	_
+3	A	a	PROPN	SP	_	1	flat:name	_	_
+4	20	20	NUM	N	NumType=Card	5	nummod	_	_
+5	ANNI	Anni	PROPN	SP	_	1	nmod	_	_
+6	PER	per	PROPN	SP	_	1	nmod	_	_
+7	3	3	NUM	N	NumType=Card	6	flat:name	_	_
+8	OMICIDI	omicidio	NOUN	S	Gender=Masc|Number=Plur	6	flat:name	_	_
+9	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	7	7	NUM	N	NumType=Card	11	nummod	_	_
+11	ANNI	Anni	PROPN	SP	_	6	nmod	_	_
+12	CIASCUNO	ciascuno	PROPN	SP	_	11	flat:name	_	_
+13	)	)	PUNCT	FB	_	11	punct	_	_
+14	GRANDE	grande	PROPN	SP	_	6	flat:name	_	_
+15	SUCCESSO	successo	PROPN	SP	_	6	flat:name	_	_
+16	PER	per	PROPN	SP	_	6	flat:name	_	_
+17	LA	La	PROPN	SP	_	6	flat:name	_	_
+18	POLITICA	politica	PROPN	SP	_	6	flat:name	_	_
+19	ROSSA	Rossa	PROPN	SP	_	6	flat:name	_	_
+20	DI	Di	ADP	E	_	21	case	_	_
+21	ACCOGLIENZA	accoglienza	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+23	TOLLERANZA	tolleranza	PROPN	SP	_	1	conj	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+25	INTEGRAZIONE	integrazione	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

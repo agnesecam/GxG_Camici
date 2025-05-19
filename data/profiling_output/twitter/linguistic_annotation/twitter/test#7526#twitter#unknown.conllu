@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domani ben 4 atleti livornesi saranno in lizza per il Premio Pegaso della Regione Toscana.
+1	Domani	Domani	ADV	B	_	8	advmod	_	_
+2	ben	bene	ADV	B	_	4	advmod	_	_
+3	4	4	NUM	N	NumType=Card	4	nummod	_	_
+4	atleti	atleta	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+5	livornesi	livornese	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6	saranno	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	8	cop	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	lizza	lizza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Premio	Premio	PROPN	SP	_	8	obl	_	_
+12	Pegaso	Pegaso	PROPN	SP	_	11	flat:name	_	_
+13-14	della	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Regione	Regione	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+16	Toscana	Toscana	PROPN	SP	_	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Tra essi due damisti:...
+1	Tra	tra	ADP	E	_	2	case	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
+3	due	due	NUM	N	NumType=Card	4	nummod	_	_
+4	damisti:...	damisti:...	NOUN	S	_	0	root	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7RBBPbvP9
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7RBBPbvP9	fb.me/7RBBPbvP9	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grazie Dzemaili.
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	Dzemaili	Dzemaile	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma non possiamo solo fare affidamento sulle sconfitte del Sassuolo e dobbiamo camminare con le nostre gambe #Milan
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	solo	solo	ADV	B	_	5	advmod	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+6	affidamento	affidamento	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7-8	sulle	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	sconfitte	sconfitta	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Sassuolo	Sassuolo	PROPN	SP	_	9	nmod	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	camminare	camminare	VERB	V	VerbForm=Inf	5	conj	_	_
+16	con	con	ADP	E	_	19	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	gambe	gamba	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	_
+20	#Milan	#Milan	PROPN	SP	_	15	obj	_	SpacesAfter=\n
+

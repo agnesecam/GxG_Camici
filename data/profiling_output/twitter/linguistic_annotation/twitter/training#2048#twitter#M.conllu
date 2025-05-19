@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Allarme dallo spazio:
+1	Allarme	allarme	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	dallo	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = misterioso pianeta minaccia la Terra?
+1	misterioso	misterioso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	pianeta	pianeta	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	minaccia	minacciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Terra	Terra	PROPN	SP	_	3	obj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = adnkronos.com/fatti/cronaca/ 2016/03/31/allarme-dallo-spazio-misterioso-pianeta-minaccia-terra_h7gSR86TNxaMuxzcKfq1ZP.html …
+1	adnkronos.com/fatti/cronaca/	adnkronos.com/fatti/cronaca/	PUNCT	FF	_	6	punct	_	_
+2	2016/	2016/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	03/	03/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	31	31	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	allarme-dallo	allarme-dallo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	spazio-misterioso	spazio-misterioso	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	pianeta-minaccia-terra_h7gSR86TNxaMuxzcKfq1ZP.html	pianeta-minaccia-terra_h7gSR86TNxaMuxzcKfq1ZP.html	PROPN	SP	_	6	nmod	_	_
+11	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gianpaolag18 Giordano e Liguori si sono imbavagliati contro l'arbitraggio di Rizzoli.
+1	@gianpaolag18	@gianpaolag18	NUM	N	NumType=Card	2	nummod	_	_
+2	Giordano	giordano	PROPN	SP	_	7	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	Liguori	Liguori	PROPN	SP	_	2	conj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+6	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	imbavagliati	imbavagliare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+8	contro	contro	ADP	E	_	10	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	arbitraggio	arbitraggio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Rizzoli.	Rizzoli.	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..Benissimo speriamo lo facciano per lungo tempo
+1	..Benissimo	..Benissimo	ADV	B	Degree=Abs	2	advmod	_	_
+2	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	4	obl	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\n
+

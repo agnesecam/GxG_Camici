@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fummo lavati e sepolti odoravamo di incenso E, dopo, quando amavamo, ci facevano gli elettrochoc #LaTerraSanta #AldaMerini
+1	Fummo	fummo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	lavati	lavare	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	sepolti	sepolto	ADJ	A	Gender=Masc|Number=Plur	2	conj	_	_
+5	odoravamo	odorare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	incenso	incenso	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+8	E	e	CCONJ	CC	_	7	cc	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	dopo	dopo	ADV	B	_	16	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	quando	quando	SCONJ	CS	_	13	mark	_	_
+13	amavamo	amare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	iobj	_	_
+16	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	elettrochoc	elettrochoc	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+19	#LaTerraSanta	#LaTerraSanta	PROPN	SP	_	18	nmod	_	_
+20	#AldaMerini	#AldaMerini	PROPN	SP	_	19	flat:name	_	SpacesAfter=\n
+

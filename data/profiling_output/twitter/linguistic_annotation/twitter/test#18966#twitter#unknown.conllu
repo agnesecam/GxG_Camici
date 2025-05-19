@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francasozzani ciascuno deve sentirsi libero di vivere il e con il sul abbigliamento preferito.
+1	@francasozzani	@francasozzano	ADV	B	_	4	advmod	_	_
+2	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+3	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4-5	sentirsi	_	_	_	_	_	_	_	_
+4	sentir	sentire	VERB	V	VerbForm=Inf	0	root	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+6	libero	libero	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	vivere	vivere	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	e	e	CCONJ	CC	_	15	cc	_	_
+11	con	con	ADP	E	_	15	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+13-14	sul	_	_	_	_	_	_	_	_
+13	su	su	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	abbigliamento	abbigliamento	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+16	preferito	preferito	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Fedez e noi aspettiamo.
+1	@Fedez	@Fedez	PROPN	SP	_	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	aspettiamo.	aspettiamo.	NOUN	S	_	1	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma quest'estate la farai qualche capatina ai concerti di mika a cantare beautiful disaster?
+1	..ma	..mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+2	quest'	questo	DET	DD	Number=Sing|PronType=Dem	3	det	_	SpaceAfter=No
+3	estate	estate	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	7	det	_	_
+7	capatina	capatina	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8-9	ai	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	mika	mika	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	cantare	cantare	VERB	V	VerbForm=Inf	7	acl	_	_
+15	beautiful	beautiful	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	disaster	disaster	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

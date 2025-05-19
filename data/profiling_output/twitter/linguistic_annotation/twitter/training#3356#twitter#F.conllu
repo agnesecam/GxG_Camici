@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxBernardini con un risultato ibrido che, non vi farà comunque comprendere dai più, ma a lungo andare vi farà perdere gli aficionados
+1	@MaxBernardini	@MaxBernardine	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	ibrido	ibrido	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	che	che	PRON	PR	PronType=Rel	10	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
+10	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	acl:relcl	_	_
+11	comunque	comunque	ADV	B	_	10	advmod	_	_
+12	comprendere	comprendere	VERB	V	VerbForm=Inf	10	ccomp	_	_
+13-14	dai	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	più	più	ADV	B	_	12	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	20	punct	_	_
+17	ma	ma	CCONJ	CC	_	20	cc	_	_
+18	a	a	ADP	E	_	19	case	_	_
+19	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	20	obl	_	_
+20	andare	andare	VERB	V	VerbForm=Inf	12	conj	_	_
+21	vi	vi	ADV	B	_	20	advmod	_	_
+22	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	ccomp	_	_
+23	perdere	perdere	VERB	V	VerbForm=Inf	22	ccomp	_	_
+24	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	aficionados	aficionados	NOUN	S	Gender=Masc	23	obj	_	SpacesAfter=\n
+

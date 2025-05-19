@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @insopportabile buonanotte che domattina ci si alza un'ora prima.
+1	@insopportabile	@insopportabile	NOUN	S	Gender=Fem|Number=Plur	7	nsubj:pass	_	_
+2	buonanotte	buonanotta	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	domattina	domattinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:pass	_	_
+7	alza	alzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	ora	ora	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+10	prima	prima	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Essì è così finché non mi abituo all'ora legale!
+1	Essì	Essì	CCONJ	CC	_	7	cc	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+3	così	così	ADV	B	_	7	advmod	_	_
+4	finché	finché	SCONJ	CS	_	7	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+7	abituo	abituo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8-9	all'	_	_	_	_	_	_	_	SpaceAfter=No
+8	a	a	ADP	E	_	10	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	ora	ora	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11	legale	legale	ADJ	A	Number=Sing	10	amod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

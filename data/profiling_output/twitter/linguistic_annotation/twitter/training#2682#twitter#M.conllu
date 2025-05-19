@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come scegliere colori, materiali e mobili per far sembrare più grande un piccolo appartamento http:// fb.me/10WyMiTmU
+1	Come	come	ADP	E	_	2	mark	_	_
+2	scegliere	scegliere	VERB	V	VerbForm=Inf	0	root	_	_
+3	colori	colore	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	materiali	materiale	ADJ	A	Number=Plur	3	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	mobili	mobile	ADJ	A	Number=Plur	3	conj	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	far	fare	VERB	V	VerbForm=Inf	2	advcl	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	grande	grande	ADJ	A	Number=Sing	10	xcomp	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+15	appartamento	appartamento	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/10WyMiTmU	fb.me/10WyMiTmU	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

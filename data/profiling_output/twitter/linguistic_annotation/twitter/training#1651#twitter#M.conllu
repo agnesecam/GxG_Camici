@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buonasera.
+1	Buonasera	Buonasera	ADV	B	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Le nostre previsioni meteo per domani.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	previsioni	previsione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	meteo	meteo	NOUN	S	Gender=Masc|Number=Sing	3	compound	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	domani	domani	NOUN	S	Gender=Masc	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Tempo variabile al mattino con rapido peggioramento delle... http:// fb.me/2cejdIbkx
+1	Tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+2	variabile	variabile	ADJ	A	Number=Sing	1	amod	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mattino	mattino	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	rapido	rapido	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	peggioramento	peggioramento	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	delle...	delle.	NOUN	S	_	8	conj	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	fb.me/2cejdIbkx	fb.me/2cejdIbkx	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

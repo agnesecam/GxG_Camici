@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi matteone che ci facevi questa mattina dentro la mia tazza del cesso?
+1	@matteosalvinimi	@matteosalvinimo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	matteone	matteone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	iobj	_	_
+5	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+8	dentro	dentro	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	tazza	tazza	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	cesso	cesso	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

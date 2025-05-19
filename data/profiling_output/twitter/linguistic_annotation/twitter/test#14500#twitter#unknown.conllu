@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amami come la terra, la pioggia d'estate...
+1	Amami	Amamare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	terra	terra	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pioggia	pioggia	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+8	d'	di	ADP	E	_	9	case	_	SpaceAfter=No
+9	estate..	estate..	NOUN	S	_	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = amami come se fossi la luce di un faro nel mare....
+1	amami	amamare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADV	B	_	6	mark	_	_
+3	se	se	SCONJ	CS	_	2	fixed	_	_
+4	fossi	fuovere	AUX	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	luce	luce	NOUN	S	Gender=Fem|Number=Sing	1	advcl	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	faro	faro	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mare...	mare...	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

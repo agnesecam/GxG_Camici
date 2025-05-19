@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (se volete sedurre qualcuna che si chiama Anna, non ringraziatemi)
+1	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sedurre	sedurre	VERB	V	VerbForm=Inf	12	advcl	_	_
+5	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	che	che	PRON	PR	PronType=Rel	4	obj	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	Anna	Anna	PROPN	SP	_	8	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12-13	ringraziatemi	_	_	_	_	_	_	_	SpaceAfter=No
+12	ringraziate	ringraziare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+14	)	)	PUNCT	FB	_	12	punct	_	SpacesAfter=\n
+

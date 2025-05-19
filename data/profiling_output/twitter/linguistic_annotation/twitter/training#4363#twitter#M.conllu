@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @JohnnyCreek il titolo del tuo prossimo video dovrà essere "In una maniera incredibile" ahahah
+1	@JohnnyCreek	@JohnnyCreek	PROPN	SP	_	14	nmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	8	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+6	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+7	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	video	video	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+10	essere	essere	AUX	V	VerbForm=Inf	14	cop	_	_
+11	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+12	In	in	ADP	E	_	14	case	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+15	incredibile	incredibile	ADJ	A	Number=Sing	14	amod	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	14	punct	_	_
+17	ahahah	ahahah	INTJ	I	_	14	punct	_	SpacesAfter=\n
+

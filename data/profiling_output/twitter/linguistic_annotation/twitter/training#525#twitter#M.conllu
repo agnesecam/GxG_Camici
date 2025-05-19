@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vivoazzurro Se avessimo un Presidente vero e una Federazione degna del suo ruolo, #Conte sarebbe stato già cacciato a calci nel culo!
+1	@vivoazzurro	@vivoazzurrere	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	vero	vero	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Federazione	federazione	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+10	degna	degno	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	14	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	ruolo	ruolo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	20	punct	_	_
+16	#Conte	#Conte	PROPN	SP	_	20	nsubj:pass	_	_
+17	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+18	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	aux:pass	_	_
+19	già	già	ADV	B	_	20	advmod	_	_
+20	cacciato	cacciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	calci	calce	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
+23-24	nel	_	_	_	_	_	_	_	_
+23	in	in	ADP	E	_	25	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	culo	culo	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

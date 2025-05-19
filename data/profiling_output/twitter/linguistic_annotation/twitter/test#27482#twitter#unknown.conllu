@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @claudiovelardi Sono con lei, per quello che possa contare la mia opinione.Se lo facessero in molti, forse, l'informazione sarebbe più seria
+1	@claudiovelardi	@claudiovelardo	ADV	B	_	2	advmod	_	_
+2	Sono	essere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	contare	contare	VERB	V	VerbForm=Inf	7	acl:relcl	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	opinione.Se	opinione.se	PROPN	SP	_	15	nsubj	_	_
+14	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	15	punct	_	_
+19	forse	forse	ADV	B	_	15	advmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	15	punct	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
+22	informazione	informazione	NOUN	S	Gender=Fem|Number=Sing	25	nsubj	_	_
+23	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+24	più	più	ADV	B	_	25	advmod	_	_
+25	seria	serio	ADJ	A	Gender=Fem|Number=Sing	15	advcl	_	SpacesAfter=\n
+

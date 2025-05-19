@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @migrainejosh bellissima idea su Hawking!
+1	@migrainejosh	@migrainejosh	ADV	B	_	3	advmod	_	_
+2	bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	3	amod	_	_
+3	idea	idea	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	Hawking	Hawking	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = se facessi lo scientifico lo porterei assolutamente, ma faccio il linguistico e forse avrei
+1	se	se	SCONJ	CS	_	6	mark	_	_
+2	facessi	facettere	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+3	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+4	scientifico	scientifico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	porterei	portare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+7	assolutamente	assoluto	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	ma	ma	CCONJ	CC	_	10	cc	_	_
+10	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	linguistico	linguistico	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	forse	forse	ADV	B	_	10	advmod	_	_
+15	avrei	avre	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (...) faremo sempre una gran fatica coi sentimenti.
+1	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	...	...	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	_
+4	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	sempre	sempre	ADV	B	_	8	advmod	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	gran	grande	ADJ	A	Number=Sing	8	amod	_	_
+8	fatica	fatica	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+9-10	coi	_	_	_	_	_	_	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	sentimenti	sentimento	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Innamorarsi è niente, è restare insieme che è difficile #Céline #booklovers #goodnight
+1-2	Innamorarsi	_	_	_	_	_	_	_	_
+1	Innamorar	Innamorar	PROPN	SP	_	4	nsubj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	restare	restare	VERB	V	VerbForm=Inf	4	conj	_	_
+8	insieme	insieme	ADV	B	_	11	mark	_	_
+9	che	che	SCONJ	CS	_	8	fixed	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	difficile	difficile	ADJ	A	Number=Sing	7	advcl	_	_
+12	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	Céline	Céline	PROPN	SP	_	11	nsubj	_	_
+14	#booklovers	#booklover	PROPN	SW	Foreign=Yes	13	flat:name	_	_
+15	#goodnight	#goodnight	SYM	X	_	13	flat:name	_	SpacesAfter=\n
+

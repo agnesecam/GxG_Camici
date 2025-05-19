@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perché Alibaba mette 154 milioni per farsi una scuola di eCommerce ( coi giovani comunisti) https:// lnkd.in/ekGGutr
+1	Perché	perché	SCONJ	CS	_	3	mark	_	_
+2	Alibaba	Alibaba	PROPN	SP	_	3	nsubj	_	_
+3	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	154	154	NUM	N	NumType=Card	5	nummod	_	_
+5	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7-8	farsi	_	_	_	_	_	_	_	_
+7	far	fare	VERB	V	VerbForm=Inf	3	advcl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	eCommerce	eCommerce	PROPN	SP	_	10	nmod	_	_
+13	(	(	PUNCT	FB	_	16	punct	_	_
+14-15	coi	_	_	_	_	_	_	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	giovani	giovane	NOUN	S	Number=Plur	10	nmod	_	_
+17	comunisti	comunista	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	16	punct	_	_
+19	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	16	punct	_	_
+22	lnkd.in/ekGGutr	lnkd.in/ekGGutr	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

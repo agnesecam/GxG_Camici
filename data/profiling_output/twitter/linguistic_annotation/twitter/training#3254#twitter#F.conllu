@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un cUCCIOLO DI GATTO VOGLIO MORIRe.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cUCCIOLO	cucciolo	PROPN	SP	_	0	root	_	_
+3	DI	di	ADP	E	_	4	case	_	_
+4	GATTO	gatto	PROPN	SP	_	2	nmod	_	_
+5	VOGLIO	Voglio	PROPN	SP	_	4	flat:name	_	_
+6	MORIRe	morire	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Da notare che vuole sembrare "duro" nella prima foto, quando in realtà sprizza - https:// twitter.com/maliksdear/sta tus/712547413035192320 …
+1	Da	da	ADP	E	_	2	mark	_	_
+2	notare	notare	VERB	V	VerbForm=Inf	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	duro	duro	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9-10	nella	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
+12	foto	foto	NOUN	S	Gender=Fem	5	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	5	punct	_	_
+14	quando	quando	SCONJ	CS	_	22	mark	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	_
+17	sprizza	sprizzo	ADP	E	_	22	case	_	_
+18	-	-	PUNCT	FF	_	19	punct	_	_
+19	https:	https:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	_
+22	twitter.com/maliksdear/sta	twitter.com/maliksdear/stare	NOUN	S	Gender=Fem|Number=Sing	5	advcl	_	_
+23	tus/712547413035192320	tus/712547413035192320	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	22	punct	_	SpacesAfter=\n
+

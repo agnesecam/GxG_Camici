@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La ministra Guidi si è dimessa prima ancora che i renziani avessero tempo di pensare alle loro supercazzole.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	ministra	ministra	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	Guidi	Guido	PROPN	SP	_	2	nmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	dimessa	dimettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	prima	prima	ADV	B	_	13	mark	_	_
+8	ancora	ancora	ADV	B	_	7	fixed	_	_
+9	che	che	SCONJ	CS	_	7	fixed	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	renziani	renziano	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+12	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	6	advcl	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15	pensare	pensare	VERB	V	VerbForm=Inf	13	acl	_	_
+16-17	alle	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	loro	loro	DET	AP	Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	supercazzole	supercazzola	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Ogni... http:// fb.me/7Ju878X2m
+1	Ogni...	Ogni.	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/7Ju878X2m	fb.me/7Ju878X2m	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

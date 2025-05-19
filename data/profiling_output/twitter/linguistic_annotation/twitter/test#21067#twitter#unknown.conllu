@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domanda importantissima:
+1	Domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	importantissima	importante	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ma quindi ai maschi gliela dobbiamo dare o no alla prima sera?
+1	ma	ma	CCONJ	CC	_	9	cc	_	_
+2	quindi	quindi	ADV	B	_	9	advmod	_	_
+3-4	ai	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	maschi	maschio	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+6-7	gliela	_	_	_	_	_	_	_	_
+6	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+7	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	dare	dare	VERB	V	VerbForm=Inf	0	root	_	_
+10	o	o	CCONJ	CC	_	11	cc	_	_
+11	no	no	ADV	BN	PronType=Neg	9	conj	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	15	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	15	amod	_	_
+15	sera	sera	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

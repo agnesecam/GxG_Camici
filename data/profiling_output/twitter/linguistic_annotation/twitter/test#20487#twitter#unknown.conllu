@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ode alle cose leggere rimaste incatenate.
+1	ode	odere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	alle	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+5	leggere	leggere	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6	rimaste	rimanere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+7	incatenate	incatenato	ADJ	A	Gender=Fem|Number=Plur	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = alle piccole cose nascoste nelle pieghe.
+1-2	alle	_	_	_	_	_	_	_	_
+1	a	a	ADP	E	_	4	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	piccole	piccolo	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	nascoste	nascosto	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
+6-7	nelle	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	pieghe	piega	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = alle luci che non ti aspetti.
+1-2	alle	_	_	_	_	_	_	_	_
+1	a	a	ADP	E	_	3	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	luci	luce	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+7	aspetti	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = a chi dovunque avanza.
+1	a	a	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PQ	PronType=Int	0	root	_	_
+3	dovunque	dovunque	PRON	PR	Number=Sing|PronType=Rel	4	nsubj	_	_
+4	avanza	avanza	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NaliOfficial Dove tutto ebbe inizio!
+1	@NaliOfficial	@NaliOfficial	SCONJ	CS	_	4	mark	_	_
+2	Dove	dove	ADV	B	_	4	advmod	_	_
+3	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+4	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !@AmiciUfficiale #domani
+1	!@AmiciUfficiale	!@AmiciUfficiale	ADV	B	_	2	advmod	_	_
+2	#domani	#domani	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

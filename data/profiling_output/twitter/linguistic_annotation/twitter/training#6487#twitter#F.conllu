@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Cercavo di non pensarci più.
+1	“	“	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Cercavo	Cercavo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5-6	pensarci	_	_	_	_	_	_	_	_
+5	pensar	pensare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+7	più	più	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ahimè, non c’è compito più difficile.
+1	Ahimè	ahimè	INTJ	I	_	6	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	c’	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	compito	compito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	più	più	ADV	B	_	8	advmod	_	_
+8	difficile	difficile	ADJ	A	Number=Sing	6	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Se fossimo capaci di smettere di...” https:// tmblr.co/ZQnSlj239VLys
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	capaci	capace	ADJ	A	Number=Plur	11	advcl	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	smettere	smettere	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	di...	di.	NOUN	S	_	5	obl	_	SpaceAfter=No
+7	”	”	PUNCT	FB	_	6	punct	_	_
+8	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	_
+11	tmblr.co/ZQnSlj239VLys	tmblr.co/ZQnSlj239VLys	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

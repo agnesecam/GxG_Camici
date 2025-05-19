@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avevate dubbi sulla parte dalla quale stava Assange, eccolo a frignare sui rifugiati.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avevate	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4-5	sulla	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	quale	quale	PRON	PR	Number=Sing|PronType=Rel	11	obl	_	_
+10	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	Assange	Assange	VERB	V	VerbForm=Inf	6	acl:relcl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	2	punct	_	_
+13-14	eccolo	_	_	_	_	_	_	_	_
+13	ecco	ecco	ADV	B	_	14	advmod	_	_
+14	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	frignare	frignare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+17-18	sui	_	_	_	_	_	_	_	_
+17	su	su	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	rifugiati	rifugiato	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = https:// youtu.be/XoMJIXhfy64
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	youtu.be/XoMJIXhfy64	youtu.be/XoMJIXhfy64	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

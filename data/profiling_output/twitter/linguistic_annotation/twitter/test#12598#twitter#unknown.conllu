@@ -1,0 +1,56 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chi aiutate ?!
+1	Chi	chi	PRON	PQ	PronType=Int	2	obj	_	_
+2	aiutate	aiutare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = I 5 94?!
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	5	5	NUM	N	NumType=Card	0	root	_	_
+3	94	94	NUM	N	NumType=Card	2	flat	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Melo spiegate?!
+1	Melo	melo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	spiegate	spiegato	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Perché e' e" chiaro e la " bimba in questione"?
+1	Perché	perché	ADV	B	_	0	root	_	_
+2	e	e	CCONJ	CC	_	6	cc	_	SpaceAfter=No
+3	'	'	PUNCT	FB	_	6	punct	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	"	"	PUNCT	FB	_	10	punct	_	_
+10	bimba	bimbo	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	questione	questione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 5
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 6
+# text = Io se solo i giudici avessero fatto le
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2	se	se	SCONJ	CS	_	7	mark	_	_
+3	solo	solo	ADV	B	_	7	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	giudici	giudice	NOUN	S	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
+6	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+8	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	0	root	_	SpacesAfter=\n
+

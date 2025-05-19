@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MustErminea Credo che se ci conoscessimo saremmo dei buoni ottimi amici
+1	@MustErminea	@MustErminea	PROPN	SP	_	2	nsubj	_	_
+2	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	conoscessimo	conoscessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	saremmo	essere	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	12	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+10	buoni	buono	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+11	ottimi	ottimo	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+12	amici	amico	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpacesAfter=\n
+

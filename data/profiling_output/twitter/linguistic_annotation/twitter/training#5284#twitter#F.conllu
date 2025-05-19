@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alecattelan REALTROLL.
+1	@alecattelan	@alecattelan	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	REALTROLL	REALTROLL	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ammettilo, lo mandi subito via perché hai paura che qualcuna ti rubi @GiSada1 ?
+1	Ammettilo	Ammettilo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mandi	mando	NOUN	S	Gender=Masc|Number=Plur	1	appos	_	_
+5	subito	subire	ADV	B	_	8	advmod	_	_
+6	via	via	ADV	B	_	5	fixed	_	_
+7	perché	perché	SCONJ	CS	_	8	mark	_	_
+8	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	paura	paura	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+10	che	che	SCONJ	CS	_	12	mark	_	_
+11	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
+12	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	ccomp	_	_
+13	rubi	rubo	DET	T	Gender=Masc|Number=Plur|PronType=Tot	14	det	_	_
+14	@GiSada1	@GiSada1	PROPN	SP	_	12	nsubj	_	_
+15	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = TORN giovedì prossimo
+1	TORN	TORN	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	giovedì	giovedì	NOUN	S	Gender=Masc	0	root	_	_
+3	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\n
+

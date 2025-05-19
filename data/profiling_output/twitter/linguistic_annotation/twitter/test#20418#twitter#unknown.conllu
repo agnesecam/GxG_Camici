@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci sono giorni in cui, dovunque cerchi dentro di te, non troverai mai nulla.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	cui	cui	PRON	PR	PronType=Rel	14	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	dovunque	dovunque	SCONJ	CS	_	8	mark	_	_
+8	cerchi	cercare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+9	dentro	dentro	ADV	B	_	11	case	_	_
+10	di	di	ADP	E	_	9	fixed	_	_
+11	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	8	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	troverai	troveere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+15	mai	mai	ADV	B	_	14	advmod	_	_
+16	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

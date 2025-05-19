@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mario Giacomelli dalla serie «La domenica prima», 2000 pic.twitter.com/cHD260AC4s
+1	Mario	Mario	PROPN	SP	_	0	root	_	_
+2	Giacomelli	Giacomelli	PROPN	SP	_	1	flat:name	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	serie	serie	NOUN	S	Gender=Fem	1	nmod	_	_
+6	«	«	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+7	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+9	prima	prima	ADV	B	_	8	advmod	_	SpaceAfter=No
+10	»	»	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	1	punct	_	_
+12	2000	2000	NUM	N	NumType=Card	1	nummod	_	_
+13	pic.twitter.com/cHD260AC4s	pic.twitter.com/cHD260AC4s	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

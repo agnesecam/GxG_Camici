@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fabiochiusi @norma_marco @BerziLiliana @siceid @FrancyP_ @fenixgl60 non mi sembra che suo tweet avesse molti argomenti, a parte sessismo
+1	@fabiochiusi	@fabiochiuso	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	@norma_marco	@norma_marco	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	@BerziLiliana	@BerziLiliano	PROPN	SP	_	9	obl	_	_
+4	@siceid	@siceid	CCONJ	CC	_	9	cc	_	_
+5	@FrancyP_	@FrancyP-	PROPN	SP	_	9	nsubj	_	_
+6	@fenixgl60	@fenixgl60	NUM	N	NumType=Card	5	nummod	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	tweet	tweet	NOUN	S	Gender=Masc	13	nsubj	_	_
+13	avesse	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	_
+14	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
+15	argomenti	argomento	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	9	punct	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	parte	parte	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+19	sessismo	sessismo	NOUN	S	Gender=Masc|Number=Sing	9	xcomp	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Capelli lisci e lunghissimi (sono tutti miei) super curati e di un morbido da sembrare … https://www.
+1	Capelli	capelli	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	lisci	lisce	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	lunghissimi	lungho	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	2	conj	_	_
+5	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	_	_
+8	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	1	parataxis	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	super	supere	ADJ	A	_	1	amod	_	_
+11	curati	curato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	morbido	morbido	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+16	da	da	ADP	E	_	17	mark	_	_
+17	sembrare	sembrare	VERB	V	VerbForm=Inf	15	acl	_	_
+18	…	…	PUNCT	FF	_	19	punct	_	_
+19	https://www	https://www	NOUN	S	_	17	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD-4ROgtJTq/
+1	instagram.com/p/BD-4ROgtJTq/	instagram.com/p/BD-4ROgtJTq/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

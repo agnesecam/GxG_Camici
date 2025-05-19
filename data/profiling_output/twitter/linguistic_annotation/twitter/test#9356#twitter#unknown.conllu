@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Coraggioso ed invidiabile!
+1	Coraggioso	coraggioso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	ed	e	CCONJ	CC	_	3	cc	_	_
+3	invidiabile	invidiabile	ADJ	A	Number=Sing	1	conj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Io non ci posso neppure pensare!!! https:// twitter.com/emanuelecariot i/status/712033616914735104 …
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+4	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	neppure	neppure	ADV	BN	PronType=Neg	6	advmod	_	_
+6	pensare	pensare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+8	!!	!!	PUNCT	FF	_	14	punct	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	twitter.com/emanuelecariot	twitter.com/emanuelecariot	CCONJ	CC	_	14	cc	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	SpaceAfter=No
+14	/status/712033616914735104	/status/712033616914735104	NUM	N	NumType=Card	6	conj	_	_
+15	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

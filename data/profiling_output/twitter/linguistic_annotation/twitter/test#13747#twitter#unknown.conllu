@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io spero che il prossimo anno ci alleni uno tra #Donadoni o #DiFrancesco .Se ripartiamo da #Brocchi faremo l'ennesima stagione flop #Milan
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+8	alleni	alleno	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	_
+10	tra	tra	ADP	E	_	12	case	_	_
+11	#	#	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	Donadoni	Donadoni	PROPN	SP	_	9	nmod	_	_
+13	o	o	CCONJ	CC	_	15	cc	_	_
+14	#	#	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+15	DiFrancesco	DiFrancesco	PROPN	SP	_	12	conj	_	_
+16	.Se	.se	PROPN	SP	_	15	flat:name	_	_
+17	ripartiamo	ripartire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+18	da	da	ADP	E	_	19	case	_	_
+19	#Brocchi	#Brocchi	PROPN	SP	_	20	obl	_	_
+20	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	17	advcl	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+22	ennesima	ennesimo	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	_
+23	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+24	flop	flop	NOUN	S	Gender=Fem	17	obj	_	_
+25	#Milan	#Milan	PROPN	SP	_	24	nmod	_	SpacesAfter=\n
+

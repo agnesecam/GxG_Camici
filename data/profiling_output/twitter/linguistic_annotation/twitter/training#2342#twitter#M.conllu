@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jolandafiore @Frosinone1928 @Inter cara Iolanda conta chi la butta dentro il resto sono solo chiacchiere
+1	@jolandafiore	@jolandafiore	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	@Frosinone1928	@Frosinone1928	PROPN	SP	_	1	nmod	_	_
+3	@Inter	@Inter	PROPN	SP	_	2	flat:name	_	_
+4	cara	caro	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+5	Iolanda	Iolanda	PROPN	SP	_	2	flat:name	_	_
+6	conta	contare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	chi	chi	PRON	PR	Number=Sing|PronType=Rel	6	obj	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	butta	butta	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+10	dentro	dentro	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	resto	resto	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	solo	solo	ADV	B	_	15	advmod	_	_
+15	chiacchiere	chiacchiere	VERB	V	VerbForm=Inf	7	acl:relcl	_	SpacesAfter=\n
+

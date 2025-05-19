@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #GiornaleDiDestra Caso marò, “Girone torni in Italia in attesa di sapere chi dovrà giudicare”:
+1	#	#	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+2	GiornaleDiDestra	GiornaleDiDestra	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	Caso	caso	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+4	marò	esmere	CCONJ	CC	_	8	cc	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	“	“	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+7	Girone	Girone	PROPN	SP	_	8	nsubj	_	_
+8	torni	tornare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	Italia	Italia	PROPN	SP	_	8	obl	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	attesa	attesa	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	sapere	sapere	VERB	V	VerbForm=Inf	12	acl	_	_
+15	chi	chi	PRON	PR	Number=Sing|PronType=Rel	17	nsubj	_	_
+16	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+17	giudicare	giudicare	VERB	V	VerbForm=Inf	14	ccomp	_	SpaceAfter=No
+18	”	”	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+19	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 2
+# text = “La richiesta d... http:// bit.ly/233KJOb
+1	“	“	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	d...	d...	NOUN	S	_	3	nmod	_	_
+5	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	bit.ly/233KJOb	bit.ly/233KJOb	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

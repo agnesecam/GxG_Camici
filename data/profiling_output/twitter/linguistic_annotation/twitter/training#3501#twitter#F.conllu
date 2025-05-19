@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “ #VeloceComeIlVento ” vi travolgerà e vi farà sorridere, tra accelerazioni, pathos, fragilità e «paura di... http:// fb.me/71beStgzx
+1	“	“	PUNCT	FB	_	6	punct	_	_
+2	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	VeloceComeIlVento	VeloceComeIlVento	PROPN	SP	_	6	nsubj	_	_
+4	”	”	PUNCT	FB	_	3	punct	_	_
+5	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	obj	_	_
+6	travolgerà	travolgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	vi	vi	ADV	B	_	9	advmod	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	conj	_	_
+10	sorridere	sorridere	VERB	V	VerbForm=Inf	9	ccomp	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	tra	tra	ADP	E	_	13	case	_	_
+13	accelerazioni	accelerazione	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	pathos	pathos	NOUN	S	Gender=Masc	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	17	punct	_	_
+17	fragilità	fragilità	NOUN	S	Gender=Fem	13	conj	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	«	«	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	paura	paura	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
+21	di...	di.	NUM	N	NumType=Card	20	nummod	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/71beStgzx	fb.me/71beStgzx	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

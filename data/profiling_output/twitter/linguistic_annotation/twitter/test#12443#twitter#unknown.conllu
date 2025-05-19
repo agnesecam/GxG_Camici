@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Real time, ascolto, pianificazione, informazione:
+1	Real	Real	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	time	timo	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	ascolto	ascolto	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	pianificazione	pianificazione	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	informazione	informazione	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = senza non si vá da nessuna parte #energytelling @Eniday #ijf16 pic.twitter.com/pnRDE0UnXZ
+1	senza	senza	ADP	E	_	4	case	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	vá	vá	PROPN	SP	_	11	nmod	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	parte	parte	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+8	#energytelling	#energytelling	SYM	X	_	11	nmod	_	_
+9	@Eniday	@Eniday	PROPN	SP	_	8	flat:name	_	_
+10	#	#	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	ijf16	ijf16	SYM	X	_	0	root	_	_
+12	pic.twitter.com/pnRDE0UnXZ	pic.twitter.com/pnRDE0UnXZ	PROPN	SP	_	11	flat:name	_	SpacesAfter=\n
+

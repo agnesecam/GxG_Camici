@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come parecchi tifosi!
+1	Come	come	ADP	E	_	3	case	_	_
+2	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	tifosi	tifoso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Cit. pic.twitter.com/fpRyqps9Vx
+1	Cit.	Cit.	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/fpRyqps9Vx	pic.twitter.com/fpRyqps9Vx	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

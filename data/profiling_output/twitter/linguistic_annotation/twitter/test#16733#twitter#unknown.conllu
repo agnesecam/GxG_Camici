@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = finché c'è cuperlo c'è speranza - i due politici più mosci del pd diventano i paladini dell'antirenz - Politica http://www.
+1	finché	finché	SCONJ	CS	_	3	mark	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	cuperlo	_	_	_	_	_	_	_	_
+4	cuper	cupere	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+9	-	-	PUNCT	FF	_	7	punct	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	due	due	NUM	N	NumType=Card	12	nummod	_	_
+12	politici	politico	NOUN	S	Gender=Masc|Number=Plur	18	nsubj	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	mosci	moscere	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	pd	pd	NOUN	S	Gender=Masc	12	nmod	_	_
+18	diventano	diventare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	paladini	paladine	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	_
+21-22	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+21	di	di	ADP	E	_	23	case	_	_
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	_
+23	antirenz	antirenz	NOUN	S	Gender=Masc	20	nmod	_	_
+24	-	-	PUNCT	FF	_	23	punct	_	_
+25	Politica	politico	ADJ	A	Gender=Fem|Number=Sing	26	amod	_	_
+26	http://www	http://www	NOUN	S	_	23	compound	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = dagospia.com/rubrica-3/poli tica/finch-cuperlo-speranza-due-politici-pi-mosci-pd-diventano-122022.htm …
+1	dagospia.com/rubrica-3/poli	dagospia.com/rubrica-3/pole	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	tica/finch	tica/finch	ADJ	A	_	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	cuperlo-speranza-due-politici-pi-mosci-pd-diventano-122022.htm	cuperlo-speranza-due-politici-pi-mosci-pd-diventano-122022.htm	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

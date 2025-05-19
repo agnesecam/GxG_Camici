@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “in questo momento vorrei tanto che fossimo nel letto insieme a scambiarci i nostri sentimenti…”
+1	“	“	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	in	in	ADP	E	_	4	case	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	momento	momento	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+5	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tanto	tanto	ADV	B	_	15	advmod	_	_
+7	che	che	SCONJ	CS	_	14	mark	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	aux	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	letto	letto	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+12	insieme	insieme	ADV	B	_	14	mark	_	_
+13	a	a	ADP	E	_	12	fixed	_	_
+14-15	scambiarci	_	_	_	_	_	_	_	_
+14	scambiar	scambiare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	expl	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	nostri	nostro	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+18	sentimenti…	sentimenti…	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+19	”	”	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

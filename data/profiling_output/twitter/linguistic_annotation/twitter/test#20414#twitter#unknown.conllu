@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Barilla , per i colletti bianchi smart working (lavoro dovunque ) dal 2020.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Barilla	Barilla	PROPN	SP	_	0	root	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	colletti	colletto	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+7	bianchi	bianco	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	smart	smart	ADJ	A	_	9	amod	_	_
+9	working	working	NOUN	S	_	6	nmod	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+12	dovunque	dovunque	NUM	N	NumType=Card	11	nummod	_	_
+13	)	)	PUNCT	FB	_	11	punct	_	_
+14-15	dal	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	2020	2020	NUM	N	NumType=Card	6	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Un inizio che fa ben sperare?
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	ben	bene	ADV	B	_	6	advmod	_	_
+6	sperare	sperare	VERB	V	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #Sole24Ore #CumGranoSalis
+1	#Sole24Ore	#Sole24Ore	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	#CumGranoSalis	#CumGranoSalis	PROPN	SP	_	1	obj	_	SpacesAfter=\n
+

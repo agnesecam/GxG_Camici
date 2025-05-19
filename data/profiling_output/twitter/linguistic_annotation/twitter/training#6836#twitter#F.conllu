@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non renderai mai un cattivo servizio al tuo rapporto, né a nessuno, scorgendo negli altri più di quanto essi ti... http:// fb.me/4OMuxQPaS
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	renderai	rendeere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mai	mai	ADV	B	_	2	advmod	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	cattivo	cattivo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	servizio	servizio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	rapporto	rapporto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	16	punct	_	_
+12	né	né	CCONJ	CC	_	16	cc	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	scorgendo	scorgire	VERB	V	VerbForm=Ger	10	conj	_	_
+17-18	negli	_	_	_	_	_	_	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	_
+20	più	più	ADV	B	_	23	acl:relcl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	20	fixed	_	_
+23	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obl	_	_
+24	ti...	ti.	PUNCT	FS	_	23	punct	_	_
+25	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	23	punct	_	_
+28	fb.me/4OMuxQPaS	fb.me/4OMuxQPaS	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

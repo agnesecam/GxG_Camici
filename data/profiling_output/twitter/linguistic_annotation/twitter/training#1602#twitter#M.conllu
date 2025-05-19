@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #DinoCappelletti Fotografo artista indiscusso di Grottammare che rende uniche le nostre emozioni!
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	DinoCappelletti	DinoCappelletti	PROPN	SP	_	0	root	_	_
+3	Fotografo	Fotografo	PROPN	SP	_	2	flat:name	_	_
+4	artista	artista	NOUN	S	Number=Sing	2	nmod	_	_
+5	indiscusso	indiscusso	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Grottammare	Grottammare	PROPN	SP	_	4	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	rende	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+10	uniche	unico	ADJ	A	Gender=Fem|Number=Plur	9	xcomp	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+12	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	emozioni	emozioni	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Grazie http:// fb.me/4vOn2gSKX
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/4vOn2gSKX	fb.me/4vOn2gSKX	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

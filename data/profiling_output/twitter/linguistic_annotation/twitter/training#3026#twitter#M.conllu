@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come #IBMAnalytics può aiutarvi a fornire marketing talmente efficace da non sembrare un servizio...
+1	Come	come	ADV	B	_	5	advmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	IBMAnalytics	IBMAnalytics	PROPN	SP	_	5	nsubj	_	_
+4	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5-6	aiutarvi	_	_	_	_	_	_	_	_
+5	aiutar	aiutare	VERB	V	VerbForm=Inf	0	root	_	_
+6	vi	vi	ADV	B	_	5	advmod	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	fornire	fornire	VERB	V	VerbForm=Inf	5	xcomp	_	_
+9	marketing	marketing	NOUN	S	Gender=Masc	8	obj	_	_
+10	talmente	talmente	ADV	B	_	11	advmod	_	_
+11	efficace	efficace	ADJ	A	Number=Sing	9	amod	_	_
+12	da	da	ADP	E	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	8	advcl	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	servizio...	servizio...	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+
+# sent_id = 2
+# text = http:// gag.gl/GuJazN
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	gag.gl/GuJazN	gag.gl/GuJazN	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

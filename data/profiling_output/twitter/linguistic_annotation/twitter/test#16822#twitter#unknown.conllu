@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @intuslegens ma davvero potete pensare che su un barcone fatiscente ammucchiati fame e sete ci sia alcuno che gli vada di stuprare?
+1	@intuslegens	@intuslegens	NOUN	S	Gender=Masc	0	root	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	davvero	davvero	ADV	B	_	5	advmod	_	_
+4	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	pensare	pensare	VERB	V	VerbForm=Inf	1	conj	_	_
+6	che	che	SCONJ	CS	_	17	mark	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	barcone	barcone	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+10	fatiscente	fatiscente	ADJ	A	Number=Sing	9	amod	_	_
+11	ammucchiati	ammucchiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+12	fame	fame	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	sete	sete	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	17	iobj	_	_
+16	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	alcuno	alcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	ccomp	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	iobj	_	_
+20	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+21	di	di	ADP	E	_	22	mark	_	_
+22	stuprare	stuprare	VERB	V	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Bufala.
+1	Bufala	bufala	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

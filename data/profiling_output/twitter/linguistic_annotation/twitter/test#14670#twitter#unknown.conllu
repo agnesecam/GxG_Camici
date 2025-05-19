@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti adoro, o Croce Santa, che fosti ornata del Corpo Sacratissimo del mio Signore.
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	adoro	adorare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	6	punct	_	_
+4	o	o	CCONJ	CC	_	6	cc	_	_
+5	Croce	Croce	ADJ	A	Number=Sing	6	amod	_	_
+6	Santa	Santa	PROPN	SP	_	2	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	fosti	fondere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	ornata	ornata	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Corpo	Corpo	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+14	Sacratissimo	Sacratissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	13	amod	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	Signore	signore	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2fLpjPo4i
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2fLpjPo4i	fb.me/2fLpjPo4i	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

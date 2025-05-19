@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche i Marchesi Garzoni si facevano coccolare dai loro Chef #ristorantevillagarzoni #luxury http:// fb.me/613gMC9Wq
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Marchesi	Marchese	PROPN	SP	_	6	nsubj	_	_
+4	Garzoni	Garzoni	PROPN	SP	_	3	flat:name	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	coccolare	coccolare	VERB	V	VerbForm=Inf	17	acl	_	_
+8-9	dai	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	11	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	loro	loro	DET	AP	Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	Chef	Chef	PROPN	SP	_	7	obl	_	_
+12	#ristorantevillagarzoni	#ristorantevillagarzone	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+13	#luxury	#luxury	ADJ	A	_	11	amod	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	11	punct	_	_
+17	fb.me/613gMC9Wq	fb.me/613gMC9Wq	PROPN	SP	_	6	xcomp	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @milkolalicata Milko sei diventato un topolino?
+1	@milkolalicata	@milkolalicare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+2	Milko	Milko	PROPN	SP	_	4	nsubj	_	_
+3	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	topolino	topolino	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = @MarekNapoli @MovengoAnchio @FulvioFrati
+1	@MarekNapoli	@MarekNapoli	PROPN	SP	_	0	root	_	_
+2	@MovengoAnchio	@MovengoAnchio	PROPN	SP	_	1	flat:name	_	_
+3	@FulvioFrati	@FulvioFrati	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

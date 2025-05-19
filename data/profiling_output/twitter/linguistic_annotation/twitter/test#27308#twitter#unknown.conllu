@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Strade colme di pagliacci...che ahimè ... nn fanno ridere!
+1	Strade	strada	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	colme	colmo	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	pagliacci...che	pagliacci...ca	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+5	ahimè	ahimè	INTJ	I	_	8	discourse	_	_
+6	...	...	PUNCT	FF	_	5	punct	_	_
+7	nn	nno	ADV	B	_	8	advmod	_	_
+8	fanno	fanno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	ridere	ridere	VERB	V	VerbForm=Inf	8	ccomp	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = #vita #sad
+1	#vita	#vitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	#sad	#sad	ADP	E	_	1	case	_	SpacesAfter=\n
+

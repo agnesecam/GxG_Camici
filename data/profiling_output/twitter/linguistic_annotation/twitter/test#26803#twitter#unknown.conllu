@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cmnit si, certo.
+1	@cmnit	@cmnit	ADV	B	_	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	certo	certo	ADV	B	_	1	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma negli ultimi mesi si sono avute risposte cruciali.
+1	Ma	ma	CCONJ	CC	_	8	cc	_	_
+2-3	negli	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	5	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	ultimi	ultimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	5	amod	_	_
+5	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:pass	_	_
+7	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+9	risposte	risposta	NOUN	S	Gender=Fem|Number=Plur	8	nsubj:pass	_	_
+10	cruciali	cruciale	ADJ	A	Number=Plur	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = La cosa funziona.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = NASA, us navvy, Boeing gia' dentro...
+1	NASA	NASA	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	us	us	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	navvy	navvy	X	SW	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	Boeing	Boeing	PROPN	SP	_	1	appos	_	_
+7	gia	gia	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	'	'	PUNCT	FB	_	6	punct	_	_
+9	dentro...	dentro.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

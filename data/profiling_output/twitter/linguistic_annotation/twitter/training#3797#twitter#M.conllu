@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Il futuro è molto aperto, e dipende da noi, da noi tutti.
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	molto	molto	ADV	B	_	6	advmod	_	_
+6	aperto	aperto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	dipende	dipendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	9	punct	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	obl	_	_
+15	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Dipende da ciò che voi e io e molti altri uomini fanno...
+1	Dipende	dipendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	acl:relcl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	conj	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+10	altri	altro	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+11	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
+12	fanno...	fanno.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/4XzxccCYz
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4XzxccCYz	fb.me/4XzxccCYz	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

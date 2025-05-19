@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli alberi per l'acqua:
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	alberi	albero	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = senza foreste avremmo più sete video http://www.
+1	senza	senza	ADP	E	_	2	case	_	_
+2	foreste	foresta	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+3	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	sete	seto	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+6	video	video	ADJ	A	_	7	amod	_	_
+7	http://www	http://www	NOUN	S	_	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = repubblica.it/ambiente/2016/ 03/21/news/le_foreste_contribuiscono_a_dissetare_i_centri_urbani-135681733/ … via @repubblicait
+1	repubblica.it/ambiente/2016/	repubblica.it/ambiente/2016/	PUNCT	FF	_	2	punct	_	_
+2	03/21/news/le_foreste_contribuiscono_a_dissetare_i_centri_urbani-135681733	03/21/news/le_foreste_contribuiscono_a_dissetare_i_centri_urbani-135681733	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	_
+4	…	…	PUNCT	FF	_	2	punct	_	_
+5	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	@repubblicait	@repubblicait	NOUN	S	Gender=Masc	5	nmod	_	SpacesAfter=\n
+

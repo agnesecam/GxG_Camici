@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Piazzapulita @alessiarotta fa sembrare @matteosalvinimi uno statista e ho detto tutto
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	Piazzapulita	Piazzapulita	PROPN	SP	_	4	nsubj	_	_
+3	@alessiarotta	@alessiarotto	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	@matteosalvinimi	@matteosalvinimo	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	statista	statista	NOUN	S	Number=Sing	5	obj	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	SpacesAfter=\n
+

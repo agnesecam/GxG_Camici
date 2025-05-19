@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Chiariello_CS Il Napoli deve crescere in mentalità.Ci vorrebbe un uomo che faccia da collante tra squadra e società!1 bruscolotti,x esempio
+1	@Chiariello_CS	@Chiariello_CS	PROPN	SP	_	5	nsubj	_	_
+2	Il	il	PROPN	SP	_	1	flat:name	_	_
+3	Napoli	Napoli	PROPN	SP	_	1	flat:name	_	_
+4	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	crescere	crescere	VERB	V	VerbForm=Inf	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	mentalità	mentalità	NOUN	S	Gender=Fem	5	obl	_	SpaceAfter=No
+8	.Ci	.Ci	PROPN	SP	_	7	nmod	_	_
+9	vorrebbe	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	collante	collante	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+16	tra	tra	ADP	E	_	17	case	_	_
+17	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+18	e	e	CCONJ	CC	_	22	cc	_	_
+19	società	società	NOUN	S	Gender=Fem	22	nmod	_	SpaceAfter=No
+20	!1	!l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	bruscolotti,x	bruscolotti,x	ADJ	NO	Number=Sing|NumType=Ord	22	amod	_	_
+22	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	SpacesAfter=\n
+

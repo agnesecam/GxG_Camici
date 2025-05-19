@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I sindaci a 5 stelle farebbero bene a fidarsi maggiormente del cofondatore che ha sempre dimostrato una... http:// fb.me/57HPjihDP
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	sindaci	sindaco	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	5	5	NUM	N	NumType=Card	5	nummod	_	_
+5	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+6	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	bene	bene	ADV	B	_	6	advmod	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	fidarsi	_	_	_	_	_	_	_	_
+9	fidar	fidare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+11	maggiormente	maggiormente	ADV	B	_	9	advmod	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	cofondatore	cofondatore	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+15	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+16	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+17	sempre	sempre	ADV	B	_	18	advmod	_	_
+18	dimostrato	dimostrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	acl:relcl	_	_
+19	una...	una.	NUM	N	NumType=Card	18	nummod	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/57HPjihDP	fb.me/57HPjihDP	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

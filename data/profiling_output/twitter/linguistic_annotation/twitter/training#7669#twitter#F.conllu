@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rotanicolas STA MORENDO ED ANCHE VELOCEMENTE!
+1	@rotanicolas	@rotanicolas	PROPN	SW	Foreign=Yes	0	root	_	_
+2	STA	stare	PROPN	SP	_	1	flat:name	_	_
+3	MORENDO	morire	VERB	V	VerbForm=Ger	1	advcl	_	_
+4	ED	Ed	PROPN	SP	_	3	obj	_	_
+5	ANCHE	anche	PROPN	SP	_	4	flat:name	_	_
+6	VELOCEMENTE	velocemente	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = !!!
+1	!!!	!!!	PUNCT	FF	_	0	root	_	_
+
+# sent_id = 3
+# text = Dunque sappiamo che non esiste solo la nostra galassia ma tantissime galassie
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	sappiamo	sapere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	solo	solo	ADV	B	_	5	advmod	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	galassia	galassia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	tantissime	tanto	DET	DI	Gender=Fem|Number=Plur	12	det	_	_
+12	galassie	galassia	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	SpacesAfter=\n
+

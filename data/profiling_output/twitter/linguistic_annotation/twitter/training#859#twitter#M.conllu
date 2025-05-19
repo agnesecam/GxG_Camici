@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Andiamo in Libia a far la guerra all'Isis, come se non avessimo nessuno da sconfiggere a casa nostra.
+1	Andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Libia	Libia	PROPN	SP	_	1	obl	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	far	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8-9	all'	_	_	_	_	_	_	_	SpaceAfter=No
+8	a	a	ADP	E	_	10	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	Isis	Isis	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	1	punct	_	_
+12	come	come	ADV	B	_	16	advmod	_	_
+13	se	se	SCONJ	CS	_	16	mark	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	cop	_	_
+16	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	advcl	_	_
+17	da	da	ADP	E	_	18	mark	_	_
+18	sconfiggere	sconfiggere	VERB	V	VerbForm=Inf	16	acl	_	_
+19	a	a	ADP	E	_	20	case	_	_
+20	casa	casa	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+21	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #blob
+1	#blob	#blob	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

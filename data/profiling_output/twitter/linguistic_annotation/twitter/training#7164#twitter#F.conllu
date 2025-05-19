@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @KellerZoe si parla sempre di una conseguenza,anche se gradita, da ESSI .
+1	@KellerZoe	@KellerZoe	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sempre	sempre	ADV	B	_	3	advmod	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	conseguenza	conseguenza	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+9	anche	anche	ADV	B	_	11	mark	_	_
+10	se	se	SCONJ	CS	_	9	fixed	_	_
+11	gradita	gradire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	3	punct	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	ESSI	Essi	PROPN	SP	_	3	obl	_	_
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Motivo che muove è profitto dettato da cupidigia dell' 1%
+1	Motivo	motivo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	muove	muove	NUM	N	NumType=Card	6	nsubj:pass	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+5	profitto	profitto	ADV	B	_	6	advmod	_	_
+6	dettato	dettare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	cupidigia	cupidigia	NOUN	S	Gender=Fem|Number=Sing	6	obl:agent	_	_
+9-10	dell'	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+11	1	1	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+12	%	%	SYM	SYM	_	8	nmod	_	SpacesAfter=\n
+

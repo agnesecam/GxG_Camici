@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dove si scoprono molti profumi, storie letterarie a essi legate e si incontra una pasionaria https:// cosedalibri.wordpress.com/2016/04/06/dov e-si-scoprono-molti-profumi-storie-letterarie-a-essi-legate-e-si-incontra-una-pasionaria … pic.twitter.com/4xxXPrcqgN
+1	Dove	dove	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	scoprono	scoprire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	profumi	profume	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	storie	storia	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+8	letterarie	letterario	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	essi	essi	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+11	legate	legare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl:pass	_	_
+14	incontra	incontrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpacesAfter= 
+16	pasionaria	pasionaria	NOUN	S	Gender=Fem|Number=Sing	14	nsubj:pass	_	_
+17	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	_
+20	cosedalibri.wordpress.com/2016/04/06/dov	cosedalibri.wordpress.com/2016/04/06/dov	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+21	e-si	e-so	ADJ	A	Number=Plur	22	amod	_	SpaceAfter=No
+22	-scoprono-molti	-scoprono-molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	20	nmod	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	profumi-storie-letterarie	profumi-storie-letterario	ADJ	A	Gender=Fem|Number=Plur	30	amod	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	a-essi	a-esso	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	30	cop	_	SpaceAfter=No
+27	-legate	-legato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	30	acl	_	SpaceAfter=No
+28	-	-	PUNCT	FB	_	27	punct	_	SpaceAfter=No
+29	e-si	e-so	ADJ	A	Number=Plur	30	amod	_	SpaceAfter=No
+30	-incontra-una	-incontra-una	NOUN	S	Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+31	-pasionaria	-pasionario	ADJ	A	Gender=Fem|Number=Sing	30	amod	_	_
+32	…	…	PUNCT	FF	_	30	punct	_	_
+33	pic.twitter.com/4xxXPrcqgN	pic.twitter.com/4xxXPrcqgN	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

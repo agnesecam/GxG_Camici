@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (1/2) caro .
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	2	2	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	4	punct	_	_
+6	caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @StefanoFeltri non mi risulta che respingendo ultima versione accordo #PNR Europa abbia perso alcuno strumento #antiterrorismo
+1	@StefanoFeltri	@StefanoFeltro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	risulta	risultare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
+5	che	che	SCONJ	CS	_	13	mark	_	_
+6	respingendo	respingere	VERB	V	VerbForm=Ger	13	advcl	_	_
+7	ultima	ultimo	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	versione	versione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	accordo	accordo	ADP	E	_	10	case	_	_
+10	#PNR	#PNR	PROPN	SP	_	6	obl	_	_
+11	Europa	Europa	PROPN	SP	_	10	flat:name	_	_
+12	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	csubj	_	_
+14	alcuno	alcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
+15	strumento	strumento	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	#antiterrorismo	#antiterrorismo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

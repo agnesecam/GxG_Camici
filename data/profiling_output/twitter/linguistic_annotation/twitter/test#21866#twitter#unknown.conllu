@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 10 persone per una partita di merda e poi parlano di canone, e staccano quando stavano parlando di Bonucci la giustizia vi bruci
+1	10	10	NUM	N	NumType=Card	2	nummod	_	_
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	partita	partita	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	merda	merda	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	poi	poi	ADV	B	_	10	advmod	_	_
+10	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	canone	canone	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	staccano	staccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+16	quando	quando	SCONJ	CS	_	18	mark	_	_
+17	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	parlando	parlare	VERB	V	VerbForm=Ger	15	advcl	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	Bonucci	Bonucci	PROPN	SP	_	18	obl	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
+23	vi	vi	ADV	B	_	22	advmod	_	_
+24	bruci	brurre	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	SpacesAfter=\n
+

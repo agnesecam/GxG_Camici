@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Marea nera Golfo del Messico:
+1	Marea	Marea	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	nera	nero	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	Golfo	Golfo	PROPN	SP	_	1	nmod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Messico	Messico	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = BP dovrà risarcire 20 miliardi di dollari.
+1	BP	BP	PROPN	SP	_	3	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	_
+4	20	20	NUM	N	NumType=Card	5	nummod	_	_
+5	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	dollari	dollaro	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/4eHlROwKy
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4eHlROwKy	fb.me/4eHlROwKy	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

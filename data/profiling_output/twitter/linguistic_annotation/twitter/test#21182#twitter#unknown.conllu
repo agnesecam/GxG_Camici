@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Mamma, vojo l'acqua con le bolle".
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Mamma	Mamma	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	vojo	vojo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	bolle	bolla	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Io, da madre amorevole, gliela verso.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	madre	madre	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+5	amorevole	amorevole	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7-8	gliela	_	_	_	_	_	_	_	_
+7	glie	gliere	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	verso	verso	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = Beve, fa una faccia strana e dice:
+1	Beve	beve	PROPN	SP	_	3	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	strana	strano	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 4
+# text = "No... http:// fb.me/75TTJjPnc
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	No...	No...	PROPN	SP	_	0	root	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	fb.me/75TTJjPnc	fb.me/75TTJjPnc	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

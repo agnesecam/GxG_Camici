@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciò che resta del sabato sera la piccola Carlotta (7anni) si è divertita fino ad ora notte guys pic.twitter.com/9RBnnufjhB
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	16	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	sera	sera	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	Carlotta	Carlotta	PROPN	SP	_	3	nsubj	_	_
+11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	7anni	7anno	X	X	_	10	nmod	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	12	punct	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+15	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	divertita	divertire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+17	fino	fino	ADV	B	_	20	case	_	_
+18	ad	a	ADP	E	_	17	fixed	_	_
+19	ora	ora	ADV	B	_	20	advmod	_	_
+20	notte	notte	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+21	guys	guys	PROPN	SW	Foreign=Yes	16	xcomp	_	_
+22	pic.twitter.com/9RBnnufjhB	pic.twitter.com/9RBnnufjhB	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

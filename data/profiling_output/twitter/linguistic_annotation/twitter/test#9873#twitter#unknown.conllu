@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mkp17 @SkySport E vai per il secondo anno consecutivo sarete a bordo ring nell'evento più importante del wrestling complimenti
+1	@mkp17	@mkp17	NUM	N	NumType=Card	2	nummod	_	_
+2	@SkySport	@SkySport	PROPN	SP	_	0	root	_	_
+3	E	e	CCONJ	CC	_	4	cc	_	_
+4	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	per	per	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	anno	anno	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	sarete	saere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	4	advcl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	bordo	bordo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+13	ring	ring	NOUN	S	Gender=Masc	10	obj	_	_
+14-15	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+14	in	in	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	evento	evento	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+17	più	più	ADV	B	_	18	advmod	_	_
+18	importante	importante	ADJ	A	Number=Sing	16	amod	_	_
+19-20	del	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	wrestling	wrestling	NOUN	S	Gender=Masc	16	nmod	_	_
+22	complimenti	complimente	NOUN	S	Gender=Masc|Number=Plur	21	compound	_	SpacesAfter=\n
+

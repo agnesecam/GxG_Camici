@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "E se il pesce d’aprile fosse in realtà il 2 aprile, e quest’oggi fossimo tutti vittima di un pesce d’aprile?” Buongiornooo #pescedaprile
+1	"	"	PUNCT	FB	_	28	punct	_	SpaceAfter=No
+2	E	e	CCONJ	CC	_	28	cc	_	_
+3	se	se	SCONJ	CS	_	10	mark	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+6	d’	di	ADP	E	_	7	case	_	SpaceAfter=No
+7	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	28	advcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	2	2	NUM	N	NumType=Card	28	nummod	_	SpacesAfter= 
+13	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	20	punct	_	_
+15	e	e	CCONJ	CC	_	20	cc	_	_
+16	quest’	questo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	obj	_	SpaceAfter=No
+17	oggi	oggi	ADV	B	_	20	advmod	_	_
+18	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	20	cop	_	_
+19	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	20	nmod	_	_
+20	vittima	vittima	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+24	d’	di	ADP	E	_	25	case	_	SpaceAfter=No
+25	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+27	”	”	PUNCT	FB	_	12	punct	_	_
+28	Buongiornooo	Buongiornooo	PROPN	SP	_	0	root	_	_
+29	#pescedaprile	#pescedaprile	ADJ	A	Number=Sing	28	amod	_	SpacesAfter=\n
+

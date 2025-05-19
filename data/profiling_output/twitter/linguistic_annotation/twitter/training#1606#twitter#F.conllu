@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Peccato che nelle nostre scuole si preferisce solo dire " povero ragazzo" e guardare in silenzio http:// fb.me/4EA1sGLnh
+1	Peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	che	che	SCONJ	CS	_	8	mark	_	_
+3-4	nelle	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	scuole	scuola	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+8	preferisce	preferire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+9	solo	solo	ADV	B	_	10	advmod	_	_
+10	dire	dire	VERB	V	VerbForm=Inf	8	ccomp	_	_
+11	"	"	PUNCT	FB	_	13	punct	_	_
+12	povero	povero	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	13	punct	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	guardare	guardare	VERB	V	VerbForm=Inf	13	conj	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	fb.me/4EA1sGLnh	fb.me/4EA1sGLnh	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

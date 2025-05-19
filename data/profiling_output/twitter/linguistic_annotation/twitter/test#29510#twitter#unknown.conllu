@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "
+1	"	"	PUNCT	FB	_	0	root	_	_
+
+# sent_id = 2
+# text = Fui amato e sospeso a una croce.
+1	Fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	aux	_	_
+2	amato	amare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	sospeso	sospendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	croce	croce	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = /Bevvi il calice fino alla feccia.
+1	/Bevvi	/Bevvare	ADV	B	_	3	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	calice	calice	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	fino	fino	ADV	B	_	7	case	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	4	fixed	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	feccia	feccia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = /I miei occhi videro ciò che ignoravano:
+1	/I	/I	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	videro	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	ignoravano	ignorare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 5
+# text = /la notte e le sue stelle"Borghes
+1	/la	/la	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
+2	notte	notte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Borghes	Borghes	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

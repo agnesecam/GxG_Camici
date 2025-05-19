@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TwittGiorgio se avessimo dimostrato di essere uno Stato, con il caso marò, forse il caso Reggeni non si verificava
+1	@TwittGiorgio	@TwittGiorgio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	parataxis	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	dimostrato	dimostrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+5	di	di	ADP	E	_	8	mark	_	_
+6	essere	essere	AUX	V	VerbForm=Inf	8	cop	_	_
+7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	4	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	caso	caso	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+13	marò	esmere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	forse	forse	ADV	B	_	13	advmod	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	caso	caso	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+18	Reggeni	Reggeno	PROPN	SP	_	17	nmod	_	_
+19	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	obj	_	_
+21	verificava	verificavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Larga banda......
+1	Larga	largo	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	banda......	banda......	NOUN	S	_	0	root	_	_
+
+# sent_id = 2
+# text = @matteorenzi @EnelGroup ......ch fine farà la rete e la telecom??
+1	@matteorenzi	@matteorenzi	ADP	E	_	2	case	_	_
+2	@EnelGroup	@EnelGroup	PROPN	SP	_	5	obl	_	_
+3	......ch	......ch	NOUN	S	Gender=Masc	2	nmod	_	_
+4	fine	fine	ADJ	A	Number=Sing	3	amod	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	rete	rete	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	telecom	telecom	NOUN	S	Gender=Masc	7	conj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

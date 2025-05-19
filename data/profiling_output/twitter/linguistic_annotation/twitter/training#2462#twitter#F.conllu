@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #colazione con scrittori:
+1	#colazione	#colazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	scrittori	scrittore	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Chi regna dentro di sé e comanda le proprie passioni,desideri e paure, è più che un re John Milton #scritturebrevi
+1	Chi	chi	PRON	PQ	PronType=Int	2	nsubj	_	_
+2	regna	regnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+3	dentro	dentro	ADV	B	_	5	case	_	_
+4	di	di	ADP	E	_	3	fixed	_	_
+5	sé	sé	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	obl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	comanda	comandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	proprie	proprio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	passioni	passione	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No
+11	,desideri	,desidero	ADV	B	_	7	advmod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	paure	paura	ADV	B	_	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	2	punct	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+16	più	più	ADV	B	_	19	advmod	_	_
+17	che	che	SCONJ	CS	_	16	fixed	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	re	re	NOUN	S	Gender=Masc	0	root	_	_
+20	John	John	PROPN	SP	_	19	nmod	_	_
+21	Milton	Milton	PROPN	SP	_	20	flat:name	_	_
+22	#scritturebrevi	#scritturebreve	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fnicodemo caro l'ho letto e mi è parso scadente e fazioso dunque l'ho rimosso perciò ho pensato al grande Ciccio il comico.
+1	@fnicodemo	@fnicodemo	NOUN	S	_	5	dislocated	_	_
+2	caro	caro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	acl	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	parso	parere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+10	scadente	scadente	ADJ	A	Number=Sing	9	xcomp	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	fazioso	fazioso	ADJ	A	Gender=Masc|Number=Sing	10	conj	_	_
+13	dunque	dunque	ADV	B	_	16	advmod	_	_
+14	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	16	obj	_	SpaceAfter=No
+15	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	rimosso	rimuovere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+17	perciò	perciò	SCONJ	CS	_	19	mark	_	_
+18	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+20-21	al	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	23	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	grande	grande	ADJ	A	Number=Sing	23	amod	_	_
+23	Ciccio	Ciccio	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	comico.	comico.	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

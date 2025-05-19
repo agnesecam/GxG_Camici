@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ian Ernest Gilmore Green noto come Gil Evans,un grande direttore d'orchestra nonchè compositore canadese che ebbe ... http:// fb.me/4sVbm7Ylc
+1	Ian	Ian	PROPN	SP	_	0	root	_	_
+2	Ernest	Ernest	PROPN	SP	_	1	flat:name	_	_
+3	Gilmore	Gilmore	PROPN	SP	_	1	flat:name	_	_
+4	Green	Green	PROPN	SP	_	1	flat:name	_	_
+5	noto	noto	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+6	come	come	ADP	E	_	7	case	_	_
+7	Gil	gil	PROPN	SP	_	5	obl	_	_
+8	Evans,un	Evans,un	PROPN	SP	_	7	flat:name	_	_
+9	grande	grande	ADJ	A	Number=Sing	10	amod	_	_
+10	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	7	appos	_	_
+11	d'	di	ADP	E	_	12	case	_	SpaceAfter=No
+12	orchestra	orchestra	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+13	nonchè	nonché	CCONJ	CC	_	14	cc	_	_
+14	compositore	compositore	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	_
+15	canadese	canadese	NOUN	S	Number=Sing	14	compound	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
+18	...	...	PUNCT	FF	_	19	punct	_	_
+19	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	10	punct	_	_
+22	fb.me/4sVbm7Ylc	fb.me/4sVbm7Ylc	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

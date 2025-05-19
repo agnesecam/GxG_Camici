@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le migliori app per il make-up su Android:
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	3	amod	_	_
+3	app	app	NOUN	S	_	0	root	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	make-up	make-up	NOUN	S	Gender=Masc	3	nmod	_	_
+7	su	su	ADP	E	_	8	case	_	_
+8	Android	Android	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = Oggi ci rivolgiamo in particolare a tutte le nostre lettrici (ma no... http:// bit.ly/1qzotht
+1	Oggi	oggi	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+3	rivolgiamo	rivolgere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	particolare	particolare	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	a	a	ADP	E	_	10	case	_	_
+7	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	10	det:predet	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	lettrici	lettore	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+11	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+12	ma	ma	CCONJ	CC	_	13	cc	_	_
+13	no...	no.	NOUN	S	_	3	conj	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	bit.ly/1qzotht	bit.ly/1qzotht	CCONJ	CC	_	3	cc	_	SpacesAfter=\n
+

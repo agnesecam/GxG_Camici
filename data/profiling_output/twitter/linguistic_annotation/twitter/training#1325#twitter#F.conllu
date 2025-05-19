@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu, io e le nostre bici:
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	bici	bico	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = la domenica perfetta.
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	perfetta	perfetto	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\s\s
+
+# sent_id = 3
+# text = Simbiosi • Afterhours #rockerlife_pr … http:// ift.tt/20st1Cn pic.twitter.com/vXN9k5VePG
+1	Simbiosi	Simbioso	PROPN	SP	_	0	root	_	_
+2	•	•	PUNCT	FF	_	3	punct	_	_
+3	Afterhours	Afterhours	PROPN	SP	_	1	conj	_	_
+4	#rockerlife_pr	#rockerlife_pre	ADJ	A	_	3	amod	_	_
+5	…	…	PUNCT	FF	_	3	punct	_	_
+6	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	3	punct	_	_
+9	ift.tt/20st1Cn	ift.tt/20st1Cn	PROPN	SP	_	1	flat:name	_	_
+10	pic.twitter.com/vXN9k5VePG	pic.twitter.com/vXN9k5VePg	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

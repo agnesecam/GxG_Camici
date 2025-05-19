@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il figlio di #Schumacher ora ha un sito web, un profilo Instagram e farà la F4 italiana e tedesca.Prima invece guai a pubblicare una foto...
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	#Schumacher	#Schumacher	PROPN	SP	_	2	nmod	_	_
+5	ora	ora	ADV	B	_	6	advmod	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sito	sito	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	web	web	NOUN	S	Gender=Masc	8	compound	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	6	punct	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	profilo	profilo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+13	Instagram	Instagram	PROPN	SP	_	12	nmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	conj	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	F4	F4	PROPN	SP	_	15	obj	_	_
+18	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	tedesca.Prima	tedesca.Prima	ADJ	A	Gender=Fem|Number=Sing	18	conj	_	_
+21	invece	invece	ADV	B	_	22	advmod	_	_
+22	guai	guai	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	xcomp	_	_
+23	a	a	ADP	E	_	24	mark	_	_
+24	pubblicare	pubblicare	VERB	V	VerbForm=Inf	22	xcomp	_	_
+25	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	foto..	foto..	NOUN	S	_	24	obj	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

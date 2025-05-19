@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @serenatara_ dicevo che non è bello urlare DC in pubblico però è anche vero che sono americani quindi posso farlo dunque ciao vado a urlare
+1	@serenatara_	@serenatara-	PUNCT	FB	_	2	punct	_	_
+2	dicevo	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	14	parataxis	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	bello	bello	ADJ	A	Gender=Masc|Number=Sing	2	ccomp	_	_
+7	urlare	urlare	VERB	V	VerbForm=Inf	6	csubj	_	_
+8	DC	DC	PROPN	SP	_	7	obj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+11	però	però	ADV	B	_	14	advmod	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	anche	anche	ADV	B	_	14	advmod	_	_
+14	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+15	che	che	SCONJ	CS	_	17	mark	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	americani	americano	ADJ	A	Gender=Masc|Number=Plur	14	ccomp	_	_
+18	quindi	quindi	ADV	B	_	20	advmod	_	_
+19	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20-21	farlo	_	_	_	_	_	_	_	_
+20	far	fare	VERB	V	VerbForm=Inf	24	csubj	_	_
+21	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+22	dunque	dunque	ADV	B	_	23	advmod	_	_
+23	ciao	ciao	ADJ	A	Gender=Masc|Number=Sing	20	xcomp	_	_
+24	vado	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+25	a	a	ADP	E	_	26	mark	_	_
+26	urlare	urlare	VERB	V	VerbForm=Inf	24	xcomp	_	SpacesAfter=\n
+

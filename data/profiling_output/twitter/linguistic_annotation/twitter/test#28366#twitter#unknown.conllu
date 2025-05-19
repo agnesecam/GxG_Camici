@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = peccato, ci saremmo divertite io e lei si sarebbe svagata un po e di conseguenza sarebbe stata meglio.
+1	peccato	peccato	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+4	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	divertite	divertire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+10	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	svagata	svagare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	po	po	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	conseguenza	conseguenza	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
+17	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+18	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	cop	_	_
+19	meglio	meglio	ADV	B	_	11	advmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

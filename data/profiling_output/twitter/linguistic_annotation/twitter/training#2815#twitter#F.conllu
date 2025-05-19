@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alealbenga @PremiumSportHD @MauroIcardi @Inter già talmente scarsi da far sembrare Molinaro un fenomeno
+1	@alealbenga	@alealbenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@PremiumSportHD	@PremiumSportHD	PROPN	SP	_	7	obj	_	_
+3	@MauroIcardi	@MauroIcardi	PROPN	SP	_	2	flat:name	_	_
+4	@Inter	@Inter	PROPN	SP	_	2	flat:name	_	_
+5	già	già	ADV	B	_	7	advmod	_	_
+6	talmente	talmente	ADV	B	_	7	advmod	_	_
+7-8	scarsi	_	_	_	_	_	_	_	_
+7	scar	scarre	VERB	V	VerbForm=Inf	1	xcomp	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	da	da	ADP	E	_	10	mark	_	_
+10	far	fare	VERB	V	VerbForm=Inf	7	advcl	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	14	acl	_	_
+12	Molinaro	Molinaro	PROPN	SP	_	11	xcomp	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fenomeno	fenomeno	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpacesAfter=\n
+

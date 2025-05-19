@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IsolaDeiFamosi e te pareva!!!!!!!!
+1	@IsolaDeiFamosi	@IsolaDeiFamoso	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+4	pareva	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	SpaceAfter=No
+5	!!!!!!!!	!!!!!!!!	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 2
+# text = Per Simona sempre video, per altri neppure una parolina.
+1	Per	per	ADP	E	_	2	case	_	_
+2	Simona	Simona	PROPN	SP	_	0	root	_	_
+3	sempre	sempre	ADV	B	_	4	advmod	_	_
+4	video	video	ADJ	A	_	2	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	nmod	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	10	advmod	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	parolina	parolina	NOUN	S	Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Figli e figliastri.
+1	Figli	figlio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	figliastri	figliastro	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = #isola #isoladiCARTA
+1	#isola	#isola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	#isoladiCARTA	#isoladiCARTA	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

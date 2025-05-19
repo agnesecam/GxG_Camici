@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SloveniaInfoRotta balcanica, ovvero i più poveri accolti nell'unione europea, sono quelli che chiudono le frontiere,l' avessimo fatto a voi
+1	@SloveniaInfoRotta	@SloveniaInfoRotta	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+2	balcanica	balcanico	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	8	punct	_	_
+4	ovvero	ovvero	CCONJ	CC	_	8	cc	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	poveri	povero	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+8	accolti	accogliere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+9-10	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+9	in	in	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	unione	unione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+12	europea	europeo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	1	punct	_	_
+14	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	chiudono	chiudere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	frontiere,l'	frontiere,lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+20	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	21	aux	_	_
+21	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
+22	a	a	ADP	E	_	23	case	_	_
+23	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	21	obl	_	SpacesAfter=\n
+

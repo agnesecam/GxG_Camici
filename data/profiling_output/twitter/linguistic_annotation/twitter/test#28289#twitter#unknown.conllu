@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @scar15385 saremmo già finiti prima d'iniziare...
+1	@scar15385	@scar15385	NUM	N	NumType=Card	4	nummod	_	_
+2	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	già	già	ADV	B	_	4	advmod	_	_
+4	finiti	finire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	prima	prima	ADV	B	_	7	case	_	_
+6	d'	di	ADP	E	_	5	fixed	_	SpaceAfter=No
+7	iniziare..	iniziare..	NOUN	S	_	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

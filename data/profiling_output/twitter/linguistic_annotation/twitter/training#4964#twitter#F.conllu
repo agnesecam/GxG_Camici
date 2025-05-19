@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Accanto ad Englaro, nell'orda oscena di pagnotte e bottiglie d'acqua, ci fu . @ignaziomarino #unmarzianoaroma https:// twitter.com/pierofilo/stat us/718133360221151233 …
+1	Accanto	accanto	ADV	B	_	3	case	_	_
+2	ad	a	ADP	E	_	1	fixed	_	_
+3	Englaro	Englaro	PROPN	SP	_	17	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5-6	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+5	in	in	ADP	E	_	8	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+7	orda	ordo	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	oscena	oscena	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	pagnotte	pagnotta	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	bottiglie	bottiglia	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	_
+13	d'	di	ADP	E	_	14	case	_	SpaceAfter=No
+14	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	3	punct	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	17	expl	_	_
+17	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+18	.	.	PUNCT	FS	_	19	punct	_	_
+19	@ignaziomarino	@ignaziomarino	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
+20	#unmarzianoaroma	#unmarzianoaromo	ADV	B	_	19	advmod	_	_
+21	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	twitter.com/pierofilo/stat	twitter.com/pierofilo/stare	CCONJ	CC	_	25	cc	_	_
+25	us/718133360221151233	us/718133360221151233	NUM	N	NumType=Range	17	conj	_	_
+26	…	…	PUNCT	FF	_	17	punct	_	SpacesAfter=\n
+

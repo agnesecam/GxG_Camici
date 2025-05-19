@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pisto_gol @YouTube fara ' parlare molto di se', fortunata la squadra che lo avra', sicuro che non verra,' in serie A. Peccato
+1	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@YouTube	@YouTube	PROPN	SP	_	0	root	_	_
+3	fara	faro	ADP	E	_	5	case	_	_
+4	'	'	PUNCT	FB	_	5	punct	_	_
+5	parlare	parlare	VERB	V	VerbForm=Inf	11	obl	_	_
+6	molto	molto	ADV	B	_	5	advmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8-9	se'	_	_	_	_	_	_	_	SpaceAfter=No
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	obl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	,	,	PUNCT	FF	_	5	punct	_	_
+11	fortunata	fortunare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	avra	avrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
+17	'	'	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+20	che	che	PRON	PR	PronType=Rel	25	case	_	_
+21	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+22	verra,	verra,	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	'	'	PUNCT	FB	_	20	punct	_	_
+24	in	in	ADP	E	_	25	case	_	_
+25	serie	serie	NOUN	S	Gender=Fem	19	obl	_	_
+26	A	A	PROPN	SP	_	25	flat:name	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	25	punct	_	_
+28	Peccato	peccato	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

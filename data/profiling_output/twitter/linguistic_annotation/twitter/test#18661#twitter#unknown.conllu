@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noi #retake e abbonamento atac..al nuovo sindaco il compito di sanare questo scempio!
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	_
+2	#retake	#retake	NOUN	S	_	1	appos	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	abbonamento	abbonamento	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+5	atac..al	atac..al	ADJ	A	_	4	amod	_	_
+6	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+7	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	compito	compito	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	sanare	sanare	VERB	V	VerbForm=Inf	9	acl	_	_
+12	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+13	scempio	scempio	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = A ciascuno il suo..
+1	A	a	ADP	E	_	2	case	_	_
+2	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	suo.	suo.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Si spera!! https:// twitter.com/ilmessaggeroit /status/716866809106931712 …
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	spera	sperare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!!	!!	PUNCT	FF	_	7	punct	_	_
+4	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	_
+7	twitter.com/ilmessaggeroit	twitter.com/ilmessaggeroit	SYM	X	_	2	xcomp	_	_
+8	/status/716866809106931712	/status/716866809106931712	NUM	N	NumType=Card	7	nummod	_	_
+9	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

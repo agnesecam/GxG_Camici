@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #OscarBranzani ossia la rappresentazione palese che con i filtri Instagram c'è speranza per tutti di sembrare belli.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	OscarBranzani	OscarBranzani	PROPN	SP	_	0	root	_	_
+3	ossia	ossia	CCONJ	CC	_	5	cc	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	rappresentazione	rappresentazione	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+6	palese	palese	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	filtri	filtro	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+11	Instagram	Instagram	PROPN	SP	_	10	nmod	_	_
+12	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	SpaceAfter=No
+13	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+14	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	14	nmod	_	_
+17	di	di	ADP	E	_	18	mark	_	_
+18	sembrare	sembrare	VERB	V	VerbForm=Inf	14	acl	_	_
+19	belli	bello	ADJ	A	Gender=Masc|Number=Plur	18	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

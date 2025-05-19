@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensandoci,2 mesi fa stavamo messi malissimo,abbiamo recuperato un bel po' di punti, fatto 8 vittorie consecutive ed ora c'e' la pausa...
+1	Pensandoci,2	Pensandoci,2	NUM	N	NumType=Card	2	nummod	_	_
+2	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+3	fa	fa	ADV	B	_	2	advmod	_	_
+4	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+5	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+6	malissimo	male	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	recuperato	recuperare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	bel	bello	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	po'	poco	ADV	B	_	14	advmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	punti	punto	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+17	8	8	NUM	N	NumType=Card	18	nummod	_	_
+18	vittorie	vittoria	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+19	consecutive	consecutivo	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	_
+20	ed	e	CCONJ	CC	_	22	cc	_	_
+21	ora	ora	ADV	B	_	22	advmod	_	_
+22-23	c'e'	_	_	_	_	_	_	_	_
+22	c'i	c'o	NOUN	S	Gender=Masc|Number=Plur	25	conj	_	_
+23	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	pausa...	pausa...	NOUN	S	_	18	nmod	_	SpacesAfter=\n
+

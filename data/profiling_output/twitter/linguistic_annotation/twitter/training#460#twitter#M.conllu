@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come se oggi non avessimo mangiato abbastanza!
+1	Come	come	ADV	B	_	6	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	oggi	oggi	ADV	B	_	6	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	mangiato	mangiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	abbastanza	abbastanza	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #whitebakery #rimini #Pasqua pic.twitter.com/B4pY1Q9Zcl
+1	#whitebakery	#whitebakery	DET	DI	PronType=Ind	2	det	_	_
+2	#rimini	#rimino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	#Pasqua	#Pasquo	PROPN	SP	_	2	nmod	_	_
+4	pic.twitter.com/B4pY1Q9Zcl	pic.twitter.com/B4pY1Q9Zcl	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #celato il risentimento, feci finta di nulla.La rabbia dentro mi distruggeva,ma mi mancava la forza per discutere,o di darci un taglio netto
+1	#celato	#celare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	risentimento	risentimento	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	feci	feci	NUM	N	NumType=Card	6	nummod	_	_
+6	finta	finta	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	nulla.La	nulla.La	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	rabbia	rabbia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	dentro	dentro	ADV	B	_	12	advmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	distruggeva,ma	distruggeva,mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	_
+14	mancava	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	xcomp	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	forza	forza	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	discutere,o	discutere,o	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+19	di	di	ADP	E	_	20	mark	_	_
+20-21	darci	_	_	_	_	_	_	_	_
+20	dar	dare	VERB	V	VerbForm=Inf	14	advcl	_	_
+21	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	20	expl	_	_
+22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+24	netto	netto	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	SpacesAfter=\n
+

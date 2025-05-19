@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi spieghi Del rio perché di tutte queste inchieste che ha elencato prima expo/Mose/mafiacapitale/c'è sempre dentro il PD?????
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	spieghi	spiego	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	Del	_	_	_	_	_	_	_	_
+3	Di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	rio	rio	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	perché	perché	SCONJ	CS	_	18	mark	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	10	det:predet	_	_
+9	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	inchieste	inchiesta	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	elencato	elencare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+14	prima	prima	ADV	B	_	13	advmod	_	_
+15	expo/Mose/mafiacapitale	expo/Mose/mafiacapitale	PROPN	SP	_	13	obj	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+17	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	18	expl	_	SpaceAfter=No
+18	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+19	sempre	sempre	ADV	B	_	18	advmod	_	_
+20	dentro	dentro	ADV	B	_	18	advmod	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	PD	Pd	PROPN	SP	_	18	nsubj	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #ottoemezzo
+1	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

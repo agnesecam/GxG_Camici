@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rtl1025 @Parpiglia allo Zoo di 105 oggi hanno detto che a Expo eravate radio ufficiale senza "ufficialità".
+1	@rtl1025	@rtl1025	NUM	N	NumType=Card	2	nummod	_	_
+2	@Parpiglia	@Parpiglia	PROPN	SP	_	10	nsubj	_	_
+3-4	allo	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Zoo	zoo	NOUN	S	Gender=Masc	2	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	105	105	NUM	N	NumType=Card	5	nummod	_	_
+8	oggi	oggi	ADV	B	_	10	advmod	_	_
+9	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	Expo	expo	PROPN	SP	_	10	obl	_	_
+14	eravate	erare	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+15	radio	radio	NOUN	S	Gender=Fem	19	obj	_	_
+16	ufficiale	ufficiale	ADJ	A	Number=Sing	15	amod	_	_
+17	senza	senza	ADP	E	_	19	case	_	_
+18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+19	ufficialità	ufficialità	NOUN	S	Gender=Fem	13	nmod	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Potete chiarire?
+1	Potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	chiarire	chiarire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Siete grandi
+1	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	grandi	grande	ADJ	A	Number=Plur	0	root	_	SpacesAfter=\n
+

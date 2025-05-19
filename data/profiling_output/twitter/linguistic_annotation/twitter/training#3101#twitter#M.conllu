@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - non vorrei sembrare ottimista... - magna tranquillo.
+1	-	-	PUNCT	FF	_	4	punct	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+5	ottimista...	ottimista.	NUM	N	NumType=Card	7	nummod	_	_
+6	-	-	PUNCT	FF	_	5	punct	_	_
+7	magna	magna	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	tranquillo	tranquillo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La realtà oggettiva inquina le nostre idee soggettive in quanto esse nascono da una mente libera da pregiudizi.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	realtà	realtà	NOUN	S	Gender=Fem	4	nsubj	_	_
+3	oggettiva	oggettivo	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	inquina	inquinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	idee	idea	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	soggettive	soggettivo	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+9	in	in	ADP	E	_	12	mark	_	_
+10	quanto	quanto	ADV	B	_	9	fixed	_	_
+11	esse	esso	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	nascono	nascere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	mente	mente	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+16	libera	libero	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+17	da	da	ADP	E	_	18	case	_	_
+18	pregiudizi	pregiudizio	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #citandome #filosoficando
+1	#citandome	#citandome	ADV	B	_	2	advmod	_	_
+2	#filosoficando	#filosoficare	VERB	V	VerbForm=Ger	0	root	_	SpacesAfter=\n
+

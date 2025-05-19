@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Brasile #RosettaBrambilla <3 La bellezza è possibile dovunque . http:// fb.me/3sAQkCPsZ
+1	#Brasile	#Brasile	ADJ	A	Number=Sing	3	amod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	RosettaBrambilla	RosettaBrambilla	PROPN	SP	_	0	root	_	_
+4	<3	<3	NUM	N	NumType=Card	8	nummod	_	_
+5	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	bellezza	bellezza	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	possibile	possibile	ADJ	A	Number=Sing	3	amod	_	_
+9	dovunque	dovunque	NUM	N	NumType=Card	8	nummod	_	_
+10	.	.	PUNCT	FS	_	9	punct	_	_
+11	http:	http:	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	8	punct	_	_
+14	fb.me/3sAQkCPsZ	fb.me/3sAQkCPsZ	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

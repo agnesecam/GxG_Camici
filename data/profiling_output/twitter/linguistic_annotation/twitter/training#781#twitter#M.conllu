@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E mannaggia idddio se li avessimo preso noi sti madridisti finiva 4-0 a Torino e 0-4 a Madrid!
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	mannaggia	mannaggiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	idddio	idddio	ADV	B	_	2	advmod	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+9	sti	sto	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+10	madridisti	madridista	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	finiva	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	parataxis	_	_
+12	4	4	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	0	0	NUM	N	NumType=Card	12	compound	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	Torino	Torino	PROPN	SP	_	11	obl	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	0	0	NUM	N	NumType=Card	16	conj	_	SpaceAfter=No
+19	-4	-4	NUM	N	NumType=Card	21	nummod	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	Madrid	Madrid	PROPN	SP	_	11	obl	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = E invece ci toccano gli alieni
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	invece	invece	ADV	B	_	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	toccano	toccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	alieni	alieno	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpacesAfter=\n
+

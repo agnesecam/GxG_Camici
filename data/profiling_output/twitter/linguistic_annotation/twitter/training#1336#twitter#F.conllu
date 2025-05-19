@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Agenzia_Ansa smettiamo in massa di andare in.Egitto per le nostre vacanze???
+1	@Agenzia_Ansa	@Agenzia_Ansa	PROPN	SP	_	2	nsubj	_	_
+2	smettiamo	smettere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	massa	massa	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	andare	andare	VERB	V	VerbForm=Inf	4	acl	_	_
+7	in.Egitto	in.Egitto	ADV	B	_	6	advmod	_	_
+8	per	per	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	vacanze	vacanza	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

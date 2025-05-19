@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma invece di fare i giuochi di ruolo,perché non provate la patata?
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	invece	invece	ADV	B	_	4	mark	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	giuochi	giuoco	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	ruolo	ruolo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,perché	,perché	SCONJ	CS	_	11	mark	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	provate	provare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	patata	patata	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = vi giuro che è da paura!ve farà passa' pure l'acne che vi devasta il viso
+1	vi	vi	ADV	B	_	2	advmod	_	_
+2	giuro	giurare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	paura!ve	paura!va	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+8	passa	passa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	12	punct	_	_
+10	pure	pure	ADV	B	_	12	advmod	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	acne	acne	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+15	devasta	devanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	viso	viso	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	SpacesAfter=\n
+

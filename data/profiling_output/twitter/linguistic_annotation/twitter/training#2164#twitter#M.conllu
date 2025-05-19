@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @piattaformabs risultato della differenziata?
+1	@piattaformabs	@piattaformabs	NOUN	S	Gender=Masc	0	root	_	_
+2	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	differenziata	differenziata	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Giargia e badanti mollano sacchi con dentro di tutto fuori dai cassonetti.
+1	Giargia	Giargia	ADV	B	_	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	badanti	badante	ADV	B	_	4	advmod	_	_
+4	mollano	mollare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	sacchi	sacchio	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	dentro	dentro	ADV	B	_	9	case	_	_
+8	di	di	ADP	E	_	7	fixed	_	_
+9	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obl	_	_
+10	fuori	fuori	ADV	B	_	13	case	_	_
+11-12	dai	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	10	fixed	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	cassonetti	cassonetto	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Civili e solidali
+1	Civili	civile	ADJ	A	Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	solidali	solidale	ADJ	A	Number=Plur	1	conj	_	SpacesAfter=\n
+

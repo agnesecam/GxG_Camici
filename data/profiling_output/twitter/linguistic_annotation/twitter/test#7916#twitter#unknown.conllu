@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dunque , vediamo un po. la prima cosa che ti occorre... garden:
+1	dunque	dunque	ADV	B	_	3	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po	po	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	9	punct	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
+9	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+11	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	expl	_	_
+12	occorre...	occorre.	PUNCT	FS	_	11	punct	_	_
+13	garden	garden	INTJ	I	_	9	acl:relcl	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = AVADA KADABRA!
+1	AVADA	AVADA	PROPN	SP	_	0	root	_	_
+2	KADABRA	KADABRA	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #SaturDisney6 la zucca...
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	SaturDisney6	SaturDisney6	PROPN	SP	_	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	zucca...	zucca...	NOUN	S	_	2	nmod	_	_
+
+# sent_id = 4
+# text = LA ZUCCA! VUOLE UCCIDERCI
+1	LA	il	PROPN	SP	_	0	root	_	_
+2	ZUCCA	ZUCCA	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	4	punct	_	_
+4	VUOLE	volere	PROPN	SP	_	1	flat:name	_	_
+5-6	UCCIDERCI	_	_	_	_	_	_	_	SpacesAfter=\n
+5	UCCIDER	uccider	PROPN	SP	_	1	flat:name	_	_
+6	CI	ci	PROPN	SP	_	1	nmod	_	_
+

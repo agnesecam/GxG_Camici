@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @shailenewoodley @Josue_Foto Sono sempre io per sua sfortuna,non vorrei sembrare ossessiva ma volevo dirle che la stimo molto Sig.Shailene
+1	@shailenewoodley	@shailenewoodley	CCONJ	CC	_	5	cc	_	_
+2	@Josue_Foto	@Josue_Foto	PROPN	SP	_	5	nsubj	_	_
+3	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	sempre	sempre	ADV	B	_	5	advmod	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	sfortuna,non	sfortuna,non	NOUN	S	Gender=Fem	10	obl	_	_
+9	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+11	ossessiva	ossessivo	ADJ	A	Gender=Fem|Number=Sing	10	xcomp	_	_
+12	ma	ma	CCONJ	CC	_	14	cc	_	_
+13	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14-15	dirle	_	_	_	_	_	_	_	_
+14	dir	dire	VERB	V	VerbForm=Inf	10	conj	_	_
+15	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+17	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+18	stimo	stimare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+19	molto	molto	ADV	B	_	18	advmod	_	_
+20	Sig.Shailene	Sig.Shailene	PROPN	SP	_	14	obj	_	SpacesAfter=\n
+

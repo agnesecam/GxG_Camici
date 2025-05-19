@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si dice che la vera grandezza, sta nel non far sembrare piccoli gli altri.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	vera	vero	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	grandezza	grandezza	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	12	mark	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	far	fare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	12	ccomp	_	_
+14	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	13	xcomp	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ed è vero.
+1	Ed	e	CCONJ	CC	_	3	cc	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = E non importa se vi... http:// fb.me/2a2mgIu2o
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	importa	importare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	3	conj	_	_
+5	vi...	vi.	PUNCT	FF	_	4	punct	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	fb.me/2a2mgIu2o	fb.me/2a2mgIu2o	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

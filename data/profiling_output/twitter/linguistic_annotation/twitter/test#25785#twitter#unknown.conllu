@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #dallavostraparte non capisco, nel loro paese noi avremmo diritto di replica quando uno parla?
+1	#dallavostraparte	#dallavostraparte	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	capisco	capisco	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	loro	loro	DET	AP	Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	paese	paese	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+10	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+11	diritto	dirivere	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	replica	replicare	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	quando	quando	SCONJ	CS	_	16	mark	_	_
+15	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	nsubj	_	_
+16	parla	parla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = non credo proprio, xchè l'imam non tace?
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	proprio	proprio	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	xchè	xché	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	imam	imam	NOUN	S	_	2	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	tace	tacere	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

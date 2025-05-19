@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma quante ne sa @ValeYellow46 ?!?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	4	det	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	@ValeYellow46	@ValeYellow46	PROPN	SP	_	4	obj	_	_
+6	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Cosa vuoi di più quando sei bello,figo e bomber?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	più	più	ADV	B	_	2	advmod	_	_
+5	quando	quando	SCONJ	CS	_	8	mark	_	_
+6	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	bello	bello	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+8	,figo	,figo	NOUN	S	Gender=Masc|Number=Sing	2	advcl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	bomber	bomber	NOUN	S	Gender=Masc	8	conj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/NiQfJ29pgI
+1	pic.twitter.com/NiQfJ29pgI	pic.twitter.com/NiQfJ29pgI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

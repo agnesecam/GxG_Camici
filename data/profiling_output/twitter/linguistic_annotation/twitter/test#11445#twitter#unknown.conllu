@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaiTv @LauraPausini @RaiUno LAURA E PAOLA due fuoriclasse.
+1	@RaiTv	@RaiTv	PROPN	SP	_	0	root	_	_
+2	@LauraPausini	@LauraPausini	PROPN	SP	_	1	flat:name	_	_
+3	@RaiUno	@RaiUno	PROPN	SP	_	1	flat:name	_	_
+4	LAURA	Laura	PROPN	SP	_	1	flat:name	_	_
+5	E	e	CCONJ	CC	_	6	cc	_	_
+6	PAOLA	Paola	PROPN	SP	_	1	conj	_	_
+7	due	due	NUM	N	NumType=Card	6	nummod	_	_
+8	fuoriclasse.	fuoriclasse.	NOUN	S	_	6	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = farete uno show unico ..
+1	farete	faere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	show	show	NOUN	S	Gender=Masc	1	obj	_	_
+4	unico	unico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

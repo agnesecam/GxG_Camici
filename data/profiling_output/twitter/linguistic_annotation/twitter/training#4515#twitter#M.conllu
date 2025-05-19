@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per noi della lista 'NOI SAMMARITANI' la PRIMA regola DELLA nuova AMMINISTRAZIONE, dovra ' essere SENZA SE E SENZA... http:// fb.me/2wf9gLZhc
+1	Per	per	ADP	E	_	2	case	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	lista	lista	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	'NOI	'NOI	PROPN	SP	_	5	nmod	_	_
+7	SAMMARITANI'	SAMMARITANI'	PROPN	SP	_	6	flat:name	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	PRIMA	primo	PROPN	SP	_	10	nsubj	_	_
+10	regola	regola	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11-12	DELLA	_	_	_	_	_	_	_	_
+11	DI	di	ADP	E	_	12	case	_	_
+12	LA	il	PROPN	SP	_	19	obl	_	_
+13	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14	AMMINISTRAZIONE	amministrazione	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	12	punct	_	_
+16	dovra	dovra	ADP	E	_	19	case	_	_
+17	'	'	PUNCT	FB	_	19	punct	_	_
+18	essere	essere	AUX	V	VerbForm=Inf	19	cop	_	_
+19	SENZA	Senza	PROPN	SP	_	10	obl	_	_
+20	SE	se	PROPN	SP	_	19	flat:name	_	_
+21	E	e	CCONJ	CC	_	22	cc	_	_
+22	SENZA...	SENZA...	PROPN	SP	_	20	conj	_	_
+23	http:	http:	PUNCT	FS	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/2wf9gLZhc	fb.me/2wf9gLZhc	PROPN	SP	_	19	flat:name	_	SpacesAfter=\n
+

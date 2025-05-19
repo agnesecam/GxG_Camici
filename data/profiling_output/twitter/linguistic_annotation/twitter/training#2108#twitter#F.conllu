@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come dentro un film visto e rivisto mille volte, il PDRenzi è partito all'attacco della magistratura.
+1	Come	come	ADP	E	_	4	case	_	_
+2	dentro	dentro	ADV	B	_	4	advmod	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	film	film	NOUN	S	Gender=Masc	14	obl	_	_
+5	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	rivisto	rivedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+8	mille	mille	NUM	N	NumType=Card	9	nummod	_	_
+9	volte	volta	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	PDRenzi	PDRenzi	PROPN	SP	_	14	nsubj	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	partito	partire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15-16	all'	_	_	_	_	_	_	_	SpaceAfter=No
+15	a	a	ADP	E	_	17	case	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+17	attacco	attacco	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	magistratura	magistratura	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Qualcuno si... http:// fb.me/7KKR03cQa
+1	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	si...	si...	PUNCT	FF	_	1	punct	_	_
+3	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	fb.me/7KKR03cQa	fb.me/7KKR03cQa	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

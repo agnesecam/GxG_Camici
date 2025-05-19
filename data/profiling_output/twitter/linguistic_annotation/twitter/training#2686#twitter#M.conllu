@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #IphoneSE
+1	#IphoneSE	#IphoneSE	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2
+# text = È un iPhone che può sembrare piccolo, ma a ben vedere è un grande.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	iPhone	iPhone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+7	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	15	punct	_	_
+9	ma	ma	CCONJ	CC	_	15	cc	_	_
+10	a	a	ADP	E	_	12	mark	_	_
+11	ben	bene	ADV	B	_	12	advmod	_	_
+12	vedere	vedere	VERB	V	VerbForm=Inf	15	advcl	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	grande	grande	ADJ	A	Number=Sing	6	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

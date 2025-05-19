@@ -1,0 +1,75 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se facessimo un esempio, cosa succederebbe se ti sedessi sulla testa di un neonato?
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	nsubj	_	_
+7	succederebbe	succedere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	expl	_	_
+10	sedessi	sedettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	_
+11-12	sulla	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	testa	testa	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	neonato	neonato	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = E un ipotesi non prende… — QUE?
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ipotesi	ipotesi	NOUN	S	Gender=Fem	0	root	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	prende…	prende…	PUNCT	FF	_	3	punct	_	_
+6	—	—	PUNCT	FF	_	3	punct	_	_
+7	QUE	Que	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM7SNTJPQORP6OLDFZBTX2N4FSZMV4ONA2NVKJSHLRCDQL4VI6IJXD4WKVQVY3ELH7H67
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+5	7B667HQMHN2IG6NM7SNTJPQORP6OLDFZBTX2N4FSZMV4ONA2NVKJSHLRCDQL4VI6IJXD4WKVQVY3ELH7H67	7B667HQMHN2IG6NM7SNTJPQORP6OLDFZBTX2N4FSZMV4ONA2NVKJSHLRCDQL4VI6IJXD4WKVQVY3ELH7H67	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+
+# sent_id = 4
+# text = P
+1	P	P	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = Z
+1	Z	Z	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = B
+1	B	B	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 7
+# text = B
+1	B	B	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 8
+# text = AX
+1	AX	AX	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 9
+# text = Q
+1	Q	Q	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 10
+# text = V
+1	V	V	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 11
+# text = ANDSICBQTG67EDWKC4OPHQPQ6RT33V2SYSFY7ZTKC7B4KJ2PAUQBF4XMXLTU6YDKUV3TNRKWOY36ADN3GTQGH5NAL5W5734IZMFCHUFYNRDDLDUUUKMNRFQ====== …
+1	ANDSICBQTG67EDWKC4OPHQPQ6RT33V2SYSFY7ZTKC7B4KJ2PAUQBF4XMXLTU6YDKUV3TNRKWOY36ADN3GTQGH5NAL5W5734IZMFCHUFYNRDDLDUUUKMNRFQ======	ANDSICBQTG67EDWKC4OPHQPQ6RT33V2SYSFY7ZTKC7B4KJ2PAUQBF4XMXLTU6YDKUV3TNRKWOY36ADN3GTQGH5NAL5W5734IZMFCHUFYNRDDLDUUUKMNRFQ======	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

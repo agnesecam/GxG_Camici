@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @KotetsuJeegu @marika_mk e dell'asteroide che tra 2 milioni di anni dovrà colpire la terra?
+1	@KotetsuJeegu	@KotetsuJeegu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@marika_mk	@marika_mk	NOUN	S	Gender=Masc	0	root	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4-5	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+4	di	di	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	asteroide	asteroide	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+7	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+8	tra	tra	ADP	E	_	10	case	_	_
+9	2	2	NUM	N	NumType=Card	10	nummod	_	_
+10	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	anni	anno	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14	colpire	colpire	VERB	V	VerbForm=Inf	6	acl:relcl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	terra	terra	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

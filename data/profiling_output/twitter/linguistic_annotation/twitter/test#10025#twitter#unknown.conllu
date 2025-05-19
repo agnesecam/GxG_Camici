@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giovedì gnocchi!
+1	Giovedì	giovedì	NOUN	S	Gender=Masc	0	root	_	_
+2	gnocchi	gnocco	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E a Roma si fanno cacio e pepe!!
+1	E	e	CCONJ	CC	_	5	cc	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Roma	Roma	PROPN	SP	_	5	obl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:pass	_	_
+5	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	cacio	cacio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	pepe!	pepe!	PUNCT	FS	_	5	conj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = E si, come li faceva la nonna..solo un po' più colorati (solo... http:// fb.me/2aAuXLskZ
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	come	come	SCONJ	CS	_	6	mark	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	nonna..solo	nonna..solo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+10	po'	poco	ADV	B	_	11	advmod	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	colorati	colorato	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	_
+13	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	solo...	solo.	PUNCT	FS	_	12	punct	_	_
+15	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	12	punct	_	_
+18	fb.me/2aAuXLskZ	fb.me/2aAuXLskZ	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

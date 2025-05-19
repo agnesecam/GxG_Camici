@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @luanacinquina nooo..
+1	@luanacinquina	@luanacinquina	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	nooo.	nooo.	NOUN	S	_	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Niente caffe ancora.
+1	Niente	niente	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	caffe	caffa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	ancora	ancora	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Fra 45 minuti appena arrivo all'altra stazione.
+1	Fra	fra	ADP	E	_	3	case	_	_
+2	45	45	NUM	N	NumType=Card	3	nummod	_	_
+3	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+4	appena	appena	ADV	B	_	5	advmod	_	_
+5	arrivo	arrivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6-7	all'	_	_	_	_	_	_	_	SpaceAfter=No
+6	a	a	ADP	E	_	9	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+8	altra	altro	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	stazione	stazione	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = Se fossimo vicine passerei da te la mattina
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	vicine	vicino	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+4	passerei	passare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono talmente rincoglionita che ho messo a scaldare il pentolino senza latte dentro
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	talmente	talmente	ADV	B	_	3	advmod	_	_
+3	rincoglionita	rincoglionire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	scaldare	scaldare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pentolino	pentolino	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	senza	senza	ADP	E	_	12	case	_	_
+12	latte	latta	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+13	dentro	dentro	ADV	B	_	3	advmod	_	SpacesAfter=\n
+

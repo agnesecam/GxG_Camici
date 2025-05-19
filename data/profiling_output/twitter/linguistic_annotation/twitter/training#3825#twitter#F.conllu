@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E in tutto ciò i La Rua sono ancora in gara.
+1	E	e	CCONJ	CC	_	11	cc	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	obl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	La	il	PROPN	SP	_	11	nsubj	_	_
+7	Rua	Rua	PROPN	SP	_	6	flat:name	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	ancora	ancora	ADV	B	_	11	advmod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	gara	gara	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = #Amici15
+1	#Amici15	#Amici15	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

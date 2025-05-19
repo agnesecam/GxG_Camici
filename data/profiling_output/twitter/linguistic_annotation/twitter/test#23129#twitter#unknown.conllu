@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi scoccia non riuscire a dormire, domani avrò un sacco da studiare
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	scoccia	scocciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	riuscire	riuscire	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	dormire	dormire	VERB	V	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	domani	domani	ADV	B	_	9	advmod	_	_
+9	avrò	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	conj	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	da	da	ADP	E	_	13	mark	_	_
+13	studiare	studiare	VERB	V	VerbForm=Inf	9	acl	_	SpacesAfter=\n
+

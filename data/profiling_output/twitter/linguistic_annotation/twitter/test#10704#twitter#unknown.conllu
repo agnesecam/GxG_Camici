@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sto iniziando a sospettare che sia assai più facile uscire per sempre dalla criminalità organizzata che dalla banca dati di AlmaLaurea
+1	Sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	iniziando	iniziare	VERB	V	VerbForm=Ger	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	sospettare	sospettare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	assai	assai	ADV	B	_	9	advmod	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	facile	facile	ADJ	A	Number=Sing	4	ccomp	_	_
+10	uscire	uscire	VERB	V	VerbForm=Inf	9	csubj	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	sempre	sempre	ADV	B	_	10	advmod	_	_
+13-14	dalla	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	criminalità	criminalità	NOUN	S	Gender=Fem	10	obl	_	_
+16	organizzata	organizzare	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+17	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+18-19	dalla	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	banca	banca	NOUN	S	Gender=Fem|Number=Sing	17	obl:agent	_	_
+21	dati	dato	NOUN	S	Gender=Masc|Number=Plur	20	compound	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	AlmaLaurea	AlmaLaurea	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

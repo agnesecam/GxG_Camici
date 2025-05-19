@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo segnato i rigori avremmo 9 punti in più.
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	segnato	segnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	rigori	rigore	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+6	9	9	NUM	N	NumType=Card	7	nummod	_	_
+7	punti	punto	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	più	più	ADV	B	_	5	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = É una stagione storta.
+1	É	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	storta	storto	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Fine di un ciclo #TorinoLazio
+1	Fine	fine	ADV	B	_	4	case	_	_
+2	di	di	ADP	E	_	1	fixed	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ciclo	ciclo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	#TorinoLazio	#TorinoLazio	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

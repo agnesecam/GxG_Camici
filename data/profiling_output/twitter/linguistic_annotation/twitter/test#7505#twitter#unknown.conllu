@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Guidare i processi e non farsi guidare da essi " @guerini_lorenzo @CovelloStefania @Emagorno a sostegno di @PrestaLucio a #SindacodiCosenza
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Guidare	guidare	VERB	V	VerbForm=Inf	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	processi	processo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7-8	farsi	_	_	_	_	_	_	_	_
+7	far	fare	VERB	V	VerbForm=Inf	2	conj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	guidare	guidare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	@guerini_lorenzo	@guerini_lorenzo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	@CovelloStefania	@CovelloStefania	PROPN	SP	_	11	nmod	_	_
+15	@Emagorno	@Emagorno	PROPN	SP	_	14	flat:name	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	sostegno	sostegno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	@PrestaLucio	@PrestaLucio	PROPN	SP	_	17	nmod	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	#	#	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+22	SindacodiCosenza	SindacodiCosenza	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

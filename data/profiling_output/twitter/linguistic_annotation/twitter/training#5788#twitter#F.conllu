@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non vedo l'ora che arrivi l'estate !!
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	ora	ora	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	estate	estate	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sole, mare , bikini ... 󾓚 󾁇󾟞 󾓚 󾁇󾟞 󾓚 󾁇󾟞 󾓚 Opssssss per qualcuna il... http:// fb.me/4zQb88jq9
+1	Sole	sole	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	mare	mare	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	bikini	bikino	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+6	...	.	PUNCT	FF	_	7	punct	_	_
+7	󾓚	󾓚	PROPN	SP	_	1	conj	_	_
+8	󾁇󾟞	󾁇󾟞	PROPN	SP	_	7	flat:name	_	_
+9	󾓚	󾓚	PROPN	SP	_	7	flat:name	_	_
+10	󾁇󾟞	󾁇󾟞	PROPN	SP	_	7	flat:name	_	_
+11	󾓚	󾓚	PROPN	SP	_	7	flat:name	_	_
+12	󾁇󾟞	󾁇󾟞	PROPN	SP	_	7	flat:name	_	_
+13	󾓚	󾓚	PROPN	SP	_	7	flat:name	_	_
+14	Opssssss	Opssssss	PROPN	SP	_	7	flat:name	_	_
+15	per	per	ADP	E	_	17	case	_	_
+16	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	il...	il...	NOUN	S	_	7	nmod	_	_
+18	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	7	punct	_	_
+21	fb.me/4zQb88jq9	fb.me/4zQb88jq9	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

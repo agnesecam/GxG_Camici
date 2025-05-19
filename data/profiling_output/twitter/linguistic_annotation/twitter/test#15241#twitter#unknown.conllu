@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #omnibusla7 se sulle pensioni in atto si facesse riferimento ai contributi versati tante chiacchiere in meno
+1	#omnibusla7	#omnibusla7	NUM	N	NumType=Card	0	root	_	_
+2	se	se	SCONJ	CS	_	9	mark	_	_
+3-4	sulle	_	_	_	_	_	_	_	_
+3	su	su	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	pensioni	pensione	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	atto	atto	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+10	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	contributi	contributo	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14	versati	versare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+15	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
+16	chiacchiere	chiacchiere	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	meno	meno	ADV	B	_	14	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho scoperto il mio nuovo personaggio preferito di un film :) Appeso come facesse bungee ju… http:// ift.tt/1ZGLbzS pic.twitter.com/mNuyHh1C5a
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	scoperto	scoprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	parataxis	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+5	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	personaggio	personaggio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+7	preferito	preferire	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	film	film	NOUN	S	Gender=Masc	6	nmod	_	_
+11	:	:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	2	punct	_	_
+13	Appeso	appendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	_
+14	come	come	ADP	E	_	15	case	_	_
+15	facesse	fare	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+16	bungee	bungea	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+17	ju…	ju…	PUNCT	FF	_	18	punct	_	_
+18	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	15	punct	_	_
+21	ift.tt/1ZGLbzS	ift.tt/1ZGLbzS	PROPN	SP	_	0	root	_	_
+22	pic.twitter.com/mNuyHh1C5a	pic.twitter.com/mNuyHh1C5a	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

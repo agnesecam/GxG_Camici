@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BarbaraSegaler1 @MetaErmal @famedalupi a me tutti i twit non me li apre.
+1	@BarbaraSegaler1	@BarbaraSegaler1	PROPN	SP	_	0	root	_	_
+2	@MetaErmal	@MetaErmal	PROPN	SP	_	1	flat:name	_	_
+3	@famedalupi	@famedalupo	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	twit	twit	NOUN	S	_	1	appos	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+12	apre.	apre.	NOUN	S	_	8	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..lo facesse chi ha capito io sono sfinita
+1	..lo	..lo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+2	facesse	fare	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	chi	chi	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	xcomp	_	_
+7	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	sfinita	sfinire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

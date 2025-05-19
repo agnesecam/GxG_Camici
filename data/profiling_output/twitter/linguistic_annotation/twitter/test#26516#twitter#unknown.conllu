@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi Belgio fino quando avremo la Mogherini,stragi stragi e stragi ancora.
+1	@matteorenzi	@matteorenzi	ADP	E	_	2	case	_	_
+2	Belgio	Belgio	PROPN	SP	_	0	root	_	_
+3	fino	fino	ADP	E	_	5	mark	_	_
+4	quando	quando	SCONJ	CS	_	3	fixed	_	_
+5	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Mogherini,stragi	Mogherini,stragi	PROPN	SP	_	5	obj	_	_
+8	stragi	strago	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	stragi	strago	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+11	ancora	ancora	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

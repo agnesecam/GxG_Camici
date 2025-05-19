@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #leggerelacittà #pistoia #eventi un autobus "teatrale".
+1	#leggerelacittà	#leggerelacittà	NOUN	S	Gender=Fem	0	root	_	_
+2	#pistoia	#pistoio	ADV	B	_	5	advmod	_	_
+3	#eventi	#evere	ADJ	A	Number=Plur	5	amod	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	autobus	autobus	NOUN	S	Gender=Masc	1	nmod	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	teatrale	teatrale	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Domani, un viaggio dentro la città,con il teatro #labaracca pic.twitter.com/cgUx0x6xX3
+1	Domani	domani	ADV	B	_	11	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+5	dentro	dentro	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	città	città	NOUN	S	Gender=Fem	4	nmod	_	SpaceAfter=No
+8	,con	,con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	teatro	teatro	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+11	#labaracca	#labaracco	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	pic.twitter.com/cgUx0x6xX3	pic.twitter.com/cgUx0x6xX3	PROPN	SP	_	11	obj	_	SpacesAfter=\n
+

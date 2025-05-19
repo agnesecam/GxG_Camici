@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @milkomario @igolmar Io non faccio i complimenti a nessuno perché se avessimo giocato da Juve stai ben sicuro che al 45esimo eravate già
+1	@milkomario	@milkomario	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+2	@igolmar	@igolmare	ADJ	A	Number=Sing	1	amod	_	_
+3	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obl	_	_
+10	perché	perché	ADV	B	_	16	advmod	_	_
+11	se	se	SCONJ	CS	_	13	mark	_	_
+12	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	Juve	Juve	PROPN	SP	_	13	obl	_	_
+16	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+17	ben	bene	ADV	B	_	18	advmod	_	_
+18	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	23	xcomp	_	_
+19	che	che	SCONJ	CS	_	23	mark	_	_
+20-21	al	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	45esimo	45esimo	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
+23	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	16	ccomp	_	_
+24	già	già	ADV	B	_	23	advmod	_	SpacesAfter=\n
+

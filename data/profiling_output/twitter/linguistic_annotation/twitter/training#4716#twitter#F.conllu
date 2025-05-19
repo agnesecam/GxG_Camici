@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uscita scout con camminata di 28 km, credo di non avere più i piedi e credo che la palestra dovrà aspettare di nuovo
+1	Uscita	uscita	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	scout	scout	NOUN	S	Gender=Masc	1	obj	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	camminata	camminata	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	28	28	NUM	N	NumType=Card	7	nummod	_	_
+7	km	chilometro	NOUN	S	Gender=Masc	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	di	di	ADP	E	_	12	mark	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	avere	avere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+13	più	più	ADV	B	_	12	advmod	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+18	che	che	SCONJ	CS	_	22	mark	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	palestra	palestra	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+21	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	aux	_	_
+22	aspettare	aspettare	VERB	V	VerbForm=Inf	17	ccomp	_	_
+23	di	di	ADP	E	_	24	case	_	_
+24	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	22	obl	_	SpacesAfter=\n
+

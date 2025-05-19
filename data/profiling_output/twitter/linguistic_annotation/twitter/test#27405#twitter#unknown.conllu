@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @serracchiani @coldiretti non abbiano bisogno di protezione.
+1	@serracchiani	@serracchiano	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	@coldiretti	@coldiretto	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	abbiano	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	protezione	protezione	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = ..basterebbe che I politici facessero il loro lavoro !! pic.twitter.com/n9ysk8aRew
+1	..basterebbe	..bastare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	politici	politico	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	loro	loro	DET	AP	Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	!!	!!	PUNCT	FF	_	5	punct	_	_
+10	pic.twitter.com/n9ysk8aRew	pic.twitter.com/n9ysk8aRew	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

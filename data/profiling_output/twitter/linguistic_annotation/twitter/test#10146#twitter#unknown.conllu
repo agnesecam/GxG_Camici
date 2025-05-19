@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #TakeMeOut #PartyNight Cosa ha detto Eleonora?!?
+1	#TakeMeOut	#TakeMeOut	PROPN	SP	_	5	nsubj	_	_
+2	#PartyNight	#PartyNight	PROPN	SP	_	1	flat:name	_	_
+3	Cosa	cosa	PROPN	SP	_	1	flat:name	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	Eleonora	Eleonora	PROPN	SP	_	5	obj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Se il padre era single cosa faceva ?!?
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	padre	padre	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	single	single	ADJ	A	Number=Sing	7	advcl	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	nsubj	_	_
+7	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	?	?	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+9	!?	!?	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

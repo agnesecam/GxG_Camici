@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @angiar63 sgarbi non mi pare l'ultimo degli scemi ma un critico assai competente della scuola di federico zeri.
+1	@angiar63	@angiar63	NUM	N	NumType=Card	2	nummod	_	_
+2	sgarbi	sgarbo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	ultimo	ultimo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8-9	degli	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	scemi	scema	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	ma	ma	CCONJ	CC	_	13	cc	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	critico	critico	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	_
+14	assai	assai	ADV	B	_	15	advmod	_	_
+15	competente	competente	ADJ	A	Number=Sing	13	amod	_	_
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	federico	federico	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+21	zeri	zere	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = è ha ragione quando dice...
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	quando	quando	SCONJ	CS	_	5	mark	_	_
+5	dice...	dice.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

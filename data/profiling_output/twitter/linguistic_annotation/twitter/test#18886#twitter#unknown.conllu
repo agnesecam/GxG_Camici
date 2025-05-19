@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A ciascuno il proprio spazio !
+1	A	a	ADP	E	_	2	case	_	_
+2	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Se mi vuoi mi trovi solo su http://www.
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	_
+3	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	_
+5	trovi	trovare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	solo	solo	ADV	B	_	8	advmod	_	_
+7	su	su	ADP	E	_	8	case	_	_
+8	http://www	http://www	NOUN	S	_	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = omadadesign.com #casalinghi … https://www.
+1	omadadesign.com	omadadesign.com	NOUN	S	Gender=Masc	0	root	_	_
+2	#casalinghi	#casalingo	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	https://www	https://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = instagram.com/p/BDG8Wf2tq0H/
+1	instagram.com/p/BDG8Wf2tq0H/	instagram.com/p/BDG8Wf2tq0H/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pubblicità degli anni '50 che oggi ci farebbero rabbrividire http:// fb.me/7LnkeePM6
+1	Pubblicità	pubblicità	NOUN	S	Gender=Fem	0	root	_	_
+2-3	degli	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	anni	anno	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	'50	'50	NUM	N	NumType=Card	4	nummod	_	_
+6	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+7	oggi	oggi	ADV	B	_	9	advmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+9	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+10	rabbrividire	rabbrividire	VERB	V	VerbForm=Inf	1	acl	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	fb.me/7LnkeePM6	fb.me/7LnkeePM6	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

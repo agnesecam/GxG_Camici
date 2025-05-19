@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi è sembrato di aver letto che qualcuno ha voglia di freddo.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	6	mark	_	_
+5	aver	avere	AUX	VA	VerbForm=Inf	6	aux	_	_
+6	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	_
+9	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+10	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	freddo	freddo	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .(il mio giardino-novembre 2005) @LoriBertolini pic.twitter.com/GKStejiPSP
+1	.(	.(	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	giardino	giardino	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	novembre	novembre	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	_
+7	2005	2005	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	4	punct	_	_
+9	@LoriBertolini	@LoriBertolini	PROPN	SP	_	0	root	_	_
+10	pic.twitter.com/GKStejiPSP	pic.twitter.com/GKStejiPSP	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sunt lacrimae rerum , mentem mortalia tangunt .
+1	Sunt	Sunt	ADV	B	_	3	advmod	_	_
+2	lacrimae	lacrimae	ADJ	A	Number=Sing	3	amod	_	_
+3	rerum	rerum	NOUN	S	Gender=Masc	0	root	_	_
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	mentem	mentem	X	SW	Foreign=Yes	3	appos	_	_
+6	mortalia	mortalia	X	SW	Foreign=Yes	5	flat:foreign	_	_
+7	tangunt	tangunt	X	SW	Foreign=Yes	5	flat:foreign	_	_
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Luoghi come teatro di dolore e dolenti anch ' essi .
+1	Luoghi	luogo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	come	come	ADP	E	_	3	case	_	_
+3	teatro	teatro	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	dolore	dolore	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	dolenti	dolento	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+8	anch	anch	ADV	B	_	10	advmod	_	_
+9	'	'	PUNCT	FB	_	10	punct	_	_
+10	essi	essi	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+11	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

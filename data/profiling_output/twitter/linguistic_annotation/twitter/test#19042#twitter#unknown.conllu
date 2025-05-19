@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunico a tutti coloro che ne siano interessati che presso l'UFFICIO SEGRETERIA o ANAGRAFE del vostro comune di... http:// fb.me/7TsS6nO9S
+1	Comunico	Comunico	ADJ	A	Gender=Masc|Number=Sing	24	amod	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	tutti	tutto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	coloro	coloro	PRON	PD	Number=Plur|PronType=Dem	1	obl	_	_
+5	che	che	PRON	PR	PronType=Rel	8	nsubj:pass	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+7	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+8	interessati	interessare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+9	che	che	SCONJ	CS	_	12	case	_	_
+10	presso	presso	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	UFFICIO	ufficio	PROPN	SP	_	8	obl	_	_
+13	SEGRETERIA	Segreteria	PROPN	SP	_	12	flat:name	_	_
+14	o	o	CCONJ	CC	_	15	cc	_	_
+15	ANAGRAFE	anagrafe	PROPN	SP	_	20	conj	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	20	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+18	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	_
+19	comune	comune	ADJ	A	Number=Sing	20	amod	_	_
+20	di...	di.	NOUN	S	_	12	nmod	_	_
+21	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	fb.me/7TsS6nO9S	fb.me/7TsS6nO9S	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

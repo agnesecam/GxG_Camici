@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lin81301 @Stefano_Berti @Lucagrossi66 @PaolaCorvatta @iDRFRANK dunque ,invecchiamento precoce +età+fisco+marito ...a occhio direi=20 anni fa
+1	@lin81301	@lin81301	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@Stefano_Berti	@Stefano_Berti	PROPN	SP	_	0	root	_	_
+3	@Lucagrossi66	@Lucagrossi66	PROPN	SP	_	2	flat:name	_	_
+4	@PaolaCorvatta	@PaolaCorvatta	PROPN	SP	_	2	flat:name	_	_
+5	@iDRFRANK	@idrfrank	PROPN	SP	_	4	flat:name	_	_
+6	dunque	dunque	ADV	B	_	8	advmod	_	_
+7	,	,	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	invecchiamento	invecchiamento	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+9	precoce	precoce	ADJ	A	Number=Sing	8	amod	_	_
+10	+età+fisco+marito	+età+fisco+marire	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+11	...a	...o	ADJ	A	Number=Sing	12	amod	_	_
+12	occhio	occhio	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
+13	direi=20	direi=20	NUM	N	NumType=Card	14	nummod	_	_
+14	anni	anno	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
+15	fa	fa	ADV	B	_	12	advmod	_	SpacesAfter=\n
+

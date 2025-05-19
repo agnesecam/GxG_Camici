@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ex Isochimica:
+1	Ex	ex	PROPN	SP	_	0	root	_	_
+2	Isochimica	Isochimico	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = dei prepensionamenti degli operai nessuna traccia.
+1-2	dei	_	_	_	_	_	_	_	_
+1	di	di	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	prepensionamenti	prepensionamento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4-5	degli	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	operai	operaio	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	nessuna	nessuna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	traccia	traccia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Nuova beffa del Governo?
+1	Nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	beffa	beffa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = - Il Ciriaco http://www.
+1	-	-	PUNCT	FF	_	3	punct	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Ciriaco	Ciriaco	PROPN	SP	_	0	root	_	_
+4	http://www	http://www	NOUN	S	_	3	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 5
+# text = ilciriaco.it/lavoro/item/16 928-ex-isochimica-dei-prepensionamenti-degli-operai-nessuna-traccia-nuova-beffa-del-governo.html …
+1	ilciriaco.it/lavoro/item/16	ilciriaco.it/lavoro/item/16	NUM	N	NumType=Card	2	nummod	_	_
+2	928-ex-isochimica-dei-prepensionamenti-degli-operai-nessuna-traccia-nuova-beffa-del-governo.html	928-ex-isochimica-dei-prepensionamenti-degli-operai-nessuna-traccia-nuova-beffa-del-governo.html	NOUN	S	Gender=Masc	0	root	_	_
+3	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

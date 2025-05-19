@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sono stato solo, troppo tempo da solo, ed ero stanco.
+1	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+2	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+3	solo	solo	ADV	B	_	6	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	troppo	troppo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	solo	solo	ADV	B	_	6	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	ed	e	CCONJ	CC	_	12	cc	_	_
+11	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	stanco	stanco	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Dopo che mi furono rubate diecimila euro da una donna di... http:// fb.me/4fvxnqDDz
+1	Dopo	dopo	ADP	E	_	2	case	_	_
+2	che	che	PRON	PR	PronType=Rel	5	obl	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+4	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	rubate	rubare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	diecimila	diecimila	NUM	N	NumType=Card	7	nummod	_	_
+7	euro	euro	NOUN	S	Gender=Masc	5	nsubj:pass	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	donna	donna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+11	di...	di.	PUNCT	FS	_	10	punct	_	_
+12	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	_
+15	fb.me/4fvxnqDDz	fb.me/4fvxnqDDz	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 󾀼QUESTA È LA TUA OCCASIONE!!
+1	󾀼QUESTA	󾀼QUESTA	PROPN	SP	_	0	root	_	_
+2	È	essere	PROPN	SP	_	1	nmod	_	_
+3	LA	La	PROPN	SP	_	2	flat:name	_	_
+4	TUA	tuo	PROPN	SP	_	2	flat:name	_	_
+5	OCCASIONE!	Occasione!	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = 󾌸 󾭞 -5 󾠌󾮟 -10 󾠌󾮟 -15 kg 󾠌󾮟 Qualunque esso sia il tuo obiettivo, ho il programma... http:// fb.me/1aUj2HGky
+1	󾌸	󾌸	PROPN	SP	_	19	obl	_	_
+2	󾭞	󾭞	PROPN	SP	_	1	flat:name	_	_
+3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	5	5	NUM	N	NumType=Card	5	nummod	_	_
+5	󾠌󾮟	󾠌󾮟	PROPN	SP	_	1	nmod	_	_
+6	-10	-10	NUM	N	NumType=Card	7	nummod	_	_
+7	󾠌󾮟	󾠌󾮟	PROPN	SP	_	1	nmod	_	_
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	15	15	NUM	N	NumType=Card	10	nummod	_	_
+10	kg	chilogrammo	NOUN	S	Gender=Masc	1	nmod	_	_
+11	󾠌󾮟	󾠌󾮟	PROPN	SP	_	10	nmod	_	_
+12	Qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+13	esso	esso	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+14	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	obiettivo	obiettivo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	1	punct	_	_
+19	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	programma...	programma...	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/1aUj2HGky	fb.me/1aUj2HGky	PROPN	SP	_	19	appos	_	SpacesAfter=\n
+

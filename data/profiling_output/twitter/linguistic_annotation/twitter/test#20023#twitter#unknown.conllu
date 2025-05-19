@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fedefederossi @Benji_Mascolo ma la gente non vi ha detto niente quando stavate per strada
+1	@fedefederossi	@fedefederuovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	1	obj	_	_
+3	ma	ma	CCONJ	CC	_	9	cc	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gente	gente	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	9	iobj	_	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+10	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	_
+11	quando	quando	SCONJ	CS	_	12	mark	_	_
+12	stavate	stare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	strada	strada	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpacesAfter=\n
+

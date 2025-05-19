@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il segreto di un candidato politico è di sembrare stupido come chi lo ascolta, così che gli ascoltatori si sentano intelligenti come lui.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	segreto	segreto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	candidato	candidato	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+6	politico	politico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	stupido	stupidere	NOUN	S	Gender=Masc|Number=Sing	9	xcomp	_	_
+11	come	come	ADP	E	_	12	case	_	_
+12	chi	chi	PRON	PR	Number=Sing|PronType=Rel	9	obl	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	ascolta	ascoltare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	9	punct	_	_
+16	così	così	ADV	B	_	21	mark	_	_
+17	che	che	SCONJ	CS	_	16	fixed	_	_
+18	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	ascoltatori	ascoltatore	NOUN	S	Gender=Masc|Number=Plur	21	nsubj	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	_
+21	sentano	sentare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+22	intelligenti	intelligento	ADJ	A	Number=Plur	21	xcomp	_	_
+23	come	come	ADP	E	_	24	case	_	_
+24	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

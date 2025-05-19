@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @il_Finnico interessante.
+1	@il_Finnico	@il_Finnico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	interessante	interessante	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Però abbastanza fuorviante contando che 2su6 ne han fatti 6.
+1	Però	però	ADV	B	_	3	advmod	_	_
+2	abbastanza	abbastanza	ADV	B	_	3	advmod	_	_
+3	fuorviante	fuorviante	ADJ	A	Number=Sing	0	root	_	_
+4	contando	contare	VERB	V	VerbForm=Ger	3	advcl	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	2su6	2su6	NUM	N	NumType=Card	9	nummod	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+8	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	ccomp	_	_
+10	6	6	NUM	N	NumType=Card	9	xcomp	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

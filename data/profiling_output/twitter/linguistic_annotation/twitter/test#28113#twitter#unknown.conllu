@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando vedete le vip con una pelle meravigliosa e vi chiedete come facciano sentendovi delle cesse con i vostri... http:// fb.me/7PmSDR3jq
+1	Quando	quando	SCONJ	CS	_	2	mark	_	_
+2	vedete	vedere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	25	advcl	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	vip	vip	NOUN	S	Gender=Fem	2	obj	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	meravigliosa	meraviglioso	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	11	obj	_	_
+11	chiedete	chiedere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	come	come	ADP	E	_	13	case	_	_
+13	facciano	fare	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+14-15	sentendovi	_	_	_	_	_	_	_	_
+14	sentendo	sentire	VERB	V	VerbForm=Ger	11	advcl	_	_
+15	vi	vi	ADV	B	_	14	advmod	_	_
+16-17	delle	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	cesse	cessa	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	_
+19	con	con	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	vostri...	vostri...	NOUN	S	_	18	nmod	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/7PmSDR3jq	fb.me/7PmSDR3jq	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

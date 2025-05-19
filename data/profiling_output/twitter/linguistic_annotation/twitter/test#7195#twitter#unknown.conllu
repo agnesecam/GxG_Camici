@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Essi ' mia cara , ma "per tutto il resto" ... No .
+1	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	'	'	PUNCT	FB	_	4	punct	_	_
+3	mia	mio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	iobj	_	_
+4	cara	cara	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	,	,	PUNCT	FF	_	11	punct	_	_
+6	ma	ma	CCONJ	CC	_	11	cc	_	_
+7	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+8	per	per	ADP	E	_	11	case	_	_
+9	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	11	det:predet	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	resto	resto	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	4	punct	_	_
+13	...	...	PUNCT	FF	_	4	punct	_	_
+14	No	no	INTJ	I	Polarity=Neg	4	discourse	_	_
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Hai ragione da vendere !
+1	Hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	da	da	ADP	E	_	4	mark	_	_
+4	vendere	vendere	VERB	V	VerbForm=Inf	1	acl	_	_
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = A quanto me la metti ?!?
+1	A	a	ADP	E	_	2	case	_	_
+2	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	0	root	_	_
+3	me	me	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	metti	metto	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+7	!?	!?	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/leonessadocg/s tatus/711961946648522752 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/leonessadocg/s	twitter.com/leonessadocg/s	NOUN	S	Gender=Fem	0	root	_	_
+5	tatus/711961946648522752	tatus/711961946648522752	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

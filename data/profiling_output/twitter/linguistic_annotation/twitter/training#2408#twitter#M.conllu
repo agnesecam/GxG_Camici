@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lo dice la scienza;
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	scienza	scienza	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = se passa una lancia y oppure una 500 e guardi dentro , fisso 90% c'è una bella ragazza o un trans ben truccato
+1	se	se	SCONJ	CS	_	2	mark	_	_
+2	passa	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	lancia	lancia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	ADJ	A	_	4	amod	_	_
+6	oppure	oppure	CCONJ	CC	_	8	cc	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	500	500	NUM	N	NumType=Card	4	conj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	guardi	guardare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	dentro	dentro	ADV	B	_	15	advmod	_	_
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	fisso	figgere	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+14	90	90	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+15	%	%	SYM	SYM	_	10	obj	_	_
+16	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	17	expl	_	SpaceAfter=No
+17	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	bella	bello	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+20	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+21	o	o	CCONJ	CC	_	23	cc	_	_
+22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	trans	trans	NOUN	S	Gender=Masc	20	conj	_	_
+24	ben	bene	ADV	B	_	25	advmod	_	_
+25	truccato	truccato	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	SpacesAfter=\n
+

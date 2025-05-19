@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PatriziaRametta @braveheartmmt @AlbertoBagnai @Rinaldi_euro Era immaginabile che saremmo giunti al 4 reich,è nella loro natura.
+1	@PatriziaRametta	@PatriziaRametto	PROPN	SP	_	6	nsubj	_	_
+2	@braveheartmmt	@braveheartmmt	SYM	X	_	1	flat:name	_	_
+3	@AlbertoBagnai	@AlbertoBagnai	PROPN	SP	_	1	flat:name	_	_
+4	@Rinaldi_euro	@Rinaldi_euro	PROPN	SP	_	1	flat:name	_	_
+5	Era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	immaginabile	immaginabile	ADJ	A	Number=Sing	0	root	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	giunti	giungere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	4	4	NUM	N	NumType=Card	9	obl	_	_
+13	reich,	reich,	X	X	_	12	flat	_	SpaceAfter=No
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+15-16	nella	_	_	_	_	_	_	_	_
+15	in	in	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	loro	loro	DET	AP	Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	natura	natura	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E fummo vivi, insorti con il taglio ridente della bocca, pieni gli occhi, piena la mano nel suo pugno:
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	fummo	fure	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	vivi	vivo	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	insorti	insortare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	ridente	ridente	ADJ	A	Number=Sing	8	amod	_	_
+10-11	della	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	2	punct	_	_
+14	pieni	pieno	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	piena	pieno	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	mano	mano	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
+21-22	nel	_	_	_	_	_	_	_	_
+21	in	in	ADP	E	_	24	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+23	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	pugno	pugno	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+25	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = il cuore... http:// fb.me/3vlOoYMoq
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cuore...	cuore...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	fb.me/3vlOoYMoq	fb.me/3vlOoYMoq	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

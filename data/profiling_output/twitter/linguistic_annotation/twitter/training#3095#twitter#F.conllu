@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sta cosa che è cambiata l'ora fa sembrare il mio risveglio meno da sfigata.
+1	Sta	stare	ADJ	A	Number=Sing	2	amod	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	cambiata	cambiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	ora	ora	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	risveglio	risveglio	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+13	meno	meno	ADV	B	_	12	advmod	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	sfigata	sfigata	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

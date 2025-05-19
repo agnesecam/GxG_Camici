@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ....
+1	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = solito , Vota Antonio, Vota Antonio la Trippa....
+1	solito	solito	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	Vota	vota	PROPN	SP	_	0	root	_	_
+4	Antonio	Antonio	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	Vota	vota	PROPN	SP	_	3	appos	_	_
+7	Antonio	Antonio	PROPN	SP	_	6	flat:name	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Trippa....	Trippa....	PROPN	SP	_	6	flat:name	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7Si3fDNlt
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7Si3fDNlt	fb.me/7Si3fDNlt	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

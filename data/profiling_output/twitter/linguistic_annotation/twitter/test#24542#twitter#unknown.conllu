@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @maxdantoni e ho stellato pardon cuorizzatao avendo una figlia a università privata.
+1	@maxdantoni	@maxdantone	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	stellato	stellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+5	pardon	pardon	ADP	E	_	6	case	_	_
+6	cuorizzatao	cuorizzatao	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	avendo	avere	VERB	V	VerbForm=Ger	4	advcl	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	figlia	figlio	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	università	università	NOUN	S	Gender=Fem	9	nmod	_	_
+12	privata	privato	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma io sono democratica dentro.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	democratica	democratico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+5	dentro	dentro	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Purtroppo @donnadimezzo
+1	Purtroppo	purtroppo	ADV	B	_	2	advmod	_	_
+2	@donnadimezzo	@donnadimezzo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

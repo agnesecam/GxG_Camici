@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hai mai visto un "oggetto" che ti è sembrato "non identificato"?
+1	Hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	mai	mai	ADV	B	_	3	advmod	_	_
+3	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	oggetto	oggetto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	iobj	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+12	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	identificato	identificare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se si cosa hai pensato in quel momento?
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+3	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	obj	_	_
+4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	momento	momento	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #terrastelle
+1	#terrastelle	#terrastella	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

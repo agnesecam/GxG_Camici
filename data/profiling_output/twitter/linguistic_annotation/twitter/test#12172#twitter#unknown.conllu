@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Aspettate prima di fare la statua a Andrea, tempo fa la facevamo a Lucas rispetto a Amedeo #uominiedonne
+1	Aspettate	Aspettare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	advcl	_	_
+2	prima	prima	ADV	B	_	4	mark	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	statua	statua	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Andrea	Andrea	PROPN	SP	_	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+11	fa	fa	ADV	B	_	10	advmod	_	_
+12	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	Lucas	Lucas	PROPN	SP	_	13	obl	_	_
+16	rispetto	rispetto	ADV	B	_	18	case	_	_
+17	a	a	ADP	E	_	16	fixed	_	_
+18	Amedeo	Amedeo	PROPN	SP	_	13	obl	_	_
+19	#uominiedonne	#uominiedonne	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	SpacesAfter=\n
+

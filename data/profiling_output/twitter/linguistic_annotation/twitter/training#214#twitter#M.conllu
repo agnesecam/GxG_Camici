@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ai tempi cambiavamo (inglesizzando) i nomi dei musicisti perché se avessimo rivelato che la paternità del disco... http:// fb.me/7Dyp9VKD9
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2-3	Ai	_	_	_	_	_	_	_	_
+2	A	a	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+5	cambiavamo	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	inglesizzando	inglesizzare	VERB	V	VerbForm=Ger	5	advcl	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	7	punct	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	nomi	nome	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	musicisti	musicista	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14	perché	perché	ADV	B	_	17	advmod	_	_
+15	se	se	SCONJ	CS	_	17	mark	_	_
+16	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	rivelato	rivelare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+18	che	che	SCONJ	CS	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	paternità	paternità	NOUN	S	Gender=Fem	17	obl	_	_
+21-22	del	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	disco...	disco...	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	fb.me/7Dyp9VKD9	fb.me/7Dyp9VKD9	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

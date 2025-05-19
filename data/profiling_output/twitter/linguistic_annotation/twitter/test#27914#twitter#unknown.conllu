@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bug nella casella Ricerca sul sito de @ilpost .
+1	Bug	Bug	PROPN	SP	_	0	root	_	_
+2-3	nella	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	casella	casella	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	Ricerca	ricerca	PROPN	SP	_	4	nmod	_	_
+6-7	sul	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sito	sito	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+9	de	di	ADP	E	_	10	case	_	_
+10	@ilpost	@ilpost	NOUN	S	Gender=Masc	8	nmod	_	_
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Qualunque parola io scriva,nei risultati mi compaiono gli articoli recenti @lucasofri
+1	Qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	parola	parola	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	scriva,nei	scriva,neo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	compaiono	comparire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	articoli	articolo	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	recenti	recente	ADJ	A	Number=Plur	9	amod	_	_
+11	@lucasofri	@lucasofre	ADJ	A	Gender=Masc|Number=Plur	7	xcomp	_	SpacesAfter=\n
+

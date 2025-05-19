@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Tokyo , i giardini (e gli aneddoti ad essi collegati) più belli #Giapponesegreto http:// simonasacri.com/it/asia/giappo ne/tokyo-6-giardini-da-non-perdere.php …
+1	#Tokyo	#Tokyo	ADV	B	_	0	root	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	giardini	giardino	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+5	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	aneddoti	aneddoto	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+9	ad	a	ADP	E	_	10	case	_	_
+10	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+11	collegati	collegare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	8	punct	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	belli	bello	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	_
+15	#Giapponesegreto	#Giapponesegreto	PROPN	SP	_	4	obl	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	simonasacri.com/it/asia/giappo	simonasacri.com/it/asia/giappo	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+20	ne/	ne/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+21	tokyo-6-giardini-da-non-perdere.php	tokyo-6-giardini-da-non-perdere.php	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+22	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

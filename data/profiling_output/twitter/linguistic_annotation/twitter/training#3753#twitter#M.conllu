@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A me non frega se vengo considerata antipatica o fredda Pensate ció che volete Non vi metto cuoricini a caso,... http:// fb.me/2LXIW4Rqx
+1	A	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	vengo	venire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	considerata	considerare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+8	antipatica	antipatico	ADJ	A	Gender=Fem|Number=Sing	7	xcomp	_	_
+9	o	o	CCONJ	CC	_	10	cc	_	_
+10	fredda	freddo	ADJ	A	Gender=Fem|Number=Sing	8	conj	_	_
+11	Pensate	pensare	PROPN	SP	_	7	obl	_	_
+12	ció	ció	PROPN	SP	_	11	flat:name	_	_
+13	che	che	PRON	PR	PronType=Rel	17	obj	_	_
+14	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	_
+15	Non	Non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	17	obj	_	_
+17	metto	mettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+18	cuoricini	cuoricino	NOUN	S	Gender=Masc|Number=Plur	17	parataxis	_	_
+19	a	a	ADP	E	_	20	case	_	_
+20	caso,...	caso,...	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+21	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	18	punct	_	_
+24	fb.me/2LXIW4Rqx	fb.me/2LXIW4Rqx	PROPN	SP	_	17	obl	_	SpacesAfter=\n
+

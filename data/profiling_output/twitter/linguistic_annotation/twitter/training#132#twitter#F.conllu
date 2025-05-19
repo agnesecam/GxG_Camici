@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e quando la tipa venne investita e perse la vista Perché ovviamente se ti investono perdi la vista e non un braccio, si #9YearsOfPatitoFeo
+1	e	e	CCONJ	CC	_	6	cc	_	_
+2	quando	quando	SCONJ	CS	_	6	mark	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	tipa	tipo	NOUN	S	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+5	venne	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	investita	investire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	perse	perdere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vista	vista	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	Perché	perché	ADV	B	_	15	advmod	_	_
+12	ovviamente	ovviamente	ADV	B	_	15	mark	_	_
+13	se	se	SCONJ	CS	_	12	fixed	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	expl	_	_
+15	investono	investire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+16	perdi	perde	ADV	B	_	15	advmod	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	vista	vista	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+19	e	e	CCONJ	CC	_	22	cc	_	_
+20	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	braccio	braccio	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	15	punct	_	_
+24	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+25	#9YearsOfPatitoFeo	#9YearsOfPatitoFeo	PROPN	SP	_	6	nsubj:pass	_	SpacesAfter=\n
+

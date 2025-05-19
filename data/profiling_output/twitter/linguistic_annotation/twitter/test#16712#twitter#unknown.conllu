@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ECCO PERCHE' CHIUDONO LE IMPRESE IN ITALIA STROZZATE DAL FISCO!
+1	ECCO	ecco	PROPN	SP	_	0	root	_	_
+2-3	PERCHE'	_	_	_	_	_	_	_	_
+2	PERCHI	PERCHI	PROPN	SP	_	1	flat:name	_	_
+3	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	CHIUDONO	CHIUDONO	PROPN	SP	_	1	flat:name	_	_
+5	LE	Le	PROPN	SP	_	4	flat:name	_	_
+6	IMPRESE	imprese	PROPN	SP	_	4	flat:name	_	_
+7	IN	in	PROPN	SP	_	4	flat:name	_	_
+8	ITALIA	Italia	PROPN	SP	_	4	flat:name	_	_
+9	STROZZATE	STROZZATE	PROPN	SP	_	4	flat:name	_	_
+10-11	DAL	_	_	_	_	_	_	_	_
+10	DA	Da	PROPN	SP	_	9	flat:name	_	_
+11	IL	il	PROPN	SP	_	4	flat:name	_	_
+12	FISCO	fisco	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Finche ' lo Stato continuera' a fare chiudere le... http:// fb.me/5fnEu4q7L
+1	Finche	Finche	ADV	B	_	5	advmod	_	_
+2	'	'	PUNCT	FB	_	1	punct	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Stato	stato	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	continuera	continuera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	'	'	PUNCT	FB	_	5	punct	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+9	chiudere	chiudere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	le...	le.	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	fb.me/5fnEu4q7L	fb.me/5fnEu4q7L	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

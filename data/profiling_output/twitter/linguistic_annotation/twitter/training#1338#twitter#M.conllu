@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Non sono le nostre capacità che dimostrano chi siamo davvero, ma le nostre scelte.
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	capacità	capacità	NOUN	S	Gender=Fem	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	dimostrano	dimostrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	obj	_	_
+10	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+11	davvero	davvero	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	ma	ma	CCONJ	CC	_	16	cc	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	scelte	scelta	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = "
+1	"	"	PUNCT	FB	_	0	root	_	SpacesAfter=\n
+

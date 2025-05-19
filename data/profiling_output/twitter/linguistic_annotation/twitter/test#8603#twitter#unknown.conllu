@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BuonannoG
+1	@BuonannoG	@Buonannog	SYM	X	_	0	root	_	_
+
+# sent_id = 2
+# text = Se tuo padre all' epoca avesse usato il preservativo,non ci sarebbe neppure una testa di ca**o come la tua!!! Grande Lota.
+1	Se	se	SCONJ	CS	_	8	mark	_	_
+2	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	padre	padre	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+4-5	all'	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	epoca	epoca	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	usato	usare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	preservativo,non	preservativo,non	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	15	expl	_	_
+12	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	15	advmod	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	testa	testa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	ca**o	ca**o	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+18	come	come	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	tua	tuo	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	nmod	_	SpaceAfter=No
+21	!!!	!!!	PUNCT	FF	_	20	punct	_	_
+22	Grande	grande	ADJ	A	Number=Sing	23	amod	_	_
+23	Lota	Lota	PROPN	SP	_	20	appos	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TonymatAntonio @micheleemiliano non è che Renzi sia Dio.
+1	@TonymatAntonio	@TonymatAntonio	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	@micheleemiliano	@micheleemiliano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	Renzi	Renzi	PROPN	SP	_	8	nsubj	_	_
+7	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	Dio	dio	PROPN	SP	_	4	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Prima o poi anche lui dovrà andarsene.
+1	Prima	prima	ADV	B	_	7	advmod	_	_
+2	o	o	CCONJ	CC	_	7	cc	_	_
+3	poi	poi	ADV	B	_	7	advmod	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7-9	andarsene	_	_	_	_	_	_	_	SpaceAfter=No
+7	andar	andare	VERB	V	VerbForm=Inf	0	root	_	_
+8	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+10	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = È il peggior Presidente del C. mai avuto
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	peggior	peggiore	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	C.	C.	PROPN	SP	_	4	nmod	_	_
+8	mai	mai	ADV	B	_	9	advmod	_	_
+9	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

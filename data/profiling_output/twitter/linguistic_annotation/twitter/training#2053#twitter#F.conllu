@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Karlsson si scusa per i sospetti gettati su Ibrahimovic:
+1	Karlsson	Karlsson	PROPN	SP	_	3	nsubj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	scusa	scusare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	sospetti	sospetto	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	gettati	gettare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	su	su	ADP	E	_	9	case	_	_
+9	Ibrahimovic	Ibrahimovic	PROPN	SP	_	7	obl	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = è bastato un "Ehm" di Raiola a fargli ritirare tutto, pure i panni dallo stendino!
+1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	bastato	bastare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Ehm	Ehm	PROPN	SP	_	2	obj	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	5	punct	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Raiola	Raiola	PROPN	SP	_	5	nmod	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10-11	fargli	_	_	_	_	_	_	_	_
+10	far	fare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+11	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+12	ritirare	ritirare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+13	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	pure	pure	ADV	B	_	17	advmod	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	panni	panno	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+18-19	dallo	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	stendino	stendino	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

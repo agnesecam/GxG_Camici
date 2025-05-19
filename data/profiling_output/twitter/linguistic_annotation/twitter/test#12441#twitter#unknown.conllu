@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @laurabianchi202 @CaspaniStefania ... NOI stiamo con Briatore, non sono profughi, non scappano da nessuna guerra, sono evasi dalle loro gale
+1	@laurabianchi202	@laurabianchi202	NUM	N	NumType=Card	2	nummod	_	_
+2	@CaspaniStefania	@CaspaniStefania	PROPN	SP	_	20	nsubj	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	_
+4	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+5	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	Briatore	Briatore	PROPN	SP	_	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	profughi	profugo	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	scappano	scappare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	17	det	_	_
+17	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	5	punct	_	_
+19	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	evasi	evanere	ADJ	A	Number=Sing	0	root	_	_
+21-22	dalle	_	_	_	_	_	_	_	_
+21	da	da	ADP	E	_	24	case	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+23	loro	loro	DET	AP	Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	gale	gale	NOUN	S	Gender=Fem|Number=Plur	20	obl	_	SpacesAfter=\n
+

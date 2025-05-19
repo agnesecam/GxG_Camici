@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dustin Johnson alla 15 ha appena fatto una cosa che potrebbe rimetterlo in corsa, giusto perché mancava pathos!
+1	Dustin	Dustino	PROPN	SP	_	8	nsubj	_	_
+2	Johnson	Johnson	PROPN	SP	_	1	flat:name	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	15	15	NUM	N	NumType=Card	8	obl	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	appena	appena	ADV	B	_	8	advmod	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13-14	rimetterlo	_	_	_	_	_	_	_	_
+13	rimetter	rimettere	VERB	V	VerbForm=Inf	10	acl:relcl	_	_
+14	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	corsa	corsa	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	13	punct	_	_
+18	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	13	xcomp	_	_
+19	perché	perché	SCONJ	CS	_	20	mark	_	_
+20	mancava	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	advcl	_	_
+21	pathos	pathos	NOUN	S	Gender=Fem	20	obj	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = @LoggioneSport
+1	@LoggioneSport	@LoggioneSport	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

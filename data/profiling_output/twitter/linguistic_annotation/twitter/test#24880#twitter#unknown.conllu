@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Poi leggi certi commenti di alcune persone che ti farebbero voglia di urlare 󾌽󾌽 — su tutte le furie
+1	Poi	poi	ADV	B	_	2	advmod	_	_
+2	leggi	legge	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	commenti	commento	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	alcune	alcuno	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+7	persone	persona	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+10	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	urlare	urlare	VERB	V	VerbForm=Inf	11	acl	_	_
+14	󾌽󾌽	󾌽󾌽	PROPN	SP	_	13	obj	_	_
+15	—	—	PUNCT	FF	_	14	punct	_	_
+16	su	su	ADP	E	_	19	case	_	_
+17	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	19	det:predet	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	furie	furia	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	SpacesAfter=\n
+

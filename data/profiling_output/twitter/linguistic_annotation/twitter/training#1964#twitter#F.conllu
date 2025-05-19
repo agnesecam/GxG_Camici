@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque il primo eliminato tenuto fuori dallo studio un ora non ha senso #Amici15
+1	Comunque	comunque	ADV	B	_	13	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	eliminato	eliminato	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+5	tenuto	tenere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+6	fuori	fuori	ADV	B	_	5	advmod	_	_
+7-8	dallo	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	studio	studio	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ora	ora	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	senso	senso	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15	#Amici15	#Amici15	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

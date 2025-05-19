@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'insicurezza è quella cosa che ti fa sembrare stupida, quando sono tutti più stupidi di te.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	insicurezza	insicurezza	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	iobj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	stupida	stupido	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	quando	quando	SCONJ	CS	_	16	mark	_	_
+13	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	nsubj	_	_
+15	più	più	ADV	B	_	16	advmod	_	_
+16	stupidi	stupido	ADJ	A	Gender=Masc|Number=Plur	5	advcl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

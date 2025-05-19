@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io:
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Resto chiuso fuori dalla macchina 4 ore Vita:
+1	Resto	resto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	chiuso	chiudere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+3	fuori	fuori	ADV	B	_	2	advmod	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7	4	4	NUM	N	NumType=Card	8	nummod	_	_
+8	ore	ora	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	Vita	vita	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = "Oh poverello, diamogli 2 quadrifogli in cambio" #tuttomoltobello
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Oh	oh	INTJ	I	_	3	discourse	_	_
+3	poverello	poverello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	diamogli	diamoglio	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+6	2	2	NUM	N	NumType=Card	7	nummod	_	_
+7	quadrifogli	quadrifogli	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	7	punct	_	_
+11	#tuttomoltobello	#tuttomoltobello	NOUN	S	Gender=Masc|Number=Sing	3	compound	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma un'Italia così, senza uno, che sia uno, dicansi uno che può cambiare col suo talento le partite, non l'abbiamo mai avuta dal 1986
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	Italia	Italia	PROPN	SP	_	29	nsubj	_	_
+4	così	così	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	senza	senza	ADP	E	_	7	case	_	_
+7	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	che	che	SCONJ	CS	_	11	mark	_	_
+10	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	appos	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	dicansi	dicanso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
+14	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	xcomp	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	cambiare	cambiare	VERB	V	VerbForm=Inf	14	acl:relcl	_	_
+18-19	col	_	_	_	_	_	_	_	_
+18	con	con	ADP	E	_	21	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	talento	talento	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	partite	partita	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	3	punct	_	_
+25	non	non	ADV	BN	PronType=Neg	29	advmod	_	_
+26	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	29	obj	_	SpaceAfter=No
+27	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	29	aux	_	_
+28	mai	mai	ADV	B	_	29	advmod	_	_
+29	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+30-31	dal	_	_	_	_	_	_	_	_
+30	da	da	ADP	E	_	32	case	_	_
+31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	1986	1986	NUM	N	NumType=Card	29	obl	_	SpacesAfter=\n
+

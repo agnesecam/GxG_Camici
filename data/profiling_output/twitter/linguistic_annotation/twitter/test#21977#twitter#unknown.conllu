@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma i servizi segreti ?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	segreti	segreto	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Dove stavano i controlli ?
+1	Dove	dove	ADV	B	_	2	advmod	_	_
+2	stavano	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	controlli	controllo	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = La risposta è sempre la stessa ISIS = USA mentre l'Ue continua a sanzionare Putin
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	risposta	risposta	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	sempre	sempre	ADV	B	_	7	advmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	ISIS	ISIS	PROPN	SP	_	0	root	_	_
+8	=	=	PUNCT	FF	_	7	punct	_	_
+9	USA	USA	PROPN	SP	_	7	flat:name	_	_
+10	mentre	mentre	SCONJ	CS	_	13	mark	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	Ue	Ue	PROPN	SP	_	13	nsubj	_	_
+13	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	sanzionare	sanzionare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	Putin	Putin	PROPN	SP	_	15	obj	_	SpacesAfter=\n
+

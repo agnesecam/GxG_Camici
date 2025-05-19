@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dentro il Visual Computing Lab, tecnologia per le opere d&#039;arte - http://www.
+1	Dentro	dentro	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Visual	visual	PROPN	SP	_	0	root	_	_
+4	Computing	Computing	PROPN	SP	_	3	nmod	_	_
+5	Lab	Lab	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	tecnologia	tecnologia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	opere	opera	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+11	d&#039	d&#039	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+12	;arte	;arte	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+13	-	-	PUNCT	FF	_	12	punct	_	_
+14	http://www	http://www	X	SW	Foreign=Yes	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = guardailtuofuturo.net/web/content/ne ws_dettaglio.aspx?
+1	guardailtuofuturo.net/web/content/ne	guardailtuofuturo.net/web/content/ne	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ws_dettaglio.aspx	ws_dettaglio.aspx	SYM	SYM	_	1	nsubj	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = idnews=5603 …
+1	idnews=5603	idnews=5603	NUM	N	NumType=Card	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

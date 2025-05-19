@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Corea del Nord: 15 anni di lavori forzati per cittadino Usa - Radio Vaticana http:// it.radiovaticana.va/news/1215783 Avessimo anche in Italia giudici così.
+1	Corea	Corea	PROPN	SP	_	0	root	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Nord	Nord	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+6	15	15	NUM	N	NumType=Card	7	nummod	_	_
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	lavori	lavoro	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+10	forzati	forzato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	cittadino	cittadino	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	_
+13	Usa	Usa	PROPN	SP	_	25	obl	_	_
+14	-	-	PUNCT	FF	_	13	punct	_	_
+15	Radio	radio	PROPN	SP	_	25	nsubj	_	_
+16	Vaticana	vaticana	PROPN	SP	_	15	flat:name	_	_
+17	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	15	punct	_	_
+20	it.radiovaticana.va/news/1215783	it.radiovaticana.va/news/1215783	NUM	N	NumType=Range	21	nummod	_	_
+21	Avessimo	Avessimo	PROPN	SP	_	15	nmod	_	_
+22	anche	anche	ADV	B	_	24	advmod	_	_
+23	in	in	ADP	E	_	24	case	_	_
+24	Italia	Italia	PROPN	SP	_	21	nmod	_	_
+25	giudici	giudici	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+26	così	così	ADV	B	_	25	advmod	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

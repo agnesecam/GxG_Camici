@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PascucciMC @The_Joker_IT Peccato, avremmo azzerato il debito pubblico italiano in pochi giorni
+1	@PascucciMC	@PascucciMC	PROPN	SP	_	6	nsubj	_	_
+2	@The_Joker_IT	@The_Joker_IT	PROPN	SP	_	1	flat:name	_	_
+3	Peccato	peccato	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	azzerato	azzerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	debito	debito	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	pubblico	pubblico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	pochi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	SpacesAfter=\n
+

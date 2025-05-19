@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @d92_demma tu ridi ma c e stato un periodo in cui tutti e 4 si piastravano e sembrava avessero aperto i gabbioni
+1	@d92_demma	@d92_demma	ADV	B	_	3	advmod	_	_
+2	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	ridi	rido	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ma	ma	CCONJ	CC	_	5	cc	_	_
+5	c	c	NOUN	S	_	3	conj	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	cui	cui	PRON	PR	PronType=Rel	16	obl	_	_
+12	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	nsubj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	4	4	NUM	N	NumType=Card	12	conj	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	piastravano	piastrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	sembrava	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	conj	_	_
+19	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	_
+20	aperto	aprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	conj	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	gabbioni	gabbione	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	SpacesAfter=\n
+

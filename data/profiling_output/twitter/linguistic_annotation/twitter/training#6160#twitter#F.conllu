@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gruppone di 7 femene e tutti che si girano a guardare manco fossimo un circo
+1	Gruppone	Gruppone	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	7	7	NUM	N	NumType=Card	4	nummod	_	_
+4-6	femene	_	_	_	_	_	_	_	_
+4	fe	fa	X	SW	Foreign=Yes	1	nmod	_	_
+5	me	me	X	SW	Foreign=Yes	4	flat:foreign	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	17	iobj	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	girano	girare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	guardare	guardare	VERB	V	VerbForm=Inf	17	ccomp	_	_
+14	manco	manco	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	_
+15	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	cop	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	circo	circo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

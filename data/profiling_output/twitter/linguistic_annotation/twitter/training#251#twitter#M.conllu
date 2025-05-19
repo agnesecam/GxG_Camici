@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @kiminter93 @SantucciFulvio e che prima non avevi.Vendere non significa indebolire,anzi.Guarda La storia di Ibra,se non l' avessimo ceduto
+1	@kiminter93	@kiminter93	NUM	N	NumType=Card	2	nummod	_	_
+2	@SantucciFulvio	@SantucciFulvio	PROPN	SP	_	9	nsubj	_	_
+3	e	e	CCONJ	CC	_	7	cc	_	_
+4	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+5	prima	prima	ADV	B	_	7	advmod	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	avevi.Vendere	avevi.Vendere	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	indebolire	indebolire	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
+11	,anzi.Guarda	,anzi.Guarda	PROPN	SP	_	10	obj	_	_
+12	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	storia	storia	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Ibra,se	Ibra,se	PROPN	SP	_	13	nmod	_	_
+16	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+17	l'	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+18	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	19	aux	_	_
+19	ceduto	ceduto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	SpacesAfter=\n
+

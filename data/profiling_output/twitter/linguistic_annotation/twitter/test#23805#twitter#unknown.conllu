@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @petergomezblog @fattoquotidiano QUNTEE LEGGI AVRANNO APPROVATO GIA' A SUO NOME ??
+1	@petergomezblog	@petergomezblog	NOUN	S	Gender=Masc	0	root	_	_
+2	@fattoquotidiano	@fattoquotidiano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	QUNTEE	QUNTEE	PROPN	SP	_	1	nmod	_	_
+4	LEGGI	legge	PROPN	SP	_	3	flat:name	_	_
+5	AVRANNO	avere	PROPN	SP	_	3	flat:name	_	_
+6	APPROVATO	approvato	PROPN	SP	_	1	nmod	_	_
+7	GIA'	GIA'	PROPN	SP	_	6	flat:name	_	_
+8	A	A	ADP	E	_	9	case	_	_
+9	SUO	suo	PROPN	SP	_	6	nmod	_	_
+10	NOME	nome	PROPN	SP	_	9	flat:name	_	_
+11	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

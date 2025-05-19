@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Penso di essere nella fase pre ciclo altrimenti questa improvvisa indomabile voglia di cioccolato non si spiega
+1	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	essere	essere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4-5	nella	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	fase	fase	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	pre	pre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+8	ciclo	ciclare	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	altrimenti	altrimenti	CCONJ	CC	_	18	cc	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
+11	improvvisa	improvviso	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+12	indomabile	indomabile	ADJ	A	Number=Sing	13	amod	_	_
+13	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	18	nsubj:pass	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	cioccolato	cioccolato	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+16	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl:impers	_	_
+18	spiega	spiegare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpacesAfter=\n
+

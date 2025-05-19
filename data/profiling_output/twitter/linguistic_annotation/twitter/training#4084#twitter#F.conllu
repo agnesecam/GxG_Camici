@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @peppe3355 dovrà pur scaldarsi l'acqua...nn è che apro ed esce calda
+1	@peppe3355	@peppe3355	NUM	N	NumType=Card	4	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+3	pur	pure	ADV	B	_	4	advmod	_	_
+4-5	scaldarsi	_	_	_	_	_	_	_	_
+4	scaldar	scaldare	VERB	V	VerbForm=Inf	0	root	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	acqua...nn	acqua...nn	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	che	che	SCONJ	CS	_	10	mark	_	_
+10	apro	apro	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+11	ed	e	CCONJ	CC	_	12	cc	_	_
+12	esce	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+13	calda	caldo	ADJ	A	Gender=Fem|Number=Sing	12	xcomp	_	SpacesAfter=\n
+

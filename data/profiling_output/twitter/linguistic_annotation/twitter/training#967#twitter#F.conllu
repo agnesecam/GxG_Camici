@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il coro che ha sfidato i muri:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	coro	coro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sfidato	sfidare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	muri	muro	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = arabe e ebree unite dalla musica http:// video.repubblica.it/mondo/il-coro- che-ha-sfidato-i-muri-arabe-e-ebree-unite-dalla-musica/235176/234858 … via @repubblicait
+1	arabe	arabo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	ebree	ebreo	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	_
+4	unite	unire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	musica	musica	NOUN	S	Gender=Fem|Number=Sing	4	obl:agent	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	1	punct	_	_
+11	video.repubblica.it/mondo/il-coro-	_	PUNCT	FB	_	13	punct	_	_
+12	che-ha	che-ha	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	SpaceAfter=No
+13	-sfidato	-sfidato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	parataxis	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	i-muri	i-muro	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	arabe	arabo	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	e	e	CCONJ	CC	_	20	cc	_	SpaceAfter=No
+20	-ebree-unite	-ebree-unire	ADJ	A	Gender=Fem|Number=Plur	23	conj	_	SpaceAfter=No
+21	-	-	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+22	dalla-musica/235176/234858	dalla-musica/235176/234858	NUM	N	NumType=Card	20	nummod	_	_
+23	…	…	PUNCT	FF	_	24	punct	_	_
+24	via	via	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+25	@repubblicait	@repubblicait	NOUN	S	Gender=Masc	1	compound	_	SpacesAfter=\n
+

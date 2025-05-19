@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Adnkronos @WWF @WWFitalia adesso voi a fare lo stesso discorsino alla Croazia perché se noi fermiamo le nostre Loro estrarranno
+1	@Adnkronos	@Adnkronos	PROPN	SP	_	22	nsubj	_	_
+2	@WWF	@WWF	PROPN	SP	_	1	flat:name	_	_
+3	@	@	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	WWFitalia	WWFitalia	PROPN	SP	_	1	nmod	_	_
+5	adesso	adesso	ADV	B	_	6	advmod	_	_
+6	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	obj	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	discorsino	discorsino	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Croazia	Croazia	PROPN	SP	_	11	nmod	_	_
+15	perché	perché	SCONJ	CS	_	18	mark	_	_
+16	se	se	SCONJ	CS	_	18	mark	_	_
+17	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
+18	fermiamo	fermare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+20	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	Loro	Loro	PROPN	SP	_	18	obj	_	_
+22	estrarranno	estrarre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

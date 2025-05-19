@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gasparri a Maurí pensa le"Risate"se NOI
+1	@gasparri	@gasparro	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Maurí	Maurí	PROPN	SP	_	1	nmod	_	_
+4	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	Risate"	Risatesecondi	PROPN	SP	_	4	obj	_	SpaceAfter=No
+8	se	se	SCONJ	CS	_	9	case	_	_
+9	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	obl	_	_
+
+# sent_id = 2
+# text = COMPAGNI avessimo permesso uno stato di polizia con blitz nei licei nei FAV.anni70,TU ndoFINIVI.
+1	COMPAGNI	compagno	PROPN	SP	_	3	nsubj	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	permesso	permettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	stato	stato	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	blitz	blitz	NOUN	S	Gender=Masc	3	obl	_	_
+10-11	nei	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	licei	liceo	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+13-14	nei	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	FAV.anni	FAV.anni	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+16	70,TU	70,TU	PROPN	SP	_	15	flat:name	_	_
+17	ndoFINIVI	ndoFINIVI	PROPN	SP	_	15	flat:name	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = x
+1	x	x	SYM	SYM	_	0	root	_	SpacesAfter=\n
+

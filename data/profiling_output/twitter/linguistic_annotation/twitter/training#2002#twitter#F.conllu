@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vespa con la sua intervista ha fatto propaganda e pubblicità alla mafia.
+1	Vespa	Vespare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+2	con	con	ADP	E	_	5	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	intervista	intervista	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	propaganda	propaganda	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	pubblicità	pubblicità	NOUN	S	Gender=Fem	8	conj	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	mafia	mafia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Con un mezzo fornito dallo stato.
+1	Con	con	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	fornito	fornire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+5-6	dallo	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	stato	stato	NOUN	S	Gender=Masc|Number=Sing	4	obl:agent	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Vergogna.
+1	Vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = @BrunoVespa
+1	@BrunoVespa	@BrunoVespa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

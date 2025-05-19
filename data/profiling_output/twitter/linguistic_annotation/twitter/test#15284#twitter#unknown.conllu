@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Verooo!Almeno lo facesse con cognizione di causa!Lui nn guarda i numeri e la funzionalità dei nosocomi @matteorenzi https:// twitter.com/milena_erario/ status/710145686424129537 …
+1	Verooo	Verooo	PROPN	SP	_	4	nsubj	_	SpaceAfter=No
+2	!Almeno	!Almeno	PROPN	SP	_	1	flat:name	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	con	con	ADP	E	_	6	case	_	_
+6	cognizione	cognizione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	causa!Lui	causa!Luo	PRON	PR	PronType=Rel	10	obl	_	_
+9	nn	nno	ADV	B	_	10	advmod	_	_
+10	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	numeri	numero	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	funzionalità	funzionalità	NOUN	S	Gender=Fem	12	conj	_	_
+16-17	dei	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	19	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	nosocomi	nosocomo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	19	amod	_	_
+19	@matteorenzi	@matteorenzi	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+20	https:	https:	PUNCT	FS	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	twitter.com/milena_erario/	twitter.com/milena_erario/	PUNCT	FF	_	19	punct	_	_
+24	status/710145686424129537	status/710145686424129537	NUM	N	NumType=Card	19	nummod	_	_
+25	…	…	PUNCT	FF	_	10	punct	_	SpacesAfter=\n
+

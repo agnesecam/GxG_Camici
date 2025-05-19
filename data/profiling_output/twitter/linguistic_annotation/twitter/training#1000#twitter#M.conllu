@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il coniglio liberato dalla gabbia che tocca per la prima volta l'erbetta.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	coniglio	coniglio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	liberato	liberare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	gabbia	gabbia	NOUN	S	Gender=Fem|Number=Sing	3	obl:agent	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	per	per	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
+12	volta	volta	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	erbetta	erbetta	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Rosmarino e un pizzico di salvia.
+1	Rosmarino	rosmarino	PROPN	SP	_	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pizzico	pizzico	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	salvia	salvia	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

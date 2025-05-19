@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IlaProf @ANIEF_tw @FLCCGIL un atto amministrativo(BANDO)regola,ma non stabilisce diritti:era chiaro anche nel 2012, ma ebbe ragione #Anief
+1	@IlaProf	@IlaProf	ADP	E	_	2	case	_	_
+2	@ANIEF_tw	@ANIEF_tw	PROPN	SP	_	10	obl	_	_
+3	@FLCCGIL	@FLCCGIL	PROPN	SP	_	2	flat:name	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	atto	atto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+6	amministrativo	amministrativo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	BANDO	BANDO	PROPN	SP	_	5	appos	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+10	regola,ma	regola,ma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	parataxis	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	stabilisce	stabilire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	diritti:era	diritti:era	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+14	chiaro	chiaro	ADJ	A	_	13	amod	_	_
+15	anche	anche	ADV	B	_	18	advmod	_	_
+16-17	nel	_	_	_	_	_	_	_	_
+16	in	in	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	2012	2012	NUM	N	NumType=Card	12	obl	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	21	punct	_	_
+20	ma	ma	CCONJ	CC	_	21	cc	_	_
+21	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	_
+22	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	_
+23	#Anief	#Anief	PROPN	SP	_	22	nmod	_	SpacesAfter=\n
+

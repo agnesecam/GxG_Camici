@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Analogamente il verbo Verdini Io corruppi Tu corrompesti Egli corruppe Noi corrompemmo Voi corrompeste Essi corruppero e #chiesimo è giusto
+1	Analogamente	Analogamente	ADV	B	_	20	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	verbo	verbo	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
+4	Verdini	Verdini	PROPN	SP	_	3	nmod	_	_
+5	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+6	corruppi	corruppo	NOUN	S	Gender=Masc|Number=Plur	5	appos	_	_
+7	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+8	corrompesti	corrompesto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+9	Egli	egli	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
+10	corruppe	corrompere	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+11	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+12	corrompemmo	corrompemmo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	advcl	_	_
+13	Voi	Vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	15	det	_	_
+14	corrompeste	corrompesta	ADJ	A	Number=Sing	15	amod	_	_
+15	Essi	esso	PROPN	SP	_	12	obj	_	_
+16	corruppero	corrupperare	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	#chiesimo	#chiesimo	ADJ	A	Gender=Masc|Number=Sing	16	conj	_	_
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

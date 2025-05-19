@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @fdecesareviola , l'uomo ombra di @NikoRomito , per il decimo anno consecutivo sul palco di @identitagolose #igmi16 pic.twitter.com/r3Vcl5Pai0
+1	@fdecesareviola	@fdecesareviola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	,	,	PUNCT	FF	_	4	punct	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+5	ombra	ombra	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	@NikoRomito	@NikoRomito	PROPN	SP	_	4	nmod	_	_
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	per	per	ADP	E	_	12	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	decimo	decimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	_
+12	anno	anno	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+13	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14-15	sul	_	_	_	_	_	_	_	_
+14	su	su	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	palco	palco	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	@identitagolose	@identitagoloso	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
+19	#igmi16	#igmi16	NUM	N	NumType=Card	16	nmod	_	_
+20	pic.twitter.com/r3Vcl5Pai0	pic.twitter.com/r3Vcl5Pai0	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

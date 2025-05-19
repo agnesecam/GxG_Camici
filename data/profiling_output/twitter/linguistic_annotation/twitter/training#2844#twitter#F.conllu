@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se i capelli più scuri mi fanno sembrare una ventenne (cosa che sono) allora li tengo scuri.
+1	Se	se	SCONJ	CS	_	7	mark	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	capelli	capello	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	scuri	scuro	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ventenne	ventenne	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	10	appos	_	_
+13	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+14	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	14	punct	_	_
+16	allora	allora	ADV	B	_	18	advmod	_	_
+17	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+18	tengo	tenere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+19	scuri	scuro	ADJ	A	Gender=Masc|Number=Plur	18	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

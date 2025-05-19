@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perdona gli altri, non perche' essi meritano il perdono, ma perche' tu meriti la pace.Buddha pic.twitter.com/8fgfCWCYrC
+1	Perdona	Perdonare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	perche	perco	ADV	B	_	1	advmod	_	SpaceAfter=No
+7	'	'	PUNCT	FB	_	9	punct	_	_
+8	essi	essi	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	meritano	meritare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	perdono	perdono	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	17	punct	_	_
+13	ma	ma	CCONJ	CC	_	17	cc	_	_
+14	perche	perco	ADV	B	_	17	advmod	_	SpaceAfter=No
+15	'	'	PUNCT	FB	_	17	punct	_	_
+16	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	17	iobj	_	_
+17	meriti	merire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	conj	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	pace.Buddha	pace.Buddha	PROPN	SP	_	17	nsubj:pass	_	_
+20	pic.twitter.com/8fgfCWCYrC	pic.twitter.com/8fgfCWCYrC	PROPN	SP	_	19	flat:name	_	SpacesAfter=\n
+

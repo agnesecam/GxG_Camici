@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @GDS_it @LeolucaOrlando1 e a chi non farà richiesta rimborso pass #ztl quindi avrete rubato i soldi?
+1	@GDS_it	@GDS_it	PROPN	SP	_	0	root	_	_
+2	@LeolucaOrlando1	@LeolucaOrlando1	PROPN	SP	_	1	flat:name	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	conj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+8	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9	rimborso	rimbordere	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	pass	pass	NOUN	S	_	9	compound	_	_
+11	#ztl	#ztl	ADJ	A	_	9	amod	_	_
+12	quindi	quindi	ADV	B	_	14	advmod	_	_
+13	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14	rubato	rubare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Se questi sono gli esperti...basta!
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	esperti...basta	esperti...basta	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

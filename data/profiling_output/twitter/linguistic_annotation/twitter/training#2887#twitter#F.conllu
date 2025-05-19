@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il fastidio di guardar una trasmissione in b/n perché deve sembrare antica.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fastidio	fastidio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	guardar	guardare	VERB	V	VerbForm=Inf	2	acl	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	b	b	NOUN	S	_	12	obl	_	SpaceAfter=No
+9	/n	/n	ADV	B	_	8	advmod	_	_
+10	perché	perché	SCONJ	CS	_	12	mark	_	_
+11	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	sembrare	sembrare	VERB	V	VerbForm=Inf	6	advcl	_	_
+13	antica	antico	ADJ	A	Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Io ho un televisore piatto, non un tubo catodico!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	televisore	televisore	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	piatto	piatto	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tubo	tubo	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+10	catodico	catodico	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #LauraePaola
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LauraePaola	LauraePaola	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

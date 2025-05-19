@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dan_ceres @RossanaNapoleon evidentemente perché dentro un bicchiere ci si stava strettini.
+1	@dan_ceres	@dan_ceres	ADP	E	_	2	case	_	_
+2	@RossanaNapoleon	@RossanaNapoleon	PROPN	SP	_	11	nmod	_	_
+3	evidentemente	evidentemente	ADV	B	_	11	advmod	_	_
+4	perché	perché	SCONJ	CS	_	11	mark	_	_
+5	dentro	dentro	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bicchiere	bicchiera	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+10	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	strettini.	strettini.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = sotto un temporale e diverso ci si muove meglio
+1	sotto	sotto	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	temporale	temporale	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	diverso	diverso	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	muove	muovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	meglio	meglio	ADV	B	_	8	advmod	_	SpacesAfter=\n
+

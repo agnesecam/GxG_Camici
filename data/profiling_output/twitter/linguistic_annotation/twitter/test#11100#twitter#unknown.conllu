@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La brava gente si somiglia dappertutto . (Primo Levi - La chiave a stella)
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	brava	bravo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+3	gente	gente	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	somiglia	somigliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	dappertutto	dappertutto	ADV	B	_	5	advmod	_	_
+7	.	.	PUNCT	FS	_	5	punct	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	Primo	Primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	_
+10	Levi	levi	PROPN	SP	_	5	nmod	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	stella	stella	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

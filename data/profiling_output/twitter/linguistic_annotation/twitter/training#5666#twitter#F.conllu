@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = vedo certi commenti #maschilisti ..stupro e violenza non è mai colpa della vittima e forse...
+1	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+2	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	commenti	commento	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	#maschilisti	#maschilista	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5	..stupro	..stupro	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	violenza	violenza	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+8	non	non	ADV	BN	PronType=Neg	1	advmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	mai	mai	ADV	B	_	11	advmod	_	_
+11	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+12-13	della	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	vittima	vittima	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	forse...	forse...	NOUN	S	_	11	conj	_	_
+
+# sent_id = 2
+# text = qualcuna dovrebbe pensarci prima di postare ;)
+1	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3-4	pensarci	_	_	_	_	_	_	_	_
+3	pensar	pensare	VERB	V	VerbForm=Inf	0	root	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+5	prima	prima	ADV	B	_	7	mark	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	postare	postare	VERB	V	VerbForm=Inf	3	advcl	_	_
+8	;	;	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

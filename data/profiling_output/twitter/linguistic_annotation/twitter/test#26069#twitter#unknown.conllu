@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Esatto.
+1	Esatto	esatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Nei Ds facevano ingoiare le peggiori infamie socialriformiste.
+1-2	Nei	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Ds	Ds	PROPN	SP	_	4	obl	_	_
+4	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	ingoiare	ingoiare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	peggiori	peggiore	ADJ	A	Degree=Cmp|Number=Plur	8	amod	_	_
+8	infamie	infamia	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+9	socialriformiste	socialriformista	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Adesso, che ingoino la nostra rivoluzione!
+1	Adesso	adesso	ADV	B	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	ingoino	ingoare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	rivoluzione	rivoluzione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/ernestocarbone /status/714839660149780481 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/ernestocarbone	twitter.com/ernestocarbone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	/status/714839660149780481	/status/714839660149780481	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

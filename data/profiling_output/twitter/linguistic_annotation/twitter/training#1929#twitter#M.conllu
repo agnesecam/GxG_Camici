@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PerlaMiseriah @StellaAndri non direi.chi aspetta risposte dallo stato e non fa nulla con le proprie maniche.
+1	@PerlaMiseriah	@PerlaMiseriah	INTJ	I	_	5	discourse	_	_
+2	@StellaAndri	@StellaAndri	PROPN	SP	_	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	direi.chi	direi.co	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
+5	aspetta	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	risposte	risposta	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+7-8	dallo	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	stato	stato	NOUN	S	Gender=Masc|Number=Sing	6	obl:agent	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	12	obj	_	_
+14	con	con	ADP	E	_	17	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	proprie	proprio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	maniche.	maniche.	NOUN	S	Gender=Masc	12	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...qs sono i napoletani
+1	...qs	...qs	NOUN	S	Gender=Masc	0	root	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	napoletani	napoletano	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	SpacesAfter=\n
+

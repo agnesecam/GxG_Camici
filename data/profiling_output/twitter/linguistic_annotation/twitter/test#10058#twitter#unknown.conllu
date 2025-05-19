@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaGabbiaTw arieccolo mica se rende conto-tral'altro era lui che non faceva concludere chi parlava prima di lui
+1	@LaGabbiaTw	@LaGabbiaTw	NOUN	S	_	0	root	_	_
+2	arieccolo	arieccolare	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	_
+3	mica	mica	ADV	BN	PronType=Neg	5	advmod	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	rende	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	conto	conto	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+7	-	-	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+8	tral'	tralo	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	iobj	_	SpaceAfter=No
+9	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	_
+10	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+12	che	che	SCONJ	CS	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
+15	concludere	concludere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+16	chi	chi	PRON	PR	Number=Sing|PronType=Rel	15	obj	_	_
+17	parlava	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	_
+18	prima	prima	ADV	B	_	20	case	_	_
+19	di	di	ADP	E	_	18	fixed	_	_
+20	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	SpacesAfter=\n
+

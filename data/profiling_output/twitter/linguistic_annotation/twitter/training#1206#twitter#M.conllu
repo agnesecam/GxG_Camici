@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dalla prima lettera di San Paolo Apostolo...
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+4	lettera	lettera	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	San	San	PROPN	SP	_	4	nmod	_	_
+7	Paolo	Paolo	PROPN	SP	_	6	flat:name	_	_
+8	Apostolo..	Apostolo..	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = "Fratelli io non vendo sogni ma solide realtà" #qcc @Max_Giusti
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Fratelli	fratelli	PROPN	SP	_	5	obl	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	vendo	vendere	VERB	V	VerbForm=Ger	0	root	_	_
+6	sogni	sogno	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	solide	solido	ADJ	A	Gender=Fem|Number=Plur	6	conj	_	_
+9	realtà	realtà	NOUN	S	Gender=Fem	5	obj	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	11	punct	_	_
+11	#qcc	#qcc	ADV	B	_	5	advmod	_	_
+12	@Max_Giusti	@Max_Giusti	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

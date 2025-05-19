@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La juve non ruba.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	juve	juva	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ruba	rubare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Il Napoli viene arrestato.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Napoli	Napoli	PROPN	SP	_	4	nsubj:pass	_	_
+3	viene	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	arrestato	arrestare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Domenica saprà evadere o dovrà uscire su cauzione?
+1	Domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+2	saprà	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	evadere	evadere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	o	o	CCONJ	CC	_	6	cc	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	uscire	uscire	VERB	V	VerbForm=Inf	2	conj	_	_
+7	su	su	ADP	E	_	8	case	_	_
+8	cauzione	cauzione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

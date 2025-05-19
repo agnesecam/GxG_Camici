@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli ex-voto del santuario di Notre -Dame de la Guérison, in Val d’Aosta.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+2	ex	ex	ADJ	A	_	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	voto	voto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	santuario	santuario	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Notre	Notre	PROPN	SP	_	7	nmod	_	_
+10	-Dame	-Dame	PROPN	SP	_	9	flat:name	_	_
+11	de	de	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Guérison	Guérison	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	9	punct	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	Val	Val	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpacesAfter= 
+17	d’	di	ADP	E	_	18	case	_	SpaceAfter=No
+18	Aosta	Aosta	PROPN	SP	_	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = https:// gaetanolopresti.wordpress.com/2013/09/20/gli -ex-voto-del-santuario-di-notre-dame-de-la-guerison-in-val-daosta/ … pic.twitter.com/fQyrIk0Ix6
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	gaetanolopresti.wordpress.com/2013/09/20/gli	gaetanolopresti.wordpress.com/2013/09/20/glio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	-ex-voto-del-	_	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	santuario-di-notre-dame-de-la-guerison-in-val-daosta	santuario-di-notre-dame-de-la-guerison-in-val-daosto	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	_
+8	…	…	PUNCT	FF	_	6	punct	_	_
+9	pic.twitter.com/fQyrIk0Ix6	pic.twitter.com/fQyrIk0Ix6	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

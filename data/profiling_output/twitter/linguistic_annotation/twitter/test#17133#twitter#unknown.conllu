@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @manomela perché dopo sta partita fareste bene a tacere, per una volta.
+1	@manomela	@manomelare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	perché	perché	SCONJ	CS	_	5	mark	_	_
+3	dopo	dopo	ADV	B	_	5	advmod	_	_
+4	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	partita	partire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	fareste	faredere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	ccomp	_	_
+7	bene	bene	ADV	B	_	6	advmod	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	tacere	tacere	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	volta	volta	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlessioPiana130 @corsedimoto grazie come sempre di tenerci informati!
+1	@AlessioPiana130	@AlessioPiana130	NUM	N	NumType=Card	7	nummod	_	_
+2	@corsedimoto	@corsedimoto	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	grazie	grazie	NOUN	S	_	5	case	_	_
+4	come	come	ADP	E	_	3	fixed	_	_
+5	sempre	sempre	ADV	B	_	7	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	tenerci	tenerce	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+8	informati	informato	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = può sembrare strano,ma ho scoperto il #cev grazie a te!
+1	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	strano,ma	strano,mo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	scoperto	scoprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#cev	#cev	ADJ	NO	Number=Sing|NumType=Ord	5	obj	_	_
+8	grazie	grazie	NOUN	S	_	10	case	_	_
+9	a	a	ADP	E	_	8	fixed	_	_
+10	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

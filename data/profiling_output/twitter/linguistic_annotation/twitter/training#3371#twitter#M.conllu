@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Euro 2016 si farà anche grazie al torbido petrolio azero http://www.
+1	Euro	euro	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+2	2016	2016	NUM	N	NumType=Card	1	nummod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	anche	anche	ADV	B	_	10	advmod	_	_
+6	grazie	grazie	NOUN	S	_	10	case	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	6	fixed	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	torbido	torbido	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+11	azero	azero	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	http://www	http://www	NOUN	S	_	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = linkiesta.it/it/article/201 6/04/09/euro-2016-si-fara-anche-grazie-al-torbido-petrolio-azero/29916/ … via @linkiesta
+1	linkiesta.it/it/article/201	linkiesta.it/it/article/20l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+2	6/04	6/04	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	09	09	NUM	N	NumType=Card	2	compound	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	euro-2016	euro-2016	NUM	N	NumType=Card	2	compound	_	SpaceAfter=No
+7	-si	-so	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+8	-fara-anche	-fara-anche	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	grazie-al-torbido	grazie-al-torbido	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+11	-petrolio	-petrolio	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	azero/29916	azero/29916	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	…	…	PUNCT	FF	_	13	punct	_	_
+16	via	via	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+17	@linkiesta	@linkiesto	ADJ	A	Number=Sing	7	amod	_	SpacesAfter=\n
+

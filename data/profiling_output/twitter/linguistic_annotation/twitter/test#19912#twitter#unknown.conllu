@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La UE non ha aperto alcuna indagine.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	UE	UE	PROPN	SP	_	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	aperto	aprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	indagine	indagine	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Che il #M5Sciacalli , calunniatori conclamati, torni nelle fogne, con i fascisti https:// twitter.com/PediciniM5S/st atus/715842753578549248 …
+1	Che	che	SCONJ	CS	_	8	mark	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	#M5Sciacalli	#M5Sciacalli	PROPN	SP	_	8	nsubj	_	_
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	calunniatori	calunniatore	NOUN	S	Gender=Masc|Number=Plur	3	appos	_	_
+6	conclamati	conclamato	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	torni	tornare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-10	nelle	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	fogne	fogna	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	8	punct	_	_
+13	con	con	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	fascisti	fascista	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+16	https:	https:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	twitter.com/PediciniM5S/st	twitter.com/PediciniM5S/st	PROPN	SP	_	15	nmod	_	_
+20	atus/715842753578549248	atus/715842753578549248	NUM	N	NumType=Card	19	nummod	_	_
+21	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

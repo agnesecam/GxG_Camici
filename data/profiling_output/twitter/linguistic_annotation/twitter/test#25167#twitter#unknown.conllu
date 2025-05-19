@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tante furono le decisioni scellerate dei politici.
+1	Tante	tanto	PROPN	SP	_	4	nsubj	_	_
+2	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	decisioni	decisione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	scellerate	scellerato	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	politici	politico	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ora iniziamo a raccogliere i frutti:
+1	Ora	ora	ADV	B	_	2	advmod	_	_
+2	iniziamo	iniziare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	raccogliere	raccogliere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	frutti	frutto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = Dagli Usa un «Travel Alert» http://www.
+1-2	Dagli	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Usa	Usa	PROPN	SP	_	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	«	«	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	Travel	Travel	PROPN	SP	_	3	flat:name	_	_
+7	Alert	Alert	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	»	»	PUNCT	FB	_	6	punct	_	_
+9	http://www	http://www	NOUN	S	_	6	appos	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = ilsole24ore.com/art/mondo/2016 -03-23/dagli-usa-travel-alert-viaggiare-europa-e-pericoloso-114619.shtml?uuid=ACQ3zRtC …
+1	ilsole24ore.com/art/mondo/2016	ilsole24ore.com/art/mondo/2016	SYM	X	_	0	root	_	_
+2	-03-23	-03-23	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	dagli-usa-travel-alert-viaggiare-europa-e-pericoloso-114619.shtml	dagli-usa-travel-alert-viaggiare-europa-e-pericoloso-114619.shtml	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+6	uuid=ACQ3zRtC	uuid=ACQ3zRtC	PROPN	SP	_	4	nmod	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

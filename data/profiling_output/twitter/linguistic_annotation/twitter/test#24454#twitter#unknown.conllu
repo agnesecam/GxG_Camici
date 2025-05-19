@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tirchia!
+1	Tirchia	Tirchia	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Gliene potevi versare un po' di più ... #baciatodalsole
+1	Gliene	gliene	ADV	B	_	3	advmod	_	_
+2	potevi	poteve	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	versare	versare	VERB	V	VerbForm=Inf	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po'	poco	ADV	B	_	3	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	più	più	ADV	B	_	5	advmod	_	_
+8	...	.	PUNCT	FF	_	3	punct	_	_
+9	#baciatodalsole	#baciatodalsola	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = GESU’ SPOSO DI MADDALENA EBBE DUE FIGLI, ATTESTA UN MANOSCRITTO DEL 570 d.C. http:// fb.me/3n4T8uQar
+1	GESU’	GESUo	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
+2	SPOSO	SPOSO	PROPN	SP	_	5	nsubj	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	MADDALENA	MADDALENA	PROPN	SP	_	2	nmod	_	_
+5	EBBE	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	DUE	due	PROPN	SP	_	5	obj	_	_
+7	FIGLI	figli	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	ATTESTA	attesta	PROPN	SP	_	6	nmod	_	_
+10	UN	Un	PROPN	SP	_	9	flat:name	_	_
+11	MANOSCRITTO	MANOSCRITTO	PROPN	SP	_	9	flat:name	_	_
+12-13	DEL	_	_	_	_	_	_	_	_
+12	DI	Di	ADP	E	_	13	case	_	_
+13	IL	il	PROPN	SP	_	14	obl	_	_
+14	570	570	NUM	N	NumType=Card	19	nummod	_	_
+15	d.C.	D.c.	ADJ	A	_	14	amod	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/3n4T8uQar	fb.me/3n4T8uQar	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @EroeSemantico che bella calligrafia.
+1	@EroeSemantico	@EroeSemantico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	bella	bello	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	calligrafia	calligrafia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Potresti scrivere le peggio cose e sembrare comunque elegante
+1	Potresti	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	scrivere	scrivere	VERB	V	VerbForm=Inf	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	peggio	peggio	ADJ	A	_	5	amod	_	_
+5	cose	coso	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	5	conj	_	_
+8	comunque	comunque	ADV	B	_	7	advmod	_	_
+9	elegante	elegante	ADJ	A	Number=Sing	7	xcomp	_	SpacesAfter=\n
+

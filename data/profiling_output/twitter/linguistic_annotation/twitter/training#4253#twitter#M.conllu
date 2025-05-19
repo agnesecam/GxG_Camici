@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vettel a ritorno a Maranello dovrà fare una radiografia x capire se la scapola é ancora apposto!
+1	Vettel	Vettel	NOUN	S	Gender=Masc	7	nsubj	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	ritorno	ritorno	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Maranello	Maranello	PROPN	SP	_	3	nmod	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	radiografia	radiografia	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	x	x	SYM	SYM	_	9	nmod	_	_
+11	capire	capire	VERB	V	VerbForm=Inf	7	xcomp	_	_
+12	se	se	SCONJ	CS	_	17	mark	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	scapola	scapola	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+15	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	ancora	ancora	ADV	B	_	17	advmod	_	_
+17	apposto	apposto	ADJ	A	Gender=Masc|Number=Sing	11	ccomp	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

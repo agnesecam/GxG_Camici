@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @petergomezblog @fattoquotidiano giocano con le nostre vite e la gente muore, cos'altro deve succedere in questo paese?
+1	@petergomezblog	@petergomezblog	NOUN	S	Gender=Masc	3	nsubj	_	_
+2	@fattoquotidiano	@fattoquotidiano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	giocano	giocare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	vite	vita	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	gente	gente	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+11	muore	morire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	cos'	cosa	PRON	PQ	Number=Sing|PronType=Int	16	obj	_	SpaceAfter=No
+14	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	nsubj	_	_
+15	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	succedere	succedere	VERB	V	VerbForm=Inf	3	conj	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
+19	paese	paese	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = La rivoluzione?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	rivoluzione	rivoluzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

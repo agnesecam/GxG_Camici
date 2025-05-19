@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Roma a -4 dal Napoli, che dovrà affrontare i giallorossi all'Olimpico!
+1	Roma	Roma	PROPN	SP	_	0	root	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	4	4	NUM	N	NumType=Card	7	nummod	_	_
+5-6	dal	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Napoli	Napoli	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	affrontare	affrontare	VERB	V	VerbForm=Inf	1	acl:relcl	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	giallorossi	giallorosso	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14-15	all'	_	_	_	_	_	_	_	SpaceAfter=No
+14	a	a	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	Olimpico	olimpico	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #corsasecondoposto
+1	#corsasecondoposto	#corsasecondoporre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

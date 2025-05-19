@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Con che faccia riuscite a rispondere no alla domanda c'è qualcuna e dopo qualche giorno state con una?
+1	Con	con	ADP	E	_	3	case	_	_
+2	che	che	DET	DQ	PronType=Int	3	det	_	_
+3	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	riuscite	riuscire	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	rispondere	rispondere	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	no	no	ADV	BN	PronType=Neg	6	advmod	_	_
+8-9	alla	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+11	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	SpaceAfter=No
+12	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+13	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+14	e	e	CCONJ	CC	_	18	cc	_	_
+15	dopo	dopo	ADP	E	_	17	case	_	_
+16	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	17	det	_	_
+17	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+18	state	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	18	obl	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #spiegatemelo
+1	#spiegatemelo	#spiegatemelo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

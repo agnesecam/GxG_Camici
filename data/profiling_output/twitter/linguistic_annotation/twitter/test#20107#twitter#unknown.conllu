@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaiRadio2 @Valerio_Scanu @andyPERRONI scommetto che vi stavate divertendo un sacco !! :)
+1	@RaiRadio2	@RaiRadio2	PROPN	SP	_	0	root	_	_
+2	@Valerio_Scanu	@Valerio_Scanu	PROPN	SP	_	1	flat:name	_	_
+3	@andyPERRONI	@andyPERRONI	PROPN	SP	_	1	flat:name	_	_
+4	scommetto	scommettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	vi	vi	ADV	B	_	8	advmod	_	_
+7	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	divertendo	divertire	VERB	V	VerbForm=Ger	4	advcl	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	!!	!!	PUNCT	FF	_	10	punct	_	_
+12	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

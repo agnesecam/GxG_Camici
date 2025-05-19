@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SantucciFulvio Ma come troppo precoce ?
+1	@SantucciFulvio	@SantucciFulvio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Ma	ma	CCONJ	CC	_	5	cc	_	_
+3	come	come	ADP	E	_	5	case	_	_
+4	troppo	troppo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	precoce	precoce	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vedere quanti infortuni ebbero queste 2 squadre: https://www.
+1	Vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+2	quanti	quanto	PRON	PQ	Gender=Masc|Number=Plur|PronType=Int	4	obj	_	_
+3	infortuni	infortuno	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ebbero	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+5	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+6	2	2	NUM	N	NumType=Card	7	nummod	_	_
+7	squadre	squadra	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	4	punct	_	_
+9	https://www.	https://www.	NOUN	S	_	1	obj	_	_
+
+# sent_id = 3
+# text = youtube.com/watch?v=7VqqrY 5p8ck …
+1	youtube.com/watch?v=7VqqrY	youtube.com/watch?v=7vqqry	DET	DI	PronType=Ind	2	det	_	_
+2	5p8ck	5p8ck	NOUN	S	Gender=Masc	0	root	_	_
+3	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gianpaolag18 @SIPARISipari @AGiam @galimberti61 se proprio vuole fare sport,ho una pila di piatti e pentole da lavare che farà perdere 3 kg
+1	@gianpaolag18	@gianpaolag18	NUM	N	NumType=Card	2	nummod	_	_
+2	@SIPARISipari	@SIPARISipari	PROPN	SP	_	0	root	_	_
+3	@AGiam	@AGiam	PROPN	SP	_	2	flat:name	_	_
+4	@galimberti61	@galimberti61	NUM	N	NumType=Card	2	flat:name	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	proprio	proprio	ADV	B	_	8	advmod	_	_
+7	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	4	advcl	_	_
+9	sport,ho	sport,ho	ADV	B	_	8	advmod	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	pila	pila	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	piatti	piatto	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	pentole	pentola	NOUN	S	Gender=Fem|Number=Plur	13	conj	_	_
+16	da	da	ADP	E	_	17	case	_	_
+17	lavare	lavare	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
+18	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+19	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	acl:relcl	_	_
+20	perdere	perdere	VERB	V	VerbForm=Inf	19	xcomp	_	_
+21	3	3	NUM	N	NumType=Card	22	nummod	_	_
+22	kg	chilogrammo	NOUN	S	Gender=Masc	20	obj	_	SpacesAfter=\n
+

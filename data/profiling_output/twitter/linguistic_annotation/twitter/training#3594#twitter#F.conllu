@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quel ragazzo mi farà venire una crisi nervosa un giorno di questi
+1	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	venire	venire	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	crisi	crisi	NOUN	S	Gender=Fem	5	obj	_	_
+8	nervosa	nervoso	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	10	nmod	_	SpacesAfter=\n
+

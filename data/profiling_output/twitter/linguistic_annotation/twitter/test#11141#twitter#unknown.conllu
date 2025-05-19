@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quei deficienti dei ragazzi che per farsi fighi scrivono dappertutto "swag" e non sanno proprio che significa "secretly we are gay"
+1	Quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
+2	deficienti	deficiento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8-9	farsi	_	_	_	_	_	_	_	_
+8	far	fare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	fighi	figo	PRON	PR	Number=Sing|PronType=Rel	8	obj	_	_
+11	scrivono	scrivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+12	dappertutto	dappertutto	ADV	B	_	11	advmod	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	swag	swag	SYM	X	_	11	xcomp	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	14	punct	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+19	proprio	proprio	ADV	B	_	18	advmod	_	_
+20	che	che	SCONJ	CS	_	21	mark	_	_
+21	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	ccomp	_	_
+22	"	"	PUNCT	FB	_	25	punct	_	SpaceAfter=No
+23	secretly	secretly	ADJ	A	_	24	amod	_	_
+24	we	we	NOUN	S	Number=Sing	25	nsubj	_	_
+25	are	are	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	_
+26	gay	gay	NOUN	S	_	25	obj	_	SpaceAfter=No
+27	"	"	PUNCT	FB	_	25	punct	_	SpacesAfter=\n
+

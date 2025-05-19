@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxBambi7 ma se l' avessimo giocata 3 settimane fa con Monto.e Niang avremmo vinto!Siamo in calo fisico e nn abbiamo ricambi.
+1	@MaxBambi7	@MaxBambi7	PROPN	SP	_	0	root	_	_
+2	ma	ma	CCONJ	CC	_	14	cc	_	_
+3	se	se	SCONJ	CS	_	14	mark	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+6	giocata	giocare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+7	3	3	NUM	N	NumType=Card	8	nummod	_	_
+8	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+9	fa	fa	ADV	B	_	8	advmod	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	Monto.e	Monto.e	PROPN	SP	_	6	obl	_	_
+12	Niang	Niang	PROPN	SP	_	11	flat:name	_	_
+13	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+15	!Siamo	!siamo	PROPN	SP	_	14	obj	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	calo	calo	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+18	fisico	fisico	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	_
+20	nn	nn	ADV	B	_	21	advmod	_	_
+21	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+22	ricambi	ricambio	NOUN	S	Gender=Masc|Number=Plur	21	obj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

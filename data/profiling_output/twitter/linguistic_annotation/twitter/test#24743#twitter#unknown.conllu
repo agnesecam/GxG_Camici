@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I Magistrati farebbero bene a mandarlo in galera questo fanatico esaltato.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Magistrati	magistrati	PROPN	SP	_	3	nsubj	_	_
+3	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	bene	bene	ADV	B	_	3	advmod	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	mandarlo	_	_	_	_	_	_	_	_
+6	mandar	mandare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	galera	galera	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	fanatico	fanatico	NOUN	S	Gender=Masc|Number=Sing	6	xcomp	_	_
+12	esaltato	esaltato	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Telles costantemente ignorato è un altro dei segreti di Fatima che prima o poi Mancini ci dovrà spiegare #frosinoneinter
+1	Telles	Telle	ADP	E	_	3	case	_	_
+2	costantemente	costantemente	ADV	B	_	3	advmod	_	_
+3	ignorato	ignorato	ADJ	A	Gender=Masc|Number=Sing	6	obl	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	_
+7-8	dei	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	segreti	segreto	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Fatima	Fatima	PROPN	SP	_	9	nmod	_	_
+12	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+13	prima	prima	ADV	B	_	19	advmod	_	_
+14	o	o	CCONJ	CC	_	19	cc	_	_
+15	poi	poi	ADV	B	_	19	advmod	_	_
+16	Mancini	Mancini	PROPN	SP	_	19	nsubj	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	iobj	_	_
+18	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	aux	_	_
+19	spiegare	spiegare	VERB	V	VerbForm=Inf	9	acl:relcl	_	_
+20	#frosinoneinter	#frosinoneinter	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Egli è l'immagine del Dio invisibile Col 1,15 (Lorenzo Lotto, La Trinità) pic.twitter.com/fj8wPIyTvr
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Dio	Dio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	invisibile	invisibile	ADJ	A	Number=Sing	7	amod	_	_
+9-10	Col	_	_	_	_	_	_	_	_
+9	Con	con	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	1,15	1,15	NUM	N	NumType=Card	13	nummod	_	_
+12	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+13	Lorenzo	Lorenzo	PROPN	SP	_	4	nmod	_	_
+14	Lotto	Lotto	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	13	punct	_	_
+16	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Trinità	Trinità	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	17	punct	_	_
+19	pic.twitter.com/fj8wPIyTvr	pic.twitter.com/fj8wPIyTvr	PROPN	SP	_	13	flat:name	_	SpacesAfter=\n
+

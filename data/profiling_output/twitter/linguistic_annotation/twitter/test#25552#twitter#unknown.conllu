@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GongoGorillo gli extra sono più di 9000€ inoltre le spese da ViceP Cam sono maggiori...
+1	@GongoGorillo	@GongoGorillo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	_
+3	extra	extra	ADV	B	_	15	advmod	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+5	più	più	ADV	B	_	8	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	9000€	9000€	PROPN	SP	_	5	obl	_	_
+8	inoltre	inoltre	ADV	B	_	15	advmod	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	ViceP	ViceP	PROPN	SP	_	10	nmod	_	_
+13	Cam	Cam	PROPN	SP	_	12	flat:name	_	_
+14	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	maggiori...	maggiori.	NOUN	S	_	1	obj	_	_
+
+# sent_id = 2
+# text = fai tu... @gjscco @la_stampa @jacopo_iacoboni
+1	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tu...	tu...	PUNCT	FF	_	3	punct	_	_
+3	@gjscco	@gjscco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	@la_stampa	@la_stampere	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	@jacopo_iacoboni	@jacopo_iacobone	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	SpacesAfter=\n
+

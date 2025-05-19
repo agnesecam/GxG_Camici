@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Della serie "non mi avrete mai dove e come volete voi".
+1-2	Della	_	_	_	_	_	_	_	_
+1	Di	di	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	serie	serie	NOUN	S	Gender=Fem	7	obl	_	_
+4	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	expl	_	_
+7	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	mai	mai	ADV	B	_	7	advmod	_	_
+9	dove	dove	ADV	B	_	7	obj	_	_
+10	e	e	CCONJ	CC	_	13	cc	_	_
+11	come	come	SCONJ	CS	_	13	mark	_	_
+12	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	9	conj	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ammirazione https:// twitter.com/zeropregi/stat us/708602494616784896 …
+1	Ammirazione	ammirazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	twitter.com/zeropregi/stat	twitter.com/zeropregi/stare	NOUN	S	Gender=Masc	1	nmod	_	_
+6	us/708602494616784896	us/708602494616784896	NUM	N	NumType=Card	5	nummod	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

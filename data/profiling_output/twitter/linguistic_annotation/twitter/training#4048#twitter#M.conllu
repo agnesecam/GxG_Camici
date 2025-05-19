@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #notizie #cronaca Veneto, nelle moschee si dovrà parlare italiano:
+1	#notizie	#notizia	NOUN	S	Gender=Fem|Number=Plur	10	parataxis	_	_
+2	#cronaca	#cronaco	ADP	E	_	3	case	_	_
+3	Veneto	Veneto	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5-6	nelle	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	moschee	moschea	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+11	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	10	punct	_	_
+
+# sent_id = 2
+# text = L'obbligatorietà stabilita in una nuova le... http:// bit.ly/1oBq2JR
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	obbligatorietà	obbligatorietà	NOUN	S	Gender=Fem	0	root	_	_
+3	stabilita	stabilire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	le...	le...	NOUN	S	_	3	obl	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	bit.ly/1oBq2JR	bit.ly/1oBq2JR	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 'Se tutti partecipano alla definizione del disegno, poi ognuno farà la propria parte'.
+1	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
+4	partecipano	partecipare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	definizione	definizione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	disegno	disegno	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	poi	poi	ADV	B	_	14	advmod	_	_
+13	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+14	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	propria	proprio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	parte	parte	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+18	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = ( @dariofrance ) #PST2016 pic.twitter.com/nDidyMhKvO
+1	(	(	PUNCT	FB	_	2	punct	_	_
+2	@dariofrance	@dariofrance	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+3	)	)	PUNCT	FB	_	2	punct	_	_
+4	#PST2016	#PST2016	PROPN	SP	_	0	root	_	_
+5	pic.twitter.com/nDidyMhKvO	pic.twitter.com/nDidyMhKvO	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

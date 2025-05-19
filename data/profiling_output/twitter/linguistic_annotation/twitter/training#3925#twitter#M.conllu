@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non tosare una povera pecora.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	tosare	tosare	VERB	V	VerbForm=Inf	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	povera	povero	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	pecora	pecora	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Soffre.
+1	Soffre	soffrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Cuoio?
+1	Cuoio	cuoio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Nemmai nessun animale dovrá mai più essere sfruttato.
+1	Nemmai	Nemmai	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	nessun	nessun	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
+3	animale	animale	ADJ	A	Number=Sing	4	amod	_	_
+4	dovrá	dovrá	PROPN	SP	_	1	obj	_	_
+5	mai	mai	ADV	B	_	8	advmod	_	_
+6	più	più	ADV	B	_	8	advmod	_	_
+7	essere	essere	AUX	VA	VerbForm=Inf	8	aux:pass	_	_
+8	sfruttato	sfruttare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = Pelle umana....
+1	Pelle	pelle	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	umana....	umana..	NOUN	S	_	0	root	_	_
+
+# sent_id = 6
+# text = http:// fb.me/7EtNSx90t
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7EtNSx90t	fb.me/7EtNSx90t	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ah io pensavo facesse parte della giuria Morgan #Amici15
+1	Ah	ah	INTJ	I	_	3	discourse	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+5	parte	parte	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	giuria	giuria	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	Morgan	Morgan	PROPN	SP	_	8	nmod	_	_
+10	#Amici15	#Amici15	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

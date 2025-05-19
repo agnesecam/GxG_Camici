@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @donTonio66
+1	@donTonio66	@donTonio66	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = Le sue ciambelle riescono sempre col buco.....
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	ciambelle	ciambella	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+4	riescono	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sempre	sempre	ADV	B	_	4	advmod	_	_
+6-7	col	_	_	_	_	_	_	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	buco.....	buco.....	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+
+# sent_id = 3
+# text = dunque un buco nell'acqua è ben accetto!
+1	dunque	dunque	ADV	B	_	9	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	buco	buco	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+4-5	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+4	in	in	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	ben	bene	ADV	B	_	9	advmod	_	_
+9	accetto	accettare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

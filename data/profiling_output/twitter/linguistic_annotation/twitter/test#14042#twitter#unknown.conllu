@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bonucci_leo19 senza aiuti tutte le sante domeniche di campionato sareste da Europa League.
+1	@bonucci_leo19	@bonucci_leo19	NUM	N	NumType=Card	6	nummod	_	_
+2	senza	senza	ADP	E	_	3	case	_	_
+3	aiuti	aiuto	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+4	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	6	det:predet	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	sante	sante	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+7	domeniche	domenica	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	sareste	saresto	ADJ	A	Number=Sing	9	amod	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	Europa	Europa	PROPN	SP	_	10	obl	_	_
+13	League	League	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Che soddisfazione c'è?
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	soddisfazione	soddisfazione	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/BzRhHwEHER
+1	pic.twitter.com/BzRhHwEHER	pic.twitter.com/BzRhHwEHER	ADP	E	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Michela_Fago92 allora è normalissimo.
+1	@Michela_Fago92	@Michela_Fago92	PROPN	SP	_	4	nsubj	_	_
+2	allora	allora	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	normalissimo.	normalissimo.	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ......vai a fare un po di lampade,così non saresti più gialla ma color cacca.....ahahahahah
+1	......vai	......vai	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po	po	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	lampade,così	lampade,così	NOUN	S	Gender=Fem	5	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	saresti	saredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	gialla	giallo	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+12	ma	ma	CCONJ	CC	_	13	cc	_	_
+13	color	colorre	ADJ	A	Number=Sing	11	conj	_	_
+14	cacca.....ahahahahah	cacca.....ahahahahah	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

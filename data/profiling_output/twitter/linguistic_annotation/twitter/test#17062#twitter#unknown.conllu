@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iPantellas Amori miei mi potete seguire in questo profilo:
+1	@iPantellas	@iPantellas	PROPN	SP	_	6	nsubj	_	_
+2	Amori	amori	PROPN	SP	_	1	flat:name	_	_
+3	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	iobj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+5	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	seguire	seguire	VERB	V	VerbForm=Inf	0	root	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	profilo	profilo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = @SilviaScanu1 ?
+1	@SilviaScanu1	@SilviaScanu1	PROPN	SP	_	0	root	_	_
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Per favore.
+1	Per	per	ADP	E	_	2	case	_	_
+2	favore.	favore.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 5
+# text = mi fareste molto contenta!
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	fareste	faredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	molto	molto	ADV	B	_	4	advmod	_	_
+4	contenta	contento	ADJ	A	Gender=Fem|Number=Sing	2	xcomp	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 6
+# text = grazie :)
+1	grazie	grazie	NOUN	S	_	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

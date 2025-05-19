@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TristeMietitore nel lontano ( ahimè ) 1997.
+1	@TristeMietitore	@TristeMietitore	NOUN	S	_	0	root	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+5	(	(	PUNCT	FB	_	6	punct	_	_
+6	ahimè	ahimè	INTJ	I	_	4	advmod	_	_
+7	)	)	PUNCT	FB	_	6	punct	_	_
+8	1997	1997	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È questa è fantastica http:// youtu.be/mM0-ZU8njdo
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	fantastica	fantastico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+5	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	youtu.be/mM0-ZU8njdo	youtu.be/mM0-ZU8njdo	PROPN	SP	_	4	conj	_	SpacesAfter=\n
+

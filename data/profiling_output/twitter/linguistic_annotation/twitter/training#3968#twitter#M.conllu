@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LucianoMoggi Direttore questa su Ibra mancava.
+1	@LucianoMoggi	@LucianoMoggi	ADV	B	_	6	advmod	_	_
+2	Direttore	Direttore	PROPN	SP	_	6	nsubj	_	_
+3	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	Ibra	Ibra	PROPN	SP	_	6	obl	_	_
+6	mancava	mancavo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Fango,fango,sempre fango.
+1	Fango	Fango	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+3	fango,sempre	fango,sempre	ADV	B	_	4	advmod	_	_
+4	fango	fanire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = La Juve dovrà chiedere di partecipare a un campionato estero?????
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Juve	Juve	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	chiedere	chiedere	VERB	V	VerbForm=Inf	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	partecipare	partecipare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	estero	estero	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

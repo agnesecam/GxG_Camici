@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = con e dentro "trivellopoli" ....
+1	con	con	ADP	E	_	7	case	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	_
+3	dentro	dentro	ADV	B	_	5	advmod	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	trivellopoli	trivellopole	ADJ	A	Number=Plur	1	conj	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	7	punct	_	_
+7	...	...	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = ma quando ti dimetti?
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	quando	quando	SCONJ	CS	_	4	mark	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+4	dimetti	dimeggere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = @matteorenzi
+1	@matteorenzi	@matteorenzi	ADV	B	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @robymancio ne avessimo dimostrata una delle tre ci crederei....
+1	@robymancio	@robymanciare	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	dimostrata	dimostrare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	4	obj	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	tre	tre	NUM	N	NumType=Card	9	nummod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
+10	crederei...	crederei.	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

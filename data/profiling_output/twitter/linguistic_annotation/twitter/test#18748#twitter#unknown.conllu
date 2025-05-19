@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il cammino di ciascuno di noi è provato da sofferenze più o meno gravi e dolorose...da croci più o meno grandi e... http:// fb.me/4DqEiRFEP
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cammino	cammino	NOUN	S	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+8	provato	provare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	sofferenze	sofferenza	NOUN	S	Gender=Fem|Number=Plur	8	obl:agent	_	_
+11	più	più	ADV	B	_	14	advmod	_	_
+12	o	o	CCONJ	CC	_	13	cc	_	_
+13	meno	meno	ADV	B	_	14	advmod	_	_
+14	gravi	grave	ADJ	A	Number=Plur	10	amod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	dolorose...da	dolorose...do	ADJ	A	Number=Sing	14	conj	_	_
+17	croci	croce	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+18	più	più	ADV	B	_	17	advmod	_	_
+19	o	o	CCONJ	CC	_	22	cc	_	_
+20	meno	meno	ADV	B	_	22	advmod	_	_
+21	grandi	grande	ADJ	A	Number=Plur	22	amod	_	_
+22	e...	e.	NOUN	S	_	18	conj	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/4DqEiRFEP	fb.me/4DqEiRFEP	PROPN	SP	_	17	nmod	_	SpacesAfter=\n
+

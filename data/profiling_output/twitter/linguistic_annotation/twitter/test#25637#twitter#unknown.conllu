@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Cardiopoetica e quelle che era meglio non aprire così avremmo evitato tanti problemi
+1	@Cardiopoetica	@Cardiopoetico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	1	conj	_	_
+4	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+5	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+6	meglio	meglio	ADV	B	_	8	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	aprire	aprire	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+9	così	così	ADV	B	_	11	advmod	_	_
+10	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	evitato	evitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+12	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	SpacesAfter=\n
+

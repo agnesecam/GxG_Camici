@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Sciogliere i nodi dentro di te, le più ostinate malinconie.
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Sciogliere	sciogliere	VERB	V	VerbForm=Inf	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	nodi	nodo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	dentro	dentro	ADV	B	_	7	case	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	ostinate	ostinato	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+12	malinconie	malinconia	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Magari"
+1	Magari	magari	ADV	B	_	0	root	_	SpaceAfter=No
+2	"	"	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

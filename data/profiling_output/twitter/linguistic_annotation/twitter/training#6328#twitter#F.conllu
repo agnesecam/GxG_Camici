@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ScovaCastori Ma se ci fossimo qualificati il sorteggio andava diversamente:
+1	@ScovaCastori	@ScovaCastore	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+2	Ma	ma	CCONJ	CC	_	9	cc	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	qualificati	qualificare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sorteggio	sorteggio	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	andava	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	diversamente	diversamente	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	9	punct	_	_
+
+# sent_id = 2
+# text = usciva Barca tutta la vita
+1	usciva	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	Barca	barca	PROPN	SP	_	1	xcomp	_	_
+3	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	5	det:predet	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vita	vita	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpacesAfter=\n
+

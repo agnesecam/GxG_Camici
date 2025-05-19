@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Luca96522772
+1	@Luca96522772	@Luca96522772	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = Ma certo però se pensi che se fossimo arrivati primi domani giocavamo con la Dinamo ti girano ancora di più !!
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	certo	certo	ADV	B	_	3	advmod	_	_
+3	però	però	ADV	B	_	5	advmod	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	pensi	pensare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	12	mark	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	arrivati	arrivare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	advcl	_	_
+10	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	12	xcomp	_	_
+11	domani	domani	ADV	B	_	10	advmod	_	_
+12	giocavamo	giocare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+13	con	con	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Dinamo	dinamo	PROPN	SP	_	17	obl	_	_
+16	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+17	girano	girare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+18	ancora	ancora	ADV	B	_	20	advmod	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	più	più	ADV	B	_	17	advmod	_	_
+21	!	!	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

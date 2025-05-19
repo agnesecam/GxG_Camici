@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ilrossoeilnero8 @DiaVoltaire vero ma non solo.
+1	@Ilrossoeilnero8	@Ilrossoeilnero8	PROPN	SP	_	0	root	_	_
+2	@DiaVoltaire	@DiaVoltaire	PROPN	SP	_	1	flat:name	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	solo	solo	ADV	B	_	3	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È proprio una questione di testa.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	proprio	proprio	ADV	B	_	4	advmod	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	questione	questione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	testa	testa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Avessimo aggredito così Cigarini e De Roon avremmo vinto
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	aggredito	aggredire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+3	così	così	ADV	B	_	2	advmod	_	_
+4	Cigarini	Cigarini	PROPN	SP	_	2	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	De	De	PROPN	SP	_	4	conj	_	_
+7	Roon	Roon	PROPN	SP	_	6	flat:name	_	_
+8	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

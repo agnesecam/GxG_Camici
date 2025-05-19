@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Roma.
+1	Roma	Roma	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = San Giovanni in Laterano, L'organo.
+1	San	San	PROPN	SP	_	0	root	_	_
+2	Giovanni	Giovanni	PROPN	SP	_	1	flat:name	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Laterano	Laterano	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	organo	organo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Biagi che anche Händel volle suonare durante la sua visita a Roma.
+1	Biagi	Biago	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	Händel	Händel	PROPN	SP	_	5	nsubj	_	_
+5	volle	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+6	suonare	suonare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	durante	durante	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	visita	visita	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	Roma	Roma	PROPN	SP	_	6	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = pic.twitter.com/bvivVwMQlE
+1	pic.twitter.com/bvivVwMQlE	pic.twitter.com/bvivvwmqle	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

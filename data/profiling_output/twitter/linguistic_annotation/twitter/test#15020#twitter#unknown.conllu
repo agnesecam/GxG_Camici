@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma tipo per tanto tempo!
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Siamo pure andati al ristorante.
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	pure	pure	ADV	B	_	3	advmod	_	_
+3	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ristorante	ristorante	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Lui voleva che la foto ce la facesse Dolce e Gabbana.
+1	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	voleva	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	foto	foto	NOUN	S	Gender=Fem	8	nsubj	_	_
+6	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+7	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+9	Dolce	dolce	PROPN	SP	_	8	nsubj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	Gabbana	Gabbana	PROPN	SP	_	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Booooh.
+1	Booooh	Booooh	ADV	B	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

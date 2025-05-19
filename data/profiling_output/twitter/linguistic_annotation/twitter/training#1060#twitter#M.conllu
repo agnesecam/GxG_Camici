@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È un po una noia che questo campionato venga vinto sempre dalla Juve...Seppur forte.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	po	po	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	noia	noia	NOUN	S	Gender=Fem|Number=Sing	3	appos	_	_
+6	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+7	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	venga	venire	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+11	sempre	sempre	ADV	B	_	10	advmod	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Juve...Seppur	Juve...Seppur	PROPN	SP	_	10	obl	_	_
+15	forte.	forte.	NOUN	S	_	3	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..Sarebbe bello cambiare #SkySerieA
+1	..Sarebbe	..Saere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	bello	bello	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	_
+3	cambiare	cambiare	VERB	V	VerbForm=Inf	1	csubj	_	_
+4	#SkySerieA	#SkySerieA	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

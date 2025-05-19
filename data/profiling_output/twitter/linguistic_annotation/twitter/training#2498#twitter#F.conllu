@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Piango se penso che mi hanno rubato la radio dalla macchina con il CD #lrsa dentro ... @Negramaro #LauraePaola
+1	Piango	piango	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	rubato	rubare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	radio	radio	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+13	con	con	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	CD	cd	PROPN	SP	_	16	nmod	_	_
+16	#lrsa	#lrrere	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	12	nmod	_	_
+17	dentro	dentro	ADV	B	_	19	advmod	_	_
+18	...	...	PUNCT	FF	_	19	punct	_	_
+19	@Negramaro	@Negramaro	PROPN	SP	_	16	nmod	_	_
+20	#	#	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	LauraePaola	LauraePaola	PROPN	SP	_	1	obj	_	SpacesAfter=\n
+

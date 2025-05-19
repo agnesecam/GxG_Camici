@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = a #Mattarella vorrei dire che i confini sono protetti dalla Costituzione di cui lui dovrebbe esser garante
+1	a	a	ADP	E	_	2	case	_	_
+2	#Mattarella	#Mattarella	PROPN	SP	_	4	obl	_	_
+3	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	confini	confine	NOUN	S	Gender=Masc|Number=Plur	9	nsubj:pass	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	protetti	proteggere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	ccomp	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Costituzione	costituzione	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	cui	cui	PRON	PR	PronType=Rel	17	obl	_	_
+15	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+16	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	esser	essere	VERB	V	VerbForm=Inf	9	acl:relcl	_	_
+18	garante	garare	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	SpacesAfter=\n
+

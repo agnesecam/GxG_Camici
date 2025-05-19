@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SatcitStefano invece quando il #PD parla a tutti noi come forza di #governo il danno ahimè lo fa al 100% @pinopinollo @M5SLazio
+1	@SatcitStefano	@SatcitStefare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	invece	invece	ADV	B	_	1	advmod	_	_
+3	quando	quando	SCONJ	CS	_	6	mark	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#PD	#PD	PROPN	SP	_	6	nsubj	_	_
+6	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	obl	_	_
+10	come	come	ADP	E	_	11	case	_	_
+11	forza	forza	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	#governo	#governo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	danno	danno	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+16	ahimè	ahimè	INTJ	I	_	18	discourse	_	_
+17	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+18	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+19-20	al	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	22	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	100	100	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
+22	%	%	SYM	SYM	_	18	obl	_	_
+23	@pinopinollo	@pinopinollo	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	_
+24	@M5SLazio	@M5SLazio	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

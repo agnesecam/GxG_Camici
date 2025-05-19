@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @norma_marco @PuglisiPD ah dimenticavo non x scelta ma dopo essere stato ricattato dallo stato
+1	@norma_marco	@norma_marco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@PuglisiPD	@PuglisiPD	PROPN	SP	_	1	nmod	_	_
+3	ah	ah	INTJ	I	_	4	discourse	_	_
+4	dimenticavo	dimenticavo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	x	x	SYM	SYM	_	4	obj	_	_
+7	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+8	ma	ma	CCONJ	CC	_	12	cc	_	_
+9	dopo	dopo	SCONJ	CS	_	12	mark	_	_
+10	essere	essere	AUX	VA	VerbForm=Inf	12	aux	_	_
+11	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux:pass	_	_
+12	ricattato	ricattare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+13-14	dallo	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	stato	stato	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	SpacesAfter=\n
+

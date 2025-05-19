@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tra poco mi imbarco per tornare in Italia,e stavo ricordando tutte le persone incontrate in questi giorni.Mi ha... http:// fb.me/4vahFhA6j
+1	Tra	tra	ADP	E	_	2	case	_	_
+2	poco	poco	ADV	B	_	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+4	imbarco	imbarcare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	tornare	tornare	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	Italia,e	Italia,e	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	stavo	stavo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	ricordando	ricordare	VERB	V	VerbForm=Ger	6	advcl	_	_
+11	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	13	det:predet	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	persone	persona	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+14	incontrate	incontrare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	17	det	_	_
+17	giorni.Mi	giorni.Mo	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+18	ha...	ha.	PUNCT	FS	_	19	punct	_	_
+19	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	10	punct	_	_
+22	fb.me/4vahFhA6j	fb.me/4vahFhA6j	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cosa farà Thomas senza di me per una settimana
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	Thomas	Thomas	PROPN	SP	_	2	nsubj	_	_
+4	senza	senza	ADP	E	_	6	case	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	obl	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpacesAfter=\n
+

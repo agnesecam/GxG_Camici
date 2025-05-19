@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TJHuntley Vi ringrazio, il secondo volume di ebook "Serial killer Come uccidiamo le nostre vittime "quasi finito.
+1	@TJHuntley	@TJHuntley	CCONJ	CC	_	3	cc	_	_
+2	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	obj	_	_
+3	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
+7	volume	volume	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	ebook	ebook	NOUN	S	_	7	nmod	_	_
+10	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+11	Serial	Serial	DET	DQ	Number=Sing|PronType=Int	12	det	_	_
+12	killer	killere	NOUN	S	_	7	nmod	_	_
+13	Come	come	SCONJ	CS	_	14	mark	_	_
+14	uccidiamo	uccidere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+18	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+19	quasi	quasi	ADV	B	_	20	advmod	_	_
+20	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Very strong.
+1	Very	Very	DET	DI	PronType=Ind	2	det	_	_
+2	strong	strong	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Monica
+1	Monica	Monica	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

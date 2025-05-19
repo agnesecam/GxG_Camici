@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per farsi notare e necessario essere un personaggio e dire parecchie cose che gli altri non capiscono
+1	Per	per	ADP	E	_	2	mark	_	_
+2-3	farsi	_	_	_	_	_	_	_	_
+2	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+4	notare	notare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	necessario	necessario	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	_
+7	essere	essere	AUX	V	VerbForm=Inf	9	cop	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	personaggio	personaggio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	dire	dire	VERB	V	VerbForm=Inf	9	conj	_	_
+12	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
+13	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14	che	che	PRON	PR	PronType=Rel	18	obj	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	18	nsubj	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	capiscono	capire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpacesAfter=\n
+

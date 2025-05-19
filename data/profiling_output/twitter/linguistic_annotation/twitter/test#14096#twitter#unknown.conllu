@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Veramente voi sareste coglioni fancazzisti che vivono sulle spalle dei lavoratori che pagano tasse @matteosalvinimi https:// twitter.com/matteosalvinim i/status/709332844506705924 …
+1	Veramente	vero	ADV	B	_	3	advmod	_	_
+2	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	sareste	saredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	coglioni	coglione	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+5	fancazzisti	fancazzista	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8-9	sulle	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	spalle	spalla	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+15	pagano	pagare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+16	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	24	obj	_	_
+17	@matteosalvinimi	@matteosalvinimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	24	amod	_	_
+18	https:	https:	PUNCT	FS	_	24	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	_
+21	twitter.com/matteosalvinim	twitter.com/matteosalvinim	X	X	_	24	nmod	_	_
+22	i	i	X	X	_	21	flat:foreign	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	status/709332844506705924	status/709332844506705924	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+25	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

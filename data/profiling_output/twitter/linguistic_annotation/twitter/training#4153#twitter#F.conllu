@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IlContiAndrea @lord_tvblog se Simona torna in Italia la Marcuzzi dovrà fare le valigie.
+1	@IlContiAndrea	@IlContiAndreo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@lord_tvblog	@lord_tvblog	SYM	X	_	1	obj	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	Simona	Simona	PROPN	SP	_	5	nsubj	_	_
+5	torna	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	Italia	Italia	PROPN	SP	_	5	obl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Marcuzzi	Marcuzzi	PROPN	SP	_	11	nsubj	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	fare	fare	VERB	V	VerbForm=Inf	1	csubj	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	valigie	valigia	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = In Studio nn l'ascoltano più #isola
+1	In	in	ADP	E	_	2	case	_	_
+2	Studio	studio	PROPN	SP	_	0	root	_	_
+3	nn	nno	ADP	E	_	5	case	_	_
+4	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	ascoltano	ascoltare	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	#isola	#isolo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpacesAfter=\n
+

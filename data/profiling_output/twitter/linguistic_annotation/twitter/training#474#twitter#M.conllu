@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @citypat1 @enzo_boschi certo che abbiamo altre scorie e infatti la terra dei fuochi ce lo ricorda.
+1	@citypat1	@citypatl	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@enzo_boschi	@enzo_bosco	NOUN	S	Number=Sing	0	root	_	_
+3	certo	certo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	altre	altro	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+7	scorie	scoria	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	e	e	CCONJ	CC	_	17	cc	_	_
+9	infatti	infatti	ADV	B	_	17	advmod	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	terra	terra	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	fuochi	fuoco	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	17	expl	_	_
+16	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Pensi se avessimo anche le nucleari
+1	Pensi	pensare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	anche	anche	ADV	B	_	6	advmod	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	nucleari	nucleario	NOUN	S	Number=Plur	1	advcl	_	SpacesAfter=\n
+

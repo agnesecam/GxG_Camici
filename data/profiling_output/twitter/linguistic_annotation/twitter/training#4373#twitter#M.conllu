@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @a_bassolino dovrà rivedere le sue previsioni per le amministrative.
+1	@a_bassolino	@a_bassolino	ADV	B	_	3	advmod	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	rivedere	rivedere	VERB	V	VerbForm=Inf	0	root	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	previsioni	previsione	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	amministrative	amministrativa	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = De Magistris vincerà al primo turno, non so più se sia un bene...
+1	De	De	PROPN	SP	_	3	nsubj	_	_
+2	Magistris	Magistris	PROPN	SP	_	1	flat:name	_	_
+3	vincerà	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
+7	turno	turno	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	più	più	ADV	B	_	10	advmod	_	_
+12	se	se	SCONJ	CS	_	15	mark	_	_
+13	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	bene..	bene..	NOUN	S	Gender=Masc|Number=Sing	10	ccomp	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

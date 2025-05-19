@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Raffaele Sollecito farà il criminologo in tv.
+1	Raffaele	Raffaele	PROPN	SP	_	3	nsubj	_	_
+2	Sollecito	Sollecito	PROPN	SP	_	1	flat:name	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	criminologo	criminologo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	tv	tv	NOUN	S	Gender=Fem	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ora pretendo il figlio di Riina alla Direzione Antimafia, la... http:// fb.me/5sXHtJWNs
+1	Ora	ora	ADV	B	_	2	advmod	_	_
+2	pretendo	pretendere	VERB	V	VerbForm=Ger	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Riina	Riina	PROPN	SP	_	4	nmod	_	_
+7-8	alla	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Direzione	direzione	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+10	Antimafia	antimafia	ADJ	A	_	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	la...	la.	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+13	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	fb.me/5sXHtJWNs	fb.me/5sXHtJWNs	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

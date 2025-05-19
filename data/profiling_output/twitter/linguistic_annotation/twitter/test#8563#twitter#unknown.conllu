@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non gliel'avrei data neppure io, la mano....
+1	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2-3	gliel'	_	_	_	_	_	_	_	SpaceAfter=No
+2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	data	dare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	neppure	neppure	ADV	BN	PronType=Neg	7	advmod	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mano...	mano...	NOUN	S	_	5	nsubj:pass	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/7tHceimoBW
+1	pic.twitter.com/7tHceimoBW	pic.twitter.com/7tHceimoBW	NOUN	S	_	0	root	_	SpacesAfter=\n
+

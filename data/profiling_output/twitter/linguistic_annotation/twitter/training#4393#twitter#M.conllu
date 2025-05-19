@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #notizie #Lecce Non era tenuto a versare contributo per la costruzione:
+1	#notizie	#notizia	NOUN	S	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+2	#Lecce	#Lecce	PROPN	SP	_	1	nmod	_	_
+3	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux:pass	_	_
+5	tenuto	tenere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	versare	versare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	contributo	contributo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	costruzione	costruzione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = il Comune dovrà risarc... http:// bit.ly/22Umohf #Puglia #Italia
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Comune	Comune	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	cop	_	_
+4	risarc...	risarc...	NOUN	S	_	11	nmod	_	_
+5	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	bit.ly/22Umohf	bit.ly/22Umohf	PROPN	SP	_	4	nmod	_	_
+9	#Puglia	#Puglia	PROPN	SP	_	8	flat:name	_	_
+10	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+11	Italia	Italia	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

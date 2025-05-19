@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @offclASTRO MJ preparati che lo faremo https:// twitter.com/DopeInkPics/st atus/715012908061704192 …
+1	@offclASTRO	@offclastro	PROPN	SP	_	0	root	_	_
+2	MJ	MJ	PROPN	SP	_	1	flat:name	_	_
+3	preparati	preparare	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	1	acl:relcl	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/DopeInkPics/st	twitter.com/DopeInkPics/st	PROPN	SP	_	6	conj	_	_
+11	atus/715012908061704192	atus/715012908061704192	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

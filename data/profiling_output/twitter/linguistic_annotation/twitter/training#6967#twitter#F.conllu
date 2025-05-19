@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #citazionedelgiorno Non opporre il silenzio al rumore senza sosta essi si congiungono E Jabes @CasaLettori @Radio3tweet @PoesiaeVita
+1	#citazionedelgiorno	#citazionedelgiorno	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	opporre	opporre	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	rumore	rumore	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+9	senza	senza	ADP	E	_	10	case	_	_
+10	sosta	sosta	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+13	congiungono	congiunere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+14	E	e	CCONJ	CC	_	15	cc	_	_
+15	Jabes	Jabes	PROPN	SP	_	13	obl	_	_
+16	@CasaLettori	@CasaLettore	PROPN	SP	_	15	flat:name	_	_
+17	@Radio3tweet	@Radio3tweet	PROPN	SP	_	15	flat:name	_	_
+18	@PoesiaeVita	@PoesiaeVito	PROPN	SP	_	1	obj	_	SpacesAfter=\n
+

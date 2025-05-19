@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @hippicorno in ogni caso, studiare le società umane può essere spiazzante, perché le nostre più radicate convinzioni vacillano :)
+1	@hippicorno	@hippicorno	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	studiare	studiare	VERB	V	VerbForm=Inf	1	acl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	società	società	NOUN	S	Gender=Fem	6	obj	_	_
+9	umane	umano	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+10	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	essere	essere	AUX	V	VerbForm=Inf	12	cop	_	_
+12	spiazzante	spiazzante	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	perché	perché	SCONJ	CS	_	16	mark	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	nostre	nostro	NOUN	S	Gender=Fem|Number=Plur	12	advcl	_	_
+17	più	più	ADV	B	_	18	advmod	_	_
+18	radicate	radicare	ADJ	A	Gender=Fem|Number=Plur	19	amod	_	_
+19	convinzioni	convinzioni	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
+20	vacillano	vacillare	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+21	:	:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+22	)	)	PUNCT	FB	_	12	punct	_	SpacesAfter=\n
+

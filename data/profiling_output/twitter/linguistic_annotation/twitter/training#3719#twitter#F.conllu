@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = https:// youtu.be/Ds7XcgcNhWg #Superman @HenryCavill_Ita ci fará cambiare il modo di vedere il mondo #OO #leicacamera #P9 #HuaweiP9
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	youtu.be/Ds7XcgcNhWg	youtu.be/Ds7XcgcNhWg	PROPN	SP	_	18	nsubj	_	_
+5	#Superman	#Superman	PROPN	SP	_	4	nmod	_	_
+6	@HenryCavill_Ita	@HenryCavill_Ire	PROPN	SP	_	5	flat:name	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+8	fará	fará	PROPN	SP	_	5	flat:name	_	_
+9	cambiare	cambiare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	modo	modo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	vedere	vedere	VERB	V	VerbForm=Inf	11	acl	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	#OO	#OO	PROPN	SP	_	15	nmod	_	_
+17	#leicacamera	#leicacamerare	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	_
+18	#P9	#P9	PROPN	SP	_	0	root	_	_
+19	#HuaweiP9	#HuaweiP9	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

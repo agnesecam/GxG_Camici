@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lievemente @OrizOrizzonte @MinutemanItaly Aridaje scusa.Non ci provano neppure perchè non vogliono proprio.
+1	@lievemente	@lievemente	ADV	B	_	7	advmod	_	_
+2	@OrizOrizzonte	@OrizOrizzonte	PROPN	SP	_	7	nsubj	_	_
+3	@MinutemanItaly	@MinutemanItaly	PROPN	SP	_	2	flat:name	_	_
+4	Aridaje	Aridaje	PROPN	SP	_	2	flat:name	_	_
+5	scusa.Non	scusa.Non	PROPN	SP	_	2	flat:name	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+7	provano	prore	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	11	advmod	_	_
+9	perchè	perché	SCONJ	CS	_	11	mark	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	vogliono	volere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+12	proprio	proprio	ADV	B	_	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = :)
+1	:	:	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

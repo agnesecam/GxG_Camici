@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BCatanoso @forza_italia Se fossimo seri avremmo già sospeso Vendola da deputato dato che ha violato la legge e impedito il suo rientro
+1	@BCatanoso	@BCatanoso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@forza_italia	@forza_italia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Se	se	SCONJ	CS	_	8	mark	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+5	seri	serio	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+6	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	già	già	ADV	B	_	8	advmod	_	_
+8	sospeso	sospendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+9-10	Vendola	_	_	_	_	_	_	_	_
+9	Vendo	Vere	VERB	V	VerbForm=Ger	8	advcl	_	_
+10	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	deputato	deputato	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	dato	dato	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	violato	violare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	legge	legge	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	impedito	impedire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	conj	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	rientro	rientro	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	SpacesAfter=\n
+

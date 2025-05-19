@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cieffe27 erano anni che non me ne facevano uno, anni!
+1	@cieffe27	@cieffe27	NUM	N	NumType=Card	3	nummod	_	_
+2	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+9	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	anni	anno	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

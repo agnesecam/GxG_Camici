@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = . @gianluigibuffon : uno che alle parole (fuori dal campo) fa seguire le parate ( dentro ).
+1	.	.	PUNCT	FF	_	2	punct	_	_
+2	@gianluigibuffon	@gianluigibuffon	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	appos	_	_
+5	che	che	PRON	PR	PronType=Rel	8	case	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	parole	parola	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	fuori	fuori	ADV	B	_	13	case	_	_
+11-12	dal	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	10	fixed	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	campo	campo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	8	punct	_	_
+15	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	seguire	seguire	VERB	V	VerbForm=Inf	15	ccomp	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	parate	parata	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+19	(	(	PUNCT	FB	_	20	punct	_	_
+20	dentro	dentro	ADV	B	_	18	advmod	_	_
+21	)	)	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = Differenza.
+1	Differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #MilanJuve
+1	#MilanJuve	#MilanJuvo	ADV	B	_	0	root	_	SpacesAfter=\n
+

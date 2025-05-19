@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dopo che #Salvini è stato a #Cepostaperte , spero che stamattina #Ballandoconlestelle stravinca la gara degli ascolti.
+1	Dopo	dopo	ADP	E	_	2	case	_	_
+2	che	che	PRON	PR	PronType=Rel	10	obl	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	Salvini	Salvini	PROPN	SP	_	8	nsubj	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+6	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	#Cepostaperte	#Cepostaperta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	che	che	SCONJ	CS	_	14	mark	_	_
+12	stamattina	stamattina	ADV	B	_	14	advmod	_	_
+13	#	#	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+14	Ballandoconlestelle	Ballandoconlestelle	PROPN	SP	_	10	obl	_	_
+15	stravinca	stravincare	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	gara	gara	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18-19	degli	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	ascolti	ascolto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Ma è utopia, ahimè
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	utopia	utopio	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ahimè	ahimè	INTJ	I	_	3	discourse	_	SpacesAfter=\n
+

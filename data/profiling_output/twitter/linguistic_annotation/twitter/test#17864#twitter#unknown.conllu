@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @garbif E devo ammettere che avevate ragione.
+1	@garbif	@garbif	ADP	E	_	2	case	_	_
+2	E	e	PROPN	SP	_	4	obl	_	_
+3	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	ammettere	ammettere	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	avevate	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	ragione.	ragione.	NOUN	S	_	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...vi lovvo
+1	...vi	...vo	ADV	B	_	2	advmod	_	_
+2	lovvo	lovvo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

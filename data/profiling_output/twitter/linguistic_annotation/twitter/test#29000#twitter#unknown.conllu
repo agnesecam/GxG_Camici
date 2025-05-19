@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La conobbi così, per caso.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	conobbi	conobbio	NOUN	S	Number=Plur	0	root	_	_
+3	così	così	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	caso.	caso.	NOUN	S	Gender=Masc	2	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Era la ragazza più bella che avessi mai visto, aveva due occhi meravigliosi, quel... http:// fb.me/53MUrXcby
+1	Era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	bella	bello	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+6	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+7	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+8	mai	mai	ADV	B	_	9	advmod	_	_
+9	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
+12	due	due	NUM	N	NumType=Card	13	nummod	_	_
+13	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	meravigliosi	meraviglioso	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	quel...	quel.	PUNCT	FS	_	11	punct	_	_
+17	http:	http:	PUNCT	FS	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	11	punct	_	_
+20	fb.me/53MUrXcby	fb.me/53MUrXcby	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

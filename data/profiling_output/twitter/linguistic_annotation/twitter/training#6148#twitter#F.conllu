@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "il mondo ci diventa alieno" http:// giorgiaspurio.scrivere.info/index.php?poes ia=410111&t=Il+Suono … Il Suono #poesia "Che noi umani fossimo alieni al nostro pianeta?"
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	diventa	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	alieno	alieno	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	12	punct	_	_
+11	giorgiaspurio.scrivere.info/index.php?poes	giorgiaspurio.scrivere.info/index.php?poes	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+12	ia=410111&t=Il+Suono	ia=410111&t=Il+Suono	PROPN	SP	_	22	obl	_	_
+13	…	…	PUNCT	FF	_	12	punct	_	_
+14	Il	Il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Suono	suono	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+16	#poesia	#poesia	CCONJ	CC	_	22	cc	_	_
+17	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+18	Che	che	SCONJ	CS	_	20	mark	_	_
+19	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	20	nsubj	_	_
+20	umani	umani	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	ccomp	_	_
+21	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	22	aux	_	_
+22	alieni	alieno	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
+23-24	al	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	26	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+25	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det:poss	_	_
+26	pianeta	pianeta	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	22	punct	_	SpaceAfter=No
+28	"	"	PUNCT	FB	_	5	punct	_	SpacesAfter=\n
+

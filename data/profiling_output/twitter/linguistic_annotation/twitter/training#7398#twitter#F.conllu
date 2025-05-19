@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @franco5177 non i pensieri,ma le sensazioni legate ad essi !
+1	@franco5177	@franco5177	NUM	N	NumType=Card	4	nummod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	pensieri,ma	pensieri,ma	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	sensazioni	sensazione	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	legate	legare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	ad	a	ADP	E	_	9	case	_	_
+9	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obl	_	_
+10	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

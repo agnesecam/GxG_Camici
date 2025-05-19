@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = chiunque veda questo tweet potrebbe per favore mettere mi piace e taggare @Benji_Mascolo ?
+1	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	2	nsubj	_	_
+2	veda	vedere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	tweet	tweet	NOUN	S	Gender=Masc	2	obj	_	_
+5	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	favore	favore	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+8	mettere	mettere	VERB	V	VerbForm=Inf	2	ccomp	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	obj	_	_
+10	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	taggare	taggare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+13	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	12	obj	_	_
+14	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ci tiene davvero tanto :) https:// twitter.com/stringjmibenji /status/706322195199430656 …
+1	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	tiene	tenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	davvero	davvero	ADV	B	_	4	advmod	_	_
+4	tanto	tanto	ADV	B	_	2	advmod	_	_
+5	:	:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+6	)	)	PUNCT	FB	_	2	punct	_	_
+7	https:	https:	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	2	punct	_	_
+10	twitter.com/stringjmibenji	twitter.com/stringjmibenji	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+11	/status/706322195199430656	/status/706322195199430656	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

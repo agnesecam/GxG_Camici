@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se fai solo quello che sai fare non sarai mai più di quello che sei ora.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADV	B	_	2	advmod	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+6	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	sarai	saere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	11	cop	_	_
+10	mai	mai	ADV	B	_	11	advmod	_	_
+11	più	più	ADV	B	_	7	advmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	obl	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	ora	ora	ADV	B	_	13	acl:relcl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Kung Fu Panda 3
+1	Kung	Kung	PROPN	SP	_	0	root	_	_
+2	Fu	fu	PROPN	SP	_	1	flat:name	_	_
+3	Panda	panda	PROPN	SP	_	1	flat:name	_	_
+4	3	3	NUM	N	NumType=Card	1	nummod	_	SpacesAfter=\n
+

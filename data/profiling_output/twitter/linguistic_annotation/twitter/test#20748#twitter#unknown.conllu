@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non saresti stata mia cugina poi https:// twitter.com/mariapaolaboni f/status/715557151545147392 …
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	cugina	cugina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	poi	poi	ADV	B	_	5	advmod	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/mariapaolaboni	twitter.com/mariapaolabone	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+11	f/status/715557151545147392	f/status/715557151545147392	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

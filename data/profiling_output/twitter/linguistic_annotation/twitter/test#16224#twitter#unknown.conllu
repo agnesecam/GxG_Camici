@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @renatapolverini @nzingaretti @forza_italia ma ancora parla?
+1	@renatapolverini	@renatapolverino	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	@nzingaretti	@nzingaretto	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	@forza_italia	@forza_italiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	ancora	ancora	ADV	B	_	6	advmod	_	_
+6	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ricorderà PLUS in ritardo perché eravate impegnati in altro #Fiorito
+1	Ricorderà	Ricordere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	PLUS	PLUS	PROPN	SP	_	1	obj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	ritardo	ritardo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	perché	perché	SCONJ	CS	_	7	mark	_	_
+6	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	impegnati	impegnare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	_
+10	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	Fiorito	Fiorito	PROPN	SP	_	1	xcomp	_	SpacesAfter=\n
+

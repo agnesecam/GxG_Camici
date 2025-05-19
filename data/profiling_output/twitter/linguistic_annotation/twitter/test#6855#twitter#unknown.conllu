@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @thecervs essì .Ho avuto un brutto inverno.Comincio a star meglio ora.Ora vado a massacrarmi alla TV.Notte
+1	@thecervs	@thecervs	NOUN	S	Gender=Masc	0	root	_	_
+2	essì	essì	CCONJ	CC	_	4	cc	_	_
+3	.Ho	.Ho	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	brutto	brutto	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	inverno.Comincio	inverno.Comincio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	star	stare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	meglio	meglio	ADV	B	_	9	advmod	_	_
+11	ora.Ora	ora.Ora	ADP	E	_	12	case	_	_
+12	vado	andare	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	massacrarmi	arma|massacrarme	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+15-16	alla	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	TV.Notte	TV.Notta	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

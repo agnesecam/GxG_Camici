@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FedericaFleur @CalcagniArianna @romina2bs @4ntonell4_ @ziabby88 @famedalupi bhe i lupi lo sono se no saremmo cagnolini
+1	@FedericaFleur	@FedericaFleur	ADP	E	_	2	case	_	_
+2	@CalcagniArianna	@CalcagniArianna	PROPN	SP	_	11	obl	_	_
+3	@romina2bs	@romina2bs	PROPN	SW	Foreign=Yes	2	flat:name	_	_
+4	@4ntonell4_	@4ntonell4-	PUNCT	FB	_	2	punct	_	_
+5	@ziabby88	@ziabby88	NUM	N	NumType=Card	6	nummod	_	_
+6	@famedalupi	@famedalupo	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+7	bhe	bo	DET	RD	Definite=Def|PronType=Art	9	det	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	lupi	lupo	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	se	se	SCONJ	CS	_	15	mark	_	_
+13	no	no	ADV	BN	PronType=Neg	15	advmod	_	_
+14	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	cagnolini	cagnolino	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	SpacesAfter=\n
+

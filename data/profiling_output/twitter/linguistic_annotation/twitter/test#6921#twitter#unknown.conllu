@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sempre, in ogni tempo, i poeti hanno parlato ai poeti, intrattenendo con essi una reale o ideale corrispondenza.
+1	Sempre	sempre	ADV	B	_	10	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	poeti	poeta	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+9	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	poeti	poeta	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	10	punct	_	_
+15	intrattenendo	intrattenere	VERB	V	VerbForm=Ger	10	advcl	_	_
+16	con	con	ADP	E	_	17	case	_	_
+17	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obl	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+19	reale	reale	ADJ	A	Number=Sing	22	amod	_	_
+20	o	o	CCONJ	CC	_	21	cc	_	_
+21	ideale	ideale	ADJ	A	Number=Sing	19	conj	_	_
+22	corrispondenza	corrispondenza	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = #montale
+1	#montale	#montale	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n
+

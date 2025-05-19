@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Devo prendere parecchie decisioni, perché ora mi sono rotta di tutto
+1	Devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	prendere	prendere	VERB	V	VerbForm=Inf	0	root	_	_
+3	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
+4	decisioni	decisione	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	perché	perché	SCONJ	CS	_	10	mark	_	_
+7	ora	ora	ADV	B	_	10	advmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	expl	_	_
+9	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	rotta	rottare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obl	_	SpacesAfter=\n
+

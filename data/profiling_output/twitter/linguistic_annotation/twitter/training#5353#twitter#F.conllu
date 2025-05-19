@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non lo so!
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Anzi se qualcuno me ne consiglia qualcuna lo ringrazio https:// twitter.com/_flawless93/st atus/714542024196808704 …
+1	Anzi	anzi	ADV	B	_	9	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+4	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	consiglia	consigliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+7	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	6	obj	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	_
+13	twitter.com/_flawless93/st	twitter.com/_flawless93/st	CCONJ	CC	_	14	cc	_	_
+14	atus/714542024196808704	atus/714542024196808704	NUM	N	NumType=Range	9	conj	_	_
+15	…	…	PUNCT	FF	_	9	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ScanuOxa #BallandoConLeStelle @Valerio_Scanu @Ballando_Rai @milly_carlucci è anche diventato bravo a ballare
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	ScanuOxa	ScanuOxa	PROPN	SP	_	10	nsubj	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	BallandoConLeStelle	BallandoConLeStelle	PROPN	SP	_	10	nsubj	_	_
+5	@Valerio_Scanu	@Valerio_Scanu	PROPN	SP	_	4	flat:name	_	_
+6	@Ballando_Rai	@Ballando_Rai	PROPN	SP	_	4	flat:name	_	_
+7	@milly_carlucci	@milly_carluccio	NUM	N	NumType=Card	4	nummod	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	anche	anche	ADV	B	_	10	advmod	_	_
+10	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	bravo	bravo	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	ballare	ballare	VERB	V	VerbForm=Inf	10	xcomp	_	SpacesAfter=\n
+

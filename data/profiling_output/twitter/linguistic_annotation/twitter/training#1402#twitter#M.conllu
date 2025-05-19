@@ -1,0 +1,61 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Inchiesta petrolio, Eni:
+1	Inchiesta	inchiesta	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	Eni	Eni	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = "Salute, sicurezza e ambiente nostre priorità".
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Salute	Salute	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	_
+8	priorità	priorità	NOUN	S	Gender=Fem	6	compound	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = I Verdi: "Meno pubblicità e più bonifiche" http://www.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Verdi	Verde	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Meno	Meno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pubblicità	pubblicità	NOUN	S	Gender=Fem	5	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	bonifiche	bonifico	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	11	punct	_	_
+11	http://www	http://www	NOUN	S	_	5	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = ilfattoquotidiano.it/2016/04/09/inc hiesta-petrolio-eni-salute-sicurezza-e-ambiente-nostre-priorita-i-verdi-meno-pubblicita-e-piu-bonifiche/2621935/ …
+1	ilfattoquotidiano.it/2016/04/09/inc	ilfattoquotidiano.it/2016/04/09/inc	ADV	B	_	14	advmod	_	_
+2	hiesta-petrolio-eni	hiesta-petrolio-eno	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No
+3	-salute	-saluto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	parataxis	_	SpaceAfter=No
+4	-sicurezza	-sicurezzo	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	e-ambiente	e-ambiente	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	SpaceAfter=No
+7	-nostre	-nostra	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+8	-priorita	-priorito	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	verdi-meno	verdi-meno	ADV	B	_	14	advmod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	pubblicita	pubblicire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	e-piu	e-piu	ADJ	A	_	18	amod	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	bonifiche/2621935	bonifiche/2621935	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	_
+20	…	…	PUNCT	FF	_	14	punct	_	SpacesAfter=\n
+

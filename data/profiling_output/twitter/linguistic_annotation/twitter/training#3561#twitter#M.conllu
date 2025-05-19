@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi è piaciuto un video di @YouTube : http:// youtu.be/64rbO_TVbj8?a Super Robo Mouse serie che farà mio fratello Daniele
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	piaciuto	piacere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	video	video	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	@YouTube	@YouTube	PROPN	SP	_	5	nmod	_	_
+8	:	:	PUNCT	FC	_	5	punct	_	_
+9	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	5	punct	_	_
+12	youtu.be/64rbO_TVbj8?a	youtu.be/64rbO_TVbj8?a	PROPN	SP	_	5	nmod	_	_
+13	Super	Super	PROPN	SP	_	12	flat:name	_	_
+14	Robo	Robo	PROPN	SP	_	16	nmod	_	_
+15	Mouse	Mouso	PROPN	SP	_	14	flat:name	_	_
+16	serie	serie	NOUN	S	Gender=Fem	5	nmod	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	_
+19	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	fratello	fratello	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+21	Daniele	Daniele	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fondi, ritrovata una bici da alcuni agenti di Polizia Locale in servizio ieri sera, giovedì 7 aprile.
+1	Fondi	Fondo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ritrovata	ritrovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	bici	bico	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	agenti	agente	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Polizia	Polizia	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	Locale	locale	ADJ	A	Number=Sing	8	amod	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	servizio	servizio	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+14	ieri	ieri	ADV	B	_	13	advmod	_	_
+15	sera	sera	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	8	punct	_	_
+17	giovedì	giovedì	NOUN	S	Gender=Masc	8	nmod	_	_
+18	7	7	NUM	N	NumType=Card	17	nmod	_	_
+19	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	18	flat	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Chiunque ... http:// fb.me/1b9wjaE2t
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+2	...	...	PUNCT	FF	_	3	punct	_	_
+3	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	fb.me/1b9wjaE2t	fb.me/1b9wjaE2t	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

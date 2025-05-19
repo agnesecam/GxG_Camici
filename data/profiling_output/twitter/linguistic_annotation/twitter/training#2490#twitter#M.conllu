@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mediaset Premium alla francese Vivendi Berlusconi mette un piede dentro Telecom Di Fiorina Capozzi
+1	Mediaset	Mediaset	PROPN	SP	_	8	nsubj	_	_
+2	Premium	Premium	PROPN	SP	_	1	flat:name	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	francese	francese	ADJ	A	Number=Sing	6	amod	_	_
+6	Vivendi	Vivendi	PROPN	SP	_	8	obl	_	_
+7	Berlusconi	Berlusconi	PROPN	SP	_	6	flat:name	_	_
+8	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	piede	piede	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	dentro	dentro	ADP	E	_	12	case	_	_
+12	Telecom	Telecom	PROPN	SP	_	10	nmod	_	_
+13	Di	Di	ADP	E	_	14	case	_	_
+14	Fiorina	Fiorina	PROPN	SP	_	8	obl	_	_
+15	Capozzi	Capozzi	PROPN	SP	_	14	flat:name	_	SpacesAfter=\n
+

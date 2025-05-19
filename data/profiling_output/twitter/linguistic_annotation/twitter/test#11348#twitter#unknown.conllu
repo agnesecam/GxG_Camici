@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Coglioni!
+1	Coglioni	Coglione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Crederò a buona fede intellettuale quando lo farete con Maometto!
+1	Crederò	credere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	buona	buono	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	fede	fede	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	intellettuale	intellettuale	ADJ	A	Number=Sing	4	amod	_	_
+6	quando	quando	SCONJ	CS	_	8	mark	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	advcl	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	Maometto	Maometto	PROPN	SP	_	8	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Sono gli spacciatori di merda del PD!!! https:// twitter.com/marcocf69/stat us/716950597954568193 …
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	spacciatori	spacciatore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	merda	merda	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	PD!	Pd!	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+9	!!	!!	PUNCT	FF	_	8	punct	_	_
+10	https:	https:	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	_
+13	twitter.com/marcocf69/stat	twitter.com/marcocf69/stare	SYM	X	_	8	nmod	_	_
+14	us/716950597954568193	us/716950597954568193	NUM	N	NumType=Card	13	nummod	_	_
+15	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

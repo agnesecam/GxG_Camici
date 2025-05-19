@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @annatrieste ma se non ci fossimo noi sti "giornalai" di che parlerebbero #siamotuttiHiguain
+1	@annatrieste	@annatriesta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	ma	ma	CCONJ	CC	_	8	cc	_	_
+3	se	se	SCONJ	CS	_	8	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+6	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	sti	sto	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+9	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	giornalai	giornalaio	NOUN	S	_	14	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	10	punct	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	che	che	PRON	PR	PronType=Rel	14	obl	_	_
+14	parlerebbero	parlare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+15	#siamotuttiHiguain	#siamotuttiHiguain	PROPN	SP	_	14	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IlconteAlex27 @ziaTata72 Renzi è Toscano infatti dice tutto.
+1	@IlconteAlex27	@IlconteAlex27	PROPN	SP	_	5	nsubj	_	_
+2	@ziaTata72	@ziaTata72	PROPN	SP	_	1	flat:name	_	_
+3	Renzi	Renzi	PROPN	SP	_	1	flat:name	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Toscano	toscano	PROPN	SP	_	0	root	_	_
+6	infatti	infatti	ADV	B	_	7	advmod	_	_
+7	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Pure lui scappato dallo zoo
+1	Pure	pure	ADV	B	_	3	advmod	_	_
+2	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	scappato	scappare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4-5	dallo	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	zoo	zoo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\n
+

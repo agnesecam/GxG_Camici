@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FrancescoValer9
+1	@FrancescoValer9	@FrancescoValer9	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = Una fetta di Casatiello, è così impossibile!
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	fetta	fetta	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Casatiello	Casatiello	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	così	così	ADV	B	_	8	advmod	_	_
+8	impossibile	impossibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = Mi piace assai ! @BaroneZaza70
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	assai	assai	ADV	B	_	2	advmod	_	_
+4	!	!	PUNCT	FS	_	2	punct	_	_
+5	@BaroneZaza70	@BaroneZaza70	PROPN	SP	_	2	nsubj	_	SpacesAfter=\n
+

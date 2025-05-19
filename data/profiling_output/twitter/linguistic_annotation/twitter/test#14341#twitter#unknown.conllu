@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @laurachiatti3 commercialista a Milano.
+1	@laurachiatti3	@laurachiatti3	NUM	N	NumType=Range	2	nummod	_	_
+2	commercialista	commercialista	NOUN	S	Number=Sing	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	Milano	Milano	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = I servizi segreti stavano dietro al mio padre naturale e feci il loro gioco dandogli fastidio e
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+3	segreti	segreto	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+5	dietro	dietro	ADV	B	_	9	case	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	5	fixed	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	padre	padre	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+10	naturale	naturale	ADJ	A	Number=Sing	9	amod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	feci	feco	ADJ	A	Number=Plur	10	conj	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	loro	loro	DET	AP	Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+16-17	dandogli	_	_	_	_	_	_	_	_
+16	dando	dare	VERB	V	VerbForm=Ger	9	advcl	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	fastidio	fastidio	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19	e	e	CCONJ	CC	_	9	cc	_	SpacesAfter=\n
+

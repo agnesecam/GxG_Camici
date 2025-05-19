@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AnnaIsopo eh esatto, è lo sbatti di tenerla sempre apposto che mi condiziona un po' , però piuttosto che sembrare una pecorella mi impegno
+1	@AnnaIsopo	@AnnaIsopo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	eh	eh	NOUN	S	Gender=Masc	7	nsubj	_	_
+3	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	sbatti	sbatto	NOUN	S	Gender=Masc|Number=Plur	26	nsubj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9-10	tenerla	_	_	_	_	_	_	_	_
+9	tener	tenere	VERB	V	VerbForm=Inf	7	acl	_	_
+10	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	sempre	sempre	ADV	B	_	12	advmod	_	_
+12	apposto	apposto	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	_
+15	condiziona	condizionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	po'	poco	ADV	B	_	15	advmod	_	_
+18	,	,	PUNCT	FF	_	15	punct	_	_
+19	però	però	ADV	B	_	15	advmod	_	_
+20	piuttosto	piuttosto	ADV	B	_	22	mark	_	_
+21	che	che	SCONJ	CS	_	20	fixed	_	_
+22	sembrare	sembrare	VERB	V	VerbForm=Inf	15	advcl	_	_
+23	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	pecorella	pecorella	NOUN	S	Gender=Fem|Number=Sing	22	xcomp	_	_
+25	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	26	iobj	_	_
+26	impegno	impegre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

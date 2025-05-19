@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Togli la #legge naturale, e avrai la morale imposta dal potere...
+1	Togli	Togli	PROPN	SP	_	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	#legge	#legge	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	naturale	naturale	ADJ	A	Number=Sing	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	avrai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	1	conj	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	morale	morale	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	imposta	imporre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+11-12	dal	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	potere...	potere...	NOUN	S	Gender=Masc|Number=Sing	10	obl:agent	_	_
+
+# sent_id = 2
+# text = Nozze #gay : veto alla libertà religiosa | Tempi.it http://www.
+1	Nozze	Nozza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#gay	#gay	NOUN	S	_	1	compound	_	_
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	veto	vetere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	libertà	libertà	NOUN	S	Gender=Fem	4	obl	_	_
+8	religiosa	religioso	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	|	|	SYM	SYM	_	7	nmod	_	_
+10	Tempi.it	Tempi.it	PROPN	SP	_	9	nmod	_	_
+11	http://www	http://www	NOUN	S	_	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = tempi.it/hollywood-e-mu ltinazionali-costringono-la-georgia-a-cestinare-le-sue-leggi-discriminatorie …
+1	tempi.it/hollywood-e-mu	tempi.it/hollywood-e-mu	NOUN	S	Gender=Masc	3	nsubj	_	_
+2	ltinazionali	ltinazionale	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+3	-costringono-la	-costringono-la	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	-georgia	-georgia	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	a-cestinare	a-cestinare	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	le-sue-leggi	le-sue-leggio	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+9	-discriminatorie	-discriminatorio	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+10	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = mi chiedo sti tipi di anonimi che criticano la tua ragazza c'è dovrà piacere a … — Chi sei?
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sti	sto	ADJ	A	Number=Plur	4	amod	_	_
+4	tipi	tipo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	anonimi	anonimo	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	criticano	criticare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+12	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	SpaceAfter=No
+13	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	piacere	piacere	VERB	V	VerbForm=Inf	13	nsubj	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	…	…	PUNCT	FF	_	19	punct	_	_
+18	—	—	PUNCT	FF	_	19	punct	_	_
+19	Chi	chi	PROPN	SP	_	15	obl	_	_
+20	sei	sei	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ahhaha grazie lo stesso https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM2OOD5LBJRXZ7BAN6KHV2XYNMYIYNC6KOFRG4URJSK66PSEAIJJRH6FIN5U36Y3N7NLRP5BJDXAAQDBCPIR3SEK6PA6MD4JHXTT5O5VDVTCUYAVIDZXKE3F4EICDQURLE72IHT74O23OURUDLTKWI2I47GRDX5XPV2BALT47GRM7YYSYZ …
+1	Ahhaha	Ahhaavere	NOUN	S	_	0	root	_	_
+2	grazie	grazie	NOUN	S	_	4	case	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+5	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	4	appos	_	_
+9	7B667HQMHN2IG6NM2OOD5LBJRXZ7BAN6KHV2XYNMYIYNC6KOFRG4URJSK66PSEAIJJRH6FIN5U36Y3N7NLRP5BJDXAAQDBCPIR3SEK6PA6MD4JHXTT5O5VDVTCUYAVIDZXKE3F4EICDQURLE72IHT74O23OURUDLTKWI2I47GRDX5XPV2BALT47GRM7YYSYZ	7B667HQMHN2IG6NM2OOD5LBJRXZ7BAN6KHV2XYNMYIYNC6KOFRG4URJSK66PSEAIJJRH6FIN5U36Y3N7NLRP5BJDXAAQDBCPIR3SEK6PA6MD4JHXTT5O5VDVTCUYAVIDZXKE3F4EICDQURLE72IHT74O23OURUDLTKWI2I47GRDX5XPV2BALT47GRM7YYSYZ	PROPN	SP	_	8	flat:name	_	_
+10	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

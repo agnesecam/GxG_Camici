@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Shannara e Terry Brooks: quarant'anni di fortuna letteraria!
+1	#Shannara	#Shannara	PROPN	SP	_	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	Terry	Terry	PROPN	SP	_	1	conj	_	_
+4	Brooks	Brooks	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	3	punct	_	_
+6	quarant'	quaranta	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	letteraria	letterario	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ad essi questo articolo: http:// goo.gl/R38lN4 pic.twitter.com/T3B1yXgy7W
+1	Ad	a	ADP	E	_	2	case	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nmod	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	articolo	articolo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+6	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	2	punct	_	_
+9	goo.gl/R38lN4	goo.gl/R38lN4	PROPN	SP	_	0	root	_	_
+10	pic.twitter.com/T3B1yXgy7W	pic.twitter.com/T3B1yXgy7W	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

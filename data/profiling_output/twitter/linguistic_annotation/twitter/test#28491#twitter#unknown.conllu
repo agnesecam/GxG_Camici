@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Eccoli!
+1	Eccoli	Eccoli	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Senza di loro non ci saremmo noi! @ChePuoSuccedere pic.twitter.com/HG257k3fM3
+1	Senza	senza	ADP	E	_	3	case	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	obl	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+6	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	9	punct	_	_
+9	@ChePuoSuccedere	@ChePuoSuccedere	VERB	V	VerbForm=Inf	6	advcl	_	_
+10	pic.twitter.com/HG257k3fM3	pic.twitter.com/HG257k3fM3	PROPN	SP	_	6	obj	_	SpacesAfter=\n
+

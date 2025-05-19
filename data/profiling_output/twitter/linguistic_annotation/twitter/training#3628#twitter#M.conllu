@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = [Personal Branding] Fingerti arrogante non ti farà vendere di più e non ti renderà un leader.
+1	[	[	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Personal	personal	PROPN	SP	_	9	obl	_	_
+3	Branding	Branding	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	]	]	PUNCT	FB	_	2	punct	_	_
+5	Fingerti	Fingerti	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	arrogante	arrogare	NOUN	S	Number=Sing	9	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	vendere	vendere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	più	più	ADV	B	_	10	advmod	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	iobj	_	_
+16	renderà	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	conj	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	leader.	leader.	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+
+# sent_id = 2
+# text = https:// lnkd.in/dBJtNMU
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	lnkd.in/dBJtNMU	lnkd.in/dBJtNMU	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

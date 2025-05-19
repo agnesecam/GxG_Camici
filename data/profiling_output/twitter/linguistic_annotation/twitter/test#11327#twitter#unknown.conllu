@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SossioChierego @JuveClubTweet certo e cosi' forse ve ne farete una ragione che la Juve vince perche' forte e ha tanti campioni in squadra
+1	@SossioChierego	@SossioChierego	PROPN	SP	_	10	nsubj	_	_
+2	@JuveClubTweet	@JuveClubTweet	PROPN	SP	_	1	flat:name	_	_
+3	certo	certo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	cosi	coso	ADJ	A	Number=Plur	3	conj	_	SpaceAfter=No
+6	'	'	PUNCT	FB	_	3	punct	_	_
+7	forse	forse	ADV	B	_	10	advmod	_	_
+8	ve	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+10	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	che	che	PRON	PR	PronType=Rel	16	obj	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Juve	Juve	PROPN	SP	_	16	nsubj	_	_
+16	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	perche	perca	ADV	B	_	16	advmod	_	SpaceAfter=No
+18	'	'	PUNCT	FB	_	19	punct	_	_
+19	forte	forte	ADJ	A	Number=Sing	16	xcomp	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+22	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	23	det	_	_
+23	campioni	campione	NOUN	S	Gender=Masc|Number=Plur	21	obj	_	_
+24	in	in	ADP	E	_	25	case	_	_
+25	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @kappaespada ovviamente:
+1	@kappaespada	@kappaespada	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ovviamente	ovviamente	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = è troppo impegnato a fare l'avvocato sfruttando la pubblicità avuta con Mr B per andare anche in Senato!
+1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	troppo	troppo	ADV	B	_	3	advmod	_	_
+3	impegnato	impegnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	avvocato	avvocato	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	sfruttando	sfruttare	VERB	V	VerbForm=Ger	5	advcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	pubblicità	pubblicità	NOUN	S	Gender=Fem	8	obj	_	_
+11	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	Mr	Mr	PROPN	SP	_	11	obl	_	_
+14	B	B	PROPN	SP	_	13	flat:name	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	andare	andare	VERB	V	VerbForm=Inf	11	advcl	_	_
+17	anche	anche	ADV	B	_	19	advmod	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	Senato	Senato	PROPN	SP	_	16	obl	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @limesonline come l'unico riconosciuto dalla (fantomatica) Comunità Internazionale.
+1	@limesonline	@limesonlina	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	come	come	ADP	E	_	11	case	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+4	unico	unico	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+5	riconosciuto	riconoscere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	fantomatica	fantomatica	NOUN	S	Gender=Fem|Number=Sing	5	obl:agent	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	5	punct	_	_
+11	Comunità	comunità	NOUN	S	Gender=Fem	1	nmod	_	_
+12	Internazionale	internazionale	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ora "l'amico" Sarraj x sopravvivere, prima o poi, dovrà
+1	Ora	ora	ADV	B	_	8	advmod	_	_
+2	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	amico	amico	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	_
+6	Sarraj	Sarraj	PROPN	SP	_	4	nmod	_	_
+7	x	x	SYM	SYM	_	6	flat:name	_	_
+8	sopravvivere	sopravvivere	VERB	V	VerbForm=Inf	14	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	prima	prima	ADV	B	_	8	advmod	_	_
+11	o	o	CCONJ	CC	_	12	cc	_	_
+12	poi	poi	ADV	B	_	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	8	punct	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

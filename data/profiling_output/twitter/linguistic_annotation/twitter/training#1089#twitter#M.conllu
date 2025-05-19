@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vista dalla terrazza del #borgosanjacopo #peterbrunel #pontevecchio #firenze #primavera #sole … https://www.
+1	Vista	vedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	terrazza	terrazza	NOUN	S	Gender=Fem|Number=Sing	1	obl:agent	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#borgosanjacopo	#borgosanjacopo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	#peterbrunel	#peterbruni	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	#pontevecchio	#pontevecchio	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+10	#firenze	#firenza	ADJ	A	Number=Sing	11	amod	_	_
+11	#primavera	#primavero	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+12	#sole	#solo	ADJ	A	Number=Sing	11	amod	_	_
+13	…	…	PUNCT	FF	_	11	punct	_	_
+14	https://www	https://www	X	SW	Foreign=Yes	11	compound	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BEBvELRQZbU/
+1	instagram.com/p/BEBvELRQZbU/	instagram.com/p/BEBvELRQZbU/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

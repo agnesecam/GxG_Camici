@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ardeva forse in noi il nostro cuore mentre egli conversava con noi lungo la via,quando ci spiegava le Scritture?
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ardeva	ardere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	forse	forse	ADV	B	_	2	advmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	obl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+9	mentre	mentre	SCONJ	CS	_	11	mark	_	_
+10	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	conversava	conversare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	obl	_	_
+14	lungo	lungo	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	via	via	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+17	,quando	,quare	VERB	V	VerbForm=Ger	19	advcl	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	iobj	_	_
+19	spiegava	spiegare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	obj	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	Scritture	Scrittura	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/4Bes0Zly1w
+1	pic.twitter.com/4Bes0Zly1w	pic.twitter.com/4Bes0Zly1w	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forex:
+1	Forex	Forex	NOUN	S	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Perchè ogni giorno ti propongono di guadagnare?
+1	Perchè	perché	ADV	B	_	5	advmod	_	_
+2	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	propongono	proporre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	guadagnare	guadagnare	VERB	V	VerbForm=Inf	5	ccomp	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = smalfiplanet.com/public/post.as px?i=114&uid=522c8ee7-52b8-42ac-8883-e37f221c8741&c=707 … pic.twitter.com/3TNTPjF8zu
+1	smalfiplanet.com/public/post.as	smalfiplanet.com/public/post.as	NOUN	S	Gender=Masc	8	nmod	_	_
+2	px	px	ADJ	NO	Number=Sing|NumType=Ord	1	amod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	i=114&uid=522c8ee7	i=114&uid=522c8ee7	NUM	N	NumType=Card	1	nmod	_	SpaceAfter=No
+5	-52b8	-52b8	NUM	N	NumType=Card	4	flat	_	SpaceAfter=No
+6	-42ac-8883-e37f221c8741&c=707	-42ac-8883-e37f221c8741&c=707	NUM	N	NumType=Card	4	flat	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	_
+8	pic.twitter.com/3TNTPjF8zu	pic.twitter.com/3TNTPjF8zu	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

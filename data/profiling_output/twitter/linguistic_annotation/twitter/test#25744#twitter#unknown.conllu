@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il 17 aprile si vota.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	17	17	NUM	N	NumType=Card	5	obl	_	_
+3	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	vota	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Potevano accorpare questo referendum alle elezioni amministrative.
+1	Potevano	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	accorpare	accorpare	VERB	V	VerbForm=Inf	0	root	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	referendum	referendum	NOUN	S	Gender=Masc	2	obj	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+8	amministrative	amministrativo	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Avremmo risparmiato 300... http:// fb.me/7JfRwtxKz
+1	Avremmo	avere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	risparmiato	risparmiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	300...	300.	NUM	N	NumType=Card	2	nummod	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	fb.me/7JfRwtxKz	fb.me/7JfRwtxKz	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

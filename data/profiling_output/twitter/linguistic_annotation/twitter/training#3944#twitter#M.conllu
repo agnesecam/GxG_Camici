@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Chi ha soldi potrà viaggiare, chi non li ha dovrà rimanere a casa:
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Chi	chi	PRON	PR	PronType=Rel	6	nsubj	_	_
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5	potrà	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	viaggiare	viaggiare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	chi	chi	PRON	PR	Number=Sing|PronType=Rel	6	conj	_	_
+9	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	rimanere	rimanere	VERB	V	VerbForm=Inf	8	acl:relcl	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	casa	casa	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+16	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = stiamo andando verso questo sistema?".
+1	stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	andando	andare	VERB	V	VerbForm=Ger	0	root	_	_
+3	verso	verso	ADP	E	_	5	case	_	_
+4	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Le mie... http:// fb.me/7Ynx5BJd2
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	mie...	mie...	NOUN	S	_	0	root	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	fb.me/7Ynx5BJd2	fb.me/7Ynx5BJd2	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

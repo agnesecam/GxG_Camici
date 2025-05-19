@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Essendo nato nel 1981, le prime vittorie azzurre che ricordo sono tutte legate a Cesare Maldini
+1	Essendo	essere	AUX	V	VerbForm=Ger	2	aux	_	_
+2	nato	nascere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+3-4	nel	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	1981	1981	NUM	N	NumType=Card	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	prime	primo	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	9	amod	_	_
+9	vittorie	vittoria	NOUN	S	Gender=Fem|Number=Plur	15	nsubj:pass	_	_
+10	azzurre	azzurre	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+12	ricordo	ricordo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
+14	tutte	tutte	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	15	obl	_	_
+15	legate	legare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	Cesare	Cesare	PROPN	SP	_	15	obl	_	_
+18	Maldini	Maldini	PROPN	SP	_	17	flat:name	_	SpacesAfter=\n
+

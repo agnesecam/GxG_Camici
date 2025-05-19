@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ripeto, credo non sia giusto che un professionista che ha avuto successo sia qui, la sua carriera l'ha avuta ! #tvoi
+1	Ripeto	ripetere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+5	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	3	ccomp	_	_
+7	che	che	SCONJ	CS	_	22	mark	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	professionista	professionista	NOUN	S	Number=Sing	22	nsubj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+13	successo	successo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+14	sia	essere	CCONJ	CC	_	22	cc	_	_
+15	qui	qui	ADV	B	_	22	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	15	punct	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+20	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	22	obj	_	SpaceAfter=No
+21	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+23	!	!	PUNCT	FS	_	22	punct	_	_
+24	#tvoi	#tvoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	22	obj	_	SpacesAfter=\n
+

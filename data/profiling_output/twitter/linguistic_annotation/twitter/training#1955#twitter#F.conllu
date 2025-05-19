@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uno spaccato di vita Siciliana osservata attraverso foto d'epoca scattate dallo stesso Verga e le scene più... http:// fb.me/2Aw5ypogz
+1	Uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	spaccato	spaccato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	vita	vita	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	Siciliana	siciliana	PROPN	SP	_	4	nmod	_	_
+6	osservata	osservare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+7	attraverso	attraverso	ADP	E	_	8	case	_	_
+8	foto	foto	NOUN	S	Gender=Fem	6	obl	_	_
+9	d'	di	ADP	E	_	10	case	_	SpaceAfter=No
+10	epoca	epoca	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	scattate	scattare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+12-13	dallo	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	15	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+15	Verga	Verga	PROPN	SP	_	11	obl:agent	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	scene	scena	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
+19	più...	più.	NOUN	S	_	18	nmod	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/2Aw5ypogz	fb.me/2Aw5ypogz	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

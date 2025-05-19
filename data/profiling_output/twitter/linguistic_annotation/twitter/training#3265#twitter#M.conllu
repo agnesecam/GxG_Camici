@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come sembrare intelligenti senza avere nulla da dire – VIDEO http:// senoecoseno.it/come-sembrare- intelligenti-senza-dire-nulla-da-dire-video/ …
+1	Come	come	ADV	B	_	2	advmod	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	intelligenti	intelligente	ADJ	A	Number=Plur	2	xcomp	_	_
+4	senza	senza	ADP	E	_	5	mark	_	_
+5	avere	avere	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obj	_	_
+7	da	da	ADP	E	_	8	mark	_	_
+8	dire	dire	VERB	V	VerbForm=Inf	5	advcl	_	_
+9	–	–	PUNCT	FF	_	10	punct	_	_
+10	VIDEO	video	PROPN	SP	_	2	obj	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	senoecoseno.it/come-sembrare-	senoecoseno.it/come-sembrare-	PUNCT	FB	_	20	punct	_	_
+15	intelligenti	intelligente	ADJ	A	Number=Plur	20	amod	_	SpaceAfter=No
+16	-senza-dire	-senza-dire	VERB	V	VerbForm=Inf	20	csubj	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+18	nulla-da-dire	nulla-da-dire	VERB	V	VerbForm=Inf	20	parataxis	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	video	video	NOUN	S	Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	_
+22	…	…	PUNCT	FF	_	20	punct	_	SpacesAfter=\n
+

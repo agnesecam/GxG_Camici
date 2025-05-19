@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Può esser divertente anche leggere i Promessi Sposi.
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	esser	essere	AUX	VA	VerbForm=Inf	3	cop	_	_
+3	divertente	divertente	ADJ	A	Number=Sing	0	root	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	leggere	leggere	VERB	V	VerbForm=Inf	3	csubj	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Promessi	promesso	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	Sposi	sposo	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @marco_rossari racconta i Piccoli maestri al @bookpride2 @annaritab72
+1	@marco_rossari	@marco_rossario	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	racconta	raccontare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	Piccoli	piccolo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	maestri	maestro	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	@bookpride2	@bookpride2	NUM	N	NumType=Card	5	obl	_	_
+9	@annaritab72	@annaritab72	NUM	N	NumType=Card	8	flat	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono dal parrucchiere da 3 ore esatte.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2-3	dal	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	parrucchiere	parrucchiere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	3	3	NUM	N	NumType=Card	7	nummod	_	_
+7	ore	ora	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	esatte	esatto	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Come minimo ormai dovrei sembrare Kate Moss.
+1	Come	come	ADV	B	_	2	advmod	_	_
+2	minimo	minimo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	ormai	ormai	ADV	B	_	2	advmod	_	_
+4	dovrei	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	2	csubj	_	_
+6	Kate	Kate	PROPN	SP	_	5	xcomp	_	_
+7	Moss	Moss	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

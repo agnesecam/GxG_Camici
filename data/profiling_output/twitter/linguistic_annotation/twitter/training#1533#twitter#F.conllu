@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Marinella da Cerreto Laziale .
+1	Marinella	Marinella	PROPN	SP	_	0	root	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	Cerreto	Cerreto	PROPN	SP	_	1	nmod	_	_
+4	Laziale	laziale	PROPN	SP	_	3	flat:name	_	_
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ha confezionato così le nostre boule.
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	confezionato	confezionare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	così	così	ADV	B	_	2	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	boule	boula	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

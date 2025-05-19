@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No, i tempi del blitz sono quelli procedimentali e dunque nessun tempismo sospetto.
+1	No	no	INTJ	I	Polarity=Neg	9	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	blitz	blitz	NOUN	S	Gender=Masc	4	nmod	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
+10	procedimentali	procedimentale	ADJ	A	Number=Plur	9	amod	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	dunque	dunque	ADV	B	_	14	advmod	_	_
+13	nessun	nessuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+14	tempismo	tempismo	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	_
+15	sospetto	sospetto	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = A Corleto, sì, provate a salire https:// twitter.com/claudiovelardi /status/716198482881691648 …
+1	A	a	ADP	E	_	2	case	_	_
+2	Corleto	Corleto	PROPN	SP	_	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	sì	sì	INTJ	I	Polarity=Pos	6	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	provate	provare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	salire	salire	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	twitter.com/claudiovelardi	twitter.com/claudiovelardo	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+13	/status/716198482881691648	/status/716198482881691648	NUM	N	NumType=Card	12	nummod	_	_
+14	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

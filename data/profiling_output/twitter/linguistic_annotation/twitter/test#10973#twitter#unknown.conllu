@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_wankycriss non è un capolavoro e questo è palese diciamo che io la seguo perché ho letto i libri, credo che altrimenti non l'avrei manco
+1	@_wankycriss	@_wankycriss	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	capolavoro	capolavoro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	palese	palese	ADJ	A	Number=Sing	5	conj	_	_
+10	diciamo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+11	che	che	SCONJ	CS	_	14	mark	_	_
+12	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	seguo	seguire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+15	perché	perché	SCONJ	CS	_	17	mark	_	_
+16	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	libri	libro	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	conj	_	_
+22	che	che	SCONJ	CS	_	27	mark	_	_
+23	altrimenti	altrimenti	ADV	B	_	27	advmod	_	_
+24	non	non	ADV	BN	PronType=Neg	27	advmod	_	_
+25	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	27	det	_	SpaceAfter=No
+26	avrei	avreo	ADJ	A	Gender=Masc|Number=Plur	27	amod	_	_
+27	manco	manco	NOUN	S	Gender=Masc|Number=Sing	21	ccomp	_	SpacesAfter=\n
+

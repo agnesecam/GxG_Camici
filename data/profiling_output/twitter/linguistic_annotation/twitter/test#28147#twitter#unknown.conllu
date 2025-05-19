@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chi invoca la guerra si aspetta che la facciano gli altri.
+1	Chi	chi	PRON	PQ	PronType=Int	2	nsubj	_	_
+2	invoca	invocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+6	aspetta	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Vorrei vedervi.
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	vedervi	_	_	_	_	_	_	_	SpaceAfter=No
+2	veder	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	expl	_	_
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ok abrasività di @tvblogit , ma perché far passare millantazione € 3mln come gaffe narrativa?
+1	Ok	Ok	NOUN	S	_	0	root	_	_
+2	abrasività	abrasività	NOUN	S	Gender=Fem	1	compound	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	@tvblogit	@tvblogit	NOUN	S	Gender=Masc	1	nmod	_	_
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	perché	perché	SCONJ	CS	_	8	mark	_	_
+8	far	fare	VERB	V	VerbForm=Inf	1	conj	_	_
+9	passare	passare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	millantazione	millantazione	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+11	€	€	SYM	SYM	_	9	obl	_	_
+12	3mln	3mln	NUM	N	NumType=Card	11	nummod	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	gaffe	gaffa	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+15	narrativa	narrativo	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #UnaPallottolaNelCuore2 http://www.
+1	#UnaPallottolaNelCuore2	#UnaPallottolaNelCuore2	NUM	N	NumType=Card	2	nummod	_	_
+2	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = tvblog.it/post/1275267/u na-pallottola-nel-cuore-2-puntata-05-aprile-2016-diretta-riassunto-recensione …
+1	tvblog.it/post/1275267/u	tvblog.it/post/1275267/u	NOUN	S	Gender=Masc	0	root	_	_
+2	na-	_	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3	pallottola-nel	pallottola-nel	ADJ	A	_	1	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+6	-	-	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+7	2	2	NUM	N	NumType=Card	1	nmod	_	SpaceAfter=No
+8	-puntata-05	-puntata-05	NUM	N	NumType=Card	7	flat	_	SpaceAfter=No
+9	-aprile-2016	-aprile-2016	NUM	N	NumType=Card	7	flat	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	9	compound	_	SpaceAfter=No
+12	-riassunto	-riassunto	NOUN	S	Gender=Masc|Number=Sing	11	compound	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	recensione	recensione	NOUN	S	Gender=Fem|Number=Sing	12	compound	_	_
+15	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

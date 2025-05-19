@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ormai verissimo è diventato il giocattolo preferito di Silvia Toffanin.
+1	Ormai	ormai	ADV	B	_	4	advmod	_	_
+2	verissimo	vero	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	giocattolo	giocattolo	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	_
+7	preferito	preferito	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Silvia	Silvia	PROPN	SP	_	6	nmod	_	_
+10	Toffanin	Toffanin	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = @verissimotv #ilsegreto #harottolepalle
+1	@verissimotv	@verissimotv	NOUN	S	Gender=Masc	0	root	_	_
+2	#ilsegreto	#ilsegreto	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	#harottolepalle	#harottolepallo	ADJ	A	Number=Sing	1	amod	_	SpacesAfter=\n
+

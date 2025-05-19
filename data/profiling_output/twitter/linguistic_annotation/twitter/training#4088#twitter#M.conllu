@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi farebbe bene a ricordare che votano anche i troll, e prima o poi dalle elezioni dovrà passare
+1	@matteorenzi	@matteorenzi	ADV	B	_	2	advmod	_	_
+2	farebbe	fare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	ricordare	ricordare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	votano	votare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+8	anche	anche	ADV	B	_	10	advmod	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	troll	troll	NOUN	S	Gender=Masc	20	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	20	punct	_	_
+12	e	e	CCONJ	CC	_	20	cc	_	_
+13	prima	prima	ADV	B	_	20	advmod	_	_
+14	o	o	CCONJ	CC	_	18	cc	_	_
+15	poi	poi	ADV	B	_	18	advmod	_	_
+16-17	dalle	_	_	_	_	_	_	_	_
+16	da	da	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	13	conj	_	_
+19	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	aux	_	_
+20	passare	passare	VERB	V	VerbForm=Inf	7	ccomp	_	SpacesAfter=\n
+

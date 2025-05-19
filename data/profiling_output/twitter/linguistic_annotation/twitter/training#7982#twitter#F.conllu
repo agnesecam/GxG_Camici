@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mimiariengo89 tutto ciò che dici è completamente privo di senso, non hai argomentazioni valide e quindi parli a casaccio, dunque ciao
+1	@mimiariengo89	@mimiariengo89	NUM	N	NumType=Card	8	nummod	_	_
+2	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	completamente	completamente	ADV	B	_	8	advmod	_	_
+8	privo	privo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	senso	senso	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	argomentazioni	argomentazione	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
+15	valide	valido	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	quindi	quindi	ADV	B	_	18	advmod	_	_
+18-19	parli	_	_	_	_	_	_	_	_
+18	par	parre	VERB	V	VerbForm=Inf	8	conj	_	_
+19	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	casaccio	casaccio	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	8	punct	_	_
+23	dunque	dunque	ADV	B	_	24	advmod	_	_
+24	ciao	ciao	ADJ	A	Gender=Masc|Number=Sing	8	conj	_	SpacesAfter=\n
+

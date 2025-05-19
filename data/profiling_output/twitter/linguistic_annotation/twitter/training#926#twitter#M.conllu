@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dalla regia mi dicono sia ora di andare a dormire.
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	regia	regia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sia	essere	CCONJ	CC	_	7	cc	_	_
+7	ora	ora	ADV	B	_	5	advmod	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	andare	andare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	dormire	dormire	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Peccato che non ho sonno e domani sarò in modalità #twd .
+1	Peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sonno	sonno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	e	e	CCONJ	CC	_	10	cc	_	_
+7	domani	domani	ADV	B	_	10	advmod	_	_
+8	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	10	cop	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	modalità	modalità	NOUN	S	Gender=Fem	5	conj	_	_
+11	#twd	#twd	ADJ	A	_	10	amod	_	_
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

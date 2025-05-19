@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LUCA_860 mi sembri un po' confuso...
+1	@LUCA_860	@LUCA_860	PROPN	SP	_	3	nsubj	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	po'	poco	ADV	B	_	6	advmod	_	_
+6	confuso..	confuso	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = guarda ke hai incominciato tu sai...?
+1	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ke	ke	ADV	B	_	1	advmod	_	_
+3	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	incominciato	incominciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+5	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	sai...	sai.	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = sono tutti testimoni!
+1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	_
+3	testimoni	testimonio	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

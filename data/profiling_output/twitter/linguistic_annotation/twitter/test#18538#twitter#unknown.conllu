@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Boboj29
+1	@Boboj29	@Boboj29	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = In ogni caso avrebbe dovuto passare dal viola all'azzurro...
+1	In	in	ADP	E	_	3	case	_	_
+2	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+4	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	_
+6	passare	passare	VERB	V	VerbForm=Inf	0	root	_	_
+7-8	dal	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	viola	viola	NOUN	S	_	6	obl	_	_
+10-11	all'	_	_	_	_	_	_	_	SpaceAfter=No
+10	a	a	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	azzurro...	azzurro...	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpacesAfter=\n
+

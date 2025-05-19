@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel 1917, Schwarzbard fu inviato in Ucraina come comandante di uno squadrone di cavalleria ebraica http://www.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	1917	1917	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	Schwarzbard	Schwarzbard	PROPN	SP	_	7	nsubj:pass	_	_
+6	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	inviato	inviare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	Ucraina	Ucraina	PROPN	SP	_	7	obl	_	_
+10	come	come	ADP	E	_	11	case	_	_
+11	comandante	comandante	NOUN	S	Number=Sing	7	obl	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	squadrone	squadrone	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	cavalleria	cavalleria	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	ebraica	ebraico	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+18	http://www	http://www	NOUN	S	_	16	compound	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = larivistaintelligente.it/orologiaio-ebr eo-anarchico-e-comunista/ …
+1	larivistaintelligente.it/orologiaio-ebr	larivistaintelligente.it/orologiaio-ebre	NOUN	S	Gender=Masc	0	root	_	_
+2	eo-	_	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	anarchico	anarchico	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	e-comunista	e-comunista	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

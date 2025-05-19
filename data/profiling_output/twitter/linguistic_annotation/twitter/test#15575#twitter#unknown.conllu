@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @grisou79 @napolimagazine e no concordo in pieno farei giocare la primavera tanto ci faranno arrivare 3
+1	@grisou79	@grisou79	NUM	N	NumType=Card	2	nummod	_	_
+2	@napolimagazine	@napolimagazino	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	no	no	ADV	BN	PronType=Neg	2	conj	_	_
+5	concordo	concordo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	pieno	pieno	ADJ	A	Gender=Masc|Number=Sing	5	obl	_	_
+8	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+9	giocare	giocare	VERB	V	VerbForm=Inf	14	csubj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	primavera	primavera	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	tanto	tanto	ADV	B	_	14	advmod	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+14	faranno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	obj	_	_
+15	arrivare	arrivare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+16	3	3	NUM	N	NumType=Card	15	nummod	_	SpacesAfter=\n
+

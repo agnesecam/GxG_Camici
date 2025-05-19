@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dopo l'ultimo video di Chris Pratt su Snapchat io annuncio le mie dimissioni dalla vita perchè non credo di potercela fare più.
+1	Dopo	dopo	ADP	E	_	4	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+3	ultimo	ultimo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	video	video	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Chris	Chris	PROPN	SP	_	4	nmod	_	_
+7	Pratt	Pratt	PROPN	SP	_	6	flat:name	_	_
+8	su	su	ADP	E	_	9	case	_	_
+9	Snapchat	Snapchat	PROPN	SP	_	10	nmod	_	_
+10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	annuncio	annunciare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	dimissioni	dimissione	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+15-16	dalla	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	vita	vita	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+18	perchè	perché	SCONJ	CS	_	20	mark	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	potercela	potercela	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+23	fare	fare	VERB	V	VerbForm=Inf	22	acl	_	_
+24	più	più	ADV	B	_	23	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

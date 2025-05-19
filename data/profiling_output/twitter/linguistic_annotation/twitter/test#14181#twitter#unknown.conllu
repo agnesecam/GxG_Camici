@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vi sareste "accontentati" voi?!?
+1	Vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sareste	saredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	accontentati	accontentare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	_
+6	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	obj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #Leicester #scommesse https:// twitter.com/corsport/statu s/706197299857399811 …
+1	#Leicester	#Leicester	ADP	E	_	2	case	_	_
+2	#scommesse	#scommesso	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	twitter.com/corsport/statu	twitter.com/corsport/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	s/706197299857399811	s/706197299857399811	NUM	N	NumType=Card	0	root	_	_
+8	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

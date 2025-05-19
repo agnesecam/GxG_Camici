@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuna gli spieghi che mettere "bella" è sessista!
+1	Qualcuna	Qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	spieghi	spiego	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	10	nsubj:pass	_	_
+5	mettere	mettere	VERB	V	VerbForm=Inf	10	advcl	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	bella	bello	ADJ	A	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+10	sessista	sessista	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = No, non ce la possono fare purtroppo.
+1	No	no	INTJ	I	Polarity=Neg	7	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+4	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+5	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+6	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+8	purtroppo	purtroppo	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/glsiviero/stat us/710023795520749568 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/glsiviero/stat	twitter.com/glsiviero/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/710023795520749568	us/710023795520749568	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

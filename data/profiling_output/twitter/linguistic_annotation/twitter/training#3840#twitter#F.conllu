@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu sai ciò che abbiamo da chiederti Mamma Maria, ti apriamo i nostri cuori <3 e così sia <3 http:// fb.me/7ebdgGCT8
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7-8	chiederti	_	_	_	_	_	_	_	_
+7	chieder	chiedere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+9	Mamma	Mamma	PROPN	SP	_	13	vocative	_	_
+10	Maria	Maria	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	9	punct	_	_
+12	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obj	_	_
+13	apriamo	aprire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	cuori	cuore	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+17	<3	<3	NUM	N	NumType=Card	16	nummod	_	_
+18	e	e	CCONJ	CC	_	21	cc	_	_
+19	così	così	ADV	B	_	21	advmod	_	_
+20	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	<3	<3	NUM	N	NumType=Card	17	conj	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/7ebdgGCT8	fb.me/7ebdgGCT8	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La unione più vera,solida,incredibile,unica,straordinaria,il Signore la realizza con i poveri in spirito!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	unione	unione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	vera,solida	vera,solido	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	incredibile	incredibile	ADJ	A	Number=Sing	4	conj	_	SpaceAfter=No
+7	,unica,straordinaria,il	,unica,straordinaria,il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Signore	signore	PROPN	SP	_	2	nmod	_	_
+9	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	realizza	realizzare	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	con	con	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	poveri	povero	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	spirito	spirito	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Di essi è il regno dei Cieli.Amen!
+1	Di	di	ADP	E	_	2	case	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	regno	regno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Cieli.Amen	Cieli.Amen	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

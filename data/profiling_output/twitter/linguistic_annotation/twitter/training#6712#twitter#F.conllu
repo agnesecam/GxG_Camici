@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Benji_Mascolo @fedefederossi STA PIOVENDO DITEMI COME FACCIO A VENIRE DA VOI?
+1	@Benji_Mascolo	@Benji_Mascolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@fedefederossi	@fedefederosso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	STA	stare	PROPN	SP	_	2	nsubj:pass	_	_
+4	PIOVENDO	PIOVENDO	PROPN	SP	_	3	flat:name	_	_
+5	DITEMI	DITEMI	PROPN	SP	_	3	flat:name	_	_
+6	COME	come	PROPN	SP	_	3	flat:name	_	_
+7	FACCIO	Faccio	PROPN	SP	_	6	flat:name	_	_
+8	A	A	ADP	E	_	9	case	_	_
+9	VENIRE	venire	PROPN	SP	_	2	obl	_	_
+10	DA	Da	PROPN	SP	_	9	flat:name	_	_
+11	VOI	voi	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = NON PASSA NEMMENO IL BUS
+1	NON	non	PROPN	SP	_	4	nmod	_	_
+2	PASSA	passa	PROPN	SP	_	1	flat:name	_	_
+3	NEMMENO	nemmeno	ADP	E	_	4	case	_	_
+4	IL	il	PROPN	SP	_	0	root	_	_
+5	BUS	bus	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

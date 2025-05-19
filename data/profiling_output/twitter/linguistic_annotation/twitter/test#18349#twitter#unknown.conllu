@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voglio vivere in una grande città con tanto smog, via vai di gente, luci, negozi, feste non in questi paesini del cazzo
+1	Voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	vivere	vivere	VERB	V	VerbForm=Inf	0	root	_	_
+3	in	in	ADP	E	_	6	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	grande	grande	ADJ	A	Number=Sing	6	amod	_	_
+6	città	città	NOUN	S	Gender=Fem	2	obl	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	smog	smog	NOUN	S	Gender=Masc	2	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	via	via	ADV	B	_	12	advmod	_	_
+12	vai	vai	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	gente	gente	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	luci	luce	NOUN	S	Gender=Fem|Number=Plur	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	negozi	negozio	NOUN	S	Gender=Masc|Number=Plur	14	conj	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	20	punct	_	_
+20	feste	federe	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+21	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+22	in	in	ADP	E	_	24	case	_	_
+23	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	24	det	_	_
+24	paesini	paesino	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
+25-26	del	_	_	_	_	_	_	_	_
+25	di	di	ADP	E	_	27	case	_	_
+26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	SpacesAfter=\n
+

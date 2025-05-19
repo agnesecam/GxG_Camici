@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MassimoCaputi se avessimo pareggiato o perso non sarebbe stato un loro vantaggio?
+1	@MassimoCaputi	@MassimoCapere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	pareggiato	pareggiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	_
+6	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+7	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+8	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+9	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	cop	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	loro	loro	DET	AP	Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	vantaggio	vantaggio	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sempre a scrivere minchiate state
+1	Sempre	sempre	ADV	B	_	3	advmod	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	scrivere	scrivere	VERB	V	VerbForm=Inf	0	root	_	_
+4	minchiate	minchiato	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+5	state	stato	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	SpacesAfter=\n
+

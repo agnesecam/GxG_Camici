@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Me lo fate un grandissimo favore potete mettere MI PIACE alla pagina ★...★ Wolf D.. ★...★ grazie a chi lo fara ' <3 http:// fb.me/11Ceol3bn
+1	Me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	grandissimo	grande	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	6	amod	_	_
+6	favore	favore	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	mettere	mettere	VERB	V	VerbForm=Inf	0	root	_	_
+9	MI	mi	PROPN	SP	_	8	obj	_	_
+10	PIACE	piace	PROPN	SP	_	9	flat:name	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	pagina	pagina	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+14	★...★	★...★	PROPN	SP	_	13	nmod	_	_
+15	Wolf	Wolf	PROPN	SP	_	14	flat:name	_	_
+16	D..	D..	PROPN	SP	_	14	flat:name	_	_
+17	★...★	★...★	PROPN	SP	_	14	flat:name	_	_
+18	grazie	grazie	NOUN	S	_	20	case	_	_
+19	a	a	ADP	E	_	18	fixed	_	_
+20	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	obl	_	_
+21	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+22	fara	farare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	parataxis	_	_
+23	'	'	PUNCT	FB	_	24	punct	_	_
+24	<3	<3	NUM	N	NumType=Card	22	nummod	_	_
+25	http:	http:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	24	punct	_	_
+28	fb.me/11Ceol3bn	fb.me/11Ceol3bn	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

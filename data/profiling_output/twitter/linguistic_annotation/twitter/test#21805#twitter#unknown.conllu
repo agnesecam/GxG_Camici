@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @materia__prima @CerbiMarco @bobogiac @orfini STAVANO A FA LA DIETA ??..O NON SAPEVANO ??
+1	@materia__prima	@materia__prima	ADV	B	_	2	advmod	_	_
+2	@CerbiMarco	@CerbiMarco	PROPN	SP	_	0	root	_	_
+3	@bobogiac	@bobogiac	ADV	B	_	4	advmod	_	_
+4	@orfini	@orfine	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+5	STAVANO	stare	PROPN	SP	_	2	flat:name	_	_
+6	A	a	ADP	E	_	7	case	_	_
+7	FA	fa	PROPN	SP	_	2	nmod	_	_
+8	LA	la	PROPN	SP	_	7	flat:name	_	_
+9	DIETA	dieta	PROPN	SP	_	7	flat:name	_	_
+10	?	?	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	?..O	?..O	PROPN	SP	_	7	flat:name	_	_
+12	NON	non	PROPN	SP	_	11	flat:name	_	_
+13	SAPEVANO	sapere	PROPN	SP	_	11	flat:name	_	_
+14	?	?	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #GNORRIPD pic.twitter.com/vsLVy24v3y
+1	#GNORRIPD	#GNORRIPD	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/vsLVy24v3y	pic.twitter.com/vsLVy24v3y	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di esperienza nella vita né ho avute tante e di tutti i tipi ma quella con Penny è stata una delle più belle non... http:// fb.me/4vOAnWB5a
+1	Di	di	ADP	E	_	2	case	_	_
+2	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+3-4	nella	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vita	vita	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	né	né	CCONJ	CC	_	8	cc	_	_
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+9	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	nsubj:pass	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11	di	di	ADP	E	_	14	case	_	_
+12	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	14	det:predet	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	tipi	tipo	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+15	ma	ma	CCONJ	CC	_	16	cc	_	_
+16	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	9	conj	_	_
+17	con	con	ADP	E	_	18	case	_	_
+18	Penny	penny	PROPN	SP	_	16	nmod	_	_
+19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
+20	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	21	cop	_	_
+21	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	nsubj	_	_
+22-23	delle	_	_	_	_	_	_	_	_
+22	di	di	ADP	E	_	26	case	_	_
+23	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+24	più	più	ADV	B	_	25	advmod	_	_
+25	belle	bello	ADJ	A	Gender=Fem|Number=Plur	26	amod	_	_
+26	non...	non.	NOUN	S	_	21	nmod	_	_
+27	http:	http:	PUNCT	FC	_	26	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+29	/	/	PUNCT	FF	_	8	punct	_	_
+30	fb.me/4vOAnWB5a	fb.me/4vOAnWB5a	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

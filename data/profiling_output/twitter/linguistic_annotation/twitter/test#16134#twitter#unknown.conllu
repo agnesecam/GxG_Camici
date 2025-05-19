@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = … se le dai abbastanza tempo, la vita prevale.
+1	…	…	PUNCT	FF	_	3	punct	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	0	root	_	_
+4-5	dai	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	7	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	abbastanza	abbastanza	ADV	B	_	7	advmod	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+11	prevale	prevale	ADJ	A	Number=Sing	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4e1Rz7Tqb
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4e1Rz7Tqb	fb.me/4e1Rz7Tqb	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

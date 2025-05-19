@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stasera Tina dovrà dire:
+1	Stasera	stasera	PROPN	SP	_	4	nsubj	_	_
+2	Tina	Tina	PROPN	SP	_	1	flat:name	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	dire	dire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = "No Paolo io esco!" #CiaoDarwin
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	No	no	INTJ	I	Polarity=Neg	5	discourse	_	_
+3	Paolo	Paolo	PROPN	SP	_	2	flat:name	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	esco	uscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	5	punct	_	_
+8	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	CiaoDarwin	CiaoDarwin	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = voi che "mangio la carne perché è buona" siete più vergognosi dei politici italiani
+1	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	mangio	mangiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	carne	carne	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	perché	perché	SCONJ	CS	_	9	mark	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	buona	buono	ADJ	A	Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	1	punct	_	_
+11	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	vergognosi	vergognoso	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	politici	politico	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+17	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ErricCoppl aveste voi l'1% della storia europea della Juve stareste a fare caroselli a Via Caracciolo :)
+1	@ErricCoppl	@ErricCoppl	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	aveste	avedere	VERB	V	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+5	1	1	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+6	%	%	SYM	SYM	_	2	obj	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	storia	storia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	europea	europeo	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Juve	Juve	PROPN	SP	_	9	nmod	_	_
+14	stareste	staresto	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	caroselli	carosello	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+18	a	a	ADP	E	_	19	case	_	_
+19	Via	via	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20	Caracciolo	Caracciolo	PROPN	SP	_	19	nmod	_	_
+21	:	:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+22	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

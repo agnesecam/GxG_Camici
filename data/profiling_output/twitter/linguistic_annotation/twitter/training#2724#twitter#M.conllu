@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "La soluzione dovrà sembrare inevitabile una volta svelata".
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+6	inevitabile	inevitabile	ADJ	A	Number=Sing	5	xcomp	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	volta	volta	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+9	svelata	svelato	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = 10 regole del giallo perfetto secondo Raymond Chandler.
+1	10	10	NUM	N	NumType=Card	2	nummod	_	_
+2	regole	regola	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	giallo	giallo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	secondo	secondo	ADP	E	_	8	case	_	_
+8	Raymond	Raymond	PROPN	SP	_	2	nmod	_	_
+9	Chandler	Chandler	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = openculture.com/2014/02/raymon d-chandlers-ten-commandments-for-writing-a-detective-novel.html …
+1	openculture.com/2014/02/raymon	openculture.com/2014/02/raymon	ADP	E	_	2	case	_	_
+2	d-chandlers-ten-commandments-for-writing-a-detective-novel.html	d-chandlers-ten-commandments-for-writing-a-detective-novel.html	NOUN	S	Gender=Masc	0	root	_	_
+3	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

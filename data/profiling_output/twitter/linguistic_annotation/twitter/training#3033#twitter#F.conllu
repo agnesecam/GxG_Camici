@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Luxury mix:
+1	Luxury	Luxury	DET	DI	PronType=Ind	2	det	_	_
+2	mix	mix	NOUN	S	_	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Apple, Re Carlo, rolex , Chopard - Per qualcuno potrà sembrare ostentazione ma chi… https://www.
+1	Apple	Apple	PROPN	SP	_	13	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	Re	Re	PROPN	SP	_	1	flat:name	_	_
+4	Carlo	Carlo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	rolex	rolex	NOUN	S	Gender=Masc	1	appos	_	_
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	Chopard	Chopard	PROPN	SP	_	6	nmod	_	_
+9	-	-	PUNCT	FF	_	8	punct	_	_
+10	Per	per	ADP	E	_	11	case	_	_
+11	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obl	_	_
+12	potrà	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+14	ostentazione	ostentazione	NOUN	S	Gender=Fem|Number=Sing	13	xcomp	_	_
+15	ma	ma	CCONJ	CC	_	17	cc	_	_
+16	chi…	chi…	PUNCT	FF	_	17	punct	_	_
+17	https://www	https://www	NOUN	S	Gender=Masc	14	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDiJkguGlhW/
+1	instagram.com/p/BDiJkguGlhW/	instagram.com/p/BDiJkguGlhW/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

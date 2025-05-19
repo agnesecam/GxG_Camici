@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La geologa dei Monti Dauni:
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	geologa	geologo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	Monti	Monti	PROPN	SP	_	2	nmod	_	_
+6	Dauni	Dauni	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = "Ecco perchè aumentano le frane" http:// fb.me/7KMgNFeDh
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ecco	ecco	ADV	B	_	4	advmod	_	_
+3	perchè	poiperché	SCONJ	CS	_	4	mark	_	_
+4	aumentano	aumentare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	frane	frana	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	http:	http:	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	_
+11	fb.me/7KMgNFeDh	fb.me/7KMgNFeDh	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

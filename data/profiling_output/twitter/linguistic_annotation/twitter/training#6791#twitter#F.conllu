@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giova_martelli nella scuola è stato assunto chi nemmeno sapeva compilare un registro e noi #TFA siamo fuori nonostante #tfaeconcorso
+1	@giova_martelli	@giova_martello	NOUN	S	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
+2-3	nella	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_
+7	assunto	assumere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	chi	chi	PRON	PR	Number=Sing|PronType=Rel	7	obj	_	_
+9	nemmeno	nemmeno	ADV	BN	PronType=Neg	10	advmod	_	_
+10	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
+11	compilare	compilare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	registro	registro	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	e	e	CCONJ	CC	_	20	cc	_	_
+15	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	20	nsubj	_	_
+16	#TFA	#tfare	PROPN	SP	_	20	nsubj	_	_
+17	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
+18	fuori	fuori	ADV	B	_	20	case	_	_
+19	nonostante	nonostante	ADP	E	_	18	fixed	_	_
+20	#tfaeconcorso	#tfaeconcorso	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	SpacesAfter=\n
+

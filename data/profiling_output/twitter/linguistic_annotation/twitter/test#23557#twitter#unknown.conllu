@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Egli può salvare perfettamente quelli che per mezzo di lui si avvicinano a Dio dal momento che vive sempre per intercedere per loro.
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	salvare	salvare	VERB	V	VerbForm=Inf	0	root	_	_
+4	perfettamente	perfettamente	ADV	B	_	3	advmod	_	_
+5	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	avvicinano	avvicinare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	Dio	dio	PROPN	SP	_	12	obl	_	_
+15-16	dal	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	momento	momento	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+18	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+19	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+20	sempre	sempre	ADV	B	_	19	advmod	_	_
+21	per	per	ADP	E	_	22	mark	_	_
+22	intercedere	intercedere	VERB	V	VerbForm=Inf	19	advcl	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	22	obl	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Eb 7:25
+1	Eb	Eb	PROPN	SP	_	0	root	_	_
+2	7:25	7:25	NUM	N	NumType=Card	1	nummod	_	SpacesAfter=\n
+

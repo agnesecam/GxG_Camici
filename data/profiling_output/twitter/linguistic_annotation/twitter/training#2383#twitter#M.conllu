@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "E quella parte di noi che l' infinito nasconde che ci modifica e vuole verità,se guardi dentro puoi vederla già..."
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	E	e	CCONJ	CC	_	4	cc	_	_
+3	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	parte	parte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	infinito	infinito	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+10	nasconde	nascondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
+13	modifica	modificare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	verità,se	verità,so	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	conj	_	_
+17	guardi	guardo	ADV	B	_	20	advmod	_	_
+18	dentro	dentro	ADV	B	_	20	advmod	_	_
+19	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20-21	vederla	_	_	_	_	_	_	_	_
+20	veder	vedere	VERB	V	VerbForm=Inf	16	xcomp	_	_
+21	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+22	già	già	ADV	B	_	20	advmod	_	SpaceAfter=No
+23	...	...	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+24	"	"	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io dico che l'hanno chiamata "The death song of Uther Pendragon" perché "Who you gonna call?
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+5	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	chiamata	chiamare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+7	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	The	The	DET	RD	Definite=Def|PronType=Art	10	det	_	_
+9	death	death	NOUN	S	_	10	nmod	_	_
+10	song	song	NOUN	S	Gender=Masc	6	xcomp	_	_
+11	of	of	ADP	E	_	12	case	_	_
+12	Uther	Uther	PROPN	SP	_	10	nmod	_	_
+13	Pendragon	Pendragon	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	10	punct	_	_
+15	perché	perché	SCONJ	CS	_	17	mark	_	_
+16	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+17	Who	Who	PROPN	SP	_	6	advcl	_	_
+18	you	you	ADP	E	_	19	case	_	_
+19	gonna	gonna	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20	call	call	ADJ	A	Number=Sing	19	amod	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ghostbusters!" faceva troppo plagio xD #Merlin
+1	Ghostbusters	Ghostbusters	PROPN	SP	_	4	nsubj	_	SpaceAfter=No
+2	!	!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	4	punct	_	_
+4	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	troppo	troppo	ADV	B	_	4	advmod	_	_
+6	plagio	plagio	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	xD	xD	PROPN	SP	_	6	nmod	_	_
+8	#Merlin	#Merlin	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n
+

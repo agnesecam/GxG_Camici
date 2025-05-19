@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vestiti che nascondono la ciccia --> ti fanno sembrare più grassa Vestiti che evidenziano quello che sfortunatamente è il tuo fisico --> ok
+1	Vestiti	vestire	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	nascondono	nascondere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ciccia	ciccia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	-	-	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	>	>	SYM	SYM	_	10	nsubj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+10	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	grassa	grasso	ADJ	A	Gender=Fem|Number=Sing	11	xcomp	_	_
+14	Vestiti	vestito	PROPN	SP	_	11	obj	_	_
+15	che	che	PRON	PR	PronType=Rel	17	case	_	_
+16	evidenziano	evidenziare	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	acl:relcl	_	_
+18	che	che	PRON	PR	PronType=Rel	23	nsubj	_	_
+19	sfortunatamente	sfortunatamente	ADV	B	_	23	advmod	_	_
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	fisico	fisico	NOUN	S	Gender=Masc|Number=Sing	17	acl:relcl	_	_
+24	-	-	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	>	>	SYM	SYM	_	27	nmod	_	_
+27	ok	ok	NOUN	S	Gender=Masc	17	appos	_	SpacesAfter=\n
+

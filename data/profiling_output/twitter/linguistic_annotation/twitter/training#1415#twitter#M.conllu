@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ore 23:15 è appena terminata la partita tra le nostre atlete e quelle di Biella.
+1	Ore	ora	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+2	23:15	23:15	NUM	N	NumType=Card	1	nummod	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+4	appena	appena	ADV	B	_	5	advmod	_	_
+5	terminata	terminare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	partita	partita	NOUN	S	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+8	tra	tra	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	atlete	atlete	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	7	conj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Biella	Biella	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Un match serratissimo, tanto che... http:// fb.me/2AV7JzTHs
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	match	match	NOUN	S	Gender=Masc	0	root	_	_
+3	serratissimo	serratissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	tanto	tanto	ADV	B	_	2	advmod	_	_
+6	che...	che.	PUNCT	FF	_	7	punct	_	_
+7	http:	http:	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	fb.me/2AV7JzTHs	fb.me/2AV7JzTHs	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

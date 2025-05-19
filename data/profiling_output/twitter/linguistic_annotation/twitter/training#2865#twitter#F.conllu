@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NicoLimodio @ioretweet la realtà non ha bisogno di sembrare verosimile, perché è vera...cit. Luigi Pirandello
+1	@NicoLimodio	@NicoLimodio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@ioretweet	@ioretwee	ADV	B	_	1	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	realtà	realtà	NOUN	S	Gender=Fem	1	obj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	verosimile	verosimile	ADJ	A	Number=Sing	9	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	1	punct	_	_
+12	perché	perché	SCONJ	CS	_	14	mark	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	vera...cit.	vera...cit.	NOUN	S	_	1	advcl	_	_
+15	Luigi	Luigi	PROPN	SP	_	14	nsubj	_	_
+16	Pirandello	Pirandello	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = basta con 'sta camorra fate sembrare che a Napoli esista solo questo!
+1	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	E	_	4	mark	_	_
+3	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	camorra	camorra	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+6	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	che	che	SCONJ	CS	_	11	mark	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	Napoli	Napoli	PROPN	SP	_	11	obl	_	_
+11	esista	esedere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+12	solo	solo	ADV	B	_	13	advmod	_	_
+13	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	obj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

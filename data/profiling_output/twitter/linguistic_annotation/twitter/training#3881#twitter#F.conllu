@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...un analisi pacata che riesce a far capire ciò che tutti sappiamo...o dovremmo sapere in coscienza nostra @TvTalk_Rai @robertosaviano
+1	...un	...uno	DET	RI	Definite=Ind|PronType=Art	2	det	_	_
+2	analisi	analisi	NOUN	S	Gender=Fem	19	nsubj	_	_
+3	pacata	pacato	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	far	fare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	capire	capire	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+11	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	12	det	_	_
+12	sappiamo...o	sappiamo...o	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+13	dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	sapere	sapere	VERB	V	VerbForm=Inf	9	acl:relcl	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	coscienza	coscienza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	@TvTalk_Rai	@TvTalk_Rai	PROPN	SP	_	16	nmod	_	_
+19	@robertosaviano	@robertosaviano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #veritàlocali
+1	#veritàlocali	#veritàlocale	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = È meravigliosa questa pista!
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	meravigliosa	meraviglioso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	pista	pista	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Mi tornano alla mente le sfide di corsa veloce che da ragazzi facevamo ... http:// fb.me/61vYLgyus
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	tornano	tornare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mente	mente	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	sfide	sfida	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	corsa	corsa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	veloce	veloce	ADJ	A	Number=Sing	9	amod	_	_
+11	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+14	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
+15	...	...	PUNCT	FF	_	14	punct	_	_
+16	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	7	punct	_	_
+19	fb.me/61vYLgyus	fb.me/61vYLgyus	PROPN	SP	_	2	xcomp	_	SpacesAfter=\n
+

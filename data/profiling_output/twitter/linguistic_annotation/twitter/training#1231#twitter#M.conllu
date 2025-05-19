@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = mi giungono notizie da amici che sono stati intravisti fuori dalla sede di seggi delle primarie PD...noti... http:// fb.me/2hHbkii04
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	giungono	giungere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	notizie	notizia	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	amici	amico	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	9	nsubj:pass	_	_
+7	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	aux:pass	_	_
+9	intravisti	intravedere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+10	fuori	fuori	ADV	B	_	9	advmod	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	sede	sede	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	seggi	seggio	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+16-17	delle	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	primarie	primario	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
+19	PD...noti...	PD...noti...	PROPN	SP	_	18	nmod	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/2hHbkii04	fb.me/2hHbkii04	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

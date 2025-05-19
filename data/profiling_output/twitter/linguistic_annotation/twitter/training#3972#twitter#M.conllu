@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA QUESTA DONNA LO SA CHE DOVRA ' AFFRONTARE IL GIUDIZIO DI DIO O PENSA SOLO A RACCOGLIERE VOTI DI GENTE PIU'... http:// fb.me/4t9hF4hnP
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	QUESTA	Questa	PROPN	SP	_	1	flat:name	_	_
+3	DONNA	donna	PROPN	SP	_	2	flat:name	_	_
+4	LO	Lo	PROPN	SP	_	2	flat:name	_	_
+5	SA	sa	PROPN	SP	_	2	nmod	_	_
+6	CHE	Che	PROPN	SP	_	5	flat:name	_	_
+7	DOVRA	DOVRA	PROPN	SP	_	5	flat:name	_	_
+8	'	'	PUNCT	FB	_	5	punct	_	_
+9	AFFRONTARE	affrontare	PROPN	SP	_	5	conj	_	_
+10	IL	il	PROPN	SP	_	9	flat:name	_	_
+11	GIUDIZIO	giudizio	PROPN	SP	_	9	flat:name	_	_
+12	DI	Di	ADP	E	_	13	case	_	_
+13	DIO	dio	PROPN	SP	_	9	nmod	_	_
+14	O	O	PROPN	SP	_	9	flat:name	_	_
+15	PENSA	Pensa	PROPN	SP	_	9	flat:name	_	_
+16	SOLO	solo	PROPN	SP	_	15	flat:name	_	_
+17	A	A	ADP	E	_	18	case	_	_
+18	RACCOGLIERE	raccogliere	PROPN	SP	_	9	nmod	_	_
+19	VOTI	voto	PROPN	SP	_	18	flat:name	_	_
+20	DI	di	ADP	E	_	21	case	_	_
+21	GENTE	gente	PROPN	SP	_	9	nmod	_	_
+22	PIU'...	PIU'...	PROPN	SP	_	21	flat:name	_	_
+23	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	9	punct	_	_
+26	fb.me/4t9hF4hnP	fb.me/4t9hF4hnP	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

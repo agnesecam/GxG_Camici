@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Appena usciti dalla mia serra... https://www.
+1	Appena	appena	ADV	B	_	2	advmod	_	_
+2	usciti	uscire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	serra...	serra...	NOUN	S	_	2	obl:agent	_	_
+7	https://www	https://www	NOUN	S	_	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BEBuy6YDH4s/
+1	instagram.com/p/BEBuy6YDH4s/	instagram.com/p/BEBuy6YDH4s/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

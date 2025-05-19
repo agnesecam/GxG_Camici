@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ArsenaleKappa Con la scusa del complottismo ci stanno incaprettando con eleganza.
+1	@ArsenaleKappa	@ArsenaleKappare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Con	con	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	scusa	scusa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	complottismo	complottismo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	incaprettando	incaprettare	VERB	V	VerbForm=Ger	9	advcl	_	_
+11	con	con	ADP	E	_	12	case	_	_
+12	eleganza	eleganza	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Magari lo avessimo ascoltato!
+1	Magari	magari	ADV	B	_	4	advmod	_	_
+2	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	ascoltato	ascoltato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/cpD0dKJbAd
+1	pic.twitter.com/cpD0dKJbAd	pic.twitter.com/cpD0dKJbAd	ADP	E	_	0	root	_	SpacesAfter=\n
+

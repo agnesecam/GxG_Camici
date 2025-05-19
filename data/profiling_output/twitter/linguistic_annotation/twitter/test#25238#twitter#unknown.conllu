@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @unitaonlin @marattin giustissimo.
+1	@unitaonlin	@unitaonlino	ADP	E	_	2	case	_	_
+2	@marattin	@marattino	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	giustissimo	giusto	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ma furono proprio i comitati e i politici che vinsero a semplificare le cose.
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+3	proprio	proprio	ADV	B	_	5	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	comitati	comitato	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	politici	politico	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	vinsero	vindere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	semplificare	semplificare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Chi è causa del suo mal...
+1	Chi	chi	PRON	PQ	PronType=Int	0	root	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	causa	causa	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	mal...	mal...	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\n
+

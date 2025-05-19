@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LauraPausini @RaiUno @PaolaCortellesi #LauraePaola Laura non è giusto!
+1	@LauraPausini	@LauraPausini	PROPN	SP	_	9	nsubj	_	_
+2	@RaiUno	@RaiUno	PROPN	SP	_	1	flat:name	_	_
+3	@PaolaCortellesi	@PaolaCortellesi	PROPN	SP	_	1	flat:name	_	_
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	LauraePaola	LauraePaola	PROPN	SP	_	1	nmod	_	_
+6	Laura	Laura	PROPN	SP	_	5	flat:name	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Non avevi detto che saresti andata in mezzo al pubblico!
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	avevi	avere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	saresti	saresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

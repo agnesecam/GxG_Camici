@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sil_viar0 @HenryDvThoreau ESSI sanno che hanno poco tempo...
+1	@sil_viar0	@sil_viar0	NUM	N	NumType=Card	2	nummod	_	_
+2	@HenryDvThoreau	@HenryDvThoreau	PROPN	SP	_	4	nsubj	_	_
+3	ESSI	Essi	PROPN	SP	_	2	flat:name	_	_
+4	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	poco	poco	ADV	B	_	6	advmod	_	_
+8	tempo...	tempo...	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = ma possono anche ribaltare i risultati ..speriamo di fare in fretta
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	ribaltare	ribaltare	VERB	V	VerbForm=Inf	0	root	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	..speriamo	..sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	fretta	fretta	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpacesAfter=\n
+

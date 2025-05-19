@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FabioValva @paolovarsi @cappellini_c che bello sarebbe stato se URSS e USA avessero lanciato margherite contro i nazisti...
+1	@FabioValva	@FabioValva	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2-3	@paolovarsi	_	_	_	_	_	_	_	_
+2	@paolovar	@paolovare	VERB	V	VerbForm=Inf	0	root	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+4	@cappellini_c	@cappellini_c	X	X	_	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+6	bello	bello	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+7	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+8	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	aux:pass	_	_
+9	se	se	SCONJ	CS	_	14	mark	_	_
+10	URSS	URSS	PROPN	SP	_	14	nsubj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	USA	USA	PROPN	SP	_	10	conj	_	_
+13	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	lanciato	lanciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+15	margherite	margherite	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+16	contro	contro	ADP	E	_	18	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	nazisti...	nazisti...	NOUN	S	_	14	obl	_	SpacesAfter=\n
+

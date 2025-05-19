@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Veneto, nelle moschee si dovrà parlare italiano:
+1	Veneto	Veneto	PROPN	SP	_	8	obl	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3-4	nelle	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	moschee	moschea	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+9	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 2
+# text = L'obbligatorietà stabilita in una nuova legge nei luoghi di culto http:// bit.ly/1Vwl8Ln
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	obbligatorietà	obbligatorietà	NOUN	S	Gender=Fem	0	root	_	_
+3	stabilita	stabilire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	legge	legge	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8-9	nei	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	luoghi	luogo	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	culto	culto	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+13	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	7	punct	_	_
+16	bit.ly/1Vwl8Ln	bit.ly/1Vwl8Ln	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nabiyeon non voglio di certo sembrare l'Irene biased di turno che la difende, perché quello che ha detto non è giusto
+1	@nabiyeon	@nabiyeon	ADP	E	_	3	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	di	di	ADP	E	_	6	mark	_	_
+5	certo	certo	ADV	B	_	6	advmod	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	Irene	Irene	PROPN	SP	_	6	obj	_	_
+9	biased	biase	CCONJ	CC	_	11	cc	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	turno	turno	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	difende	difenda	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	perché	perché	SCONJ	CS	_	23	mark	_	_
+17	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	23	nsubj	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
+21	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+22	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	14	advcl	_	SpacesAfter=\n
+

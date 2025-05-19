@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francibrambilla Mi fanno pena coloro che ci trattano come fossimo pacchi postali #BuonaPasquetta pic.twitter.com/7z1uQwVBJb
+1	@francibrambilla	@francibrambilla	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pena	pena	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	coloro	coloro	PRON	PD	Number=Plur|PronType=Dem	4	nsubj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
+8	trattano	trattare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	come	come	ADP	E	_	11	case	_	_
+10	fossimo	essere	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
+11	pacchi	pacco	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+12	postali	postale	ADJ	A	Number=Plur	11	amod	_	_
+13	#BuonaPasquetta	#BuonaPasquetta	PROPN	SP	_	11	nmod	_	_
+14	pic.twitter.com/7z1uQwVBJb	pic.twitter.com/7z1uQwVBJb	PROPN	SP	_	13	flat:name	_	SpacesAfter=\n
+

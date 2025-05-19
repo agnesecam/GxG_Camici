@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @incatenarsi Sisi lo so haha, io volevo mi facesse solo quella forma,poi l'avrei aggiustate io ma invece mi ha fatto tutt'altro
+1-2	@incatenarsi	_	_	_	_	_	_	_	_
+1	@incatenar	@incatenare	VERB	V	VerbForm=Inf	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	_
+3	Sisi	Sisi	PROPN	SP	_	1	obj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	haha	haha	ADJ	A	Gender=Fem|Number=Sing	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	volevo	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	obj	_	_
+11	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	xcomp	_	_
+12	solo	solo	ADV	B	_	13	advmod	_	_
+13	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	11	obj	_	_
+14	forma,poi	forma,poi	ADV	B	_	17	advmod	_	_
+15	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	obj	_	SpaceAfter=No
+16	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	aggiustate	aggiustare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+18	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+19	ma	ma	CCONJ	CC	_	23	cc	_	_
+20	invece	invece	ADV	B	_	23	advmod	_	_
+21	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	23	obj	_	_
+22	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	conj	_	_
+24	tutt'	tutto	ADP	E	_	25	case	_	SpaceAfter=No
+25	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	23	obl	_	SpacesAfter=\n
+

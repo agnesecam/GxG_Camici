@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @saraepunto @roberta_russo lo so che c'entra poco, ma chiedo...
+1	@saraepunto	@saraepunto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	@roberta_russo	@roberta_russo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+7	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+8	poco	poco	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	ma	ma	CCONJ	CC	_	11	cc	_	_
+11	chiedo...	chiedo.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = qualcuna ha letto i racconti di Lucia Berlin...?
+1	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	racconti	racconto	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Lucia	Lucia	PROPN	SP	_	5	nmod	_	_
+8	Berlin...	Berlin...	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = amazon.it/gp/product/883 3926850?psc=1&redirect=true&ref_=ox_sc_sfl_image_2&smid=A11IL2PNWYJU7H …
+1	amazon.it/gp/product/883	amazon.it/gp/product/883	NUM	N	NumType=Range	4	nummod	_	_
+2	3926850	3926850	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	psc=1&redirect=true&ref_=ox_sc_sfl_image_2&smid=A11IL2PNWYJU7H	psc=1&redirect=true&ref_=ox_sc_sfl_image_2&smid=A11IL2PNWYJU7H	PROPN	SP	_	0	root	_	_
+5	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

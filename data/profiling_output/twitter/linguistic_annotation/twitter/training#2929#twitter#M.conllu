@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chi azzarda un #pescedaprile prima delle 10(ora in cui posso sembrare vigile) rischia un immediato schiaffo sulla carotide alla Chuck Norris
+1	Chi	chi	PRON	PR	Number=Sing|PronType=Rel	16	nsubj	_	_
+2	azzarda	azzardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	#pescedaprile	#pescedaprile	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	prima	prima	ADV	B	_	8	case	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	10(	10(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+9	ora	ora	ADV	B	_	13	advmod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	cui	cui	PRON	PR	PronType=Rel	13	obl	_	_
+12	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	2	acl	_	_
+14	vigile	vigile	ADJ	A	Number=Sing	13	xcomp	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	13	punct	_	_
+16	rischia	rischiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	immediato	immediato	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+19	schiaffo	schiaffo	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+20-21	sulla	_	_	_	_	_	_	_	_
+20	su	su	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	carotide	carotide	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+23-24	alla	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	Chuck	Chuck	PROPN	SP	_	22	nmod	_	_
+26	Norris	Norris	PROPN	SP	_	25	flat:name	_	SpacesAfter=\n
+

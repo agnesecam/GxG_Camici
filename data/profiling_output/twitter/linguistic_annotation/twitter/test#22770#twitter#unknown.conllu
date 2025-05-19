@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Arriva valigia zuppa di pioggia,taxi puzza tantissimo di cane bagnato.
+1	Arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	valigia	valigio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	zuppa	zuppa	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	pioggia,taxi	pioggia,taxi	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	puzza	puzza	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	tantissimo	tanto	ADV	B	Degree=Abs	6	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	cane	cane	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	bagnato	bagnato	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = "Ma avrai visto qualcosa di Indy,no?"
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ma	ma	CCONJ	CC	_	4	cc	_	_
+3	avrai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Indy,no	Indy,no	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	4	punct	_	_
+
+# sent_id = 3
+# text = No!
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = #chebellotuviaggixlavoro
+1	#chebellotuviaggixlavoro	#chebellotuviaggixlavoro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

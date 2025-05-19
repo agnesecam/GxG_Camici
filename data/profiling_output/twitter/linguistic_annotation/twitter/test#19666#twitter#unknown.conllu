@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #pomeriggio5 Briatore...
+1	#pomeriggio5	#pomeriggio5	NUM	N	NumType=Card	2	nummod	_	_
+2	Briatore..	Briatore..	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = facevi schifo.
+1	facevi	facevo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	schifo.	schifo.	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..fai schifo e farai sempre schifo!
+1	..fai	..fai	ADV	B	_	2	advmod	_	_
+2	schifo	schifo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	2	conj	_	_
+5	sempre	sempre	ADV	B	_	4	advmod	_	_
+6	schifo	schifo	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

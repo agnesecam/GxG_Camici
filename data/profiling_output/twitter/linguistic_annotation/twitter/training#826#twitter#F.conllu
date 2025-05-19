@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bella sta celebrazione.
+1	Bella	bello	PROPN	SP	_	2	nsubj	_	_
+2	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	celebrazione	celebrazione	NOUN	S	Gender=Fem|Number=Sing	2	xcomp	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Se solo avessimo sentito qualcosa... #80limpia @OlimpiaEA7Mi
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	solo	solo	ADV	B	_	4	advmod	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	sentito	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	qualcosa...	qualcosa.	PUNCT	FS	_	4	punct	_	_
+6	#80limpia	#80limpiare	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	@OlimpiaEA7Mi	@OlimpiaEA7Mi	PROPN	SP	_	4	nsubj	_	SpacesAfter=\n
+

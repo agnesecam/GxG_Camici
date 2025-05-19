@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Allegri dovrà far a meno invece dell'infortunato Dybala e degli squalificati Alex Sandro, Khedira e Bonucci #JuveEmpoli #empolinazione
+1	Allegri	Allegri	PROPN	SP	_	3	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	meno	meno	ADV	B	_	3	advmod	_	_
+6	invece	invece	ADV	B	_	9	advmod	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	infortunato	infortunato	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+10	Dybala	Dybala	PROPN	SP	_	9	nmod	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12-13	degli	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	squalificati	squalificato	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+15	Alex	Alex	PROPN	SP	_	14	nmod	_	_
+16	Sandro	Sandro	PROPN	SP	_	15	flat:name	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	Khedira	Khedira	PROPN	SP	_	9	conj	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	Bonucci	Bonucci	PROPN	SP	_	9	conj	_	_
+21	#JuveEmpoli	#JuveEmpoli	PROPN	SP	_	20	flat:name	_	_
+22	#empolinazione	#empolinazione	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpacesAfter=\n
+

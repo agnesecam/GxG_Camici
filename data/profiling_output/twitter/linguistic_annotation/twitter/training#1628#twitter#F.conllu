@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le nostre lobby sono i cittadini http://www.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	lobby	lobby	NOUN	S	Gender=Fem	6	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	http://www	http://www	NOUN	S	Gender=Masc	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = beppegrillo.it/movimento/parl amentoeuropeo/2016/04/le-nostre-lobby-sono.html … #M5S via @M5S_Europa
+1	beppegrillo.it/movimento/parl	beppegrillo.it/movimento/parl	NOUN	S	Gender=Masc	8	nmod	_	_
+2	amentoeuropeo/2016	amentoeuropeo/2016	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	04	04	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	le-nostre-lobby-sono.html	le-nostre-lobby-sono.html	NOUN	S	Gender=Masc	1	nmod	_	_
+7	…	…	PUNCT	FF	_	8	punct	_	_
+8	#M5S	#M5S	PROPN	SP	_	0	root	_	_
+9	via	via	ADV	B	_	8	advmod	_	_
+10	@M5S_Europa	@M5S_Europa	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

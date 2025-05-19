@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si che può sembrare pretestuoso, ma l'azione del gol parte da un rinvio frettoloso di Butland causato dal pressing di Mario Gomez
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	1	acl:relcl	_	_
+5	pretestuoso	pretestuoso	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	azione	azione	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	gol	gol	NOUN	S	Gender=Masc	9	nmod	_	_
+13	parte	partire	NOUN	S	Gender=Fem|Number=Sing	12	compound	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	rinvio	rinvio	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+17	frettoloso	frettoloso	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	Butland	Butland	PROPN	SP	_	16	nmod	_	_
+20	causato	causare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+21-22	dal	_	_	_	_	_	_	_	_
+21	da	da	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	pressing	pressing	NOUN	S	Gender=Masc	20	obl:agent	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	Mario	Mario	PROPN	SP	_	23	nmod	_	_
+26	Gomez	Gomez	PROPN	SP	_	25	flat:name	_	SpacesAfter=\n
+

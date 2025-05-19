@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stavo frugando in uno scatolone per cercare una cosa che serve ad una mia amica e dentro ci ho trovato un portafogli con 70€
+1	Stavo	stavo	PROPN	SP	_	0	root	_	_
+2	frugando	frugare	VERB	V	VerbForm=Ger	1	advcl	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	scatolone	scatolone	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	cercare	cercare	VERB	V	VerbForm=Inf	2	advcl	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	ad	a	ADP	E	_	15	case	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	amica	amico	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+16	e	e	CCONJ	CC	_	20	cc	_	_
+17	dentro	dentro	ADV	B	_	20	advmod	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	20	expl	_	_
+19	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	portafogli	portafoglio	NOUN	S	Gender=Masc	20	obj	_	_
+23	con	con	ADP	E	_	24	case	_	_
+24	70€	70€	PROPN	SP	_	22	nmod	_	SpacesAfter=\n
+

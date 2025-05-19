@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A 14 anni una studia e va a scuola.
+1	A	a	ADP	E	_	3	case	_	_
+2	14	14	NUM	N	NumType=Card	3	nummod	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	studia	studia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Queste fanno il porcile e stanno più fuori che dentro scuola.
+1	Queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	2	nsubj	_	_
+2	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	porcile	porcile	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	più	più	ADV	B	_	6	advmod	_	_
+8	fuori	fuori	ADV	B	_	6	advmod	_	_
+9	che	che	SCONJ	CS	_	11	advmod	_	_
+10	dentro	dentro	ADP	E	_	11	case	_	_
+11	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

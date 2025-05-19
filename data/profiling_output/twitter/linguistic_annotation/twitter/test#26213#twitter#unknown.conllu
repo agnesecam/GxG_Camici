@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non si finirà mai di esaminare #BayernJuve e ognuno penserà di possedere la verità.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	finirà	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	3	advmod	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	esaminare	esaminare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+7	#	#	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+8	BayernJuve	BayernJuve	PROPN	SP	_	6	obj	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	_
+11	penserà	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	conj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	possedere	possedere	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	verità	verità	NOUN	S	Gender=Fem	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non dimenticherò però quel primo tempo:
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	dimenticherò	dimenticare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	però	però	ADV	B	_	2	advmod	_	_
+4	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+5	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = dunque si può.
+1	dunque	dunque	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	può	potere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

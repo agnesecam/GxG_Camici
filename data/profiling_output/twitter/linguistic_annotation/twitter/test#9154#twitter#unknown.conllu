@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il centrodestra non esiste, il centro nemmeno, il centrosinistra neppure , esiste un partito unico e il M5S che lotta da solo contro tutti
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	centrodestra	centrodestra	NOUN	S	Gender=Masc	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	centro	centro	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+8	nemmeno	nemmeno	ADV	BN	PronType=Neg	14	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	centrosinistra	centrosinistra	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	partito	partito	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+17	unico	unico	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	M5S	M5S	PROPN	SP	_	16	conj	_	_
+21	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+22	lotta	lottare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+23	da	da	ADP	E	_	24	case	_	_
+24	solo	solo	ADV	B	_	26	advmod	_	_
+25	contro	contro	ADP	E	_	26	case	_	_
+26	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	22	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SerglocSergio @fausto_cag benissimo usare le intercettazioni, ma far uscire sui giornali conversazioni private è sbagliato.
+1	@SerglocSergio	@SerglocSergio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	@fausto_cag	@fausto_cag	NOUN	S	Gender=Masc	17	nsubj	_	_
+3	benissimo	bene	ADV	B	Degree=Abs	4	advmod	_	_
+4	usare	usare	VERB	V	VerbForm=Inf	2	acl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	intercettazioni	intercettazione	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	ma	ma	CCONJ	CC	_	9	cc	_	_
+9	far	fare	VERB	V	VerbForm=Inf	2	conj	_	_
+10	uscire	uscire	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11-12	sui	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	giornali	giornale	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+14	conversazioni	conversazione	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+15	private	privato	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+16	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	sbagliato	sbagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	17	punct	_	SpacesAfter=\n
+

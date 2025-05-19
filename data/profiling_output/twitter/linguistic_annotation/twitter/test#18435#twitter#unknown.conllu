@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FedericaMasolin bello il giacchetto!
+1	@FedericaMasolin	@FedericaMasolino	ADV	B	_	2	advmod	_	_
+2	bello	bello	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	giacchetto	giacchetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ne avevi uno di ricambio allora un salutone e un mega abbraccio anche a @davidevalsecchi #BahrainGP
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	avevi	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	ricambio	ricambio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	allora	allora	ADV	B	_	2	advmod	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	salutone	salutone	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mega	mega	NOUN	S	Number=Sing	8	conj	_	_
+12	abbraccio	abbraccio	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	anche	anche	ADV	B	_	16	advmod	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	@davidevalsecchi	@davidevalsecco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	_
+16	#BahrainGP	#BahrainGP	PROPN	SP	_	2	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buona Pasqua a tutti i miei follower, che nel frattempo vedo che hanno superato i 5000, pazzi, auguri e grazie!
+1	Buona	buonare	PROPN	SP	_	0	root	_	_
+2	Pasqua	Pasqua	PROPN	SP	_	1	flat:name	_	_
+3	a	a	ADP	E	_	7	case	_	_
+4	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det:predet	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	follower	follower	NOUN	S	Gender=Masc	1	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	che	che	PRON	PR	PronType=Rel	12	case	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+13	vedo	vedere	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	superato	superare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	5000	5000	NUM	N	NumType=Card	16	obj	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	20	punct	_	_
+20	pazzi	pazzo	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	22	punct	_	_
+22	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	_
+23	e	e	CCONJ	CC	_	24	cc	_	_
+24	grazie	grazie	NOUN	S	_	12	conj	_	SpaceAfter=No
+25	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

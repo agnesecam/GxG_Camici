@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Milano , se vuole avere un futuro, dovrà essere la città della contemporaneità.
+1	#Milano	#Milano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	avere	avere	VERB	V	VerbForm=Inf	1	advcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+10	essere	essere	AUX	V	VerbForm=Inf	12	cop	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	città	città	NOUN	S	Gender=Fem	5	conj	_	_
+13-14	della	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	contemporaneità	contemporaneità	NOUN	S	Gender=Fem	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = linkiesta.it/it/article/201 6/04/02/de-albertis-attrarre-giovani-e-innovare-senza-freni-cosi-le-nostre-cit/29837/ …
+1	linkiesta.it/it/article/201	linkiesta.it/it/article/20l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	6/04/02/de	6/04/02/da	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	SpaceAfter=No
+3	-albertis-attrarre	-albertis-attrarre	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	giovani	giovane	ADJ	A	Number=Plur	3	conj	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	e	e	CCONJ	CC	_	5	cc	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	innovare	innovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	-senza	-senza	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	freni-cosi-le	freni-cosi-le	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+14	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	nmod	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+16	cit/29837	cit/29837	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	_
+18	…	…	PUNCT	FF	_	9	punct	_	SpacesAfter=\n
+

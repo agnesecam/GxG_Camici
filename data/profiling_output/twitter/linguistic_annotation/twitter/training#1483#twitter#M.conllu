@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tildeblonde @micheleemiliano @NoTriv @beppegrillo @matteosalvinimi Astenersi x avere produzioni nostre e meno importazioni e petroliere
+1	@tildeblonde	@tildeblondere	ADP	E	_	2	case	_	_
+2	@micheleemiliano	@micheleemiliano	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+3	@NoTriv	@NoTriv	PROPN	SP	_	2	nmod	_	_
+4	@beppegrillo	@beppegrillo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	@matteosalvinimi	@matteosalvinimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	6	amod	_	_
+6-7	Astenersi	_	_	_	_	_	_	_	_
+6	Astener	Astener	PROPN	SP	_	0	root	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	x	x	SYM	SYM	_	6	flat:name	_	_
+9	avere	avere	VERB	V	VerbForm=Inf	8	advcl	_	_
+10	produzioni	produzione	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	meno	meno	ADV	B	_	14	advmod	_	_
+14	importazioni	importazione	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	petroliere	petroliere	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	SpacesAfter=\n
+

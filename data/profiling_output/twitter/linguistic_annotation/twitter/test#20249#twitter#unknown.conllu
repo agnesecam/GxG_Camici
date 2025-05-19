@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A me fate schifo quando fate video musicali nude dove vi strusciate dovunque e ammiccate alla camera.
+1	A	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+3	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	quando	quando	SCONJ	CS	_	6	mark	_	_
+6	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	video	video	NOUN	S	Gender=Masc	6	obj	_	_
+8	musicali	musicale	ADJ	A	Number=Plur	7	amod	_	_
+9	nude	nudo	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+10	dove	dove	ADV	B	_	12	advmod	_	_
+11	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	12	iobj	_	_
+12	strusciate	strusciare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+13	dovunque	dovunque	SCONJ	CS	_	12	obj	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	ammiccate	ammiccare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	conj	_	_
+16-17	alla	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	camera	camera	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

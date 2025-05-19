@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Freccia rossa per Milano.
+1	Freccia	freccia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	rossa	rossa	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	Milano	Milano	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Danno dei crostini in busta che fanno sembrare i Fonzie frutta fresca… https://www.
+1	Danno	danno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	dei	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	crostini	crostino	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	busta	busta	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	Fonzie	Fonzia	PROPN	SP	_	9	obj	_	_
+12	frutta	frutto	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	fresca…	fresca…	PUNCT	FF	_	11	punct	_	_
+14	https://www	https://www	NOUN	S	_	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDvlhtLSPug/
+1	instagram.com/p/BDvlhtLSPug/	instagram.com/p/BDvlhtLSPug/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

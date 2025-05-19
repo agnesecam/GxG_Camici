@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Siam sempre più deboli nel difendere nostre radici e cultura e ciò x pugno di denaro" @mariogiordano5 #Profugopoli pic.twitter.com/tTJOFFubL1
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Siam	Siam	PROPN	SP	_	0	root	_	_
+3	sempre	sempre	ADV	B	_	4	advmod	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	deboli	debole	ADJ	A	Number=Plur	2	amod	_	_
+6-7	nel	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	difendere	difendere	VERB	V	VerbForm=Inf	2	obl	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	radici	radice	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	cultura	cultura	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	conj	_	_
+15	x	x	SYM	SYM	_	16	nmod	_	_
+16	pugno	pugno	NOUN	S	Gender=Masc|Number=Sing	14	appos	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	denaro	denaro	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	20	punct	_	_
+20	@mariogiordano5	@mariogiordano5	NUM	N	NumType=Card	21	nummod	_	_
+21	#Profugopoli	#Profugopoli	PROPN	SP	_	16	nmod	_	_
+22	pic.twitter.com/tTJOFFubL1	pic.twitter.com/tTJOFFubL1	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

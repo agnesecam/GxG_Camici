@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Fausta1410 Anche qui da me!
+1	@Fausta1410	@Fausta1410	PROPN	SP	_	0	root	_	_
+2	Anche	anche	PROPN	SP	_	1	flat:name	_	_
+3	qui	qui	ADV	B	_	1	advmod	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Magari fossimo a Trieste.
+1	Magari	magari	ADV	B	_	2	advmod	_	_
+2	fossimo	essere	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	Trieste.	Trieste.	PROPN	SP	_	2	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..potremmo vedere @LinoGuanciale al lavoro sul set!:-)
+1	..potremmo	..potere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+3	@LinoGuanciale	@LinoGuanciale	PROPN	SP	_	2	obj	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+7-8	sul	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	set!	set!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

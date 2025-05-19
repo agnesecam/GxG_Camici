@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il documentario "Buonasera, #MobyPrince " prodotto da @TgrSardegna per i 25 anni dalla strage #davedere http://www.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	documentario	documentario	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	Buonasera	Buonasera	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	#MobyPrince	#MobyPrince	PROPN	SP	_	2	appos	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	prodotto	produrre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	@TgrSardegna	@TgrSardegna	PROPN	SP	_	8	obl:agent	_	_
+11	per	per	ADP	E	_	14	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	25	25	NUM	N	NumType=Card	14	nummod	_	_
+14	anni	anno	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+15-16	dalla	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	strage	strage	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+18	#davedere	#davedere	X	X	_	17	compound	_	_
+19	http://www	http://www	X	SW	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = rainews.it/dl/rainews/TGR /basic/PublishingBlock-c9be07a1-4453-4cfd-b296-30d47339bd1a.html … #iosono141
+1	rainews.it/dl/rainews/TGR	rainews.it/dl/rainews/TGR	PROPN	SP	_	0	root	_	_
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	basic/PublishingBlock-c9be07a1-4453	basic/PublishingBlock-c9be07a1-4453	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	-4cfd	-4cfd	NOUN	S	_	3	nmod	_	SpaceAfter=No
+5	-b296-30d47339bd1a.html	-b296-30d47339bd1a.html	NOUN	S	_	4	compound	_	_
+6	…	…	PUNCT	FF	_	1	punct	_	_
+7	#iosono141	#iosono141	NUM	N	NumType=Card	1	nummod	_	SpacesAfter=\n
+

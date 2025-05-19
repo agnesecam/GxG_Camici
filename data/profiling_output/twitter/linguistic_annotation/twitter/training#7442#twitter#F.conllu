@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bisognerebbe conoscere i propri limiti e non mai andare #al_di_la di essi . #leLocPrep #avverbi
+1	Bisognerebbe	bisognare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	conoscere	conoscere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	propri	proprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	mai	mai	ADV	B	_	9	advmod	_	_
+9	andare	andare	VERB	V	VerbForm=Inf	1	conj	_	_
+10	#al_di_la	#al_di_la	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
+13	.	.	PUNCT	FS	_	1	punct	_	_
+14	#leLocPrep	#leLocPrep	PROPN	SP	_	1	appos	_	_
+15	#	#	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	avverbi	avverbo	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	SpacesAfter=\n
+

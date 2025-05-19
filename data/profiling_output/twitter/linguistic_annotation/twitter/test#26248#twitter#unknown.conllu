@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Francesco, singolare amante delle realtà celesti, finché visse quaggiù non volle mai possedere nulla di proprio,... http:// fb.me/QIexzrMh
+1	Francesco	Francesco	PROPN	SP	_	14	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	singolare	singolare	ADJ	A	Number=Sing	4	amod	_	_
+4	amante	amante	NOUN	S	Number=Sing	1	nmod	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	realtà	realtà	NOUN	S	Gender=Fem	1	nmod	_	_
+8	celesti	celesto	ADJ	A	Number=Plur	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	finché	finché	SCONJ	CS	_	11	mark	_	_
+11	visse	vivere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	advcl	_	_
+12	quaggiù	quaggiù	ADV	B	_	11	advmod	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	volle	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	mai	mai	ADV	B	_	14	advmod	_	_
+16	possedere	possedere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	16	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	proprio,...	proprio,...	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/QIexzrMh	fb.me/QIexzrMh	PROPN	SP	_	14	obj	_	SpacesAfter=\n
+

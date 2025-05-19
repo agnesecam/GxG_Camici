@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CleliaMussari riprova di qnt neanche immagina come egli stesso è sempre stato percepito tipico dei potenti oltre che di credersi eterni
+1	@CleliaMussari	@CleliaMussari	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	riprova	riprovare	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	qnt	qnt	NOUN	S	Gender=Masc	2	nmod	_	_
+5	neanche	neanche	ADV	BN	PronType=Neg	6	advmod	_	_
+6	immagina	immaginare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	come	come	ADP	E	_	8	case	_	_
+8	egli	ello	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+9	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	sempre	sempre	ADV	B	_	13	advmod	_	_
+12	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	aux:pass	_	_
+13	percepito	percepire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	xcomp	_	_
+14	tipico	tipico	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+15-16	dei	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	potenti	potente	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+18	oltre	oltre	ADV	B	_	21	mark	_	_
+19	che	che	SCONJ	CS	_	18	fixed	_	_
+20	di	di	ADP	E	_	21	mark	_	_
+21-22	credersi	_	_	_	_	_	_	_	_
+21	creder	credere	VERB	V	VerbForm=Inf	13	advcl	_	_
+22	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	_
+23	eterni	eterno	ADJ	A	Gender=Masc|Number=Plur	21	xcomp	_	SpacesAfter=\n
+

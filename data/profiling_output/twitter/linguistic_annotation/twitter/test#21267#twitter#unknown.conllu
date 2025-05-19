@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DavideMacellaro @FabriFibra Putroppo l'autenticità che ci mette Fibra e qualche raro caso non gliela mettono tutti...
+1	@DavideMacellaro	@DavideMacellaro	PROPN	SP	_	0	root	_	_
+2	@FabriFibra	@FabriFibrare	PROPN	SP	_	1	flat:name	_	_
+3	Putroppo	Putroppo	PROPN	SP	_	1	flat:name	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	autenticità	autenticità	NOUN	S	Gender=Fem	1	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
+8	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	Fibra	fibra	PROPN	SP	_	17	obj	_	_
+10	e	e	CCONJ	CC	_	17	cc	_	_
+11	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+12	raro	raro	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	caso	caso	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+15-16	gliela	_	_	_	_	_	_	_	_
+15	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+16	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	mettono	mettono	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+18	tutti...	tutti.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

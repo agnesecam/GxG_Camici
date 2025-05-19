@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Corriere Bonolis è divertente, si circonda di idioti per sembrare intelligente
+1	@Corriere	@Corriere	PROPN	SP	_	4	nsubj	_	_
+2	Bonolis	Bonolis	PROPN	SP	_	1	flat:name	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	divertente	divertente	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	circonda	circondare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	idioti	idiota	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	7	advcl	_	_
+12	intelligente	intelligente	ADJ	A	Number=Sing	11	xcomp	_	SpacesAfter=\n
+

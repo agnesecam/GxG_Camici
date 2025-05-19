@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jawaadseyes se ne hai la possibilità magari prova a seguire qualche lezione, magari fai chiarezza!
+1	@jawaadseyes	@jawaadseyes	PROPN	SW	Foreign=Yes	4	nsubj	_	_
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	possibilità	possibilità	NOUN	S	Gender=Fem	4	obj	_	_
+7	magari	magare	ADV	B	_	8	advmod	_	_
+8	prova	provare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	seguire	seguire	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	12	det	_	_
+12	lezione	lezione	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	magari	magari	ADV	B	_	15	advmod	_	_
+15	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+16	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Comunque ce la farai dai, buona fortuna
+1	Comunque	comunque	ADV	B	_	4	advmod	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+5-6	dai	_	_	_	_	_	_	_	SpaceAfter=No
+5	da	da	ADP	E	_	9	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	buona	buono	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpacesAfter=\n
+

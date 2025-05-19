@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A una certa età sperare costa grande fatica, non si ritrova più la fede di quando si aveva venti anni.
+1	A	a	ADP	E	_	4	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	certa	certo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	età	età	NOUN	S	Gender=Fem	6	obl	_	_
+5	sperare	sperare	ADJ	A	Number=Sing	4	amod	_	_
+6	costa	costare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	grande	grande	ADJ	A	Number=Sing	8	amod	_	_
+8	fatica	fatica	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+12	ritrova	ritrovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	più	più	ADV	B	_	12	advmod	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	fede	fede	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+16	di	di	ADP	E	_	19	mark	_	_
+17	quando	quando	SCONJ	CS	_	16	fixed	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl:impers	_	_
+19	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	_
+20	venti	venti	NUM	N	NumType=Card	21	nummod	_	_
+21	anni	anno	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #Buzzati pic.twitter.com/XPSRaxBfVk
+1	#Buzzati	#Buzzare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	pic.twitter.com/XPSRaxBfVk	pic.twitter.com/XPSRaxBfVk	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

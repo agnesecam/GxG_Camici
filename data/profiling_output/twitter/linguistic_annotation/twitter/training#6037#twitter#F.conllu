@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se non fossimo sulla tv delle belle storie di Renzi, il monologo sul #bullismo si sarebbe concluso con un volo dalla finestra #LauraePaola
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	fossimo	essere	ADJ	A	Gender=Masc|Number=Sing	21	advcl	_	_
+4-5	sulla	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tv	televisione	NOUN	S	Gender=Fem	3	obl	_	_
+7-8	delle	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	belle	bello	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+10	storie	storia	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Renzi	Renzi	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	monologo	monologo	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	_
+16-17	sul	_	_	_	_	_	_	_	_
+16	su	su	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	#bullismo	#bullismo	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	_
+20	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	concluso	concludere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	29	acl	_	_
+22	con	con	ADP	E	_	24	case	_	_
+23	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	volo	volo	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
+25-26	dalla	_	_	_	_	_	_	_	_
+25	da	da	ADP	E	_	27	case	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	finestra	finestra	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+28	#	#	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+29	LauraePaola	LauraePaola	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

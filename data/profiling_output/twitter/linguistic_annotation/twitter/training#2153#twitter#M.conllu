@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @leonessadocg @francang1950
+1	@leonessadocg	@leonessadocg	NOUN	S	Gender=Masc	0	root	_	_
+2	@francang1950	@francang1950	NUM	N	NumType=Card	1	nummod	_	_
+
+# sent_id = 2
+# text = Il rancore fa danni dentro , le parole cattive fuori.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	rancore	rancora	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	danni	danno	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5	dentro	dentro	ADV	B	_	3	advmod	_	_
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	parole	parola	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+9	cattive	cattivo	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+10	fuori	fuori	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Un sorriso ci eleva un filo sopra la cecità imperante
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	eleva	elevare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	filo	filo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	sopra	sopra	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cecità	cecità	NOUN	S	Gender=Fem	6	nmod	_	_
+10	imperante	imperante	ADJ	A	Number=Sing	9	amod	_	SpacesAfter=\n
+

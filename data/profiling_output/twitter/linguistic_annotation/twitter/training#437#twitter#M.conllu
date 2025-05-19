@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che poi danno i compiti per le "vacanze" che durano 3 giorni non considerando i festivi...
+1	Che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+2	poi	poi	ADV	B	_	3	advmod	_	_
+3	danno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	compiti	compito	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	per	per	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	vacanze	vacanza	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	12	punct	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	durano	durare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+13	3	3	NUM	N	NumType=Card	14	nummod	_	_
+14	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	considerando	considerare	VERB	V	VerbForm=Ger	3	advcl	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	festivi...	festivi...	NOUN	S	_	16	obj	_	_
+
+# sent_id = 2
+# text = come se avessimo un mese per farli
+1	come	come	ADV	B	_	3	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mese	mese	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7-8	farli	_	_	_	_	_	_	_	SpacesAfter=\n
+7	far	fare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	li	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+

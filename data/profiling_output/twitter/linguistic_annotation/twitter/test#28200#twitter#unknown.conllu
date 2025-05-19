@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il bello è che noi Ziam shippers riceviamo insulti soprattutto dalle Larries.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bello	bello	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+6	Ziam	Ziam	PROPN	SP	_	5	nmod	_	_
+7	shippers	shippers	PROPN	SW	Foreign=Yes	6	flat:name	_	_
+8	riceviamo	ricevere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	insulti	insulto	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	soprattutto	soprattutto	ADV	B	_	13	advmod	_	_
+11-12	dalle	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	Larries	Larries	PROPN	SP	_	8	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Che si curino un po', si facciano - https:// twitter.com/xcalumthekiwix /status/711664879594295296 …
+1	Che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	curino	curare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po'	poco	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+8	facciano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	-	-	PUNCT	FF	_	8	punct	_	_
+10	https:	https:	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	_
+13	twitter.com/xcalumthekiwix	twitter.com/xcalumthekiwix	SYM	SYM	_	8	conj	_	_
+14	/status/711664879594295296	/status/711664879594295296	SYM	X	_	8	obj	_	_
+15	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

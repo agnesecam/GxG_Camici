@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Con Cinzia ci scambiamo pareidolie, come se fossimo sullo stesso scoglio a pescare nuvole.
+1	Con	con	ADP	E	_	2	case	_	_
+2	Cinzia	Cinzia	PROPN	SP	_	4	obl	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	scambiamo	scambiare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	pareidolie	pareidolia	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	come	come	ADV	B	_	13	advmod	_	_
+8	se	se	SCONJ	CS	_	13	mark	_	_
+9	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+10-11	sullo	_	_	_	_	_	_	_	_
+10	su	su	ADP	E	_	13	case	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	scoglio	scoglio	NOUN	S	Gender=Masc|Number=Sing	5	advcl	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	pescare	pescare	VERB	V	VerbForm=Inf	13	acl	_	_
+16	nuvole	nuvola	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

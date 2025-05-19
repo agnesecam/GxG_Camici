@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @carlosibilia @luigidimaio Salva Banche?
+1	@carlosibilia	@carlosibilia	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	Salva	salva	PROPN	SP	_	2	nmod	_	_
+4	Banche	banche	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Salvano i briganti e ostacolano le proposte che farebbero chiarezza e introdurrebbero correttezza.
+1	Salvano	salvare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	briganti	brigante	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	ostacolano	ostacolare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	introdurrebbero	introdurre	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+13	correttezza	correttezza	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

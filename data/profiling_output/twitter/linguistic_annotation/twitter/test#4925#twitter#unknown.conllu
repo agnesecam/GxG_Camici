@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'8 aprile 1994, il corpo di Kurt Donald Cobain fu trovato da Gary Smith,nella serra presso il garage nella sua... http:// fb.me/4gIX4c5et
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	8	8	NUM	N	NumType=Card	7	nmod	_	_
+3	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4	1994	1994	NUM	N	NumType=Card	2	flat	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	corpo	corpo	NOUN	S	Gender=Masc|Number=Sing	13	nsubj:pass	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Kurt	Kurt	PROPN	SP	_	7	nmod	_	_
+10	Donald	Donald	PROPN	SP	_	9	flat:name	_	_
+11	Cobain	Cobain	PROPN	SP	_	9	flat:name	_	_
+12	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
+13	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	Gary	Gary	PROPN	SP	_	13	obl	_	_
+16	Smith,nella	Smith,nella	PROPN	SP	_	15	flat:name	_	_
+17	serra	serra	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+18	presso	presso	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	garage	garage	NOUN	S	Gender=Masc	15	nmod	_	_
+21-22	nella	_	_	_	_	_	_	_	_
+21	in	in	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	sua...	sua...	NOUN	S	_	20	nmod	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	fb.me/4gIX4c5et	fb.me/4gIX4c5et	PROPN	SP	_	13	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi Mia madre, 86 anni, da uno e mezzo in casa di riposo, dovrà pagare il canone #Rai .
+1	@matteorenzi	@matteorenzi	ADP	E	_	2	case	_	_
+2	Mia	mio	PROPN	SP	_	18	obl	_	_
+3	madre	madre	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	86	86	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	mezzo	mezzo	ADJ	A	Gender=Masc|Number=Sing	9	conj	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	casa	casa	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	2	punct	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	canone	canone	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+21	#Rai	#Rai	PROPN	SP	_	20	nmod	_	_
+22	.	.	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 2
+# text = Mi piacerebbe immaginare un'Italia diversa.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	piacerebbe	piacere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	immaginare	immaginare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	Italia	Italia	PROPN	SP	_	3	obj	_	_
+6	diversa	diverso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,62 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A chi dai più ascolto?
+1	A	a	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PQ	PronType=Int	0	root	_	_
+3-4	dai	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	ascolto	ascolto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Al diavoletto o all'angioletto?
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	diavoletto	diavoletto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	o	o	CCONJ	CC	_	7	cc	_	_
+5-6	all'	_	_	_	_	_	_	_	SpaceAfter=No
+5	a	a	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	angioletto	angioletto	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = — Al Satanello che vive dentro di me :D https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM3CACRPQ7SLRODK5RB3V3NYNUSJ3JO6I
+1	—	—	PUNCT	FF	_	10	punct	_	_
+2-3	Al	_	_	_	_	_	_	_	_
+2	A	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Satanello	Satanello	PROPN	SP	_	10	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+7	dentro	dentro	ADV	B	_	6	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	obl	_	_
+10	:D	:D	PROPN	SP	_	0	root	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	10	nmod	_	_
+15	7B667HQMHN2IG6NM3CACRPQ7SLRODK5RB3V3NYNUSJ3JO6I	7B667HQMHN2IG6NM3CACRPQ7SLRODK5RB3V3NYNUSJ3JO6I	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+
+# sent_id = 4
+# text = 6
+1	6	6	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = OEEI
+1	OEEI	OEEI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = 6FTQCSVP2FIGINVT2UKZRN33OKXSP
+1	6FTQCSVP2FIGINVT2UKZRN33OKXSP	6FTQCSVP2FIGINVT2UKZRN33OKXSP	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 7
+# text = TZ25LRHXYAAPASYL53CCL7ED2MCQ27XQWVMFVTTSWQZSHSLZLLHDHMEIHIR4WDOZ7HHT7ENYDIV3YJZRSWKE6OLDJPGHRPW3ANODW6UTQRL2MS7UVINXADNGVQQM=== …
+1	TZ25LRHXYAAPASYL53CCL7ED2MCQ27XQWVMFVTTSWQZSHSLZLLHDHMEIHIR4WDOZ7HHT7ENYDIV3YJZRSWKE6OLDJPGHRPW3ANODW6UTQRL2MS7UVINXADNGVQQM===	TZ25LRHXYAAPASYL53CCL7ED2MCQ27XQWVMFVTTSWQZSHSLZLLHDHMEIHIR4WDOZ7HHT7ENYDIV3YJZRSWKE6OLDJPGHRPW3ANODW6UTQRL2MS7UVINXADNGVQQM===	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

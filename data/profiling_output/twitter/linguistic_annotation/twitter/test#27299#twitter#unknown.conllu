@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ahimè studio polacco!!
+1	Ahimè	ahimè	INTJ	I	_	2	discourse	_	_
+2	studio	studio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	polacco	polacco	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = :) @NikitaGuardini @Maper6 @ParoleIncartate @GiuliaCiarapix @glolibri1 @CircoloLettori @andreagiani7 @KRKCityofLit
+1	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	_
+3	@NikitaGuardini	@NikitaGuardini	PROPN	SP	_	0	root	_	_
+4	@Maper6	@Maper6	PROPN	SP	_	8	nmod	_	_
+5	@ParoleIncartate	@ParoleIncartate	PROPN	SP	_	4	flat:name	_	_
+6	@GiuliaCiarapix	@GiuliaCiarapix	PROPN	SP	_	4	flat:name	_	_
+7	@glolibri1	@glolibri1	NUM	N	NumType=Card	8	nummod	_	_
+8	@CircoloLettori	@CircoloLettore	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+9	@andreagiani7	@andreagiani7	NUM	N	NumType=Card	8	nummod	_	_
+10	@KRKCityofLit	@KRKCityofLit	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

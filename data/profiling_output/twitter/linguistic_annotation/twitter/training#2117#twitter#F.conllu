@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @saraepunto @LaMerlettaia bellssime.
+1	@saraepunto	@saraepunto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@LaMerlettaia	@LaMerlettaia	PROPN	SP	_	1	nmod	_	_
+3	bellssime.	bellssime.	NOUN	S	_	1	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..buina Domenica belle ( dentro prima che fuori) Signore!
+1	..buina	..buina	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	belle	bello	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	dentro	dentro	ADV	B	_	2	advmod	_	_
+6	prima	prima	ADV	B	_	9	cc	_	_
+7	che	che	SCONJ	CS	_	6	fixed	_	_
+8	fuori	fuori	ADV	B	_	6	fixed	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	5	punct	_	_
+10	Signore	signore	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

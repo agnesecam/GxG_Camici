@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = comunicare noi stessi come se fossimo un #PuntoDiArrivo !
+1	comunicare	comunicare	VERB	V	VerbForm=Inf	0	root	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	obj	_	_
+3	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4	come	come	ADV	B	_	8	advmod	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	#PuntoDiArrivo	#PuntoDiArrivo	PROPN	SP	_	1	advcl	_	_
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #TwittamiTutto #SMMdayIT @smmdayit @FlashAndrea pic.twitter.com/M1m3Kr7keQ
+1	#TwittamiTutto	#TwittamiTutto	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	#SMMdayIT	#SMMdayIT	PROPN	SP	_	0	root	_	_
+3	@smmdayit	@smmdayit	SYM	X	_	2	flat:name	_	_
+4	@FlashAndrea	@FlashAndrea	PROPN	SP	_	2	flat:name	_	_
+5	pic.twitter.com/M1m3Kr7keQ	pic.twitter.com/M1m3Kr7keQ	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

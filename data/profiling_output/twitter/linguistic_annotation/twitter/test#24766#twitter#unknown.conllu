@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marcosalvati quindi se ti dicessi che non mi farebbero schifo 1.000.000 € li trovo magicamente sul conto!
+1	@marcosalvati	@marcosalvare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	quindi	quindi	ADV	B	_	5	advmod	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	expl	_	_
+5	dicessi	dicettere	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+10	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11	1.000.000	1.000.000	NUM	N	NumType=Card	10	nummod	_	_
+12	€	€	SYM	SYM	_	10	nmod	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	trovo	trovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	magicamente	magico	ADV	B	_	14	advmod	_	_
+16-17	sul	_	_	_	_	_	_	_	_
+16	su	su	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	conto	conto	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

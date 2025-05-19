@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo è l'orario post pranzo domenicale in cui non mi alzo nemmeno se viene giù la casa
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	orario	orario	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	post	post	ADJ	A	_	6	amod	_	_
+6	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	domenicale	domenicale	ADJ	A	Number=Sing	6	amod	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	cui	cui	PRON	PR	PronType=Rel	12	obl	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+12	alzo	alzare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+13	nemmeno	nemmeno	ADV	BN	PronType=Neg	12	advmod	_	_
+14	se	se	SCONJ	CS	_	15	mark	_	_
+15	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+16	giù	giù	ADV	B	_	15	advmod	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	casa	casa	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	SpacesAfter=\n
+

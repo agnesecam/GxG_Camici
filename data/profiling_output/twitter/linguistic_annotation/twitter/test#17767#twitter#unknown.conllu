@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #movipastor #Pantelleria 'La storia dei viaggi di migranti di oggi è la stessa di quella che i nostri italiani fecero decenni addietro'.
+1	#movipastor	#movipastor	NOUN	S	Gender=Masc	16	nsubj	_	_
+2	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	Pantelleria	Pantelleria	PROPN	SP	_	1	nmod	_	_
+4	'	'	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	storia	storia	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+7-8	dei	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	viaggi	viaggio	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	migranti	migrante	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	oggi	oggi	ADV	B	_	6	advmod	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	stessa	stesso	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	16	nmod	_	_
+19	che	che	PRON	PR	PronType=Rel	23	obj	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	23	nsubj	_	_
+23	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
+24	decenni	decennio	NOUN	S	Gender=Masc|Number=Plur	23	obl	_	_
+25	addietro	addietro	ADV	B	_	24	advmod	_	SpaceAfter=No
+26	'	'	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	16	punct	_	SpacesAfter=\n
+

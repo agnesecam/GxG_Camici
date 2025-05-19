@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @539th scusi ma da dove crede siano passati i terroristi che hanno attaccato Parigi?
+1	@539th	@539th	NOUN	S	Gender=Masc	0	root	_	_
+2	scusi	scuso	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	ma	ma	CCONJ	CC	_	6	cc	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	dove	dove	ADV	B	_	6	advmod	_	_
+6	crede	crede	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	passati	passare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	ccomp	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	terroristi	terrorista	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	attaccato	attaccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+14	Parigi	Parigi	PROPN	SP	_	13	obj	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Se le frontiere fossero chiuse a avessimo più sicurezza
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	frontiere	frontiera	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+4	fossero	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	chiuse	chiudere	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	sicurezza	sicurezzo	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpacesAfter=\n
+

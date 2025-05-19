@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vuoi farti un giro dentro la mia vita bruciarti le dita io che voglio fare un giro sul tuo girovita
+1	Vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	farti	fartire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	giro	giro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	dentro	dentro	ADV	B	_	8	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+9-10	bruciarti	_	_	_	_	_	_	_	_
+9	bruciar	bruciare	VERB	V	VerbForm=Inf	2	advcl	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	dita	dito	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	13	acl:relcl	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	giro	giro	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19-20	sul	_	_	_	_	_	_	_	_
+19	su	su	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	tuo	tuo	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	nmod	_	_
+22	girovita	girovita	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

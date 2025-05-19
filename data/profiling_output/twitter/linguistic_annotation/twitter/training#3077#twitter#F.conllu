@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sto guardando un talent show degli USA e mi chiedo come facciano gli americani a sembrare così scemi
+1	Sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	guardando	guardare	VERB	V	VerbForm=Ger	19	advcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	talent	talent	NOUN	S	_	2	obj	_	_
+5	show	show	NOUN	S	Gender=Masc	4	compound	_	_
+6-7	degli	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	USA	USA	PROPN	SP	_	4	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	come	come	SCONJ	CS	_	13	mark	_	_
+13	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	americani	americano	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	sembrare	sembrare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+18	così	così	ADV	B	_	17	advmod	_	_
+19	scemi	scema	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

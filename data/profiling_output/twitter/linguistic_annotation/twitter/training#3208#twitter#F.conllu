@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @KCarnasciali Vorrebbero sembrare così, o almeno #Casaleggio tramite #DiMaio e #Raggi vuole dare una bella svolta di centro destra serio_so.
+1	@KCarnasciali	@KCarnasciale	ADJ	A	Number=Plur	2	amod	_	_
+2	Vorrebbero	vorere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	così	così	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	o	o	CCONJ	CC	_	9	cc	_	_
+7	almeno	almeno	ADV	B	_	9	advmod	_	_
+8	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	Casaleggio	Casaleggio	PROPN	SP	_	3	conj	_	_
+10	tramite	tramite	ADP	E	_	12	case	_	_
+11	#	#	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	DiMaio	DiMaio	PROPN	SP	_	17	obl	_	_
+13	e	e	CCONJ	CC	_	17	cc	_	_
+14	#	#	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+15	Raggi	raggi	PROPN	SP	_	17	nsubj	_	_
+16	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	dare	dare	VERB	V	VerbForm=Inf	3	conj	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	bella	bello	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+20	svolta	svolta	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	centro	centro	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+23	destra	destra	NOUN	S	Gender=Fem|Number=Sing	22	compound	_	_
+24	serio_so	serio_so	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

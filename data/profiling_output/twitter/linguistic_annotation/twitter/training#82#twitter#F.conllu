@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = http://www.
+1	http://www.	http://www.	NOUN	S	_	0	root	_	_
+
+# sent_id = 2
+# text = youtube.com/watch?v=9B4nbs TdMGg&sns=tw … via @youtube perchè sto guardando i video diaries a 00:16?
+1	youtube.com/watch?v=9B4nbs	youtube.com/watch?v=9B4nbs	PROPN	SP	_	0	root	_	_
+2	TdMGg&sns=tw	TdMGg&sns=tw	PROPN	SP	_	1	flat:name	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	via	via	ADV	B	_	5	advmod	_	_
+5	@youtube	@youtube	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+6	perchè	poiperché	SCONJ	CS	_	8	mark	_	_
+7	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	guardando	guardare	VERB	V	VerbForm=Ger	5	advcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	video	video	NOUN	S	Gender=Masc	8	obj	_	_
+11	diaries	diaries	ADP	E	_	13	case	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	00:16	00:16	SYM	X	_	10	nmod	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

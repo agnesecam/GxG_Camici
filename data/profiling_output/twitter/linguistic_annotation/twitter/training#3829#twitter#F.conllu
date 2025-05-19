@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fabiolanciani
+1	@fabiolanciani	@fabiolanciano	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = Non si può ridurre una ferita a un singolo colpo...
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:pass	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	ridurre	ridurre	VERB	V	VerbForm=Inf	0	root	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	ferita	ferita	NOUN	S	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+7	a	a	ADP	E	_	10	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	singolo	singolo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	colpo...	colpo...	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+
+# sent_id = 3
+# text = cio che ci ferisce é cumulativo.
+1	cio	cio	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	obj	_	_
+4	ferisce	feriscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	cumulativo	cumulativo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ..assorbiamo colpo dopo colpo
+1	..assorbiamo	..assorbare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	colpo	colpo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+3	dopo	dopo	ADP	E	_	4	case	_	_
+4	colpo	colpo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpacesAfter=\n
+

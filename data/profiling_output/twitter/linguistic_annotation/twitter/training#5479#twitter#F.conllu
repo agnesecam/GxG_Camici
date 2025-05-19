@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non credo ci siano differenze visibili tra me e Il'ja Il'ič, ma se ne trovate qualcuna fatemelo… https://www.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	siano	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+6	visibili	visibile	ADJ	A	Number=Plur	5	amod	_	_
+7	tra	tra	ADP	E	_	8	case	_	_
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	Il'	iIl	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	ja	jare	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	_
+12	Il'	Ilo	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+13	ič	ič	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	18	punct	_	_
+15	ma	ma	CCONJ	CC	_	18	cc	_	_
+16	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+17	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	18	iobj	_	_
+18	trovate	trovare	VERB	A	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+19	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
+20	fatemelo…	fatemelo…	PUNCT	FF	_	21	punct	_	_
+21	https://www	https://www	NOUN	S	_	18	nsubj:pass	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDQqeYHrd7O/
+1	instagram.com/p/BDQqeYHrd7O/	instagram.com/p/BDQqeYHrd7O/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = IN DIRETTA su #Periscope : qualcuna per privata https://www.
+1	IN	in	ADP	E	_	2	case	_	_
+2	DIRETTA	diretta	PROPN	SP	_	0	root	_	_
+3	su	su	ADP	E	_	4	case	_	_
+4	#Periscope	#Periscope	PROPN	SP	_	6	nmod	_	_
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nmod	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	privata	privato	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	https://www	https://www	NOUN	S	_	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = pscp.tv/w/accz1zE0NTE0 OTI1fDF5bkpPWFh2ZERBeFJghbzT7qBXVCQitzILEoKhoPRxT1IsEzUIkwziHna7Tg== …
+1	pscp.tv/w/accz1zE0NTE0	pscp.tv/w/accz1zE0NTE0	PROPN	SP	_	0	root	_	_
+2	OTI1fDF5bkpPWFh2ZERBeFJghbzT7qBXVCQitzILEoKhoPRxT1IsEzUIkwziHna7Tg==	OTI1fDF5bkpPWFh2ZERBeFJghbzT7qBXVCQitzILEoKhoPRxT1IsEzUIkwziHna7Tg==	PROPN	SP	_	1	flat:name	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

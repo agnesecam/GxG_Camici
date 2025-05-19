@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GaiaGaiab4444 scusate, ma ieri sera me facevate tutti una tristezza infernale coi vostri Amici e Ballando con le stelle.
+1	@GaiaGaiab4444	@GaiaGaiab4444	NUM	N	NumType=Card	2	nummod	_	_
+2	scusate	scusare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	8	punct	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	ieri	ieri	ADV	B	_	8	advmod	_	_
+6	sera	sera	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+7	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	facevate	facevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	obj	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	tristezza	tristezza	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+12	infernale	infernale	ADJ	A	Number=Sing	11	amod	_	_
+13-14	coi	_	_	_	_	_	_	_	_
+13	con	con	ADP	E	_	16	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	vostri	vostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	Amici	Amici	PROPN	SP	_	2	obl	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	Ballando	Ballando	PROPN	SP	_	16	conj	_	_
+19	con	con	ADP	E	_	21	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

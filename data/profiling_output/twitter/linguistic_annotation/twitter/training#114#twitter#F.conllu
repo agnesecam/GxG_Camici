@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Come quando, invece di dormire, ti continui a chiedere perché sia andata così.” - (via... https:// tmblr.co/ZvTG5j24pFX1V
+1	“	“	PUNCT	FB	_	25	punct	_	SpaceAfter=No
+2	Come	come	ADP	E	_	25	case	_	_
+3	quando	quando	SCONJ	CS	_	10	mark	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	10	punct	_	_
+5	invece	invece	ADV	B	_	7	mark	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	dormire	dormire	VERB	V	VerbForm=Inf	10	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+10	continui	continuare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	chiedere	chiedere	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	perché	perché	SCONJ	CS	_	15	mark	_	_
+14	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	ccomp	_	_
+16	così	così	ADV	B	_	15	advmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	15	punct	_	SpaceAfter=No
+18	”	”	PUNCT	FB	_	10	punct	_	_
+19	-	-	PUNCT	FF	_	21	punct	_	_
+20	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+21	via...	via...	PUNCT	FS	_	10	punct	_	_
+22	https:	https:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	tmblr.co/ZvTG5j24pFX1V	tmblr.co/ZvTG5j24pFX1V	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

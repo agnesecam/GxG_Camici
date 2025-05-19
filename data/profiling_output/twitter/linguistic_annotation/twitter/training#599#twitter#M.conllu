@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @73deva73 @marturano51sm @Libero_official quelle che se avessimo governi decenti verrebbero oscurate.
+1	@73deva73	@73deva73	NUM	N	NumType=Card	2	nummod	_	_
+2	@marturano51sm	@marturano51sm	NOUN	S	Gender=Masc	0	root	_	_
+3	@Libero_official	@Libero_official	PROPN	SP	_	2	nmod	_	_
+4	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	2	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+8	governi	governo	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+9	decenti	decente	ADJ	A	Number=Plur	8	amod	_	_
+10	verrebbero	verere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	oscurate	oscurare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

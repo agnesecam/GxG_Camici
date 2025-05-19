@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Solo il Vero Napoletano metterà Mi Piace per il Nostro Napoli e non si farà chiamare mai jumerdino sù sù sfondate... http:// fb.me/3LSdoJ6mW
+1	Solo	solo	ADV	B	_	3	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Vero	vero	PROPN	SP	_	5	nsubj	_	_
+4	Napoletano	napoletano	PROPN	SP	_	3	flat:name	_	_
+5	metterà	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	Mi	mi	PROPN	SP	_	5	obj	_	_
+7	Piace	piace	PROPN	SP	_	6	flat:name	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Nostro	nostro	PROPN	SP	_	5	obl	_	_
+11	Napoli	Napoli	PROPN	SP	_	10	nmod	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	_
+16	chiamare	chiamare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+17	mai	mai	ADV	B	_	16	advmod	_	_
+18	jumerdino	jumerdare	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+19	sù	sù	ADP	E	_	21	case	_	_
+20	sù	sù	DET	DI	PronType=Ind	21	det	_	_
+21	sfondate...	sfondate.	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/3LSdoJ6mW	fb.me/3LSdoJ6mW	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

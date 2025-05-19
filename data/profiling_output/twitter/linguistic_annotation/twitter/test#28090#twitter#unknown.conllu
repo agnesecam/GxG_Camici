@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A volte mi chiedo come facciano i finti "cantautori" italiani ad avere tutta quella ispirazione.
+1	A	a	ADP	E	_	2	case	_	_
+2	volte	volte	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	come	come	SCONJ	CS	_	6	mark	_	_
+6	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	finti	finto	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+9	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	cantautori	cantautore	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	10	punct	_	_
+12	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+13	ad	a	ADP	E	_	14	mark	_	_
+14	avere	avere	VERB	V	VerbForm=Inf	12	advcl	_	_
+15	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	17	det:predet	_	_
+16	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	_
+17	ispirazione	ispirazione	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Poi mi ricordo che mi fanno schifo
+1	Poi	poi	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpacesAfter=\n
+

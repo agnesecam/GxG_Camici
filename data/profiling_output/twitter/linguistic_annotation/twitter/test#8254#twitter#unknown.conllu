@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Chiacchio legale #Catania :"il Catania ha dunque pagato in misura sproporzionata qualcosa non commesso" #TreniDelGol ( @Istinto_RA )
+1	#Chiacchio	#Chiacchio	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+2	legale	legale	ADJ	A	Number=Sing	1	amod	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	Catania	Catania	PROPN	SP	_	1	nmod	_	_
+5	:"	:"	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Catania	Catania	PROPN	SP	_	10	nsubj	_	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	dunque	dunque	ADV	B	_	10	advmod	_	_
+10	pagato	pagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	misura	misura	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	sproporzionata	sproporzionato	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	10	obj	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	commesso	commettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl:relcl	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	18	punct	_	_
+18	#TreniDelGol	#TreniDelGol	PROPN	SP	_	16	nsubj:pass	_	_
+19	(	(	PUNCT	FB	_	20	punct	_	_
+20	@Istinto_RA	@Istinto_RA	PROPN	SP	_	18	nmod	_	_
+21	)	)	PUNCT	FB	_	10	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LittlePrinceCm8 Claudio sovraccarico o stiramento e quindi stara ' fuori 1 mese?
+1	@LittlePrinceCm8	@LittlePrinceCm8	PROPN	SP	_	0	root	_	_
+2	Claudio	Claudio	PROPN	SP	_	1	flat:name	_	_
+3	sovraccarico	sovraccarico	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	stiramento	stiramento	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+6	e	e	CCONJ	CC	_	12	cc	_	_
+7	quindi	quindi	ADV	B	_	12	advmod	_	_
+8	stara	staro	ADP	E	_	12	case	_	_
+9	'	'	PUNCT	FB	_	11	punct	_	_
+10	fuori	fuori	ADV	B	_	11	advmod	_	_
+11	1	1	NUM	N	NumType=Card	12	nummod	_	_
+12	mese	mese	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

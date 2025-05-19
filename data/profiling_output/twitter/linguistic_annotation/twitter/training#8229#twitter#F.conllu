@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ballandoconlestelle dunque ... ballare su tacchi da 15 cm... volete qualche cavoli rotta?
+1	#ballandoconlestelle	#ballandoconlestella	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	...	...	PUNCT	FF	_	4	punct	_	_
+4	ballare	ballare	VERB	V	VerbForm=Inf	1	acl	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	tacchi	tacco	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	15	15	NUM	N	NumType=Card	9	nummod	_	_
+9	cm...	cm...	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+12	cavoli	cavolo	ADJ	A	Number=Plur	13	amod	_	_
+13	rotta	rotto	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
+

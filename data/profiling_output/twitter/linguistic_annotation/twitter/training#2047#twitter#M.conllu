@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VIDEO – Il meglio del meglio di Maradona, scelto e selezionato dallo stesso Maradona http:// ilbuzz.it.eurosport.com/stars/video-il -meglio-del-meglio-di-maradona-secondo-lo-stesso-maradona-6557/#it-tw-sh …
+1	VIDEO	video	PROPN	SP	_	0	root	_	_
+2	–	–	PUNCT	FF	_	1	punct	_	_
+3	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	meglio	meglio	NOUN	S	_	1	nmod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	meglio	meglio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Maradona	Maradona	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	_
+11	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	selezionato	selezionato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
+14-15	dallo	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	17	case	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	Maradona	Maradona	PROPN	SP	_	13	obl:agent	_	_
+18	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	_
+21	ilbuzz.it.eurosport.com/stars/video-il	ilbuzz.it.eurosport.com/stars/video-ile	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	-meglio-	_	PUNCT	FB	_	23	punct	_	SpaceAfter=No
+23	del-meglio-di-maradona-secondo-lo	del-meglio-di-maradona-secondo-lo	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+24	-	-	PUNCT	FB	_	23	punct	_	SpaceAfter=No
+25	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
+26	-maradona-6557	-maradona-6557	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+28	#it-tw-sh	#it-tw-sh	INTJ	I	_	23	nmod	_	_
+29	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

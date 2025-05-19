@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amore ma quando ci siamo sposati avevi promesso di amarmi tutta la vita!!!
+1	Amore	amore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	ma	ma	CCONJ	CC	_	8	cc	_	_
+3	quando	quando	SCONJ	CS	_	6	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	sposati	sposare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	_
+7	avevi	avere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	promesso	promettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10-11	amarmi	_	_	_	_	_	_	_	_
+10	amar	amare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+12	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	14	det:predet	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	vita	vita	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+15	!!	!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Si ma non immaginavo che tu saresti vissuto così a lungo!!!
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	immaginavo	immaginare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+7	saresti	saredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	vissuto	vivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+9	così	così	ADV	B	_	11	advmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+13	!!	!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

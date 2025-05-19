@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gaia da grande scriverà per una rubrica di gossip.
+1	Gaia	Garire	ADV	B	_	3	advmod	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	grande	grande	ADJ	A	Number=Sing	4	obl	_	_
+4	scriverà	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	rubrica	rubrica	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	gossip	gossip	NOUN	S	Gender=Masc	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = O farà la cuoca.
+1	O	o	CCONJ	CC	_	2	cc	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cuoca	cuoca	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Una delle due.
+1	Una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+2-3	delle	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	due	due	NUM	N	NumType=Card	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = #JrMasterChefIt @SkyUno
+1	#JrMasterChefIt	#JrMasterChefIt	PROPN	SP	_	0	root	_	_
+2	@SkyUno	@SkyUno	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

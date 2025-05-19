@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tirate fuori @il_lunatico e nessuno si farà male
+1	Tirate	Tirata	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	fuori	fuori	ADV	B	_	3	advmod	_	_
+3	@il_lunatico	@il_lunatico	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+8	male	male	ADV	B	_	7	advmod	_	SpacesAfter=\n
+

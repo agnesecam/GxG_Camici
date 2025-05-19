@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = RT @ilturista_info : A #Bucarest cosa non perdere avendo solo due giorni a disposizione => http://www.
+1	RT	Rt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@ilturista_info	@ilturista_info	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	A	a	PROPN	SP	_	2	nmod	_	_
+5	#Bucarest	#Bucarest	PROPN	SP	_	4	flat:name	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	8	obj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	perdere	perdere	VERB	V	VerbForm=Inf	1	csubj	_	_
+9	avendo	avere	VERB	V	VerbForm=Ger	8	advcl	_	_
+10	solo	solo	ADV	B	_	11	advmod	_	_
+11	due	due	NUM	N	NumType=Card	12	nummod	_	_
+12	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	disposizione	disposizione	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	=>	=>	SYM	SYM	_	14	nmod	_	_
+16	http://www	http://www	X	SW	Foreign=Yes	15	flat:foreign	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ilturista.info/blog/12141-Buc arest_in_due_giorni_ecco_cosa_vedere/ … pic.twitter.com/1qQqpVISvW
+1	ilturista.info/blog/12141-Buc	ilturista.info/blog/12141-Buc	ADV	B	_	2	advmod	_	_
+2	arest_in_due_giorni_ecco_cosa_vedere	arest_in_due_giorni_ecco_cosa_vedere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	_
+4	…	…	PUNCT	FF	_	2	punct	_	_
+5	pic.twitter.com/1qQqpVISvW	pic.twitter.com/1qQqpVISvW	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

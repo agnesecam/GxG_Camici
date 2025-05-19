@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @meb sei un conflitto d'interesse , dimettiti infame dimettiti infame , tanto tuo padre dovrà pagare per tutto quello che ha fatto.DIMETTITI
+1	@meb	@mebbraio	NOUN	S	Gender=Masc	4	nsubj	_	_
+2	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	conflitto	conflitto	NOUN	S	Gender=Masc|Number=Sing	19	advcl	_	_
+5	d'	di	ADP	E	_	6	case	_	SpaceAfter=No
+6	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8-9	dimettiti	_	_	_	_	_	_	_	_
+8	dimetti	dimeggere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	parataxis	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+10	infame	infame	ADJ	A	Number=Sing	9	amod	_	_
+11-12	dimettiti	_	_	_	_	_	_	_	_
+11	dimetti	dimeggere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+12	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	iobj	_	_
+13	infame	infame	ADJ	A	Number=Sing	17	amod	_	_
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	tanto	tanto	ADV	B	_	17	advmod	_	_
+16	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	padre	padre	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+18	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	aux	_	_
+19	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	22	det	_	_
+22	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	19	obl	_	_
+23	che	che	PRON	PR	PronType=Rel	24	nsubj	_	_
+24	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+25-26	fatto.DIMETTITI	_	_	_	_	_	_	_	SpacesAfter=\n
+25	fatto.DIMetti	fatto.DIMetti	PROPN	SP	_	24	obj	_	_
+26	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	obj	_	_
+

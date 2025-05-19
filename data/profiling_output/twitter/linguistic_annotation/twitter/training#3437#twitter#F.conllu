@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @davidefaraone fase c da gae che fine farà ?
+1	@davidefaraone	@davidefaraorre	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	fase	fase	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+3	c	c	NOUN	S	_	2	compound	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	gae	gae	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	fine	fine	ADV	B	_	8	advmod	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+9	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Almeno risponda e consigli a Renzi di controllare quante famiglie ha diviso prima di parlare
+1	Almeno	almeno	ADV	B	_	2	advmod	_	_
+2	risponda	rispondare	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	consigli	consigli	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Renzi	Renzi	PROPN	SP	_	4	nmod	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	controllare	controllare	VERB	V	VerbForm=Inf	2	acl	_	_
+9	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	10	det	_	_
+10	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	diviso	dividere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+13	prima	prima	ADV	B	_	15	mark	_	_
+14	di	di	ADP	E	_	13	fixed	_	_
+15	parlare	parlare	VERB	V	VerbForm=Inf	12	xcomp	_	SpacesAfter=\n
+

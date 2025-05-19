@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Freddieafk Bertolaso non ha offeso la meloni.
+1	@Freddieafk	@Freddieafk	PROPN	SP	_	5	nsubj	_	_
+2	Bertolaso	Bertolaso	PROPN	SP	_	1	flat:name	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	offeso	offendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	meloni	melone	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ha solo detto che sarebbe meglio facesse la madre almeno x i primi mesi di vita del figlio.
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	solo	solo	ADV	B	_	3	advmod	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	meglio	meglio	ADV	B	_	7	advmod	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	madre	madre	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	almeno	almeno	ADV	B	_	11	advmod	_	_
+11	x	x	SYM	SYM	_	7	nsubj	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	14	amod	_	_
+14	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	vita	vita	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17-18	del	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

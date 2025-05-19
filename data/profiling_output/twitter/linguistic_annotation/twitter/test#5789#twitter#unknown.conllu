@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ArsenaleKappa @Giurgitte Ma Adinolfi da Adolf?
+1	@ArsenaleKappa	@ArsenaleKappo	PROPN	SP	_	0	root	_	_
+2	@Giurgitte	@Giurgitta	PROPN	SP	_	1	flat:name	_	_
+3	Ma	ma	CCONJ	CC	_	4	cc	_	_
+4	Adinolfi	Adinolfi	PROPN	SP	_	1	conj	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	Adolf	Adolf	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma sul serio qualcuna se lo è scelto liberamente?
+1	Ma	ma	CCONJ	CC	_	9	cc	_	_
+2-3	sul	_	_	_	_	_	_	_	_
+2	su	su	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	serio	serio	ADJ	A	Gender=Masc|Number=Sing	9	obl	_	_
+5	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	liberamente	libero	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = Come diceva Einstein alla stupidità...
+1	Come	come	SCONJ	CS	_	2	mark	_	_
+2	diceva	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	Einstein	Einstein	PROPN	SP	_	2	nsubj	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	stupidità	stupidità	NOUN	S	Gender=Fem	3	nmod	_	SpaceAfter=No
+7	..	..	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

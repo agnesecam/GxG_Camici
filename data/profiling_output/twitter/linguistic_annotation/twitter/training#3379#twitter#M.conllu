@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ale_dibattista non ti preoccupare adesso la sinistra scenderà in piazza e farà i girotondi per protesta...o no?
+1	@ale_dibattista	@ale_dibattista	NOUN	S	Number=Sing	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	preoccupare	preoccupare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	adesso	adesso	ADV	B	_	4	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+8	scenderà	scendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	piazza	piazza	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	girotondi	girotondo	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	protesta...o	protesta...o	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+17	no	no	ADV	BN	PronType=Neg	12	advmod	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

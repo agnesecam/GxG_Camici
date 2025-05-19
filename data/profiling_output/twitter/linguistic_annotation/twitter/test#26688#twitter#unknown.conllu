@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che impressione, mi era sembrato di vedere Sandra Mondaini in studio, a no è la mamma di Simona Ventura #isola
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	impressione	impressione	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+5	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	vedere	vedere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	Sandra	Sandra	PROPN	SP	_	18	nsubj	_	_
+10	Mondaini	Mondaini	PROPN	SP	_	9	flat:name	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	studio	studio	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	9	punct	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	no	no	ADV	BN	PronType=Neg	18	advmod	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	Simona	Simona	PROPN	SP	_	18	nmod	_	_
+21	Ventura	Ventura	PROPN	SP	_	20	flat:name	_	_
+22	#isola	#isolo	NUM	N	NumType=Card	6	nummod	_	SpacesAfter=\n
+

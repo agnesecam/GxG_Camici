@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Presidente Fondazione Matera Basilicata 2019 A. Sole :inviteremo alle nostre riunioni un rappresentante del @MiBACT pic.twitter.com/qA9VIii65j
+1	Presidente	Presidente	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Fondazione	fondazione	PROPN	SP	_	1	nmod	_	_
+3	Matera	Matera	PROPN	SP	_	2	flat:name	_	_
+4	Basilicata	Basilicata	PROPN	SP	_	2	flat:name	_	_
+5	2019	2019	NUM	N	NumType=Card	6	nummod	_	_
+6	A	A	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FF	_	6	punct	_	_
+8	Sole	sole	PROPN	SP	_	6	flat:name	_	_
+9	:inviteremo	:invitere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	8	acl:relcl	_	_
+10-11	alle	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	13	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+12	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	riunioni	riunione	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	rappresentante	rappresentante	NOUN	S	Number=Sing	9	obj	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	@MiBACT	@MiBACT	PROPN	SP	_	15	nmod	_	_
+19	pic.twitter.com/qA9VIii65j	pic.twitter.com/qA9VIii65j	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

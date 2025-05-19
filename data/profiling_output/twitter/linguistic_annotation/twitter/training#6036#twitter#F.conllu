@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ciaodarwin Tutti che difendiamo i brutti perché se fossimo andati noi sarebbe stata quella la nostra squadra.
+1	#ciaodarwin	#ciaodarwino	ADP	E	_	2	case	_	_
+2	Tutti	tutto	PROPN	SP	_	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	difendiamo	difendere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	brutti	brutto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	perché	perché	SCONJ	CS	_	17	mark	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	14	advcl	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
+12	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	cop	_	_
+14	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	17	nsubj	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	squadra.	squadra.	NOUN	S	Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

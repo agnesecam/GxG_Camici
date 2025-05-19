@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cristiana_viola @twitter @TwitterItalia per me, 5 anni!
+1	@cristiana_viola	@cristiana_viola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	@twitter	@twittere	ADP	E	_	3	case	_	_
+3	@TwitterItalia	@TwitterItalia	PROPN	SP	_	1	nmod	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	5	5	NUM	N	NumType=Card	8	nummod	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Feci Twitter per twittare #ètuttacolpadiPisapia :D
+1	Feci	Feci	PROPN	SP	_	0	root	_	_
+2	Twitter	Twitter	PROPN	SP	_	1	flat:name	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	twittare	twittare	VERB	V	VerbForm=Inf	6	acl	_	_
+5	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	ètuttacolpadiPisapia	ètuttacolpadiPisapia	PROPN	SP	_	1	nmod	_	_
+7	:D	:D	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

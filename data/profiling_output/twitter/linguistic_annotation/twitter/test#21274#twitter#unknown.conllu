@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mm1064 Si.
+1	@mm1064	@mm1064	NUM	N	NumType=Range	0	root	_	_
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = A un disoccipato di 50 anni, che dopo 25 ha perso il lavoro, chi gliela da la speranza?
+1	A	a	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	disoccipato	disoccipato	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	50	50	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+9	dopo	dopo	ADV	B	_	10	advmod	_	_
+10	25	25	NUM	N	NumType=Card	12	nummod	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	3	punct	_	_
+16	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+17-18	gliela	_	_	_	_	_	_	_	_
+17	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	_
+18	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	16	punct	_	SpacesAfter=\n
+

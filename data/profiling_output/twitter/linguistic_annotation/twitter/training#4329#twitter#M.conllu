@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @senzasinistra si lo ha detto lo stesso @micheleemiliano che dovrà essere cambiata la legge per far in modo che siano le regioni a decidere
+1	@senzasinistra	@senzasinistrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	@micheleemiliano	@micheleemiliano	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+9	che	che	PRON	PR	PronType=Rel	12	nsubj:pass	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+11	essere	essere	AUX	VA	VerbForm=Inf	12	aux:pass	_	_
+12	cambiata	cambiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	legge	legge	NOUN	S	Gender=Fem|Number=Sing	12	nsubj:pass	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	far	fare	VERB	V	VerbForm=Inf	12	advcl	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	modo	modo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+19	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+20	siano	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	regioni	regione	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
+23	a	a	ADP	E	_	24	mark	_	_
+24	decidere	decidere	VERB	V	VerbForm=Inf	20	xcomp	_	SpacesAfter=\n
+

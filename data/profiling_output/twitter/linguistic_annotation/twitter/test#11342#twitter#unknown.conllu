@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OttoemezzoTW @LillyGruber in3contro1facile!lo lascerete almeno finire il discorso @orfini o come al solito nn lo farete ?obbiettivi noo stro
+1	@OttoemezzoTW	@OttoemezzoTW	PROPN	SP	_	6	nsubj	_	_
+2	@LillyGruber	@LillyGruber	PROPN	SP	_	1	flat:name	_	_
+3	in3contro1facile!lo	in3contro1facile!lo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+4	lascerete	lasceere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	almeno	almeno	ADV	B	_	6	advmod	_	_
+6	finire	finire	VERB	V	VerbForm=Inf	0	root	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	@orfini	@orfine	ADJ	A	Number=Plur	8	amod	_	_
+10	o	o	CCONJ	CC	_	17	cc	_	_
+11	come	come	ADV	B	_	17	advmod	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	solito	solito	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+15	nn	nno	ADP	E	_	17	case	_	_
+16	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	farete	farete	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+18	?	?	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+19	obbiettivi	obbiettivo	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+20	noo	noo	NOUN	S	Gender=Masc|Number=Sing	19	compound	_	_
+21	stro	stro	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trump:
+1	Trump	Trump	NOUN	S	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Arabia dovrà rimborsarci per la lotta all'Is" - http:// bit.ly/1LRHxAV … https:// twitter.com/Piovegovernola d/status/714093977612324865 … pic.twitter.com/PXOdhEAciC
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Arabia	Arabia	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4-5	rimborsarci	_	_	_	_	_	_	_	_
+4	rimborsar	rimborsarre	VERB	V	VerbForm=Inf	0	root	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	lotta	lotta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+9-10	all'	_	_	_	_	_	_	_	SpaceAfter=No
+9	a	a	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	Is	is	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	-	-	PUNCT	FF	_	11	punct	_	_
+14	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	11	punct	_	_
+17	bit.ly/1LRHxAV	bit.ly/1LRHxAV	PROPN	SP	_	11	nmod	_	_
+18	…	…	PUNCT	FF	_	17	punct	_	_
+19	https:	https:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	17	punct	_	_
+22	twitter.com/Piovegovernola	twitter.com/Piovegovernola	PROPN	SP	_	17	flat:name	_	_
+23	d/status/714093977612324865	d/status/714093977612324865	NUM	N	NumType=Card	17	nummod	_	_
+24	…	…	PUNCT	FF	_	17	punct	_	_
+25	pic.twitter.com/PXOdhEAciC	pic.twitter.com/PXOdhEAciC	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

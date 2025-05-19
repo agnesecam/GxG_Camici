@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Perdona gli altri, non perché essi meritano il perdono, ma perché tu meriti la pace" @silviomuccino (Buddha) #arenagiletti
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Perdona	Perdonare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	perché	perché	SCONJ	CS	_	9	mark	_	_
+8	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	meritano	meritare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	parataxis	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	perdono	perdono	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	ma	ma	CCONJ	CC	_	16	cc	_	_
+14	perché	perché	SCONJ	CS	_	16	mark	_	_
+15	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	16	nsubj	_	_
+16	meriti	merire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	conj	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	pace	pace	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	20	punct	_	_
+20	@silviomuccino	@silviomuccino	NOUN	S	Gender=Masc|Number=Sing	18	compound	_	_
+21	(	(	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+22	Buddha	Buddha	PROPN	SP	_	20	appos	_	SpaceAfter=No
+23	)	)	PUNCT	FB	_	22	punct	_	_
+24	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+25	arenagiletti	arenagileggere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quelli che ti dicono "io e la mia ragazza stiamo insieme da 9 anni" e ne avranno si e no 22 ma cosa vi siete fidanzati alla prima comunione?
+1	Quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	11	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	xcomp	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+11	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	insieme	insieme	ADV	B	_	15	case	_	_
+13	da	da	ADP	E	_	12	fixed	_	_
+14	9	9	NUM	N	NumType=Card	15	nummod	_	_
+15	anni	anno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	19	punct	_	_
+17	e	e	CCONJ	CC	_	19	cc	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	19	iobj	_	_
+19	avranno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	11	conj	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	no	no	ADV	BN	PronType=Neg	19	advmod	_	_
+23	22	22	NUM	N	NumType=Card	19	nummod	_	_
+24	ma	ma	CCONJ	CC	_	28	cc	_	_
+25	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	28	nsubj:pass	_	_
+26	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	28	expl	_	_
+27	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	28	aux:pass	_	_
+28	fidanzati	fidanzato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	19	conj	_	_
+29-30	alla	_	_	_	_	_	_	_	_
+29	a	a	ADP	E	_	32	case	_	_
+30	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+31	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	32	amod	_	_
+32	comunione	comunione	NOUN	S	Gender=Fem|Number=Sing	28	obl	_	SpaceAfter=No
+33	?	?	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

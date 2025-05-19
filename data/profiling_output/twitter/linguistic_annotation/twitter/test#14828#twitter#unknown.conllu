@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In bici a Lampedusa dal Friuli, Mila 'Vagante' è a Modena http:// dlvr.it/KzRfQM pic.twitter.com/PLf9Kdws2I
+1	In	in	ADP	E	_	2	case	_	_
+2	bici	bico	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	Lampedusa	Lampedusa	PROPN	SP	_	2	nmod	_	_
+5-6	dal	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Friuli	Friuli	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	Mila	mila	PROPN	SP	_	2	appos	_	_
+10	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	Vagante	Vagante	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+12	'	'	PUNCT	FB	_	9	punct	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	Modena	Modena	PROPN	SP	_	0	root	_	_
+16	http:	http:	PUNCT	FS	_	19	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	dlvr.it/KzRfQM	dlvr.it/KzRfQM	PROPN	SP	_	15	conj	_	_
+20	pic.twitter.com/PLf9Kdws2I	pic.twitter.com/PLf9Kdws2I	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

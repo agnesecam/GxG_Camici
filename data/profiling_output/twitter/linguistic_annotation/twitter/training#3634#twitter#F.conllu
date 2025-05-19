@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 7 aprile e sto considerando l'idea di pranzare sul terrazzo, mentre mi dispero pensando al caldo che farà tra due mesi se ora siamo già così
+1	7	7	NUM	N	NumType=Card	5	nummod	_	_
+2	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	1	flat	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	considerando	considerare	VERB	V	VerbForm=Ger	0	root	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	idea	idea	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	pranzare	pranzare	VERB	V	VerbForm=Inf	7	acl	_	_
+10-11	sul	_	_	_	_	_	_	_	_
+10	su	su	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	terrazzo	terrazzo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	5	punct	_	_
+14	mentre	mentre	SCONJ	CS	_	16	mark	_	_
+15	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	expl	_	_
+16	dispero	disperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+17	pensando	pensare	VERB	V	VerbForm=Ger	16	advcl	_	_
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	caldo	caldo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+21	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+22	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	acl:relcl	_	_
+23	tra	tra	ADP	E	_	25	case	_	_
+24	due	due	NUM	N	NumType=Card	25	nummod	_	_
+25	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	22	obl	_	_
+26	se	se	SCONJ	CS	_	30	mark	_	_
+27	ora	ora	ADV	B	_	30	advmod	_	_
+28	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	30	cop	_	_
+29	già	già	ADV	B	_	30	advmod	_	_
+30	così	così	ADV	B	_	22	advmod	_	SpacesAfter=\n
+

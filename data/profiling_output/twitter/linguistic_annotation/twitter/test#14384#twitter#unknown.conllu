@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Mit di Boston ha creato la Banca delle Feci . Finalmente una vita di “menta” produce business.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Mit	Mit	PROPN	SP	_	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Boston	Boston	PROPN	SP	_	2	nmod	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	creato	creare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Banca	Banca	PROPN	SP	_	6	obj	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	Feci	Feci	PROPN	SP	_	8	nmod	_	_
+12	.	.	PUNCT	FS	_	18	punct	_	_
+13	Finalmente	finalmente	ADV	B	_	18	advmod	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	vita	vita	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	“	“	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+18	menta	mentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	SpaceAfter=No
+19	”	”	PUNCT	FB	_	18	punct	_	_
+20	produce	produrre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+21	business	business	NOUN	S	Gender=Masc	20	obj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

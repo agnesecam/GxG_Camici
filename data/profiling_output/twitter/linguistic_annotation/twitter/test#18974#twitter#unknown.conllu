@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ognuno, Qualcuno, Ciascuno e Nessuno...
+1	Ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	Ciascuno	ciascuno	PROPN	SP	_	3	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	Nessuno...	Nessuno...	PROPN	SP	_	3	conj	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/R6Esh6XZDv
+1	pic.twitter.com/R6Esh6XZDv	pic.twitter.com/R6Esh6XZDv	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

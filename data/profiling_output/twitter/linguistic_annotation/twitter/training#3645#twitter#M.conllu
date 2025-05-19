@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Favignana, non si farà la centrale elettrica a gasolio.
+1	Favignana	Favignana	PROPN	SP	_	5	obl	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	centrale	centrale	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	elettrica	elettrico	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	gasolio	gasolio	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = La Sea rinuncia al progetto http://www.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Sea	Sea	PROPN	SP	_	3	nsubj	_	_
+3	rinuncia	rinunciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	http://www	http://www	NOUN	S	_	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = tp24.it/2016/04/07/cro naca/favignana-non-si-fara-la-centrale-elettrica-a-gasolio-la-sea-rinuncia-al-progetto/99355 … via @marsalait
+1	tp24.it/2016/04/07/cro	tp24.it/2016/04/07/cro	ADP	E	_	2	case	_	_
+2	naca	naco	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	favignana-non-si	favignana-non-so	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	fara-la	fara-lare	X	SW	Foreign=Yes	13	nmod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	centrale	centrale	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	elettrica	elettrico	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+12	a-gasolio-	_	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+13	la-sea	la-sea	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	rinuncia-al	rinuncia-al	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	15	compound	_	SpaceAfter=No
+18	/99355	/99355	NUM	N	NumType=Card	15	nummod	_	_
+19	…	…	PUNCT	FF	_	15	punct	_	_
+20	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+21	@marsalait	@marsalait	NOUN	S	Gender=Masc	20	compound	_	SpacesAfter=\n
+

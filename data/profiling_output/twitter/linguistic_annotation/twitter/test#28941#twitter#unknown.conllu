@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @skylerish ahhh.
+1	@skylerish	@skylerish	NOUN	S	_	0	root	_	_
+2	ahhh	ahhh	NOUN	S	_	1	compound	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Non sembra, ma sono intelligente.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	6	punct	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	intelligente	intelligente	ADJ	A	Number=Sing	2	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = E tu, repetita iuvant, paraculaa.
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	repetita	repetire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	iuvant	iuvant	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	paraculaa	paraculaa	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = P.s. nel frattempo si è fatto bel tempo
+1	P.s	P.s	PROPN	SP	_	8	nsubj:pass	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+3-4	nel	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:pass	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	bel	bello	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	_
+10	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tanti auguri #LidiaMenapace oggi 92 anni una grande Donna Partigiana.
+1	Tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	LidiaMenapace	LidiaMenapace	PROPN	SP	_	2	nmod	_	_
+5	oggi	oggi	ADV	B	_	4	advmod	_	_
+6	92	92	NUM	N	NumType=Card	7	nummod	_	_
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	grande	grande	ADJ	A	Number=Sing	10	amod	_	_
+10	Donna	donna	PROPN	SP	_	4	nmod	_	_
+11	Partigiana	partigiana	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Felici di averti avuta alla Casa @TerniDonne ! pic.twitter.com/aL8W4k5xdB
+1	Felici	felice	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	di	di	ADP	E	_	5	mark	_	_
+3-4	averti	_	_	_	_	_	_	_	_
+3	aver	avere	AUX	VA	VerbForm=Inf	5	aux	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	expl	_	_
+5	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Casa	casa	PROPN	SP	_	5	obl	_	_
+9	@TerniDonne	@TerniDonne	PROPN	SP	_	8	flat:name	_	_
+10	!	!	PUNCT	FS	_	5	punct	_	_
+11	pic.twitter.com/aL8W4k5xdB	pic.twitter.com/aL8W4k5xdB	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

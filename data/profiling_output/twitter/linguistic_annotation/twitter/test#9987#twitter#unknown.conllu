@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Va bene credersi Dio, però.......
+1	Va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	bene	bene	ADV	B	_	3	advmod	_	_
+3-4	credersi	_	_	_	_	_	_	_	_
+3	creder	credere	VERB	V	VerbForm=Inf	0	root	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	Dio	dio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	però......	però......	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Pensa te se un cosa del genere la faceva quslcun'altro che casino ci saltava... http:// fb.me/5eWyz21px
+1	Pensa	pensare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	se	se	SCONJ	CS	_	10	mark	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	genere	genere	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+11	quslcun'	quslcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	casino	casino	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	obj	_	_
+16	saltava...	saltava.	PUNCT	FS	_	12	punct	_	_
+17	http:	http:	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	12	punct	_	_
+20	fb.me/5eWyz21px	fb.me/5eWyz21px	PROPN	SP	_	1	xcomp	_	SpacesAfter=\n
+

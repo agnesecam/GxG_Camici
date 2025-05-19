@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Su @SkyTG24 a #tg24pomeriggio la corruzione vera arriva solo grazie alla magistratura:
+1	Su	su	ADP	E	_	2	case	_	_
+2	@SkyTG24	@SkyTG24	PROPN	SP	_	8	obl	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	#tg24pomeriggio	#tg24pomeriggio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	corruzione	corruzione	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	vera	vero	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	solo	solo	ADV	B	_	8	advmod	_	_
+10	grazie	grazie	NOUN	S	_	13	case	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	magistratura	magistratura	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 2
+# text = dove eravate quando emendamenti "uscivano"?
+1	dove	dove	ADV	B	_	2	advmod	_	_
+2	eravate	eravare	VERB	A	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	quando	quando	SCONJ	CS	_	6	mark	_	_
+4	emendamenti	emendamento	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	uscivano	uscire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

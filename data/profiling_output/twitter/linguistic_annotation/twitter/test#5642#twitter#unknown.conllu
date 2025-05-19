@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non credo che l'inferno sia peggiore dell'amare qualcuna /o con cui non puoi stare.
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	inferno	inferno	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	peggiore	peggiore	NOUN	S	Number=Sing	2	ccomp	_	_
+8-9	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+8	di	di	ADP	E	_	10	mark	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	amare	amare	VERB	V	VerbForm=Inf	7	acl	_	_
+11	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	10	obj	_	_
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	o	o	CCONJ	CC	_	18	cc	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	cui	cui	PRON	PR	PronType=Rel	18	obl	_	_
+16	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+17	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	stare	stare	VERB	V	VerbForm=Inf	11	conj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

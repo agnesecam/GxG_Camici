@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi CONCORSO SCUOLA 2016, TEGOLA SUL MIUR:
+1	@matteorenzi	@matteorenzi	ADP	E	_	2	case	_	_
+2	CONCORSO	concorso	PROPN	SP	_	0	root	_	_
+3	SCUOLA	scuola	PROPN	SP	_	2	flat:name	_	_
+4	2016	2016	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	TEGOLA	TEGOLA	PROPN	SP	_	2	nmod	_	_
+7-8	SUL	_	_	_	_	_	_	_	_
+7	SU	su	PROPN	SP	_	6	flat:name	_	_
+8	IL	il	PROPN	SP	_	6	flat:name	_	_
+9	MIUR	MIUR	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = MANCANO PURE I SEGRETARI, SI FARÀ RICORSO AGLI ATA?
+1	MANCANO	mancare	PROPN	SP	_	8	nsubj	_	_
+2	PURE	pure	PROPN	SP	_	1	nmod	_	_
+3	I	il	ADJ	NO	Number=Sing|NumType=Ord	2	flat:name	_	_
+4	SEGRETARI	segretare	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	SI	si	PROPN	SP	_	2	flat:name	_	_
+7	FARÀ	fare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	RICORSO	ricorso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9-10	AGLI	_	_	_	_	_	_	_	_
+9	A	a	ADP	E	_	10	case	_	_
+10	GLI	gli	PROPN	SP	_	8	obl	_	_
+11	ATA	Ata	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = http:// it.blastingnews.com/lavoro/2016/04 /concorso-scuola-2016-tegola-sul-miur-mancano-pure-i-segretari-si-fara-ricorso-agli-ata-00868205.html …
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	it.blastingnews.com/lavoro/2016/04	it.blastingnews.com/lavoro/2016/04	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	concorso-scuola-2016-tegola-sul-miur-mancano-pure-i-segretari-si-fara-ricorso-agli-ata-00868205.html	concorso-scuola-2016-tegola-sul-miur-mancano-pure-i-segretari-si-fara-ricorso-agli-ata-00868205.html	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	_
+7	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

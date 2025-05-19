@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alanwake_71 e Grillo nn ha neanche ruolo istituzionale, gliene arrretsano uno a dì,e straparlano questo PD e' pericoloso ! @unitaonline
+1	@alanwake_71	@alanwake_71	NUM	N	NumType=Card	5	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	Grillo	Grillo	PROPN	SP	_	1	conj	_	_
+4	nn	nn	NUM	N	NumType=Card	1	nummod	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	neanche	neanche	ADV	BN	PronType=Neg	7	advmod	_	_
+7	ruolo	ruolo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	istituzionale	istituzionale	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	gliene	glenere	SCONJ	CS	_	11	mark	_	_
+11	arrretsano	arrretsare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	dì,e	dì,e	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+15	straparlano	straparlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+16	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
+17	PD	Pd	PROPN	SP	_	15	obj	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	SpaceAfter=No
+19	'	'	PUNCT	FB	_	20	punct	_	_
+20	pericoloso	pericoloso	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	_
+21	!	!	PUNCT	FS	_	15	punct	_	_
+22	@unitaonline	@unitaonline	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpacesAfter=\n
+

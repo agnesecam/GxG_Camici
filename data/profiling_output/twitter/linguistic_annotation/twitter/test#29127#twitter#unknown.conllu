@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensiero n° 80, Domenica 20 Marzo ''Se giudicate la gente, non avrete il tem...'' ( @via Pensieri di Madre Teresa) http:// goo.gl/KQ4rsP
+1	Pensiero	pensiero	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	n°	numero	NOUN	S	Gender=Masc	15	obl	_	_
+3	80	80	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	Domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	20	20	NUM	N	NumType=Card	7	nummod	_	_
+7	Marzo	marzo	PROPN	SP	_	5	flat	_	_
+8	''	''	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	Se	se	SCONJ	CS	_	10	mark	_	_
+10	giudicate	giudicare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	gente	gente	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	2	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	tem...''	tem...''	NUM	N	NumType=Card	20	nummod	_	_
+18	(	(	PUNCT	FB	_	20	punct	_	_
+19	@via	@via	ADP	E	_	20	case	_	_
+20	Pensieri	pensieri	PROPN	SP	_	15	obl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	Madre	Madre	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	_
+23	Teresa	Teresa	PROPN	SP	_	22	nmod	_	SpaceAfter=No
+24	)	)	PUNCT	FB	_	20	punct	_	_
+25	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	20	punct	_	_
+28	goo.gl/KQ4rsP	goo.gl/KQ4rsP	PROPN	SP	_	15	obj	_	SpacesAfter=\n
+

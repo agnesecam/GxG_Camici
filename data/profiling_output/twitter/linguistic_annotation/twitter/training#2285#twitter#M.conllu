@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giovannisalvest Concordo.
+1	@giovannisalvest	@giovannisalvest	SYM	X	_	0	root	_	_
+2	Concordo	Concordo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = La butta dentro , ma neanche cosi tanto, per il resto fa errori su errori.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	butta	butta	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+3	dentro	dentro	ADV	B	_	2	advmod	_	_
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	ma	ma	CCONJ	CC	_	7	cc	_	_
+6	neanche	neanche	ADV	BN	PronType=Neg	7	advmod	_	_
+7	cosi	coso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+8	tanto	tanto	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	resto	resto	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+13	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	errori	errore	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+15	su	su	ADP	E	_	16	case	_	_
+16	errori	errore	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 3
+# text = Io a 30 o piu lo cedo subito.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	a	a	ADP	E	_	7	case	_	_
+3	30	30	NUM	N	NumType=Card	7	nummod	_	_
+4	o	o	CCONJ	CC	_	7	cc	_	_
+5	piu	piu	ADP	E	_	7	case	_	_
+6	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cedo	cedere	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+8	subito	subito	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

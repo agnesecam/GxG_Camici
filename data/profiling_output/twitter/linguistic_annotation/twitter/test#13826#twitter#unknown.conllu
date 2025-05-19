@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #creare rete in Liguria, crederci è essenziale per il futuro.
+1	#creare	#creare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	rete	rete	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Liguria	Liguria	PROPN	SP	_	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6-7	crederci	_	_	_	_	_	_	_	_
+6	creder	credere	VERB	V	VerbForm=Inf	1	conj	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	essenziale	essenziale	ADJ	A	Number=Sing	6	ccomp	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = A piccoli passi faremo strada @GS1italy @MarceZanellato @Acetob @ColdirettiG
+1	A	a	ADP	E	_	3	case	_	_
+2	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	passi	passo	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+4	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	strada	strada	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	@GS1italy	@GS1italy	PROPN	SP	_	5	nmod	_	_
+7	@MarceZanellato	@MarceZanellato	PROPN	SP	_	6	flat:name	_	_
+8	@Acetob	@Acetob	PROPN	SP	_	6	flat:name	_	_
+9	@ColdirettiG	@Coldirettig	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

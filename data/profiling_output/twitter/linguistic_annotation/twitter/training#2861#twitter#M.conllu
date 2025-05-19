@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @antonioboselli non dimentichiamoci che per far sembrare veloci ste F1 oggi le ali sono mobili #SkyMotori motori
+1	@antonioboselli	@antoniobosello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	dimentichiamoci	dimentichiamoci	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	far	fare	VERB	V	VerbForm=Inf	3	advcl	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	veloci	veloce	ADJ	A	Number=Plur	9	amod	_	_
+9	ste	sta	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+10	F1	F1	PROPN	SP	_	9	nmod	_	_
+11	oggi	oggi	ADV	B	_	15	advmod	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	ali	ala	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	_
+14	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	mobili	mobile	ADJ	A	Number=Plur	16	amod	_	_
+16	#SkyMotori	#SkyMotore	NOUN	S	Gender=Masc|Number=Plur	7	xcomp	_	_
+17	motori	motore	NOUN	S	Gender=Masc|Number=Plur	16	compound	_	SpacesAfter=\n
+

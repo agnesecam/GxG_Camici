@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AriannaCalcagn2 @famedalupi @MetaErmal waooo Da me piove a dirotto ma ermal porta il sole dentro di me
+1	@AriannaCalcagn2	@AriannaCalcagn2	NUM	N	NumType=Card	2	nummod	_	_
+2	@famedalupi	@famedalupo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	@MetaErmal	@MetaErmal	PROPN	SP	_	2	nmod	_	_
+4	waooo	waooo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Da	Da	ADP	E	_	6	case	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+7	piove	piovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	dirotto	dirotto	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	ermal	ermale	PRON	PQ	Number=Sing|PronType=Int	12	obj	_	_
+12	porta	porta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	sole	sole	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	dentro	dentro	ADV	B	_	17	case	_	_
+16	di	di	ADP	E	_	15	fixed	_	_
+17	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nmod	_	SpacesAfter=\n
+

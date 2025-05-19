@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Suggerimento:
+1	Suggerimento	suggerimento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ogni famiglia di sinistra ospiti una famiglia extracomunitaria senza aiuti da parte di alcuno . https:// twitter.com/meb/status/711 853413265481729 …
+1	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	ospiti	ospire	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	extracomunitaria	extracomunitario	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	senza	senza	ADP	E	_	10	case	_	_
+10	aiuti	aiuto	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	alcuno	alcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nmod	_	_
+15	.	.	PUNCT	FS	_	14	punct	_	_
+16	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	14	punct	_	_
+19	twitter.com/meb/status/711	twitter.com/meb/status/71l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	853413265481729	853413265481729	NUM	N	NumType=Card	14	nmod	_	_
+21	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

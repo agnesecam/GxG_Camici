@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fate quello che volete ma questo dovrà essere il mio prossimo regalo!!
+1	Fate	fare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	obj	_	_
+4	volete	volere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	ma	ma	CCONJ	CC	_	12	cc	_	_
+6	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+8	essere	essere	AUX	V	VerbForm=Inf	12	cop	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+10	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+11	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	regalo	regalo	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Capito Gissi!!!! http:// fb.me/11kzFbllI
+1	Capito	capito	PROPN	SP	_	0	root	_	_
+2	Gissi	Gisso	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	!!!	!!!	PUNCT	FF	_	1	punct	_	_
+5	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	1	punct	_	_
+8	fb.me/11kzFbllI	fb.me/11kzFbllI	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

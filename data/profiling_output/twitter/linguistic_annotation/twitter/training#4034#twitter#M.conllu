@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Manca poco alla sfida al Novara ma la voglia di esserci è palpabile.
+1	Manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	poco	poco	ADV	B	_	1	advmod	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	sfida	sfida	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Novara	Novara	PROPN	SP	_	5	nmod	_	_
+9	ma	ma	CCONJ	CC	_	15	cc	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+12	di	di	ADP	E	_	15	mark	_	_
+13-14	esserci	_	_	_	_	_	_	_	_
+13	esser	essere	AUX	VA	VerbForm=Inf	15	aux	_	_
+14	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	15	expl	_	_
+15	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+16	palpabile	palpabile	ADJ	A	Number=Sing	15	advmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il nostro stadio dovrà tirare fuori gli... http:// fb.me/XSNwy1zE
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	tirare	tirare	VERB	V	VerbForm=Inf	0	root	_	_
+6	fuori	fuori	ADP	E	_	7	case	_	_
+7	gli...	gli.	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	fb.me/XSNwy1zE	fb.me/XSNwy1zE	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

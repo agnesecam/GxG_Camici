@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #BastaVeleni Musica e colore spazzeranno via i veleni dalla nostra terra.
+1	#BastaVeleni	#BastaVeleno	PROPN	SP	_	5	nsubj	_	_
+2	Musica	musica	PROPN	SP	_	1	flat:name	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	colore	colore	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+5	spazzeranno	spazzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	via	via	ADV	B	_	5	advmod	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	veleni	veleno	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	terra	terra	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/tatianabasilio 1/status/719252441632546817 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/tatianabasilio	twitter.com/tatianabasilio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	1/status/719252441632546817	1/status/719252441632546817	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

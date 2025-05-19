@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @justfastF1 @formula1gp Al contrario, se Ham non avesse riportato danni importanti dopo il contatto con Bottas manco 2a posizione prendeva
+1	@justfastF1	@justfastFl	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@formula1gp	@formula1gp	NOUN	S	_	22	nsubj	_	_
+3-4	Al	_	_	_	_	_	_	_	_
+3	A	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	contrario	contrario	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	se	se	SCONJ	CS	_	11	mark	_	_
+8	Ham	Ham	PROPN	SP	_	11	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	riportato	riportare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+12	danni	danno	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+13	importanti	importante	ADJ	A	Number=Plur	12	amod	_	_
+14	dopo	dopo	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	contatto	contatto	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+17	con	con	ADP	E	_	18	case	_	_
+18	Bottas	Bottas	PROPN	SP	_	21	nmod	_	_
+19	manco	manco	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+20	2a	2o	ADJ	A	Number=Sing	21	amod	_	_
+21	posizione	posizione	NOUN	S	Gender=Fem|Number=Sing	16	compound	_	_
+22	prendeva	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

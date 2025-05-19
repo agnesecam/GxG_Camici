@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @yellowflate @v_diocesano https:// twitter.com/yellowflate/st atus/715111390512594944 … #Sardegna bellissima dappertutto ... pic.twitter.com/lCUbGDAMA4
+1	@yellowflate	@yellowflare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@v_diocesano	@v_diocesare	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	twitter.com/yellowflate/st	twitter.com/yellowflate/st	SYM	X	_	2	conj	_	_
+7	atus/715111390512594944	atus/715111390512594944	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	6	punct	_	_
+9	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+10	Sardegna	Sardegna	PROPN	SP	_	1	nsubj	_	_
+11	bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	10	amod	_	_
+12	dappertutto	dappertutto	ADV	B	_	11	advmod	_	_
+13	...	...	PUNCT	FF	_	1	punct	_	_
+14	pic.twitter.com/lCUbGDAMA4	pic.twitter.com/lCUbGDAMA4	PROPN	SP	_	1	obj	_	SpacesAfter=\n
+

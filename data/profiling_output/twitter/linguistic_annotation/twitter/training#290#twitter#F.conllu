@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che cosa accadrebbe se invece di limitarci a costruire la nostra esistenza avessimo la follia o la saggezza di danzarla?
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	accadrebbe	accadere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	invece	invece	ADV	B	_	7	mark	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7-8	limitarci	_	_	_	_	_	_	_	_
+7	limitar	limitare	VERB	V	VerbForm=Inf	3	advcl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	costruire	costruire	VERB	V	VerbForm=Inf	7	ccomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	esistenza	esistenza	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	cop	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	follia	follia	NOUN	S	Gender=Fem|Number=Sing	10	advcl	_	_
+17	o	o	CCONJ	CC	_	19	cc	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	saggezza	saggezza	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	_
+20	di	di	ADP	E	_	21	mark	_	_
+21-22	danzarla	_	_	_	_	_	_	_	SpaceAfter=No
+21	danzar	danzare	VERB	V	VerbForm=Inf	16	acl	_	_
+22	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+23	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Roger Garaudy
+1	Roger	Roger	PROPN	SP	_	0	root	_	_
+2	Garaudy	Garaudy	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

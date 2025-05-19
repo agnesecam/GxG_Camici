@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alberto_e_fabio E se facessimo i finti tonti come fa lui, tipo dire "ma guarda, ce l'ha coi gay e poi fa i profumi per D&G"
+1	@alberto_e_fabio	@alberto_e_fabio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	E	e	CCONJ	CC	_	4	cc	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	facessimo	facessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	finti	finto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	tonti	tonto	ADV	B	_	9	advmod	_	_
+8	come	come	SCONJ	CS	_	9	mark	_	_
+9	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+10	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	10	appos	_	_
+13	dire	dire	VERB	V	VerbForm=Inf	12	acl	_	_
+14	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+15	ma	ma	CCONJ	CC	_	16	cc	_	_
+16	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	20	expl	_	_
+19	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	20	obj	_	SpaceAfter=No
+20	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	_
+21-22	coi	_	_	_	_	_	_	_	_
+21	con	con	ADP	E	_	23	case	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	gay	gay	NOUN	S	Gender=Masc	20	obl	_	_
+24	e	e	CCONJ	CC	_	26	cc	_	_
+25	poi	poi	ADV	B	_	26	advmod	_	_
+26	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+27	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
+28	profumi	profume	NOUN	S	Gender=Masc|Number=Plur	26	obj	_	_
+29	per	per	ADP	E	_	30	case	_	_
+30	D&G	D&g	PROPN	SP	_	26	obl	_	SpaceAfter=No
+31	"	"	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

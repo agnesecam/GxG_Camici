@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VittorioBanti @UbaldoLorenzo anche adesso è bellina, se facesse la soubrette non la odierei....
+1	@VittorioBanti	@VittorioBante	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@UbaldoLorenzo	@UbaldoLorenzo	PROPN	SP	_	6	nsubj	_	_
+3	anche	anche	ADV	B	_	6	advmod	_	_
+4	adesso	adesso	ADV	B	_	6	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	bellina	bellino	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	se	se	SCONJ	CS	_	9	mark	_	_
+9	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	soubrette	soubretta	NOUN	S	Gender=Fem	9	obj	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	odierei...	odierei...	NOUN	S	_	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ValeZock_SS @GioPanariello non che ti avessimo mai dato del Lei, ma nel dubbio...meglio tardi che mai!!
+1	@ValeZock_SS	@ValeZock_SS	PROPN	SP	_	0	root	_	_
+2	@GioPanariello	@GioPanariello	PROPN	SP	_	1	flat:name	_	_
+3	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	mai	mai	ADV	B	_	8	advmod	_	_
+8	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Lei	lei	PROPN	SP	_	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	ma	ma	CCONJ	CC	_	16	cc	_	_
+14-15	nel	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	dubbio...meglio	dubbio...meglio	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+17	tardi	tardi	ADV	B	_	16	advmod	_	_
+18	che	che	ADP	E	_	19	case	_	_
+19	mai	mai	ADV	B	_	16	advmod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

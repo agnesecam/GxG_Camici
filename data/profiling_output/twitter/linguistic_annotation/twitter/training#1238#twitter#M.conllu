@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caruso (Live).
+1	Caruso	Caruso	PROPN	SP	_	0	root	_	_
+2	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	Live	Live	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Luciano Pavarotti & Lucio Dalla (HQ) http:// fb.me/4xzM4yniR
+1	Luciano	Luciano	PROPN	SP	_	0	root	_	_
+2	Pavarotti	Pavarotti	PROPN	SP	_	1	flat:name	_	_
+3	&	&	SYM	SYM	_	1	flat:name	_	_
+4	Lucio	Lucio	PROPN	SP	_	1	flat:name	_	_
+5-6	Dalla	_	_	_	_	_	_	_	_
+5	Da	Da	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	HQ	HQ	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	http:	http:	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	8	punct	_	_
+13	fb.me/4xzM4yniR	fb.me/4xzM4yniR	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MercatoMarotta @pisto_gol quando bloccherà anche sè stesso si farà l'ultimo favore
+1	@MercatoMarotta	@MercatoMarurre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@pisto_gol	@pisto_goal	PRON	PQ	Number=Sing|PronType=Int	1	obj	_	_
+3	quando	quando	SCONJ	CS	_	4	mark	_	_
+4	bloccherà	bloccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	advcl	_	_
+5	anche	anche	ADV	B	_	6	advmod	_	_
+6	sè	sè	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	obj	_	_
+7	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	advcl	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+11	ultimo	ultimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	_
+12	favore	favore	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpacesAfter=\n
+

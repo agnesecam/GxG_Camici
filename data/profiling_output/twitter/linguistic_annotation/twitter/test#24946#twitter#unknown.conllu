@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ritadallachiesa
+1	@ritadallachiesa	@ritadallachiesa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = 2
+# text = Non è la pena di morte la soluzione, lo farebbero comunque quando si è "marci" dentro!
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	pena	pena	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	morte	morte	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	comunque	comunque	ADV	B	_	11	advmod	_	_
+13	quando	quando	SCONJ	CS	_	15	mark	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+16	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+17-18	marci	_	_	_	_	_	_	_	SpaceAfter=No
+17	mar	mare	VERB	V	VerbForm=Inf	15	ccomp	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	17	expl	_	_
+19	"	"	PUNCT	FB	_	17	punct	_	_
+20	dentro	dentro	ADV	B	_	17	advmod	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

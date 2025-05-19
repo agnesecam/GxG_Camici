@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ManuelStripes mi incazzo più se penso al fatto che se avessimo giocato così anche prima Sassuolo, Carpi, Verona e Fiorentina le divoravamo
+1	@ManuelStripes	@ManuelStripes	ADP	E	_	2	case	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+3	incazzo	incazzare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	3	advmod	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	che	che	SCONJ	CS	_	25	mark	_	_
+11	se	se	SCONJ	CS	_	13	mark	_	_
+12	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	advcl	_	_
+14	così	così	ADV	B	_	17	advmod	_	_
+15	anche	anche	ADV	B	_	17	advmod	_	_
+16	prima	prima	ADV	B	_	17	advmod	_	_
+17	Sassuolo	Sassuolo	PROPN	SP	_	13	obj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	Carpi	Carpi	PROPN	SP	_	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21	Verona	Verona	PROPN	SP	_	17	conj	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	Fiorentina	fiorentina	PROPN	SP	_	17	conj	_	_
+24	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	25	obj	_	_
+25	divoravamo	divorare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	advcl	_	SpacesAfter=\n
+

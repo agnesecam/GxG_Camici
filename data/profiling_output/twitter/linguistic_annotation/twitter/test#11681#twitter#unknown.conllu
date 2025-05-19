@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mattinodinapoli finalmente eh?ci stavamo quasi per perdere i titoloni!!
+1	@mattinodinapoli	@mattinodinapolo	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+2	finalmente	finalmente	ADV	B	_	3	advmod	_	_
+3	eh	eh	INTJ	I	_	6	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+6	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	quasi	quasi	ADV	B	_	9	advmod	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	perdere	perdere	VERB	V	VerbForm=Inf	6	advcl	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	titoloni	titolone	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #StattaCas
+1	#StattaCas	#StattaCas	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

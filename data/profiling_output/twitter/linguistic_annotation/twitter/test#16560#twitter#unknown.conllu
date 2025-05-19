@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @danmari83 cazzo c'entra coll 'inter
+1	@danmari83	@danmari83	NUM	N	NumType=Range	2	nummod	_	_
+2	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	coll	coll	PRON	PQ	Number=Sing|PronType=Int	7	obj	_	_
+6	'	'	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	inter	inter	VERB	V	VerbForm=Inf	4	xcomp	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @loriana34406751 le solite stupidate,mai 1 litro è uscito r l oleodotto dovrà essere costruito
+1	@loriana34406751	@loriana34406751	NUM	N	NumType=Card	8	nummod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	solite	solito	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	stupidate,mai	stupidate,maio	NOUN	S	_	8	nsubj	_	_
+5	1	1	NUM	N	NumType=Card	4	nummod	_	_
+6	litro	litro	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	uscito	uscire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+9	r	r	X	X	_	8	obl	_	_
+10	l	l	X	X	_	9	flat	_	_
+11	oleodotto	oleodotto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+13	essere	essere	AUX	VA	VerbForm=Inf	14	aux:pass	_	_
+14	costruito	costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

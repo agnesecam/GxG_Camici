@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dissento amichevolente, o deo!
+1	Dissento	Dissento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	amichevolente	amichevolente	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	deo	deare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Neppure il fanatismo, nei millenni, è giunto a tanto.
+1	Neppure	neppure	ADV	BN	PronType=Neg	3	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	fanatismo	fanatismo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5-6	nei	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	millenni	millenne	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	giunto	giungere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	tanto	tanto	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 3
+# text = Questi sono ASSASSINI e basta!
+1	Questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	ASSASSINI	assassini	PROPN	SP	_	0	root	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/a70199617/stat us/712257105567346688 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/a70199617/stat	twitter.com/a70199617/stare	SYM	X	_	0	root	_	_
+5	us/712257105567346688	us/712257105567346688	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

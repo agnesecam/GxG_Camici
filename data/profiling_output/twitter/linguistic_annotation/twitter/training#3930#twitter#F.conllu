@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Allora!DOBBIAMO SPERARE!E LA SPERANZA:CHE CE LA LASCI IL PADRE!ALTRIMENTI:CHE FACCIAMO?
+1	Allora!DOBBIAMO	allora!dobbiamo	PROPN	SP	_	0	root	_	_
+2	SPERARE	sperare	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!E	!E	PROPN	SP	_	1	flat:name	_	_
+4	LA	La	PROPN	SP	_	1	flat:name	_	_
+5	SPERANZA:CHE	SPERANZA:CHE	PROPN	SP	_	1	nmod	_	_
+6	CE	CE	PROPN	SP	_	5	flat:name	_	_
+7	LA	La	PROPN	SP	_	5	flat:name	_	_
+8	LASCI	LASCI	PROPN	SP	_	5	flat:name	_	_
+9	IL	il	PROPN	SP	_	5	flat:name	_	_
+10	PADRE!ALTRIMENTI:CHE	PADRE!ALTRIMENTI:CHE	PROPN	SP	_	5	flat:name	_	_
+11	FACCIAMO?	FACCIAMO?	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = AI RAGGIONE TÙ!DIO DOVRÀ FARE https:// twitter.com/MonsDiBruno/st atus/718381511280615424 …
+1-2	AI	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	RAGGIONE	RAGGIONE	PROPN	SP	_	10	nmod	_	_
+4	TÙ!DIO	TÙ!DIO	PROPN	SP	_	10	nsubj	_	_
+5	DOVRÀ	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	cop	_	_
+6	FARE	fare	PROPN	SP	_	10	obl	_	_
+7	https:	https:	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/MonsDiBruno/st	twitter.com/MonsDiBruno/st	PROPN	SP	_	0	root	_	_
+11	atus/718381511280615424	atus/718381511280615424	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	10	punct	_	SpacesAfter=\n
+

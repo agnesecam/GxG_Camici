@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RobertoRenga E se facesse un'altra cosa?
+1	@RobertoRenga	@robertorenga	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	E	e	CCONJ	CC	_	4	cc	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+5	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+6	altra	altro	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Conquistarsi la sudditanza degli arbitri come in Juventus - Torino....
+1-2	Conquistarsi	_	_	_	_	_	_	_	_
+1	Conquistar	conquistare	VERB	V	VerbForm=Inf	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	sudditanza	sudditanza	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5-6	degli	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	arbitri	arbitro	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	come	come	ADV	B	_	10	advmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	Juventus	Juventus	PROPN	SP	_	7	nmod	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	Torino...	Torino...	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Terpin ne fu un maestro
+1	Terpin	Terpino	PROPN	SP	_	3	nsubj	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	maestro	maestro	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	SpacesAfter=\n
+

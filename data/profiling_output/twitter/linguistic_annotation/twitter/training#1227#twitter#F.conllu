@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Storie dell'orrore dalla scuola italiana #concorsone #scuola #1eurolora http://www.
+1	Storie	storia	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+2-3	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+2	di	di	ADP	E	_	4	case	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	orrore	orrore	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	#concorsone	#concorsone	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	#scuola	#scuolare	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	#1eurolora	#1eurolora	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	http://www	http://www	NOUN	S	_	11	compound	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = corriere.it/cronache/16_ap rile_09/concorsone-la-scuola-commissari-1-euro-all-ora-3c44b348-fe89-11e5-9678-8403d0d80f1f.shtml …
+1	corriere.it/cronache/16_ap	corriere.it/cronache/16_ap	NOUN	S	Gender=Masc	0	root	_	_
+2	rile_09	rile_09	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	concorsone-la-scuola-commissari-1-euro-all-ora-3c44b348-fe89-11e5-9678-8403d0d80f1f.shtml	concorsone-la-scuola-commissari-1-euro-all-ora-3c44b348-fe89-11e5-9678-8403d0d80f1f.shtml	NOUN	S	Gender=Masc	1	nmod	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

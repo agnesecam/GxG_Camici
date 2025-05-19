@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaOrlandosp siamo a metà percorso!
+1	@AndreaOrlandosp	@AndreaOrlandosp	NOUN	S	_	4	nsubj	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	metà	metà	NOUN	S	Gender=Fem	0	root	_	_
+5	percorso	percorso	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Dopo che si farà ?
+1	Dopo	dopo	SCONJ	CS	_	4	mark	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = certezze concretezza #ufficiodelprocesso #precarigiustizia @gennaromigliore
+1	certezze	certezza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	concretezza	concretezzo	NOUN	S	Gender=Fem|Number=Sing	1	compound	_	_
+3	#ufficiodelprocesso	#ufficiodelprocesso	ADP	E	_	4	case	_	_
+4	#precarigiustizia	#precarigiustizia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	@gennaromigliore	@gennaromigliore	ADJ	A	Degree=Cmp|Number=Sing	4	amod	_	SpacesAfter=\n
+

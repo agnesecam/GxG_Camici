@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se solo avessimo tolto l'incompetente #garcia prima chissà dove saremmo ora.
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	solo	solo	ADV	B	_	4	advmod	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	tolto	togliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+6	incompetente	incompetente	ADJ	A	Number=Sing	7	amod	_	_
+7	#garcia	#garcia	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+8	prima	prima	ADV	B	_	12	advmod	_	_
+9	chissà	chissà	ADV	B	_	12	advmod	_	_
+10	dove	dove	ADV	B	_	12	advmod	_	_
+11	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	ora	ora	ADV	B	_	4	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = In ogni mondo super #Spalletti
+1	In	in	ADP	E	_	3	case	_	_
+2	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+4	super	super	ADJ	A	_	3	amod	_	_
+5	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	Spalletti	Spalletti	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

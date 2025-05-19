@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Partito Democratico ( @pdnetwork ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Partito	Partito	PROPN	SP	_	1	flat:name	_	_
+3	Democratico	democratico	PROPN	SP	_	1	flat:name	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@pdnetwork	@pdnetwork	NOUN	S	_	1	appos	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Bruxelles Non gliela daremo vinta.
+1	#Bruxelles	#Bruxelles	ADP	E	_	6	mark	_	_
+2	Non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3-4	gliela	_	_	_	_	_	_	_	_
+3	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	daremo	daere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	vinta	vincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Lo dobbiamo alle vittime e a noi... http:// fb.me/XTjeiPI4
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	dobbiamo	dobbare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	alle	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	noi...	noi...	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	2	punct	_	_
+12	fb.me/XTjeiPI4	fb.me/XTjeiPI4	PROPN	SP	_	2	conj	_	SpacesAfter=\n
+

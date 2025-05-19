@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Votiamo SI, questo li ferirá più di qualunque sfiducia o dimissione.
+1	Votiamo	Votare	PROPN	SP	_	0	root	_	_
+2	SI	si	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	ferirá	ferirá	PROPN	SP	_	4	nmod	_	_
+7	più	più	ADV	B	_	10	advmod	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	10	det	_	_
+10	sfiducia	sfiducia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+11	o	o	CCONJ	CC	_	12	cc	_	_
+12	dimissione	dimissione	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/espressonline/ status/715577910770446337 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/espressonline/	twitter.com/espressonline/	PUNCT	FF	_	1	punct	_	_
+5	status/715577910770446337	status/715577910770446337	NUM	N	NumType=Card	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

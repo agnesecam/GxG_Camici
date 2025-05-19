@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @scuolanormale
+1	@scuolanormale	@scuolanormale	ADJ	A	Number=Sing	0	root	_	_
+
+# sent_id = 2
+# text = Che meraviglia i giornali quando scrivevano in prima pagina autori come questi!
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	meraviglia	meravigliare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	giornali	giornale	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	quando	quando	SCONJ	CS	_	6	mark	_	_
+6	scrivevano	scrivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
+9	pagina	pagina	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	autori	autore	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+11	come	come	ADP	E	_	12	case	_	_
+12	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	10	nmod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Erano un'opera d'arte anch' essi , come i libri
+1	Erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	opera	opera	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	d'	di	ADP	E	_	5	case	_	SpaceAfter=No
+5	arte	arte	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	anch'	anche	ADV	B	_	7	advmod	_	_
+7	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	come	come	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	libri	libro	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpacesAfter=\n
+

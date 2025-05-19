@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E quando il tuo uomo lorenzo_tag non ama la pastiera classica, gliela si fa con le gocce di… https://www.
+1	E	e	CCONJ	CC	_	16	cc	_	_
+2	quando	quando	SCONJ	CS	_	8	mark	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	lorenzo_tag	lorenzo_tag	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	ama	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	pastiera	pastiera	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	classica	classico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	8	punct	_	_
+13-14	gliela	_	_	_	_	_	_	_	_
+13	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	iobj	_	_
+14	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl:impers	_	_
+16	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	con	con	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	gocce	goccia	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+20	di…	di…	PUNCT	FF	_	19	punct	_	_
+21	https://www	https://www	NOUN	S	_	19	compound	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDWRVqemMrX/
+1	instagram.com/p/BDWRVqemMrX/	instagram.com/p/BDWRVqemMrX/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

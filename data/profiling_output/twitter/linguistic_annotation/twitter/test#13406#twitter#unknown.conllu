@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nella mia vita ho commesso parecchi errori.
+1-2	Nella	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	vita	vita	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	commesso	commettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	errori	errore	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Tra cui oggi, andare all'Esselunga, di sabato mattina.
+1	Tra	tra	ADP	E	_	2	case	_	_
+2	cui	cui	PRON	PR	PronType=Rel	5	obl	_	_
+3	oggi	oggi	ADV	B	_	5	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+6-7	all'	_	_	_	_	_	_	_	SpaceAfter=No
+6	a	a	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	Esselunga	Esselunga	PROPN	SP	_	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = GALL SEI UN DEFICIENTE.
+1	GALL	GALL	PROPN	SP	_	0	root	_	_
+2	SEI	Sei	PROPN	SP	_	1	flat:name	_	_
+3	UN	Un	PROPN	SP	_	1	flat:name	_	_
+4	DEFICIENTE	DEFICIENTE	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

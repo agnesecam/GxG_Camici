@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ieri con i mie amici, abbiamo fatto il karaoke e tra le canzoni, ne ho messa qualcuna di Marco.
+1	Ieri	ieri	ADV	B	_	8	advmod	_	_
+2	con	con	ADP	E	_	5	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	amici	amico	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	karaoke	karaoke	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	e	e	CCONJ	CC	_	18	cc	_	_
+12	tra	tra	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	18	iobj	_	_
+17	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	messa	mettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	_
+19	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	18	obj	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	Marco	Marco	PROPN	SP	_	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = 'Splendida Ostinazione' mi è venuta -
+1	'	'	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Splendida	splendidare	PROPN	SP	_	7	nsubj	_	_
+3	Ostinazione	ostinazione	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	2	punct	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	venuta	venire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	-	-	PUNCT	FB	_	7	punct	_	SpacesAfter=\n
+

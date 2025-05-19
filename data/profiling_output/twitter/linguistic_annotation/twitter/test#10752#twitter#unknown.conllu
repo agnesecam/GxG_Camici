@@ -1,0 +1,59 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giuliavnegri89
+1	@giuliavnegri89	@giuliavnegri89	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = Sì, lo studio sta facendo assai scalpore, ma la risp di alcuni debunker è interessante e non banale http://www.
+1	Sì	sì	INTJ	I	Polarity=Pos	6	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	studio	studio	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	facendo	fare	VERB	V	VerbForm=Ger	0	root	_	_
+7	assai	assai	ADV	B	_	8	advmod	_	_
+8	scalpore	scalpore	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	17	punct	_	_
+10	ma	ma	CCONJ	CC	_	17	cc	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	risp	risp	NOUN	S	Gender=Fem	17	nsubj	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
+15	debunker	debunker	NOUN	S	_	12	nmod	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	interessante	interessante	ADJ	A	Number=Sing	6	conj	_	_
+18	e	e	CCONJ	CC	_	21	cc	_	_
+19	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+20	banale	banale	ADJ	A	Number=Sing	21	amod	_	_
+21	http://www	http://www	NOUN	S	_	17	conj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = lastampa.it/2016/03/17/tec nologia/idee/smascherare-le-bufale-online-non-inutile-ecco-perch-secondo-i-debunker-italiani-sVRlXFNUXOijBns8ligtfL/pagina.html …
+1	lastampa.it/2016/03/17/tec	lastampa.it/2016/03/17/tec	ADV	B	_	2	advmod	_	_
+2	nologia/idee	nologia/ideo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	/smascherare-le	/smascherare-le	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	bufale-online	bufale-online	ADJ	A	Gender=Fem|Number=Plur	3	conj	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	non	non	ADV	BN	PronType=Neg	5	advmod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+9	inutile	inutile	ADJ	A	Number=Sing	3	conj	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+11	ecco	ecco	ADV	B	_	15	advmod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+13	perch	perch	INTJ	I	_	15	discourse	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	SpaceAfter=No
+16	-	-	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	SpaceAfter=No
+18	-debunker	-debunker	NOUN	S	_	15	nsubj	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	18	compound	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	sVRlXFNUXOijBns8ligtfL	sVRlXFNUXOijBns8ligtfL	PROPN	SP	_	20	nmod	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	pagina.html	pagina.html	NOUN	S	Number=Sing	22	compound	_	_
+25	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

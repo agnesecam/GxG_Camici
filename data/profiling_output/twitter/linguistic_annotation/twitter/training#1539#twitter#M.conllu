@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ce frega 'ncazzo se sei addolorato,pensaci prima di fare magagne a spese nostre https:// twitter.com/Agenzia_Ansa/s tatus/718763368065208320 …
+1	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+2	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	ncazzo	ncazzare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	addolorato	addolorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	SpaceAfter=No
+8-9	,pensaci	_	_	_	_	_	_	_	_
+8	,pensa	,pensare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+10	prima	prima	ADV	B	_	12	mark	_	_
+11	di	di	ADP	E	_	10	fixed	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	8	advcl	_	_
+13	magagne	magagna	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+16	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	_
+17	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	_
+20	twitter.com/Agenzia_Ansa/s	twitter.com/Agenzia_Ansa/s	PROPN	SP	_	15	nmod	_	_
+21	tatus/718763368065208320	tatus/718763368065208320	NUM	N	NumType=Card	20	nummod	_	_
+22	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

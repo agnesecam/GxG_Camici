@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno) (La frase di oggi) (Cercare se stesso solo dentro di noi, può non bastare) (Ciao Fernando)-
+1	Buongiorno	Buongiorno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	_
+3	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+4	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	frase	frase	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	oggi	oggi	ADV	B	_	5	nmod	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	5	punct	_	_
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	Cercare	cercare	VERB	V	VerbForm=Inf	5	advcl	_	_
+11	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	obj	_	_
+12	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	solo	solo	ADV	B	_	16	advmod	_	_
+14	dentro	dentro	ADP	E	_	16	case	_	_
+15	di	di	ADP	E	_	14	fixed	_	_
+16	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	10	punct	_	_
+18	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	bastare	bastare	VERB	V	VerbForm=Inf	10	conj	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	10	punct	_	_
+22	(	(	PUNCT	FB	_	23	punct	_	SpaceAfter=No
+23	Ciao	ciao	PROPN	SP	_	5	nmod	_	_
+24	Fernando	Fernando	PROPN	SP	_	23	nmod	_	SpaceAfter=No
+25	)	)	PUNCT	FB	_	23	punct	_	SpaceAfter=No
+26	-	-	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

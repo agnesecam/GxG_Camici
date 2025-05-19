@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi regeni pagato dalla CIA.ricercatore di sto cazzo
+1	@matteorenzi	@matteorenzi	ADP	E	_	2	case	_	_
+2	regeni	regeno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	pagato	pagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	CIA.ricercatore	CIA.ricercatore	PROPN	SP	_	3	obl:agent	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	sto	sto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpacesAfter=\n
+

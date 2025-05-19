@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giuli_valle @pisto_gol ma ovviamente ciascuno di noi è libero di scegliere i propri IDOLI ED ESEMPI da seguire.
+1	@giuli_valle	@giuli_vallo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	@pisto_gol	@pisto_goal	NOUN	S	_	0	root	_	_
+3	ma	ma	CCONJ	CC	_	9	cc	_	_
+4	ovviamente	ovviamente	ADV	B	_	9	advmod	_	_
+5	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	libero	libero	ADJ	A	Gender=Masc|Number=Sing	2	conj	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	scegliere	scegliere	VERB	V	VerbForm=Inf	9	advcl	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	propri	proprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	IDOLI	IDOLI	PROPN	SP	_	11	obj	_	_
+15	ED	Ed	PROPN	SP	_	11	nsubj	_	_
+16	ESEMPI	esempi	PROPN	SP	_	15	flat:name	_	_
+17	da	da	ADP	E	_	18	mark	_	_
+18	seguire	seguire	VERB	V	VerbForm=Inf	15	acl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Maradona è il vostro.
+1	Maradona	Maradona	PROPN	SP	_	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	vostro	vostro	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

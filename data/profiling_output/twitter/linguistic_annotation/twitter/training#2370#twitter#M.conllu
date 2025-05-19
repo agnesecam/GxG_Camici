@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forza ragazze, dateci dentro .
+1	Forza	forza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	ragazze	ragazza	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4-5	dateci	_	_	_	_	_	_	_	_
+4	date	dare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+6	dentro	dentro	ADV	B	_	4	advmod	_	_
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = In bocca al lupo a tutte voi che sarete in gara oggi.
+1	In	in	ADP	E	_	2	case	_	_
+2	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
+8	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	5	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	sarete	saere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	gara	gara	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	oggi	oggi	ADV	B	_	10	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Anche questa volta non riesco...
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	volta	volta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	riesco...	riesco.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/4jvDAJXPA
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4jvDAJXPA	fb.me/4jvDAJXPA	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

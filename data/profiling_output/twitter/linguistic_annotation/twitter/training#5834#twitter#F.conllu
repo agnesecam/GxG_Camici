@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qual è il meccanismo preciso per cui se in una serie tv qualcuna si scopre incinta, io piango tutte le mie lacrime e oltre?
+1	Qual	quale	PRON	PQ	Number=Sing|PronType=Int	0	root	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	meccanismo	meccanismo	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+5	preciso	preciso	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	cui	cui	PRON	PR	PronType=Rel	19	obl	_	_
+8	se	se	SCONJ	CS	_	15	mark	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	serie	serie	NOUN	S	Gender=Fem	15	obl	_	_
+12	tv	tv	NOUN	S	Gender=Fem	11	compound	_	_
+13	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	15	obj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:impers	_	_
+15	scopre	scoprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+16	incinta	incincere	ADJ	A	Gender=Fem|Number=Sing	15	xcomp	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	15	punct	_	_
+18	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+19	piango	piangere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+20	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	23	det:predet	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+22	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	lacrime	lacrima	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	oltre	oltre	ADV	B	_	19	conj	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

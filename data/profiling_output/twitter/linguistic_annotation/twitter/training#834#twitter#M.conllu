@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonioCorsa Ma forse pensava che avessimo perso 2-0 all'andata?
+1	@AntonioCorsa	@AntonioCorsa	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	Ma	ma	CCONJ	CC	_	4	cc	_	_
+3	forse	forse	ADV	B	_	4	advmod	_	_
+4	pensava	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	perso	perso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+8	2	2	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+9	-0	-0	NUM	N	NumType=Card	8	flat	_	_
+10-11	all'	_	_	_	_	_	_	_	SpaceAfter=No
+10	a	a	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	andata	andata	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

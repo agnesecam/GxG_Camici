@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensiamoci, dunque , quando ci liberiamo di un computer e di un cellulare!
+1	Pensiamoci	Pensiamoce	ADV	B	_	7	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	dunque	dunque	ADV	B	_	7	advmod	_	_
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	quando	quando	SCONJ	CS	_	7	mark	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+7	liberiamo	liberare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	computer	computer	NOUN	S	Gender=Masc	7	obl	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	cellulare	cellulare	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = nonsprecare.it/smaltimento-ri fiuti-elettrici-elettronici-discarica-agbogbloshie-ghana-rischi-salute … via @Nonsprecare
+1	nonsprecare.it/smaltimento-ri	nonsprecare.it/smaltimento-re	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+2	fiuti	fiuto	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+3	-elettrici	-elettrico	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
+4	-elettronici	-elettronico	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
+5	-discarica	-discarico	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+6	-agbogbloshie	-agbogbloshio	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	ghana	ghano	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	rischi	rischio	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+11	-salute	-saluto	NOUN	S	Number=Sing	10	compound	_	_
+12	…	…	PUNCT	FF	_	10	punct	_	_
+13	via	via	ADV	B	_	10	advmod	_	_
+14	@Nonsprecare	@Nonsprecare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

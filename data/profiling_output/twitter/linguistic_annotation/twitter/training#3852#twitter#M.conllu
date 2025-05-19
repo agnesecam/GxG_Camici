@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Almeno certe cose non farle vedere, poi non venirmi a dire che ciò che penso è sbagliato!
+1	Almeno	almeno	ADV	B	_	3	advmod	_	_
+2	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5-6	farle	_	_	_	_	_	_	_	_
+5	far	fare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+6	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	vedere	vedere	VERB	V	VerbForm=Inf	5	ccomp	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	11	punct	_	_
+9	poi	poi	ADV	B	_	11	advmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11-12	venirmi	_	_	_	_	_	_	_	_
+11	venir	venire	VERB	V	VerbForm=Inf	7	conj	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	dire	dire	VERB	V	VerbForm=Inf	11	advcl	_	_
+15	che	che	SCONJ	CS	_	20	mark	_	_
+16	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	_
+17	che	che	PRON	PR	PronType=Rel	18	obj	_	_
+18	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	sbagliato	sbagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

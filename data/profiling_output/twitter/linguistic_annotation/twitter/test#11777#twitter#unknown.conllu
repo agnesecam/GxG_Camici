@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ieri sera a quest'ora io e Minna stavamo nerdando alla grande e parlando di tutto e di più.
+1	Ieri	ieri	ADV	B	_	10	advmod	_	_
+2	sera	sera	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	quest'	questo	DET	DD	Number=Sing|PronType=Dem	5	det	_	SpaceAfter=No
+5	ora	ora	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	Minna	Minna	PROPN	SP	_	6	conj	_	_
+9	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	nerdando	nerdare	VERB	V	VerbForm=Ger	0	root	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	grande	grande	ADJ	A	Number=Sing	10	obl	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	parlando	parlare	VERB	V	VerbForm=Ger	13	conj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	obl	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	più	più	ADV	B	_	17	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = #mimancagià
+1	#mimancagià	#mimancagià	ADV	B	_	0	root	_	SpacesAfter=\n
+

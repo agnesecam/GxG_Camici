@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonellaColoru come Emma quando nacque 5 anni fa.
+1	@AntonellaColoru	@AntonellaColoru	NOUN	S	Gender=Masc	0	root	_	_
+2	come	come	ADP	E	_	3	case	_	_
+3	Emma	Emma	PROPN	SP	_	1	nmod	_	_
+4	quando	quando	SCONJ	CS	_	5	mark	_	_
+5	nacque	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+6	5	5	NUM	N	NumType=Card	7	nummod	_	_
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+8	fa	fa	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = :) e non fare battute scontate, anche io ne EBBI tanti, ma li rivollero indietro.
+1	:	:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	5	punct	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+6	battute	battuta	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+7	scontate	scontato	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	anche	anche	ADV	B	_	10	advmod	_	_
+10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	acl:relcl	_	_
+12	EBBI	EBBI	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	ma	ma	CCONJ	CC	_	17	cc	_	_
+16	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+17	rivollero	rivollero	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+18	indietro	indietro	ADV	B	_	17	advmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = :D
+1	:D	:D	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

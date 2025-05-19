@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In diretta dallo studio di #LauraePaola ... bravi tutti, dal vivo ancor di più!
+1	In	in	ADP	E	_	2	case	_	_
+2	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	dallo	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	studio	studio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	#LauraePaola	#LauraePaola	PROPN	SP	_	5	nmod	_	_
+8	...	...	PUNCT	FF	_	7	punct	_	_
+9	bravi	bravo	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+10	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	2	punct	_	_
+12-13	dal	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	vivo	vivo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+15	ancor	ancora	ADV	B	_	17	advmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	più	più	ADV	B	_	14	advmod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ;) @PaolaCortellesi @LauraPausini pic.twitter.com/gjWkKBcKvS
+1	;	;	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	_
+3	@PaolaCortellesi	@PaolaCortellesi	PROPN	SP	_	0	root	_	_
+4	@LauraPausini	@LauraPausini	PROPN	SP	_	3	nmod	_	_
+5	pic.twitter.com/gjWkKBcKvS	pic.twitter.com/gjWkKBcKvS	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

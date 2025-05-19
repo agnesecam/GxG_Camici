@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Facevamo l'amore come nessun altro fa, senza pensare a domani ma domani è oggi ed è già qua.
+1	Facevamo	Facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	amore	amore	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	come	come	ADP	E	_	6	case	_	_
+5	nessun	nessuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	_
+7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	senza	senza	ADP	E	_	10	mark	_	_
+10	pensare	pensare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	domani	domani	ADV	B	_	10	advmod	_	_
+13	ma	ma	CCONJ	CC	_	14	cc	_	_
+14	domani	domani	ADV	B	_	10	conj	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+16	oggi	oggi	ADV	B	_	20	advmod	_	_
+17	ed	e	CCONJ	CC	_	20	cc	_	_
+18	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	già	già	ADV	B	_	20	advmod	_	_
+20	qua	qua	ADV	B	_	15	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

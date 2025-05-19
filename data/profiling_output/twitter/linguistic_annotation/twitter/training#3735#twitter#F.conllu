@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Condivido in pieno.
+1	Condivido	Condividere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	pieno.	pieno.	NOUN	S	_	1	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..tutto ciò con lo sport non ha nulla a ke fare https:// twitter.com/Padretern/stat us/719214877445853184 …
+1	..tutto	..tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sport	sport	NOUN	S	Gender=Masc	7	obl	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	ke	ke	VERB	V	VerbForm=Inf	8	acl	_	_
+11	fare	fare	VERB	V	VerbForm=Inf	10	conj	_	_
+12	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	twitter.com/Padretern/stat	twitter.com/Padretern/stat	PROPN	SP	_	11	obj	_	_
+16	us/719214877445853184	us/719214877445853184	NUM	N	NumType=Card	15	nummod	_	_
+17	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

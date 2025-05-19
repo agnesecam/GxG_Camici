@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ahahha è caduta la borsa a sta tizia e io a 1cm l'ho guardata, l'ho schifata e non gliela ho raccolta.
+1	Ahahha	Ahahavere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	caduta	cadere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	borsa	borsa	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	sta	stare	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	tizia	tizia	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	1cm	1cm	NOUN	S	Gender=Masc	15	obl	_	_
+13	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	15	obj	_	SpaceAfter=No
+14	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	guardata	guardare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	19	punct	_	_
+17	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	19	obj	_	SpaceAfter=No
+18	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	schifata	schifare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+20	e	e	CCONJ	CC	_	25	cc	_	_
+21	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+22-23	gliela	_	_	_	_	_	_	_	_
+22	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	25	expl	_	_
+23	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
+24	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	raccolta	raccolgere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	conj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = + punti gentiluomo.
+1	+	+	SYM	SYM	_	2	nmod	_	_
+2	punti	punto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	gentiluomo	gentiluomo	NOUN	S	Gender=Masc|Number=Sing	2	compound	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

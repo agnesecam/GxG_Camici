@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se continua così, Renzi farà presto le valigie https:// infosannio.wordpress.com/2016/04/08/se- continua-cosi-renzi-fara-presto-le-valigie … pic.twitter.com/5g7p42TDIp
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	così	così	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	Renzi	Renzi	PROPN	SP	_	6	nsubj	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	presto	presto	ADV	B	_	6	advmod	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	SpacesAfter= 
+9	valigie	valigia	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
+10	https:	https:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	infosannio.wordpress.com/2016/04/08/se-	_	PUNCT	FB	_	14	punct	_	_
+14	continua-cosi	continua-coso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	conj	_	SpaceAfter=No
+15	-renzi	-renzi	ADV	B	_	14	advmod	_	SpaceAfter=No
+16	-fara	-fara	ADP	E	_	17	case	_	SpaceAfter=No
+17	-presto-le	-presto-le	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	valigie	valigia	NOUN	S	Gender=Fem|Number=Plur	17	compound	_	_
+20	…	…	PUNCT	FF	_	6	punct	_	_
+21	pic.twitter.com/5g7p42TDIp	pic.twitter.com/5g7p42TDIp	PROPN	SP	_	6	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = BUFFON a La Stampa:
+1	BUFFON	Buffon	NOUN	S	_	0	root	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Stampa	stampa	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Stavolta le nostre rivali sono senz’alibi" - Tutto Juve #buffon #Juventus http:// m.tuttojuve.com/primo-piano/bu ffon-a-la-stampa-stavolta-le-nostre-rivali-sono-senzalibi-287371 …
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2	Stavolta	stavolta	ADV	B	_	8	advmod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	rivali	rivale	NOUN	S	Number=Plur	8	nsubj	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	senz’	senzo	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	alibi	alibo	NOUN	S	Gender=Masc|Number=Plur	25	obl	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	-	-	PUNCT	FF	_	8	punct	_	_
+11	Tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
+12	Juve	Juve	PROPN	SP	_	25	nsubj	_	_
+13	#buffon	#buffon	ADP	E	_	14	case	_	_
+14	#Juventus	#Juventus	PROPN	SP	_	25	obl	_	_
+15	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	m.tuttojuve.com/primo-piano/bu	m.tuttojuve.com/primo-piano/bu	X	SW	Foreign=Yes	14	nmod	_	_
+19	ffon	ffon	X	SW	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	a-la-stampa-stavolta-le	a-la-stampa-stavolta-le	X	SW	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
+22	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+23	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	25	det:poss	_	SpaceAfter=No
+24	-	-	PUNCT	FB	_	25	punct	_	SpaceAfter=No
+25	rivali-sono	esrivali-sere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+26	-senzalibi-287371	-senzalibi-287371	NUM	N	NumType=Card	25	compound	_	_
+27	…	…	PUNCT	FF	_	25	punct	_	SpacesAfter=\n
+

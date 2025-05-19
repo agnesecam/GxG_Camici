@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi ricordo quando ancora non sapevo di cosa si trattasse Ma sapevo, ormai, che in ogni mio pensiero, in ogni mio gesto, tu, ci saresti stato
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quando	quando	SCONJ	CS	_	6	mark	_	_
+4	ancora	ancora	ADV	B	_	6	advmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	10	obl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	trattasse	trattare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+11	Ma	ma	CCONJ	CC	_	12	cc	_	_
+12	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	ormai	ormai	ADV	B	_	12	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	12	punct	_	_
+16	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+17	in	in	ADP	E	_	20	case	_	_
+18	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	20	det	_	_
+19	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	12	punct	_	_
+22	in	in	ADP	E	_	25	case	_	_
+23	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	25	det	_	_
+24	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	25	det:poss	_	_
+25	gesto	gesto	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+26	,	,	PUNCT	FF	_	27	punct	_	_
+27	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	6	conj	_	SpaceAfter=No
+28	,	,	PUNCT	FF	_	31	punct	_	_
+29	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	31	expl	_	_
+30	saresti	saredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	31	aux	_	_
+31	stato	stato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	SpacesAfter=\n
+

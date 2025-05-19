@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I ragazzi di Raqqa che sfidano la morte per raccontare ciò che accade e riavere la libertà http:// buff.ly/1SplyxJ pic.twitter.com/g4i219jwr8
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Raqqa	Raqqa	PROPN	SP	_	2	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	sfidano	sfidare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	morte	morte	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	per	per	ADP	E	_	10	mark	_	_
+10	raccontare	raccontare	VERB	V	VerbForm=Inf	6	advcl	_	_
+11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	accade	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	riavere	riavere	VERB	V	VerbForm=Inf	13	conj	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	libertà	libertà	NOUN	S	Gender=Fem	15	obj	_	_
+18	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	_
+21	buff.ly/1SplyxJ	buff.ly/1SplyxJ	PROPN	SP	_	17	nmod	_	_
+22	pic.twitter.com/g4i219jwr8	pic.twitter.com/g4i219jwr8	NUM	N	NumType=Card	2	nummod	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A me continua a sembrare il tragico, subdolo, inevitabile, destino evidente della mia generazione.
+1	A	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+3	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+7	tragico	tragico	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	subdolo	subdolo	ADJ	A	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	inevitabile	inevitabile	ADJ	A	Number=Sing	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13	destino	destino	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+14	evidente	evidente	ADJ	A	Number=Sing	13	amod	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	generazione	generazione	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/ZnIIZmOovB
+1	pic.twitter.com/ZnIIZmOovB	pic.twitter.com/ZnIIZmOovB	NOUN	S	_	0	root	_	SpacesAfter=\n
+

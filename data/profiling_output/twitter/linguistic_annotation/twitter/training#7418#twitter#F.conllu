@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ilgava1 essì ! a volte uno c'azzecca pe' puro culo!
+1	@Ilgava1	@Ilgava1	NUM	N	NumType=Card	2	nummod	_	_
+2	essì	essì	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
+3	!	!	PUNCT	FS	_	2	punct	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	volte	volte	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+6	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	_
+7	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	SpaceAfter=No
+8	azzecca	azzeccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-10	pe'	_	_	_	_	_	_	_	_
+9	pi	pio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	puro	puro	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	culo	culo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = auhauhauhauhhh!!!!
+1	auhauhauhauhhh	auhauhauhauhhh	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!!	!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

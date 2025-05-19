@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pinapic un giorno @unitaonline dovrà fare pubblica ammenda per aver ospitato le trivialità manettare di questo fascio in passato.
+1	@pinapic	@pinapic	ADV	B	_	6	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+4	@unitaonline	@unitaonline	ADJ	A	Number=Sing	3	amod	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+7	pubblica	pubblico	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	ammenda	ammenda	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	per	per	ADP	E	_	11	mark	_	_
+10	aver	avere	AUX	VA	VerbForm=Inf	11	aux	_	_
+11	ospitato	ospitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	trivialità	trivialità	NOUN	S	Gender=Fem	11	obj	_	_
+14	manettare	manettare	VERB	V	VerbForm=Inf	11	advcl	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
+17	fascio	fascio	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	passato	passato	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Piovegovernolad prima di entrare inUE stavamo bene, entrava poco e niente in Italia, si vedevano solo prodotti italiani, eravamo fieri.....
+1	@Piovegovernolad	@Piovegovernolad	ADP	E	_	6	mark	_	_
+2	prima	prima	ADV	B	_	4	mark	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	entrare	entrare	VERB	V	VerbForm=Inf	6	advcl	_	_
+5	inUE	inUE	PROPN	SP	_	4	obj	_	_
+6	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	23	acl	_	_
+7	bene	bene	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	entrava	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+10	poco	poco	ADV	B	_	9	advmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	Italia	Italia	PROPN	SP	_	9	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	vedevano	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+18	solo	solo	ADV	B	_	17	advmod	_	_
+19	prodotti	prodotto	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	_
+20	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	6	punct	_	_
+22	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	23	cop	_	_
+23	fieri.....	fieri.....	NOUN	S	_	0	root	_	SpacesAfter=\n
+

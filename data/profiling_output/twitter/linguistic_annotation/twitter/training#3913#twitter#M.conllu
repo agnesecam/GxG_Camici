@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bellavita ha ricevuto la revoca del distacco sindacale.
+1	Bellavita	Bellavita	PROPN	SP	_	3	nsubj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	ricevuto	ricevere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	revoca	revoca	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	distacco	distacco	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	sindacale	sindacale	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Dovrà dunque tornare al proprio posto di lavoro.Orrore pic.twitter.com/opTtJxv78V
+1	Dovrà	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	tornare	tornare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	posto	posto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	lavoro.Orrore	lavoro.Orrore	PROPN	SP	_	7	nmod	_	_
+10	pic.twitter.com/opTtJxv78V	pic.twitter.com/opTtJxv78V	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #TG24Pomeriggio Sisto F.I.Azione scriteriata del Governo su terrorismo!Hop Hop banalità al galoppo libero,per usare assai generoso eufemismo
+1	#TG24Pomeriggio	#TG24Pomeriggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Sisto	Sisto	PROPN	SP	_	1	nmod	_	_
+3	F.I.Azione	F.I.Azione	PROPN	SP	_	2	flat:name	_	_
+4	scriteriata	scriteriare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	su	su	ADP	E	_	9	case	_	_
+9	terrorismo!Hop	terrorismo!Hop	PROPN	SP	_	4	obl	_	_
+10	Hop	Hop	PROPN	SP	_	9	flat:name	_	_
+11	banalità	banalità	NOUN	S	Gender=Fem	9	nmod	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	galoppo	galoppo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15	libero,per	libero,pere	AUX	VA	VerbForm=Inf	16	aux	_	_
+16	usare	usare	VERB	V	VerbForm=Inf	1	conj	_	_
+17	assai	assai	ADV	B	_	16	advmod	_	_
+18	generoso	generoso	ADJ	A	Gender=Masc|Number=Sing	16	xcomp	_	_
+19	eufemismo	eufemismo	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sfide pasquali.
+1	Sfide	sfide	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	pasquali	pasquale	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ciaramicola vs Pastiera, Perugia vs Napoli.
+1	Ciaramicola	Ciaramicolo	PROPN	SP	_	0	root	_	_
+2	vs	v	PROPN	SW	Foreign=Yes	1	flat:name	_	_
+3	Pastiera	Pastiera	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	Perugia	Perugia	PROPN	SP	_	1	conj	_	_
+6	vs	vs	PROPN	SW	Foreign=Yes	5	flat:name	_	_
+7	Napoli	Napoli	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Chi vincerá?
+1	Chi	Chi	PRON	PQ	PronType=Int	0	root	_	_
+2	vincerá	vincerá	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Ardua lotta, qualcun dovrá pur... http:// fb.me/3OMpxhbAH
+1	Ardua	Ardua	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	lotta	lotto	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	qualcun	qualcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	dovrá	dovrá	PROPN	SP	_	6	conj	_	_
+6	pur...	pur.	NOUN	S	_	2	nmod	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	fb.me/3OMpxhbAH	fb.me/3OMpxhbAH	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sono tentata di andare a suonargli e chiedergli con molta cortesia di smetterla
+1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	tentata	tentare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	andare	andare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	suonargli	_	_	_	_	_	_	_	_
+6	suonar	suonare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9-10	chiedergli	_	_	_	_	_	_	_	_
+9	chieder	chiedere	VERB	V	VerbForm=Inf	2	conj	_	_
+10	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+11	con	con	ADP	E	_	13	case	_	_
+12	molta	molto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	13	det	_	_
+13	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15-16	smetterla	_	_	_	_	_	_	_	SpacesAfter=\n
+15	smetter	smettere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+16	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+

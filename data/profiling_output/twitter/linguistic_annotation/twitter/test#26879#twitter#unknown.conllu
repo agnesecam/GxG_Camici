@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Storia moderna...
+1	Storia	storia	PROPN	SP	_	0	root	_	_
+2	moderna...	moderna.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ahimè , un antistaminico è meno soporifero.
+1	ahimè	ahimè	INTJ	I	_	7	discourse	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	antistaminico	antistaminico	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	meno	meno	ADV	B	_	7	advmod	_	_
+7	soporifero	soporifero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = Grandi i sudamericani e il caffè #IoStudioForte #Addictedtocoffee
+1	Grandi	Grande	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	sudamericani	sudamericane	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	caffè	caffè	NOUN	S	Gender=Masc	3	conj	_	_
+7	#IoStudioForte	#IoStudioForte	PROPN	SP	_	6	nmod	_	_
+8	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	Addictedtocoffee	Addictedtocoffee	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

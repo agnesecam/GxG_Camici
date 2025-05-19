@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La vera Chiesa di Gesù Cristo, non si fermò all'annuncio di Matteo 28:19, "Andate dunque , e fate discepoli di... http:// fb.me/250xpmQs2
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	vera	vero	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	Chiesa	chiesa	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Gesù	Gesù	PROPN	SP	_	3	nmod	_	_
+6	Cristo	Cristo	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	fermò	fermare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11-12	all'	_	_	_	_	_	_	_	SpaceAfter=No
+11	a	a	ADP	E	_	13	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	annuncio	annuncio	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Matteo	Matteo	PROPN	SP	_	13	nmod	_	_
+16	28:19	28:19	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	10	punct	_	_
+18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+19	Andate	andare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
+20	dunque	dunque	ADV	B	_	19	advmod	_	_
+21	,	,	PUNCT	FF	_	23	punct	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	19	conj	_	_
+24	discepoli	discepolo	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	_
+25	di...	di.	PUNCT	FS	_	26	punct	_	_
+26	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	19	punct	_	_
+29	fb.me/250xpmQs2	fb.me/250xpmQs2	PROPN	SP	_	10	xcomp	_	SpacesAfter=\n
+

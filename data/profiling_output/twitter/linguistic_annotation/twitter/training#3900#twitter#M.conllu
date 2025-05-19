@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = √ Guns N' Roses, subito problemi di salute per Axl: dovrà operarsi - VIDEO http:// fb.me/7Sr152O2W
+1	√	√	SYM	SYM	_	14	nsubj	_	_
+2	Guns	Guns	PROPN	SP	_	1	flat:name	_	_
+3	N'	no	PROPN	SP	_	1	nmod	_	_
+4	Roses	Roses	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	subito	subito	ADV	B	_	7	advmod	_	_
+7	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	1	appos	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	salute	salute	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	Axl	Axl	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	1	punct	_	_
+13	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14-15	operarsi	_	_	_	_	_	_	_	_
+14	operar	operare	VERB	V	VerbForm=Inf	0	root	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+16	-	-	PUNCT	FF	_	17	punct	_	_
+17	VIDEO	video	PROPN	SP	_	14	obl	_	_
+18	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	fb.me/7Sr152O2W	fb.me/7Sr152O2W	PROPN	SP	_	17	nmod	_	SpacesAfter=\n
+

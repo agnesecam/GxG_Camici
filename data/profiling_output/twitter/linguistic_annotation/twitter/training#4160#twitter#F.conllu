@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Me la rido ora che il gruppo Simona-Orfei dovrà votarsi tra loro,la mia Mercedesz mi ha fatto prendere un colpo ma è la migliore!!
+1	Me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	rido	ridere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ora	ora	ADV	B	_	12	mark	_	_
+5	che	che	SCONJ	CS	_	4	fixed	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+8	Simona	Simona	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	Orfei	Orfei	PROPN	SP	_	8	flat:name	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12-13	votarsi	_	_	_	_	_	_	_	_
+12	votar	votare	VERB	V	VerbForm=Inf	3	advcl	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+14	tra	tra	ADP	E	_	17	case	_	_
+15	loro,la	loro,la	DET	RD	Gender=Fem|Number=Sing	17	det	_	_
+16	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	Mercedesz	Mercedesz	PROPN	SP	_	12	obl	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	obj	_	_
+19	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+21	prendere	prendere	VERB	V	VerbForm=Inf	20	advcl	_	_
+22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	colpo	colpo	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+24	ma	ma	CCONJ	CC	_	27	cc	_	_
+25	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	3	conj	_	SpaceAfter=No
+28	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+29	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #Isola
+1	#Isola	#Isolo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

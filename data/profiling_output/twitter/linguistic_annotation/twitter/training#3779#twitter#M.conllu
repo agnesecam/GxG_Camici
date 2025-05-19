@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ... ciò che delizia in una bellezza visibile è l'invisibile ...mve pic.twitter.com/sguM9BlNY4
+1	...	...	PUNCT	FF	_	2	punct	_	_
+2	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	delizia	deliziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	bellezza	bellezza	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	visibile	visibile	ADJ	A	Number=Sing	7	amod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+11	invisibile	invisibile	ADJ	A	Number=Sing	12	amod	_	_
+12	...mve	...mva	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+13	pic.twitter.com/sguM9BlNY4	pic.twitter.com/sguM9BlNY4	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

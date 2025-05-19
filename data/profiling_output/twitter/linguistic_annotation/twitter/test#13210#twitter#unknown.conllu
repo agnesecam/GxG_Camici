@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @carmeloabbate Come sempre analisi logiche e realistiche.
+1	@carmeloabbate	@carmeloabbare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	Come	come	ADP	E	_	4	case	_	_
+3	sempre	sempre	ADV	B	_	4	advmod	_	_
+4	analisi	analisi	NOUN	S	Gender=Fem	1	obl	_	_
+5	logiche	logiche	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	realistiche	realistico	ADJ	A	Gender=Fem|Number=Plur	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma questa guerra é iniziata parecchi anni fa dopo l'attacco alle torri gemelle
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	iniziata	iniziare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+8	fa	fa	ADV	B	_	7	advmod	_	_
+9	dopo	dopo	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	attacco	attacco	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+12-13	alle	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	torri	torro	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
+15	gemelle	gemella	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	SpacesAfter=\n
+

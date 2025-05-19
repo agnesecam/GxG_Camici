@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lo so che è il 1 aprile, ma questo non è un pesce, per quanto possa sembrare assurdo e per quanto io creda nella... http:// fb.me/2fOFXBIvm
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	1	1	NUM	N	NumType=Card	2	ccomp	_	_
+7	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	6	flat	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	14	punct	_	_
+9	ma	ma	CCONJ	CC	_	14	cc	_	_
+10	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	14	nmod	_	_
+18	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	sembrare	sembrare	VERB	V	VerbForm=Inf	17	acl:relcl	_	_
+20	assurdo	assurdo	ADJ	A	Gender=Masc|Number=Sing	30	amod	_	_
+21	e	e	CCONJ	CC	_	23	cc	_	_
+22	per	per	ADP	E	_	23	case	_	_
+23	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	20	obl	_	_
+24	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
+25	creda	credere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
+26	nella...	nella.	PUNCT	FS	_	27	punct	_	_
+27	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	27	punct	_	SpaceAfter=No
+29	/	/	PUNCT	FF	_	23	punct	_	_
+30	fb.me/2fOFXBIvm	fb.me/2fOFXBIvm	PROPN	SP	_	19	obj	_	SpacesAfter=\n
+

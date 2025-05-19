@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LorenzonDaniele spero altrimenti mi sono rovinata l'infanzia, che poi non è possibile che fossimo tutti scemi a dire stella.....
+1	@LorenzonDaniele	@LorenzonDaniele	PROPN	SP	_	2	nsubj	_	_
+2	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	altrimenti	altrimenti	ADV	B	_	2	advmod	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	rovinata	rovinare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	infanzia	infanzia	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+11	poi	poi	ADV	B	_	14	advmod	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	possibile	possibile	ADJ	A	Number=Sing	8	acl:relcl	_	_
+15	che	che	SCONJ	CS	_	18	mark	_	_
+16	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	18	aux	_	_
+17	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	18	nsubj	_	_
+18	scemi	scema	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+19	a	a	ADP	E	_	20	mark	_	_
+20	dire	dire	VERB	V	VerbForm=Inf	18	ccomp	_	_
+21	stella.....	stella...	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

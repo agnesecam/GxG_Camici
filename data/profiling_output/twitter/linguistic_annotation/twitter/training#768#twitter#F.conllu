@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutti i sogni possono diventare realtà, Se solo avessimo il coraggio di inseguirli.
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det:predet	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	sogni	sogno	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	diventare	diventare	VERB	V	VerbForm=Inf	0	root	_	_
+6	realtà	realtà	NOUN	S	Gender=Fem	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	Se	se	SCONJ	CS	_	10	mark	_	_
+9	solo	solo	ADV	B	_	10	advmod	_	_
+10	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	conj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	inseguirli.	inseguirli.	NOUN	S	_	12	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..<3
+1	..<3	..<3	NUM	N	NumType=Range	0	root	_	SpacesAfter=\n
+

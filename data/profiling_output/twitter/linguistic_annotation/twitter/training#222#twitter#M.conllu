@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PagaF1 ma gli episodi quest'anno ci hanno dato contro 9 volte su 10 ma avessimo giocato così contro le piccole avremmo 10 pt in più
+1	@PagaF1	@PagaF1	NUM	N	NumType=Card	9	nummod	_	_
+2	ma	ma	CCONJ	CC	_	9	cc	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	episodi	episodio	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+5	quest'	questo	DET	DD	Number=Sing|PronType=Dem	6	det	_	SpaceAfter=No
+6	anno	anno	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+8	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	contro	contro	ADV	B	_	11	advmod	_	_
+11	9	9	NUM	N	NumType=Card	12	nummod	_	_
+12	volte	volta	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+13	su	su	ADP	E	_	14	case	_	_
+14	10	10	NUM	N	NumType=Card	12	nummod	_	_
+15	ma	ma	CCONJ	CC	_	17	cc	_	_
+16	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
+18	così	così	ADV	B	_	17	advmod	_	_
+19	contro	contro	ADP	E	_	22	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+21	piccole	piccolo	ADJ	A	Gender=Fem|Number=Plur	22	amod	_	_
+22	avremmo	avere	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+23	10	10	NUM	N	NumType=Card	24	nummod	_	_
+24	pt	pt	NOUN	S	Gender=Masc	22	compound	_	_
+25	in	in	ADP	E	_	26	case	_	_
+26	più	più	ADV	B	_	17	advmod	_	SpacesAfter=\n
+

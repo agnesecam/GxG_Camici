@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Marea nera Golfo del Messico:
+1	Marea	Marea	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	nera	nero	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	Golfo	Golfo	PROPN	SP	_	1	nmod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Messico	Messico	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = BP dovrà pagare il risarcimento più alto di sempre http:// fb.me/2mSfcIrrF
+1	BP	BP	PROPN	SP	_	3	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	risarcimento	risarcimento	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	alto	alto	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	sempre	sempre	ADV	B	_	7	advmod	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	_
+13	fb.me/2mSfcIrrF	fb.me/2mSfcIrrF	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

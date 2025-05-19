@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #perLeStrade mercenarie del sesso Che procurano fantastiche illusioni.
+1	#perLeStrade	#perLeStrada	ADP	E	_	2	case	_	_
+2	mercenarie	mercenario	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sesso	sesso	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	Che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	procurano	procurare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	fantastiche	fantastico	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	illusioni	illusione	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Senti la mia pelle com'è vellutata Ti farà cadere in tentazioni
+1	Senti	sentire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5	com'	comi	SCONJ	CS	_	7	mark	_	SpaceAfter=No
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	vellutata	vellutare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+8	Ti	Ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	advcl	_	_
+10	cadere	cadere	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	tentazioni	tentazione	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	SpacesAfter=\n
+

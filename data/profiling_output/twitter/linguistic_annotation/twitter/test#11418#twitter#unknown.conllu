@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @capuanogio @TopCalcio24 @QSVScalcio @MomblanOfficial @tackleduro @Simo23 @FBiasin So già che farete #gossip visto chi dirige:
+1	@capuanogio	@capuanogio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@TopCalcio24	@TopCalcio24	PROPN	SP	_	1	nmod	_	_
+3	@QSVScalcio	@QSVScalcio	PROPN	SP	_	2	flat:name	_	_
+4	@MomblanOfficial	@MomblanOfficial	PROPN	SP	_	2	flat:name	_	_
+5	@tackleduro	@tackleduro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+6	@Simo23	@Simo23	PROPN	SP	_	1	nmod	_	_
+7	@FBiasin	@FBiasin	PROPN	SP	_	6	flat:name	_	_
+8	So	sapere	PROPN	SP	_	6	flat:name	_	_
+9	già	già	ADV	B	_	11	advmod	_	_
+10	che	che	SCONJ	CS	_	11	mark	_	_
+11	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+12	#gossip	#gossip	NOUN	S	Gender=Masc	11	obj	_	_
+13	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+14	chi	chi	PRON	PR	Number=Sing|PronType=Rel	13	obj	_	_
+15	dirige	dirigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
+16	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = @duppli .....
+1	@duppli	@dupplio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	.....	.....	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

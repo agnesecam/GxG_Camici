@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Sax7374 Allora io potrei dire che senza la deviazione nello scontro tra Juve e Napoli stavamo a pari punti.
+1	@Sax7374	@Sax7374	PROPN	SP	_	5	nsubj	_	_
+2	Allora	allora	PROPN	SP	_	1	flat:name	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	potrei	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+6	che	che	SCONJ	CS	_	17	mark	_	_
+7	senza	senza	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	deviazione	deviazione	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+10-11	nello	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	scontro	scontro	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+13	tra	tra	ADP	E	_	14	case	_	_
+14	Juve	Juve	PROPN	SP	_	12	nmod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	Napoli	Napoli	PROPN	SP	_	14	conj	_	_
+17	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	pari	pari	ADJ	A	_	20	amod	_	_
+20	punti	punto	NOUN	S	Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

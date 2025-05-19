@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ci sono verità ex cathedra, né ex Sinai ;-) ma gli esiti contingenti della comunità al lavoro di tutti e ciascuno @24Domenica @TwitSofia
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	verità	verità	NOUN	S	Gender=Fem	3	nsubj	_	_
+5	ex	ex	ADJ	A	_	4	amod	_	_
+6	cathedra	cathedra	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	né	né	CCONJ	CC	_	10	cc	_	_
+9	ex	ex	ADJ	A	_	10	amod	_	_
+10	Sinai	Sinai	PROPN	SP	_	3	conj	_	_
+11	;	;	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	3	punct	_	_
+14	ma	ma	CCONJ	CC	_	16	cc	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	esiti	esito	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+17	contingenti	contingente	ADJ	A	Number=Plur	16	amod	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	comunità	comunità	NOUN	S	Gender=Fem	16	nmod	_	_
+21-22	al	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	23	nmod	_	_
+26	e	e	CCONJ	CC	_	28	cc	_	_
+27	ciascuno	ciascuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	28	det	_	_
+28	@24Domenica	@24Domenica	PROPN	SP	_	16	conj	_	_
+29	@TwitSofia	@TwitSofia	PROPN	SP	_	28	flat:name	_	SpacesAfter=\n
+

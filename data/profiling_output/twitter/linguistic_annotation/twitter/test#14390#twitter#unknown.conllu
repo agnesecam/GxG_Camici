@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 4 anni fa feci questa foto....
+1	4	4	NUM	N	NumType=Card	2	nummod	_	_
+2	anni	anno	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+3	fa	fa	ADV	B	_	2	advmod	_	_
+4	feci	feco	ADJ	A	Number=Plur	6	amod	_	_
+5	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	foto...	foto...	NOUN	S	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Riconoscete il luogo???
+1	Riconoscete	Riconoscere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	luogo	luogo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/4pqJWVViy
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4pqJWVViy	fb.me/4pqJWVViy	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

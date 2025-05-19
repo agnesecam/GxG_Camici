@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trovare il peluche dopo il rientro dallo spazio!
+1	Trovare	trovare	VERB	V	VerbForm=Inf	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	peluche	peluca	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	dopo	dopo	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	rientro	rientro	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+7-8	dallo	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/3MrVJn3o1
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/3MrVJn3o1	fb.me/3MrVJn3o1	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

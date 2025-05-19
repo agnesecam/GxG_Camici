@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @srMariaLauraFdM @SilviaNicolucci se invece di pregare avessimo avuto i miluardi dati al vaticano, forse la ricerca avrebbe trovato.
+1	@srMariaLauraFdM	@srMariaLauraFdM	PROPN	SP	_	20	nsubj	_	_
+2	@SilviaNicolucci	@SilviaNicolucci	PROPN	SP	_	1	flat:name	_	_
+3	se	se	SCONJ	CS	_	8	mark	_	_
+4	invece	invece	ADV	B	_	6	mark	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	pregare	pregare	VERB	V	VerbForm=Inf	8	advcl	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	miluardi	miluardo	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	dati	dato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	vaticano	vaticano	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	8	punct	_	_
+16	forse	forse	ADV	B	_	20	advmod	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	ricerca	ricerca	NOUN	S	Gender=Fem|Number=Sing	20	nsubj	_	_
+19	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	trovato.	trovato.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

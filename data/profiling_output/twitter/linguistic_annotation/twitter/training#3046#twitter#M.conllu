@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @djaniceto può sembrare banale retorica,ma condivo al 100%
+1	@djaniceto	@djaniceto	ADV	B	_	3	advmod	_	_
+2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+4	banale	banale	ADJ	A	Number=Sing	5	amod	_	_
+5	retorica,ma	retorica,ma	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	condivo	condivo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	100	100	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+10	%	%	SYM	SYM	_	6	obl	_	SpacesAfter=\n
+

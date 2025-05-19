@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Bruxelles se avessimo avuto Twitter e Facebook a inizio anni 90 chissà quanti "bombardiamo la Sicilia" avremmo letto
+1	#Bruxelles	#Bruxelle	PROPN	SP	_	15	nsubj	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+5	Twitter	Twitter	PROPN	SP	_	4	obj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	Facebook	Facebook	PROPN	SP	_	5	conj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+10	anni	anno	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+11	90	90	NUM	N	NumType=Card	10	nummod	_	_
+12	chissà	chissà	ADV	B	_	13	advmod	_	_
+13	quanti	quanto	PRON	PR	Gender=Masc|Number=Plur|PronType=Rel	4	obj	_	_
+14	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	bombardiamo	bombardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Sicilia	Sicilia	PROPN	SP	_	15	obj	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	15	punct	_	_
+19	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

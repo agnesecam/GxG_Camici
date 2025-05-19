@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E anche sta volta qualcuna ha fatto prima di me e voi non mi cagherete @Benji_Mascolo @fedefederossi https:// twitter.com/Benji_Mascolo/ status/715228656730259457 …
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	anche	anche	ADV	B	_	4	advmod	_	_
+3	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	volta	volta	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+5	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	4	nsubj:pass	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	prima	prima	ADV	B	_	7	advmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+11	e	e	CCONJ	CC	_	15	cc	_	_
+12	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	_
+15	cagherete	cagheere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	7	conj	_	_
+16	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	15	obj	_	_
+17	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	16	punct	_	_
+21	twitter.com/Benji_Mascolo/	twitter.com/Benji_Mascolo/	PROPN	SP	_	15	nmod	_	_
+22	status/715228656730259457	status/715228656730259457	NUM	N	NumType=Card	21	nummod	_	_
+23	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

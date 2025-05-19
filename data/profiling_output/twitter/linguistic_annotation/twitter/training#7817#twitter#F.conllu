@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Simona si sente molto QUEEN ma non sei niente dunque scendi dal piedistallo #isola
+1	Simona	Simona	PROPN	SP	_	3	nsubj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+4	molto	molto	ADV	B	_	5	advmod	_	_
+5	QUEEN	Queen	PROPN	SP	_	3	xcomp	_	_
+6	ma	ma	CCONJ	CC	_	9	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	conj	_	_
+10	dunque	dunque	ADV	B	_	9	advmod	_	_
+11	scendi	scendere	CCONJ	CC	_	14	cc	_	_
+12-13	dal	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	piedistallo	piedistallo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+15	#isola	#isolo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

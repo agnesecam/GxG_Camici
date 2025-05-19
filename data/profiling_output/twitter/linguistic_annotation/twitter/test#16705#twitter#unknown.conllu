@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avere delle cuffie wireless è bellissimo finché non perdi il filo per ricaricarle.
+1	Avere	avere	VERB	V	VerbForm=Inf	7	csubj	_	_
+2-3	delle	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cuffie	cuffia	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+5	wireless	wireless	PROPN	SW	Foreign=Yes	4	nmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	_
+8	finché	finché	SCONJ	CS	_	10	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	perdi	perde	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	filo	filo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+13	per	per	ADP	E	_	14	mark	_	_
+14-15	ricaricarle	_	_	_	_	_	_	_	SpaceAfter=No
+14	ricaricar	ricaricare	VERB	V	VerbForm=Inf	12	acl	_	_
+15	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+16	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = #modern #drama
+1	#modern	#modere	ADP	E	_	2	case	_	_
+2	#drama	#drama	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se invece della magistratura sapessero di trovarsi di fronte il plotone d'esecuzione farebbero voto di povertà https:// twitter.com/sectorscype/st atus/707169763131260928 …
+1	Se	se	SCONJ	CS	_	6	mark	_	_
+2	invece	invece	ADV	B	_	5	advmod	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	magistratura	magistratura	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+6	sapessero	sapere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8-9	trovarsi	_	_	_	_	_	_	_	_
+8	trovar	trovare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	fronte	fronte	NOUN	S	Number=Sing	8	obl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	plotone	plotone	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+14	d'	di	ADP	E	_	15	case	_	SpaceAfter=No
+15	esecuzione	esecuzione	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+17	voto	voto	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	povertà	povertà	NOUN	S	Gender=Fem	17	nmod	_	_
+20	https:	https:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	17	punct	_	_
+23	twitter.com/sectorscype/st	twitter.com/sectorscype/st	SYM	X	_	17	nmod	_	_
+24	atus/707169763131260928	atus/707169763131260928	NUM	N	NumType=Card	23	nummod	_	_
+25	…	…	PUNCT	FF	_	16	punct	_	SpacesAfter=\n
+

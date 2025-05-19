@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @rosita17rosita su #Periscope :
+1	@rosita17rosita	@rosita17rosire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	su	su	ADP	E	_	3	case	_	_
+3	#Periscope	#Periscope	PROPN	SP	_	1	obl	_	_
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = #LivestreamIta @LivestreamIta #Calco #Lecco parliamo del mondo dalla prospettiva de… https://www.
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LivestreamIta	LivestreamIre	PROPN	SP	_	6	nsubj	_	_
+3	@LivestreamIta	@LivestreamIto	PROPN	SP	_	2	nmod	_	_
+4	#Calco	#Calco	PROPN	SP	_	3	flat:name	_	_
+5	#Lecco	#Lecco	PROPN	SP	_	3	flat:name	_	_
+6	parliamo	parlare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	prospettiva	prospettiva	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+13	de…	de…	PUNCT	FF	_	12	punct	_	_
+14	https://www	https://www	NOUN	S	_	12	compound	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = pscp.tv/w/adksyzg5NTY5 NnwxZGpHWHlQQU5lZEpaSbVpjfwIaap_WKWkiLNyfD2YKI-AKz0hYgEJmdLvscA= …
+1	pscp.tv/w/adksyzg5NTY5	pscp.tv/w/adksyzg5NTY5	PROPN	SP	_	0	root	_	_
+2	NnwxZGpHWHlQQU5lZEpaSbVpjfwIaap_WKWkiLNyfD2YKI-AKz0hYgEJmdLvscA=	NnwxZGpHWHlQQU5lZEpaSbVpjfwIaap_WKWkiLNyfD2YKI-AKz0hYgEJmdLvscA=	PROPN	SP	_	1	flat:name	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

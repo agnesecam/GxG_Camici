@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il nostro @pierofassino farà finalmente i conti con la sua memorabile profezia del 2009 #M5S pic.twitter.com/uUCiufRC7S
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	@pierofassino	@pierofassino	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	finalmente	finalmente	ADV	B	_	4	advmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	conti	conto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+8	con	con	ADP	E	_	12	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+10	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+11	memorabile	memorabile	ADJ	A	Number=Sing	12	amod	_	_
+12	profezia	profezia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	2009	2009	NUM	N	NumType=Card	12	nmod	_	_
+16	#M5S	#M5S	PROPN	SP	_	12	nmod	_	_
+17	pic.twitter.com/uUCiufRC7S	pic.twitter.com/uUCiufRC7S	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

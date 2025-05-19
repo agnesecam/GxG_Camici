@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonellaGramig il rispetto che i grillini non conoscono neppure per corrispondenza.
+1	@AntonellaGramig	@AntonellaGramig	SYM	X	_	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	rispetto	rispetto	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	grillini	grillino	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	conoscono	conoscere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+9	neppure	neppure	ADV	BN	PronType=Neg	11	advmod	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	corrispondenza	corrispondenza	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

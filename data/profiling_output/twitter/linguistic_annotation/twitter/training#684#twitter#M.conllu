@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Giupiino Forse se Luis Adriano fosse andato in Cina e avessimo incassato 15 milioni un centrocampista lo avrebbe preso, ma così chi lo paga
+1	@Giupiino	@Giupiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Forse	forse	ADV	B	_	1	advmod	_	_
+3	se	se	SCONJ	CS	_	7	mark	_	_
+4	Luis	Luis	PROPN	SP	_	7	nsubj	_	_
+5	Adriano	Adriano	PROPN	SP	_	4	flat:name	_	_
+6	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	Cina	Cina	PROPN	SP	_	7	obl	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	incassato	incassare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+13	15	15	NUM	N	NumType=Card	14	nummod	_	_
+14	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	centrocampista	centrocampista	NOUN	S	Number=Sing	19	nsubj	_	_
+17	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+18	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	23	punct	_	_
+21	ma	ma	CCONJ	CC	_	23	cc	_	_
+22	così	così	ADV	B	_	23	advmod	_	_
+23	chi	chi	PRON	PR	Number=Sing|PronType=Rel	19	conj	_	_
+24	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
+25	paga	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpacesAfter=\n
+

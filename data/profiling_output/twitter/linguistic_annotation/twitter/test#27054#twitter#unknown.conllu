@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pizzo_76 Buongiorno Andrea,buon weekend,il mio senza neve, ahimè
+1	@pizzo_76	@pizzo_76	SYM	X	_	0	root	_	_
+2	Buongiorno	Buongiorno	PROPN	SP	_	1	nmod	_	_
+3	Andrea,buon	Andrea,buon	PROPN	SP	_	2	flat:name	_	_
+4	weekend,il	weekend,il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mio	mio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	senza	senza	ADP	E	_	7	case	_	_
+7	neve	neve	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	ahimè	ahimè	INTJ	I	_	1	discourse	_	SpacesAfter=\n
+

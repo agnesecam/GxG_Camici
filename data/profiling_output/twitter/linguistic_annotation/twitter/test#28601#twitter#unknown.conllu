@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se DonnAgnese si fosse trovata in infanzia, ipotizzandone il superatamento concorso, saremmo già in#RUOLO @mariacarmtrovat @tittifranco80
+1	se	se	SCONJ	CS	_	5	mark	_	_
+2	DonnAgnese	DonnAgnese	PROPN	SP	_	5	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	trovata	trovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	infanzia	infanzia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9-10	ipotizzandone	_	_	_	_	_	_	_	_
+9	ipotizzando	ipotizzare	VERB	V	VerbForm=Ger	5	advcl	_	_
+10	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	superatamento	superatamento	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+13	concorso	concorso	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	5	punct	_	_
+15	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+16	già	già	ADV	B	_	18	advmod	_	_
+17	in	in	ADP	E	_	18	case	_	SpaceAfter=No
+18	#RUOLO	#RUOLO	PROPN	SP	_	15	obl	_	_
+19	@mariacarmtrovat	@mariacarmtrovat	SYM	X	_	15	obj	_	_
+20	@tittifranco80	@tittifranco80	NUM	N	NumType=Card	19	nummod	_	SpacesAfter=\n
+

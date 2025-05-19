@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Guillermo_CC Bruce Lee un uomo geniale, immortale, Un maestro di vita.
+1	@Guillermo_CC	@Guillermo_CC	PROPN	SP	_	0	root	_	_
+2	Bruce	Bruce	PROPN	SP	_	1	flat:name	_	_
+3	Lee	Lee	PROPN	SP	_	1	flat:name	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	geniale	geniale	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	immortale	immortale	ADJ	A	Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	maestro	maestro	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	vita	vita	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Un maestro.JKD kung fu il mio sogno da realizzare.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	maestro.JKD	maestro.jkd	NOUN	S	Number=Sing	7	nsubj	_	_
+3	kung	kung	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8	da	da	ADP	E	_	9	mark	_	_
+9	realizzare	realizzare	VERB	V	VerbForm=Inf	7	acl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = Grazie Bruce
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	Bruce	Bruce	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

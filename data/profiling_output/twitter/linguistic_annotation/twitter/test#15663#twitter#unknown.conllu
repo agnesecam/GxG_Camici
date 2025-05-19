@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TIM_Official è mai possibile che attivare una promozione sia diventato un inferno?
+1	@TIM_Official	@TIM_Official	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mai	mai	ADV	B	_	4	advmod	_	_
+4	possibile	possibile	ADJ	A	Number=Sing	0	root	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	attivare	attivare	VERB	V	VerbForm=Inf	10	csubj	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	promozione	promozione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	inferno	inferno	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Chiamate al 187 e DM su twitter, 5 giorni e ancora zero.
+1	Chiamate	chiamare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	187	187	NUM	N	NumType=Card	1	obl	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	DM	DM	PROPN	SP	_	1	conj	_	_
+7	su	su	ADP	E	_	8	mark	_	_
+8	twitter	twitter	VERB	V	VerbForm=Inf	6	acl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	5	5	NUM	N	NumType=Card	11	nummod	_	_
+11	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	ancora	ancora	ADV	B	_	14	advmod	_	_
+14	zero	zero	NUM	N	NumType=Card	11	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

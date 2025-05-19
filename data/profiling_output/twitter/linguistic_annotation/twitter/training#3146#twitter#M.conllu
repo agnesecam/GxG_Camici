@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che spettacolo vedere @f_cancellara fare quello che fa ! Fa sembrare tutto facile !
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	2	acl	_	_
+4	@f_cancellara	@f_cancellaro	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	!	!	PUNCT	FS	_	2	punct	_	_
+10	Fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	_
+13	facile	facile	ADJ	A	Number=Sing	12	amod	_	_
+14	!	!	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Sei un MITO Cance !
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	MITO	mito	PROPN	SP	_	0	root	_	_
+4	Cance	Cance	PROPN	SP	_	3	flat:name	_	_
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Che onore starti accanto in gruppo!
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	onore	onore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	starti	startire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4	accanto	accanto	ADV	B	_	6	case	_	_
+5	in	in	ADP	E	_	4	fixed	_	_
+6	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

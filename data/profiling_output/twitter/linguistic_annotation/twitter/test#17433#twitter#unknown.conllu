@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BortoBlu io avuta a Gennaio e ora con annessa infezione (labbra gonfie, bruciore, difficoltà a deglutire)...Non ne posso più
+1	@BortoBlu	i@BortoBl	ADP	E	_	2	case	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	23	obl	_	_
+3	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Gennaio	gennaio	PROPN	SP	_	3	obl	_	_
+6	e	e	CCONJ	CC	_	10	cc	_	_
+7	ora	ora	ADV	B	_	10	advmod	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	annessa	annesso	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	infezione	infezione	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	labbra	labbro	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	gonfie	gonfio	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	bruciore	bruciore	ADJ	A	Degree=Cmp|Number=Sing	13	amod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	17	punct	_	_
+17	difficoltà	difficoltà	NOUN	S	Gender=Fem	13	conj	_	_
+18	a	a	ADP	E	_	19	mark	_	_
+19	deglutire	deglutire	VERB	V	VerbForm=Inf	17	acl	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+21	...Non	...Non	PROPN	SP	_	23	nsubj	_	_
+22	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	23	iobj	_	_
+23	posso	potere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+24	più	più	ADV	B	_	23	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Son costellazioni rosa,Son più dure del diamante, qualcuna è pericolosa e san legger nella… https://www.
+1	Son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	costellazioni	costellazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	rosa,Son	rosa,Son	PROPN	SP	_	2	nsubj	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	dure	duro	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	diamante	diamante	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	12	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	pericolosa	pericoloso	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	san	santo	ADJ	A	Gender=Fem|Number=Sing	17	conj	_	_
+15	legger	legger	ADJ	A	_	17	amod	_	_
+16	nella…	nella…	PUNCT	FF	_	15	punct	_	_
+17	https://www	https://www	NOUN	S	_	12	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDbGTxuLxeG/
+1	instagram.com/p/BDbGTxuLxeG/	instagram.com/p/BDbGTxuLxeG/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

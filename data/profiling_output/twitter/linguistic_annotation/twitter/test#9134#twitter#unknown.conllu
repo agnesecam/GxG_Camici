@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gio70924234 neppure il mio risorge mai....
+1	@gio70924234	@gio70924234	NUM	N	NumType=Range	5	nummod	_	_
+2	neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	risorge	risorge	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	mai...	mai.	NOUN	S	Gender=Masc	5	compound	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

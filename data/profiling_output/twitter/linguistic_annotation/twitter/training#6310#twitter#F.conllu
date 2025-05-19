@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E ne ho avuto l'ennesima conferma nella live, dove ha insistito perché fossimo noi a scegliere le canzoni da riprodurre tutto il tempo.
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+6	ennesima	ennesimo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	conferma	conferma	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	live	live	NOUN	S	Gender=Masc	4	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	dove	dove	ADV	B	_	14	advmod	_	_
+13	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	insistito	insistere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+15	perché	perché	SCONJ	CS	_	19	mark	_	_
+16	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	19	aux	_	_
+17	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
+18	a	a	ADP	E	_	19	mark	_	_
+19	scegliere	scegliere	VERB	V	VerbForm=Inf	14	ccomp	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	_
+22	da	da	ADP	E	_	23	mark	_	_
+23	riprodurre	riprodurre	VERB	V	VerbForm=Inf	19	advcl	_	_
+24	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	26	det:predet	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

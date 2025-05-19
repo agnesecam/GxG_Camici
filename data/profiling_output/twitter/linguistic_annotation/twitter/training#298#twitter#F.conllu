@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tra due settimane partiamo per Roma e mia madre sta sclerando come se avessimo l'aereo domani OKAY
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+4	partiamo	partire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	Roma	Roma	PROPN	SP	_	11	obl	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	madre	madre	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	sclerando	sclerare	VERB	V	VerbForm=Ger	4	advcl	_	_
+12	come	come	ADV	B	_	14	advmod	_	_
+13	se	se	SCONJ	CS	_	14	mark	_	_
+14	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	advcl	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	aereo	aereo	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+17	domani	domani	ADV	B	_	16	advmod	_	_
+18	OKAY	okay	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

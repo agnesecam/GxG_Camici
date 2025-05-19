@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non riesco a leggere nemmeno quello che scrivo, vedo tutto strano, come se stessi piangendo.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	leggere	leggere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	nemmeno	nemmeno	ADV	BN	PronType=Neg	6	advmod	_	_
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+8	scrivo	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obj	_	_
+12	strano	strano	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	14	punct	_	_
+14	come	come	ADV	B	_	2	conj	_	_
+15	se	se	SCONJ	CS	_	17	mark	_	_
+16	stessi	stesso	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	17	obj	_	_
+17	piangendo	piangere	VERB	V	VerbForm=Ger	14	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ilvolo I vostri sogni piano,piano si stanno realizzando e da essi è uscito questo splendido Tour.In bocca al lupo x stasera.Baci
+1	@ilvolo	@ilvolo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	I	I	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	vostri	vostrare	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	sogni	sogni	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+5	piano	piano	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	SpaceAfter=No
+6	,piano	,piano	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	realizzando	realizzare	VERB	V	VerbForm=Ger	1	advcl	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obl	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	uscito	uscire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
+15	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
+16	splendido	splendido	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	Tour.In	Tour.In	PROPN	SP	_	14	nsubj	_	_
+18	bocca	boccare	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+19-20	al	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
+22	x	x	SYM	SYM	_	17	nmod	_	_
+23	stasera.Baci	stasera.Baci	PROPN	SP	_	22	flat:name	_	SpacesAfter=\n
+

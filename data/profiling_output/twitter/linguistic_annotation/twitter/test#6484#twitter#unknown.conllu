@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LUCIADIMARCO2 @HuffPostItalia cara Lucia io credo che se fossimo una società solidale il desiderio di paternità sarebbe entro la comunità
+1	@LUCIADIMARCO2	@LUCIADIMARCO2	PROPN	SP	_	6	nsubj	_	_
+2	@HuffPostItalia	@HuffPostItalia	PROPN	SP	_	1	flat:name	_	_
+3	cara	caro	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	Lucia	Lucia	PROPN	SP	_	1	flat:name	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	che	che	SCONJ	CS	_	17	mark	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	società	società	NOUN	S	Gender=Fem	17	advcl	_	_
+12	solidale	solidale	ADJ	A	Number=Sing	11	amod	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	desiderio	desiderio	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	paternità	paternità	NOUN	S	Gender=Fem	14	nmod	_	_
+17	sarebbe	essere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+18	entro	entro	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	comunità	comunità	NOUN	S	Gender=Fem	17	obl	_	SpacesAfter=\n
+

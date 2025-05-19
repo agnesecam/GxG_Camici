@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I soldi fanno la felicità , no !
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	felicità	felicità	NOUN	S	Gender=Fem	3	obj	_	_
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	no	no	ADV	BN	PronType=Neg	3	conj	_	_
+8	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ..
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Allora perché chi più ne ha più ne vuole...
+1	Allora	allora	ADV	B	_	3	advmod	_	_
+2	perché	perché	SCONJ	CS	_	3	mark	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+4	più	più	ADV	B	_	6	advmod	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	più	più	ADV	B	_	6	obj	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	vuole..	vuole..	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = Anche rubando , fregando il prossimo?
+1	Anche	anche	ADV	B	_	2	advmod	_	_
+2	rubando	rubare	VERB	V	VerbForm=Ger	0	root	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	fregando	fregare	VERB	V	VerbForm=Ger	2	advcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

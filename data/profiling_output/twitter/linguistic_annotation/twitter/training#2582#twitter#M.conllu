@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = IL MAKE UP PERFETTO PER SEMBRARE PIÙ GIOVANE Un make up ad hoc, se eseguito alla perfezione può soddisfare... http:// fb.me/UwaFYQFx
+1	IL	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	MAKE	MAKE	PROPN	SP	_	0	root	_	_
+3	UP	up	PROPN	SP	_	2	flat:name	_	_
+4	PERFETTO	perfetto	PROPN	SP	_	2	flat:name	_	_
+5	PER	per	PROPN	SP	_	2	flat:name	_	_
+6	SEMBRARE	sembrare	PROPN	SP	_	5	flat:name	_	_
+7	PIÙ	più	PROPN	SP	_	5	flat:name	_	_
+8	GIOVANE	giovane	PROPN	SP	_	5	flat:name	_	_
+9	Un	uno	X	SW	Foreign=Yes	5	flat:name	_	_
+10	make	make	X	SW	Foreign=Yes	9	flat:foreign	_	_
+11	up	up	X	SW	Foreign=Yes	9	flat:foreign	_	_
+12	ad	a	X	SW	Foreign=Yes	9	flat:foreign	_	_
+13	hoc	hoc	X	SW	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	5	punct	_	_
+15	se	se	SCONJ	CS	_	16	mark	_	_
+16	eseguito	eseguire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	_
+17-18	alla	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	perfezione	perfezione	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+20	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	soddisfare...	soddisfare.	NOUN	S	_	5	appos	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/UwaFYQFx	fb.me/UwaFYQFx	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

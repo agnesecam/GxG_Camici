@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ClaMarchisio8 ti sei meravigliato solo di quello???
+1	@ClaMarchisio8	@ClaMarchisio8	PROPN	SP	_	4	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+3	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	meravigliato	meravigliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	solo	solo	ADV	B	_	7	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = avessimo fatto noi il gol dell'1-0 come loro.
+1	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	gol	goal	NOUN	S	Gender=Masc	3	appos	_	_
+6-7	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	di	di	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	1	1	NUM	N	NumType=Card	5	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	0	0	NUM	N	NumType=Card	8	compound	_	_
+11	come	come	ADP	E	_	12	case	_	_
+12	loro.	loro.	NOUN	S	_	5	nmod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ....lasciamo perdere già sai!!!!!
+1	....lasciamo	....lascare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	perdere	perdere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	già	già	ADV	B	_	4	advmod	_	_
+4	sai	sapere	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+5	!!!	!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

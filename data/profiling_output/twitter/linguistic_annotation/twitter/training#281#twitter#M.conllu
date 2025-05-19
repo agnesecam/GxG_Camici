@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #matteorisponde @matteorenzi #769idoneigdf ancora in attesa dopo anni!
+1	#matteorisponde	#matteorispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@matteorenzi	@matteorenzi	ADV	B	_	1	advmod	_	_
+3	#769idoneigdf	#769idoneigdf	ADP	E	_	6	case	_	_
+4	ancora	ancora	ADV	B	_	6	advmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	attesa	attesa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+7	dopo	dopo	ADP	E	_	8	case	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Siamo delusi in realtà, nonostante avessimo fatto pieno affidamento
+1	Siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
+2	delusi	delondere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	nonostante	nonostante	SCONJ	CS	_	8	mark	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+9	pieno	pieno	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	affidamento	affidamento	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpacesAfter=\n
+

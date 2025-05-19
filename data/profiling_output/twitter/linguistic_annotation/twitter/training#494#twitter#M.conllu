@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come sarebbe il mondo se non avessimo ucciso tutti gli animali | Motherboard http:// motherboard.vice.com/it/read/come-s arebbe-il-mondo-se-non-avessimo-ucciso-tutti-gli-animali …
+1	Come	come	ADV	B	_	4	advmod	_	_
+2	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	ucciso	uccidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	11	det:predet	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	animali	animale	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+12	|	|	SYM	SYM	_	11	nmod	_	_
+13	Motherboard	Motherboard	PROPN	SP	_	12	flat:name	_	_
+14	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	12	punct	_	_
+17	motherboard.vice.com/it/read/come-s	motherboard.vice.com/it/read/come-s	NOUN	S	Gender=Fem|Number=Plur	12	conj	_	_
+18	arebbe-il-mondo-se	arebbe-il-mondo-so	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
+19	-non	-non	ADP	E	_	21	case	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+21	avessimo	avessimo	ADJ	A	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+22	-	-	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+23	ucciso	uccidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	parataxis	_	SpaceAfter=No
+24	-	-	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	tutti	tutto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	26	det	_	SpaceAfter=No
+26	-gli	-glio	NOUN	S	Gender=Masc|Number=Plur	23	obj	_	SpaceAfter=No
+27	-animali	-animale	ADJ	A	Number=Plur	26	amod	_	_
+28	…	…	PUNCT	FF	_	21	punct	_	SpacesAfter=\n
+

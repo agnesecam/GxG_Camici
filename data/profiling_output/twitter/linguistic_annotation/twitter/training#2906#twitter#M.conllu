@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi è impossibile che #Renzi nomini il successore della #Guidi . Potrebbe sembrare un #pescedaprile .
+1	Oggi	oggi	ADV	B	_	3	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	impossibile	impossibile	ADJ	A	Number=Sing	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	#Renzi	#Renzi	PROPN	SP	_	6	nsubj	_	_
+6	nomini	nomino	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	successore	successore	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	#Guidi	#Guidio	PROPN	SP	_	8	nmod	_	_
+12	.	.	PUNCT	FS	_	3	punct	_	_
+13	Potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	3	conj	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	#pescedaprile	#pescedaprile	NOUN	S	Gender=Masc|Number=Sing	14	xcomp	_	_
+17	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

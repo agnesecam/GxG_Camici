@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Sindaco presenta la deliberazione con cui il Consiglio comunale si dovrà esprimere sul pubblico interesse del... http:// fb.me/7egGvRFYh
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	presenta	presentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	deliberazione	deliberazione	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	cui	cui	PRON	PR	PronType=Rel	13	obl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Consiglio	consiglio	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+10	comunale	comunale	ADJ	A	Number=Sing	9	amod	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl:impers	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	esprimere	esprimere	VERB	V	VerbForm=Inf	19	acl:relcl	_	_
+14-15	sul	_	_	_	_	_	_	_	_
+14	su	su	ADP	E	_	17	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	pubblico	pubblico	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+18	del...	del.	PUNCT	FS	_	19	punct	_	_
+19	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	5	punct	_	_
+22	fb.me/7egGvRFYh	fb.me/7egGvRFYh	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

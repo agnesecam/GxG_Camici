@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi sono andata a vederlo alla partita poi eravamo rimasti che tornavo a casa ci si saremmo visti direttamente domani invece è venuto a -
+1	Oggi	oggi	ADV	B	_	3	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5-6	vederlo	_	_	_	_	_	_	_	_
+5	veder	vedere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7-8	alla	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	partita	partita	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+10	poi	poi	ADV	B	_	12	advmod	_	_
+11	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	rimasti	rimanere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+13	che	che	SCONJ	CS	_	14	mark	_	_
+14	tornavo	tornare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	25	ccomp	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	casa	casa	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+19	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	visti	vedere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	25	acl:relcl	_	_
+21	direttamente	direttamente	ADV	B	_	20	advmod	_	_
+22	domani	domani	ADV	B	_	20	advmod	_	_
+23	invece	invece	ADV	B	_	20	advmod	_	_
+24	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	venuto	venire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+26	a	a	ADP	E	_	27	case	_	_
+27	-	-	PUNCT	FB	_	25	punct	_	SpacesAfter=\n
+

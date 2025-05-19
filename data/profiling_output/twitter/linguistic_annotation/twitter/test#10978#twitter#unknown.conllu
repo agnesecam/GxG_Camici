@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @enrico_zanetti , se nn rispondi fai bella figura.
+1	@enrico_zanetti	@enrico_zanetto	NOUN	S	Gender=Masc	0	root	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	nn	nno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	rispondi	rispondo	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+6	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	bella	bello	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	figura	figura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = altrimenti scavi la buca a te e tutta la tua congrega di cialtroni.
+1	altrimenti	altrimenti	ADV	B	_	2	advmod	_	_
+2	scavi	scave	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	buca	buca	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	11	det:predet	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	congrega	congrega	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	cialtroni	cialtrone	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #matrix
+1	#matrix	#matrix	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

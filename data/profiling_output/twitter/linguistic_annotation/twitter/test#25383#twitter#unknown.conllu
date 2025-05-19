@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il 5 marzo 1998 Edo, Sole e Baleno furono arrestati con l'accusa di essere ecoterroristi, di far parte dei "Lupi... http:// fb.me/7Kbfq61Xs
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	5	5	NUM	N	NumType=Card	11	obl	_	_
+3	marzo	marzo	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4	1998	1998	NUM	N	NumType=Card	2	flat	_	_
+5	Edo	Edo	PROPN	SP	_	11	nsubj:pass	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	Sole	sole	PROPN	SP	_	5	conj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Baleno	Baleno	PROPN	SP	_	5	conj	_	_
+10	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	_
+11	arrestati	arrestare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	accusa	accusa	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+15	di	di	ADP	E	_	17	mark	_	_
+16	essere	essere	AUX	VA	VerbForm=Inf	17	aux	_	_
+17	ecoterroristi	ecoterrorista	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	14	acl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	20	punct	_	_
+19	di	di	ADP	E	_	20	mark	_	_
+20	far	fare	VERB	V	VerbForm=Inf	17	conj	_	_
+21	parte	parte	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
+22-23	dei	_	_	_	_	_	_	_	_
+22	di	di	ADP	E	_	25	case	_	_
+23	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+24	"	"	PUNCT	FB	_	25	punct	_	SpaceAfter=No
+25	Lupi...	Lupi...	PROPN	SP	_	21	nmod	_	_
+26	http:	http:	PUNCT	FC	_	25	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	25	punct	_	_
+29	fb.me/7Kbfq61Xs	fb.me/7Kbfq61Xs	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

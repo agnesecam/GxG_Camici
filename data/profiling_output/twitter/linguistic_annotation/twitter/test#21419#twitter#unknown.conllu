@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VittorioSgarbi "Cornuta, starà andando a Piacenza!" #genova #borsagenova
+1	@VittorioSgarbi	@VittorioSgarbo	NOUN	S	Number=Plur	5	nsubj	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	Cornuta	Cornuto	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	parataxis	_	_
+6	andando	andare	VERB	V	VerbForm=Ger	5	advcl	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Piacenza	Piacenza	PROPN	SP	_	6	obl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	11	punct	_	_
+11	#genova	#genovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	parataxis	_	_
+12	#borsagenova	#borsagenovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

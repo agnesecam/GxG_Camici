@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voglio essere, non sembrare di essere.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	essere	essere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	3	conj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	essere	essere	AUX	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

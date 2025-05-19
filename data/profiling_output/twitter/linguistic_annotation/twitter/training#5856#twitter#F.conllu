@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi sa che Paca vuol far fidanzare Bosco con qualcuna che dice lei ecco perché la festa #ilsegreto
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	Paca	Paca	PROPN	SP	_	6	nsubj	_	_
+5	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	far	fare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+7	fidanzare	fidanzare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	Bosco	Bosco	PROPN	SP	_	7	obj	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+13	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	ecco	ecco	ADV	B	_	12	advmod	_	_
+15	perché	perché	SCONJ	CS	_	17	advmod	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	festa	festa	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+18	#ilsegreto	#ilsegreto	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\n
+

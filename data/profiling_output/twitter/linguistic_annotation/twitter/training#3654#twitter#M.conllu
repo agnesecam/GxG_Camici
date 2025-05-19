@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Tre_Assistenza salve, a fine 2015 ho ricevuto una proposta di rientro in 3.
+1	@Tre_Assistenza	@Tre_Assistenza	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+2	salve	salvo	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	fine	fine	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+6	2015	2015	NUM	N	NumType=Card	5	nummod	_	_
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	ricevuto	ricevere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	rientro	rientro	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	3	3	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Sapete dirmi se la H3G farà altre winback prossimamente?
+1	Sapete	sapere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	dirmi	_	_	_	_	_	_	_	_
+2	dir	dire	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	H3G	H3g	PROPN	SP	_	7	nsubj	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+8	altre	altro	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	winback	winback	NOUN	S	Gender=Masc	7	obj	_	_
+10	prossimamente	prossimo	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Grazie
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpacesAfter=\n
+

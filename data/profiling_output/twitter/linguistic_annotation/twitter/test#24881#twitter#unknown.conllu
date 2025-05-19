@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Marta_Corradi Sai che lo farebbero .
+1	@Marta_Corradi	@Marta_Corradi	PROPN	SP	_	0	root	_	_
+2	Sai	sai	PROPN	SP	_	1	flat:name	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sti stronzi.
+1	Sti	Sto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	stronzi	stronzi	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

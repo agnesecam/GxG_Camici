@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LAMBRENEDETTO non ce la fa più ma vuol sembrare super eroe
+1	@LAMBRENEDETTO	@LAMBRENEDETTO	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	più	più	ADV	B	_	5	advmod	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	5	conj	_	_
+10	super	super	ADJ	A	_	9	xcomp	_	_
+11	eroe	eroe	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpacesAfter=\n
+

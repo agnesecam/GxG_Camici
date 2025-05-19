@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = <3<3<3<3Siamo come diamanti...
+1	<3<3<3<3Siamo	<3<3<3<3Sare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADV	B	_	1	advmod	_	_
+3	diamanti...	diamanti.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = uniche e preziose.
+1	uniche	unico	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	preziose	prezioso	ADJ	A	Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Il dono più bello che avessimo potuto ricevere è quello di essere ciò che siamo:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dono	dono	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	bello	bello	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	aux	_	_
+8	ricevere	ricevere	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+11	di	di	ADP	E	_	13	mark	_	_
+12	essere	essere	AUX	V	VerbForm=Inf	13	cop	_	_
+13	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	ccomp	_	_
+14	che	che	PRON	PR	PronType=Rel	15	obj	_	_
+15	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
+16	:	:	PUNCT	FC	_	10	punct	_	_
+
+# sent_id = 4
+# text = donne!!
+1	donne	donna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

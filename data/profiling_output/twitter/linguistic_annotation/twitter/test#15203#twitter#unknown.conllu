@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima mi stavo lavando i capelli e non capivo perché tutto quello shampoo non facesse schiuma.
+1	Prima	prima	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	stavo	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	lavando	lavare	VERB	V	VerbForm=Ger	3	advcl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	capelli	capello	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	capivo	capire	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	_
+10	perché	perché	SCONJ	CS	_	15	mark	_	_
+11	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
+12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	15	obl	_	_
+13	shampoo	shampoo	NOUN	S	Gender=Masc	15	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+16	schiuma	schiuma	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Beh, era balsamo.
+1	Beh	beh	ADV	B	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	balsamo	balsre	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

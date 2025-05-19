@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E non dite che non ci avevate pensato.
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+7	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #RealtaVirtuale #smm16 #porn https:// twitter.com/wireditalia/st atus/713062976366985216 …
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	RealtaVirtuale	RealtaVirtuale	DET	DQ	Number=Sing|PronType=Int	4	det	_	_
+3	#smm16	#smm16	NUM	N	NumType=Card	4	nummod	_	_
+4	#porn	#porn	NOUN	S	Gender=Masc	0	root	_	_
+5	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	twitter.com/wireditalia/st	twitter.com/wireditalia/st	SYM	X	_	4	nmod	_	_
+9	atus/713062976366985216	atus/713062976366985216	SYM	X	_	8	flat:name	_	_
+10	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

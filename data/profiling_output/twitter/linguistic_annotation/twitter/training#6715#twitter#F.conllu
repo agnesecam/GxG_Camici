@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Urlare alle 3:23 del mattino perché BJORN NON ME LO DOVETE TOCCARE NEMMENO PER SCHERZO, AVETE CAPITO?
+1	Urlare	urlare	VERB	V	VerbForm=Inf	0	root	_	_
+2-3	alle	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	3:23	3:23	NUM	N	NumType=Card	1	obl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mattino	mattino	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	perché	perché	SCONJ	CS	_	16	mark	_	_
+9	BJORN	BJORN	PROPN	SP	_	16	nsubj	_	_
+10	NON	non	PROPN	SP	_	14	nsubj	_	_
+11	ME	me	PROPN	SP	_	10	flat:name	_	_
+12	LO	lo	PROPN	SP	_	10	flat:name	_	_
+13	DOVETE	dovere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	TOCCARE	toccare	PROPN	SP	_	9	flat:name	_	_
+15	NEMMENO	nemmeno	ADP	E	_	16	case	_	_
+16	PER	per	PROPN	SP	_	1	advcl	_	_
+17	SCHERZO	scherzo	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	16	punct	_	_
+19	AVETE	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	CAPITO	capito	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #sorryperilcapslock #Vikings
+1	#sorryperilcapslock	#sorryperilcapslock	NOUN	S	Gender=Masc	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	Vikings	Vikings	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

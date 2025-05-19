@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NON SA L ITALIANO VO INSEGNA A CULTURA ROM FACESSE CON COMODO IO NON VOGLIO ARRUBA A NESSUNO LUI È MARIUOLO E SE... http:// fb.me/26y0039Ph
+1	NON	non	PROPN	SP	_	10	nsubj	_	_
+2	SA	sa	PROPN	SP	_	10	nsubj	_	_
+3	L	L	PROPN	SP	_	2	flat:name	_	_
+4	ITALIANO	italiano	PROPN	SP	_	2	flat:name	_	_
+5	VO	VO	PROPN	SP	_	2	flat:name	_	_
+6	INSEGNA	insegna	PROPN	SP	_	2	flat:name	_	_
+7	A	A	ADP	E	_	8	case	_	_
+8	CULTURA	Cultura	PROPN	SP	_	2	nmod	_	_
+9	ROM	ROM	PROPN	SP	_	8	flat:name	_	_
+10	FACESSE	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	CON	con	PROPN	SP	_	10	obj	_	_
+12	COMODO	comodo	PROPN	SP	_	11	flat:name	_	_
+13	IO	io	PROPN	SP	_	11	flat:name	_	_
+14	NON	non	PROPN	SP	_	11	nmod	_	_
+15	VOGLIO	Voglio	PROPN	SP	_	14	flat:name	_	_
+16	ARRUBA	ARRUBA	PROPN	SP	_	14	flat:name	_	_
+17	A	a	ADP	E	_	18	case	_	_
+18	NESSUNO	nessuno	PROPN	SP	_	14	nmod	_	_
+19	LUI	lui	PROPN	SP	_	18	flat:name	_	_
+20	È	essere	PROPN	SP	_	19	flat:name	_	_
+21	MARIUOLO	MARIUOLO	PROPN	SP	_	19	flat:name	_	_
+22	E	e	CCONJ	CC	_	23	cc	_	_
+23	SE...	SE...	PROPN	SP	_	19	conj	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	fb.me/26y0039Ph	fb.me/26y0039Ph	PROPN	SP	_	14	flat:name	_	SpacesAfter=\n
+

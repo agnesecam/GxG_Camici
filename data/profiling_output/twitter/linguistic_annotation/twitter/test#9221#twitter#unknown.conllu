@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vorrei davvero tanto imparare a suonare uno strumento, ma non ho tempo neppure di respirare durante la settimana
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	davvero	davvero	ADV	B	_	4	advmod	_	_
+3	tanto	tanto	ADV	B	_	4	advmod	_	_
+4	imparare	imparare	VERB	V	VerbForm=Inf	0	root	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	suonare	suonare	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	strumento	strumento	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+14	neppure	neppure	ADV	BN	PronType=Neg	16	advmod	_	_
+15	di	di	ADP	E	_	16	mark	_	_
+16	respirare	respirare	VERB	V	VerbForm=Inf	12	advcl	_	_
+17	durante	durante	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpacesAfter=\n
+

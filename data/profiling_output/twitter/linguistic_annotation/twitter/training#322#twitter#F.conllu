@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jacopo_iacoboni se avessimo dei giornalisti nn finanziati coi soldi dei cittadini AVREMO UNA VERA INFORMAZIONE!
+1	@jacopo_iacoboni	@jacopo_iacobone	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	nn	nno	ADV	B	_	8	advmod	_	_
+8	finanziati	finanziare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+9-10	coi	_	_	_	_	_	_	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	AVREMO	avere	PROPN	SP	_	14	nmod	_	_
+16	UNA	Una	PROPN	SP	_	15	flat:name	_	_
+17	VERA	Vera	PROPN	SP	_	15	flat:name	_	_
+18	INFORMAZIONE	informazione	PROPN	SP	_	15	flat:name	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = TJE https://www.
+1	TJE	TJE	ADV	B	_	2	advmod	_	_
+2	https://www	https://www	X	SW	Foreign=Yes	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = youtube.com/playlist?list= UUQMR0q4wNM8Rbe7W0UlX1jg …
+1	youtube.com/playlist?list=	youtube.com/playlist?list=	PUNCT	FF	_	2	punct	_	_
+2	UUQMR0q4wNM8Rbe7W0UlX1jg	UUQMR0q4wNM8Rbe7W0UlX1jg	PROPN	SP	_	0	root	_	_
+3	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

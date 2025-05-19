@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nonna Franca oggi compie 100 anni glieli facciamo gli auguri??
+1	Nonna	nonna	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Franca	Franca	PROPN	SP	_	1	nmod	_	_
+3	oggi	oggi	ADV	B	_	4	advmod	_	_
+4	compie	compiere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	100	100	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+7-8	glieli	_	_	_	_	_	_	_	_
+7	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/m1o3v5CaTT
+1	pic.twitter.com/m1o3v5CaTT	pic.twitter.com/m1o3v5CaTT	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

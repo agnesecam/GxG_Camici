@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi sarebbe piaciuto essere perfetta come voi, poi però ho pensato che eravate già in tanti
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	piaciuto	piacere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	essere	essere	AUX	VA	VerbForm=Inf	5	aux	_	_
+5	perfetta	perfettare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	xcomp	_	_
+6	come	come	ADP	E	_	7	case	_	_
+7	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	poi	poi	ADV	B	_	12	advmod	_	_
+10	però	però	ADV	B	_	12	advmod	_	_
+11	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+13	che	che	SCONJ	CS	_	14	mark	_	_
+14	eravate	eravare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	ccomp	_	_
+15	già	già	ADV	B	_	14	advmod	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	14	obl	_	SpacesAfter=\n
+

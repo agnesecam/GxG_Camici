@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @twMec che dire?
+1	@twMec	@twMec	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	1	ccomp	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Eppure la stessa Total lo dichiara serenamente nel suo sito, neppure una goccia del petrolio lucano resterà in Italia
+1	Eppure	eppure	ADV	B	_	6	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	Total	Total	PROPN	SP	_	6	nsubj	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	dichiara	dichiarare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+7	serenamente	sereno	ADV	B	_	6	advmod	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	sito	sito	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	15	advmod	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	goccia	goccia	NOUN	S	Gender=Fem|Number=Sing	20	nsubj	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+19	lucano	lucano	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+20	resterà	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+21	in	in	ADP	E	_	22	case	_	_
+22	Italia	Italia	PROPN	SP	_	20	obl	_	SpacesAfter=\n
+

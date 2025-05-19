@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarroneEmma ki ti saprà ascoltare sul serio credimi nn ti farà aprir bocca.ki ti ama lo capisce da1sguardo, da1gesto diverso dal consueto:)
+1	@MarroneEmma	@MarroneEmma	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	ki	ko	ADJ	A	Number=Plur	1	amod	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	saprà	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	ascoltare	ascoltare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6-7	sul	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	serio	serio	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	credimi	credimo	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+10	nn	nno	ADP	E	_	11	case	_	_
+11	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	iobj	_	_
+12	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	acl	_	_
+13	aprir	aprire	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14	bocca.ki	bocca.ko	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+15	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	obj	_	_
+16	ama	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+17	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+18	capisce	capiscia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+19	da1sguardo	da1sguardo	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	19	punct	_	_
+21	da1gesto	da1gesto	NOUN	S	Gender=Masc|Number=Sing	19	compound	_	_
+22	diverso	diverso	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
+23-24	dal	_	_	_	_	_	_	_	_
+23	da	da	ADP	E	_	25	case	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	consueto	consueto	ADJ	A	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+26	:	:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+27	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OUAorganismoavv oggi #Agora ' scoprirà le carte e #CNF dovrà fare una scelta.
+1	@OUAorganismoavv	@OUAorganismoavv	ADJ	NO	Number=Sing|NumType=Ord	3	amod	_	_
+2	oggi	oggi	ADV	B	_	1	advmod	_	_
+3	#Agora	#Agora	PROPN	SP	_	5	nsubj	_	_
+4	'	'	PUNCT	FB	_	3	punct	_	_
+5	scoprirà	scoprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	carte	carta	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	#CNF	#CNF	PROPN	SP	_	7	conj	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	fare	fare	VERB	V	VerbForm=Inf	5	conj	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = NOI SIAMO PRONTI!
+1	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	SIAMO	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	PRONTI	pronti	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #savethelawyer @Movforense @radiotribunale
+1	#savethelawyer	#savethelawyer	ADP	E	_	2	case	_	_
+2	@Movforense	@Movforenso	PROPN	SP	_	0	root	_	_
+3	@radiotribunale	@radiotribunale	ADJ	A	Number=Sing	2	amod	_	SpacesAfter=\n
+

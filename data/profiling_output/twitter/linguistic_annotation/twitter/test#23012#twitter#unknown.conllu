@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @madeinsud_rai un pensiero mi tormenta Gli auguri a Nichy #Vendola glieli possiamo fare oggi o dobbiamo aspettare la Festa della #mamma ?
+1	@madeinsud_rai	@madeinsud_ere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	tormenta	tormentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Nichy	Nichy	PROPN	SP	_	5	obl	_	_
+10	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+11-12	Vendola	_	_	_	_	_	_	_	_
+11	Vendo	Vere	VERB	V	VerbForm=Ger	16	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13-14	glieli	_	_	_	_	_	_	_	_
+13	glie	gli	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+15	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	5	conj	_	_
+17	oggi	oggi	ADV	B	_	16	advmod	_	_
+18	o	o	CCONJ	CC	_	20	cc	_	_
+19	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	aspettare	aspettare	VERB	V	VerbForm=Inf	16	conj	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	Festa	Festa	PROPN	SP	_	20	obj	_	_
+23-24	della	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	#mamma	#mamma	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	_
+26	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

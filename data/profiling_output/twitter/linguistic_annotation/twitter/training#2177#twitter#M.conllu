@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quello che abbiamo dentro Quello che abbiamo dentro e che serbiamo al riparo degli anni è una folla d'istanti,... http:// fb.me/89MlZ4ZpZ
+1	Quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	3	obj	_	_
+3	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	dentro	dentro	ADP	E	_	5	case	_	_
+5	Quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+7	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dentro	dentro	ADV	B	_	7	advmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	che	che	SCONJ	CS	_	11	mark	_	_
+11	serbiamo	serbere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	riparo	riparo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15-16	degli	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	anni	anno	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	folla	folla	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+21	d'	di	ADP	E	_	22	case	_	SpaceAfter=No
+22	istanti,...	istanti,...	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+23	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	20	punct	_	_
+26	fb.me/89MlZ4ZpZ	fb.me/89MlZ4ZpZ	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

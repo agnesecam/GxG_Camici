@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @QueenofSorrow75 non avessimo contraddizioni non saremmo umani.
+1	@QueenofSorrow75	@QueenofSorrow75	PROPN	SP	_	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	contraddizioni	contraddizione	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	umani	umano	ADJ	A	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Cin Cin.
+1	Cin	Cin	PROPN	SP	_	0	root	_	_
+2	Cin	Cin	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

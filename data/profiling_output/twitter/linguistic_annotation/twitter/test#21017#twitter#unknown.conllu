@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Corriere ma chi gliela ruba
+1	@Corriere	@Corriere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	conj	_	_
+4-5	gliela	_	_	_	_	_	_	_	_
+4	glie	gli	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	ruba	ruba	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpacesAfter=\n
+

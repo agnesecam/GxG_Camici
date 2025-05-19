@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = vi narro questa storia vengo sopraffatto dalla paura:Signora Sopranov.I tre vengono raggiunti per sconfiggere l'8, l'Universo, da un'anziana
+1	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	iobj	_	_
+2	narro	narrere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+3	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	storia	storia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	vengo	venire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	sopraffatto	sopraffare	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	paura:Signora	paura:Signore	PROPN	SP	_	6	nmod	_	_
+10	Sopranov.I	Sopranov.I	PROPN	SP	_	9	flat:name	_	_
+11	tre	tre	NUM	N	NumType=Card	9	nummod	_	_
+12	vengono	venire	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
+13	raggiunti	raggiungere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	sconfiggere	sconfiggere	VERB	V	VerbForm=Inf	13	advcl	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	8	8	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	20	punct	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	Universo	universo	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	13	punct	_	_
+22	da	da	ADP	E	_	24	case	_	_
+23	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	SpaceAfter=No
+24	anziana	anziano	NOUN	S	Gender=Fem|Number=Sing	13	obl:agent	_	SpacesAfter=\n
+

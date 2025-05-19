@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #notizie #cronaca Saronno, ferì imprenditore con un machete:
+1	#notizie	#notizia	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+2	#cronaca	#cronaco	ADP	E	_	3	case	_	_
+3	Saronno	Saronno	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	ferì	ferire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	imprenditore	imprenditore	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	machete	machete	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = video incastra rapinatore 26enne: Dovrà risponde...
+1	video	video	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+2	incastra	incastrare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	rapinatore	rapinatore	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	26enne	26enne	ADJ	A	Number=Sing	3	amod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+6	Dovrà	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	risponde...	risponde...	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = http:// bit.ly/22RZh6T
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	bit.ly/22RZh6T	bit.ly/22RZh6T	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

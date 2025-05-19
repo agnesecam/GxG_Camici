@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gaetanosava Buongiorno.
+1	@gaetanosava	@gaetanosare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	Buongiorno	Buongiorno	PROPN	SP	_	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Feci una tesi su di lei, anni fa, che ora è diventato il blog http:// bit.ly/1QXIvaP .
+1	Feci	Feci	NUM	N	NumType=Card	3	nummod	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	tesi	tesi	NOUN	S	Gender=Fem	0	root	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+9	fa	fa	ADV	B	_	8	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+12	ora	ora	ADV	B	_	14	advmod	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	blog	blog	NOUN	S	_	14	nsubj	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	bit.ly/1QXIvaP	bit.ly/1QXIvaP	PROPN	SP	_	16	nmod	_	_
+21	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Le va di dare un'occhiata?
+1	Le	il	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	2	iobj	_	_
+2	va	va	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	dare	dare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	occhiata	occhiata	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

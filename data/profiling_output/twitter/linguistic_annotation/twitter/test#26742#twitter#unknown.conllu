@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sheispale per 5 secondi mi era sembrato di vedere una vagina
+1	@sheispale	@sheispala	ADV	B	_	7	advmod	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	5	5	NUM	N	NumType=Card	4	nummod	_	_
+4	secondi	secondo	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	vedere	vedere	VERB	V	VerbForm=Inf	7	advcl	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	vagina	vagina	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpacesAfter=\n
+

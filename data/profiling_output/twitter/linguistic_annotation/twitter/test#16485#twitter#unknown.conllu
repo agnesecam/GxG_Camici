@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = olio su tela eseguita da Patrizia Perky ( coll . privata) http:// fb.me/547xgCSaV
+1	olio	olio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	su	su	ADP	E	_	3	case	_	_
+3	tela	tela	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	eseguita	eseguire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	Patrizia	Patrizia	PROPN	SP	_	4	obl:agent	_	_
+7	Perky	Perky	PROPN	SP	_	6	flat:name	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	_
+9	coll	coll	NOUN	S	Gender=Masc	6	nmod	_	_
+10	.	.	PUNCT	FS	_	9	punct	_	_
+11	privata	privata	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	9	punct	_	_
+13	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	9	punct	_	_
+16	fb.me/547xgCSaV	fb.me/547xgCSaV	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

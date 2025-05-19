@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domani sarà un giorno triste per @maxzanovello , mi scuso già in anticipo per le lacrime che ti farò versare
+1	Domani	Domani	ADV	B	_	4	advmod	_	_
+2	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+5	triste	triste	ADJ	A	Number=Sing	4	amod	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	@maxzanovello	@maxzanovello	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	scuso	scudere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+11	già	già	ADV	B	_	13	advmod	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	anticipo	anticipo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14	per	per	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	lacrime	lacrima	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+17	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	obj	_	_
+19	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	_
+20	versare	versare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

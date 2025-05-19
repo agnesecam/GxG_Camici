@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io credo di aver capito l'ora legale, dunque perché anziché svegliarmi naturalmente un'ora dopo spalanco gli occhi due ore prima?
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	5	mark	_	_
+4	aver	avere	AUX	VA	VerbForm=Inf	5	aux	_	_
+5	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	ora	ora	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	legale	legale	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	dunque	dunque	ADV	B	_	13	advmod	_	_
+11	perché	perché	SCONJ	CS	_	13	mark	_	_
+12	anziché	anziché	ADV	B	_	13	advmod	_	_
+13	svegliarmi	arma|svegliarme	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+14	naturalmente	naturalmente	ADV	B	_	13	advmod	_	_
+15	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	ora	ora	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+17	dopo	dopo	ADP	E	_	18	case	_	_
+18	spalanco	spalanco	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+21	due	due	NUM	N	NumType=Card	22	nummod	_	_
+22	ore	ora	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+23	prima	prima	ADV	B	_	22	advmod	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

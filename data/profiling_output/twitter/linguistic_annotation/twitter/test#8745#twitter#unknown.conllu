@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @73deva73
+1	@73deva73	@73deva73	NUM	N	NumType=Range	0	root	_	_
+
+# sent_id = 2
+# text = Se si guardasse allo specchio si renderebbe conto che non convince neppure se stessa
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	guardasse	guardare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+4-5	allo	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	specchio	specchio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	renderebbe	rendere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	conto	conto	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	convince	convincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	15	advmod	_	_
+14	se	se	SCONJ	CS	_	15	case	_	_
+15	stessa	stesso	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	12	obl	_	SpacesAfter=\n
+

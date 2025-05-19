@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qui il buon Higuain sta dicendo all'arbitro "vergogna".
+1	Qui	qui	ADV	B	_	6	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	buon	buono	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Higuain	Higuain	PROPN	SP	_	6	nsubj	_	_
+5	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	dicendo	dire	VERB	V	VerbForm=Ger	0	root	_	_
+7-8	all'	_	_	_	_	_	_	_	SpaceAfter=No
+7	a	a	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	arbitro	arbitro	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	9	compound	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..non fatevi ingannare dal labiale che fa sembrare "bastardo" https:// twitter.com/juventi9ro/sta tus/717218812681129985 …
+1	..non	..non	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	fatevi	fare	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	ingannare	ingannare	VERB	V	VerbForm=Inf	0	root	_	_
+4-5	dal	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	labiale	labiale	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	bastardo	bastardo	NOUN	S	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	_
+16	twitter.com/juventi9ro/sta	twitter.com/juventi9ro/stare	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+17	tus/717218812681129985	tus/717218812681129985	NUM	N	NumType=Card	16	nummod	_	_
+18	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

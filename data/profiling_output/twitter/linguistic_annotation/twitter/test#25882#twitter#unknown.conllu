@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sei una lesbica stella d'oro?
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	lesbica	lesbico	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	stella	stella	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	d'	di	ADP	E	_	6	case	_	SpaceAfter=No
+6	oro	oro	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = (Nel caso in cui non si c… — Eh no, li ho già avuti col pecorone di nome Barrroi @lo… https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM5SEDDLA4RPZ7PN77D7SLNZN62UYY2Z2MFJF4CSRUKWYPQEQHJQUH4DB7YEV7M2V
+1	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2-3	Nel	_	_	_	_	_	_	_	_
+2	In	in	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	29	obl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	cui	cui	PRON	PR	PronType=Rel	17	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	c…	c…	PUNCT	FF	_	6	punct	_	_
+10	—	—	PUNCT	FF	_	6	punct	_	_
+11	Eh	eh	PROPN	SP	_	17	nsubj	_	_
+12	no	no	ADV	BN	PronType=Neg	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	11	punct	_	_
+14	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+15	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+16	già	già	ADV	B	_	17	advmod	_	_
+17	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+18-19	col	_	_	_	_	_	_	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	pecorone	pecorone	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	nome	nome	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	_
+23	Barrroi	Barrro	PROPN	SP	_	20	nmod	_	_
+24	@lo…	@lo…	PUNCT	FF	_	25	punct	_	_
+25	https:	https:	PUNCT	FC	_	28	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	25	punct	_	_
+28	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	23	flat:name	_	_
+29	7B667HQMHN2IG6NM5SEDDLA4RPZ7PN77D7SLNZN62UYY2Z2MFJF4CSRUKWYPQEQHJQUH4DB7YEV7M2V	7B667HQMHN2IG6NM5SEDDLA4RPZ7PN77D7SLNZN62UYY2Z2MFJF4CSRUKWYPQEQHJQUH4DB7YEV7M2V	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY= …
+1	ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY=	ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

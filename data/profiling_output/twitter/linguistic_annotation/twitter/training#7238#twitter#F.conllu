@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tornando a casa, con il volume di Alberto Angela, passo davanti a un gruppo di ragazzini.
+1	Tornando	tornare	VERB	V	VerbForm=Ger	12	advcl	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	volume	volume	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Alberto	Alberto	PROPN	SP	_	7	nmod	_	_
+10	Angela	Angela	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	7	punct	_	_
+12	passo	passo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	davanti	davanti	ADV	B	_	16	case	_	_
+14	a	a	ADP	E	_	13	fixed	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	ragazzini	ragazzino	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = A un certo punto alcuni di essi "gridano":
+1	A	a	ADP	E	_	4	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	certo	certo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	punto	punto	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+5	alcuni	alcuno	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nmod	_	_
+8	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	gridano	gridare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	9	punct	_	SpacesAfter=\n
+

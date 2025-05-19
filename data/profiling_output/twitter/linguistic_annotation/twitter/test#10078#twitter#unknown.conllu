@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pochi sanno che l'avocado è un frutto molto antico, che faceva parte dell'alimentazione degli animali preistorici http:// soc.fm/ZHJSyPRZ
+1	Pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
+2	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	avocado	avocado	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	frutto	frutto	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	_
+9	molto	molto	ADV	B	_	10	advmod	_	_
+10	antico	antico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	8	punct	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
+14	parte	parte	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+15-16	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+15	di	di	ADP	E	_	17	case	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+17	alimentazione	alimentazione	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18-19	degli	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	animali	animale	NOUN	S	Gender=Masc|Number=Plur	21	nmod	_	_
+21	preistorici	preistorico	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	soc.fm/ZHJSyPRZ	soc.fm/ZHJSyPRZ	PROPN	SP	_	17	nmod	_	SpacesAfter=\n
+

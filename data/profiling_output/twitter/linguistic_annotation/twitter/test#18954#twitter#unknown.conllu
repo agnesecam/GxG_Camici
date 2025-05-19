@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Maria è contemplativa del mistero d Dio @PapaParole nel mondo, nella storia e nella vita quotidiana d ciascuno http:// bit.ly/EvGauPFrancesco
+1	Maria	Maria	PROPN	SP	_	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	contemplativa	contemplativo	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mistero	mistero	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	d	d	NOUN	S	_	6	compound	_	_
+8	Dio	Dio	PROPN	SP	_	7	nmod	_	_
+9	@PapaParole	@PapaParole	PROPN	SP	_	8	flat:name	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14-15	nella	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	storia	storia	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+17	e	e	CCONJ	CC	_	20	cc	_	_
+18-19	nella	_	_	_	_	_	_	_	_
+18	in	in	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	vita	vita	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	_
+21	quotidiana	quotidiano	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+22	d	d	ADJ	A	_	20	amod	_	_
+23	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	22	obl	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	_
+27	bit.ly/EvGauPFrancesco	bit.ly/EvGauPFrancesco	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

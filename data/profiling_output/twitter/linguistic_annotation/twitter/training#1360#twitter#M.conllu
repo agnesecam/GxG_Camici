@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il nostro obiettivo Continuare a coccolarvi sulle nostre tavole così come facciamo da 20 anni ....
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	obiettivo	obiettivo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	Continuare	continuare	VERB	V	VerbForm=Inf	3	acl	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	coccolarvi	_	_	_	_	_	_	_	_
+6	coccolar	coccolare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	vi	vi	ADV	B	_	6	advmod	_	_
+8-9	sulle	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	tavole	tavola	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+12	così	così	ADV	B	_	14	mark	_	_
+13	come	come	SCONJ	CS	_	12	fixed	_	_
+14	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	20	20	NUM	N	NumType=Card	17	nummod	_	_
+17	anni	anno	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+18	...	...	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/ZrOo0ukI
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/ZrOo0ukI	fb.me/ZrOo0ukI	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

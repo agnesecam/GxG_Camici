@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @andreagale sarebbe bello se facessi una video recensione di Zefit2, la band di Kronoz ;) http://www.
+1	@andreagale	@andreagale	ADJ	A	Number=Sing	3	nsubj	_	_
+2	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	bello	bello	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	facessi	facettere	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	video	video	ADJ	A	_	8	amod	_	_
+8	recensione	recensione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Zefit2	Zefit2	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	band	band	NOUN	S	Gender=Fem	3	conj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Kronoz	Kronoz	PROPN	SP	_	13	nmod	_	_
+16	;	;	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	3	punct	_	_
+18	http://www.	http://www.	NOUN	S	_	0	root	_	_
+
+# sent_id = 2
+# text = mykronoz.com/collections/ze fit2/ …
+1	mykronoz.com/collections/ze	mykronoz.com/collections/za	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	fit2	fit2	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	_
+4	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

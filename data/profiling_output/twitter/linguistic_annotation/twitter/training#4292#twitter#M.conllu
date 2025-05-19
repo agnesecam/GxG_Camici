@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaGiuricin @LeoniBlog ma da dcembre 2019 tpl dovrà essere oggetto di gara oppure comuni e regioni avranno ancora vie di fuga?
+1	@AndreaGiuricin	@AndreaGiuricino	PROPN	SP	_	10	nsubj	_	_
+2	@LeoniBlog	@LeoniBlog	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	dcembre	dcembre	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+6	2019	2019	NUM	N	NumType=Card	7	nummod	_	_
+7	tpl	tpl	NOUN	S	Gender=Masc	5	nmod	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+9	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+10	oggetto	oggetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	gara	gara	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	oppure	oppure	CCONJ	CC	_	14	cc	_	_
+14	comuni	comune	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	regioni	regione	NOUN	S	Gender=Fem|Number=Plur	17	nsubj	_	_
+17	avranno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	conj	_	_
+18	ancora	ancora	ADV	B	_	17	advmod	_	_
+19	vie	via	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	fuga	fuga	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

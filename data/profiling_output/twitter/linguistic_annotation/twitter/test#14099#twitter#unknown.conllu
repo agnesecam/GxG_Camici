@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel PD Bersani nn contate niente e' questa la fortuna di Renzi,siete senza dignità altrimenti sareste usciti tutti voi cosiddetti minoranza
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	PD	pd	PROPN	SP	_	6	obl	_	_
+4	Bersani	Bersani	PROPN	SP	_	6	nsubj	_	_
+5	nn	nno	NUM	N	NumType=Card	4	nummod	_	_
+6	contate	contato	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	10	punct	_	_
+10	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	7	conj	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	Renzi,siete	Renzi,sieta	PROPN	SP	_	12	nmod	_	_
+15	senza	senza	ADP	E	_	16	case	_	_
+16	dignità	dignità	NOUN	S	Gender=Fem	14	nmod	_	_
+17	altrimenti	altrimenti	CCONJ	CC	_	18	cc	_	_
+18	sareste	saresto	NOUN	S	Gender=Fem|Number=Plur	14	conj	_	_
+19	usciti	uscire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
+20	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	23	obl	_	_
+21	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	23	det:poss	_	_
+22	cosiddetti	cosiddetto	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	_
+23	minoranza	minoranza	NOUN	S	Gender=Fem|Number=Sing	19	nsubj:pass	_	SpacesAfter=\n
+

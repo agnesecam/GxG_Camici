@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @trattamenti avremmo potuto farla nascere già sul termine aspirare e sulle dimensioni consigliate per i tubi flessibili, ma ahimè no.
+1	@trattamenti	@trattamento	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux	_	_
+4-5	farla	_	_	_	_	_	_	_	_
+4	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+5	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	nascere	nascere	VERB	V	VerbForm=Inf	4	ccomp	_	_
+7	già	già	ADV	B	_	6	advmod	_	_
+8-9	sul	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	termine	termine	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+11	aspirare	aspirare	VERB	V	VerbForm=Inf	6	advcl	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13-14	sulle	_	_	_	_	_	_	_	_
+13	su	su	ADP	E	_	15	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	dimensioni	dimensione	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	_
+16	consigliate	consigliare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
+17	per	per	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	tubi	tubo	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	_
+20	flessibili	flessibile	ADJ	A	Number=Plur	19	amod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	24	punct	_	_
+22	ma	ma	CCONJ	CC	_	24	cc	_	_
+23	ahimè	ahimè	INTJ	I	_	24	discourse	_	_
+24	no	no	ADV	BN	PronType=Neg	11	conj	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

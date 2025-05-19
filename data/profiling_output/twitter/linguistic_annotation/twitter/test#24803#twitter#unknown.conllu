@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questi politici dormono e l'italia va ha rotoli se lo farebbero in aziende private sarebbero tutti licenziati schifo pic.twitter.com/gymK3zimEo
+1	Questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
+2	politici	politico	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	dormono	dormire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	italia	italia	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+9	rotoli	rotolo	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	se	se	SCONJ	CS	_	12	mark	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	aziende	azienda	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+15	private	privato	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+16	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+17	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	nmod	_	_
+18	licenziati	licenziato	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
+19	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+20	pic.twitter.com/gymK3zimEo	pic.twitter.com/gymK3zimEo	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

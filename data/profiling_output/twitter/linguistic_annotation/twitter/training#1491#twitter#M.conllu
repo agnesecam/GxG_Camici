@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nulliper @AnnaMariaCastel @ClaraMutsc @GaiaGaudenzi @ClaudioDeglinn2 Anzi sela vuoi sapere tutta egiziani han fatto una gita a spese nostre
+1	@nulliper	@nullipere	ADP	E	_	2	case	_	_
+2	@AnnaMariaCastel	@AnnaMariaCastel	PROPN	SP	_	9	obl	_	_
+3	@ClaraMutsc	@ClaraMutsc	PROPN	SP	_	2	flat:name	_	_
+4	@GaiaGaudenzi	@GaiaGaudenzi	PROPN	SP	_	9	nsubj	_	_
+5	@ClaudioDeglinn2	@ClaudioDeglinn2	PROPN	SP	_	4	flat:name	_	_
+6	Anzi	anzi	ADP	E	_	7	case	_	_
+7	sela	sela	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sapere	sapere	VERB	V	VerbForm=Inf	0	root	_	_
+10	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	11	det	_	_
+11	egiziani	egiziano	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	gita	gita	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	_
+18	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	SpacesAfter=\n
+

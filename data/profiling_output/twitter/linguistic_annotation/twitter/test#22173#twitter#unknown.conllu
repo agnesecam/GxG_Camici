@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gabriele Susanne Kerner conosciuta come Nena che nel 1983 con "99 Luftballons" ebbe un successo...
+1	Gabriele	Gabriele	PROPN	SP	_	0	root	_	_
+2	Susanne	Susanne	PROPN	SP	_	1	flat:name	_	_
+3	Kerner	Kerner	PROPN	SP	_	1	flat:name	_	_
+4	conosciuta	conoscere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	Nena	Nena	PROPN	SP	_	4	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	1983	1983	NUM	N	NumType=Card	16	obl	_	_
+11	con	con	ADP	E	_	14	case	_	_
+12	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+13	99	99	NUM	N	NumType=Card	14	nummod	_	_
+14	Luftballons	Luftballons	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	14	punct	_	_
+16	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	successo...	successo...	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+
+# sent_id = 2
+# text = http:// fb.me/TIDUVB7U
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/TIDUVB7U	fb.me/TIDUVB7U	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

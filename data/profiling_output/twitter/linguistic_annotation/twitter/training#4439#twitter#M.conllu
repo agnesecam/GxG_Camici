@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaZanzaraR24 Oh che paura, il povero agnellino cruciani dovrà tirarsi su con po' di selfie con sottofondo rock ... è così il celodurismo!
+1	@LaZanzaraR24	@LaZanzaraR24	PROPN	SP	_	11	nsubj	_	_
+2	Oh	oh	PROPN	SP	_	1	flat:name	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	paura	paura	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	povero	povero	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	agnellino	agnellino	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+9	cruciani	cruciano	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11-12	tirarsi	_	_	_	_	_	_	_	_
+11	tirar	tirare	VERB	V	VerbForm=Inf	0	root	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	su	su	ADV	B	_	11	advmod	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	po'	poco	ADV	B	_	11	advmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	selfie	selfia	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	sottofondo	sottofondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	20	amod	_	_
+20	rock	rock	NOUN	S	Gender=Masc	17	nmod	_	_
+21	...	...	PUNCT	FF	_	22	punct	_	_
+22	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+23	così	così	ADV	B	_	25	advmod	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	celodurismo	celodurismo	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

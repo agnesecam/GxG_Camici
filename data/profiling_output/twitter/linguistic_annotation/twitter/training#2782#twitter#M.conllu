@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FrenkMarino Guardiola(anche se può sembrare strano) per me è più flessibile.
+1	@FrenkMarino	@FrenkMarino	PROPN	SP	_	14	nsubj	_	_
+2	Guardiola	Guardiola	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+4	anche	anche	ADV	B	_	7	mark	_	_
+5	se	se	SCONJ	CS	_	4	fixed	_	_
+6	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	1	advcl	_	_
+8	strano	strano	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	7	punct	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	flessibile	flessibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Devo dire che vedo Pochettino in forte ascesa.
+1	Devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	Pochettino	Pochettino	PROPN	SP	_	4	obj	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	forte	forte	ADJ	A	Number=Sing	8	amod	_	_
+8	ascesa	ascesa	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ahimè l'ho già visto da qualche parte https:// twitter.com/jacopo_iacobon i/status/714899246286241794 …
+1	Ahimè	ahimè	CCONJ	CC	_	5	cc	_	_
+2	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	già	già	ADV	B	_	5	advmod	_	_
+5	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	8	det	_	_
+8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	twitter.com/jacopo_iacobon	twitter.com/jacopo_iacobon	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	SpaceAfter=No
+14	/status/714899246286241794	/status/714899246286241794	NUM	N	NumType=Card	5	nmod	_	_
+15	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

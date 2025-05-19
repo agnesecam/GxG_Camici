@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 20 beauty look Anni 90 che facevano sembrare tutte brutte - Io Donna http://www.
+1	20	20	NUM	N	NumType=Card	2	nummod	_	_
+2	beauty	beauty	X	SW	Foreign=Yes	0	root	_	_
+3	look	look	X	SW	Foreign=Yes	2	flat:foreign	_	_
+4	Anni	anno	X	X	_	2	flat:foreign	_	_
+5	90	90	NUM	N	NumType=Card	2	nummod	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	12	det	_	_
+10	brutte	brutto	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	Io	Io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+13	Donna	donna	PROPN	SP	_	12	nmod	_	_
+14	http://www	http://www	NOUN	S	_	13	compound	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = iodonna.it/bellezza/make- up/2015/04/09/10-beauty-must-anni-90-che-facevano-sembrare-tutte-orrende/ …
+1	iodonna.it/bellezza/make-	_	PUNCT	FB	_	2	punct	_	_
+2	up/2015	up/2015	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	04	04	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	09	09	NUM	N	NumType=Card	4	compound	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	10	10	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	beauty-must-anni	beauty-must-anno	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	90	90	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+16	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
+17	-	-	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+18	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+19	-tutte-orrende	-tutte-orrendere	NOUN	S	Gender=Fem|Number=Plur	18	xcomp	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	_
+21	…	…	PUNCT	FF	_	18	punct	_	SpacesAfter=\n
+

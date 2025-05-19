@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @archiettoliber Gli uomini sono dei maiali a tutte le latitudini e gli italiani non sono migliori, quante gliene potrei raccontare.
+1	@archiettoliber	@archiettolibere	ADP	E	_	3	case	_	_
+2	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	maiali	maiale	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+8	a	a	ADP	E	_	11	case	_	_
+9	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	11	det:predet	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	latitudini	latitudine	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+12	e	e	CCONJ	CC	_	17	cc	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	17	nsubj	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	7	conj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	20	punct	_	_
+19	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	20	det	_	_
+20	gliene	glenere	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+21	potrei	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	raccontare	raccontare	VERB	V	VerbForm=Inf	7	conj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

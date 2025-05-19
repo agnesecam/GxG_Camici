@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Estate 2014.
+1	Estate	Estate	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	2014	2014	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Fui invitata a presentare "Noi Due " in occasione della manifestazione "Marefestival".
+1	Fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	aux	_	_
+2	invitata	invitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	presentare	presentare	VERB	V	VerbForm=Inf	2	advcl	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	obj	_	_
+7	Due	Due	NUM	N	NumType=Card	6	nummod	_	_
+8	"	"	PUNCT	FB	_	6	punct	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	manifestazione	manifestazione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	Marefestival	Marefestival	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Fu una... http:// fb.me/3Uv6SLuzy
+1	Fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+2	una...	una.	NUM	N	NumType=Card	6	nummod	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	fb.me/3Uv6SLuzy	fb.me/3Uv6SLuzy	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

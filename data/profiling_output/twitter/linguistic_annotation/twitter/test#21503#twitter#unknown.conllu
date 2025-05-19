@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Wow lo amo già....
+1	Wow	Wow	PROPN	SP	_	3	nsubj	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	già...	già.	NOUN	S	_	3	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Rimarrà un amore a distanza però!!!
+1	Rimarrà	Rimarre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	amore	amore	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	distanza	distanza	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	però	però	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	!!!	!!!	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 3
+# text = Almeno fino a che il mio 4S starà bene e gode ancora di... http:// fb.me/71mvG2ZdI
+1	Almeno	almeno	ADV	B	_	8	advmod	_	_
+2	fino	fino	ADV	B	_	8	mark	_	_
+3	a	a	ADP	E	_	2	fixed	_	_
+4	che	che	SCONJ	CS	_	2	fixed	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	4S	4S	PROPN	SP	_	8	nsubj	_	_
+8	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	bene	bene	ADV	B	_	8	advmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	gode	godere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+12	ancora	ancora	ADV	B	_	11	advmod	_	_
+13	di...	di.	PUNCT	FS	_	14	punct	_	_
+14	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	_
+17	fb.me/71mvG2ZdI	fb.me/71mvG2ZdI	PROPN	SP	_	8	nsubj	_	SpacesAfter=\n
+

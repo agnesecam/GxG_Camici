@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SkyTG24 oggi ma fra 10 anni si dovrà adattare
+1	@SkyTG24	@SkyTG24	NUM	N	NumType=Card	9	nummod	_	_
+2	oggi	oggi	ADV	B	_	9	advmod	_	_
+3	ma	ma	CCONJ	CC	_	9	cc	_	_
+4	fra	fra	ADP	E	_	6	case	_	_
+5	10	10	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	adattare	adattare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

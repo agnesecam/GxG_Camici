@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Concord_Italia @VITAnonprofit Ahimè temo di no!
+1	@Concord_Italia	@Concord_Italia	PROPN	SP	_	4	nsubj	_	_
+2	@VITAnonprofit	@VITAnonprofit	PROPN	SP	_	1	flat:name	_	_
+3	Ahimè	ahimè	PROPN	SP	_	1	flat:name	_	_
+4	temo	temere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	no	no	ADV	BN	PronType=Neg	4	advmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Troppi egoismi nazionali e dividendi della paura!
+1	Troppi	troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	egoismi	egoismo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	nazionali	nazionale	ADJ	A	Number=Plur	2	amod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	dividendi	dividendio	ADJ	A	Number=Plur	3	conj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	paura	paura	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #NoncirestaChePiangere
+1	#NoncirestaChePiangere	#NoncirestaChePiangere	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

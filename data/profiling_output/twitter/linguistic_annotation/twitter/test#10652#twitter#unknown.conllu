@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Regolarmente iscritto ai 50 milioni di ct, dico che una difesa a tre con laterali Florenzi e Giaccherini è pericolosa assai #GermaniaItalia
+1	Regolarmente	regolarmente	ADV	B	_	2	advmod	_	_
+2	iscritto	iscrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	acl	_	_
+3-4	ai	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	50	50	NUM	N	NumType=Card	6	nummod	_	_
+6	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	ct	ct	NOUN	S	Gender=Masc	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+11	che	che	SCONJ	CS	_	22	mark	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	difesa	difesa	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	tre	tre	NUM	N	NumType=Card	13	nummod	_	_
+16	con	con	ADP	E	_	18	case	_	_
+17	laterali	laterale	ADJ	A	Number=Plur	18	amod	_	_
+18	Florenzi	Florenzi	PROPN	SP	_	13	nmod	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	Giaccherini	Giaccherini	PROPN	SP	_	18	conj	_	_
+21	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+22	pericolosa	pericoloso	ADJ	A	Gender=Fem|Number=Sing	10	ccomp	_	_
+23	assai	assai	ADV	B	_	22	advmod	_	_
+24	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+25	GermaniaItalia	GermaniaItalia	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

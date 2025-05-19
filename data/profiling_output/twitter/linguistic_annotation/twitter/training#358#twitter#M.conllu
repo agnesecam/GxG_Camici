@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MagnusPinus credo si allenasse perfettamente.
+1	@MagnusPinus	@MagnusPinus	PROPN	SP	_	2	nsubj	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	allenasse	allenare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	xcomp	_	_
+5	perfettamente	perfettamente	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Cosa sarebbe successo se avessimo preso un gol per colpa sua mentre eravamo in crisi?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	nsubj	_	_
+2	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	gol	gol	NOUN	S	Gender=Masc	6	obj	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+12	mentre	mentre	SCONJ	CS	_	15	mark	_	_
+13	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	15	cop	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	crisi	crisi	NOUN	S	Gender=Fem	6	advcl	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

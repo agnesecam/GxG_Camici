@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DonniniMario Infatti quando scoppia rivoluzione,golpe,ecc, è essenziale impadronirsi mezzi comunicazione, sempre e dovunque .
+1	@DonniniMario	@DonniniMario	PROPN	SP	_	9	nsubj	_	_
+2	Infatti	infatti	PROPN	SP	_	1	flat:name	_	_
+3	quando	quando	SCONJ	CS	_	4	mark	_	_
+4	scoppia	scoppiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+5	rivoluzione	rivoluzione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+6	,golpe,ecc	,golpe,eccetera	ADJ	A	_	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	essenziale	essenziale	ADJ	A	Number=Sing	0	root	_	_
+10-11	impadronirsi	_	_	_	_	_	_	_	_
+10	impadronir	impadronire	VERB	V	VerbForm=Inf	9	csubj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	iobj	_	_
+12	mezzi	mezzo	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+13	comunicazione	comunicazione	NOUN	S	Gender=Fem|Number=Sing	12	compound	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	12	punct	_	_
+15	sempre	sempre	ADV	B	_	12	advmod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	dovunque	dovunque	ADV	B	_	15	conj	_	_
+18	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

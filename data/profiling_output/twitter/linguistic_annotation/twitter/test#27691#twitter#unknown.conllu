@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Da quando ci sei tu, la luce del mattino ha più colori e non mi sento più un piccolo silenzio fra rumori"
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Da	da	ADP	E	_	6	mark	_	_
+3	quando	quando	SCONJ	CS	_	2	fixed	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	luce	luce	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mattino	mattino	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+13	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	colori	colore	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+16	e	e	CCONJ	CC	_	19	cc	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	expl	_	_
+19	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	_
+20	più	più	ADV	B	_	19	advmod	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+24	fra	fra	ADP	E	_	25	case	_	_
+25	rumori	rumore	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
+26	"	"	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

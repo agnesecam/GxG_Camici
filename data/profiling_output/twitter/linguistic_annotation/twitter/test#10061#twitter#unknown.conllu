@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma lady oscar faceva pure L investigatore privato ?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	lady	lady	NOUN	S	Gender=Masc	4	nsubj	_	_
+3	oscar	oscare	NOUN	S	Gender=Masc	2	compound	_	_
+4	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	pure	pure	ADV	B	_	4	advmod	_	_
+6	L	L	PROPN	SP	_	4	obj	_	_
+7	investigatore	investigatore	NOUN	S	Gender=Masc|Number=Sing	6	flat:name	_	_
+8	privato	privato	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+9	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #chilhavisto
+1	#chilhavisto	#chilhavedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

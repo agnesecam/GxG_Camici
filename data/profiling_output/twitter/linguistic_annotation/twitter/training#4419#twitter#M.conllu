@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cristo dovrà patire e risuscitare dai morti e nel suo nome saranno predicati a tutte le genti la conversione e il perdono dei peccati
+1	Cristo	Cristo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	patire	patire	VERB	V	VerbForm=Inf	0	root	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	risuscitare	risuscitare	VERB	V	VerbForm=Inf	3	conj	_	_
+6-7	dai	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	morti	morto	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+9	e	e	CCONJ	CC	_	13	cc	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	13	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	nome	nome	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+14	saranno	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	15	aux:pass	_	_
+15	predicati	predicare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	19	det:predet	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	genti	gente	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	conversione	conversione	NOUN	S	Gender=Fem|Number=Sing	15	nsubj:pass	_	_
+22	e	e	CCONJ	CC	_	24	cc	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	perdono	perdono	NOUN	S	Gender=Masc|Number=Sing	21	conj	_	_
+25-26	dei	_	_	_	_	_	_	_	_
+25	di	di	ADP	E	_	27	case	_	_
+26	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
+27	peccati	peccato	NOUN	S	Gender=Masc|Number=Plur	24	nmod	_	SpacesAfter=\n
+

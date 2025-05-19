@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E voglio vedere quando dovrà usare le armi cosa farà la cattolica Austria!!
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+4	quando	quando	SCONJ	CS	_	6	mark	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	usare	usare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	armi	arma	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	10	obj	_	_
+10	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	ccomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	cattolica	cattolico	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	Austria	Austria	PROPN	SP	_	10	nsubj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/RaiNews/status /716286398945497088 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/RaiNews/status	twitter.com/RaiNews/status	PROPN	SP	_	0	root	_	_
+5	/716286398945497088	/716286398945497088	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

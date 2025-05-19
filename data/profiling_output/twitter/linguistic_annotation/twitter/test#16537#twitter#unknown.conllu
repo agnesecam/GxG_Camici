@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ....' coll 'infuso di gràmignà il dolore se là svignà'.. — Guardando Sereno Variabile
+1	....'	....'	PUNCT	FF	_	2	punct	_	_
+2	coll	coll	NOUN	S	Number=Sing	0	root	_	_
+3	'	'	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	infuso	infuso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	gràmignà	gràmignà	NOUN	S	Gender=Masc	4	obl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	dolore	dolore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+9	se	se	SCONJ	CS	_	11	case	_	_
+10	là	là	ADV	B	_	11	advmod	_	_
+11	svignà	svignà	NOUN	S	Gender=Fem	8	nmod	_	SpaceAfter=No
+12	'..	'..	PUNCT	FF	_	14	punct	_	_
+13	—	—	PUNCT	FF	_	14	punct	_	_
+14	Guardando	guardare	PROPN	SP	_	11	nmod	_	_
+15	Sereno	Sereno	PROPN	SP	_	14	flat:name	_	_
+16	Variabile	variabile	ADJ	A	Number=Sing	11	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ceccoecipo ne farete mai uno a Londra :) ?
+1	@ceccoecipo	@ceccoecipo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	3	advmod	_	_
+5	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	Londra	Londra	PROPN	SP	_	5	nmod	_	_
+8	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	3	punct	_	_
+10	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se si, pretendo di offrirvi un birrino post concerto :)
+1	Se	se	SCONJ	CS	_	6	mark	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	pretendo	pretendere	VERB	V	VerbForm=Ger	6	advcl	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6-7	offrirvi	_	_	_	_	_	_	_	_
+6	offrir	offrire	VERB	V	VerbForm=Inf	0	root	_	_
+7	vi	vi	ADV	B	_	6	advmod	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	birrino	birrino	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+10	post	post	ADV	B	_	11	advmod	_	_
+11	concerto	concerto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+12	:	:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

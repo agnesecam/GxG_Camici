@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cacciamo l'islam da casa nostra:
+1	Cacciamo	Caccare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	islam	islam	NOUN	S	Gender=Masc	1	obj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	casa	casa	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Altri attentati, altri morti.
+1	Altri	altro	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+2	attentati	attentato	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	altri	altro	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+5	morti	morto	NOUN	S	Gender=Masc|Number=Plur	2	appos	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ora non colpiscono neppure più a sorpresa, a fr... http:// bit.ly/1UGlPm0
+1	Ora	ora	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	colpiscono	colpire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+5	più	più	ADV	B	_	3	advmod	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	sorpresa	sorpresa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	fr...	fr...	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	bit.ly/1UGlPm0	bit.ly/1UGlPm0	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

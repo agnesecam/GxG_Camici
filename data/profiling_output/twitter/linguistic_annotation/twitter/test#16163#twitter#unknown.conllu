@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BenjieFede io sono venuta ieri al centro commerciale Campania eravate stupendi Siete la cosa piu bella della mia vita Mi mancate
+1	@BenjieFede	@BenjieFede	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	parataxis	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	venuta	venire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+5	ieri	ieri	ADV	B	_	4	advmod	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	centro	centro	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	commerciale	commerciale	ADJ	A	Number=Sing	8	amod	_	_
+10	Campania	Campania	PROPN	SP	_	8	nmod	_	_
+11	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	15	aux	_	_
+12	stupendi	stupendere	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+13	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+16	piu	piu	ADJ	A	_	15	amod	_	_
+17	bella	bello	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	21	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	vita	vita	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+22	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	xcomp	_	_
+23	mancate	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

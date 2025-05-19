@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gabryess @CannovaV
+1	@gabryess	@gabryess	PROPN	SW	Foreign=Yes	0	root	_	_
+2	@CannovaV	@CannovaV	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 2
+# text = Può sembrare una resa ma non lo è
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	resa	resa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	ma	ma	CCONJ	CC	_	8	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpacesAfter=\n
+

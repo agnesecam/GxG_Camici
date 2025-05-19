@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ventiseiesima giornata per tutte le nostre compagini https:// virtuslatinascalo.wordpress.com/2016/04/08/ven tiseiesima-giornata-per-tutte-le-nostre-compagini/ … pic.twitter.com/IcbOTv10iL
+1	Ventiseiesima	Ventiseiesimo	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	7	case	_	_
+4	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	7	det:predet	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	compagini	compagine	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+8	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	virtuslatinascalo.wordpress.com/2016/04/08/ven	virtuslatinascalo.wordpress.com/2016/04/08/ven	X	SW	Foreign=Yes	15	nmod	_	_
+12	tiseiesima-giornata-per-tutte-le	tiseiesima-giornata-per-tutte-le	X	SW	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+13	-nostre	-nostre	X	SW	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+15	compagini	compagine	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	_
+17	…	…	PUNCT	FF	_	15	punct	_	_
+18	pic.twitter.com/IcbOTv10iL	pic.twitter.com/IcbOTv10iL	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

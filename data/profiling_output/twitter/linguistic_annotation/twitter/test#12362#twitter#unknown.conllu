@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @all_with_music inizia con Friends, non te ne pentirai, e poi le puntate sono da 20 minuti ciascuna
+1	@all_with_music	@all_with_music	ADV	B	_	2	advmod	_	_
+2	inizia	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	Friends	Friends	PROPN	SP	_	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	expl	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+9	pentirai	pentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	e	e	CCONJ	CC	_	18	cc	_	_
+12	poi	poi	ADV	B	_	18	advmod	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	puntate	puntato	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
+15	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+16	da	da	ADP	E	_	18	case	_	_
+17	20	20	NUM	N	NumType=Card	18	nummod	_	_
+18	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+19	ciascuna	ciascuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	18	nmod	_	SpacesAfter=\n
+

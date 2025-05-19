@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno Capelli&Capelli ... Prenditi cura di te ... Impara a non chiuderti dentro i problemi ... Inizia dai cape… https:// lnkd.in/dVWeV5s
+1	Buongiorno	Buongiorno	PROPN	SP	_	5	nsubj	_	_
+2	Capelli&Capelli	Capelli&Capelli	PROPN	SP	_	1	flat:name	_	_
+3	...	...	PUNCT	FF	_	4	punct	_	_
+4	Prenditi	prendere	PROPN	SP	_	5	nsubj	_	_
+5	cura	cura	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+8	...	...	PUNCT	FF	_	9	punct	_	_
+9	Impara	imparare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	a	a	ADP	E	_	12	mark	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12-13	chiuderti	_	_	_	_	_	_	_	_
+12	chiuder	chiudere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+13	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	obj	_	_
+14	dentro	dentro	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+17	...	...	PUNCT	FF	_	5	punct	_	_
+18	Inizia	iniziare	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+19-20	dai	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	25	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+21	cape…	cape…	PUNCT	FF	_	22	punct	_	_
+22	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	_
+25	lnkd.in/dVWeV5s	lnkd.in/dVWeV5s	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

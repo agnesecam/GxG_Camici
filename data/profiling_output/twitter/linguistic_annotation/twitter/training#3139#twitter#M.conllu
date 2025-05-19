@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @farchibugi solo Vauro puó far sembrare Sallusti un monumento di ragionevolezza.
+1	@farchibugi	@farchibuge	ADV	B	_	2	advmod	_	_
+2	solo	solo	ADV	B	_	5	advmod	_	_
+3	Vauro	Vauro	PROPN	SP	_	5	nsubj	_	_
+4	puó	puó	PROPN	SP	_	3	flat:name	_	_
+5	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+7	Sallusti	Sallusti	PROPN	SP	_	6	xcomp	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	monumento	monumento	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	ragionevolezza.	ragionevolezza.	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

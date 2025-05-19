@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @costi_ mila che belle le fatine...
+1	@costi_	@costi-	PUNCT	FB	_	2	punct	_	_
+2	mila	mila	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	case	_	_
+4	belle	bello	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	fatine...	fatine...	NOUN	S	_	2	obl	_	_
+
+# sent_id = 2
+# text = tutte pecorine...
+1	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	2	det	_	_
+2	pecorine..	pecorine..	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

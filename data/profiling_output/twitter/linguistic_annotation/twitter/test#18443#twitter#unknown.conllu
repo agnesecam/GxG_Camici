@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un'altra love story contrastata.
+1	Un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+2	altra	altro	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	love	love	X	SW	Foreign=Yes	0	root	_	_
+4	story	Story	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	contrastata	contrastare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Due giovani si innamorano, e tutti a mettersi contro.
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	giovani	giovane	NOUN	S	Number=Plur	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	innamorano	innamorare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	mettersi	_	_	_	_	_	_	_	_
+9	metter	mettere	VERB	V	VerbForm=Inf	4	conj	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+11	contro	contro	ADV	B	_	9	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Ma non l' avevi già scritta?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+4	avevi	avere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+5	già	già	ADV	B	_	6	advmod	_	_
+6	scritta	scrivere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = #HamletTw /03 @marconi98E
+1	#HamletTw	#HamletTw	NOUN	S	_	0	root	_	_
+2	/03	/03	NUM	N	NumType=Card	1	nummod	_	_
+3	@marconi98E	@marconi98E	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

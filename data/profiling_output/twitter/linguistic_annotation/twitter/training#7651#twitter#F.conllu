@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " #MiTrovoSuTwitter ".Questo #hashtag è l'effetto di un nuovo "Cogito ergo sum":"Twitto dunque esisto"?
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	#MiTrovoSuTwitter	#MiTrovoSuTwitter	PROPN	SP	_	8	nmod	_	_
+3	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+4	.Questo	.Questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	#hashtag	#hashtag	NOUN	S	_	8	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	effetto	effetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	8	nmod	_	_
+12	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+13	Cogito	Cogire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+14	ergo	ergo	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15	sum	sum	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+17	:"	:"	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+18	Twitto	Twivere	PROPN	SP	_	14	nmod	_	_
+19	dunque	dunque	ADV	B	_	20	advmod	_	_
+20	esisto	esisto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = #SMMdayIT pic.twitter.com/QtpkUCtBPH
+1	#SMMdayIT	#SMMdayIT	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/QtpkUCtBPH	pic.twitter.com/QtpkUCtBPH	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

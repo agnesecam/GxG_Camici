@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se un uomo non riesce a mantenere il riserbo sui suoi affari personali, men che può aspettarsi che lo facciano gli altri.
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	mantenere	mantenere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	riserbo	riserbo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10-11	sui	_	_	_	_	_	_	_	_
+10	su	su	ADP	E	_	13	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	affari	affare	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+14	personali	personale	ADJ	A	Number=Plur	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	5	punct	_	_
+16	men	meno	ADV	B	_	19	mark	_	_
+17	che	che	SCONJ	CS	_	16	fixed	_	_
+18	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19-20	aspettarsi	_	_	_	_	_	_	_	_
+19	aspettar	aspettare	VERB	V	VerbForm=Inf	5	advcl	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	_
+21	che	che	SCONJ	CS	_	23	mark	_	_
+22	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+23	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
+24	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	23	nsubj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

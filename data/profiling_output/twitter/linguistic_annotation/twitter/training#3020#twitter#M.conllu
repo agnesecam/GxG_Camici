@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stasera a #ottoemezzo per non sembrare vecchi hanno alzato talmente tanto le luci che sembrano ectoplasmi.
+1	Stasera	stasera	ADV	B	_	3	advmod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+4	per	per	ADP	E	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	3	acl	_	_
+7	vecchi	vecchio	ADJ	A	Gender=Masc|Number=Plur	6	xcomp	_	_
+8	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	alzato	alzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	talmente	talmente	ADV	B	_	9	advmod	_	_
+11	tanto	tanto	ADV	B	_	9	advmod	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	luci	luce	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+14	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+15	sembrano	sembrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+16	ectoplasmi	ectoplasma	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	15	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = #madonnacatodica
+1	#madonnacatodica	#madonnacatodicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

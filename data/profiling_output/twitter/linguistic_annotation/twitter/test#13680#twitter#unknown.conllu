@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E faremo un viaggio tra le nuvole.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	tra	tra	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	nuvole	nuvola	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Poi torneremo giù.
+1	Poi	poi	ADV	B	_	2	advmod	_	_
+2	torneremo	tornare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	giù	giù	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

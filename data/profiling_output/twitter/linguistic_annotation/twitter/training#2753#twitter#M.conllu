@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @paolacuni @scristicchi @repubblicait E' come se creasse una melodia ipnotica.
+1	@paolacuni	@paolacuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@scristicchi	@scristicco	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	@repubblicait	@repubblicait	NOUN	S	_	2	nmod	_	_
+4	E'	essere	PROPN	SP	_	3	flat:name	_	_
+5	come	come	ADV	B	_	7	advmod	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7	creasse	creare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	melodia	melodia	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	ipnotica	ipnotico	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Così intima da sembrare di conoscerla da sempre.
+1	Così	così	ADV	B	_	2	advmod	_	_
+2	intima	intimare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	da	da	ADP	E	_	4	mark	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	conoscerla	conoscerlare	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	sempre	sempre	ADV	B	_	4	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = @aiedroma
+1	@aiedroma	@aiedromare	ADV	B	_	0	root	_	SpacesAfter=\n
+

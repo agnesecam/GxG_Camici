@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DaFiumicino O meglio lo avrei pagato solo se ti facevi offrire anche caffè e sfogliatella
+1	@DaFiumicino	@DaFiumicino	PROPN	SP	_	6	nsubj	_	_
+2	O	O	PROPN	SP	_	1	flat:name	_	_
+3	meglio	meglio	ADV	B	_	6	advmod	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	pagato	pagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	solo	solo	ADV	B	_	11	advmod	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	expl	_	_
+10	facevi	facevere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	offrire	offrire	VERB	V	VerbForm=Inf	6	advcl	_	_
+12	anche	anche	ADV	B	_	13	advmod	_	_
+13	caffè	caffè	NOUN	S	Gender=Masc	11	obj	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	sfogliatella	sfogliatella	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	SpacesAfter=\n
+

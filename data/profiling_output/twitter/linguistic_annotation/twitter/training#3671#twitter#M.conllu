@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che tempo farà oggi a Oderzo?
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	oggi	oggi	ADV	B	_	3	advmod	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Oderzo	Oderzo	PROPN	SP	_	3	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/3TWUjHeRk
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/3TWUjHeRk	fb.me/3TWUjHeRk	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

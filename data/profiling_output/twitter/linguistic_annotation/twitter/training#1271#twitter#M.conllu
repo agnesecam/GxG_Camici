@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I torquemada a cinque stelle plagiati dalla Casaleggio&associati vagheggiano una distopia orwelliana senza privatezza #PubblicateleTutte
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	torquemada	torquemada	NOUN	S	_	10	nsubj	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	cinque	cinque	NUM	N	NumType=Card	5	nummod	_	_
+5	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+6	plagiati	plagiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Casaleggio&associati	Casaleggio&associato	PROPN	SP	_	6	obl:agent	_	_
+10	vagheggiano	vagheggiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	distopia	distopia	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	orwelliana	orwelliano	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14	senza	senza	ADP	E	_	15	case	_	_
+15	privatezza	privatezza	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+16	#PubblicateleTutte	#PubblicateleTutto	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

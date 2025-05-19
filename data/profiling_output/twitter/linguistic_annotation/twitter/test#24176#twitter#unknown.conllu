@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Assurdo quanto non gliene freghi niente a nessuno.
+1	Assurdo	assurdo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	1	obj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	freghi	frega	PRON	PR	Number=Sing|PronType=Rel	4	obj	_	_
+6	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nmod	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Tanto é Pasqua solo per gli altri non per me.
+1	Tanto	tanto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	é	é	NOUN	S	Gender=Masc	0	root	_	_
+3	Pasqua	Pasqua	PROPN	SP	_	2	nmod	_	_
+4	solo	solo	ADV	B	_	7	advmod	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

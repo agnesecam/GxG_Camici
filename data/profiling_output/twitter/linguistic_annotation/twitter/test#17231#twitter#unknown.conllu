@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Poi realizzi che la verità l'hai sempre avuta davanti agli occhi ed eri l'unica a non volerci credere.
+1	Poi	poi	ADV	B	_	2	advmod	_	_
+2	realizzi	realizzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	verità	verità	NOUN	S	Gender=Fem	9	nsubj	_	_
+6	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+7	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	sempre	sempre	ADV	B	_	9	advmod	_	_
+9	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+10	davanti	davanti	ADV	B	_	13	case	_	_
+11-12	agli	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+14	ed	e	CCONJ	CC	_	15	cc	_	_
+15	eri	ero	NOUN	S	Gender=Masc|Number=Plur	13	conj	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	unica	unico	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	_
+18	a	a	ADP	E	_	20	mark	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	volerci	volere	VERB	V	VerbForm=Inf	17	advcl	_	_
+21	credere	credere	VERB	V	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..finché ti svegli e ci credi!!!
+1	..finché	..finché	SCONJ	CS	_	3	mark	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	svegli	svegliere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+6	credi	credere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+8	!!	!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

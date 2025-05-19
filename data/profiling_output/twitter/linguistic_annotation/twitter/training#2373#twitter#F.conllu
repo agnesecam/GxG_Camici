@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho sempre saputo che dentro di me ci fosse una ragazza servaggia!!
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	sempre	sempre	ADV	B	_	3	advmod	_	_
+3	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5	dentro	dentro	ADV	B	_	9	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	fosse	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	servaggia	servaggio	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ahahaha https://www.
+1	Ahahaha	Ahahaha	NOUN	S	_	0	root	_	_
+2	https://www	https://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD-q16djwi7/
+1	instagram.com/p/BD-q16djwi7/	instagram.com/p/BD-q16djwi7/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

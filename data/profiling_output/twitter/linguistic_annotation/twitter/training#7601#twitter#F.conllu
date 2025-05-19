@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dovevo lavarla?
+1	Dovevo	Dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2-3	lavarla	_	_	_	_	_	_	_	SpaceAfter=No
+2	lavar	lavare	VERB	V	VerbForm=Inf	0	root	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = - Essi http:// kiw.im/14k6aW2hMqe
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Essi	Essi	PROPN	SP	_	0	root	_	_
+3	http:	http:	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	kiw.im/14k6aW2hMqe	kiw.im/14k6aW2hMqe	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

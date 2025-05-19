@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Essì che mi alleno se ci sei tu https:// twitter.com/giuliagar1/sta tus/715165580953784320 …
+1	Essì	Essì	ADV	B	_	4	advmod	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	alleno	alleno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	SCONJ	CS	_	12	mark	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+7	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	twitter.com/giuliagar1/sta	twitter.com/giuliagar1/stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	tus/715165580953784320	tus/715165580953784320	NUM	N	NumType=Card	12	nummod	_	_
+14	…	…	PUNCT	FF	_	12	punct	_	SpacesAfter=\n
+

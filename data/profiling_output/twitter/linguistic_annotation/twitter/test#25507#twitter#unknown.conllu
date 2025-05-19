@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il film è molto molto bello.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	film	film	NOUN	S	Gender=Masc	6	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	molto	molto	ADV	B	_	6	advmod	_	_
+5	molto	molto	ADV	B	_	6	advmod	_	_
+6	bello	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Bravissimi tutti ma, secondo me, lei è strepitosa!
+1	Bravissimi	Bravo	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	2	amod	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+3	ma	ma	CCONJ	CC	_	10	cc	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	10	punct	_	_
+5	secondo	secondo	ADP	E	_	6	case	_	_
+6	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	strepitosa	strepitoso	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Inoltre il personaggio è di una... http:// fb.me/54c329AHp
+1	Inoltre	inoltre	ADV	B	_	6	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	personaggio	personaggio	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	una...	una...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	_
+10	fb.me/54c329AHp	fb.me/54c329AHp	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

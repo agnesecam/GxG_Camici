@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dubito fortemente che ai romani gliene freghi qualcosa, del tevere balneabile #gazebo #bertolaso #Marchini pic.twitter.com/zrN0yJFrJM
+1	Dubito	dubitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	fortemente	fortemente	ADV	B	_	1	advmod	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4-5	ai	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	romani	romani	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+7	gliene	glenere	ADV	B	_	8	advmod	_	_
+8	freghi	frega	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+9	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	tevere	tevere	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+14	balneabile	balneabile	ADJ	A	Number=Sing	13	amod	_	_
+15	#gazebo	#gazebo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+16	#bertolaso	#bertolaso	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+17	#Marchini	#Marchini	PROPN	SP	_	16	nmod	_	_
+18	pic.twitter.com/zrN0yJFrJM	pic.twitter.com/zrN0yJFrJM	PROPN	SP	_	17	flat:name	_	SpacesAfter=\n
+

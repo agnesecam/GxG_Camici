@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @1einfinitimondi @repubblicait Fu Formigoni che non volle e dovettero portarla da un altra parte.
+1	@1einfinitimondi	@1einfinitimondo	CCONJ	CC	_	4	cc	_	_
+2	@repubblicait	@repubblicait	ADV	B	_	4	advmod	_	_
+3	Fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	Formigoni	Formigone	PROPN	SP	_	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	volle	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	dovettero	dovere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+10-11	portarla	_	_	_	_	_	_	_	_
+10	portar	portare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+11	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	da	da	ADP	E	_	15	case	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	altra	altro	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Un altra vergogna del celeste!
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	altra	altro	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	celeste	celesta	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

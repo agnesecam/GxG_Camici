@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AmorosoOF sentire la tua voce ci fa sembrare piú vicini a te sempre con te anche dall'altra parte del mondo #lontanimasemprevicini
+1	@AmorosoOF	@AmorosoOF	ADP	E	_	2	mark	_	_
+2	sentire	sentire	VERB	V	VerbForm=Inf	7	advcl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	voce	voce	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	piú	piú	PROPN	SP	_	8	obj	_	_
+10	vicini	vicino	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obl	_	_
+13	sempre	sempre	ADV	B	_	8	advmod	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	obl	_	_
+16	anche	anche	ADV	B	_	20	advmod	_	_
+17-18	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+17	da	da	ADP	E	_	20	case	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+19	altra	altro	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+20	parte	parte	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+21-22	del	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+24	#lontanimasemprevicini	#lontanimasemprevicino	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	SpacesAfter=\n
+

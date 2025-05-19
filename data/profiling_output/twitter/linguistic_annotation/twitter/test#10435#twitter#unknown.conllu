@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il confine tra caduta di stile e marchetta talvolta si fa assai labile https:// twitter.com/TgLa7/status/7 17460610150240256 …
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	confine	confine	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+3	tra	tra	ADP	E	_	4	case	_	_
+4	caduta	caduta	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	stile	stile	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	marchetta	marchetta	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+9	talvolta	talvolta	ADV	B	_	11	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+11	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	assai	assai	ADV	B	_	11	advmod	_	_
+13	labile	labile	ADJ	A	Number=Sing	17	amod	_	_
+14	https:	https:	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	_
+17	twitter.com/TgLa7/status/7	twitter.com/TgLa7/status/7	PROPN	SP	_	11	obj	_	_
+18	17460610150240256	17460610150240256	NUM	N	NumType=Card	17	nummod	_	_
+19	…	…	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

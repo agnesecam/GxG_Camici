@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Un uomo d'ingegno sa di possedere sempre molto, e non si rammarica di doverlo dividere con altri.
+1	“	“	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	d'	di	ADP	E	_	5	case	_	SpaceAfter=No
+5	ingegno	ingegno	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	possedere	possedere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	sempre	sempre	ADV	B	_	8	advmod	_	_
+10	molto	molto	ADV	B	_	8	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	15	punct	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	rammarica	rammarico	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+16	di	di	ADP	E	_	19	mark	_	_
+17-18	doverlo	_	_	_	_	_	_	_	_
+17	dover	dovere	AUX	VM	VerbForm=Inf	19	aux	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	dividere	dividere	VERB	V	VerbForm=Inf	15	advcl	_	_
+20	con	con	ADP	E	_	21	case	_	_
+21	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ”
+1	”	”	PUNCT	FB	_	0	root	_	_
+
+# sent_id = 3
+# text = -Solzhenitsy pic.twitter.com/2PXLwW0N5a
+1	-Solzhenitsy	-Solzhenitsy	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/2PXLwW0N5a	pic.twitter.com/2PXLwW0N5a	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

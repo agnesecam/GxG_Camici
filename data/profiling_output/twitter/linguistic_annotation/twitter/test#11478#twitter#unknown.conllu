@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno a tutti!
+1	Buongiorno	Buongiorno	ADV	B	_	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	obl	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cosa farete di bello oggi?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	bello	bello	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+5	oggi	oggi	ADV	B	_	2	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Chi va per prati?
+1	Chi	chi	PRON	PQ	PronType=Int	2	nsubj	_	_
+2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	prati	prato	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Cosa metterete nel cestino da pic-nic?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	metterete	metteere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3-4	nel	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cestino	cesto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	pic-nic	pic-nic	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = Imiterete...
+1	Imiterete...	Imiterete.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 6
+# text = http:// fb.me/4vR2ObFiT
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4vR2ObFiT	fb.me/4vR2ObFiT	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

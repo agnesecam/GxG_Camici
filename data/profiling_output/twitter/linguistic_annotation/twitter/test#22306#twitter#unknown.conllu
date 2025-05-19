@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli Anni '80, quando la barbarie ebbe inizio http://www.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	'80	'80	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	quando	quando	SCONJ	CS	_	8	mark	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	barbarie	barbarie	NOUN	S	Gender=Fem	8	nsubj	_	_
+8	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
+9	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	http://www	http://www	NOUN	S	_	9	compound	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = huffingtonpost.it/giuseppe-fanta sia/gli-anni-80-quando-la-barbarie-ebbe-inizio_b_9384638.html?utm_hp_ref=italy&ir=Italy …
+1	huffingtonpost.it/giuseppe-fanta	huffingtonpost.it/giuseppe-fanto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sia/gli	sia/glio	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	SpaceAfter=No
+3	-anni	-anne	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+4	-	-	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	80	80	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	quando-la	quando-la	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	barbarie	barbario	ADJ	A	Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	inizio_b_9384638.html?	inizio_b_9384638.html?	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+14	utm_hp_ref=italy&ir=Italy	utm_hp_ref=italy&ir=Italy	PROPN	SP	_	11	obj	_	_
+15	…	…	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

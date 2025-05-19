@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ccnl #uilm un lavoratore senza contratto nazionale e' un uomo abbandonato dallo stato e dalla rebupplica!
+1	#ccnl	#ccnl	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#uilm	#uilm	NOUN	S	Gender=Masc	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lavoratore	lavoratore	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	senza	senza	ADP	E	_	6	case	_	_
+6	contratto	contratto	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	nazionale	nazionale	ADJ	A	Number=Sing	6	amod	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	11	punct	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+12	abbandonato	abbandonato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+13-14	dallo	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	stato	stato	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	_
+16	e	e	CCONJ	CC	_	19	cc	_	_
+17-18	dalla	_	_	_	_	_	_	_	_
+17	da	da	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	rebupplica	rebupplica	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Contratto subito!
+1	Contratto	contrarre	ADV	B	_	2	advmod	_	_
+2	subito	subito	ADV	B	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

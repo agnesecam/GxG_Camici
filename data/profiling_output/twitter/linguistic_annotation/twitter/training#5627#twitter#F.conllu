@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @andrea_mollica @r_formigoni @gadlernertweet vestito da studente dell'Itis non solo qualcuna su #FB ma la fila sotto casa
+1	@andrea_mollica	@andrea_mollicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@r_formigoni	@r_formigone	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	@gadlernertweet	@gadlernertweet	NOUN	S	Gender=Masc	1	obj	_	_
+4	vestito	vestire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	studente	studente	NOUN	S	Gender=Masc|Number=Sing	4	obl:agent	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	Itis	Itis	PROPN	SP	_	6	nmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	solo	solo	ADV	B	_	12	advmod	_	_
+12	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nmod	_	_
+13	su	su	ADP	E	_	14	case	_	_
+14	#FB	#FB	PROPN	SP	_	12	nmod	_	_
+15	ma	ma	CCONJ	CC	_	17	cc	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	fila	fila	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	_
+18	sotto	sotto	ADP	E	_	19	case	_	_
+19	casa	casa	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpacesAfter=\n
+

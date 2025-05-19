@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una serie di prove impossibili da superare!
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	serie	serie	NOUN	S	Gender=Fem	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	prove	prova	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+5	impossibili	impossibile	ADJ	A	Number=Plur	4	amod	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	superare	superare	VERB	V	VerbForm=Inf	4	acl	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sono quelle che dovrà affrontare Matilda De Angelis in... http:// fb.me/5moeKQq4a
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	affrontare	affrontare	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+6	Matilda	Matilda	PROPN	SP	_	5	obl	_	_
+7	De	De	PROPN	SP	_	6	flat:name	_	_
+8	Angelis	Angelis	PROPN	SP	_	6	flat:name	_	_
+9	in...	in.	NUM	N	NumType=Card	6	nummod	_	_
+10	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	6	punct	_	_
+13	fb.me/5moeKQq4a	fb.me/5moeKQq4a	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

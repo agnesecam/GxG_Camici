@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fattoquotidiano che curioso, ero convinta che avessimo già toccato il fondo riguardo la libertà di stampa in questo paese, invece...
+1	@fattoquotidiano	@fattoquotidiare	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+2	che	che	CCONJ	CC	_	3	cc	_	_
+3	curioso	curioso	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	convinta	convincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+9	già	già	ADV	B	_	10	advmod	_	_
+10	toccato	toccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	riguardo	riguardo	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	libertà	libertà	NOUN	S	Gender=Fem	12	nmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	stampa	stampa	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+18	in	in	ADP	E	_	20	case	_	_
+19	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
+20	paese	paese	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	6	punct	_	_
+22	invece...	invece.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

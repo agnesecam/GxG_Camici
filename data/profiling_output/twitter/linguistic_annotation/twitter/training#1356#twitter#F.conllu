@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come cambiano le nostre paure!
+1	Come	come	SCONJ	CS	_	2	mark	_	_
+2	cambiano	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	paure	paura	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Oggi basta un velo e uno zaino.
+1	Oggi	oggi	ADV	B	_	2	advmod	_	_
+2	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	velo	velo	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	zaino	zaino	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/2yARHw1yI
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2yARHw1yI	fb.me/2yARHw1yI	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

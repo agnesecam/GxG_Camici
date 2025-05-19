@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perchè Gianni non sta twittando?
+1	Perchè	perché	ADV	B	_	5	advmod	_	_
+2	Gianni	Gianni	PROPN	SP	_	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	twittando	twittare	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Mica starà vivendo la tanto famosa vita sociale?
+1	Mica	mica	ADV	BN	PronType=Neg	2	advmod	_	_
+2	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	vivendo	vivere	VERB	V	VerbForm=Ger	2	advcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	tanto	tanto	ADV	B	_	6	advmod	_	_
+6	famosa	famoso	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	vita	vita	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+8	sociale	sociale	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Mi dispiace deludervi ma stavo riordinando casa.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	deludervi	_	_	_	_	_	_	_	_
+3	deluder	deluder	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	expl	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	stavo	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	conj	_	_
+7	riordinando	riordinare	VERB	V	VerbForm=Ger	6	advcl	_	_
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

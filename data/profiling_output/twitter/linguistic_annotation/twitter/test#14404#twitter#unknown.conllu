@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 40 euro al giorno se doni le tue feci :
+1	40	40	NUM	N	NumType=Card	2	nummod	_	_
+2	euro	euro	NOUN	S	Gender=Masc	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7	doni	donare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	tue	tua	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	feci	feco	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
+11	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Nasce la nuova banca che raccoglie escrementi http://www.
+1	Nasce	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	banca	banca	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	raccoglie	raccogliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	escrementi	escremente	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+8	http://www	http://www	NOUN	S	_	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = grognards2011.it/2016/03/40-eur o-al-giorno-se-doni-le-tue-feci-nasce-la-nuova-banca-che-raccoglie-escrementi/ …
+1	grognards2011.it/2016/03/40-eur	grognards2011.it/2016/03/40-eure	ADV	B	_	4	advmod	_	_
+2	o-al-	_	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	giorno-	_	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	se-doni-le-tue	se-doni-le-tue	ADJ	A	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	feci	feci	ADJ	A	Number=Plur	7	amod	_	SpaceAfter=No
+7	-nasce-la	-nasce-la	X	SW	Foreign=Yes	4	compound	_	SpaceAfter=No
+8	-nuova	-nuovo	X	SW	Foreign=Yes	7	flat:foreign	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	banca-che	banca-ca	NOUN	S	Gender=Fem|Number=Plur	7	appos	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	raccoglie-escrementi	raccoglie-escremento	NOUN	S	Gender=Masc|Number=Plur	10	compound	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

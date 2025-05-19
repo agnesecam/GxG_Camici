@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = LA LIBERTA' E CAPACITA'
+1	LA	il	PROPN	SP	_	0	root	_	_
+2	LIBERTA'	LIBERTA'	PROPN	SP	_	1	flat:name	_	_
+3	E	e	CCONJ	CC	_	4	cc	_	_
+4	CAPACITA'	CAPACITA'	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 2
+# text = INDIVIDUALE E LA "SOAVE”
+1	INDIVIDUALE	individuale	PROPN	SP	_	0	root	_	_
+2	E	e	PROPN	SP	_	1	flat:name	_	_
+3	LA	La	PROPN	SP	_	1	flat:name	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	SOAVE	SOAVE	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+6	”	”	PUNCT	FB	_	1	punct	_	_
+
+# sent_id = 3
+# text = AMMINISTRAZIONE DI "SOSTEGNO" DENTRO IL PARADIGMA TOTALITARIO.SECONDA DELLE QUATTRO DIRETT…
+1	AMMINISTRAZIONE	amministrazione	PROPN	SP	_	0	root	_	_
+2	DI	di	ADP	E	_	4	case	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	SOSTEGNO	sostegno	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	DENTRO	dentro	PROPN	SP	_	4	flat:name	_	_
+7	IL	il	PROPN	SP	_	6	flat:name	_	_
+8	PARADIGMA	paradigma	PROPN	SP	_	6	flat:name	_	_
+9	TOTALITARIO.SECONDA	TOTALITARIO.SECONDA	PROPN	SP	_	6	flat:name	_	_
+10-11	DELLE	_	_	_	_	_	_	_	_
+10	DI	Di	ADP	E	_	11	case	_	_
+11	LE	Le	PROPN	SP	_	6	nmod	_	_
+12	QUATTRO	quattro	PROPN	SP	_	11	flat:name	_	_
+13	DIRETT…	DIRETT…	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

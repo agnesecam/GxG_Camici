@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Galliani:
+1	Galliani	Galliani	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Non riusciamo a capire il problema.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	riusciamo	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	capire	capire	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	problema	problema	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Mihajlovic?
+1	Mihajlovic	Mihajlovic	ADV	B	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Difendiamo le nostre scelte.
+1	Difendiamo	Difendare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	scelte	scelta	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = Balo vuole stare con noi" @MilanNewsit
+1	Balo	Balo	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	7	punct	_	_
+7	@MilanNewsit	@MilanNewsit	PROPN	SP	_	3	xcomp	_	SpacesAfter=\n
+

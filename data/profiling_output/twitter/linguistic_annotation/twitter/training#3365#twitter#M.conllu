@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Basket @SerieA2Italia @SigmaBarcellona già retrocessa in B farà visita a @ScafatiBasket69 http:// goo.gl/gwqvGE pic.twitter.com/Of17UAm1wS
+1	#Basket	#Basket	PROPN	SP	_	8	nsubj	_	_
+2	@SerieA2Italia	@SerieA2Italia	PROPN	SP	_	1	flat:name	_	_
+3	@SigmaBarcellona	@SigmaBarcellona	PROPN	SP	_	1	flat:name	_	_
+4	già	già	ADV	B	_	5	advmod	_	_
+5	retrocessa	retrocettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	B	B	PROPN	SP	_	5	obl	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	visita	visita	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	@ScafatiBasket69	@ScafatiBasket69	PROPN	SP	_	8	obl	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	goo.gl/gwqvGE	goo.gl/gwqvGE	PROPN	SP	_	8	appos	_	_
+16	pic.twitter.com/Of17UAm1wS	pic.twitter.com/Of17UAm1wS	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

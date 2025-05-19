@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Emma aveva una gonna nera di pelle a vita alta, una camicetta bianca messa dentro la gonna e tacchi alti neri e bianchi #Amici15
+1	Emma	Emma	ADV	B	_	2	advmod	_	_
+2	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	gonna	gonna	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	nera	nero	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+10	alta	alto	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	camicetta	camicetta	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+14	bianca	bianco	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+15	messa	mettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+16	dentro	dentro	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	gonna	gonna	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	tacchi	tacco	NOUN	S	Gender=Masc|Number=Plur	18	conj	_	_
+21	alti	alto	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	_
+22	neri	nero	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	_
+23	e	e	CCONJ	CC	_	24	cc	_	_
+24	bianchi	bianco	ADJ	A	Gender=Masc|Number=Plur	22	conj	_	_
+25	#Amici15	#Amici15	PROPN	SP	_	2	conj	_	SpacesAfter=\n
+

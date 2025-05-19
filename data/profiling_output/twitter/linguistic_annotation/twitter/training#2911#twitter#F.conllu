@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque, ve lo dico, il vestito mi fa sembrare più grassa di quello che sono.
+1	Comunque	comunque	ADV	B	_	5	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ve	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	vestito	vestito	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	grassa	grasso	ADJ	A	Gender=Fem|Number=Sing	11	xcomp	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	13	obl	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Cioè, ho perso 8 chili e neanche si vedeva.
+1	Cioè	cioè	ADV	B	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	8	8	NUM	N	NumType=Card	6	nummod	_	_
+6	chili	chilo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	neanche	neanche	ADV	BN	PronType=Neg	10	advmod	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+10	vedeva	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = #LaSfiga 󾌴󾌴󾌴
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LaSfiga	LaSfiga	PROPN	SP	_	0	root	_	_
+3	󾌴󾌴󾌴	󾌴󾌴󾌴	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

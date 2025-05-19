@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giorgio nomina Gemma, ora Gemma si farà ancora più film..che strazio questi due..
+1	Giorgio	Giorgio	PROPN	SP	_	8	nsubj	_	_
+2	nomina	nominare	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+3	Gemma	Gemma	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	ora	ora	ADV	B	_	6	advmod	_	_
+6	Gemma	Gemma	PROPN	SP	_	8	nsubj	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	ancora	ancora	ADV	B	_	10	advmod	_	_
+10	più	più	ADV	B	_	8	advmod	_	_
+11	film..che	film..co	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	strazio	strazio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+13	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+14	due.	due.	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

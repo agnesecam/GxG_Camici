@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @urbiker io ho smesso di dirigere e scrivere x quel sito e occuparmi delle scuole, ambientalismo è diventato + residuale.
+1	@urbiker	@urbikere	ADP	E	_	2	case	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	smesso	smettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	dirigere	dirigere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	scrivere	scrivere	VERB	V	VerbForm=Inf	9	conj	_	_
+9	x	x	SYM	SYM	_	6	xcomp	_	_
+10	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	sito	sito	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	occuparmi	arma|occuparme	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	_
+14-15	delle	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	scuole	scuola	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	ambientalismo	ambientalismo	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
+19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+21	+	+	SYM	SYM	_	20	xcomp	_	_
+22	residuale	residuale	ADJ	A	Number=Sing	20	xcomp	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Rifkin se la cava
+1	Rifkin	Rifkino	ADV	B	_	4	advmod	_	_
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	cava	cava	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

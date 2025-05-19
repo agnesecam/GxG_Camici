@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma noo, ma che sorpresa!
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	noo	noo	ADV	B	_	6	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	sorpresa	sorprendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Ahahah come se non ce ne fossimo accorti!
+1	Ahahah	Ahahah	INTJ	I	_	0	root	_	_
+2	come	come	ADV	B	_	8	mark	_	_
+3	se	se	SCONJ	CS	_	2	fixed	_	_
+4	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+5	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+7	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	accorti	accortare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/1bYfYmkco
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/1bYfYmkco	fb.me/1bYfYmkco	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

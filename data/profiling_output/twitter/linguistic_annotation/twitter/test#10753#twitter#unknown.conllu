@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francesco_spini forse perché da Spa, i soci contano assai meno di prima...
+1	@francesco_spini	@francesco_spino	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	forse	forse	ADV	B	_	1	advmod	_	_
+3	perché	perché	SCONJ	CS	_	9	mark	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	Spa	Spa	PROPN	SP	_	9	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	soci	socio	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+9	contano	contare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+10	assai	assai	ADV	B	_	11	advmod	_	_
+11	meno	meno	ADV	B	_	9	advmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	prima...	prima...	NOUN	S	_	9	obl	_	_
+
+# sent_id = 2
+# text = Contano gli schei!
+1	Contano	contare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	schei	scheo	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ottoemezzo complimenti ad @alessiarotta per aver fatto sembrare Craxi uno statista sopraffino...poverina!!!
+1	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	_
+3	ad	a	ADP	E	_	4	case	_	_
+4	@alessiarotta	@alessiarotta	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+5	per	per	ADP	E	_	7	mark	_	_
+6	aver	avere	AUX	VA	VerbForm=Inf	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	Craxi	Craxi	PROPN	SP	_	8	nsubj	_	_
+10	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	statista	statista	NOUN	S	Number=Sing	9	nmod	_	_
+12	sopraffino...poverina	sopraffino...poverina	ADV	B	_	11	advmod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+14	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

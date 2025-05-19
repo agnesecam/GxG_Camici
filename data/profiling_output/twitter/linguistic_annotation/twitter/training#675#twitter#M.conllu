@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quelli che si lamentano per il mancato turnover sono gli stessi che avrebbero scritto #AllegriVattene se non avessimo battuto il Sassuolo.
+1	Quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	11	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	lamentano	lamentare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	per	per	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	mancato	mancato	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	turnover	turnovere	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+15	#	#	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+16	AllegriVattene	AllegriVattene	PROPN	SP	_	14	obj	_	_
+17	se	se	SCONJ	CS	_	20	mark	_	_
+18	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+19	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	20	aux	_	_
+20	battuto	battere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	Sassuolo	Sassuolo	PROPN	SP	_	20	obj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

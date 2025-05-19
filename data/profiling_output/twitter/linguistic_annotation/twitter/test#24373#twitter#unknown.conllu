@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @albertobertoni_ @bubio123 @massimosabato2 che gliene frega a loro?
+1	@albertobertoni_	@albertobertoni-	PUNCT	FB	_	2	punct	_	_
+2	@bubio123	@bubio123	NUM	N	NumType=Card	3	nummod	_	_
+3	@massimosabato2	@massimosabato2	NUM	N	NumType=Card	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	frega	frega	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Intanto, grazie a tutto quello schifo, sono al governo
+1	Intanto	intanto	ADV	B	_	12	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	grazie	grazie	NOUN	S	_	6	case	_	_
+4	a	a	ADP	E	_	3	fixed	_	_
+5	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obl	_	_
+7	schifo	schifo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	governo	governo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

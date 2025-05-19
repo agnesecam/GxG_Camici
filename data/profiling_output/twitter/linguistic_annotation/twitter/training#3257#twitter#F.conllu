@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le donne che pretendono una lunga corte o sono frigide o vogliono sembrare virtuose.In entrambi i casi è meglio lasciarle perdere.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	donne	donna	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	pretendono	pretendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	lunga	lungo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	corte	corte	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	o	o	CCONJ	CC	_	10	cc	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	frigide	frigidere	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+11	o	o	CCONJ	CC	_	13	cc	_	_
+12	vogliono	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	10	conj	_	_
+14	virtuose.In	virtuose.ino	PROPN	SP	_	13	xcomp	_	_
+15	entrambi	entrambi	DET	T	Gender=Masc|Number=Plur|PronType=Tot	17	det:predet	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	casi	caso	NOUN	S	Gender=Masc|Number=Plur	20	nsubj	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	meglio	meglio	ADV	B	_	20	advmod	_	_
+20-21	lasciarle	_	_	_	_	_	_	_	_
+20	lasciar	lasciare	VERB	V	VerbForm=Inf	13	ccomp	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	perdere	perdere	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	20	punct	_	_
+
+# sent_id = 2
+# text = R.Gervaso
+1	R.Gervaso	R.Gervaso	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

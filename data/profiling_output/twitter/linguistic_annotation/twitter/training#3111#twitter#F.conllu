@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giovedì faccio la frangia, spero di non sembrare una cretina
+1	Giovedì	giovedì	ADV	B	_	2	advmod	_	_
+2	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	frangia	frangia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	di	di	ADP	E	_	9	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	cretina	cretina	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpacesAfter=\n
+

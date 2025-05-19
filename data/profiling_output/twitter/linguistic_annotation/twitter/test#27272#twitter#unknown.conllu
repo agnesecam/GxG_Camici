@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #BallandoConLeStelle papi ci stai proprio marciando...
+1	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	BallandoConLeStelle	BallandoConLeStei	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
+3	papi	papo	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+5	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	proprio	proprio	ADV	B	_	5	advmod	_	_
+7	marciando...	marciando...	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = però la giuria ti ha "sgamato" ahimè ...
+1	però	però	ADV	B	_	7	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	giuria	giuria	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	sgamato	sgamare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	ahimè	ahimè	INTJ	I	_	7	advmod	_	_
+10	...	.	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

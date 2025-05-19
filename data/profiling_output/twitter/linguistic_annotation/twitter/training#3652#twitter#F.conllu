@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quindi,mi state dicendo che dopo la App sui funerali, Raffaele Sollecito farà il commentatore di delitti?!?
+1	Quindi,mi	Quindi,mi	PROPN	SP	_	3	nsubj:pass	_	_
+2	state	essere	AUX	VA	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	aux:pass	_	_
+3	dicendo	dire	VERB	V	VerbForm=Ger	0	root	_	_
+4	che	che	SCONJ	CS	_	14	mark	_	_
+5	dopo	dopo	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	App	App	PROPN	SP	_	14	obl	_	_
+8-9	sui	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	funerali	funerale	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	7	punct	_	_
+12	Raffaele	Raffaele	PROPN	SP	_	14	nsubj	_	_
+13	Sollecito	Sollecito	PROPN	SP	_	12	flat:name	_	_
+14	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	ccomp	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	commentatore	commentatore	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	delitti	delitto	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #NoMariaIoEsco
+1	#NoMariaIoEsco	#NoMariaIoEsco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

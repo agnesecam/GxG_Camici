@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alxgi per ora ho solo i 5GB della tariffa base ed essendo la prima ho ricaricato io...
+1	@alxgi	@alxgio	ADV	B	_	4	advmod	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	ora	ora	ADV	B	_	4	advmod	_	_
+4	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	solo	solo	ADV	B	_	4	advmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	5GB	5GB	PROPN	SP	_	4	obj	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tariffa	tariffa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	base	base	NOUN	S	Gender=Fem|Number=Sing	10	compound	_	_
+12	ed	e	CCONJ	CC	_	17	cc	_	_
+13	essendo	essere	AUX	V	VerbForm=Ger	17	cop	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+15	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	17	amod	_	_
+16	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	ricaricato	ricaricare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+18	io...	io.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ora vedo il 26/4!
+1	Ora	ora	ADV	B	_	2	advmod	_	_
+2	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	26	26	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	4	4	NUM	N	NumType=Card	4	compound	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

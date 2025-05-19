@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “...e se le nostre mani si stringeranno in un altro sogno, noi costruiremo un'altra torre nel cielo.”
+1	“	“	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	...e	...e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	8	mark	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	mani	mano	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	stringeranno	stringere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	15	advcl	_	_
+9	in	in	ADP	E	_	12	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	altro	altro	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	8	punct	_	_
+14	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	15	nsubj	_	_
+15	costruiremo	costruire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	2	parataxis	_	_
+16	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+17	altra	altro	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+18	torre	torrere	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+19-20	nel	_	_	_	_	_	_	_	_
+19	in	in	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	cielo.	cielo.	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+22	”	”	PUNCT	FB	_	2	punct	_	_
+
+# sent_id = 2
+# text = Gibran Forza Milano ,possiamo farcela
+1	Gibran	Gibran	PROPN	SP	_	4	nsubj	_	_
+2	Forza	Forza	PROPN	SP	_	1	flat:name	_	_
+3	Milano	Milano	PROPN	SP	_	1	flat:name	_	_
+4	,possiamo	,possare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	farcela	farcelare	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpacesAfter=\n
+

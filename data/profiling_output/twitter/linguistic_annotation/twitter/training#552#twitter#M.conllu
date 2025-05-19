@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @robymancio @Inter Se avessimo giocato sempre per vincere non saremmo in questa situazione .
+1	@robymancio	@robymancio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@Inter	@Inter	PROPN	SP	_	1	nmod	_	_
+3	Se	se	SCONJ	CS	_	5	mark	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	vincere	vincere	VERB	V	VerbForm=Inf	5	advcl	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	ccomp	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
+13	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma possiamo ancora rimediare .
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	ancora	ancora	ADV	B	_	4	advmod	_	_
+4	rimediare	rimediare	VERB	V	VerbForm=Inf	0	root	_	_
+5	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

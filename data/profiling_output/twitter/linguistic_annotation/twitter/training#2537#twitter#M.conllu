@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_thePier "Dai che è venerdì!!! " e tu intanto muori dentro perché sai che ti tocca fare il triplo a lavoro!
+1	@_thePier	@_thePier	NOUN	S	_	0	root	_	_
+2	"	"	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3-4	Dai	_	_	_	_	_	_	_	_
+3	Da	da	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	venerdì	venerdì	NOUN	S	Gender=Masc	1	acl:relcl	_	SpaceAfter=No
+8	!!!	!!!	PUNCT	FF	_	7	punct	_	_
+9	"	"	PUNCT	FB	_	11	punct	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	7	conj	_	_
+12	intanto	intanto	ADV	B	_	11	advmod	_	_
+13	muori	muori	ADP	E	_	14	case	_	_
+14	dentro	dentro	ADV	B	_	12	advmod	_	_
+15	perché	perché	SCONJ	CS	_	16	mark	_	_
+16	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+17	che	che	SCONJ	CS	_	19	mark	_	_
+18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	iobj	_	_
+19	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+20	fare	fare	VERB	V	VerbForm=Inf	19	xcomp	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	triplo	triplo	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+23	a	a	ADP	E	_	24	case	_	_
+24	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+25	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

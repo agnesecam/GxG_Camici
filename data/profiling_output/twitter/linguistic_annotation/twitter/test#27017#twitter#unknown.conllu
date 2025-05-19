@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vorrei solo odiarti!
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	solo	solo	ADV	B	_	3	advmod	_	_
+3-4	odiarti	_	_	_	_	_	_	_	SpaceAfter=No
+3	odiar	odiare	VERB	V	VerbForm=Inf	0	root	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ma ahimè odio me stessa per come mi stai cambiando!
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	ahimè	ahimè	INTJ	I	_	3	discourse	_	_
+3	odio	odio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5	stessa	stessare	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	per	per	ADP	E	_	9	mark	_	_
+7	come	come	ADP	E	_	6	fixed	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	stai	stai	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	cambiando	cambiare	VERB	V	VerbForm=Ger	9	advcl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/LpbZjYTP8w
+1	pic.twitter.com/LpbZjYTP8w	pic.twitter.com/LpbZjYTP8w	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

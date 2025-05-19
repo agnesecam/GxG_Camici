@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Alitalia sì, ma non arrivava neppure il biglietto, ho chiesto al telefono e han risolto.
+1	@Alitalia	@Alitalia	PROPN	SP	_	12	nsubj	_	_
+2	sì	sì	INTJ	I	Polarity=Pos	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	6	punct	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	arrivava	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+7	neppure	neppure	ADV	BN	PronType=Neg	6	advmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	biglietto	biglietto	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	1	punct	_	_
+11	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = Problemi col server?
+1	Problemi	problema	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2-3	col	_	_	_	_	_	_	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	server	server	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

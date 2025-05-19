@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GuajeKos quindi ha più mercato.
+1	@GuajeKos	@GuajeKos	PROPN	SP	_	5	nsubj	_	_
+2	quindi	quindi	ADV	B	_	5	advmod	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	mercato	mercato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Lo riscatti a 9, vendi a 13 e avrete il coraggio di dire che ha fatto una plusvalenza
+1	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	riscatti	riscatto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	9	9	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	vendi	vendere	CCONJ	CC	_	8	cc	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	13	13	NUM	N	NumType=Card	2	conj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	conj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	dire	dire	VERB	V	VerbForm=Inf	12	acl	_	_
+15	che	che	SCONJ	CS	_	17	mark	_	_
+16	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	plusvalenza	plusvalenza	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	SpacesAfter=\n
+

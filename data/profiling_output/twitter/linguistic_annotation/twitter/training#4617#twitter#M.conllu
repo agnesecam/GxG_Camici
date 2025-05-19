@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #movimentonoslot la ragazza ha coraggio ma dovrà continuare a pagare per il mancato introito fino alla morte... http:// fb.me/1FPCkO4qX
+1	#movimentonoslot	#movimentonoslot	ADV	B	_	4	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	continuare	continuare	VERB	V	VerbForm=Inf	4	conj	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	pagare	pagare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mancato	mancato	ADJ	A	Gender=Masc|Number=Sing	10	obl	_	_
+14	introito	introire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	_
+15	fino	fino	ADV	B	_	18	case	_	_
+16-17	alla	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	15	fixed	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	morte...	morte...	NOUN	S	_	14	obl	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	fb.me/1FPCkO4qX	fb.me/1FPCkO4qX	PROPN	SP	_	10	obj	_	SpacesAfter=\n
+

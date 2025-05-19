@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #NXTTakeoverDallas non ho parole!
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	NXTTakeoverDallas	NXTTakeoverDallas	PROPN	SP	_	4	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	parole	parola	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = @ShinsukeN vs @iLikeSamiZayn è stato qualcosa di fantastico.
+1	@ShinsukeN	@ShinsukeN	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	vs	vs	NOUN	S	Gender=Masc	6	nsubj	_	_
+3	@iLikeSamiZayn	@iLikeSamiZayn	PROPN	SP	_	2	nmod	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+6	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	fantastico.	fantastico.	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = #WrestleMania dovrà fare ancora meglio!
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	WrestleMania	WrestleMania	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+5	ancora	ancora	ADV	B	_	6	advmod	_	_
+6	meglio	meglio	ADV	B	_	4	advmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

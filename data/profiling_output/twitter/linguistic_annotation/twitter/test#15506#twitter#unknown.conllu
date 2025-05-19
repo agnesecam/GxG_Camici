@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come farei senza di te?
+1	Come	come	ADV	B	_	2	advmod	_	_
+2	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	senza	senza	ADP	E	_	5	case	_	_
+4	di	di	ADP	E	_	3	fixed	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obl	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ahahahahahahahahahahahahahahahahah grazie per queste perle @FraPattera pic.twitter.com/VSnQDOfaT9
+1	Ahahahahahahahahahahahahahahahahah	Ahahahahahahahahahahahahahahahahah	NOUN	S	_	0	root	_	_
+2	grazie	grazie	NOUN	S	_	4	case	_	_
+3	per	per	ADP	E	_	2	fixed	_	_
+4	queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	1	nmod	_	_
+5-6	perle	_	_	_	_	_	_	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	@FraPattera	@FraPattera	PROPN	SP	_	4	nmod	_	_
+8	pic.twitter.com/VSnQDOfaT9	pic.twitter.com/VSnQDOfaT9	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n
+

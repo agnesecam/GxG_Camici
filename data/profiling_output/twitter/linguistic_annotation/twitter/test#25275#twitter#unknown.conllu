@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mauro7551 @EdoardoSatuto "guastò".
+1	@Mauro7551	@Mauro755l	PROPN	SP	_	4	nsubj	_	_
+2	@EdoardoSatuto	@EdoardoSatuto	PROPN	SP	_	1	flat:name	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	guastò	guastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Comunque ci furono polemiche con la Mussolini e altre cose.
+1	Comunque	comunque	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	polemiche	polemica	ADJ	A	Gender=Fem|Number=Plur	3	nsubj	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Mussolini	Mussolini	PROPN	SP	_	4	obl	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	altre	altro	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+10	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ora è pulito e potrebbe fare il Sindaco.
+1	Ora	ora	ADV	B	_	3	advmod	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	pulito	pulire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	3	conj	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Sindaco	Sindaco	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

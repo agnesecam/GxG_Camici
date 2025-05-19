@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La coscienza è un ambiente aperto in cui ci visitano molti pensieri e il problema è che noi dobbiamo decidere cosa fare di essi . #FTSA16
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	coscienza	coscienza	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	aperto	aperto	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	cui	cui	PRON	PR	PronType=Rel	10	obl	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
+10	visitano	visitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+11	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
+12	pensieri	pensiero	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	problema	problema	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+16	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+17	che	che	SCONJ	CS	_	20	mark	_	_
+18	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	20	nsubj	_	_
+19	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	decidere	decidere	VERB	V	VerbForm=Inf	16	ccomp	_	_
+21	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	22	obj	_	_
+22	fare	fare	VERB	V	VerbForm=Inf	20	ccomp	_	_
+23	di	di	ADP	E	_	24	case	_	_
+24	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	obl	_	_
+25	.	.	PUNCT	FS	_	5	punct	_	_
+26	#FTSA16	#FTSA16	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

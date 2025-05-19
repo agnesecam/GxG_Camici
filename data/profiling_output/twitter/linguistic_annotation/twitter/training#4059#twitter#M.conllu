@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = https:// twitter.com/VenturaSara la proteggiamo noi Simona.....
+1	https:	https:	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/VenturaSara	twitter.com/VenturaSara	ADP	E	_	6	case	_	_
+5	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	proteggiamo	proteggere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+8	Simona.....	Simona.....	PROPN	SP	_	7	nmod	_	_
+
+# sent_id = 2
+# text = e quando uscirà dovrà fare una strage di tutta questa gente fasulla
+1	e	e	CCONJ	CC	_	3	cc	_	_
+2	quando	quando	SCONJ	CS	_	3	mark	_	_
+3	uscirà	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	advcl	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	strage	strage	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	11	det:predet	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	gente	gente	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+12	fasulla	fasullare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

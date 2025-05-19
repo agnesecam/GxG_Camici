@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BrunoVespa farà l'inchino a #Riina Jr Come in certe processioni?
+1	@BrunoVespa	@BrunoVespa	PROPN	SP	_	2	nsubj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	inchino	inchino	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	#Riina	#Riina	PROPN	SP	_	2	obl	_	_
+7	Jr	Jr	PROPN	SP	_	6	flat:name	_	_
+8	Come	come	ADV	B	_	11	advmod	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	11	det	_	_
+11	processioni	processione	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #NonGuardoPortaaPorta #rispetto per le vittime della mafia @RaiPortaaPorta
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	NonGuardoPortaaPorta	NonGuardoPortaaPortare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	#rispetto	#rispetto	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mafia	mafia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	@RaiPortaaPorta	@RaiPortaaPorto	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

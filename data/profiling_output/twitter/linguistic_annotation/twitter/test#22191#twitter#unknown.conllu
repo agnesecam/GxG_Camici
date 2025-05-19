@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = assolutamente falso: " Galilei ebbe tre figli mai dichiarati per vergogna o “nati per fornicazione”....
+1	assolutamente	assolutamente	ADV	B	_	2	advmod	_	_
+2	falso	falso	ADJ	A	Gender=Masc|Number=Sing	6	advcl	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	"	"	PUNCT	FB	_	6	punct	_	_
+5	Galilei	Galilei	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	tre	tre	NUM	N	NumType=Card	8	nummod	_	_
+8	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	mai	mai	ADV	B	_	10	advmod	_	_
+10	dichiarati	dichiarare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	o	o	CCONJ	CC	_	15	cc	_	_
+14	“	“	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	nati	nascere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	conj	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	fornicazione	fornicazione	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+18	”	”	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+19	....	....	PUNCT	FF	_	6	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2cJ942YiP
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2cJ942YiP	fb.me/2cJ942YiP	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

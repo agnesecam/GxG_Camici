@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = FQ:
+1	FQ	FQ	NOUN	S	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Golfo del Messico, chiuso il caso “Marea nera”: “British Petroleum dovrà pagare risarcimento da 20 miliard... http:// bit.ly/1UEhIr1
+1	Golfo	Golfo	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Messico	Messico	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	chiuso	chiuso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	caso	caso	NOUN	S	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+9	“	“	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	Marea	Marea	PROPN	SP	_	8	nmod	_	_
+11	nera	nero	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	”	”	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	10	punct	_	_
+14	“	“	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	British	British	PROPN	SP	_	10	nmod	_	_
+16	Petroleum	Petroleum	PROPN	SP	_	15	flat:name	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+19	risarcimento	risarcimento	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+20	da	da	ADP	E	_	22	case	_	_
+21	20	20	NUM	N	NumType=Card	22	nummod	_	_
+22	miliard...	miliard...	NOUN	S	Gender=Masc	18	obl	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	bit.ly/1UEhIr1	bit.ly/1UEhIr1	PROPN	SP	_	18	conj	_	SpacesAfter=\n
+

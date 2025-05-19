@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_DilettaSacco_ 3, dico TRE scatole di Adidas impilate lì così, manco fossimo in negozio.
+1	@_DilettaSacco_	@_dilettasacco_	PROPN	SP	_	0	root	_	_
+2	3	3	NUM	N	NumType=Card	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	dico	dire	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	TRE	tre	PROPN	SP	_	1	appos	_	_
+6	scatole	scatole	ADJ	A	Number=Sing	5	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Adidas	Adidas	PROPN	SP	_	5	nmod	_	_
+9	impilate	impilare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+10	lì	lì	ADV	B	_	9	advmod	_	_
+11	così	così	ADV	B	_	9	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	9	punct	_	_
+13	manco	manco	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+14	fossimo	fossimo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	negozio	negozio	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

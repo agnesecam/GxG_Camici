@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TeresaBellanova noi lavoratori #Gepin Contact tra 45 giorni saremmo licenziati, non abbiamo più tempo.
+1	@TeresaBellanova	@TeresaBellanovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	obj	_	_
+3	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+4	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	Gepin	Gepin	PROPN	SP	_	3	nmod	_	_
+6	Contact	Contact	PROPN	SP	_	5	flat:name	_	_
+7	tra	tra	ADP	E	_	9	case	_	_
+8	45	45	NUM	N	NumType=Card	9	nummod	_	_
+9	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+10	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	licenziati	licenziare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	ccomp	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15	più	più	ADV	B	_	14	advmod	_	_
+16	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Intervenga con #Poste Italiane!!"
+1	Intervenga	intervenire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	#Poste	#Posta	PROPN	SP	_	1	nmod	_	_
+4	Italiane	italiano	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

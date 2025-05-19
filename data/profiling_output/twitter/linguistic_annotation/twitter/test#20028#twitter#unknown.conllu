@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pisto_gol @Carloalvino stavate forse citando questa immagine qua?
+1	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@Carloalvino	@Carloalvino	PROPN	SP	_	5	nsubj	_	_
+3	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	5	aux	_	_
+4	forse	forse	ADV	B	_	5	advmod	_	_
+5	citando	citare	VERB	V	VerbForm=Ger	0	root	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	qua	qua	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Visto come cambia la prospettiva con e senza teleobiettivo?
+1	Visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	come	come	SCONJ	CS	_	3	mark	_	_
+3	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	prospettiva	prospettiva	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	con	con	ADP	E	_	9	case	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	senza	senza	ADP	E	_	9	case	_	_
+9	teleobiettivo	teleobiettivo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

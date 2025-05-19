@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cotrofficial per le K4U:
+1	@cotrofficial	@cotrofficial	NOUN	S	_	0	root	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	K4U	K4U	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = quanta paura avevate di dimenticarvi quello che dovevate dire?
+1	quanta	quanto	DET	DQ	Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
+2	paura	paura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	avevate	avere	VERB	A	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5-6	dimenticarvi	_	_	_	_	_	_	_	_
+5	dimenticar	dimenticar	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	5	expl	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+9	dovevate	dovere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	dire	dire	VERB	V	VerbForm=Inf	7	acl:relcl	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #LoveTwitter #Twitter10BlueRoom
+1	#LoveTwitter	#LoveTwitter	PROPN	SP	_	0	root	_	_
+2	#Twitter10BlueRoom	#Twitter10BlueRoom	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

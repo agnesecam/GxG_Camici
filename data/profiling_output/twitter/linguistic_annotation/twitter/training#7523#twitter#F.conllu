@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Allinea davanti a te questi venerati oggetti ed essi , forse, con il loro essere e la loro successione…"
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Allinea	Allinea	PROPN	SP	_	0	root	_	_
+3	davanti	davanti	ADV	B	_	5	case	_	_
+4	a	a	ADP	E	_	3	fixed	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+6	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	nmod	_	_
+7	venerati	venerare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	oggetti	oggetto	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	ed	e	CCONJ	CC	_	10	cc	_	_
+10	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	conj	_	_
+11	,	,	PUNCT	FF	_	2	punct	_	_
+12	forse	forse	ADV	B	_	13	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	2	punct	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	2	nmod	_	_
+17	essere	essere	AUX	V	VerbForm=Inf	20	cop	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	16	conj	_	_
+21	successione…	successione…	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	20	punct	_	SpacesAfter=\n
+

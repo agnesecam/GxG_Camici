@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sbandieratori, quella trasferta a Liverpool da cui tutto ebbe inizio http://www.
+1	Sbandieratori	Sbandieratore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	1	nmod	_	_
+4	trasferta	trasfrire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Liverpool	Liverpool	PROPN	SP	_	4	obl	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	cui	cui	PRON	PR	PronType=Rel	10	obl	_	_
+9	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	_
+10	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+11	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	http://www	http://www	NOUN	S	_	11	compound	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = tsdtv.it/2016/03/23/sba ndieratori-quella-trasferta-liverpool-cui-ebbe-inizio/ …
+1	tsdtv.it/2016/03/23/sba	tsdtv.it/2016/03/23/sbare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	ndieratori	ndieratore	ADJ	A	Degree=Cmp|Number=Plur	1	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	quella-trasferta-liverpool-cui-ebbe	quella-trasferta-liverpool-cui-e	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

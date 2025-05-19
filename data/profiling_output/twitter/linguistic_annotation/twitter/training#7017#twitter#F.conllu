@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SPLENDERE, un verbo da sapere.
+1	SPLENDERE	SPLENDERE	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	verbo	verbo	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+5	da	da	ADP	E	_	6	mark	_	_
+6	sapere	sapere	VERB	V	VerbForm=Inf	4	acl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = io splendo tu splendi egli splende noi splendiamo voi splendete essi splendono http:// fb.me/WFCAL6yI
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	splendo	splere	VERB	V	VerbForm=Ger	12	advcl	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	obj	_	_
+4	splendi	splendi	CCONJ	CC	_	6	cc	_	_
+5	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	splende	splendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	splendiamo	splendare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+9	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	splendete	splendete	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	splendono	splendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
+13	http:	http:	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	fb.me/WFCAL6yI	fb.me/WFCAL6yI	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

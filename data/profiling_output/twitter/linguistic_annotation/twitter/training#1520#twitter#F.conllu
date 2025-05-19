@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bragachiara : "combattiamo le nostre paure e trasformiamo i nostri desideri in futuro" #classedem
+1	@bragachiara	@bragachiara	ADV	B	_	4	advmod	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	combattiamo	combattere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	paure	paura	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	trasformiamo	trasformare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	desideri	desidere	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	4	punct	_	_
+16	#classedem	#classedem	X	X	_	4	obj	_	SpacesAfter=\n
+

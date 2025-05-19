@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noi, persone oneste, non riusciamo neppure ad immaginare tutti gli imbrogli che fanno alle nostre spalle... http:// fb.me/19S9FhOEv
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	persone	persona	NOUN	S	Gender=Fem|Number=Plur	1	appos	_	_
+4	oneste	onesto	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	riusciamo	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	10	advmod	_	_
+9	ad	a	ADP	E	_	10	mark	_	_
+10	immaginare	immaginare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+11	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	13	det:predet	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	imbrogli	imbroglio	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+14	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+15	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+16-17	alle	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	spalle...	spalle...	NOUN	S	_	15	obl	_	_
+20	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	10	punct	_	_
+23	fb.me/19S9FhOEv	fb.me/19S9FhOEv	PROPN	SP	_	7	conj	_	SpacesAfter=\n
+

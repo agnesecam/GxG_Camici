@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gobboveroefiero @NicolaFailli Zaza dovrà si moderarsi,ma ci troviamo dei coglioni ke alla prima giallo!
+1	@gobboveroefiero	@gobboveroefiero	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@NicolaFailli	@NicolaFaillo	PROPN	SP	_	6	nsubj	_	_
+3	Zaza	Zaza	PROPN	SP	_	2	flat:name	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	moderarsi,ma	moderarsi,mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+8	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	xcomp	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	coglioni	coglione	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+12	ke	ke	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	16	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	16	amod	_	_
+16	giallo	giallo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !oo 2minuti era in campo!!
+1	!oo	!oo	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	2minuti	2minuto	ADJ	A	Number=Plur	1	amod	_	_
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	campo	campo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

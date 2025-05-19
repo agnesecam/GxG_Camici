@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sole24ore PADOAN: un altro che, presto, dovrà risvegliarsi ed rientrare nella realtà.
+1	@sole24ore	@sole24ore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	PADOAN	PADOAN	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	11	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	presto	presto	ADV	B	_	11	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11-12	risvegliarsi	_	_	_	_	_	_	_	_
+11	risvegliar	risvegliare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	ed	e	CCONJ	CC	_	14	cc	_	_
+14	rientrare	rientrare	VERB	V	VerbForm=Inf	11	conj	_	_
+15-16	nella	_	_	_	_	_	_	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	realtà	realtà	NOUN	S	Gender=Fem	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

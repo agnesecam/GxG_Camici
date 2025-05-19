@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ehm credo di aver involontariamente tolto voce a qualcuno e non ho neppure capito a chi!
+1	Ehm	Ehm	PROPN	SP	_	2	nsubj	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	6	mark	_	_
+4	aver	avere	AUX	VA	VerbForm=Inf	6	aux	_	_
+5	involontariamente	involontariamente	ADV	B	_	6	advmod	_	_
+6	tolto	togliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+7	voce	voce	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obl	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+12	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+14	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	chi	chi	PRON	PR	Number=Sing|PronType=Rel	14	obl	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

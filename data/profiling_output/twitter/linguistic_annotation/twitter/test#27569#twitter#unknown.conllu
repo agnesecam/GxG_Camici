@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oh ragazzi se un giorno facessero i test di intelligenza per avere l'accesso ad internet prima ci salutiamo eh, ci tengo.
+1	Oh	oh	INTJ	I	_	2	cop	_	_
+2	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	20	nsubj	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+6	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	advcl	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	test	test	NOUN	S	Gender=Masc	6	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	intelligenza	intelligenza	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12	avere	avere	VERB	V	VerbForm=Inf	6	advcl	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	accesso	accesso	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	ad	a	ADP	E	_	16	case	_	_
+16	internet	internet	NOUN	S	_	14	nmod	_	_
+17	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	16	amod	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	obj	_	_
+19	salutiamo	salutare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	eh	eh	INTJ	I	_	23	discourse	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	20	punct	_	_
+22	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	23	expl	_	_
+23	tengo	tenere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	23	punct	_	SpacesAfter=\n
+

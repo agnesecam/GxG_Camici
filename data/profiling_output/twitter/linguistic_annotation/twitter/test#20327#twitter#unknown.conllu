@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @romafaschifo nn ho fatto foto xche davvero è dovunque giungla, forse avremo dei bonus per riduzione della CO2... https:// twitter.com/GincosMm/statu s/710095884634161153 …
+1	@romafaschifo	@romafaschifo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	nn	nn	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	foto	foto	NOUN	S	Gender=Fem	4	obj	_	_
+6	xche	xco	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+7	davvero	davvero	ADV	B	_	10	advmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	dovunque	dovunque	ADV	B	_	10	advmod	_	_
+10	giungla	giunglare	ADJ	A	Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	forse	forse	ADV	B	_	13	advmod	_	_
+13	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	bonus	bonus	NOUN	S	Gender=Masc	13	obl	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	riduzione	riduzione	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	CO2...	CO2...	PROPN	SP	_	18	nmod	_	_
+22	https:	https:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	twitter.com/GincosMm/statu	twitter.com/GincosMm/statu	PROPN	SP	_	21	nmod	_	_
+26	s/710095884634161153	s/710095884634161153	NUM	N	NumType=Card	25	nummod	_	_
+27	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

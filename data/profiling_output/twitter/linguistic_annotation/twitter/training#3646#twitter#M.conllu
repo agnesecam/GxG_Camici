@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fantastico C. G. J. nei panni di O.J. Simpson.!!
+1	Fantastico	fantastico	PROPN	SP	_	0	root	_	_
+2	C.	C.	PROPN	SP	_	1	flat:name	_	_
+3	G.	G.	PROPN	SP	_	1	flat:name	_	_
+4	J.	J.	PROPN	SP	_	1	flat:name	_	_
+5-6	nei	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	panni	panno	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	O.J.	O.J.	PROPN	SP	_	7	nmod	_	_
+10	Simpson.	Simpsonorevole	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+11	!!	!!	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 2
+# text = Bella serie...
+1	Bella	bello	PROPN	SP	_	0	root	_	_
+2	serie..	serie..	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Mi farà stare bene!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	stare	stare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	bene	bene	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

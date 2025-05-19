@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi, forse, complice l' #Inghilterra é andata decisamente MEGLIO e pure upselling fu ! #lavoro #vitadainbound #venerdi
+1	Oggi	oggi	ADV	B	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	forse	forse	ADV	B	_	5	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	complice	complice	NOUN	S	Number=Sing	1	conj	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+7	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+8	Inghilterra	Inghilterra	PROPN	SP	_	10	nsubj	_	_
+9	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+11	decisamente	decisamente	ADV	B	_	10	advmod	_	_
+12	MEGLIO	meglio	PROPN	SP	_	10	obl	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	pure	pure	ADV	B	_	15	advmod	_	_
+15	upselling	upselling	X	X	_	12	conj	_	_
+16	fu	essere	X	SW	Foreign=Yes	15	flat:foreign	_	_
+17	!	!	PUNCT	FS	_	15	punct	_	_
+18	#lavoro	#lavoro	NOUN	S	Gender=Masc|Number=Sing	15	appos	_	_
+19	#vitadainbound	#vitadainbound	CCONJ	CC	_	20	cc	_	_
+20	#venerdi	#venerde	NOUN	S	Gender=Masc|Number=Plur	18	conj	_	SpacesAfter=\n
+

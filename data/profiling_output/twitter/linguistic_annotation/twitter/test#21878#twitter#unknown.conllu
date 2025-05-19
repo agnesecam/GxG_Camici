@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IsolaDeiFamosi xke nn fate vedere anke il video dove stavano parlando Stefano e Andrea senza sapere di essere ripresi?
+1	@IsolaDeiFamosi	@IsolaDeiFamoso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+2	xke	xke	ADJ	A	Number=Sing	3	amod	_	_
+3	nn	nno	NOUN	S	Gender=Masc	4	nsubj	_	_
+4	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	vedere	vedere	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	anke	anke	ADV	B	_	5	advmod	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	video	video	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	dove	dove	ADV	B	_	11	advmod	_	_
+10	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	parlando	parlare	VERB	V	VerbForm=Ger	8	acl:relcl	_	_
+12	Stefano	Stefano	PROPN	SP	_	11	obj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	Andrea	Andrea	PROPN	SP	_	12	conj	_	_
+15	senza	senza	ADP	E	_	16	mark	_	_
+16	sapere	sapere	VERB	V	VerbForm=Inf	11	advcl	_	_
+17	di	di	ADP	E	_	19	mark	_	_
+18	essere	essere	AUX	VA	VerbForm=Inf	19	aux:pass	_	_
+19	ripresi	riprendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	ccomp	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Poi vediamo ki finge
+1	Poi	poi	ADV	B	_	2	advmod	_	_
+2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ki	ko	ADJ	A	Number=Plur	4	amod	_	_
+4	finge	finge	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpacesAfter=\n
+

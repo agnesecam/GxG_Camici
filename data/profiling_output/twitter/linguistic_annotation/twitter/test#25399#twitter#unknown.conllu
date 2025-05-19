@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel 2013 furono bloccati per 6 settimane tutti i pagamenti con carte di credito effettuati all' interno della... http:// fb.me/7zWx7yQMU
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	2013	2013	NUM	N	NumType=Card	5	obl	_	_
+4	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	bloccati	bloccare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	6	6	NUM	N	NumType=Card	8	nummod	_	_
+8	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+9	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	11	det:predet	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	pagamenti	pagamento	NOUN	S	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	carte	carta	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	credito	credito	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+16	effettuati	effettuare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+17-18	all'	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
+19	interno	interno	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+20	della...	della.	NOUN	S	_	16	obl	_	_
+21	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	fb.me/7zWx7yQMU	fb.me/7zWx7yQMU	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

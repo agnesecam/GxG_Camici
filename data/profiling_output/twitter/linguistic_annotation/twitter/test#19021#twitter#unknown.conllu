@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Abbiamo tutti dentro un mondo di cose:
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nmod	_	_
+4	dentro	dentro	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = ciascuno un suo mondo di cose!
+1	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = E come possiamo intenderci, signore, se... http:// fb.me/23UrgyNMw
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	come	come	ADV	B	_	4	advmod	_	_
+3	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4-5	intenderci	_	_	_	_	_	_	_	SpaceAfter=No
+4	intender	intendere	VERB	V	VerbForm=Inf	0	root	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	signore	signore	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	se...	se.	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	4	punct	_	_
+13	fb.me/23UrgyNMw	fb.me/23UrgyNMw	PROPN	SP	_	4	conj	_	SpacesAfter=\n
+

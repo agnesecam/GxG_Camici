@@ -1,0 +1,61 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @F_Pigliaru e @cla_fi Ne parla anche The @Guardian .
+1	@F_Pigliaru	@F_Pigliaru	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	@cla_fi	@cla_fo	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+4	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+5	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	anche	anche	ADV	B	_	5	advmod	_	_
+7	The	the	PROPN	SP	_	5	nsubj	_	_
+8	@Guardian	@Guardian	PROPN	SP	_	7	flat:name	_	_
+9	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Perchè la RAS ha interrotto la coll . con l'Univ.
+1	Perchè	perché	ADV	B	_	5	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	RAS	ras	PROPN	SP	_	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	interrotto	interrompere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	coll	coll	NOUN	S	Gender=Masc	5	obj	_	_
+8	.	.	PUNCT	FS	_	7	punct	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	Univ.	Univ.	PROPN	SP	_	7	nmod	_	_
+
+# sent_id = 3
+# text = di Edimburgo?
+1	di	di	ADP	E	_	2	case	_	_
+2	Edimburgo	Edimburgo	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = https://www.
+1	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = theguardian.com/science/2016/m ar/13/sardinian-professor-fighting-to-save-gaelic-bilingualism?
+1	theguardian.com/science/2016/m	theguardian.com/science/2016/m	NOUN	S	Gender=Masc	0	root	_	_
+2	ar/	ar/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	13	13	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	sardinian	sardinian	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	professor	professore	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	fighting-to	fighting-to	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	save-gaelic	save-gaelic	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+13	bilingualism	bilingualism	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 6
+# text = CMP=share_btn_fb …
+1	CMP=share_btn_fb	CMP=share_btn_fb	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

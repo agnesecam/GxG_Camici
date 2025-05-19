@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "un popolo non è in grado di ribattere le calunnie come un individuo e alle sofistiche accuse scopre assai più...
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	grado	grado	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	ribattere	ribattere	VERB	V	VerbForm=Inf	7	acl	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	calunnie	calunnia	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	come	come	ADP	E	_	14	case	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	individuo	individuo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+15	e	e	CCONJ	CC	_	19	cc	_	_
+16-17	alle	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	sofistiche	sofistico	ADJ	A	Gender=Fem|Number=Plur	19	amod	_	_
+19	accuse	accusa	NOUN	S	Gender=Fem|Number=Plur	14	conj	_	_
+20	scopre	scoprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+21	assai	assai	ADV	B	_	20	advmod	_	_
+22	più...	più.	PUNCT	FS	_	20	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2NyZbvu7M
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2NyZbvu7M	fb.me/2NyZbvu7M	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

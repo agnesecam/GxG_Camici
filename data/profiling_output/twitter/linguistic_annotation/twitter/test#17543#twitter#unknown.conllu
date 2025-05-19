@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes che hai?
+1	@Albericoyes	@Albericoyes	NOUN	S	Gender=Masc	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	obj	_	_
+3	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Perché sei così triste?
+1	Perché	perché	ADV	B	_	4	advmod	_	_
+2	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	così	così	ADV	B	_	4	advmod	_	_
+4	triste	triste	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = C'è la farai sarà l'ultima cosa che accadrà nella tua vita
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	farai	fare	NOUN	S	_	2	nsubj	_	_
+5	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	cop	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+7	ultima	ultimo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
+8	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	accadrà	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	acl:relcl	_	_
+11-12	nella	_	_	_	_	_	_	_	_
+11	in	in	ADP	E	_	14	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	vita	vita	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpacesAfter=\n
+

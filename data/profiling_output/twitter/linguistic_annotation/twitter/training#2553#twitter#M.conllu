@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tassi negativi x prestiti al consumo,al posto dei saldi.Potrebbe sembrare semplice marketing,e invece sembra segnale https:// twitter.com/BarkowConsult/ status/718806933076078593 …
+1	Tassi	tasso	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+2	negativi	negativo	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	x	x	SYM	SYM	_	1	nmod	_	_
+4	prestiti	prestire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	consumo,al	consumo,al	ADJ	A	Number=Sing	8	amod	_	_
+8	posto	posto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	saldi.Potrebbe	saldi.potrebbe	PROPN	SP	_	8	nmod	_	_
+12	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+13	semplice	semplice	ADJ	A	Number=Sing	14	amod	_	_
+14	marketing,e	marketing,e	NOUN	S	Gender=Fem|Number=Sing	12	xcomp	_	_
+15	invece	invece	ADV	B	_	16	advmod	_	_
+16	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+17	segnale	segnale	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+18	https:	https:	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	twitter.com/BarkowConsult/	twitter.com/BarkowConsult/	PROPN	SP	_	17	nmod	_	_
+22	status/718806933076078593	status/718806933076078593	NUM	N	NumType=Card	21	nummod	_	_
+23	…	…	PUNCT	FF	_	12	punct	_	SpacesAfter=\n
+

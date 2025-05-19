@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Riina junior intercettato parla delle stragi del 92:
+1	Riina	Riina	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	junior	juniore	ADJ	A	_	1	amod	_	_
+3	intercettato	intercettato	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+4	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	stragi	strago	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	92	92	NUM	N	NumType=Card	7	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = 'La decisione fu quella: abbattiamoli' http:// fb.me/3VuH25Yhz
+1	'	'	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	decisione	decisione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	5	punct	_	_
+7-8	abbattiamoli	_	_	_	_	_	_	_	SpaceAfter=No
+7	abbattiamo	abbattere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+9	'	'	PUNCT	FB	_	10	punct	_	_
+10	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	7	punct	_	_
+13	fb.me/3VuH25Yhz	fb.me/3VuH25Yhz	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Penso che prima di metterci insieme ci sentivamo quindi mi darebbe fastidio,ma non stavamo insieme... https:// twitter.com/thevampsisart/ status/694557971649536001 …
+1	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	9	mark	_	_
+3	prima	prima	ADV	B	_	5	mark	_	_
+4	di	di	ADP	E	_	3	fixed	_	_
+5-6	metterci	_	_	_	_	_	_	_	_
+5	metter	mettere	VERB	V	VerbForm=Inf	9	advcl	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+7	insieme	insieme	ADV	B	_	9	advmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+9	sentivamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+10	quindi	quindi	ADV	B	_	12	advmod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	darebbe	dare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+13	fastidio,ma	fastidio,ma	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	cop	_	_
+16	insieme...	insieme.	NOUN	S	_	1	nsubj	_	_
+17	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	twitter.com/thevampsisart/	twitter.com/thevampsisart/	PUNCT	FF	_	16	punct	_	_
+21	status/694557971649536001	status/694557971649536001	PROPN	SP	NumType=Card	16	nmod	_	_
+22	…	…	PUNCT	FF	_	16	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli amici dei petrolieri dentro i ministeri.Basta favori alle lobby nere #IoVotoSi #referendum17aprile http://www.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	amici	amico	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	petrolieri	petroliero	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	dentro	dentro	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	ministeri.Basta	ministeri.Basta	NOUN	S	Number=Sing	5	nmod	_	_
+9	favori	favore	ADJ	A	Degree=Cmp|Number=Plur	8	amod	_	_
+10-11	alle	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	lobby	lobby	NOUN	S	Gender=Fem	2	nmod	_	_
+13	nere	nero	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+14	#IoVotoSi	#iovotoso	PROPN	SP	_	12	nmod	_	_
+15	#referendum17aprile	#referendum17aprile	ADJ	A	Number=Sing	16	amod	_	_
+16	http://www	http://www	NOUN	S	_	14	flat:name	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = lifegate.it/persone/stile- di-vita/lobby-petrolio-ministero … via @lifegate
+1	lifegate.it/persone/stile-	_	PUNCT	FB	_	3	punct	_	_
+2	di	di	ADP	E	_	3	case	_	SpaceAfter=No
+3	-vita	-vita	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	lobby	lobby	NOUN	S	Gender=Fem	3	nmod	_	SpaceAfter=No
+6	-petrolio	-petrolio	NOUN	S	Gender=Masc|Number=Sing	5	compound	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	ministero	ministero	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	_
+9	…	…	PUNCT	FF	_	3	punct	_	_
+10	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+11	@lifegate	@lifegato	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpacesAfter=\n
+

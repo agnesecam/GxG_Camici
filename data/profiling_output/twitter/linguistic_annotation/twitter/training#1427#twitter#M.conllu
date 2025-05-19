@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo fa piacere.
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	piacere	piacere	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Le nostre spiagge promosse per la pulizia e la loro conformazione naturale.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	spiagge	spiaggia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	promosse	promuovere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pulizia	pulizia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	loro	loro	DET	AP	Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	conformazione	conformazione	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+12	naturale	naturale	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/53eNuJImo
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/53eNuJImo	fb.me/53eNuJImo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

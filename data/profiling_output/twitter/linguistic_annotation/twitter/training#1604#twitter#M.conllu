@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non vogliamo che si affatichino a venire, andiamo noi a prenderlii con le nostre navi , vi accogliamo e... http:// fb.me/4Uputvt2t
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	vogliamo	volere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	affatichino	affaticare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	venire	venire	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	prenderlii	prenderlio	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	con	con	ADP	E	_	16	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	navi	nave	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	19	iobj	_	_
+19	accogliamo	accoglare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	e...	e.	NOUN	S	_	19	obj	_	_
+21	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	fb.me/4Uputvt2t	fb.me/4Uputvt2t	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

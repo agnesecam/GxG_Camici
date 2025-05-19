@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giakrussospena @AdaColau è un libro che farà arrabbiare la #Cup ?
+1	@giakrussospena	@giakrussospena	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	@AdaColau	@AdaColau	PROPN	SP	_	1	nmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	libro	libro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+8	arrabbiare	arrabbiare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	#Cup	#Cup	PROPN	SP	_	8	obj	_	_
+11	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

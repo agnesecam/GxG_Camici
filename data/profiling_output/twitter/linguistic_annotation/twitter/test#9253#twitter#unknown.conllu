@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #iononhopauradiSalvini #ficarraepicone #Neppure io ho paura di Salvini #Temo invece le persone stupide https:// twitter.com/FicarraePicone /status/712654781660205056 …
+1	#iononhopauradiSalvini	#iononhopauradiSalvino	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+2	#ficarraepicone	#ficarraepicone	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+4	Neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	paura	paura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Salvini	Salvini	PROPN	SP	_	7	nmod	_	_
+10	#Temo	#Te	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	invece	invece	ADV	B	_	10	advmod	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	persone	persona	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+14	stupide	stupido	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+15	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	13	punct	_	_
+18	twitter.com/FicarraePicone	twitter.com/FicarraePicone	PROPN	SP	_	13	nmod	_	_
+19	/status/712654781660205056	/status/712654781660205056	SYM	X	_	18	flat:name	_	_
+20	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

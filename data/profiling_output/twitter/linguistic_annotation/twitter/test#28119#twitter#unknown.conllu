@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dopo 'sta merdata del trono giovani ci meritiamo che Gemma e George facciano Pasquetta insieme #uominiedonne
+1	Dopo	dopo	SCONJ	CS	_	4	mark	_	_
+2	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	merdata	merdare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	trono	trono	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+8	giovani	giovane	ADJ	A	Number=Plur	7	amod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	_
+10	meritiamo	meritare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	che	che	SCONJ	CS	_	15	mark	_	_
+12	Gemma	Gemma	PROPN	SP	_	15	nsubj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	George	George	PROPN	SP	_	12	conj	_	_
+15	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+16	Pasquetta	Pasquetta	PROPN	SP	_	15	obj	_	_
+17	insieme	insieme	ADV	B	_	15	advmod	_	_
+18	#uominiedonne	#uominiedonna	ADP	E	_	17	fixed	_	SpacesAfter=\n
+

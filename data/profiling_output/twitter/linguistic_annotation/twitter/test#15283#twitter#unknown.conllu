@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma quindi tutto il piano che avevano bisogno che Ali si facesse internare era solo per avere i suoi soldi?
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	quindi	quindi	ADV	B	_	5	advmod	_	_
+3	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	5	det:predet	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	piano	piano	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	avevano	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	_
+8	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	Ali	Ali	PROPN	SP	_	12	nsubj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+13	internare	internare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	_
+15	solo	solo	ADV	B	_	14	advmod	_	_
+16	per	per	ADP	E	_	17	mark	_	_
+17	avere	avere	VERB	V	VerbForm=Inf	14	advcl	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+19	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = E PER COSA #PLLFinal
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	PER	per	PROPN	SP	_	0	root	_	_
+3	COSA	Cosa	PROPN	SP	_	2	flat:name	_	_
+4	#PLLFinal	#PLLFinal	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

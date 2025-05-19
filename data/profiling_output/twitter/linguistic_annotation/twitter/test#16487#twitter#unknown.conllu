@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Pontifex_it Coll ' augurio di un felice riposo e buona Pasqua.
+1	@Pontifex_it	@Pontifex_it	PROPN	SP	_	0	root	_	_
+2	Coll	Coll	PROPN	SP	_	1	flat:name	_	_
+3	'	'	PUNCT	FB	_	4	punct	_	_
+4	augurio	augurio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	felice	felice	ADJ	A	Number=Sing	8	amod	_	_
+8	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	buona	buono	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	Pasqua	Pasqua	PROPN	SP	_	1	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = La passione di essere Papa-Francesco, il Papà di tutti.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	passione	passione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	5	mark	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+5	Papa-Francesco	Papa-Francesco	PROPN	SP	_	2	acl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Papà	papà	NOUN	S	Gender=Masc	2	appos	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

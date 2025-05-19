@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dalla newsletter FERPI Ferpi La crisi?
+1-2	dalla	_	_	_	_	_	_	_	_
+1	da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	newsletter	newsletter	NOUN	S	_	0	root	_	_
+4	FERPI	FERPI	PROPN	SP	_	3	nmod	_	_
+5	Ferpi	Ferpi	PROPN	SP	_	4	flat:name	_	_
+6	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	crisi	crisi	NOUN	S	Gender=Fem	4	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Una benedizione - Ferpi http://www.
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	benedizione	benedizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	-	-	PUNCT	FF	_	2	punct	_	_
+4	Ferpi	Ferpi	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	http://www	http://www	NOUN	S	_	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = ferpi.it/la-crisi-una-b enedizione/ …
+1	ferpi.it/la-crisi-una-b	ferpi.it/la-crisi-una-b	NOUN	S	Gender=Masc	0	root	_	_
+2	enedizione	enedizione	NOUN	S	Gender=Fem|Number=Sing	1	compound	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vabbè si sapeva, io ve l'avevo detto che non facevamo risultato.
+1	Vabbè	vabbè	INTJ	I	_	3	discourse	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	9	punct	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+6	ve	vere	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+8	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+10	che	che	SCONJ	CS	_	12	mark	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	ccomp	_	_
+13	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Manteniamo il 6 posto e giochiamoci con dignità la finale a Roma
+1	Manteniamo	Mantenare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	6	6	NUM	N	NumType=Card	4	nummod	_	_
+4	posto	posto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	giochiamoci	giochiamoce	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	dignità	dignità	NOUN	S	Gender=Fem	1	obl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	finale	finale	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	Roma	Roma	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

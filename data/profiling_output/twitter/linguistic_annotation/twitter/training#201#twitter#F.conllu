@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Giadabigone lasciamo perdere guarda.
+1	@Giadabigone	@Giadabigone	PROPN	SP	_	2	nsubj	_	_
+2	lasciamo	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	perdere	perdere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	guarda.	guarda.	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..come se avessimo poche cose da fare.
+1	..come	..come	ADV	B	_	3	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	poche	poco	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	fare.	fare.	NOUN	S	_	3	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..poi il nostro prof si era anche dimenticato di avvisarci
+1	..poi	..poi	ADV	B	_	8	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	prof	prof	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+6	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	anche	anche	ADV	B	_	8	advmod	_	_
+8	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10-11	avvisarci	_	_	_	_	_	_	_	SpacesAfter=\n
+10	avvisar	avvisare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	_
+

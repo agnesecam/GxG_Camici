@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La storia in presa diretta, di un giovane italiano educato dentro il fascismo, Osvaldo @GBonini50 SAMIZDAT Editore.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	storia	storia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	presa	presa	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	diretta	diretto	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	giovane	giovane	NOUN	S	Number=Sing	2	nmod	_	_
+10	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	educato	educare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+12	dentro	dentro	ADV	B	_	11	advmod	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fascismo	fascismo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	Osvaldo	Osvaldo	PROPN	SP	_	14	nmod	_	_
+17	@GBonini50	@GBonini50	PROPN	SP	_	16	flat:name	_	_
+18	SAMIZDAT	SAMIZDAT	PROPN	SP	_	16	flat:name	_	_
+19	Editore	editore	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/MwUbtMWOvj
+1	pic.twitter.com/MwUbtMWOvj	pic.twitter.com/MwUbtMWOvj	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

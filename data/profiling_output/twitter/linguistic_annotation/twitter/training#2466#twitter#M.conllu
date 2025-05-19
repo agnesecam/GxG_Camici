@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu sei bellissima dentro come fuori, amica mia.
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	0	root	_	_
+4	dentro	dentro	ADV	B	_	3	advmod	_	_
+5	come	come	ADP	E	_	4	fixed	_	_
+6	fuori	fuori	ADV	B	_	4	fixed	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	amica	amico	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/fedebassano/st atus/711928590187819009 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/fedebassano/st	twitter.com/fedebassano/st	NOUN	S	Gender=Masc	0	root	_	_
+5	atus/711928590187819009	atus/711928590187819009	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

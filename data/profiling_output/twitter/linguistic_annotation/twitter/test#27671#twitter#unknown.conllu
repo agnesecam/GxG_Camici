@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forse se si facessero interventi di derattizzazione massiccia!
+1	Forse	forse	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	interventi	intervento	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	derattizzazione	derattizzazione	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	massiccia	massiccio	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = E poi troppo sporco e immondizia favoriscono...
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	poi	poi	ADV	B	_	4	advmod	_	_
+3	troppo	troppo	ADV	B	_	4	advmod	_	_
+4	sporco	sporco	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	immondizia	immondizio	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+7	favoriscono...	favoriscono.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/stefi1966r/sta tus/705366366153523200 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/stefi1966r/sta	twitter.com/stefi1966r/stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tus/705366366153523200	tus/705366366153523200	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

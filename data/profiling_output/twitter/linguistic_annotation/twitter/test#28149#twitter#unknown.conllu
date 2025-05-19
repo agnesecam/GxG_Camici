@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Bruxelles , #Alfano :
+1	#Bruxelles	#Bruxelles	PROPN	SP	_	0	root	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	#Alfano	#Alfano	PROPN	SP	_	1	flat:name	_	_
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = «La nostra prevenzione finora ha funzionato».
+1	«	«	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	prevenzione	prevenzione	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+5	finora	finoro	ADV	B	_	7	advmod	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	funzionato	funzionare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	»	»	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = Il trucco è mandare tutto a puttane prima che lo facciano gli altri.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	trucco	trucco	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	mandare	mandare	VERB	V	VerbForm=Inf	0	root	_	_
+5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	puttane	puttana	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	prima	prima	ADV	B	_	11	mark	_	_
+9	che	che	SCONJ	CS	_	8	fixed	_	_
+10	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " #PreferiscoAmare #CadutaLibera che #pomeriggio5 ", li cadere in basso non vuol dire spararsi in faccia 1000 luci per SEMBRARE più GIOVANE.
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	#PreferiscoAmare	#PreferiscoAmare	PROPN	SP	_	0	root	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	CadutaLibera	CadutaLiberare	PROPN	SP	_	2	nmod	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	#pomeriggio5	#pomeriggio5	NUM	N	NumType=Card	10	nummod	_	_
+7	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+10	cadere	cadere	VERB	V	VerbForm=Inf	4	ccomp	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	basso	basso	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	dire	dire	VERB	V	VerbForm=Inf	10	advcl	_	_
+16-17	spararsi	_	_	_	_	_	_	_	_
+16	sparar	sparare	VERB	V	VerbForm=Inf	15	ccomp	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+20	1000	1000	NUM	N	NumType=Card	21	nummod	_	_
+21	luci	luce	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
+22	per	per	ADP	E	_	23	case	_	_
+23	SEMBRARE	sembrare	PROPN	SP	_	21	nmod	_	_
+24	più	più	ADV	B	_	25	advmod	_	_
+25	GIOVANE	giovane	PROPN	SP	_	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @graziano_delrio @StradeANAS L' avevate detto anche per #Expo2015 Ed è stato un #flop pic.twitter.com/W28qTJc5qD
+1	@graziano_delrio	@graziano_delrio	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+2	@StradeANAS	@StradeANAS	PROPN	SP	_	1	nmod	_	_
+3	L'	lo	PROPN	SP	_	2	flat:name	_	_
+4	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+6	anche	anche	ADV	B	_	8	advmod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	#Expo2015	#Expo2015	PROPN	SP	_	5	obl	_	_
+9	Ed	Ed	PROPN	SP	_	8	flat:name	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	cop	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	#flop	#flop	NOUN	S	Gender=Masc	0	root	_	_
+14	pic.twitter.com/W28qTJc5qD	pic.twitter.com/W28qTJc5qD	PROPN	SP	_	13	nmod	_	SpacesAfter=\n
+

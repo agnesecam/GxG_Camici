@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lori_gianna @giampiccolo74 @LelePignatti @PaolettaPaly @_Anna_275 @GadottiRenza @Dasydo e tu sai farlo benissimo ,una carezza a te bpranzoTT
+1	@lori_gianna	@lori_giannare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+2	@giampiccolo74	@giampiccolo74	NUM	N	NumType=Card	3	nummod	_	_
+3	@LelePignatti	@LelePignatti	PROPN	SP	_	0	root	_	_
+4	@PaolettaPaly	@PaolettaPaly	PROPN	SP	_	3	flat:name	_	_
+5	@_Anna_275	@_Anna_275	PROPN	SP	_	3	flat:name	_	_
+6	@GadottiRenza	@GadottiRenza	PROPN	SP	_	3	flat:name	_	_
+7	@Dasydo	@Dasydo	PROPN	SP	_	3	flat:name	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+10	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11-12	farlo	_	_	_	_	_	_	_	_
+11	far	fare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13	benissimo	bene	ADV	B	Degree=Abs	11	advmod	_	_
+14	,una	,uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	carezza	carezza	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	nmod	_	_
+18	bpranzoTT	bpranzoTT	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

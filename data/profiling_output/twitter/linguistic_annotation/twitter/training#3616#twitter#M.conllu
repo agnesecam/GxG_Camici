@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Iniziano sfregando le mani insieme...
+1	Iniziano	iniziare	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sfregando	sfregare	VERB	V	VerbForm=Ger	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	mani	mano	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+5	insieme..	insieme	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Quello che fanno dopo vi farà venire i brividi!
+1	Quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	3	obj	_	_
+3	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	dopo	dopo	ADP	E	_	5	case	_	_
+5	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	obl	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	venire	venire	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	brividi	brividio	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/41URDWDZg
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/41URDWDZg	fb.me/41URDWDZg	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

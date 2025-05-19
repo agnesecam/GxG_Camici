@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La misura dell'intelligenza è data dalla capacità di cambiare quando è necessario.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	misura	misura	NOUN	S	Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+3-4	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+3	di	di	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	intelligenza	intelligenza	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	data	dare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	capacità	capacità	NOUN	S	Gender=Fem	7	obl:agent	_	_
+11	di	di	ADP	E	_	12	mark	_	_
+12	cambiare	cambiare	VERB	V	VerbForm=Inf	10	acl	_	_
+13	quando	quando	SCONJ	CS	_	15	mark	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	necessario	necessario	ADJ	A	Gender=Masc|Number=Sing	12	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = #sapevatelo #thatslife
+1	#sapevatelo	#sapevatelo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#thatslife	#thatslife	NOUN	S	_	0	root	_	SpacesAfter=\n
+

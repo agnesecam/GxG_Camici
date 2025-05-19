@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rippotuti buongiorno a te carissimo!
+1	@rippotuti	@rippotere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	buongiorno	buongiorno	ADV	B	_	5	advmod	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+5	carissimo	caro	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sempre e solo Forza Milan!Anche se fossimo in serie C, non smetterei di amare questi colori!
+1	Sempre	sempre	ADV	B	_	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	solo	solo	ADV	B	_	4	advmod	_	_
+4	Forza	forza	PROPN	SP	_	1	conj	_	_
+5	Milan	Milan	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	!Anche	!Anche	ADV	B	_	14	advmod	_	_
+7	se	se	SCONJ	CS	_	14	mark	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	aux	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	serie	serie	NOUN	S	Gender=Fem	14	obl	_	_
+11	C	C	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	10	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	smetterei	smettere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+15	di	di	ADP	E	_	16	mark	_	_
+16	amare	amare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
+18	colori	colore	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " Finche ' eravamo giovani era tutta un'altra cosa chissà perché?
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	Finche	Finche	PROPN	SP	_	5	nsubj	_	_
+3	'	'	PUNCT	FB	_	2	punct	_	_
+4	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	giovani	giovane	ADJ	A	Number=Plur	0	root	_	_
+6	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+7	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	10	det:predet	_	_
+8	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+9	altra	altro	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+11	chissà	chissà	ADV	B	_	12	advmod	_	_
+12	perché	perché	ADV	B	_	5	advmod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...chissà perché!
+1	...chissà	...chissà	ADV	B	_	2	advmod	_	_
+2	perché	perché	ADV	B	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Forse eravamo "stupidi" però... http:// fb.me/16iQJMVt1
+1	Forse	forse	ADV	B	_	4	advmod	_	_
+2	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	stupidi	stupidio	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	però...	però...	NOUN	S	_	4	parataxis	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	fb.me/16iQJMVt1	fb.me/16iQJMVt1	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

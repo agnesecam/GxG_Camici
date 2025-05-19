@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alessiotacconi e tutte quelle leggi depositate ?
+1	@alessiotacconi	@alessiotaccone	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	4	det	_	_
+4	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	1	conj	_	_
+5	leggi	legge	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+6	depositate	depositato	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Non c'è scritto niente ?
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj:pass	_	_
+6	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Tu ne facevi parte:
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	parte	parte	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 4
+# text = non eri a conoscenza delle leggi depositate?
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	eri	ero	ADV	B	_	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	conoscenza	conoscenza	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	depositate	depositato	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

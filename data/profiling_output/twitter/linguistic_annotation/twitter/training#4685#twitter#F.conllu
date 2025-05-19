@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quindi il professor Rho, licenziato e reintegrato dovrà comunque subire la condanna ai servizi sociali per... http:// fb.me/3WnQQvcZc
+1	Quindi	quindi	ADV	B	_	11	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	professor	professore	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+4	Rho	Rho	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	licenziato	licenziato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	reintegrato	reintegrato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+10	comunque	comunque	ADV	B	_	11	advmod	_	_
+11	subire	subire	VERB	V	VerbForm=Inf	0	root	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	condanna	condanna	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+14-15	ai	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+17	sociali	sociale	ADJ	A	Number=Plur	16	amod	_	_
+18	per...	per.	PUNCT	FS	_	19	punct	_	_
+19	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	_
+22	fb.me/3WnQQvcZc	fb.me/3WnQQvcZc	PROPN	SP	_	11	obl	_	SpacesAfter=\n
+

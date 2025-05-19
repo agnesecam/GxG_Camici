@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni mattino un disegnatore si sveglia e sa che dovrà lavorare quanto basta per tentare di limitare il desiderio... http:// fb.me/7m9WBjJ8C
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	mattino	mattino	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	disegnatore	disegnatore	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+9	che	che	SCONJ	CS	_	11	mark	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	lavorare	lavorare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+12	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	_
+13	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	tentare	tentare	VERB	V	VerbForm=Inf	13	advcl	_	_
+16	di	di	ADP	E	_	17	mark	_	_
+17	limitare	limitare	VERB	V	VerbForm=Inf	15	ccomp	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	desiderio...	desiderio...	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/7m9WBjJ8C	fb.me/7m9WBjJ8C	PROPN	SP	_	6	obj	_	SpacesAfter=\n
+

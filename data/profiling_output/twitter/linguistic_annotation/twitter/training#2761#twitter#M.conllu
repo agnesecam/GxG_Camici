@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Luxuria fa sembrare #bosco intelligente a confronto - una vergogna per la sinistra #isola
+1	#Luxuria	#Luxuria	PROPN	SP	_	2	nsubj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	#bosco	#bosco	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+5	intelligente	intelligente	ADJ	A	Number=Sing	4	amod	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	confronto	confronto	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	-	-	PUNCT	FB	_	10	punct	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	3	xcomp	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	#isola	#isolo	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpacesAfter=\n
+

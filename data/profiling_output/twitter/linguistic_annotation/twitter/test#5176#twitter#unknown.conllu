@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sei troppo bello, hai intenzione di uscire con qualcuna ?
+1	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	troppo	troppo	ADV	B	_	3	advmod	_	_
+3	bello	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	intenzione	intenzione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	uscire	uscire	VERB	V	VerbForm=Inf	6	acl	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	obl	_	_
+11	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = — boh vediamo https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM7SNTJPQORPZ6VB7JJHTKBYVURAR4YJIIPIEYWXBTKSYPKHYBJNVT2WKQRJ57M3FAK32KZBBGWIIERFKKBN3CEI7CJSEC4IG5TSRPTUTDTT2Z6HAV2DMH5UUQLGNDIT3C7XOXT6E2Z6CVXYLXTKT2GUOBD5XVBH5J3BY2F2H7XI5LSES4VFLPHSBO …
+1	—	—	PUNCT	FF	_	3	punct	_	_
+2	boh	boh	INTJ	I	_	3	discourse	_	_
+3	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	https:	https:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	3	nsubj	_	_
+8	7B667HQMHN2IG6NM7SNTJPQORPZ6VB7JJHTKBYVURAR4YJIIPIEYWXBTKSYPKHYBJNVT2WKQRJ57M3FAK32KZBBGWIIERFKKBN3CEI7CJSEC4IG5TSRPTUTDTT2Z6HAV2DMH5UUQLGNDIT3C7XOXT6E2Z6CVXYLXTKT2GUOBD5XVBH5J3BY2F2H7XI5LSES4VFLPHSBO	7B667HQMHN2IG6NM7SNTJPQORPZ6VB7JJHTKBYVURAR4YJIIPIEYWXBTKSYPKHYBJNVT2WKQRJ57M3FAK32KZBBGWIIERFKKBN3CEI7CJSEC4IG5TSRPTUTDTT2Z6HAV2DMH5UUQLGNDIT3C7XOXT6E2Z6CVXYLXTKT2GUOBD5XVBH5J3BY2F2H7XI5LSES4VFLPHSBO	PROPN	SP	_	7	flat:name	_	_
+9	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gabrix_90 3 giorni fa ennesimo attacco a tempo libero:
+1	@gabrix_90	@gabrix_90	NUM	N	NumType=Card	3	nummod	_	_
+2	3	3	NUM	N	NumType=Card	3	nummod	_	_
+3	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+4	fa	fa	ADV	B	_	3	advmod	_	_
+5	ennesimo	ennesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	attacco	attacco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	libero	libero	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = vittime tutte musulmane.
+1	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	tutte	tutto	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	musulmane	musulmano	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Dunque ?
+1	Dunque	dunque	ADV	B	_	0	root	_	_
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = @marioadinolfi
+1	@marioadinolfi	@marioadinolfo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

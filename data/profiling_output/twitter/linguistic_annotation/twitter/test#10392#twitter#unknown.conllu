@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = a #milano le auto elettriche di @Share_N_Go in #carsharing sono assai diffuse.
+1	a	a	ADP	E	_	2	case	_	_
+2	#milano	#milare	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	auto	auto	NOUN	S	Gender=Fem	12	nsubj	_	_
+5	elettriche	elettrico	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	@Share_N_Go	@Share_N_Go	PROPN	SP	_	4	nmod	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	#carsharing	#carsharing	NOUN	S	Gender=Masc	4	nmod	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	assai	assai	ADV	B	_	12	advmod	_	_
+12	diffuse	diffuso	ADJ	A	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/Share_N_Go/sta tus/718426004855865344 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/Share_N_Go/sta	twitter.com/Share_N_Go/sta	PROPN	SP	_	0	root	_	_
+5	tus/718426004855865344	tus/718426004855865344	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

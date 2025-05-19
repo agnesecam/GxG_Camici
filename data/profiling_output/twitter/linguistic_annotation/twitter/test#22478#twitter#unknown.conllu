@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Facessi l' #isola vorrei stare tutto il tempo a uccello all' aria ad #IslaDesnuda anche io.
+1	Facessi	Facettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	#isola	#isola	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+6	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	8	det:predet	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	uccello	uccello	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+11-12	all'	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	aria	aria	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	ad	a	ADP	E	_	15	case	_	_
+15	#IslaDesnuda	#IslaDesnuda	PROPN	SP	_	17	nmod	_	_
+16	anche	anche	ADV	B	_	17	advmod	_	_
+17	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non affannatevi dunque per domani perchè domani avrà già le sue inquietudini.A ciascun giorno la sua pena.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	affannatevi	affannare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dunque	dunque	ADV	B	_	2	advmod	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	domani	domani	ADV	B	_	2	advmod	_	_
+6	perchè	perché	SCONJ	CS	_	8	mark	_	_
+7	domani	domani	ADV	B	_	8	advmod	_	_
+8	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+9	già	già	ADV	B	_	8	advmod	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	inquietudini.A	inquietudini.A	PROPN	SP	_	8	obj	_	_
+13	ciascun	ciascuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+14	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	pena	pena	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = B.Notte pic.twitter.com/erfY0dDqOy
+1	B.Notte	B.Notta	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/erfY0dDqOy	pic.twitter.com/erfY0dDqOy	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

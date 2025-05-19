@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ultimenotizie #Marino sparla del pd ma ha ancora la loro tessera.Magari stava in galera se non ce l'avesse avuta .Un ho sbagliato no?
+1	@ultimenotizie	@ultimenotizia	ADP	E	_	2	case	_	_
+2	#Marino	#Marino	PROPN	SP	_	3	obl	_	_
+3-4	sparla	_	_	_	_	_	_	_	_
+3	spar	spare	VERB	V	VerbForm=Inf	0	root	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pd	pd	NOUN	S	Gender=Masc	3	obl	_	_
+8	ma	ma	CCONJ	CC	_	9	cc	_	_
+9	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	ancora	ancora	ADV	B	_	9	advmod	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	loro	loro	DET	AP	Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	tessera.Magari	tessera.Magari	PROPN	SP	_	14	nsubj	_	_
+14	stava	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	galera	galera	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	se	se	SCONJ	CS	_	22	mark	_	_
+18	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+19	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+20	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	22	obj	_	SpaceAfter=No
+21	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
+22	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	25	advcl	_	_
+23	.Un	.Un	PROPN	SP	_	22	nsubj	_	_
+24	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	sbagliato	sbagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	xcomp	_	_
+26	no	no	ADV	BN	PronType=Neg	25	advmod	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = non lei
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	0	root	_	SpacesAfter=\n
+

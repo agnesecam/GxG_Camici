@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ieri ho bloccato una perchè stavate facendo tutti i cita e rispondi di quella ahahah
+1	Ieri	ieri	ADV	B	_	3	advmod	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	bloccato	bloccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	obj	_	_
+5	perchè	perchè	SCONJ	CS	_	7	mark	_	_
+6	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	facendo	fare	VERB	V	VerbForm=Ger	3	advcl	_	_
+8	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det:predet	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	cita	cita	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	rispondi	rispondo	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	12	nmod	_	_
+15	ahahah	ahahah	INTJ	I	_	3	punct	_	SpacesAfter=\n
+

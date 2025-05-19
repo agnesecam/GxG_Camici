@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vi comportate come se avessimo già perso.
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	obj	_	_
+2	comportate	comportare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	ADV	B	_	7	advmod	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	perso.	perso.	ADJ	A	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = bah... non ho parole #FinoallaFineForzaJuventus #abbiamodettofinoallafineefinoallafinesarà
+1	bah...	bah.	PUNCT	FF	_	3	punct	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+4	parole	parola	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+5	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	FinoallaFineForzaJuventus	FinoallaFineForzaJuventus	PROPN	SP	_	4	nmod	_	_
+7	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	abbiamodettofinoallafineefinoallafinesarà	esabbiamodettofinoallafineefinoallafinesere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

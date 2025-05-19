@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'augurio per ciascuna di noi: forza, autenticita', coraggio, gioia.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	augurio	augurio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	ciascuna	ciascuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	6	punct	_	_
+8	forza	forza	NOUN	S	Gender=Fem|Number=Sing	6	appos	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	autenticita	autenticita	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+11	'	'	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	gioia	gioia	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #buonafestadelladonna
+1	#buonafestadelladonna	#buonafestadelladonna	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

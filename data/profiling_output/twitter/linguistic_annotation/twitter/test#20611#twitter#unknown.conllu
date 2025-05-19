@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io glielo metto e tu ?
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2-3	glielo	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	metto	mettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	conj	_	_
+7	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2I5taVlxr
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2I5taVlxr	fb.me/2I5taVlxr	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

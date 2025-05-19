@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @wavingfeather se io e @flosdrums fossimo autori di decento avremo mezz'ora di kabby e dieci minuti degli altri a cui in fondo vogliamo bene
+1	@wavingfeather	@wavingfeathere	VERB	V	VerbForm=Inf	0	root	_	_
+2	se	se	SCONJ	CS	_	7	mark	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	@flosdrums	@flosdrums	PROPN	SW	Foreign=Yes	3	conj	_	_
+6	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	autori	autore	NOUN	S	Gender=Masc|Number=Plur	1	advcl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	decento	decento	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+10	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	7	acl	_	_
+11	mezz'	mezzo	ADP	E	_	12	case	_	SpaceAfter=No
+12	ora	ora	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	kabby	kabby	NOUN	S	Gender=Masc	12	nmod	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	dieci	dieci	NUM	N	NumType=Card	17	nummod	_	_
+17	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	_
+18-19	degli	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	17	nmod	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	cui	cui	PRON	PR	PronType=Rel	25	obl	_	_
+23	in	in	ADP	E	_	24	case	_	_
+24	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	_
+25	vogliamo	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+26	bene	bene	ADV	B	_	25	advmod	_	SpacesAfter=\n
+

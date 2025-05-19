@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mariamastrangel @matteorenzi un prezzo per le decision I va pagato.alle prossime cambieremo confermeremo.chi vincerà dovrà poter comandare
+1	@mariamastrangel	@mariamastrangel	NOUN	S	Gender=Masc	8	nmod	_	_
+2	@matteorenzi	@matteorenzi	ADP	E	_	4	case	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	prezzo	prezzo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	decision	decision	NOUN	S	Gender=Fem	4	nmod	_	_
+8	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+10	pagato.alle	pagato.alla	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	_
+11	prossime	prossimo	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+12	cambieremo	cambiare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	13	cop	_	_
+13	confermeremo.chi	confermeremo.co	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	14	nsubj	_	_
+14	vincerà	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	parataxis	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+16	poter	potere	AUX	VM	VerbForm=Inf	17	aux	_	_
+17	comandare	comandare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

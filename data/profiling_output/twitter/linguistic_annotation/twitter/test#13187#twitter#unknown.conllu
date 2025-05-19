@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GiuliaRaimondi4 Uhmmm.
+1	@GiuliaRaimondi4	@GiuliaRaimondi4	PROPN	SP	_	0	root	_	_
+2	Uhmmm.	Uhmmm.	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..secondo me,non sono proprio nel cervello,ma un pochetto piu in basso!
+1	..secondo	..secondo	ADP	E	_	2	case	_	_
+2	me,non	me,non	NOUN	S	Gender=Masc	7	obl	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	proprio	proprio	ADV	B	_	7	advmod	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cervello,ma	cervello,ma	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pochetto	pochetto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	piu	piu	NOUN	S	Gender=Masc	9	compound	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	basso	basso	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = E ne deve avere pure parecchi !
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+5	pure	pure	ADV	B	_	6	advmod	_	_
+6	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

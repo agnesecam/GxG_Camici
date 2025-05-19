@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GalantoMassimo La De Filippi che chiama Morgan 'Marco', sì abbiamo capito, siete diventati amici.
+1	@GalantoMassimo	@GalantoMassimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	De	De	PROPN	SP	_	1	obj	_	_
+4	Filippi	Filippi	PROPN	SP	_	3	flat:name	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	Morgan	Morgan	PROPN	SP	_	6	obj	_	_
+8	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	Marco	Marco	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+10	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	sì	sì	ADV	B	_	14	advmod	_	_
+13	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	diventati	diventare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	_
+18	amici	amico	NOUN	S	Gender=Masc|Number=Plur	17	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Finché dura.
+1	Finché	finché	ADV	B	_	2	advmod	_	_
+2	dura	duro	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #Amici15
+1	#Amici15	#Amici15	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

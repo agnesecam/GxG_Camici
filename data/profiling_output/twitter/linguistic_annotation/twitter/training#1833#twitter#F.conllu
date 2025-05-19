@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @catlatorre Insomma è vero che le loro idee continuano a camminare sulle nostre gambe ! #Falcone #Borsellino
+1	@catlatorre	@catlatorre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Insomma	insomma	ADV	B	_	1	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	vero	vero	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	loro	loro	DET	AP	Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	idee	idea	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+9	continuano	continuare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	camminare	camminare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12-13	sulle	_	_	_	_	_	_	_	_
+12	su	su	ADP	E	_	15	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	gambe	gamba	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+16	!	!	PUNCT	FS	_	9	punct	_	_
+17	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+18	Falcone	Falcone	PROPN	SP	_	9	nsubj	_	_
+19	#Borsellino	#Borsellino	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

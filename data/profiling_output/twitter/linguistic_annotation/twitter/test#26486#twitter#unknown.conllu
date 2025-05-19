@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perché non parlare di #startup in prima serata!?
+1	Perché	perché	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	#startup	#startup	NOUN	S	Gender=Fem	3	obl	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
+8	serata	serata	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Avremo un minimo di tv virtuosa?
+1	Avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	minimo	minimo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	tv	tv	NOUN	S	Gender=Fem	3	nmod	_	_
+6	virtuosa	virtuoso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #start2016
+1	#start2016	#start2016	SYM	X	_	0	root	_	SpacesAfter=\n
+

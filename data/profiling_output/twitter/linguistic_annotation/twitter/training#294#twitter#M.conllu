@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Saremmo persone più felici se avessimo come migliore amica LALLA #latata pic.twitter.com/u7JJXt5kPR
+1	Saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	felici	felice	ADJ	A	Number=Plur	2	amod	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	9	amod	_	_
+9	amica	amico	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	LALLA	LALLA	PROPN	SP	_	6	obj	_	_
+11	#latata	#latare	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	pic.twitter.com/u7JJXt5kPR	pic.twitter.com/u7JJXt5kPR	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

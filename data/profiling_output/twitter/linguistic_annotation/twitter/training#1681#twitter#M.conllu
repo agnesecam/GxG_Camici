@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 3giornate alla fine,il destino è nelle nostre mani!Bisogna essere coraggiosi e decisi,già da domani in casa vs Antoniana!
+1	3giornate	3giornare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	5	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	fine,il	fine,il	ADJ	A	_	5	amod	_	_
+5	destino	destino	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+7-8	nelle	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	mani	mano	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+11	!Bisogna	!Bisogna	PROPN	SP	_	13	nsubj	_	_
+12	essere	essere	AUX	VA	VerbForm=Inf	13	cop	_	_
+13	coraggiosi	coraggioso	ADJ	A	Gender=Masc|Number=Plur	10	ccomp	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15	decisi,già	decisi,già	ADV	B	_	17	advmod	_	_
+16	da	da	ADP	E	_	17	case	_	_
+17	domani	domani	ADV	B	_	13	conj	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	casa	casa	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+20	vs	vs	PROPN	SW	Foreign=Yes	19	nmod	_	_
+21	Antoniana	Antoniana	PROPN	SP	_	20	flat:name	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

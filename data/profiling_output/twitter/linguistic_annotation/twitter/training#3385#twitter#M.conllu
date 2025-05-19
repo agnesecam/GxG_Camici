@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Eccoci!
+1-2	Eccoci	_	_	_	_	_	_	_	SpaceAfter=No
+1	Ecco	ecco	ADV	B	_	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	expl	_	_
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Al teatro D. Peppe Diana #Portici andremo in scena con Farà giorno.
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	teatro	teatro	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+4	D.	D.	PROPN	SP	_	3	nmod	_	_
+5	Peppe	Peppe	PROPN	SP	_	4	flat:name	_	_
+6	Diana	Diana	PROPN	SP	_	4	flat:name	_	_
+7	#Portici	#Portici	PROPN	SP	_	4	flat:name	_	_
+8	andremo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	scena	scena	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+11	con	con	ADP	E	_	12	mark	_	_
+12	Farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	advcl	_	_
+13	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = Una commedia emozionante!
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	commedia	commedia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	emozionante	emozionante	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = #Faràgiorno pic.twitter.com/N7VkFrw5lA
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Faràgiorno	Faràgiorno	PROPN	SP	_	0	root	_	_
+3	pic.twitter.com/N7VkFrw5lA	pic.twitter.com/N7VkFrw5lA	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma tutte il ciclo hanno le directioner?
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	4	det:predet	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ciclo	ciclo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	directioner	directioner	NOUN	S	_	5	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = come farei senza di voi che mi fate divertire vi amo https:// twitter.com/_WhiteLovee/st atus/717049807781625857 …
+1	come	come	ADV	B	_	2	advmod	_	_
+2	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	senza	senza	ADP	E	_	5	case	_	_
+4	di	di	ADP	E	_	3	fixed	_	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	divertire	divertire	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	11	iobj	_	_
+11	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	twitter.com/_WhiteLovee/st	twitter.com/_WhiteLovee/st	PROPN	SP	_	11	obj	_	_
+16	atus/717049807781625857	atus/717049807781625857	NUM	N	NumType=Card	15	nummod	_	_
+17	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

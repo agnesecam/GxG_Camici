@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vittoriozucconi @SandroSca @LucianoSiri68 Mica tanto:
+1	@vittoriozucconi	@vittoriozuccone	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@SandroSca	@SandroSca	PROPN	SP	_	1	nmod	_	_
+3	@LucianoSiri68	@LucianoSiri68	PROPN	SP	_	2	flat:name	_	_
+4	Mica	Mica	PROPN	SP	_	2	flat:name	_	_
+5	tanto	tanto	ADV	B	_	1	advmod	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = avessero dato quel rigore su Pogba forse racconteremmo una storia diversa...
+1	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	rigore	rigore	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	Pogba	Pogba	PROPN	SP	_	4	nmod	_	_
+7	forse	forse	ADV	B	_	8	advmod	_	_
+8	racconteremmo	racconteere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	storia	storia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	diversa...	diversa.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

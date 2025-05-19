@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Non è accettabile inculcare le dottrine religiose ai bambini, in un’età in cui essi non hanno né interesse per... http:// fb.me/806ytC31H
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	accettabile	accettabile	ADJ	A	Number=Sing	0	root	_	_
+5	inculcare	inculcare	VERB	V	VerbForm=Inf	4	csubj	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	dottrine	dottrine	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	religiose	religioso	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	un’	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	età	età	NOUN	S	Gender=Fem	11	obl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	cui	cui	PRON	PR	PronType=Rel	20	obl	_	_
+18	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+21	né	né	CCONJ	CC	_	22	cc	_	_
+22	interesse	interere	NOUN	S	Gender=Masc|Number=Sing	20	conj	_	_
+23	per...	per...	PUNCT	FS	_	22	punct	_	_
+24	http:	http:	PUNCT	FS	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	15	punct	_	_
+27	fb.me/806ytC31H	fb.me/806ytC31H	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Nandonandi sì si, anche se pensavo l' avessero rimesso a posto
+1	@Nandonandi	@Nandonandi	CCONJ	CC	_	7	cc	_	_
+2	sì	sì	ADV	B	_	7	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	anche	anche	ADV	B	_	7	mark	_	_
+6	se	se	SCONJ	CS	_	5	fixed	_	_
+7	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	rimesso	rimettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	posto	posto	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpacesAfter=\n
+

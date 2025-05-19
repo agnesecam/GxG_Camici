@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il fatto che vederti mi faccia salire il vomito mi rallegra assai
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4-5	vederti	_	_	_	_	_	_	_	_
+4	veder	vedere	VERB	V	VerbForm=Inf	2	acl	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+7	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	salire	salire	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	vomito	vomito	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+12	rallegra	rallegra	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	assai	assai	ADV	B	_	12	advmod	_	SpacesAfter=\n
+

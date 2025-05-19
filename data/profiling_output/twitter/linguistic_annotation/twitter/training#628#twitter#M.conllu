@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FabRavezzani mah.
+1	@FabRavezzani	@FabRavezzano	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	mah.	mah.	NOUN	S	Gender=Masc	1	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..io credo che se avessimo la rosa del Barca non ci sarebbero arbitri che tengano
+1	..io	..io	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	13	mark	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	rosa	rosa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Barca	barca	PROPN	SP	_	7	nmod	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	_
+13	sarebbero	essere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+14	arbitri	arbitro	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	tengano	tenere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NicolaCorda ... certo, partendo dallo straordinario lavoro di moltissimi
+1	@NicolaCorda	@NicolaCorda	PROPN	SP	_	0	root	_	_
+2	...	...	PUNCT	FF	_	1	punct	_	_
+3	certo	certo	ADV	B	_	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	partendo	partire	VERB	V	VerbForm=Ger	1	advcl	_	_
+6-7	dallo	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	9	case	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	straordinario	straordinario	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	moltissimi	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	1	nmod	_	SpacesAfter=\n
+

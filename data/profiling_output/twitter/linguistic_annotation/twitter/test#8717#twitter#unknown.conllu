@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @anto_matrella @domenicalive io nn sono contrario alla chemio ma neppure alle nuove terapie ognuno dovrebbe esser libero d scegliere.
+1	@anto_matrella	@anto_matrella	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	@domenicalive	@domenicalive	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+4	nn	nn	ADV	B	_	6	advmod	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	contrario	contrario	ADJ	A	Gender=Fem|Number=Sing	2	advcl	_	_
+7-8	alla	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	chemio	chemio	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	ma	ma	CCONJ	CC	_	18	cc	_	_
+11	neppure	neppure	ADV	BN	PronType=Neg	18	advmod	_	_
+12-13	alle	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	15	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	nuove	nuovo	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+15	terapie	terapia	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	_
+16	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	18	nsubj	_	_
+17	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	esser	essere	VERB	V	VerbForm=Inf	6	conj	_	_
+19	libero	libero	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+20	d	d	NOUN	S	_	21	obj	_	_
+21	scegliere	scegliere	VERB	V	VerbForm=Inf	18	ccomp	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

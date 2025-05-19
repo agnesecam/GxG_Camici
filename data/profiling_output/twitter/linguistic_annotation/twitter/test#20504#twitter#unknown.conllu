@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #DanieleSilvestri "quello che cerchi si trova nel fondo di chi hai davanti " #acrobatiintour pic.twitter.com/cuFkFvd5Lx
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	DanieleSilvestri	DanieleSilvestri	PROPN	SP	_	8	nsubj	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+6	cerchi	cercare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	chi	chi	PRON	PR	PronType=Rel	11	nmod	_	_
+14	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+15	davanti	davanti	ADV	B	_	17	mark	_	_
+16	"	"	PUNCT	FB	_	17	punct	_	_
+17	#acrobatiintour	#acrobatiintour	VERB	V	VerbForm=Inf	14	xcomp	_	_
+18	pic.twitter.com/cuFkFvd5Lx	pic.twitter.com/cuFkFvd5Lx	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

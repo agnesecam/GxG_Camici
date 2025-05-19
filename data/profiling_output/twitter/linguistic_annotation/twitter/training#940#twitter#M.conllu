@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cari compagni Siete tutti volati via, rubati dalla furia del tempo, cari compagni dei miei anni più verdi, di... http:// fb.me/L0La5CuM
+1	Cari	caro	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+2	compagni	compagno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
+5	volati	volare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+6	via	via	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	rubati	rubare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	furia	furia	NOUN	S	Gender=Fem|Number=Sing	8	obl:agent	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	11	punct	_	_
+16	cari	caro	NOUN	S	Gender=Masc|Number=Plur	11	appos	_	_
+17	compagni	compagno	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18-19	dei	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	21	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+20	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	anni	anno	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	_
+22	più	più	ADV	B	_	23	advmod	_	_
+23	verdi	verde	ADJ	A	Number=Plur	21	amod	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	25	punct	_	_
+25	di...	di.	NOUN	S	_	16	conj	_	_
+26	http:	http:	PUNCT	FC	_	25	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	5	punct	_	_
+29	fb.me/L0La5CuM	fb.me/L0La5CuM	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

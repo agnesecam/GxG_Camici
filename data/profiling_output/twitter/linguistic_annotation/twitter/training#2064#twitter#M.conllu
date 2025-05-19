@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Molto bene il romano della Speed Up che dimezza il gap dallo spagnolo http:// fb.me/wNdEokdW
+1	Molto	molto	ADV	B	_	2	advmod	_	_
+2	bene	bene	ADV	B	_	4	advmod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	romano	romano	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Speed	Speed	PROPN	SP	_	4	nmod	_	_
+8	Up	Up	PROPN	SP	_	7	flat:name	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	dimezza	dimezzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	gap	gap	NOUN	S	Gender=Masc	10	obj	_	_
+13-14	dallo	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	spagnolo	spagnolo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	7	punct	_	_
+19	fb.me/wNdEokdW	fb.me/wNdEokdW	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

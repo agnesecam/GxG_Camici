@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mlle_Bennet sapevi che avresti concordato con me... ahahahaha!
+1	@Mlle_Bennet	@Mlle_Bennet	NOUN	S	Gender=Masc	0	root	_	_
+2	sapevi	sapere	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+4	avresti	avredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	concordato	concordare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	me...	me...	NOUN	S	_	5	obl	_	_
+8	ahahahaha	ahahahaha	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Anche se comparirà in parecchi flashback temo
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	comparirà	comparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	flashback	flashback	NOUN	S	Gender=Masc	3	obl	_	_
+7	temo	temere	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpacesAfter=\n
+

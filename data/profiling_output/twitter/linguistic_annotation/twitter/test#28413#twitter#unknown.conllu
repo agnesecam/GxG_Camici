@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Facciamocome a parte, v’immaginate come saremmo messi noi ore, se la Magistratura fosse intervenuta come quella brasiliana?
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Facciamocome	Facciamocome	ADV	B	_	7	advmod	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	v’	vo	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	SpaceAfter=No
+7	immaginate	immaginare	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+8	come	come	ADP	E	_	9	case	_	_
+9	saremmo	essere	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+12	ore	ora	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	7	punct	_	_
+14	se	se	SCONJ	CS	_	18	mark	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Magistratura	magistratura	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+17	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	intervenuta	intervenire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+19	come	come	ADP	E	_	20	case	_	_
+20	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	18	obl	_	_
+21	brasiliana	brasiliano	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = @EuroMasochismo
+1	@EuroMasochismo	@EuroMasochismo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

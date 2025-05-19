@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io capisco non assecondare i capricci di un bambino,ma se questo piange ininterrottamente da 30 minuti glieli dó io 2 ceffoni volentieri...
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	capisco	capisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	assecondare	assecondare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	capricci	capriccio	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bambino,ma	bambino,ma	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	se	se	SCONJ	CS	_	12	mark	_	_
+11	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+12	piange	piangere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	ininterrottamente	ininterrottamente	ADV	B	_	12	advmod	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	30	30	NUM	N	NumType=Card	16	nummod	_	_
+16	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	_
+17-18	glieli	_	_	_	_	_	_	_	_
+17	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	_
+18	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	obj	_	_
+19	dó	dó	PROPN	SP	_	12	obj	_	_
+20	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+21	2	2	NUM	N	NumType=Card	22	nummod	_	_
+22	ceffoni	ceffone	NOUN	S	Gender=Masc|Number=Plur	19	advcl	_	_
+23	volentieri...	volentieri.	PUNCT	FS	_	19	punct	_	SpacesAfter=\n
+

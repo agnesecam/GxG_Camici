@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come avrete notato, pubblico foto di vario genere, questo perché non riesco a scegliere un genere fotografico in... http:// fb.me/1kKSKNqkT
+1	Come	come	SCONJ	CS	_	3	mark	_	_
+2	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	notato	notare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	pubblico	pubblico	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	foto	foto	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	vario	vario	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	genere	genere	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	_
+12	perché	perché	SCONJ	CS	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	scegliere	scegliere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	genere	genere	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19	fotografico	fotografico	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+20	in...	in.	PUNCT	FF	_	19	punct	_	_
+21	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	fb.me/1kKSKNqkT	fb.me/1kKSKNqkT	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

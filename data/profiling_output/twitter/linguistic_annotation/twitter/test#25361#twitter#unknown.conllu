@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pompei: autopsia sui calchi dei cadaveri.
+1	Pompei	Pompei	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	autopsia	autopsia	CCONJ	CC	_	6	cc	_	_
+4-5	sui	_	_	_	_	_	_	_	_
+4	su	su	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	calchi	calco	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+7-8	dei	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	cadaveri	cadavere	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = La causa della morte non furono cenere e lapilli, ma… http://www.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	causa	causa	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	morte	morte	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+8	cenere	cenere	VERB	V	VerbForm=Inf	0	root	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	lapilli	lapillo	ADJ	A	Number=Plur	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	ma…	ma…	PUNCT	FF	_	13	punct	_	_
+13	http://www	http://www	X	SW	Foreign=Yes	8	conj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = stilearte.it/pompei-autopsi a-sui-calchi-dei-cadaveri-la-causa-della-morte-non-furono-cenere-e-lapilli-ma/ …
+1	stilearte.it/pompei-autopsi	stilearte.it/pompei-autopso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	a-sui	a-suo	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
+3	-calchi-dei	-calchi-de	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	cadaveri-la	cadaveri-la	X	SW	Foreign=Yes	1	nmod	_	SpaceAfter=No
+6	-causa-della-morte-non	-causa-della-morte-non	X	SW	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	furono	essere	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	cenere	cenere	NOUN	S	Gender=Masc|Number=Sing	8	compound	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+12	e-	_	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	lapilli-ma	lapilli-ma	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	…	…	PUNCT	FF	_	13	punct	_	SpacesAfter=\n
+

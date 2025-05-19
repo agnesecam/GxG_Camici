@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #notizie #cronaca La rivincita di Englaro:
+1	#notizie	#notizia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#cronaca	#cronacare	ADP	E	_	4	case	_	_
+3	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	rivincita	rivincita	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Englaro	Englaro	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Adesso nessuno soffrirà più come noi":
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Adesso	adesso	ADV	B	_	4	advmod	_	_
+3	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+4	soffrirà	soffrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	più	più	ADV	B	_	4	advmod	_	_
+6	come	come	ADP	E	_	7	case	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	obl	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 3
+# text = La Regione Lombardia dovrà ... http:// bit.ly/1VG4Hfz
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Regione	regione	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	Lombardia	Lombardia	PROPN	SP	_	2	nmod	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	cop	_	_
+5	...	...	PUNCT	FF	_	4	punct	_	_
+6	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	bit.ly/1VG4Hfz	bit.ly/1VG4Hfz	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

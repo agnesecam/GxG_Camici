@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forse le notizie possono esser manipolate o taciute perché la realtà interessa a pochi e le governance lo sanno bene https:// twitter.com/marcogatto54/s tatus/716814375701577728 …
+1	Forse	forse	ADV	B	_	6	advmod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	notizie	notizia	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+4	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	esser	essere	AUX	VA	VerbForm=Inf	6	aux	_	_
+6	manipolate	manipolare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	o	o	CCONJ	CC	_	8	cc	_	_
+8	taciute	tacere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	conj	_	_
+9	perché	perché	SCONJ	CS	_	8	mark	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	realtà	realtà	NOUN	S	Gender=Fem	9	obj	_	_
+12	interessa	interesso	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	obl	_	_
+15	e	e	CCONJ	CC	_	19	cc	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	governance	governance	NOUN	S	Gender=Fem|Number=Plur	19	nsubj	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+20	bene	bene	ADV	B	_	19	advmod	_	_
+21	https:	https:	PUNCT	FS	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	twitter.com/marcogatto54/s	twitter.com/marcogatto54/s	NOUN	S	Gender=Fem|Number=Plur	19	nsubj	_	_
+25	tatus/716814375701577728	tatus/716814375701577728	NUM	N	NumType=Card	24	nummod	_	_
+26	…	…	PUNCT	FF	_	19	punct	_	SpacesAfter=\n
+

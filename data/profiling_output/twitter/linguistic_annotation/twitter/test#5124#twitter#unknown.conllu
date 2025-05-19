@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ernestocarbone siete stati SVERGOGNATI a Napoli mentre facevate voto di scambio, e ancora parlate?
+1	@ernestocarbone	@ernestocarbone	NOUN	S	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+2	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	aux:pass	_	_
+4	SVERGOGNATI	Svergognare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Napoli	Napoli	PROPN	SP	_	4	obl	_	_
+7	mentre	mentre	SCONJ	CS	_	8	mark	_	_
+8	facevate	facevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	voto	voto	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	scambio	scambio	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	ancora	ancora	ADV	B	_	15	advmod	_	_
+15	parlate	parlato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #DenunciamoIlPD che denuncia giornalisti
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	DenunciamoIlPD	DenunciamoIlPD	PROPN	SP	_	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	denuncia	denunciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpacesAfter=\n
+

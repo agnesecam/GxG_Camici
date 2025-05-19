@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E sul referendum del 17 aprile solo il #PD in Sardegna si attiene agli ordini di scuderia.
+1	E	e	CCONJ	CC	_	15	cc	_	_
+2-3	sul	_	_	_	_	_	_	_	_
+2	su	su	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	referendum	referendum	NOUN	S	Gender=Masc	15	obl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	17	17	NUM	N	NumType=Card	4	nmod	_	_
+8	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	7	flat	_	_
+9	solo	solo	ADV	B	_	11	advmod	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	#PD	#PD	PROPN	SP	_	15	nsubj	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	Sardegna	Sardegna	PROPN	SP	_	11	nmod	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	attiene	attenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16-17	agli	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	ordini	ordine	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	scuderia	scuderia	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = La testa x pensare è optional.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	testa	testa	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	x	x	SYM	SYM	_	2	nmod	_	_
+4	pensare	pensare	VERB	V	VerbForm=Inf	6	csubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	optional	optional	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Zedda che fara ?
+1	Zedda	Zeddo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	fara	farare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

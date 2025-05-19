@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Simone_Dela non è essere snob, vorrei solo capire perché , se ha un senso cambiare lettera, in alcuni casi per me no.
+1	@Simone_Dela	@Simone_Dela	PROPN	SP	_	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+5	snob	snob	ADJ	A	_	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	solo	solo	ADV	B	_	9	advmod	_	_
+9	capire	capire	VERB	V	VerbForm=Inf	5	conj	_	_
+10	perché	perché	SCONJ	CS	_	13	mark	_	_
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	se	se	SCONJ	CS	_	13	mark	_	_
+13	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	senso	senso	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	cambiare	cambiare	VERB	V	VerbForm=Inf	15	acl	_	_
+17	lettera	lettera	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	16	punct	_	_
+19	in	in	ADP	E	_	21	case	_	_
+20	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	21	det	_	_
+21	casi	caso	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	_
+22	per	per	ADP	E	_	23	case	_	_
+23	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nmod	_	_
+24	no	no	ADV	BN	PronType=Neg	23	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Serve a poco lamentare le contingenti condizioni economiche, quando gli occhi furono chiusi davanti alla... http:// fb.me/5fryvOOhw
+1	Serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	mark	_	_
+3	poco	poco	ADV	B	_	4	advmod	_	_
+4	lamentare	lamentare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	contingenti	contingente	ADJ	A	Number=Plur	7	amod	_	_
+7	condizioni	condizione	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	economiche	economico	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	quando	quando	SCONJ	CS	_	14	mark	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	14	nsubj:pass	_	_
+13	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	_	_
+14	chiusi	chiudere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+15	davanti	davanti	ADP	E	_	16	case	_	_
+16	alla...	alla.	NOUN	S	_	14	obl	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	fb.me/5fryvOOhw	fb.me/5fryvOOhw	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sfoggia le nostre meraviglie in questa primavera 󾬑 Camicina rossa Short Lewis Coroncina rossa florele Sandali...
+1	Sfoggia	Sfoggiare	ADV	B	_	4	advmod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	meraviglie	meraviglia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	primavera	primavera	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	󾬑	󾬑	PROPN	SP	_	4	nmod	_	_
+9	Camicina	Camicina	PROPN	SP	_	8	flat:name	_	_
+10	rossa	rosso	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+11	Short	Short	PROPN	SP	_	4	nmod	_	_
+12	Lewis	Lewis	PROPN	SP	_	11	flat:name	_	_
+13	Coroncina	Coroncina	PROPN	SP	_	11	flat:name	_	_
+14	rossa	rosso	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+15	florele	florele	ADJ	A	Number=Sing	16	amod	_	_
+16	Sandali...	Sandali...	PROPN	SP	_	11	nmod	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4Wf2Hypmx
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4Wf2Hypmx	fb.me/4Wf2Hypmx	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

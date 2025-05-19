@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alias16g @francofontana43 le nostre signorine di stagno.
+1	@alias16g	@alias16g	NOUN	S	Gender=Fem	0	root	_	_
+2	@francofontana43	@francofontana43	NUM	N	NumType=Card	1	nummod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	signorine	signorina	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	stagno.	stagno.	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..come il tettuccio sfondato!
+1	..come	..come	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tettuccio	tettuccio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	sfondato	sfondato	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Evviva
+1	Evviva	Evvivo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

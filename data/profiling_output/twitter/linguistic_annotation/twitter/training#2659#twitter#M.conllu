@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = speriamo il fatto e che ho 19 anni e ho voglia di prova… — a mio parere ti direi, può sembrare scontato però spess… https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM3CEDVLAYRX66NG77D7SLNZN62UYY2Z2MFJG42QBSKCY7QHQHJQUH4DB7YEV7M2V
+1	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	19	19	NUM	N	NumType=Card	8	nummod	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+12	di	di	ADP	E	_	19	mark	_	_
+13	prova…	prova…	PUNCT	FF	_	19	punct	_	_
+14	—	—	PUNCT	FF	_	17	punct	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	parere	parere	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	expl	_	_
+19	direi	dire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	acl	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	1	punct	_	_
+21	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	sembrare	sembrare	VERB	V	VerbForm=Inf	1	conj	_	_
+23	scontato	scontare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	xcomp	_	_
+24	però	però	ADV	B	_	23	advmod	_	_
+25	spess…	spess…	PUNCT	FF	_	23	punct	_	_
+26	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	23	punct	_	_
+29	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	1	nmod	_	_
+30	7B667HQMHN2IG6NM3CEDVLAYRX66NG77D7SLNZN62UYY2Z2MFJG42QBSKCY7QHQHJQUH4DB7YEV7M2V	7B667HQMHN2IG6NM3CEDVLAYRX66NG77D7SLNZN62UYY2Z2MFJG42QBSKCY7QHQHJQUH4DB7YEV7M2V	PROPN	SP	_	29	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY= …
+1	ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY=	ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

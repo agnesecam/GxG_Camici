@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 'Non ho stretto la mano a Renzi perché sta rovinando l’Italia'.
+1	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	stretto	strettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mano	mano	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Renzi	Renzi	PROPN	SP	_	4	obl	_	_
+9	perché	perché	SCONJ	CS	_	11	mark	_	_
+10	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	rovinando	rovinare	VERB	V	VerbForm=Ger	4	advcl	_	_
+12	l’	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	Italia	Italia	PROPN	SP	_	11	obj	_	SpaceAfter=No
+14	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Il re norvegese si sfoga in... http:// fb.me/7g1k8Lcjm
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	re	re	NOUN	S	Gender=Masc	5	nsubj	_	_
+3	norvegese	norvegese	ADJ	A	Number=Sing	2	amod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	sfoga	sfogare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	in...	in.	PUNCT	FS	_	5	punct	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	fb.me/7g1k8Lcjm	fb.me/7g1k8Lcjm	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

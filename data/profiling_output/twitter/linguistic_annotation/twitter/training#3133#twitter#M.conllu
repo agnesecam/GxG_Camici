@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A volte può sembrare che io sia ubriaco ma sappiate che non bevo quindi sono proprio scemo di mio
+1	A	a	ADP	E	_	2	case	_	_
+2	volte	volta	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	ubriaco	ubriaco	ADJ	A	Gender=Masc|Number=Sing	4	ccomp	_	_
+9	ma	ma	CCONJ	CC	_	10	cc	_	_
+10	sappiate	sappiare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	bevo	bere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+14	quindi	quindi	ADV	B	_	13	advmod	_	_
+15	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+16	proprio	proprio	ADV	B	_	17	advmod	_	_
+17	scemo	sce	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	13	advcl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	obl	_	SpacesAfter=\n
+

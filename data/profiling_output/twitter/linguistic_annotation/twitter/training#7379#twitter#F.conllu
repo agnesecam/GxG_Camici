@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi chiedo se quelli che corrono nel parco davanti alla mia finestra alle 7.30 di domenica mattina ce li abbia essi la Proloco...
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	23	mark	_	_
+4	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	23	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	corrono	correre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	parco	parco	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	davanti	davanti	ADV	B	_	14	case	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	finestra	finestra	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+15-16	alle	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	7.30	7.30	NUM	N	NumType=Card	23	obl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+21	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	23	iobj	_	_
+22	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	obj	_	_
+23	abbia	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+24	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	Proloco..	Proloco..	PROPN	SP	_	23	obj	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

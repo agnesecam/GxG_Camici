@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Princesa_Hiba Se vuoi, te ne spedisco qualcuna ..vivo a Como, famosa x essere la citta' della seta.
+1	@Princesa_Hiba	@Princesa_Hibare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	expl	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+7	spedisco	spedire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	conj	_	_
+8	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
+9	..vivo	..vivo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	Como	Como	PROPN	SP	_	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	famosa	famoso	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+14	x	x	SYM	SYM	_	1	obl	_	_
+15	essere	essere	AUX	V	VerbForm=Inf	17	cop	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	citta	citta	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+18	'	'	PUNCT	FB	_	17	punct	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	seta.	seta.	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..buona notte
+1	..buona	..buonare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	notte	notte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @diMartedi @manufalcetti Ha ragione!
+1	@diMartedi	@diMartede	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	@manufalcetti	@manufalcetto	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	Ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Specialmente se dovrà vivere con la reversibilità dimezzata peccato che affitto e spese nn si dimezzano
+1	Specialmente	specialmente	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	vivere	vivere	VERB	V	VerbForm=Inf	0	root	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	reversibilità	reversibilità	NOUN	S	Gender=Fem	4	obl	_	_
+8	dimezzata	dimezzato	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9	peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+10	che	che	SCONJ	CS	_	16	mark	_	_
+11	affitto	affitto	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	_
+14	nn	nn	ADV	B	_	13	advmod	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	dimezzano	dimezzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	SpacesAfter=\n
+

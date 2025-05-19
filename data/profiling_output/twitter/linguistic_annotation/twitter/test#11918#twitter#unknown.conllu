@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gobboveroefiero io lo faro' tra 10-15 gg perche' se rivedo che al 89 stavamo 1-2 e 20 minuti dopo 4-2 spacco tutto
+1	@gobboveroefiero	@gobboveroefiero	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	faro	faro	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+5	'	'	PUNCT	FB	_	10	punct	_	_
+6	tra	tra	ADP	E	_	10	case	_	_
+7	10	10	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	15	15	NUM	N	NumType=Card	7	compound	_	_
+10	gg	gg	NOUN	S	Gender=Masc	4	obl	_	_
+11	perche	perco	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	'	'	PUNCT	FB	_	4	punct	_	_
+13	se	se	SCONJ	CS	_	14	mark	_	_
+14	rivedo	rivedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+15	che	che	SCONJ	CS	_	31	mark	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	89	89	NUM	N	NumType=Card	31	obl	_	_
+19	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	31	cop	_	_
+20	1	1	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	2	2	NUM	N	NumType=Card	25	nummod	_	_
+23	e	e	CCONJ	CC	_	25	cc	_	_
+24	20	20	NUM	N	NumType=Card	25	nummod	_	_
+25	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	31	nmod	_	_
+26	dopo	dopo	ADV	B	_	27	advmod	_	_
+27	4	4	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
+28	-	-	PUNCT	FF	_	27	punct	_	SpaceAfter=No
+29	2	2	NUM	N	NumType=Card	27	compound	_	_
+30	spacco	spacco	NOUN	S	Gender=Masc|Number=Sing	31	nmod	_	_
+31	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	obj	_	SpacesAfter=\n
+

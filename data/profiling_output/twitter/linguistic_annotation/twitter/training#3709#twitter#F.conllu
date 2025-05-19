@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Acquarica del Capo ha detto #si .
+1	Acquarica	Acquarica	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Capo	capo	PROPN	SP	_	1	nmod	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	#si	#so	ADJ	A	Gender=Masc|Number=Plur	6	xcomp	_	_
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Il 17 lo farà di nuovo!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	17	17	NUM	N	NumType=Card	4	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = @pacella_luca @micheleemiliano @roccogennaro1 pic.twitter.com/F3qaPtDQvF
+1	@pacella_luca	@pacella_lurre	ADV	B	_	2	advmod	_	_
+2	@micheleemiliano	@micheleemiliano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	@roccogennaro1	@roccogennarol	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pic.twitter.com/F3qaPtDQvF	pic.twitter.com/F3qaPtDQvF	PROPN	SP	_	2	nsubj	_	SpacesAfter=\n
+

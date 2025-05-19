@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gasparripdl @zdizoro astioso zoro?
+1	@gasparripdl	@gasparripdl	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@zdizoro	@zdizorare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	astioso	astioso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	zoro	zoro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = detto da lei, che in quanto ad astio fa sembrare sgarbi la fata turchina, suona un po' strano...
+1	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+6	in	in	ADP	E	_	10	mark	_	_
+7	quanto	quanto	ADV	B	_	6	fixed	_	_
+8	ad	a	ADP	E	_	9	case	_	_
+9	astio	astio	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	sgarbi	sgarbo	NOUN	S	Gender=Masc|Number=Plur	11	xcomp	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	fata	fata	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+15	turchina	turchino	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	1	punct	_	_
+17	suona	suonare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	po'	poco	ADV	B	_	20	advmod	_	_
+20	strano..	strano	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	17	punct	_	SpacesAfter=\n
+

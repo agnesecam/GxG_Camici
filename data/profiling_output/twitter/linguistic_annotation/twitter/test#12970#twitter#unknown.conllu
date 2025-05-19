@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @roberto_corazza @willy_signori @AIA_it io invece credevo che avessero aperto le stalle.
+1	@roberto_corazza	@roberto_corazzare	ADP	E	_	2	case	_	_
+2	@willy_signori	@willy_signore	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+3	@AIA_it	@AIA_it	PROPN	SP	_	2	nmod	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	invece	invece	ADV	B	_	6	advmod	_	_
+6	credevo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	aperto	aprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	stalle	stalla	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..visti i gobbi che blaterano!
+1	..visti	..vedere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	gobbi	gobbio	NOUN	S	Gender=Masc|Number=Plur	1	nsubj:pass	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	blaterano	blaterare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Continuate a rubare
+1	Continuate	Continuare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	rubare	rubare	VERB	V	VerbForm=Inf	1	xcomp	_	SpacesAfter=\n
+

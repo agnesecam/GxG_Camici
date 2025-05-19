@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'Isis e quegli schifosi kamikaze fanno sembrare Obama e gli Stones a Cuba soltanto una carrambata.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Isis	Isis	PROPN	SP	_	7	nsubj	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	quegli	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+5	schifosi	schifoso	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	kamikaze	kamikaze	NOUN	S	Gender=Masc	2	conj	_	_
+7	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+9	Obama	Obama	PROPN	SP	_	8	xcomp	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	Stones	Stones	PROPN	SP	_	9	conj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	Cuba	Cuba	PROPN	SP	_	12	nmod	_	_
+15	soltanto	soltanto	ADV	B	_	17	advmod	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	carrambata	carrambata	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = #Bruxelles #Parigi #RollingStones #Cuba
+1	#Bruxelles	#Bruxelles	ADP	E	_	2	case	_	_
+2	#Parigi	#Parigi	PROPN	SP	_	4	nmod	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	RollingStones	RollingStones	PROPN	SP	_	0	root	_	_
+5	#Cuba	#Cuba	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

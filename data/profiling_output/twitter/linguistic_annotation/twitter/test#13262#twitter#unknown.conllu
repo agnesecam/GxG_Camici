@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che bella gara di merda Due sorpassi in 20 giri...
+1	Che	che	DET	DQ	PronType=Int	3	det	_	_
+2	bella	bello	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	gara	gara	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	merda	merda	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+6	Due	due	NUM	N	NumType=Card	7	nummod	_	_
+7	sorpassi	sorpasso	NOUN	S	Gender=Masc|Number=Plur	3	appos	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	20	20	NUM	N	NumType=Card	10	nummod	_	_
+10	giri..	giri..	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Per la prima volta in parecchi mesi la F1 è stata più esaltante.
+1	Per	per	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+4	volta	volta	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+7	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	F1	F1	PROPN	SP	_	13	nsubj	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	cop	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	esaltante	esaltante	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 3
+# text = #QatarGP
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	QatarGP	QatarGP	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

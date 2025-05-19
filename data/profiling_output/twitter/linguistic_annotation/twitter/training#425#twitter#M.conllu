@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RobertoMaroni_ Roberto.
+1	@RobertoMaroni_	@RobertoMaroni-	PROPN	SP	_	0	root	_	_
+2	Roberto	Roberto	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..inutile argomentare, migliori o peggiori siamo diversi.
+1	..inutile	..inutile	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	argomentare	argomentare	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	2	conj	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	_
+6	peggiori	peggiore	ADJ	A	Degree=Cmp|Number=Plur	2	conj	_	_
+7	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = Se avessimo una patria della quale sentirsi orgogliosi...
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	patria	patria	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	quale	quale	PRON	PR	Number=Sing|PronType=Rel	8	obl	_	_
+8-9	sentirsi	_	_	_	_	_	_	_	_
+8	sentir	sentire	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	orgogliosi...	orgogliosi.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

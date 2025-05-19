@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TomasettiMarco @guidomeda si hai ragione era proprio per dire quante cavolate dicono davanti ai microfoni?
+1	@TomasettiMarco	@TomasettiMarco	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+2	@guidomeda	@guidomedo	ADJ	A	Number=Sing	1	amod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+6	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+7	proprio	proprio	ADV	B	_	9	advmod	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	dire	dire	VERB	V	VerbForm=Inf	12	advcl	_	_
+10	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	11	det	_	_
+11	cavolate	cavolata	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+13	davanti	davanti	ADV	B	_	16	case	_	_
+14-15	ai	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	13	fixed	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	microfoni	microfone	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = A chi e cosa credere?
+1	A	a	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PQ	PronType=Int	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	obj	_	_
+5	credere	credere	VERB	V	VerbForm=Inf	2	conj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

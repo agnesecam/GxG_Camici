@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonioOpallo61 hai fatto le foto ai carciofi, hai fatto il video alla pescheria, se facevi una alla vetrina piena di zeppole mi facevi ...
+1	@AntonioOpallo61	@AntonioOpallo61	PROPN	SP	_	3	nsubj	_	_
+2	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	foto	foto	NOUN	S	Gender=Fem	3	obj	_	_
+6-7	ai	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	carciofi	carciofo	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	video	video	NOUN	S	Gender=Masc	11	obj	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	pescheria	pescheria	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	se	se	SCONJ	CS	_	19	mark	_	_
+19	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	28	advcl	_	_
+20	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	19	obj	_	_
+21-22	alla	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	vetrina	vetrina	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	_
+24	piena	pieno	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	_
+25	di	di	ADP	E	_	26	case	_	_
+26	zeppole	zeppola	NOUN	S	Gender=Fem|Number=Plur	23	nmod	_	_
+27	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	28	obj	_	_
+28	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_
+29	...	...	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

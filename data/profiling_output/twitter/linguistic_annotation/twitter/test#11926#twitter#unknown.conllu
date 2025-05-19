@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MirkoPo87 @JJuventusGirl stavamo parlando di cosa ho vissuto io e cosa tu.
+1	@MirkoPo87	@MirkoPo87	PROPN	SP	_	4	nsubj	_	_
+2	@JJuventusGirl	@JJuventusGirl	PROPN	SP	_	1	flat:name	_	_
+3	stavamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	parlando	parlare	VERB	V	VerbForm=Ger	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	8	obl	_	_
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	vissuto	vivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	12	nsubj	_	_
+12	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Non sono così vecchio.
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	così	così	ADV	B	_	4	advmod	_	_
+4	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = E poi non è passato?
+1	E	e	CCONJ	CC	_	5	cc	_	_
+2	poi	poi	ADV	B	_	5	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	passato	passato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = O conta questo?
+1	O	o	CCONJ	CC	_	2	cc	_	_
+2	conta	contare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

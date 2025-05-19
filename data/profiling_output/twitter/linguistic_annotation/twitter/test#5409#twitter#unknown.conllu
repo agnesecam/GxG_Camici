@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spulciando il mio archivio musicale.
+1	Spulciando	Spulciare	VERB	V	VerbForm=Ger	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	archivio	archivio	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	musicale	musicale	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Anni e anni di passione per la musica.
+1	Anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	passione	passione	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	musica	musica	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Dai che qualcuna ce… https://www.
+1-2	Dai	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	che	che	PRON	PR	Number=Sing|PronType=Rel	6	fixed	_	_
+4	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	ce…	ce…	PUNCT	FF	_	6	punct	_	_
+6	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = instagram.com/p/BDZJnqFtHD9/
+1	instagram.com/p/BDZJnqFtHD9/	instagram.com/p/BDZJnqFtHD9/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ....
+1	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = insomma, oggo è un po' come se fosse la ricorrenza della strage delle Fosse Ardeatine e si facessero gli auguri a tutti gli ebrei....
+1	insomma	insomma	ADV	B	_	11	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	oggo	oggo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	po'	poco	ADV	B	_	7	advmod	_	_
+7	come	come	ADV	B	_	11	advmod	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	ricorrenza	ricorrenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+12-13	della	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	strage	strage	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15-16	delle	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	Fosse	fossa	PROPN	SP	_	14	nmod	_	_
+18	Ardeatine	Ardeatine	PROPN	SP	_	17	flat:name	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl:pass	_	_
+21	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
+22	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	21	nsubj:pass	_	_
+24	a	a	ADP	E	_	27	case	_	_
+25	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	27	det:predet	_	_
+26	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
+27	ebrei...	ebrei...	NOUN	S	_	21	obl	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

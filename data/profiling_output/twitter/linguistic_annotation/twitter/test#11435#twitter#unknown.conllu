@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fedefederossi ed io non ci sarò a nessuno almeno che voi non aggiungiate una piccola tappa a catania...lo farete vero?
+1	@fedefederossi	@fedefederuovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	ed	e	CCONJ	CC	_	6	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+6	sarò	sarare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obl	_	_
+9	almeno	almeno	ADV	B	_	13	advmod	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	aggiungiate	aggiungiare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	_
+14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	tappa	tappa	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	catania...lo	catania...lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	farete	fareto	NOUN	S	Number=Sing	16	nmod	_	_
+20	vero	vero	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = VERO?
+1	VERO	vero	ADV	B	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = V E R O?
+1	V	V	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	_
+2	E	E	PROPN	SP	_	0	root	_	_
+3	R	R	PROPN	SP	_	2	flat:name	_	_
+4	O	O	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

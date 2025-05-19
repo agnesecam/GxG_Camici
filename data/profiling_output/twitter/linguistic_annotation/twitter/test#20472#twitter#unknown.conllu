@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FrancescomerloI
+1	@FrancescomerloI	@FrancescomerloI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	_
+
+# sent_id = 2
+# text = "la firma sarà cercata dovunque ".
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	firma	firma	NOUN	S	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+4	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	_
+5	cercata	cercare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	dovunque	dovunque	ADV	B	_	5	advmod	_	_
+7	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Affascinante il flusso dei pensieri.Dando ad essi libertà li analizzo scoprendo sconnessioni pazzesche.Tutto senza senso eppure un senso c'è
+1	Affascinante	affascinare	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	flusso	flusso	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	pensieri.Dando	pensieri.Dando	PROPN	SP	_	3	nmod	_	_
+7	ad	a	ADP	E	_	8	case	_	_
+8	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+9	libertà	libertà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+11	analizzo	analizzare	ADV	B	_	12	advmod	_	_
+12	scoprendo	scoprire	VERB	V	VerbForm=Ger	9	advcl	_	_
+13	sconnessioni	sconnessione	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+14	pazzesche.Tutto	pazzesche.Tutto	ADV	B	_	13	advmod	_	_
+15	senza	senza	ADP	E	_	16	case	_	_
+16	senso	senso	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+17	eppure	eppure	CCONJ	CC	_	19	cc	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	senso	senso	NOUN	S	Gender=Masc|Number=Sing	13	conj	_	_
+20	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	21	expl	_	SpaceAfter=No
+21	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

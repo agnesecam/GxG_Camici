@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hamlet "Mi avete fatto impazzire!"
+1	Hamlet	Hamlet	NOUN	S	_	0	root	_	_
+2	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+3	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
+4	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6	impazzire	impazzire	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ophelia "Sciagurata me per ciò che ho visto, per ciò che mi tocca vedere" #HamleTw /08 @Marconi98E
+1	Ophelia	Ophelia	PROPN	SP	_	0	root	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	Sciagurata	Sciagurare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	1	punct	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	_
+15	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+16	vedere	vedere	VERB	V	VerbForm=Inf	15	ccomp	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	18	punct	_	_
+18	#HamleTw	#HamleTw	PROPN	SP	_	16	obj	_	_
+19	/08	/08	NUM	N	NumType=Card	18	nummod	_	_
+20	@Marconi98E	@Marconi98E	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Senad uno di noi!
+1	Senad	Senad	ADP	E	_	2	case	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E dite alla strappona bionda con la ricrescita che le lampade fanno sembrare ancora più vecchia.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	strappona	strappona	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6	bionda	biondo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	ricrescita	ricrescita	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	lampade	lampada	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+13	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+15	ancora	ancora	ADV	B	_	14	advmod	_	_
+16	più	più	ADV	B	_	14	advmod	_	_
+17	vecchia.	vecchia.	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = pic.twitter.com/zrh28mxnfd
+1	pic.twitter.com/zrh28mxnfd	pic.twitter.com/zrh28mxnfd	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

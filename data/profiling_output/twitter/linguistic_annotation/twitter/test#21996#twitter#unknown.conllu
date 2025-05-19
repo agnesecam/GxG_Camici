@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @raffamad81 sì lo so ma di Tom coi baffi e pizzetto a colori non ci stavano fatevela andare bene :D @Simeone @tomwaits @perlmutations
+1	@raffamad81	@raffamad81	NUM	N	NumType=Card	4	nummod	_	_
+2	sì	sì	ADV	B	_	4	advmod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ma	ma	CCONJ	CC	_	7	cc	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Tom	Tom	PROPN	SP	_	18	obl	_	_
+8-9	coi	_	_	_	_	_	_	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	baffi	baffe	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	pizzetto	pizzetto	NOUN	S	Gender=Masc|Number=Sing	18	conj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	colori	colore	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+15	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	18	expl	_	_
+17	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	fatevela	fatevelare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+19	andare	andare	VERB	V	VerbForm=Inf	21	xcomp	_	_
+20	bene	bene	ADV	B	_	19	advmod	_	_
+21	:D	:D	X	SW	Foreign=Yes	18	obj	_	_
+22	@Simeone	@Simeone	X	SW	Foreign=Yes	21	flat:foreign	_	_
+23	@tomwaits	@tomwaits	X	SW	Foreign=Yes	21	flat:foreign	_	_
+24	@perlmutations	@perlmutations	X	SW	Foreign=Yes	21	flat:foreign	_	SpacesAfter=\n
+

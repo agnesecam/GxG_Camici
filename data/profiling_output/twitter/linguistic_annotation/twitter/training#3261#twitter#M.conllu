@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Tzara_1981 poi mette la stessa cosa 800 volte, solo che cambia la forma per farla sembrare diversa.
+1	@Tzara_1981	@Tzara_1981	PROPN	SP	_	3	nsubj	_	_
+2	poi	poi	ADV	B	_	3	advmod	_	_
+3	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	800	800	NUM	N	NumType=Card	8	nummod	_	_
+8	volte	volta	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	solo	solo	ADV	B	_	12	advmod	_	_
+11	che	che	SCONJ	CS	_	12	mark	_	_
+12	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	forma	forma	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16-17	farla	_	_	_	_	_	_	_	_
+16	far	fare	VERB	V	VerbForm=Inf	12	advcl	_	_
+17	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+18	sembrare	sembrare	VERB	V	VerbForm=Inf	16	ccomp	_	_
+19	diversa	diverso	ADJ	A	Gender=Fem|Number=Sing	18	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

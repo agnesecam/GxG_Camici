@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sono_effe @_LaMatta_ non lo so, alle 14 ho iniziato a non capire più un cazzo dopo due ore che stavamo a bere
+1	@sono_effe	@sono_effa	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+2	@_LaMatta_	@_LaMatta-	PROPN	SP	_	1	nmod	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7-8	alle	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	14	14	NUM	N	NumType=Card	11	obl	_	_
+10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	iniziato	iniziare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+12	a	a	ADP	E	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	capire	capire	VERB	V	VerbForm=Inf	11	advcl	_	_
+15	più	più	ADV	B	_	14	advmod	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+18	dopo	dopo	ADP	E	_	20	case	_	_
+19	due	due	NUM	N	NumType=Card	20	nummod	_	_
+20	ore	ora	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	_
+21	che	che	PRON	PR	PronType=Rel	22	obj	_	_
+22	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
+23	a	a	ADP	E	_	24	mark	_	_
+24	bere	bere	VERB	V	VerbForm=Inf	22	xcomp	_	SpacesAfter=\n
+

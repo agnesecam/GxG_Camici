@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @adatitolo il problema non è se tutti sono interessati.
+1	@adatitolo	@adatitolare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	problema	problema	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	non	non	ADV	BN	PronType=Neg	1	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	se	se	SCONJ	CS	_	9	mark	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj:pass	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	interessati	interessare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = il problema è che sono 'a-politici'.
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	'	'	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	a-politici	a-politico	ADJ	A	Gender=Masc|Number=Plur	3	ccomp	_	SpaceAfter=No
+8	'	'	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = dunque , sono ossimori viventi.
+1	dunque	dunque	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ossimori	ossimore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	viventi	vivente	ADJ	A	Number=Plur	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

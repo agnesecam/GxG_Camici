@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Benji_Mascolo @hugmerossi purtroppo non ce l'ho ancora neppure io!
+1	@Benji_Mascolo	@Benji_Mascolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@hugmerossi	@hugmerosso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	purtroppo	purtroppo	ADV	B	_	2	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	1	obj	_	SpaceAfter=No
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+8	ancora	ancora	ADV	B	_	10	advmod	_	_
+9	neppure	neppure	ADV	BN	PronType=Neg	10	advmod	_	_
+10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = hahaha ti faccio compagnia allora!
+1	hahaha	hahaavere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	compagnia	compagnia	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+5	allora	allora	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

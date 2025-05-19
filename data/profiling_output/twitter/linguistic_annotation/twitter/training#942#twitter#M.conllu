@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alcune imprese pubblicano in rete problemi per farsi aiutare nella risoluzione dalla comunità di internet | #social | #crowdsourcing
+1	Alcune	alcuno	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	imprese	impresa	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	pubblicano	pubblicare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	rete	rete	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+6	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8-9	farsi	_	_	_	_	_	_	_	_
+8	far	fare	VERB	V	VerbForm=Inf	6	acl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	aiutare	aiutare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+11-12	nella	_	_	_	_	_	_	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	risoluzione	risoluzione	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14-15	dalla	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	comunità	comunità	NOUN	S	Gender=Fem	10	obl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	internet	internet	NOUN	S	_	16	nmod	_	_
+19	|	|	SYM	SYM	_	21	nmod	_	_
+20	#social	#social	ADJ	A	Number=Sing	19	amod	_	_
+21	|	|	SYM	SYM	_	16	nmod	_	_
+22	#crowdsourcing	#crowdsourcing	NOUN	S	Gender=Masc	3	compound	_	SpacesAfter=\n
+

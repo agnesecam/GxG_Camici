@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trovare qualcuna che dia chat/sponsorizzi harry styles è più difficile che trovare harry styles stesso
+1	Trovare	trovare	VERB	V	VerbForm=Inf	0	root	_	_
+2	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	dia	dare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	chat/	chat/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	sponsorizzi	sponsorizzare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+7	harry	harry	DET	DI	PronType=Ind	8	det	_	_
+8	styles	styles	NOUN	S	Gender=Masc	11	nsubj	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	difficile	difficile	ADJ	A	Number=Sing	1	conj	_	_
+12	che	che	SCONJ	CS	_	13	mark	_	_
+13	trovare	trovare	VERB	V	VerbForm=Inf	11	csubj	_	_
+14	harry	harry	DET	DI	PronType=Ind	15	det	_	_
+15	styles	style	NOUN	S	Gender=Masc	13	obj	_	_
+16	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpacesAfter=\n
+

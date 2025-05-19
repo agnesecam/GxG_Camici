@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = pure se vi conoscessi no tengo voglia di rifolloware indietro perché non mi va di leggere account di aggiornamenti su idol (che manco seguo)
+1	pure	pure	ADV	B	_	0	root	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	vi	vi	ADV	B	_	4	advmod	_	_
+4	conoscessi	conoscettere	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+5	no	no	ADV	BN	PronType=Neg	6	advmod	_	_
+6	tengo	tenere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	rifolloware	rifolloware	VERB	V	VerbForm=Inf	7	acl	_	_
+10	indietro	indietro	ADV	B	_	9	advmod	_	_
+11	perché	perché	SCONJ	CS	_	14	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	_
+14	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	di	di	ADP	E	_	16	mark	_	_
+16	leggere	leggere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	account	account	NOUN	S	_	16	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	aggiornamenti	aggiornamento	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+20	su	su	ADP	E	_	21	case	_	_
+21	idol	idol	ADJ	A	Gender=Masc|Number=Sing	16	obl	_	_
+22	(	(	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+23	che	che	PRON	PR	PronType=Rel	24	case	_	_
+24	manco	manco	X	SW	Foreign=Yes	21	obl	_	_
+25	seguo	seguo	X	SW	Foreign=Yes	24	flat:foreign	_	SpaceAfter=No
+26	)	)	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

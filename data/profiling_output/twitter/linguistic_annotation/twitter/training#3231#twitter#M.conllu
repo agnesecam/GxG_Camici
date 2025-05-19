@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @padronaluna comunque questo non l'ho mai provato......
+1	@padronaluna	@padronaluno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	obj	_	_
+2	comunque	comunque	ADV	B	_	8	advmod	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+5	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	mai	mai	ADV	B	_	8	advmod	_	_
+8	provato.....	provato...	NOUN	S	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = ma lo fai sembrare così dolce.....
+1	ma	ma	CCONJ	CC	_	3	cc	_	_
+2	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	fai	faio	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	così	così	ADV	B	_	4	advmod	_	_
+6	dolce.....	dolce...	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

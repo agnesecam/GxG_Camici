@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TELADOIOLANIUS @erpedrini ...la cessione dei NPL dovrà avvenire a prezzi di mercato, sennò è aiuto di Stato #Cdp
+1	@TELADOIOLANIUS	@TELADOIOLANIUS	NOUN	S	_	9	nsubj	_	_
+2	@erpedrini	@erpedrino	ADJ	A	Number=Plur	1	amod	_	_
+3	...la	...la	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+4	cessione	cessione	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	NPL	NPL	PROPN	SP	_	4	nmod	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	avvenire	avvenire	VERB	V	VerbForm=Inf	0	root	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	prezzi	prezzo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	sennò	sennare	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	Stato	Stato	PROPN	SP	_	17	nmod	_	_
+20	#Cdp	#Cdp	PROPN	SP	_	17	nmod	_	SpacesAfter=\n
+

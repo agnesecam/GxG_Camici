@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ora vi pongo una domanda.
+1	Ora	ora	ADV	B	_	3	advmod	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
+3	pongo	porre	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = L' avevate letto voi, sul disco di #Adesso : " Produzione Esecutiva: Francesca Savini per Brown Srl e CIUSTÈ SRL"??
+1	L'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+2	avevate	avere	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+3	letto	leggere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	13	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6-7	sul	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	disco	disco	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	#Adesso	#Adesso	PROPN	SP	_	8	nmod	_	_
+11	:	:	PUNCT	FC	_	4	punct	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	_
+13	Produzione	produzione	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+14	Esecutiva	esecutivo	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	13	punct	_	_
+16	Francesca	Francesca	PROPN	SP	_	3	nmod	_	_
+17	Savini	Savini	PROPN	SP	_	16	flat:name	_	_
+18	per	per	ADP	E	_	19	case	_	_
+19	Brown	Brown	PROPN	SP	_	16	nmod	_	_
+20	Srl	srl	PROPN	SP	_	19	flat:name	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	CIUSTÈ	CIUSTÈ	PROPN	SP	_	19	conj	_	_
+23	SRL	srl	PROPN	SP	_	22	flat:name	_	SpaceAfter=No
+24	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

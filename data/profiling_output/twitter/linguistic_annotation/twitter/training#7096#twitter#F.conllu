@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se non amate i napoletani i miei libri non fanno per voi.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	amate	amare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	napoletani	napoletano	NOUN	S	Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	libri	libro	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = In essi c'è il Vesuvio.
+1	In	in	ADP	E	_	2	case	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+3	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Vesuvio	Vesuvio	PROPN	SP	_	4	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = https:// youtu.be/oKU0MKpFN0k pic.twitter.com/wu1xy1verQ
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	youtu.be/oKU0MKpFN0k	youtu.be/oKU0MKpFN0k	PROPN	SP	_	0	root	_	_
+5	pic.twitter.com/wu1xy1verQ	pic.twitter.com/wu1xy1verQ	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

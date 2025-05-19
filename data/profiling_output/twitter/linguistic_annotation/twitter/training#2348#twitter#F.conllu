@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sembri così diversa, eppure la stessa.
+1	Sembri	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	così	così	ADV	B	_	1	advmod	_	_
+3	diversa	diverso	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	eppure	eppure	CCONJ	CC	_	7	cc	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	stessa	stesso	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È come se qualcuno ti avesse acceso una luce dentro Perché non sono stato io?
+1	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	SCONJ	CS	_	7	mark	_	_
+3	se	se	SCONJ	CS	_	7	mark	_	_
+4	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+6	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	acceso	accendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	luce	luce	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+10	dentro	dentro	ADV	B	_	15	advmod	_	_
+11	Perché	perché	ADV	B	_	15	advmod	_	_
+12	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
+15	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = (dal film French Kiss)
+1	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2-3	dal	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	film	film	NOUN	S	Gender=Masc	0	root	_	_
+5	French	French	PROPN	SP	_	4	nmod	_	_
+6	Kiss	Kiss	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciò significa che approderò sull'isola, getterò l'ancora dal materassino, e ciao!
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	approderò	approderare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+5-6	sull'	_	_	_	_	_	_	_	SpaceAfter=No
+5	su	su	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	isola	isola	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	getterò	gettare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	conj	_	_
+10	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	ancora	ancora	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12-13	dal	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	materassino	materassino	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	ciao	ciao	ADV	B	_	11	conj	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

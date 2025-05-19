@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Finché cerchi di pretendere dall'esterno un mezzo per aquietare un disagio interno, tutto sembrerà rivoltarti... http:// fb.me/2mClPZOgi
+1	Finché	finché	SCONJ	CS	_	2	mark	_	_
+2	cerchi	cercare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	pretendere	pretendere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5-6	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+5	da	da	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	esterno	esterno	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	aquietare	aquietare	VERB	V	VerbForm=Inf	4	advcl	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	disagio	disagio	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	interno	interno	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	2	punct	_	_
+16	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	_
+17	sembrerà	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+18	rivoltarti...	rivoltarti.	NOUN	S	_	17	obj	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	fb.me/2mClPZOgi	fb.me/2mClPZOgi	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

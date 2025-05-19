@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le persone che ti vogliono bene è come se ti avessero lasciato un'impronta,Sul Cuore.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	iobj	_	_
+5	vogliono	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+6	bene	bene	ADV	B	_	12	advmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+8	come	come	ADV	B	_	12	advmod	_	_
+9	se	se	SCONJ	CS	_	12	mark	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	iobj	_	_
+11	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+13	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	impronta,Sul	impronta,Sul	PROPN	SP	_	12	obj	_	_
+15	Cuore	cuore	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = buona domenica
+1	buona	buono	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

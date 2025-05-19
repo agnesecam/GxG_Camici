@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @avdorzen amorino mio, quindi se domani lo facessi vorresti il divorzio?
+1	@avdorzen	@avdorzen	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	amorino	amorino	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	10	punct	_	_
+5	quindi	quindi	ADV	B	_	10	advmod	_	_
+6	se	se	SCONJ	CS	_	10	mark	_	_
+7	domani	domani	ADV	B	_	10	advmod	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+9	facessi	facettere	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+10	vorresti	volere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	divorzio	divorzio	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

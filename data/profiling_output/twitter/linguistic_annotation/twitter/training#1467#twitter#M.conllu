@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vi auguriamo una buona serata con le nostre anticipazioni REAL-TIME.
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	2	iobj	_	_
+2	auguriamo	augurare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	buona	buono	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	serata	serata	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	con	con	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	anticipazioni	anticipazione	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+10	REAL-TIME	REAL-TIME	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Clicca per maggiori informazioni.....
+1	Clicca	cliccare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	maggiori	maggiore	ADJ	A	Degree=Cmp|Number=Plur	4	amod	_	_
+4	informazioni.....	informazioni.....	NOUN	S	_	1	obl	_	_
+
+# sent_id = 3
+# text = http:// fb.me/5ihgxI7mu
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/5ihgxI7mu	fb.me/5ihgxI7mu	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

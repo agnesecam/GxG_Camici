@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C'è pure chi educa.
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pure	pure	ADV	B	_	2	advmod	_	_
+4	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	nsubj	_	_
+5	educa.	educa.	NOUN	S	_	4	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..cercando d'essere franco all'altro come a sé,sognando gli altri come ora non sono:
+1	..cercando	..cercare	VERB	V	VerbForm=Ger	0	root	_	_
+2	d'	di	ADP	E	_	4	mark	_	SpaceAfter=No
+3	essere	essere	AUX	V	VerbForm=Inf	4	cop	_	_
+4	franco	franco	NOUN	S	Gender=Masc|Number=Sing	1	xcomp	_	_
+5-6	all'	_	_	_	_	_	_	_	SpaceAfter=No
+5	a	a	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	_
+8	come	come	ADP	E	_	9	case	_	_
+9	a	a	X	X	_	10	obl	_	_
+10	sé,sognando	sé,sognare	VERB	V	VerbForm=Ger	4	advcl	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	obj	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	ora	ora	ADV	B	_	10	advmod	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advmod	_	SpaceAfter=No
+17	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = ciascuno cresce solo se sognato DD
+1	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	cresce	crescere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADV	B	_	5	advmod	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	sognato	sognare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+6	DD	DD	PROPN	SP	_	5	xcomp	_	SpacesAfter=\n
+

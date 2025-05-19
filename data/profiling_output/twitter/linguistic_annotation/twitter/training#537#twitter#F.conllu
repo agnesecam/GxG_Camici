@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se avessimo ascoltato salvini unico di buon senso anni che lo diceva ed era cattivo e razzista ci hanno rovinato
+1	se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	ascoltato	ascoltare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	_
+4	salvini	salvino	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5	unico	unico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	buon	buono	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	senso	senso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	anni	anno	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	diceva	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
+13	ed	e	CCONJ	CC	_	15	cc	_	_
+14	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+15	cattivo	cattivo	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	razzista	razzista	ADJ	A	Number=Sing	15	conj	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	20	obj	_	_
+19	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	rovinato	rovinare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

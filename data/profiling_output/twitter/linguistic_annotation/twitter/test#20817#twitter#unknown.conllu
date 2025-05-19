@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se fossi un gelato, che gusto saresti ?
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	fossi	essere	AUX	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gelato	gelato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	gusto	gusto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+8	saresti	saredere	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = — Nutella.
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Nutella	Nutella	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM22CTZPYTQPIPDBV6A7ELP55IYQV4GOAWOEJNOETMCTZKSV
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+5	7B667HQMHN2IG6NM22CTZPYTQPIPDBV6A7ELP55IYQV4GOAWOEJNOETMCTZKSV	7B667HQMHN2IG6NM22CTZPYTQPIPDBV6A7ELP55IYQV4GOAWOEJNOETMCTZKSV	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+
+# sent_id = 4
+# text = CCLRWDSVCRQRZLCLH3HW2PHTRBUUMCVESSC5YDKI5ND2FDGOPWSS23XTTCTSLYCFQS2DGH7SMWIKKAETLPW3MGZ7FCYLMVP73FQSS36M6PAZZHXV7K3NMKP2OOYN6IYIC2UNE7XETWDU4FEH6AGDEA==== …
+1	CCLRWDSVCRQRZLCLH3HW2PHTRBUUMCVESSC5YDKI5ND2FDGOPWSS23XTTCTSLYCFQS2DGH7SMWIKKAETLPW3MGZ7FCYLMVP73FQSS36M6PAZZHXV7K3NMKP2OOYN6IYIC2UNE7XETWDU4FEH6AGDEA====	CCLRWDSVCRQRZLCLH3HW2PHTRBUUMCVESSC5YDKI5ND2FDGOPWSS23XTTCTSLYCFQS2DGH7SMWIKKAETLPW3MGZ7FCYLMVP73FQSS36M6PAZZHXV7K3NMKP2OOYN6IYIC2UNE7XETWDU4FEH6AGDEA====	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

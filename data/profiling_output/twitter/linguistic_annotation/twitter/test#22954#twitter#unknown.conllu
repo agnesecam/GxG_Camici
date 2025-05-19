@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Julie_TT2015 Io l'ho sempre detto che una delle cose che mi piacciono di piu' di lui sono i suoi capelli.
+1	@Julie_TT2015	@Julie_TT2015	PROPN	SP	_	0	root	_	_
+2	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	sempre	sempre	ADV	B	_	6	advmod	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+7	che	che	SCONJ	CS	_	22	mark	_	_
+8	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	22	nsubj	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	obj	_	_
+14	piacciono	piacere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	piu'	piu'	ADV	B	_	14	advmod	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+19	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	capelli.	capelli.	NOUN	S	Gender=Masc	6	ccomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..quanto glieli invidio....
+1	..quanto	..quanto	ADV	B	_	0	root	_	_
+2-3	glieli	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	invidio...	invidio.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

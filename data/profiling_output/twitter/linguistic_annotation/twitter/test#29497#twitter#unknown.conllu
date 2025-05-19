@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I added a video to a @YouTube playlist http:// youtu.be/HF--ynFi5bg?a QUASE FUI ESTUPRADO BRUNORESPONDE#14
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	added	adde	NOUN	S	_	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	video	video	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	to	re	X	SW	Foreign=Yes	4	nmod	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	@YouTube	@YouTube	PROPN	SP	_	2	nmod	_	_
+8	playlist	playlist	NOUN	S	_	12	nmod	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	youtu.be/HF--ynFi5bg?a	youtu.be/HF--ynFi5bg?a	PROPN	SP	_	7	flat:name	_	_
+13	QUASE	QUASE	PROPN	SP	_	7	flat:name	_	_
+14	FUI	essere	PROPN	SP	_	7	flat:name	_	_
+15	ESTUPRADO	ESTUPRADO	PROPN	SP	_	7	flat:name	_	_
+16	BRUNORESPONDE#14	BRUNORESPONDE#14	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n
+

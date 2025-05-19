@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = GLI ENDECASILLABI DI ROBERTO MORASSUT.
+1	GLI	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	ENDECASILLABI	ENDECASILLABI	PROPN	SP	_	0	root	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	ROBERTO	Roberto	PROPN	SP	_	2	nmod	_	_
+5	MORASSUT	MORASSUT	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Passati mesi assai dal ratto crollo,
+1	Passati	passare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+3	assai	assai	ADV	B	_	2	advmod	_	_
+4-5	dal	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	ratto	ratto	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	crollo	crollo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 3
+# text = Il ligure tornò con nuovo tomo.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ligure	ligura	NOUN	S	_	3	nsubj	_	_
+3	tornò	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	tomo	tomo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = Non... http:// fb.me/2jSOAbXaS
+1	Non...	Non.	NOUN	S	_	0	root	_	_
+2	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/2jSOAbXaS	fb.me/2jSOAbXaS	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

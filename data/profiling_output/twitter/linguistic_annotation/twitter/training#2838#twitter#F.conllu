@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Aless1R @ShawnOnMyMind io sicuramente piangerò.
+1	@Aless1R	@Aless1R	ADP	E	_	2	case	_	_
+2	@ShawnOnMyMind	@ShawnOnMyMind	PROPN	SP	_	5	obl	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	sicuramente	sicuramente	ADV	B	_	5	advmod	_	_
+5	piangerò	piangere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = può sembrare esagerato ma non sai quanto ci vorrei andare, cantare con lui...:(
+1	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	esagerato	esagerato	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
+9	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	andare	andare	VERB	V	VerbForm=Inf	7	acl:relcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	cantare	cantare	VERB	V	VerbForm=Inf	2	conj	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	lui...	lui...	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+16	(	(	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

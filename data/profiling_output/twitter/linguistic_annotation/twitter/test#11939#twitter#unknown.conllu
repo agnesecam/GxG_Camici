@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @juventusfc @FCBayernEN complimenti:
+1	@juventusfc	@juventusfc	ADV	B	_	3	advmod	_	_
+2	@FCBayernEN	@FCBayernEN	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	complimenti	complimenti	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = stavamo vincendo e ci siamo fatti rimontare!
+1	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	vincendo	vincere	VERB	V	VerbForm=Ger	0	root	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+5	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+7	rimontare	rimontare	VERB	V	VerbForm=Inf	6	ccomp	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

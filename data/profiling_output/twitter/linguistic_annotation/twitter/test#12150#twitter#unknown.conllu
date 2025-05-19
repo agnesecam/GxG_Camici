@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ricordo quando 2 anni fa uscivamo sul lungomare e facevamo i cretini vedendo da telefoni (anti guerra) barzellette e sentendo musica
+1	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quando	quando	SCONJ	CS	_	6	mark	_	_
+3	2	2	NUM	N	NumType=Card	4	nummod	_	_
+4	anni	anno	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+5	fa	fa	ADV	B	_	4	advmod	_	_
+6	uscivamo	uscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+7-8	sul	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	lungomare	lungomare	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	conj	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	cretini	cretino	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	vedendo	vedere	VERB	V	VerbForm=Ger	11	advcl	_	_
+15	da	da	ADP	E	_	16	case	_	_
+16	telefoni	telefono	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+17	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+18	anti	anti	ADP	E	_	19	case	_	_
+19	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	19	punct	_	_
+21	barzellette	barzellettere	NOUN	S	Gender=Fem|Number=Plur	16	conj	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	sentendo	sentire	VERB	V	VerbForm=Ger	21	conj	_	_
+24	musica	musica	NOUN	S	Gender=Fem|Number=Sing	23	obj	_	SpacesAfter=\n
+

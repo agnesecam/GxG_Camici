@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = http:// Eurosport.com - La Parigi-Roubaix in DIRETTA:
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	Eurosport.com	Eurosport.com	PROPN	SP	_	0	root	_	_
+5	-	-	PUNCT	FF	_	4	punct	_	_
+6	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Parigi	Parigi	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	Roubaix	Roubaix	PROPN	SP	_	4	nmod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	DIRETTA	diretta	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = Sagan e Cancellara estromessi dalla vittoria http:// it.eurosport.com/ciclismo/paris -roubaix/2016/tom-boonen-a-un-secondo-dalla-leggenda-lo-batte-mathew-hayman-cancellara-out-per-una-caduta_sto5429100/story.shtml …
+1	Sagan	Sagan	PROPN	SP	_	11	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	Cancellara	Cancellara	PROPN	SP	_	1	conj	_	_
+4	estromessi	estromettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	1	punct	_	_
+11	it.eurosport.com/ciclismo/paris	it.eurosport.com/ciclismo/paris	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	-roubaix/2016	-roubaix/2016	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	tom	tom	X	X	_	11	obl	_	SpaceAfter=No
+15	-boonen	-boonen	X	SW	Foreign=Yes	14	flat:foreign	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	a-un	a-uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	-secondo	-secondo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	dalla-leggenda-lo	dalla-leggenda-lo	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	batte-mathew-hayman	batte-mathew-hayman	NOUN	S	Gender=Masc|Number=Sing	20	compound	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	cancellara-out-per-una	cancellara-out-per-una	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	caduta_sto5429100	caduta_sto5429100	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+28	story.shtml	story.shtml	NOUN	S	Gender=Masc	24	nmod	_	_
+29	…	…	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

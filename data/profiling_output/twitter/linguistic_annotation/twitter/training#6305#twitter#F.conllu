@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma se fossimo tutti normali, sapete che noia?
+1	ma	ma	CCONJ	CC	_	7	cc	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+5	normali	normale	ADJ	A	Number=Plur	7	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	sapete	sapere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	che	che	SCONJ	CS	_	9	mark	_	_
+9	noia	noiare	NOUN	S	Gender=Fem|Number=Sing	7	ccomp	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = #ciaodarwin
+1	#ciaodarwin	#ciaodarwino	ADV	B	_	0	root	_	SpacesAfter=\n
+

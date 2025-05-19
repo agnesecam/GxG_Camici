@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marioadinolfi ma Lady Oscar e quella zoccola della Principessa sul pisello?
+1	@marioadinolfi	@marioadinolfo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	Lady	Lady	PROPN	SP	_	1	conj	_	_
+4	Oscar	Oscar	PROPN	SP	_	3	flat:name	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	1	conj	_	_
+7	zoccola	zoccolo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Principessa	principessa	PROPN	SP	_	6	nmod	_	_
+11-12	sul	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	pisello	pisello	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mica gliela vorremo far passare liscia!
+1	Mica	mica	ADV	BN	PronType=Neg	5	advmod	_	_
+2-3	gliela	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	iobj	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	vorremo	vorere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+6	passare	passare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+7	liscia	liscia	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/7tdMf1bNVf
+1	pic.twitter.com/7tdMf1bNVf	pic.twitter.com/7tdMf1bNVf	ADP	E	_	0	root	_	SpacesAfter=\n
+

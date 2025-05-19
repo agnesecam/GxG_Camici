@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NOI siamo rinati dalle nostre ceneri...
+1	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj:pass	_	_
+2	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	rinati	rinare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4-5	dalle	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	ceneri..	ceneri..	NOUN	S	_	3	obl:agent	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = "Post fata resurgo" #arabafenice #continuando #perLeStrade #avverbi pic.twitter.com/YxWOcZ9tgV
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Post	post	ADV	B	_	3	advmod	_	_
+3	fata	fare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	resurgo	resurgo	NOUN	S	Gender=Masc|Number=Sing	3	compound	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	3	punct	_	_
+6	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	arabafenice	arabafenice	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+8	#continuando	#continuare	VERB	V	VerbForm=Ger	7	advcl	_	_
+9	#perLeStrade	#perLeStrade	PROPN	SP	_	8	obj	_	_
+10	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	avverbi	avverbo	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+12	pic.twitter.com/YxWOcZ9tgV	pic.twitter.com/YxWOcZ9tgV	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

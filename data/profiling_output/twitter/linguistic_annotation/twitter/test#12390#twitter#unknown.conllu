@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BellioGiacomo @MicheleBiscaro appena finisce la lezione ve li passo, 5€ per ciascuna parola scritta , quindi poi totalizziamo
+1	@BellioGiacomo	@BellioGiacomo	PROPN	SP	_	4	nsubj	_	_
+2	@MicheleBiscaro	@MicheleBiscaro	PROPN	SP	_	1	flat:name	_	_
+3	appena	appena	ADV	B	_	4	advmod	_	_
+4	finisce	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	lezione	lezione	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+7	ve	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	obj	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	passo	passo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	5€	5€	PROPN	SP	_	19	nsubj	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	ciascuna	ciascuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+14	parola	parola	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	_
+15	scritta	scritto	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+16	,	,	PUNCT	FF	_	19	punct	_	_
+17	quindi	quindi	ADV	B	_	19	advmod	_	_
+18	poi	poi	ADV	B	_	19	advmod	_	_
+19	totalizziamo	totalizzare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

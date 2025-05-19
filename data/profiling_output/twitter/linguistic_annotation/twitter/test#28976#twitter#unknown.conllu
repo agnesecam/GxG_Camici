@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @donatellaluisa @ValGrasso @mary10maggio @Sabbetta @bofio mi auguro il tramonto.
+1	@donatellaluisa	@donatellaluidere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+2	@ValGrasso	@ValGrasso	PROPN	SP	_	1	obj	_	_
+3	@mary10maggio	@mary10maggio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+4	@Sabbetta	@Sabbetta	PROPN	SP	_	3	nmod	_	_
+5	@bofio	@bofio	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	auguro	augurare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tramonto.	tramonto.	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..non vorrei avesi il gusto dell orrido riferendoti a me
+1	..non	..non	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	avesi	avendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	gusto	gusto	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	dell	dell	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	orrido	orrido	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+8-9	riferendoti	_	_	_	_	_	_	_	_
+8	riferendo	riferire	VERB	V	VerbForm=Ger	3	advcl	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	obl	_	SpacesAfter=\n
+

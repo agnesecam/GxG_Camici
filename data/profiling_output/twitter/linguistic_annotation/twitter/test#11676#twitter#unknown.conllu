@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non stavamo male, non stavamo bene, semplicemente stavamo insieme.
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	male	male	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	conj	_	_
+7	bene	bene	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	semplicemente	semplicemente	ADV	B	_	10	advmod	_	_
+10	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	conj	_	_
+11	insieme	insieme	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #LetteraturaIn140Caratteri
+1	#LetteraturaIn140Caratteri	#LetteraturaIn140Carattero	ADV	B	_	0	root	_	SpacesAfter=\n
+

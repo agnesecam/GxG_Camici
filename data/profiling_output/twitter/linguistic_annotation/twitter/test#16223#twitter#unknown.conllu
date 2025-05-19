@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma perché vi continuate a frequentare non vi eravate la… — Perché è meglio restare amici che perderla definitivame… https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM3CADFESK2DG2XCN6BX62BYFIRBZZCY2IEZGMWSRQL2ZP4GKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A==== …
+1	Ma	ma	CCONJ	CC	_	15	cc	_	_
+2	perché	perché	SCONJ	CS	_	4	mark	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	4	expl	_	_
+4	continuate	continuare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	advcl	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	frequentare	frequentare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	vi	vi	ADV	B	_	9	advmod	_	_
+9	eravate	eravare	ADJ	A	Gender=Fem|Number=Plur	6	xcomp	_	_
+10	la…	la…	PUNCT	FF	_	4	punct	_	_
+11	—	—	PUNCT	FF	_	4	punct	_	_
+12	Perché	perché	ADV	B	_	15	advmod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	meglio	meglio	ADV	B	_	15	advmod	_	_
+15	restare	restare	VERB	V	VerbForm=Inf	0	root	_	_
+16	amici	amico	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+17	che	che	SCONJ	CS	_	18	mark	_	_
+18-19	perderla	_	_	_	_	_	_	_	_
+18	perder	perdere	VERB	V	VerbForm=Inf	15	ccomp	_	_
+19	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+20	definitivame…	definitivame…	PUNCT	FF	_	24	punct	_	_
+21	https:	https:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	_
+24	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	18	nsubj	_	_
+25	7B667HQMHN2IG6NM3CADFESK2DG2XCN6BX62BYFIRBZZCY2IEZGMWSRQL2ZP4GKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A====	7B667HQMHN2IG6NM3CADFESK2DG2XCN6BX62BYFIRBZZCY2IEZGMWSRQL2ZP4GKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A====	PROPN	SP	_	24	nmod	_	_
+26	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BenjieFede @fedefederossi @Benji_Mascolo Grazie a voi per tutto ciò che fate per noi.
+1	@BenjieFede	@BenjieFedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	1	obj	_	_
+4	Grazie	Grazie	NOUN	S	_	3	flat:name	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	obj	_	_
+11	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sono fiera e orgogliosa di voi.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	fiera	fiero	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	orgogliosa	orgoglioso	PRON	PI	Number=Sing|PronType=Ind	2	conj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

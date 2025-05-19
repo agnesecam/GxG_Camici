@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ar68400335 ahhhh.
+1	@ar68400335	@ar68400335	NUM	N	NumType=Card	2	nummod	_	_
+2	ahhhh	ahhhh	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = che bel rapporto avevate .
+1	che	che	SCONJ	CS	_	3	case	_	_
+2	bel	bello	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	rapporto	rapporto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	avevate	avevare	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Non gli hai sparato, vero?
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sparato	sparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	vero	vero	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

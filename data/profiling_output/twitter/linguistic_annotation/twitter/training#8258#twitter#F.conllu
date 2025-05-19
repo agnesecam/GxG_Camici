@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = So nuotare ahah mia madre mi ha messa sott'acqua quando avevo meno di un anno, dunque https:// twitter.com/movdly/status/ 713468901259141120 …
+1	So	sapere	ADV	B	_	2	advmod	_	_
+2	nuotare	nuotare	VERB	V	VerbForm=Inf	0	root	_	_
+3	ahah	ahah	ADV	B	_	5	advmod	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	madre	madre	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	messa	mettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+9	sott'	sotto	ADP	E	_	10	case	_	SpaceAfter=No
+10	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+11	quando	quando	SCONJ	CS	_	12	mark	_	_
+12	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+13	meno	meno	ADV	B	_	12	advmod	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	anno	anno	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	8	punct	_	_
+18	dunque	dunque	ADV	B	_	8	advmod	_	_
+19	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	8	punct	_	_
+22	twitter.com/movdly/status/	twitter.com/movdly/status/	PUNCT	FF	_	23	punct	_	_
+23	713468901259141120	713468901259141120	NUM	N	NumType=Card	2	nummod	_	_
+24	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

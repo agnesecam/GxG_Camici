@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Si avido di ascoltare e non di parlare"[cit.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	avido	avidere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	ascoltare	ascoltare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	parlare	parlare	VERB	V	VerbForm=Inf	5	conj	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+11	[	[	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	cit	cit	SYM	X	_	3	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Cleobulo]...mai parole furono più vere!
+1	Cleobulo	Cleobulo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+2	]	]	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3	...mai	...mai	ADV	B	_	7	advmod	_	_
+4	parole	parola	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+5	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	vere	vere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = #perAscoltare
+1	#perAscoltare	#perAscoltare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

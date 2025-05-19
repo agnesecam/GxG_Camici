@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono cresciuto con te, mi hai fatto amare e onorare questa maglia, 4 anni fa' ci hai lasciato.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	cresciuto	crescere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+7	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	parataxis	_	_
+9	amare	amare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	onorare	onorare	VERB	V	VerbForm=Inf	9	conj	_	_
+12	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
+13	maglia	maglia	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	11	punct	_	_
+15	4	4	NUM	N	NumType=Card	16	nummod	_	_
+16	anni	anno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+17	fa	fa	ADV	B	_	16	advmod	_	SpaceAfter=No
+18	'	'	PUNCT	FB	_	2	punct	_	_
+19	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	21	iobj	_	_
+20	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	parataxis	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Auguri dovunque sei pic.twitter.com/Hi26xdy1PK
+1	Auguri	augurare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dovunque	dovunque	SCONJ	CS	_	4	mark	_	_
+3	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pic.twitter.com/Hi26xdy1PK	pic.twitter.com/hi26xdy1pk	PROPN	SP	_	1	advcl	_	SpacesAfter=\n
+

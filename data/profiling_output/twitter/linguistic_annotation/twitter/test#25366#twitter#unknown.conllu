@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Appena eletti furono violate le mail di alcuni di noi da sedicenti "Hacker del PD", alcuni contenuti sensibili...
+1	Appena	appena	ADV	B	_	4	advmod	_	_
+2	eletti	eletto	NOUN	S	Gender=Masc|Number=Plur	4	nsubj:pass	_	_
+3	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	violate	violare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	mail	mail	NOUN	S	Gender=Masc	4	nsubj:pass	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	alcuni	alcuno	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	sedicenti	sedicento	NOUN	S	Number=Plur	6	nmod	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	Hacker	Hacker	PROPN	SP	_	12	nmod	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	PD	Pd	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	6	punct	_	_
+20	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	21	det	_	_
+21	contenuti	contenuto	NOUN	S	Gender=Masc|Number=Plur	6	appos	_	_
+22	sensibili...	sensibili.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7URZutTRk
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7URZutTRk	fb.me/7URZutTRk	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Farà anche ridere la "sguattera del Guatemala".Però a me fa inorridire una Magistratura bulimica di notorietà a scapito della privacy #Guidi
+1	Farà	esfere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	anche	anche	ADV	B	_	3	advmod	_	_
+3	ridere	ridere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	sguattera	sguattera	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Guatemala	Guatemala	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+11	.Però	.però	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	obl	_	_
+14	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+15	inorridire	inorridire	VERB	V	VerbForm=Inf	14	ccomp	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Magistratura	magistratura	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+18	bulimica	bulimico	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	notorietà	notorietà	NOUN	S	Gender=Fem	17	nmod	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	scapito	scapito	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+23-24	della	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	privacy	privacy	NOUN	S	_	22	nmod	_	_
+26	#Guidi	#Guido	PROPN	SP	_	25	nmod	_	SpacesAfter=\n
+

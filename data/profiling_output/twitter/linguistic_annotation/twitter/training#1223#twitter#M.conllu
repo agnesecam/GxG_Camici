@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @kantor57 Ovviamente non calcolo noi,perche' scaramanzie a parte,con 4 gare in casa su 6,siamo ad un passo dalla storia.sempre pedalando.
+1	@kantor57	@kantor57	NUM	N	NumType=Card	4	nummod	_	_
+2	Ovviamente	ovviamente	ADV	B	_	4	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	calcolo	calcolare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
+6	,perche	,perca	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	'	'	PUNCT	FB	_	8	punct	_	_
+8	scaramanzie	scaramanzia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	parte,con	parte,con	NOUN	S	Gender=Fem	8	obl	_	_
+11	4	4	NUM	N	NumType=Card	12	nummod	_	_
+12	gare	gara	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	casa	casa	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	su	su	ADP	E	_	16	case	_	_
+16	6	6	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+17	,siamo	,sare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+18	ad	a	ADP	E	_	20	case	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	passo	passo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+21-22	dalla	_	_	_	_	_	_	_	_
+21	da	da	ADP	E	_	24	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+23	storia.sempre	storia.sempre	ADJ	A	_	24	amod	_	_
+24	pedalando	pedalare	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

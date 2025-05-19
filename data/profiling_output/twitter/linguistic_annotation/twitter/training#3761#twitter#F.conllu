@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BenjieFede @fedefederossi @Benji_Mascolo orgogliosa di voi e di tutto ciò che avete fatto per arrivare fin qui.
+1	@BenjieFede	@BenjieFedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	1	obj	_	_
+4	orgogliosa	orgoglioso	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	nmod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
+10	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	13	obj	_	_
+12	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	arrivare	arrivare	VERB	V	VerbForm=Inf	13	advcl	_	_
+16	fin	fino	ADP	E	_	17	case	_	_
+17	qui	qui	ADV	B	_	15	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #VietatoSmettereDiSognare
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	VietatoSmettereDiSognare	VietatoSmettereDiSognare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bot_scom ahimè ... Purtroppo però lo vincerà la Juventus
+1	@bot_scom	@bot_scom	NOUN	S	Gender=Masc	7	nsubj	_	_
+2	ahimè	ahimè	INTJ	I	_	7	discourse	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	_
+4	Purtroppo	purtroppo	ADV	B	_	7	advmod	_	_
+5	però	però	ADV	B	_	7	advmod	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	vincerà	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Juventus	Juventus	PROPN	SP	_	7	nsubj	_	SpacesAfter=\n
+

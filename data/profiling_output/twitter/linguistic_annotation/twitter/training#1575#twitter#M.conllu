@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "A leggerli così, mescolati in quella secrezione delle nostre vite che sono le nostre peggiori telefonate (tanto...
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	A	a	ADP	E	_	3	mark	_	_
+3-4	leggerli	_	_	_	_	_	_	_	_
+3	legger	leggere	VERB	V	VerbForm=Inf	0	root	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+5	così	così	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	mescolati	mescolare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	secrezione	secrezione	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11-12	delle	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	vite	vita	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+15	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+18	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	_
+19	peggiori	peggiore	ADJ	A	Degree=Cmp|Number=Plur	20	amod	_	_
+20	telefonate	telefonata	NOUN	S	Gender=Fem|Number=Plur	14	acl:relcl	_	_
+21	(	(	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+22	tanto...	tanto.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/875d11XmG
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/875d11XmG	fb.me/875d11Xmg	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

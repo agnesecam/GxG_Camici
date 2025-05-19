@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = LIVE #SerieA | Il Napoli vince facile contro l'ultima in classifica e si riporta a -6 dalla Juve capolista https:// twitter.com/seriea_tim/sta tus/719177716944277504 …
+1	LIVE	Live	PROPN	SP	_	6	nsubj	_	_
+2	#SerieA	#SerieA	PROPN	SP	_	1	flat:name	_	_
+3	|	|	SYM	SYM	_	1	flat:name	_	_
+4	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Napoli	Napoli	PROPN	SP	_	1	nmod	_	_
+6	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	facile	facile	ADJ	A	Number=Sing	6	xcomp	_	_
+8	contro	contro	ADP	E	_	12	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+10	ultima	ultimo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	classifica	classifica	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	riporta	riportare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+16	a	a	ADP	E	_	21	case	_	_
+17	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+18	6	6	NUM	N	NumType=Card	21	nummod	_	_
+19-20	dalla	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Juve	Juve	PROPN	SP	_	15	obl	_	_
+22	capolista	capolista	ADJ	A	Number=Sing	21	amod	_	_
+23	https:	https:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	21	punct	_	_
+26	twitter.com/seriea_tim/sta	twitter.com/seriea_tim/stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
+27	tus/719177716944277504	tus/719177716944277504	NUM	N	NumType=Card	26	nummod	_	_
+28	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

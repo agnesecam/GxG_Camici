@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Labellezza di una poesia sta in ciò che ciascuno di noi coglie nel momento in cui la legge in qualche modo personalizzando il suo contenuto
+1	Labellezza	Labellezza	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	poesia	poesia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	_
+8	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+9	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nmod	_	_
+12	coglie	cogliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+13-14	nel	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	momento	momento	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	cui	cui	PRON	PR	PronType=Rel	19	nmod	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	legge	legge	NOUN	S	Gender=Fem|Number=Sing	15	acl:relcl	_	_
+20	in	in	ADP	E	_	22	case	_	_
+21	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	22	det	_	_
+22	modo	modo	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
+23	personalizzando	personalizzare	VERB	V	VerbForm=Ger	19	advcl	_	_
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+25	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det:poss	_	_
+26	contenuto	contenuto	NOUN	S	Gender=Masc|Number=Sing	23	obj	_	SpacesAfter=\n
+

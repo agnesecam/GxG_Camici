@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = i padri trasmettono ai propri figli molto più del singolo DNA che essi stessi ereditano alla nascita #loimmaginocosi pic.twitter.com/23PRa0PvSk
+1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	padri	padre	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	trasmettono	trasmettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	ai	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	propri	proprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+8	molto	molto	ADV	B	_	9	advmod	_	_
+9	più	più	ADV	B	_	3	advmod	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	singolo	singolo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	DNA	Dna	PROPN	SP	_	12	nmod	_	_
+14	che	che	PRON	PR	PronType=Rel	17	obj	_	_
+15	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+16	stessi	stesso	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	15	nmod	_	_
+17	ereditano	ereditare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+18-19	alla	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	nascita	nascita	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+21	#loimmaginocosi	#loimmaginocoso	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	_
+22	pic.twitter.com/23PRa0PvSk	pic.twitter.com/23PRa0PvSk	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

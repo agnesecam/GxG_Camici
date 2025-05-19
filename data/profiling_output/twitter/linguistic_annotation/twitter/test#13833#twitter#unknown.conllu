@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anno 2080.
+1	Anno	anno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	2080	2080	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Creati computer avanzati in grado di selezionare il personale di un'azienda.
+1	Creati	creare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	computer	computer	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	avanzati	avanzato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	grado	grado	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	selezionare	selezionare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	personale	personale	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	azienda	azienda	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Quando chiedi i dati rispondono:
+1	Quando	quando	SCONJ	CS	_	2	mark	_	_
+2	chiedi	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	dati	dato	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	rispondono	rispondere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 4
+# text = "Le faremo sapere".
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	3	iobj	_	_
+3	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	sapere	sapere	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

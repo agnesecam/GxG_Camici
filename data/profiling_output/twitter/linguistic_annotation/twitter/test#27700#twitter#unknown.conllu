@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ODDIO HAHAHAH MA NON ME NE VENIVA UNA RIDO, POI HO MESSO LE CUFFIE E SUL GRUPPO AVEVANO MESSO TUTTE LE ESPRESSIONI- https:// twitter.com/_waitingforhaz /status/717264056734904321 …
+1	ODDIO	oddio	INTJ	I	_	0	root	_	_
+2	HAHAHAH	HAHAHAH	PROPN	SP	_	1	obj	_	_
+3	MA	Ma	PROPN	SP	_	2	flat:name	_	_
+4	NON	non	PROPN	SP	_	2	nmod	_	_
+5	ME	me	PROPN	SP	_	4	flat:name	_	_
+6	NE	ne	PROPN	SP	_	4	flat:name	_	_
+7	VENIVA	venire	PROPN	SP	_	4	flat:name	_	_
+8	UNA	uno	PROPN	SP	_	7	flat:name	_	_
+9	RIDO	rido	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	7	punct	_	_
+11	POI	poi	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	obj	_	_
+12	HO	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	MESSO	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+14	LE	Le	PROPN	SP	_	13	obj	_	_
+15	CUFFIE	CUFFIE	PROPN	SP	_	14	flat:name	_	_
+16	E	e	CCONJ	CC	_	17	cc	_	_
+17-18	SUL	_	_	_	_	_	_	_	_
+17	SU	Su	PROPN	SP	_	14	flat:name	_	_
+18	IL	Il	PROPN	SP	_	17	flat:name	_	_
+19	GRUPPO	Gruppo	PROPN	SP	_	17	flat:name	_	_
+20	AVEVANO	avere	PROPN	SP	_	17	flat:name	_	_
+21	MESSO	mettere	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+22	TUTTE	tutto	PROPN	SP	_	17	nmod	_	_
+23	LE	Le	PROPN	SP	_	22	flat:name	_	_
+24	ESPRESSIONI	Espressioni	PROPN	SP	_	22	flat:name	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	26	punct	_	_
+26	https:	https:	PUNCT	FC	_	29	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	26	punct	_	_
+29	twitter.com/_waitingforhaz	twitter.com/_waitingforhaz	NOUN	S	Gender=Masc	17	nmod	_	_
+30	/status/717264056734904321	/status/717264056734904321	NUM	N	NumType=Card	29	nummod	_	_
+31	…	…	PUNCT	FF	_	29	punct	_	SpacesAfter=\n
+

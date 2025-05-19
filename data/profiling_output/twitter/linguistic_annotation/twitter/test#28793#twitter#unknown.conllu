@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = era bello mettere in tavola la bottiglia con quelle sottili strisciare, ognuna con un tweet @beigua1962 @CasulaGiuliana
+1	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	bello	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	mettere	mettere	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	tavola	tavola|tavolo	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	bottiglia	bottiglia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	3	obl	_	_
+10	sottili	sottile	ADJ	A	Number=Plur	9	amod	_	_
+11	strisciare	strisciare	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	ognuna	ognuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	conj	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	tweet	tweet	NOUN	S	Gender=Masc	13	nmod	_	_
+17	@beigua1962	@beigua1962	NUM	N	NumType=Card	16	nummod	_	_
+18	@CasulaGiuliana	@CasulaGiuliana	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

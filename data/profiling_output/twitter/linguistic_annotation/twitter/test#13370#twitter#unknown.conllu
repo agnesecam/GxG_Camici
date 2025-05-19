@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se lo dice lei.
+1	se	se	SCONJ	CS	_	3	mark	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	lei.	lei.	NOUN	S	_	3	nsubj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..che di deficienti ne vede parecchi a scuola tutti i giorni.
+1	..che	..ca	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	deficienti	deficiento	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+5	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+9	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	11	det:predet	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	giorni.	giorni.	NOUN	S	_	5	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ......questo è il peggiore https:// twitter.com/FuoriOndaLa7/s tatus/709108744366460928 …
+1	......questo	......questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	peggiore	peggiore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	_
+8	twitter.com/FuoriOndaLa7/s	twitter.com/FuoriOndaLa7/s	PROPN	SP	_	4	nmod	_	_
+9	tatus/709108744366460928	tatus/709108744366460928	NUM	N	NumType=Card	8	nummod	_	_
+10	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DSportiva perche ' i servizi delle partite con gol e interviste a giocatori e allenatori non ci sono?parlate solo tra voi.
+1	@DSportiva	@DSportivo	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	perche	perca	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+3	'	'	PUNCT	FB	_	5	punct	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	partite	partita	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	gol	gol	NOUN	S	Gender=Masc	8	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	interviste	intervista	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	giocatori	giocatore	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	allenatori	allenatore	NOUN	S	Gender=Masc|Number=Plur	14	conj	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	_
+19	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	19	punct	_	SpaceAfter=No
+21	parlate	parlare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	19	ccomp	_	_
+22	solo	solo	ADV	B	_	24	advmod	_	_
+23	tra	tra	ADP	E	_	24	case	_	_
+24	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	21	obl	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	19	punct	_	SpacesAfter=\n
+

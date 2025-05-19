@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Final Fantasy XV dovrà vendere 10 milioni di copie per andare in pari.
+1	Final	Final	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	Fantasy	Fantasy	PROPN	SP	_	5	nsubj	_	_
+3	XV	XV	PROPN	SP	_	2	flat:name	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	vendere	vendere	VERB	V	VerbForm=Inf	0	root	_	_
+6	10	10	NUM	N	NumType=Card	7	nummod	_	_
+7	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	copie	copia	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	andare	andare	VERB	V	VerbForm=Inf	5	advcl	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	pari	pari	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ne bastano 8 per salvare la Grecia invece.
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+2	bastano	bastare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	8	8	NUM	N	NumType=Card	2	xcomp	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5	salvare	salvare	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Grecia	Grecia	PROPN	SP	_	5	obj	_	_
+8	invece	invece	ADV	B	_	5	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

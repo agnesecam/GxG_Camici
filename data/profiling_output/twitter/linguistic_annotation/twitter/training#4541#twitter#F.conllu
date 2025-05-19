@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @maolindas @SorryNs @FUJIKORITA @Rita27546 @YouTube Sono certa che con un minimo di pazienza il cane capirà come si dovrà comportare.
+1	@maolindas	@maolindas	NOUN	S	Gender=Masc	7	nsubj	_	_
+2	@SorryNs	@SorryNs	PROPN	SP	_	1	nmod	_	_
+3	@FUJIKORITA	@FUJIKORITA	PROPN	SP	_	2	flat:name	_	_
+4	@Rita27546	@Rita27546	PROPN	SP	_	2	flat:name	_	_
+5	@YouTube	@YouTube	PROPN	SP	_	2	flat:name	_	_
+6	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	certa	certo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+8	che	che	SCONJ	CS	_	16	mark	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	minimo	minimo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	pazienza	pazienza	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	cane	cane	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+16	capirà	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	ccomp	_	_
+17	come	come	SCONJ	CS	_	20	mark	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl:impers	_	_
+19	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	cop	_	_
+20	comportare.	comportare.	NOUN	S	Gender=Masc	16	advcl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

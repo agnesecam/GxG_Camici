@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il capolavoro dell’ingiustizia è di sembrare giusto senza esserlo.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	capolavoro	capolavoro	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3-4	dell’	_	_	_	_	_	_	_	SpaceAfter=No
+3	di	di	ADP	E	_	5	case	_	_
+4	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	ingiustizia	ingiustizia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+9	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	_
+10	senza	senza	ADP	E	_	12	mark	_	_
+11-12	esserlo	_	_	_	_	_	_	_	SpaceAfter=No
+11	esser	essere	AUX	V	VerbForm=Inf	12	cop	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	advcl	_	_
+13	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = (Platone)
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Platone	Platone	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

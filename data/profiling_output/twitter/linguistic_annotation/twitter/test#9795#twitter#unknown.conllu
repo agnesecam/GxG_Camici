@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Entella-Spezia 2-2 risultato giusto, e l'11esimo risultato consecutivo avanti così pic.twitter.com/aAlcgTNm4I
+1	Entella	Entella	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+2	-Spezia	-Spezia	PROPN	SP	_	1	flat:name	_	_
+3	2	2	NUM	N	NumType=Card	1	flat:name	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	2	2	NUM	N	NumType=Card	6	nummod	_	_
+6	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+11	11esimo	11esimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	_
+12	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+13	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	avanti	avanti	NOUN	S	Gender=Masc	12	compound	_	_
+15	così	così	ADV	B	_	16	advmod	_	_
+16	pic.twitter.com/aAlcgTNm4I	pic.twitter.com/aAlcgTNm4I	ADJ	NO	Number=Sing|NumType=Ord	12	amod	_	SpacesAfter=\n
+

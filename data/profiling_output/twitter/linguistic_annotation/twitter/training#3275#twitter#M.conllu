@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TriathBlade heheheh !! hai ragione ;) la pelata non se po vede ;) oggi io Fara Sabina !!
+1	@TriathBlade	@TriathBladere	X	SW	Foreign=Yes	9	nmod	_	_
+2	heheheh	heheheh	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	!!	!!	PUNCT	FF	_	1	punct	_	_
+4	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	;	;	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	1	punct	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pelata	pelato	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	se	se	SCONJ	CS	_	13	mark	_	_
+12	po	po	SCONJ	CS	_	13	mark	_	_
+13	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+14	;	;	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	14	punct	_	_
+16	oggi	oggi	ADV	B	_	17	advmod	_	_
+17	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+18	Fara	Fara	ADP	E	_	19	case	_	_
+19	Sabina	Sabino	PROPN	SP	_	17	nmod	_	_
+20	!	!	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Bellissima Gara 90Km +1700 sotto le 4 ore ;)
+1	Bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
+2	Gara	gara	PROPN	SP	_	0	root	_	_
+3	90Km	90Km	PROPN	SP	_	2	flat:name	_	_
+4	+1700	+1700	NUM	N	NumType=Card	2	nummod	_	_
+5	sotto	sotto	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	4	4	NUM	N	NumType=Card	8	nummod	_	_
+8	ore	ora	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+9	;	;	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

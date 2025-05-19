@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vinitaly 2016: a Veronafiere tante iniziative &quot; dentro e fuori la bottiglia&quot;:
+1	Vinitaly	Vinitaly	CCONJ	CC	_	2	cc	_	_
+2	2016	2016	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Veronafiere	Veronafiere	PROPN	SP	_	7	obl	_	_
+6	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+7	iniziative	iniziativa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+8	&quot	&quot	NOUN	S	_	7	compound	_	SpaceAfter=No
+9	;	;	PUNCT	FC	_	10	punct	_	_
+10	dentro	dentro	ADV	B	_	7	conj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	fuori	fuori	ADV	B	_	14	advmod	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	bottiglia&quot	bottiglia&quot	NOUN	S	_	10	conj	_	SpaceAfter=No
+15	;	;	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+16	:	:	PUNCT	FC	_	7	punct	_	_
+
+# sent_id = 2
+# text = Molti… http:// goo.gl/fb/lF7ZgY
+1	Molti…	Molti…	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	goo.gl/fb/lF7ZgY	goo.gl/fb/lf7zgy	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'autoscuola Giulia è su Istagram !
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	autoscuola	autoscuola	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	Giulia	Giulia	PROPN	SP	_	2	nmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	Istagram	Istagram	PROPN	SP	_	0	root	_	_
+7	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Guarda le nostre foto e se vuoi tagga anche le tue ! #autoscuolagiulia http:// fb.me/19kM5NQe5
+1	Guarda	guardare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	foto	foto	NOUN	S	Gender=Fem	1	obj	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	tagga	taggare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	anche	anche	ADV	B	_	11	advmod	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	tue	tua	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
+12	!	!	PUNCT	FS	_	13	punct	_	_
+13	#autoscuolagiulia	#autoscuolagiulia	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	fb.me/19kM5NQe5	fb.me/19kM5NQe5	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

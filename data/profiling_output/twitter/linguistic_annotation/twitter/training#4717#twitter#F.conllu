@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tipo quando ci fu il TMHT papà riuscì a contattarla per cercare di farmi avere i biglietti (per poi scoprire che non dipende da Sony ma ok)
+1	Tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	quando	quando	SCONJ	CS	_	8	mark	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+4	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	TMHT	TMHT	PROPN	SP	_	8	nsubj	_	_
+7	papà	papà	NOUN	S	Gender=Masc	8	nsubj	_	_
+8	riuscì	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10-11	contattarla	_	_	_	_	_	_	_	_
+10	contattar	contattare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	cercare	cercare	VERB	V	VerbForm=Inf	10	advcl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	farmi	arma|farme	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+16	avere	avere	VERB	V	VerbForm=Inf	13	xcomp	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	biglietti	biglietto	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	_
+19	(	(	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+20	per	per	ADP	E	_	21	case	_	_
+21	poi	poi	ADV	B	_	22	advmod	_	_
+22	scoprire	scoprire	VERB	V	VerbForm=Inf	16	advcl	_	_
+23	che	che	SCONJ	CS	_	25	mark	_	_
+24	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+25	dipende	dipendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	ccomp	_	_
+26	da	da	ADP	E	_	27	case	_	_
+27	Sony	Sony	PROPN	SP	_	25	obl	_	_
+28	ma	ma	CCONJ	CC	_	29	cc	_	_
+29	ok	ok	NOUN	S	_	27	conj	_	SpaceAfter=No
+30	)	)	PUNCT	FB	_	22	punct	_	SpacesAfter=\n
+

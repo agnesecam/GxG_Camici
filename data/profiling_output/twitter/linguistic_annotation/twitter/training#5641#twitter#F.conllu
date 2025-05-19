@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @JessicaChimenti insegnagliene qualcuna di Er Piotta ti prego
+1	@JessicaChimenti	@JessicaChimento	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2-4	insegnagliene	_	_	_	_	_	_	_	_
+2	insegna	insegnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
+3	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	iobj	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+5	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Er	Er	PROPN	SP	_	5	nmod	_	_
+8	Piotta	Piotto	PROPN	SP	_	7	flat:name	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+10	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

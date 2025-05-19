@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Morta per salvare il cane ( troppo sensibile ) della figlia, il meticcio dovrà tornare al canile http://www.
+1	Morta	morire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	salvare	salvare	VERB	V	VerbForm=Inf	1	advcl	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cane	cane	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	(	(	PUNCT	FB	_	8	punct	_	_
+7	troppo	troppo	ADV	B	_	8	advmod	_	_
+8	sensibile	sensibile	ADJ	A	Number=Plur	1	advcl	_	_
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10-11	della	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	figlia	figlia	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	meticcio	meticcio	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+17	tornare	tornare	VERB	V	VerbForm=Inf	0	root	_	_
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	21	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	canile	canile	ADJ	A	Number=Sing	21	amod	_	_
+21	http://www	http://www	NOUN	S	_	17	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	17	punct	_	_
+
+# sent_id = 2
+# text = ilrestodelcarlino.it/modena/morta-c ane-figlia-1.2016366?wt_mc=twitteruser … via @quotidianonet
+1	ilrestodelcarlino.it/modena/morta-c	ilrestodelcarlino.it/modena/morta-c	NOUN	S	Gender=Fem	0	root	_	_
+2	ane	ane	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	figlia-1.2016366	figlia-1.2016366	SYM	X	_	1	nmod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+6	wt_mc=twitteruser	wt_mc=twitteruser	NOUN	S	Gender=Masc	8	nmod	_	_
+7	…	…	PUNCT	FF	_	8	punct	_	_
+8	via	via	NOUN	S	Gender=Fem|Number=Sing	1	parataxis	_	_
+9	@quotidianonet	@quotidianonet	NOUN	S	Gender=Masc	1	compound	_	SpacesAfter=\n
+

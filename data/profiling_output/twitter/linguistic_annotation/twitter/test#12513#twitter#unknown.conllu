@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gario79 @vine merita sconto e serve una riflessione che nessuna ha coraggio di fare:arbitri che vogliono rispetto,devono rispetto!qui manca
+1	@gario79	@gario79	NUM	N	NumType=Card	2	nummod	_	_
+2	@vine	@vina	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	merita	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	parataxis	_	_
+4	sconto	sconto	ADJ	A	Gender=Masc|Number=Sing	3	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	riflessione	riflessione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	nessuna	nessuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	nsubj	_	_
+11	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	fare	fare	VERB	V	VerbForm=Inf	12	acl	_	SpaceAfter=No
+15	:arbitri	:arbitro	NOUN	S	Gender=Masc|Number=Plur	14	obj	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	vogliono	volere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+18	rispetto	rispetto	ADP	E	_	19	case	_	SpaceAfter=No
+19	,devono	,devere	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+20	rispetto	rispetto	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
+21	!qui	!qui	PRON	PR	PronType=Rel	22	nsubj	_	_
+22	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

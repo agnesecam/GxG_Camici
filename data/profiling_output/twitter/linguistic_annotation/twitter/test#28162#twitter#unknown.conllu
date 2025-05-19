@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A parte qualche migliaio di soggetti che ci mangiano a sfare, non ho capito a cosa facciano comodo a decine di... http:// shr.gs/65c04J
+1	A	a	ADP	E	_	2	case	_	_
+2	parte	parte	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+3	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	migliaio	migliaio	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	soggetti	soggetto	NOUN	S	Gender=Masc	4	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+9	mangiano	mangiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	sfare	sfare	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	4	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	18	obl	_	_
+18	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+19	comodo	comodo	ADJ	A	Gender=Masc|Number=Sing	18	xcomp	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	decine	decina	NOUN	S	Gender=Fem|Number=Plur	19	obl	_	_
+22	di...	di.	PUNCT	FS	_	19	punct	_	_
+23	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	19	punct	_	_
+26	shr.gs/65c04J	shr.gs/65c04J	PROPN	SP	_	15	xcomp	_	SpacesAfter=\n
+

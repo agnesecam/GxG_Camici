@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi un tipo mi ha salutata come se fossimo amici da una vita ma io non l'ho mai visto in vita mia
+1	Oggi	oggi	ADV	B	_	6	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	salutata	salutare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	come	come	ADV	B	_	10	advmod	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	amici	amico	NOUN	S	Gender=Masc|Number=Plur	6	advcl	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	vita	vita	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	ma	ma	CCONJ	CC	_	20	cc	_	_
+15	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+16	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+17	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	20	obj	_	SpaceAfter=No
+18	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+19	mai	mai	ADV	B	_	20	advmod	_	_
+20	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+21	in	in	ADP	E	_	22	case	_	_
+22	vita	vita	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+23	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	SpacesAfter=\n
+

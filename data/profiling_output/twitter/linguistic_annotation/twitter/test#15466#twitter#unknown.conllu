@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MCriscitiello @eligalimi io non ce la farei a lavorare concentrato!
+1	@MCriscitiello	@MCriscitiello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@eligalimi	@eligalimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	1	amod	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+6	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	lavorare	lavorare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	concentrato	concentrato	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Tanta stima per chi riesce a farlo!
+1	Tanta	tanto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	stima	stima	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	nmod	_	_
+5	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7-8	farlo	_	_	_	_	_	_	_	SpaceAfter=No
+7	far	fare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Complimenti
+1	Complimenti	complimenti	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

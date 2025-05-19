@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LiciniPatrizia @enricopanaino daiii vai In Romagna *culona*?
+1	@LiciniPatrizia	@LiciniPatrizia	ADV	B	_	2	advmod	_	_
+2	@enricopanaino	@enricopanaino	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	daiii	daterzo	ADJ	NO	Number=Sing|NumType=Ord	4	xcomp	_	_
+4	vai	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+5	In	in	ADP	E	_	6	case	_	_
+6	Romagna	Romagna	PROPN	SP	_	4	obl	_	_
+7	*culona*	*culona*	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Se fossimo più vicine partirei con te davvero
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	vicine	vicino	ADJ	A	Gender=Fem|Number=Plur	5	advcl	_	_
+5	partirei	partire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+8	davvero	davvero	ADV	B	_	5	advmod	_	SpacesAfter=\n
+

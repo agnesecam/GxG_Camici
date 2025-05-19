@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fabio Volo sbrocca"Adinolfi curati con psicofarmaci!"Kung Fu Panda 3 http:// fb.me/7QzRbKO7l
+1	Fabio	Fabio	PROPN	SP	_	0	root	_	_
+2	Volo	volo	PROPN	SP	_	1	flat:name	_	_
+3	sbrocca	sbroccare	ADP	E	_	5	case	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Adinolfi	Adinolfi	PROPN	SP	_	1	nmod	_	_
+6	curati	curare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	psicofarmaci	psicofarmaco	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+9	!"	!"	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	Kung	Kung	PROPN	SP	_	8	nmod	_	_
+11	Fu	Fu	PROPN	SP	_	10	flat:name	_	_
+12	Panda	panda	PROPN	SP	_	11	flat:name	_	_
+13	3	3	NUM	N	NumType=Card	11	flat:name	_	_
+14	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	11	punct	_	_
+17	fb.me/7QzRbKO7l	fb.me/7QzRbKO7l	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

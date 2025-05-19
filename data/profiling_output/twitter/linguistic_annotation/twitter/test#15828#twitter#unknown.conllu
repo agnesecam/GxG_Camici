@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FrancescoBonif1 ma piantala pagliaccio incomincia intanto a dirci come sei diventato tesoriere di Renzi perché sei l ex della #Boschi ?
+1	@FrancescoBonif1	@FrancescoBonif1	NUM	N	NumType=Card	3	nummod	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3-4	piantala	_	_	_	_	_	_	_	_
+3	pianta	pianta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	pagliaccio	pagliaccio	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+6	incomincia	incominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	intanto	intanto	ADV	B	_	6	advmod	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	dirci	_	_	_	_	_	_	_	_
+9	dir	dire	VERB	V	VerbForm=Inf	6	xcomp	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+11	come	come	SCONJ	CS	_	13	mark	_	_
+12	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+14	tesoriere	tesoriere	NOUN	S	Gender=Masc|Number=Sing	13	xcomp	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	Renzi	Renzi	PROPN	SP	_	14	nmod	_	_
+17	perché	perché	SCONJ	CS	_	19	mark	_	_
+18	sei	sei	NUM	N	NumType=Card	19	nummod	_	_
+19	l	l	NOUN	S	_	13	advcl	_	_
+20	ex	ex	ADJ	A	_	19	amod	_	_
+21-22	della	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	#Boschi	#Boschi	PROPN	SP	_	19	nmod	_	_
+24	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

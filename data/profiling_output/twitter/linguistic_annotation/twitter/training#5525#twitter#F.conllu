@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RosaPolacco @AuditoriumPdM @Oival_f @libricome @marinosinibaldi Immagino!
+1	@RosaPolacco	@RosaPolacco	X	SW	Foreign=Yes	0	root	_	_
+2	@AuditoriumPdM	@AuditoriumPdM	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	@Oival_f	@Oival_f	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	@libricome	@libricome	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	@marinosinibaldi	@marinosinibaldo	NOUN	S	Gender=Masc|Number=Plur	1	flat:foreign	_	_
+6	Immagino	Immagino	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Se potete mettetene qualcuna .
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mettetene	mettetena	ADV	B	_	4	advmod	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = È strepitosa questa galleria.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	strepitosa	strepitoso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	galleria	galleria	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

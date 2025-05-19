@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @catarvoyageur @albejordan @carlucci_cc bloccate il troll.
+1	@catarvoyageur	@catarvoyageure	ADP	E	_	3	case	_	_
+2	@albejordan	@albejordan	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	@carlucci_cc	@carlucci_ccetera	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	bloccate	bloccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	troll	troll	NOUN	S	Gender=Masc	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Alla boschi le leggi gliele scrive la total.
+1-2	Alla	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	boschi	bosco	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+6	gliele	gliele	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+7	scrive	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	total	total	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = Chissà chi detta i tweet a questi.
+1	Chissà	chissà	ADV	B	_	2	advmod	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+3	detta	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	tweet	tweet	NOUN	S	Gender=Masc	3	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

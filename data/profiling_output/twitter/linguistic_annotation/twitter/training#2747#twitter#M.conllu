@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @miclerario il proverbio è in chiave provocatoria:
+1	@miclerario	@miclerario	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	proverbio	proverbio	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	provocatoria	provocatorio	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = il saggio in realtà è la persona da lodare, perché è talmente umile da sembrare ignorante
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	saggio	saggio	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	persona	persona	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+8	da	da	ADP	E	_	9	mark	_	_
+9	lodare	lodare	VERB	V	VerbForm=Inf	7	acl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	7	punct	_	_
+11	perché	perché	SCONJ	CS	_	14	mark	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	talmente	talmente	ADV	B	_	14	advmod	_	_
+14	umile	umile	ADJ	A	Number=Sing	7	advcl	_	_
+15	da	da	ADP	E	_	16	mark	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	14	advcl	_	_
+17	ignorante	ignorante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	16	xcomp	_	SpacesAfter=\n
+

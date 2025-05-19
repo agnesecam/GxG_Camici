@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @1d_wonderfull dunque sei una sirena e non lo sapevo Poi fammi sapere il giorno e l'ora:
+1	@1d_wonderfull	@1d_wonderfull	NOUN	S	Gender=Masc	0	root	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	sei	essere	NUM	N	NumType=Card	5	nummod	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	sirena	sirena	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	conj	_	_
+10	Poi	poi	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	fammi	fare	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+12	sapere	sapere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	ora	ora	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+18	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = non mancherò sicuramente!
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	mancherò	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	sicuramente	sicuro	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

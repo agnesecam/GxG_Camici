@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'integrazione è una situazione talmente automatica che non ha neppure bisogno di essere concepita laddove ci... http:// fb.me/7Vw41Odzj
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	integrazione	integrazione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	21	nsubj	_	_
+6	talmente	talmente	ADV	B	_	7	advmod	_	_
+7	automatica	automatica	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+11	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+12	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	di	di	ADP	E	_	15	mark	_	_
+14	essere	essere	AUX	VA	VerbForm=Inf	15	aux:pass	_	_
+15	concepita	concepire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+16	laddove	laddove	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	_
+17	ci...	ci.	NOUN	S	_	15	obl	_	_
+18	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	fb.me/7Vw41Odzj	fb.me/7Vw41Odzj	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

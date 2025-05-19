@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jo19N26 ed era nostro praticamente, così come Astori e Soriano in estate.
+1	@jo19N26	@jo19N26	PROPN	SP	_	0	root	_	_
+2	ed	e	CCONJ	CC	_	5	cc	_	_
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	nostro	nostro	ADV	B	_	5	advmod	_	_
+5	praticamente	praticamente	ADV	B	_	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	così	così	ADV	B	_	5	advmod	_	_
+8	come	come	ADP	E	_	9	case	_	_
+9	Astori	Astore	PROPN	SP	_	5	obl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	Soriano	Soriano	PROPN	SP	_	9	conj	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	estate	estate	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Immagina se li avessimo presi...
+1	Immagina	Immagina	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	presi...	presi...	NOUN	S	_	1	advcl	_	SpacesAfter=\n
+

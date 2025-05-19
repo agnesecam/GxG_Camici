@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si dovrà convivere a lungo con tassi bassi?
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	convivere	convivere	VERB	V	VerbForm=Inf	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	lungo	lungo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	tassi	tasso	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+8	bassi	basso	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @sole24ore @federalreserve pic.twitter.com/uup5Mzl9s0
+1	@sole24ore	@sole24ore	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	@federalreserve	@federalreserva	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	pic.twitter.com/uup5Mzl9s0	pic.twitter.com/uup5Mzl9s0	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

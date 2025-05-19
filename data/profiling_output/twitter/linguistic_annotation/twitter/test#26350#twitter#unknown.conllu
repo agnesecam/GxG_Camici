@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voi vi sorprendete, ma se aveste fatto caso ai segnali di questa stagione si capiva benissimo che lexa sarebbe morta #The100
+1	Voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	sorprendete	sorprendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	ma	ma	CCONJ	CC	_	8	cc	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7	aveste	avedere	VERB	V	Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+9	caso	caso	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+10-11	ai	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	segnali	segnale	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
+15	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	capiva	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	advcl	_	_
+18	benissimo	bene	ADV	B	Degree=Abs	17	advmod	_	_
+19	che	che	DET	DQ	PronType=Int	20	det	_	_
+20	lexa	lexare	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+21	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	morta	morire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+23	#The100	#The100	PROPN	SP	_	22	xcomp	_	SpacesAfter=\n
+

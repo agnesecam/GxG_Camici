@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Evra voleva spazzarla con la forza delle interviste, aveva previsto lo 0-1 ma siccome stavamo 0-2 ha pensato bene di buttare tutto a mare
+1	Evra	Evra	ADV	B	_	3	advmod	_	_
+2	voleva	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3-4	spazzarla	_	_	_	_	_	_	_	_
+3	spazzar	spazzare	VERB	V	VerbForm=Inf	0	root	_	_
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	forza	forza	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8-9	delle	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	interviste	intervista	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	previsto	prevedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	0	0	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+16	-1	-1	NUM	N	NumType=Card	15	flat	_	_
+17	ma	ma	CCONJ	CC	_	24	cc	_	_
+18	siccome	siccome	SCONJ	CS	_	24	mark	_	_
+19	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	20	cop	_	_
+20	0	0	NUM	N	NumType=Card	24	nummod	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	2	2	NUM	N	NumType=Card	20	compound	_	_
+23	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
+25	bene	bene	ADV	B	_	24	advmod	_	_
+26	di	di	ADP	E	_	27	mark	_	_
+27	buttare	buttare	VERB	V	VerbForm=Inf	24	xcomp	_	_
+28	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	27	obj	_	_
+29	a	a	ADP	E	_	30	case	_	_
+30	mare	mare	NOUN	S	Gender=Masc|Number=Sing	27	obl	_	SpacesAfter=\n
+

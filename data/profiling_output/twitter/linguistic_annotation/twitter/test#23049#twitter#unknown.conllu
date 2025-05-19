@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @urbanistrani nella foto sono io, a genn gli occhiali glieli avevo portati un'altra volta ahahhahahha
+1	@urbanistrani	@urbanistrano	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+2-3	nella	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	foto	foto	NOUN	S	Gender=Fem	6	obl	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	genn	genno	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	occhiali	occhiale	NOUN	S	Gender=Masc|Number=Plur	15	dislocated	_	_
+12-13	glieli	_	_	_	_	_	_	_	_
+12	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	iobj	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+14	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	portati	portare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+16	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+17	altra	altro	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+18	volta	volta	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+19	ahahhahahha	ahahhahahavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

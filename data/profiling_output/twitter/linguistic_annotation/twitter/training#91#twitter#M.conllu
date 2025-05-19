@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @spano81 @delpieroale anche perchè probabilmente se ne sarebbero andati all'estero con ingaggi di 10 milioni all'anno.
+1	@spano81	@spano81	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@delpieroale	@delpieroale	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	anche	anche	ADV	B	_	9	advmod	_	_
+4	perchè	perché	SCONJ	CS	_	9	mark	_	_
+5	probabilmente	probabilmente	ADV	B	_	9	advmod	_	_
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+8	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+10-11	all'	_	_	_	_	_	_	_	SpaceAfter=No
+10	a	a	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	estero	estero	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	ingaggi	ingaggio	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	10	10	NUM	N	NumType=Card	17	nummod	_	_
+17	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+18-19	all'	_	_	_	_	_	_	_	SpaceAfter=No
+18	a	a	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	anno	anno	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Confesso:
+1	Confesso	Confesso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ho disertato perché avevo sonno, ma vi riguardo!
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	disertato	disertare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	perché	perché	SCONJ	CS	_	4	mark	_	_
+4	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+5	sonno	sonno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	vi	vi	ADV	B	_	9	advmod	_	_
+9	riguardo	riguardo	ADV	B	_	4	advmod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = @evagiovannini @mastrobradipo https:// twitter.com/evagiovannini/ status/719176693760532480 …
+1	@evagiovannini	@evagiovannino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@mastrobradipo	@mastrobradipo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	twitter.com/evagiovannini/	twitter.com/evagiovannini/	PUNCT	FF	_	2	punct	_	_
+7	status/719176693760532480	status/719176693760532480	NUM	N	NumType=Card	2	nummod	_	_
+8	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

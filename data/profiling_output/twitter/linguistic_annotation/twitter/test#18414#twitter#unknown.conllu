@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @G_Higuain siamo tutti con te tutti noi leggevano la rabbia che avevi e l'amore che hai per il Napoli.
+1	@G_Higuain	@G_Higuain	PROPN	SP	_	3	nsubj	_	_
+2	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	obl	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	leggevano	leggere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	rabbia	rabbia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	avevi	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	amore	amore	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	_
+16	che	che	PRON	PR	PronType=Rel	17	obj	_	_
+17	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Napoli	Napoli	PROPN	SP	_	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = E per un fallo non commesso.se.campio
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fallo	fallo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	commesso.se.campio	commesso.se.campio	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\n
+

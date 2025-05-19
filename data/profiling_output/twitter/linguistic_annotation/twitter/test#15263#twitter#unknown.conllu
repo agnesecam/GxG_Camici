@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = logica eventualità . ma cosa pensavano facesse sto job... delo cavolo.il lavoro si crea e non si compra !! https:// twitter.com/giure99/status /710333389807722496 …
+1	logica	logico	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	eventualità	eventualità	NOUN	S	Gender=Fem	1	compound	_	_
+3	.	.	PUNCT	FS	_	1	punct	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	6	nsubj	_	_
+6	pensavano	pensare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+8	sto	sto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	job...	job.	NOUN	S	_	10	obj	_	_
+10	delo	delare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+11	cavolo.il	cavolo.il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	crea	creare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl:impers	_	_
+18	compra	comprare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+19	!!	!!	PUNCT	FF	_	23	punct	_	_
+20	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	_
+23	twitter.com/giure99/status	twitter.com/giure99/status	NOUN	S	Gender=Fem	18	obj	_	_
+24	/710333389807722496	/710333389807722496	NUM	N	NumType=Card	23	nummod	_	_
+25	…	…	PUNCT	FF	_	14	punct	_	SpacesAfter=\n
+

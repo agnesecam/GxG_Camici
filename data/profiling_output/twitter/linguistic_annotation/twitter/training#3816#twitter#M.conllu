@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @stuksman @Paolo_Bargiggia è ciò che vorrebbe il Sig.
+1	@stuksman	@stuksman	NOUN	S	Gender=Masc	4	nsubj	_	_
+2	@Paolo_Bargiggia	@Paolo_Bargiggia	PROPN	SP	_	1	nmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	vorrebbe	volere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Sig	Sig	PROPN	SP	_	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = "CR7 andrà" e qualche apologista.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	CR7	CR7	PROPN	SP	_	3	nsubj	_	_
+3	andrà	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	3	punct	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	7	det	_	_
+7	apologista	apologista	NOUN	S	Number=Sing	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Per un paese civile basta ritirare l'ambasciatore.
+1	Per	per	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	paese	paese	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	civile	civile	ADJ	A	Number=Sing	3	amod	_	_
+5	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ritirare	ritirare	VERB	V	VerbForm=Inf	5	csubj	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	ambasciatore	ambasciatore	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

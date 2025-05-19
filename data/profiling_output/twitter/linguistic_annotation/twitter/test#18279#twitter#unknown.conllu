@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marcopalasciano Ciao caro, hai detto tutto e anche parecchie volte, mo' riposati.
+1	@marcopalasciano	@marcopalasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Ciao	ciao	PROPN	SP	_	1	obj	_	_
+3	caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	parataxis	_	_
+7	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	obj	_	_
+8	e	e	CCONJ	CC	_	14	cc	_	_
+9	anche	anche	ADV	B	_	11	advmod	_	_
+10	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	11	det	_	_
+11	volte	volta	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	mo'	moco	ADV	B	_	14	advmod	_	_
+14	riposati	riposare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

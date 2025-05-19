@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Picierno farà certamente in modo da parlare degli 80€ #virusrai2
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	Picierno	Picierno	PROPN	SP	_	3	nsubj	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	certamente	certamente	ADV	B	_	3	advmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	modo	modo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	da	da	ADP	E	_	8	mark	_	_
+8	parlare	parlare	VERB	V	VerbForm=Inf	6	acl	_	_
+9-10	degli	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	80€	80€	PROPN	SP	_	6	nmod	_	_
+12	#virusrai2	#virusrai2	NUM	N	NumType=Card	11	nummod	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una cosa voglio domandare ai padri di questi disgraziati.
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	domandare	domandare	VERB	V	VerbForm=Inf	0	root	_	_
+5-6	ai	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	padri	padre	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	disgraziati.	disgraziati.	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .Chi cazzo glieli dava tutti questi soldi?
+1	.Chi	.Chi	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3-4	glieli	_	_	_	_	_	_	_	_
+3	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	iobj	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+5	dava	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	_
+7	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+8	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #Matrix
+1	#Matrix	#Matrix	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

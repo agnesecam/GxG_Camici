@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci vediamo oggi a #Milano per parlare di #FAMIGLIA !
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	oggi	oggi	ADV	B	_	2	advmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	#Milano	#Milano	PROPN	SP	_	2	obl	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	parlare	parlare	VERB	V	VerbForm=Inf	2	advcl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	#FAMIGLIA	#FAMIGLIA	PROPN	SP	_	7	obl	_	_
+10	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = La famiglia naturale come base delle nostre #COMUNITÀ ! pic.twitter.com/iRcDsgznEN
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	naturale	naturale	ADJ	A	Number=Sing	2	amod	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	base	base	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	#COMUNITÀ	#comunità	PROPN	SP	_	5	nmod	_	_
+10	!	!	PUNCT	FS	_	5	punct	_	_
+11	pic.twitter.com/iRcDsgznEN	pic.twitter.com/iRcDsgznEN	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

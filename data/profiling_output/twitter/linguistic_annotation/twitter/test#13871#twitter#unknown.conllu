@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ginaginevra Eh. (Ricordare quegli anni colloca la nostra età ma ce ne faremo una ragione :))
+1	@ginaginevra	@ginaginevrare	ADP	E	_	2	case	_	_
+2	Eh	eh	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Ricordare	ricordare	VERB	V	VerbForm=Inf	2	advcl	_	_
+6	quegli	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+7	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	colloca	collocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	età	età	NOUN	S	Gender=Fem	8	obj	_	_
+12	ma	ma	CCONJ	CC	_	15	cc	_	_
+13	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+14	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+15	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	8	conj	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+18	:	:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

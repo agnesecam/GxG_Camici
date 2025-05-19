@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = prima ginnaste vite parallele, poi calciatori giovani speranze, ora ballerini dietro il sipario, tra poco fanno nuotatori dentro l'acqua lol
+1	prima	prima	ADV	B	_	2	advmod	_	_
+2	ginnaste	ginnasta	ADJ	A	Number=Sing	3	amod	_	_
+3	vite	vito	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	parallele	parallelo	ADJ	A	Number=Sing	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	poi	poi	ADV	B	_	7	advmod	_	_
+7	calciatori	calciatore	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+8	giovani	giovane	ADJ	A	Number=Plur	9	amod	_	_
+9	speranze	speranza	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	ora	ora	ADV	B	_	12	advmod	_	_
+12	ballerini	ballerino	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+13	dietro	dietro	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	sipario	sipario	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	15	punct	_	_
+17	tra	tra	ADP	E	_	18	case	_	_
+18	poco	poco	ADV	B	_	19	advmod	_	_
+19	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+20	nuotatori	nuotatore	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	_
+21	dentro	dentro	ADP	E	_	23	case	_	_
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+23	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	_
+24	lol	lol	ADJ	A	_	23	amod	_	SpacesAfter=\n
+

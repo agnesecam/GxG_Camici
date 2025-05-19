@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @0vblivi0n Ti capisco ti capisco, se ne trovi qualcuna dimmi, tanto mi voglio male pure io ahah
+1	@0vblivi0n	@0vblivi0no	ADV	B	_	3	advmod	_	_
+2	Ti	Ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
+3	capisco	capisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+5	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+9	trovi	trovare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+11	dimmi	dimma	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	5	punct	_	_
+13	tanto	tanto	ADV	B	_	15	advmod	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	_
+15	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+16	male	male	ADV	B	_	15	advmod	_	_
+17	pure	pure	ADV	B	_	15	advmod	_	_
+18	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+19	ahah	ahah	INTJ	I	_	3	obj	_	SpacesAfter=\n
+

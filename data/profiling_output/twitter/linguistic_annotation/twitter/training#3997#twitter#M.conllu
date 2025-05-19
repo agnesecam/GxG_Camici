@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni mattina #OscarWilde si sveglia e sa che dovrà correre più forte degli #scopinculisti #OscarWilde
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	OscarWilde	OscarWilde	PROPN	SP	_	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+9	che	che	SCONJ	CS	_	11	mark	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	correre	correre	VERB	V	VerbForm=Inf	8	ccomp	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	forte	forte	ADJ	A	Number=Sing	16	amod	_	_
+14-15	degli	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	#scopinculisti	#scopinculista	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+17	#	#	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	OscarWilde	OscarWilde	PROPN	SP	_	6	obj	_	SpacesAfter=\n
+

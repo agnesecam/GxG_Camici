@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Egli è colui che ci trasse dalla schiavitù alla libertà, dalle tenebre alla luce, dalla morte alla vita, dalla tirannia al regno eterno.
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	colui	colui	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+6	trasse	trarre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	schiavitù	schiavitù	NOUN	S	Gender=Fem	6	obl	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	libertà	libertà	NOUN	S	Gender=Fem	6	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14-15	dalle	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	tenebre	tenebra	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+17-18	alla	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	luce	luce	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	3	punct	_	_
+21-22	dalla	_	_	_	_	_	_	_	_
+21	da	da	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	morte	morte	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+24-25	alla	_	_	_	_	_	_	_	_
+24	a	a	ADP	E	_	26	case	_	_
+25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	vita	vita	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	FF	_	3	punct	_	_
+28-29	dalla	_	_	_	_	_	_	_	_
+28	da	da	ADP	E	_	30	case	_	_
+29	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	tirannia	tirannia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+31-32	al	_	_	_	_	_	_	_	_
+31	a	a	ADP	E	_	33	case	_	_
+32	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	regno	regno	NOUN	S	Gender=Masc|Number=Sing	30	nmod	_	_
+34	eterno	eterno	ADJ	A	Gender=Masc|Number=Sing	33	amod	_	SpaceAfter=No
+35	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

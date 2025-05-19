@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Calcio, Rossi:
+1	Calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	Rossi	Rossi	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Il Napoli deve crederci, Gabbiadini farà bene" http:// fb.me/3Fk1SPLJz
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Napoli	Napoli	PROPN	SP	_	5	nsubj	_	_
+4	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5-6	crederci	_	_	_	_	_	_	_	SpaceAfter=No
+5	creder	credere	VERB	V	VerbForm=Inf	0	root	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	Gabbiadini	Gabbiadini	PROPN	SP	_	9	nsubj	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	_
+10	bene	bene	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	12	punct	_	_
+12	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	_
+15	fb.me/3Fk1SPLJz	fb.me/3Fk1SPLJz	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

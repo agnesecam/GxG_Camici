@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Reportage dalla Siria - Le telecamere di Rainews sono entrate dentro Palmira liberata http://www.
+1	Reportage	Reportagere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Siria	Siria	PROPN	SP	_	1	obl	_	_
+5	-	-	PUNCT	FB	_	4	punct	_	_
+6	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	telecamere	telecamera	NOUN	S	Gender=Fem|Number=Plur	11	nsubj:pass	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Rainews	Rainews	PROPN	SP	_	7	nmod	_	_
+10	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+11	entrate	entrare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	_
+12	dentro	dentro	ADP	E	_	13	case	_	_
+13	Palmira	Palmira	PROPN	SP	_	11	obl	_	_
+14	liberata	liberare	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	http://www	http://www	NOUN	S	_	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = rainews.it/dl/rainews/med ia/Reportage-Siria-telecamere-Rainews-sono-entrate-dentro-Palmira-liberata-da-Isis-2aabba9d-00d7-47f2-b8d0-152a654b0f48.html … via @RaiNews
+1	rainews.it/dl/rainews/med	rainews.it/dl/rainews/me	CCONJ	CC	_	4	cc	_	_
+2	ia	iare	ADV	B	_	4	advmod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	Reportage-Siria-telecamere-Rainews-sono-entrate-dentro-Palmira-liberata-da-Isis-2aabba9d-00d7-47f2-b8d0-152a654b0f48.html	Reportage-Siria-telecamere-Rainews-sono-entrate-dentro-Palmira-liberata-da-Isis-2aabba9d-00d7-47f2-b8d0-152a654b0f48.html	PROPN	SP	_	0	root	_	_
+5	…	…	PUNCT	FF	_	4	punct	_	_
+6	via	via	NOUN	S	Gender=Fem|Number=Sing	4	compound	_	_
+7	@RaiNews	@RaiNews	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

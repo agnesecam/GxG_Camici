@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non è un pranzo di matrimonio anche se può sembrare . Monopolizzato il bar pic.twitter.com/fxa0XCteHr
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	matrimonio	matrimonio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	anche	anche	ADV	B	_	10	mark	_	_
+8	se	se	SCONJ	CS	_	7	fixed	_	_
+9	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	4	advcl	_	_
+11	.	.	PUNCT	FS	_	10	punct	_	_
+12	Monopolizzato	Monopolizzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	bar	bar	NOUN	S	Gender=Masc	12	obj	_	_
+15	pic.twitter.com/fxa0XCteHr	pic.twitter.com/fxa0XCteHr	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

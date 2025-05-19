@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Concordo Crocifisso Aloisi 3 ore fa · L'affaire petrolio lucano è diventato .. stellare . Giuseppe Di Bello, ho... http:// fb.me/YXCI8QAm
+1	Concordo	Concordo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Crocifisso	crocifisso	PROPN	SP	_	13	nmod	_	_
+3	Aloisi	Aloisi	PROPN	SP	_	2	flat:name	_	_
+4	3	3	NUM	N	NumType=Card	5	nummod	_	_
+5	ore	ora	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+6	fa	fa	ADV	B	_	5	advmod	_	_
+7	·	·	PUNCT	FF	_	13	punct	_	_
+8	L'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+9	affaire	affaire	ADJ	A	Number=Sing	10	amod	_	_
+10	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+11	lucano	lucano	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+14	..	..	PUNCT	FF	_	13	punct	_	_
+15	stellare	stellare	ADJ	A	Number=Sing	13	xcomp	_	_
+16	.	.	PUNCT	FS	_	13	punct	_	_
+17	Giuseppe	Giuseppe	PROPN	SP	_	13	obl	_	_
+18	Di	Di	PROPN	SP	_	17	flat:name	_	_
+19	Bello	bello	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21	ho...	ho.	NOUN	S	_	17	conj	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	17	punct	_	_
+25	fb.me/YXCI8QAm	fb.me/YXCI8QAm	PROPN	SP	_	13	xcomp	_	SpacesAfter=\n
+

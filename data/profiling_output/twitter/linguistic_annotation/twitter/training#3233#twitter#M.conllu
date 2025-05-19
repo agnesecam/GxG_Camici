@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come sembrare intelligenti parlando del nulla http:// buff.ly/1MlEKjC
+1	Come	come	ADV	B	_	2	advmod	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	intelligenti	intelligente	ADJ	A	Number=Plur	2	xcomp	_	_
+4	parlando	parlare	VERB	V	VerbForm=Ger	3	advcl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	nulla	nulla	NOUN	S	Gender=Masc	4	obl	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	buff.ly/1MlEKjC	buff.ly/1MlEKjC	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

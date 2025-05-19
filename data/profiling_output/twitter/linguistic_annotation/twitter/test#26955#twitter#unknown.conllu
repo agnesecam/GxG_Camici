@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bobogiac L'ignoranza fa solo danni....
+1	@bobogiac	@bobogiac	ADV	B	_	4	advmod	_	_
+2	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	ignoranza	ignoranza	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	solo	solo	ADV	B	_	4	advmod	_	_
+6	danni...	danni.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ahimè ..
+1	Ahimè	ahimè	INTJ	I	_	0	root	_	_
+2	.	.	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Spero per loro che i romani siano più svegli alle urne!
+1	Spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	obl	_	_
+4	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	romani	romani	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+7	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	svegli	svegliere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+10-11	alle	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	urne	urna	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

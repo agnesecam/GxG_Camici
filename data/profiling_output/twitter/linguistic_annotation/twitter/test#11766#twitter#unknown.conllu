@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi: piscina, corso di cucina Thai (stupendo!
+1	Oggi	oggi	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	piscina	piscina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	corso	corso	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	cucina	cucina	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	Thai	Thaio	PROPN	SP	_	7	nmod	_	_
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	stupendo	stupire	VERB	V	VerbForm=Ger	5	advcl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Stavamo in compagnia con 4 australiani molto… https://www.
+1	Stavamo	Stare	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	compagnia	compagnia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	4	4	NUM	N	NumType=Card	6	nummod	_	_
+6	australiani	australiano	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	molto…	molto…	PUNCT	FF	_	8	punct	_	_
+8	https://www	https://www	NOUN	S	_	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDi4ozUtaeo/
+1	instagram.com/p/BDi4ozUtaeo/	instagram.com/p/BDi4ozUtaeo/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tremo #diFronteA a certi panorami, che siano essi paesaggi o esseri viventi, ci sono bellezze che ti mozzano il fiato.
+1	Tremo	Tere	PROPN	SP	_	16	nsubj	_	_
+2	#diFronteA	#diFronteA	PROPN	SP	_	1	flat:name	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	panorami	panoramo	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	che	che	SCONJ	CS	_	16	mark	_	_
+8	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+9	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+10	paesaggi	paesaggio	NOUN	S	Gender=Masc|Number=Plur	9	appos	_	_
+11	o	o	CCONJ	CC	_	12	cc	_	_
+12	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+13	viventi	vivente	ADJ	A	Number=Plur	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	9	punct	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	bellezze	bellezza	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	20	iobj	_	_
+20	mozzano	mozzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	fiato.	fiato.	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

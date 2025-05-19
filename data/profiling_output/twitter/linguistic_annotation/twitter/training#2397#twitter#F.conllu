@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bruciare Per Te...lo capirò forse poi che ti ho dato tutta me stessa.
+1	Bruciare	Bruciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Per	per	ADP	E	_	3	case	_	_
+3	Te...lo	Te...lo	PROPN	SP	_	1	obl	_	_
+4	capirò	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
+5	forse	forse	ADV	B	_	4	advmod	_	_
+6	poi	poi	ADV	B	_	4	advmod	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+9	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+11	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	13	det	_	_
+12	me	mo	ADJ	A	Number=Sing	13	amod	_	_
+13	stessa.	stessa.	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..niente che non avessi già dentro te... http:// youtu.be/VD0pQwaGBjw
+1	..niente	..niente	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+5	già	già	ADV	B	_	6	advmod	_	_
+6	dentro	dentro	ADV	B	_	4	advmod	_	_
+7	te...	te.	PUNCT	FS	_	6	punct	_	_
+8	http:	http:	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	_
+11	youtu.be/VD0pQwaGBjw	youtu.be/VD0pQwaGBjw	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

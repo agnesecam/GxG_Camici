@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GOURMETcaegdr || è stato terribile la mia amica che, NONOSTANTE FOSSIMO IN QUELLA SITUAZIONE, PENSAVA A FARSI LE FOTO O A E RENDERLO -
+1	@GOURMETcaegdr	@GOURMETcaegdr	PROPN	SP	_	5	nsubj	_	_
+2	||	||	SYM	SYM	_	1	flat:name	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
+5	terribile	terribile	ADJ	A	Number=Sing	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	amica	amico	NOUN	S	Gender=Fem|Number=Sing	5	appos	_	_
+9	che	che	PRON	PR	PronType=Rel	8	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	NONOSTANTE	nonostante	PROPN	SP	_	9	appos	_	_
+12	FOSSIMO	essere	PROPN	SP	_	11	flat:name	_	_
+13	IN	in	PROPN	SP	_	11	flat:name	_	_
+14	QUELLA	Quella	PROPN	SP	_	11	nmod	_	_
+15	SITUAZIONE	situazione	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	11	punct	_	_
+17	PENSAVA	pensare	PROPN	SP	_	11	nmod	_	_
+18	A	a	PROPN	SP	_	17	flat:name	_	_
+19-20	FARSI	_	_	_	_	_	_	_	_
+19	FAR	far	PROPN	SP	_	17	flat:name	_	_
+20	SI	Si	PROPN	SP	_	17	flat:name	_	_
+21	LE	Le	PROPN	SP	_	17	flat:name	_	_
+22	FOTO	Foto	PROPN	SP	_	17	flat:name	_	_
+23	O	o	PROPN	SP	_	26	nmod	_	_
+24	A	a	PROPN	SP	_	23	flat:name	_	_
+25	E	e	CCONJ	CC	_	26	cc	_	_
+26-27	RENDERLO	_	_	_	_	_	_	_	_
+26	RENDER	render	PROPN	SP	_	17	nmod	_	_
+27	LO	lo	PROPN	SP	_	26	flat:name	_	_
+28	-	-	PUNCT	FB	_	26	punct	_	SpacesAfter=\n
+

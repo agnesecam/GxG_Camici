@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cotrofficial #Twitter10BlueRoom farete un video tutti insieme(YouTube)?
+1	@cotrofficial	@cotrofficial	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	#Twitter10BlueRoom	#Twitter10BlueRoom	PROPN	SP	_	3	nsubj	_	_
+3	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	video	video	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nmod	_	_
+7	insieme	insieme	ADV	B	_	9	case	_	SpaceAfter=No
+8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	YouTube	YouTube	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Mi salutate sono Silvia #SofieleForever
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	salutate	salutare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Silvia	Silvia	PROPN	SP	_	0	root	_	_
+5	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	SofieleForever	SofieleForever	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

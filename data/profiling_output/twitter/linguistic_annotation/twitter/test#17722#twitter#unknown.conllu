@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @steSciortino Essere umano=persona.
+1	@steSciortino	@steSciortino	PROPN	SP	_	0	root	_	_
+2	Essere	essere	PROPN	SP	_	1	flat:name	_	_
+3	umano=persona	umano=persono	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Altrimenti creiamo la categoria delle non-persone.
+1	Altrimenti	altrimenti	ADV	B	_	2	advmod	_	_
+2	creiamo	creare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	categoria	categoria	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	SpaceAfter=No
+8	-persone	-persone	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Come fecero schiavisti e nazisti...
+1	Come	come	ADV	B	_	2	advmod	_	_
+2	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	schiavisti	schiavista	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	nazisti...	nazisti...	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

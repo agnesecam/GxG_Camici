@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli oggetti, come nella letteratura di Carver, danno vita ai racconti.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	oggetti	oggetto	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	come	come	ADV	B	_	7	advmod	_	_
+5-6	nella	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	letteratura	letteratura	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Carver	Carver	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	danno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	vita	vita	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+13-14	ai	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	racconti	racconte	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Da essi scaturisce la… https://www.
+1	Da	da	ADP	E	_	2	case	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
+3	scaturisce	scaturire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la…	la…	PUNCT	FF	_	3	punct	_	_
+5	https://www	https://www	NOUN	S	_	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BC3KzzvsvhY/
+1	instagram.com/p/BC3KzzvsvhY/	instagram.com/p/BC3KzzvsvhY/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

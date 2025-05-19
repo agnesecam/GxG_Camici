@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PremiumSportHD invece di dare la colpa all'arbitro se segnavano con le occasioni avute era meglio, non giocano in italia
+1	@PremiumSportHD	@premiumsporthd	CCONJ	CC	_	20	cc	_	_
+2	invece	invece	ADV	B	_	4	mark	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	dare	dare	VERB	V	VerbForm=Inf	20	advcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7-8	all'	_	_	_	_	_	_	_	SpaceAfter=No
+7	a	a	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	arbitro	arbitro	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+10	se	se	SCONJ	CS	_	11	mark	_	_
+11	segnavano	segnavare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	occasioni	occasione	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	_
+15	avute	avere	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+16	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+17	meglio	meglio	ADJ	A	_	11	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	4	punct	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	giocano	giocare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	in	in	ADP	E	_	22	case	_	_
+22	italia	italia	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	SpacesAfter=\n
+

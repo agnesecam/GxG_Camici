@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @EdoConteduca @Anna_1897 nein.
+1	@EdoConteduca	@EdoConteduca	PROPN	SP	_	0	root	_	_
+2	@Anna_1897	@Anna_1897	PROPN	SP	_	1	flat:name	_	_
+3	nein	neino	X	SW	Foreign=Yes	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il pattegg non si appella.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pattegg	pattegg	NOUN	S	Gender=Masc	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	appella	appellare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Lì fecero appello e poi giud arbitrale.
+1	Lì	lì	ADV	B	_	2	advmod	_	_
+2	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	appello	appello	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	poi	poi	ADV	B	_	6	advmod	_	_
+6	giud	giud	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+7	arbitrale	arbitrale	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = E non vennero ammesse prove a discarico
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	vennero	venire	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	ammesse	ammettere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	prove	prova	NOUN	S	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	discarico	discarico	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @syontai93 ora come ora potrei accettare tutto tranne Drew terrorista (poi magari dal prossimo episodio mi starà sulle palle chi lo sa)
+1	@syontai93	@syontai93	NUM	N	NumType=Card	6	nummod	_	_
+2	ora	ora	ADV	B	_	6	advmod	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	ora	ora	ADV	B	_	6	advmod	_	_
+5	potrei	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	accettare	accettare	VERB	V	VerbForm=Inf	0	root	_	_
+7	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	_
+8	tranne	tranne	ADP	E	_	9	case	_	_
+9	Drew	Drew	PROPN	SP	_	6	obl	_	_
+10	terrorista	terroristo	NOUN	S	Number=Sing	9	nmod	_	_
+11	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+12	poi	poi	ADV	B	_	19	advmod	_	_
+13	magari	magari	ADV	B	_	19	advmod	_	_
+14-15	dal	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	17	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	episodio	episodio	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	iobj	_	_
+19	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	advcl	_	_
+20-21	sulle	_	_	_	_	_	_	_	_
+20	su	su	ADP	E	_	22	case	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	palle	palla	NOUN	S	Gender=Fem|Number=Plur	19	obl	_	_
+23	chi	chi	PRON	PR	PronType=Rel	22	obj	_	_
+24	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
+25	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpaceAfter=No
+26	)	)	PUNCT	FB	_	19	punct	_	SpacesAfter=\n
+

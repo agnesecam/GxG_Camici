@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @downeymore omg sei di Sesto?
+1	@downeymore	@downeymore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	omg	omg	SYM	X	_	1	nmod	_	_
+3	sei	sei	NUM	N	NumType=Card	2	nummod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Sesto	sesto	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cioè non vorrei sembrare creepy ma non conosco nessuno in zona ahahahah
+1	Cioè	cioè	CCONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+5	creepy	creepy	NOUN	S	Gender=Fem	4	obj	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	obj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	zona	zona	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	ahahahah	ahahahah	ADJ	A	_	11	amod	_	SpacesAfter=\n
+

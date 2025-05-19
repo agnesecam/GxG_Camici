@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Inchiesta petrolio, Eni: “Salute, sicurezza e ambiente nostre priorità”.
+1	Inchiesta	inchiesta	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	Eni	Eni	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+6	“	“	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	Salute	Salute	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	7	conj	_	_
+12	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	priorità	priorità	NOUN	S	Gender=Fem	11	obj	_	SpaceAfter=No
+14	”	”	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = I Verdi: “Meno pubblicità e più bonifiche” http:// netvib.es/p/gr_p
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Verdi	Verde	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	“	“	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Meno	meno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pubblicità	pubblicità	NOUN	S	Gender=Fem	11	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	bonifiche	bonifico	ADJ	A	Gender=Fem|Number=Plur	11	conj	_	SpaceAfter=No
+10	”	”	PUNCT	FB	_	11	punct	_	_
+11	http:	http:	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	_
+14	netvib.es/p/gr_p	netvib.es/p/gr_p	X	X	_	5	obl	_	SpacesAfter=\n
+

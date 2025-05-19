@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @saratardelli Ciao Sara sono rimasto distante negli ultimi tempi.
+1	@saratardelli	@saratardello	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	Ciao	ciao	PROPN	SP	_	1	nmod	_	_
+3	Sara	Sara	PROPN	SP	_	2	flat:name	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	rimasto	rimanere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	distante	distante	ADJ	A	Number=Sing	5	xcomp	_	_
+7-8	negli	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	10	case	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	ultimi	ultimo	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+10	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Saluti e baci dalla fredda Toronto.
+1	Saluti	Saluti	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	baci	baco	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	fredda	freddo	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+7	Toronto	Toronto	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..uffff dov'è la primavera?
+1	..uffff	..uffff	ADP	E	_	2	case	_	_
+2	dov'	dove	ADV	B	_	5	advmod	_	SpaceAfter=No
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	primavera	primavera	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

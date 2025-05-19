@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Inizio il coro:
+1	Inizio	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	coro	coro	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ah se avessimo avuto Spalletti dall'inizio della stagione!
+1	ah	ah	INTJ	I	_	4	discourse	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	Spalletti	Spalletti	PROPN	SP	_	4	obj	_	_
+6-7	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+6	da	da	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = #Roma
+1	#Roma	#Roma	ADV	B	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alessio che va al ballottaggio e la Rua (e molti altri) ancora dentro , allucinante è dire poco #Amici15
+1	Alessio	Alessio	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ballottaggio	ballottaggio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Rua	Rua	PROPN	SP	_	20	conj	_	_
+10	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	conj	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	13	punct	_	_
+15	ancora	ancora	ADV	B	_	16	advmod	_	_
+16	dentro	dentro	ADV	B	_	9	advmod	_	_
+17	,	,	PUNCT	FF	_	9	punct	_	_
+18	allucinante	allucinare	PRON	PQ	Gender=Fem|Number=Plur|PronType=Int	20	nsubj	_	_
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+21	poco	poco	ADV	B	_	20	advmod	_	_
+22	#Amici15	#Amici15	PROPN	SP	_	20	obj	_	SpacesAfter=\n
+

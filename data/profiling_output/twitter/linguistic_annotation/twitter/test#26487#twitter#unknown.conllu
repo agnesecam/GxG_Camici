@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ora l'Isis la spara grossa:
+1	Ora	ora	ADV	B	_	3	advmod	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	Isis	Isis	PROPN	SP	_	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	spara	spara	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	grossa	grosso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = "Tra soli dodici mesi avremo l'arma nucleare" - MA CHE CAZZATA ENORME PIÙ... https:// tmblr.co/Z8u3cr23sGRrj
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Tra	tra	ADP	E	_	5	case	_	_
+3	soli	solo	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+4	dodici	dodici	NUM	N	NumType=Card	5	nummod	_	_
+5	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+6	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	arma	arma	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	nucleare	nucleare	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	6	punct	_	_
+11	-	-	PUNCT	FF	_	6	punct	_	_
+12	MA	ma	PROPN	SP	_	6	parataxis	_	_
+13	CHE	che	PROPN	SP	_	12	flat:name	_	_
+14	CAZZATA	CAZZATA	PROPN	SP	_	12	flat:name	_	_
+15	ENORME	enorme	PROPN	SP	_	12	flat:name	_	_
+16	PIÙ...	PIÙ...	PROPN	SP	_	15	flat:name	_	_
+17	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	_
+20	tmblr.co/Z8u3cr23sGRrj	tmblr.co/Z8u3cr23sGRrj	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

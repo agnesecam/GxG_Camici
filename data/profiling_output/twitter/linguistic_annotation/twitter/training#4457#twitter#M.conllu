@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GiusiSarcina @fnicodemo lol equivoco.
+1	@GiusiSarcina	@GiusiSarcina	ADV	B	_	2	advmod	_	_
+2	@fnicodemo	@fnicode	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	lol	lol	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	equivoco	equivoco	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Mi riferivo a figura pd.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	riferivo	riferivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	figura	figura	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	pd	pd	ADJ	A	_	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Credo nardella non abbia mai fornito documenti e ora dovrà farlo man mano.
+1	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	nardella	nardello	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	mai	mai	ADV	B	_	6	advmod	_	_
+6	fornito	fornire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	ora	ora	ADV	B	_	11	advmod	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11-12	farlo	_	_	_	_	_	_	_	_
+11	far	fare	VERB	V	VerbForm=Inf	6	conj	_	_
+12	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	man	mano	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	mano	mano	NOUN	S	Gender=Fem|Number=Sing	13	compound	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

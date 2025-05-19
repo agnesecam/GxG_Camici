@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oriana Fallaci..se l' avessimo Ascoltata.
+1	Oriana	Oriana	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	Fallaci..se	Fallaci..se	PROPN	SP	_	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	Ascoltata.	Ascoltata.	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = #MovimentOnesti pic.twitter.com/Xt8IEOTl8j
+1	#MovimentOnesti	#MovimentOnesto	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
+2	pic.twitter.com/Xt8IEOTl8j	pic.twitter.com/Xt8IEOTl8j	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Huwaei P9 le nostre prime foto con il doppio obbiettivo Leica http:// fb.me/sKqFlKTl
+1	Huwaei	Huwaeo	PROPN	SP	_	0	root	_	_
+2	P9	P9	PROPN	SP	_	1	flat:name	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+5	prime	primo	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	6	amod	_	_
+6	foto	foto	NOUN	S	Gender=Fem	1	nmod	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	doppio	doppio	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	obbiettivo	obbiettivo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+11	Leica	Leica	PROPN	SP	_	10	nmod	_	_
+12	http:	http:	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	fb.me/sKqFlKTl	fb.me/sKqFlKTl	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

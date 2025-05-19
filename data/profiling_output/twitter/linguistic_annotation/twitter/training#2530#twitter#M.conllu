@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Tutte le stelle del firmamento non basteranno per descrivere quello che sento dentro "… https://www.
+1	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+2	Tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	4	det:predet	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	firmamento	firmamento	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	basteranno	bastare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	descrivere	descrivere	VERB	V	VerbForm=Inf	9	advcl	_	_
+12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	obj	_	_
+13	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+14	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15	dentro	dentro	ADV	B	_	14	advmod	_	_
+16	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+17	…	…	PUNCT	FF	_	18	punct	_	_
+18	https://www	https://www	NOUN	S	_	14	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD8y3R9Cd07/
+1	instagram.com/p/BD8y3R9Cd07/	instagram.com/p/BD8y3R9Cd07/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

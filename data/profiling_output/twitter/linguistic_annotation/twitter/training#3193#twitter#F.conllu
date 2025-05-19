@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avevi un aspetto così aristocratico da sembrare ostentato.
+1	Avevi	Avere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	aspetto	aspetto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	così	così	ADV	B	_	5	advmod	_	_
+5	aristocratico	aristocratico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	ostentato	ostentare	NOUN	S	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = P.Chiara #racconti24 / 41 #VentagliDiParole pic.twitter.com/pzU5bCbYZo
+1	P.Chiara	P.Chiara	ADP	E	_	6	case	_	_
+2	#racconti24	#racconti24	NUM	N	NumType=Card	6	nummod	_	_
+3	/	/	PUNCT	FF	_	2	punct	_	_
+4	41	41	NUM	N	NumType=Card	2	compound	_	_
+5	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	VentagliDiParole	VentagliDiParole	PROPN	SP	_	0	root	_	_
+7	pic.twitter.com/pzU5bCbYZo	pic.twitter.com/pzU5bCbYZo	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

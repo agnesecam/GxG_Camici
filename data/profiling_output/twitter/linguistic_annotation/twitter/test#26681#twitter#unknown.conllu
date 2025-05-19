@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ti ho dato 10 euro e lui 20.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	10	10	NUM	N	NumType=Card	6	nummod	_	_
+6	euro	euro	NOUN	S	Gender=Masc	4	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	conj	_	_
+9	20	20	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ti è sembrato migliore di me perchè ti ha dato di più.
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	3	xcomp	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+7	perchè	perché	SCONJ	CS	_	10	mark	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	più	più	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ma lui aveva 200 euro e io ne avevo solo 10." (cit)
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	200	200	NUM	N	NumType=Card	5	nummod	_	_
+5	euro	euro	NOUN	S	Gender=Masc	3	obj	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+9	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	conj	_	_
+10	solo	solo	ADV	B	_	11	advmod	_	_
+11	10	10	NUM	N	NumType=Card	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	3	punct	_	_
+14	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	cit	cit	NOUN	S	_	3	appos	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	15	punct	_	SpacesAfter=\n
+

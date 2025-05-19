@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nella casa di fronte suona a tutto volume una musica orribile:
+1-2	Nella	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	fronte	fronte	NOUN	S	Number=Sing	3	nmod	_	_
+6	suona	suonare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	volume	volume	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	musica	musica	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+12	orribile	orribile	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = glielo dico io o 1 di voi di smetterla?
+1-2	glielo	_	_	_	_	_	_	_	_
+1	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	_
+6	1	1	NUM	N	NumType=Card	4	conj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	6	obl	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10-11	smetterla	_	_	_	_	_	_	_	SpaceAfter=No
+10	smetter	smettere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+11	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ah... è agli arresti domiciliari.
+1	Ah...	Ah.	PUNCT	FF	_	2	punct	_	_
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	agli	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	arresti	arresto	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+6	domiciliari	domiciliare	ADJ	A	Number=Plur	5	amod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

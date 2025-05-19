@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SMontedoroOFC Margherita è una bravissima ragazza che renderebbe chiunque felice, ma come è giusto che sia per il capitano c'è solo Lia!!!!
+1	@SMontedoroOFC	@SMontedoroOFC	PROPN	SP	_	6	nsubj	_	_
+2	Margherita	Margherita	PROPN	SP	_	1	flat:name	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	bravissima	bravo	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	6	amod	_	_
+6	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	renderebbe	rendere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	8	obj	_	_
+10	felice	felice	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	15	punct	_	_
+12	ma	ma	CCONJ	CC	_	15	cc	_	_
+13	come	come	ADV	B	_	15	advmod	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	10	conj	_	_
+16	che	che	SCONJ	CS	_	17	mark	_	_
+17	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	capitano	capitano	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+21	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	SpaceAfter=No
+22	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+23	solo	solo	ADV	B	_	24	advmod	_	_
+24	Lia	Lia	PROPN	SP	_	22	nsubj	_	SpaceAfter=No
+25	!	!	PUNCT	FS	_	22	punct	_	SpaceAfter=No
+26	!!	!!	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+27	!	!	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = GRANDE GIULIETTO SEMPRE COERENTE DA UNA VITA..MAGARI AVESSIMO TANTI EUROPARLAMENT COME TE' https:// twitter.com/GhitaIacono/st atus/707666096791416832 …
+1	GRANDE	Grande	PROPN	SP	_	3	nsubj	_	_
+2	GIULIETTO	GIULIETTO	PROPN	SP	_	1	flat:name	_	_
+3	SEMPRE	sempre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	COERENTE	coerente	PROPN	SP	_	3	obj	_	_
+5	DA	Da	PROPN	SP	_	4	flat:name	_	_
+6	UNA	Una	PROPN	SP	_	4	flat:name	_	_
+7	VITA..MAGARI	VITA..MAGARI	PROPN	SP	_	4	flat:name	_	_
+8	AVESSIMO	AVESSIMO	PROPN	SP	_	4	flat:name	_	_
+9	TANTI	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
+10	EUROPARLAMENT	EUROPARLAMENT	PROPN	SP	_	4	nmod	_	_
+11	COME	Come	PROPN	SP	_	10	nmod	_	_
+12-13	TE'	_	_	_	_	_	_	_	_
+12	TI	Ti	PROPN	SP	_	11	flat:name	_	_
+13	I	I	PROPN	SP	_	11	flat:name	_	_
+14	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	11	punct	_	_
+17	twitter.com/GhitaIacono/st	twitter.com/GhitaIacono/st	PROPN	SP	_	11	flat:name	_	_
+18	atus/707666096791416832	atus/707666096791416832	NUM	N	NumType=Card	11	flat:name	_	_
+19	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

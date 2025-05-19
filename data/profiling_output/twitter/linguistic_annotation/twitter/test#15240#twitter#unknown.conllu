@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Storace @LeonebonCettina puo' darsi ma durante la Giunta Alemanno Meloni era Ministro quindi.nn credo facesse parte del Comune
+1	@Storace	@Storace	PROPN	SP	_	17	nsubj	_	_
+2	@LeonebonCettina	@LeonebonCettina	PROPN	SP	_	1	flat:name	_	_
+3	puo	puo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	5	punct	_	_
+5-6	darsi	_	_	_	_	_	_	_	_
+5	dar	dare	VERB	V	VerbForm=Inf	1	nmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+7	ma	ma	CCONJ	CC	_	14	cc	_	_
+8	durante	durante	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Giunta	Giunta	PROPN	SP	_	14	obl	_	_
+11	Alemanno	Alemanno	PROPN	SP	_	14	nsubj	_	_
+12	Meloni	Meloni	PROPN	SP	_	11	flat:name	_	_
+13	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+14	Ministro	Ministro	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+15	quindi.nn	quindi.nno	ADP	E	_	16	case	_	_
+16	credo	credo	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+17	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+18	parte	parte	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+19-20	del	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Comune	comune	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

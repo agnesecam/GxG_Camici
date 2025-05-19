@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Giveusmartian @Nina_Rose375 @_Rebel_Rebel @ziggythestarman @alybio fatto, sicuramente avrò dimenticato qualcuna ahahah
+1	@Giveusmartian	@Giveusmartian	PROPN	SP	_	10	nsubj	_	_
+2	@Nina_Rose375	@Nina_Rose375	PROPN	SP	_	1	flat:name	_	_
+3	@_Rebel_Rebel	@_Rebel_Rebel	PROPN	SP	_	1	flat:name	_	_
+4	@ziggythestarman	@ziggythestarman	ADJ	A	Number=Sing	6	amod	_	_
+5	@alybio	@alybio	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	sicuramente	sicuramente	ADV	B	_	10	advmod	_	_
+9	avrò	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	ahahah	ahahah	NOUN	S	Gender=Masc	10	obj	_	SpacesAfter=\n
+

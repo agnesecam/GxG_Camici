@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Eni:
+1	Eni	Eno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sk Capital dovrà dare garanzie per Versalis o altra gara http://www.
+1	Sk	Sk	PROPN	SP	_	4	nsubj	_	_
+2	Capital	Capital	PROPN	SP	_	1	flat:name	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	dare	dare	VERB	V	VerbForm=Inf	0	root	_	_
+5	garanzie	garanzia	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	Versalis	Versalis	PROPN	SP	_	5	nmod	_	_
+8	o	o	CCONJ	CC	_	10	cc	_	_
+9	altra	altro	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
+10	gara	gara	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+11	http://www	http://www	NOUN	S	_	10	compound	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = milanofinanza.it/news/eni-sk-ca pital-dovra-dare-garanzie-per-versalis-o-altra-gara-201604061548005436 … via @milanofinanza
+1	milanofinanza.it/news/eni-sk-ca	milanofinanza.it/news/eni-sk-co	ADV	B	_	5	advmod	_	_
+2	pital-	_	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	dovra-dare	dovra-dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	garanzie-per	garanzie-per	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	versalis	versalis	ADJ	A	_	5	amod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	o	o	CCONJ	CC	_	13	cc	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	altra	altro	ADJ	A	_	13	amod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	gara-201604061548005436	gara-201604061548005436	NUM	N	NumType=Card	5	conj	_	_
+14	…	…	PUNCT	FF	_	5	punct	_	_
+15	via	via	NOUN	S	Gender=Fem|Number=Sing	5	compound	_	_
+16	@milanofinanza	@milanofinanza	NOUN	S	Gender=Fem|Number=Sing	15	compound	_	SpacesAfter=\n
+

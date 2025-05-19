@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VirusRai2 @ellyesse Questa ha perso la testa o non l'ha mai avuta .
+1	@VirusRai2	@VirusRai2	NUM	N	NumType=Card	2	nummod	_	_
+2	@ellyesse	@ellyessa	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	Questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	testa	testa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	o	o	CCONJ	CC	_	13	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+10	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	mai	mai	ADV	B	_	13	advmod	_	_
+13	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Con i soldi spesi x immigrati si poteva aiutare a rimanere gente nata lì
+1	Con	con	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+4	spesi	spese	ADJ	A	Number=Plur	3	amod	_	_
+5	x	x	SYM	SYM	_	6	amod	_	_
+6	immigrati	immigrato	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+8	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	aiutare	aiutare	VERB	V	VerbForm=Inf	0	root	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	rimanere	rimanere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	gente	gente	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+13	nata	nascere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+14	lì	lì	ADV	B	_	13	advmod	_	SpacesAfter=\n
+

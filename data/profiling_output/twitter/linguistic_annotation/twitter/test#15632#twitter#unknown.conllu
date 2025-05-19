@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @badcomicsit ottimo disegno, ma unico neo che ha un pò perso lo sile manga e diventato più comic americano
+1	@badcomicsit	@badcomicsit	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ottimo	ottimo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	disegno	disegno	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	unico	unico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+7	neo	neo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	pò	pò	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	obj	_	_
+12	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	xcomp	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	sile	sile	ADJ	A	Number=Sing	15	amod	_	_
+15	manga	manga	NOUN	S	Gender=Masc	12	obj	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	conj	_	_
+18	più	più	ADV	B	_	17	advmod	_	_
+19	comic	comic	NOUN	S	Gender=Masc|Number=Plur	17	xcomp	_	_
+20	americano	americano	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	SpacesAfter=\n
+

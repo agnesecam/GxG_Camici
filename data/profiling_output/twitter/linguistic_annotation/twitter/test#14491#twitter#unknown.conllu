@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = forse un giorno ce la farò a uscire con i miei amici per cena senza che mi giudichino per il fatto che sono vegetariana
+1	forse	forse	ADV	B	_	6	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+4	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	uscire	uscire	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	con	con	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	amici	amico	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	cena	cena	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+15	senza	senza	ADP	E	_	16	case	_	_
+16	che	che	PRON	PR	PronType=Rel	18	obl	_	_
+17	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	18	obj	_	_
+18	giudichino	giudicare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+19	per	per	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
+22	che	che	SCONJ	CS	_	24	mark	_	_
+23	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+24	vegetariana	vegetariano	ADJ	A	Gender=Fem|Number=Sing	18	xcomp	_	SpacesAfter=\n
+

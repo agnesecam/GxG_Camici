@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @caterpillarrai @rockin_1000 Renzi si auto ridimensiona:
+1	@caterpillarrai	@caterpillarere	ADV	B	_	6	advmod	_	_
+2	@rockin_1000	@rockin_1000	NUM	N	NumType=Card	3	nummod	_	_
+3	Renzi	Renzi	PROPN	SP	_	6	nsubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	auto	aire	ADJ	A	_	4	amod	_	_
+6	ridimensiona	ridimensionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = farà risorgere Bagnoli in 3anni.
+1	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	risorgere	risorgere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	Bagnoli	Bagnoli	PROPN	SP	_	2	obj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	3anni.	3anni.	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...qualche giorno fa lo avrebbe fatto in 3giorni.
+1	...qualche	...qualche	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	fa	fa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	3giorni.	3giorni.	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I nostri servizi e le nostre soluzioni per risparmiare fatte apposta per te http:// consulenzeenergetiche.blogspot.it/2015/11/i-nost ri-servizi.html …
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	17	nsubj	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	soluzioni	soluzione	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	risparmiare	risparmiare	VERB	V	VerbForm=Inf	3	acl	_	_
+10	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	ccomp	_	_
+11	apposta	apposta	ADV	B	_	13	advmod	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obl	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	3	punct	_	_
+17	consulenzeenergetiche.blogspot.it/2015/11/i-nost	consulenzeenergetiche.blogspot.it/2015/11/i-nost	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	ri-servizi.html	ri-servizi.html	NOUN	S	Gender=Masc	17	obj	_	_
+19	…	…	PUNCT	FF	_	17	punct	_	SpacesAfter=\n
+

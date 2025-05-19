@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In tutti gli Stati del mondo esiste la polizia segreta.
+1	In	in	ADP	E	_	4	case	_	_
+2	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	4	det:predet	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	Stati	Stati	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	segreta	segreto	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = In alcuni Stati è talmente segreta che neppure lei sa di... http:// fb.me/3K3LPWhkX
+1	In	in	ADP	E	_	3	case	_	_
+2	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	Stati	stato	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	talmente	talmente	ADV	B	_	6	advmod	_	_
+6	segreta	segreto	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+8	neppure	neppure	ADV	BN	PronType=Neg	10	advmod	_	_
+9	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+11	di...	di.	PUNCT	FS	_	12	punct	_	_
+12	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	_
+15	fb.me/3K3LPWhkX	fb.me/3K3LPWhkX	PROPN	SP	_	6	nsubj	_	SpacesAfter=\n
+

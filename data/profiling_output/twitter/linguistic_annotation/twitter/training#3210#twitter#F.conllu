@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa potrebbe sembrare una semplice foto, ma osservandola bene si vede che "alla fine di un… https://www.
+1	Questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	semplice	semplice	ADJ	A	Number=Sing	6	amod	_	_
+6	foto	foto	NOUN	S	Gender=Fem	3	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	ma	ma	CCONJ	CC	_	9	cc	_	_
+9	osservandola	osservandolare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	bene	bene	ADV	B	_	9	advmod	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+12	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+13	che	che	SCONJ	CS	_	17	mark	_	_
+14	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+15-16	alla	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	fine	fine	NOUN	S	Gender=Fem|Number=Sing	12	ccomp	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	un…	un…	PUNCT	FF	_	20	punct	_	_
+20	https://www	https://www	NOUN	S	_	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDVE67ghOyD/
+1	instagram.com/p/BDVE67ghOyD/	instagram.com/p/BDVE67ghOyD/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

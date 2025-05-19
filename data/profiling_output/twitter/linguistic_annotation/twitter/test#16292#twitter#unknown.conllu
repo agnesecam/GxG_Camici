@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " Eravate voi che dicevate che questa squadra era debole" (Cit. Habisreutinger).
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	Eravate	Erare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	dicevate	dicevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	che	che	SCONJ	CS	_	10	mark	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+9	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	debole	debole	ADJ	A	Number=Sing	5	ccomp	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	10	punct	_	_
+12	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	Cit.	Cit.	PROPN	SP	_	10	obl	_	_
+14	Habisreutinger	Habisreutinger	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Forse qualcosa non andava nel manico allora.
+1	Forse	forse	ADV	B	_	4	advmod	_	_
+2	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	andava	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	manico	manico	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	allora	allora	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = @OfficialHCL
+1	@OfficialHCL	@OfficialHCL	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

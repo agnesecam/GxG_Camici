@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Può sembrare che io non stia facendo nulla ma in realtà sto facendo Napoleone
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	stia	stare	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	facendo	fare	VERB	V	VerbForm=Ger	2	ccomp	_	_
+8	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obj	_	_
+9	ma	ma	CCONJ	CC	_	13	cc	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+12	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	facendo	fare	VERB	V	VerbForm=Ger	7	advcl	_	_
+14	Napoleone	Napoleone	PROPN	SP	_	13	obj	_	SpacesAfter=\n
+

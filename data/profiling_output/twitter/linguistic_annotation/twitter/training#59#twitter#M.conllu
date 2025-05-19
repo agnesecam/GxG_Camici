@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = spesso mi ritrovo a dovermi buttare nel letto perchè c'è troppa roba da imparare, da vedere, da ricordare.
+1	spesso	spesso	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	ritrovo	ritrovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	dovermi	dovermo	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+6	buttare	buttare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	letto	letto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	perchè	perché	SCONJ	CS	_	12	mark	_	_
+11	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	SpaceAfter=No
+12	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+13	troppa	troppo	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+14	roba	roba	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+15	da	da	ADP	E	_	16	mark	_	_
+16	imparare	imparare	VERB	V	VerbForm=Inf	14	acl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18	da	da	ADP	E	_	19	mark	_	_
+19	vedere	vedere	VERB	V	VerbForm=Inf	16	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	19	punct	_	_
+21	da	da	ADP	E	_	22	mark	_	_
+22	ricordare	ricordare	VERB	V	VerbForm=Inf	19	ccomp	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

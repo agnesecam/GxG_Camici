@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @manuela1877 Allora non l'ho avuta solo io questa impressione!
+1	@manuela1877	@manuela1877	NUM	N	NumType=Card	2	nummod	_	_
+2	Allora	allora	PROPN	SP	_	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	solo	solo	ADV	B	_	8	advmod	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	impressione	impressione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

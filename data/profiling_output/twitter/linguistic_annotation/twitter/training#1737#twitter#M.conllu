@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Sono minorenne.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	minorenne	minorenere	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Dammi 100mila euro o mando le nostre foto alla Polizia".
+1	Dammi	Damma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	100mila	100mila	NUM	N	NumType=Card	3	nummod	_	_
+3	euro	euro	NOUN	S	Gender=Masc	1	obj	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	mando	mare	VERB	V	VerbForm=Ger	1	conj	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	foto	foto	NOUN	S	Gender=Fem	5	obj	_	_
+9-10	alla	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Bolzanino ricattato da una prostituta http:// fb.me/2JRqEPhCM
+1	Bolzanino	Bolzanino	ADV	B	_	2	advmod	_	_
+2	ricattato	ricattare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	prostituta	prostituta	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	fb.me/2JRqEPhCM	fb.me/2JRqEPhCM	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes ALBE TI STAVAMO CERCANDO IN TUTTA BARI *la nostra conversazione è fatta a 2 centimetri di distanza* pic.twitter.com/n0SDe93dGY
+1	@Albericoyes	@Albericoyes	ADP	E	_	2	case	_	_
+2	ALBE	ALBE	PROPN	SP	_	9	obl	_	_
+3	TI	Ti	PROPN	SP	_	2	flat:name	_	_
+4	STAVAMO	STAVAMO	PROPN	SP	_	2	flat:name	_	_
+5	CERCANDO	cercando	PROPN	SP	_	9	nsubj	_	_
+6	IN	in	PROPN	SP	_	5	flat:name	_	_
+7	TUTTA	tutta	PROPN	SP	_	5	flat:name	_	_
+8	BARI	Bari	PROPN	SP	_	5	flat:name	_	_
+9	*la	*lare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	_
+10	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	conversazione	conversazione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
+13	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	2	2	NUM	N	NumType=Card	16	nummod	_	_
+16	centimetri	centimetro	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	distanza*	distanza*	PUNCT	FF	_	19	punct	_	_
+19	pic.twitter.com/n0SDe93dGY	pic.twitter.com/n0sde93dgy	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno a tutti e buon sabato!
+1	Buongiorno	Buongiorno	ADV	B	_	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nmod	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	buon	buono	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Come state?
+1	Come	come	ADP	E	_	2	case	_	_
+2	state	essere	X	SW	Foreign=Yes|Number=Sing	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Cosa farete di bello oggi?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	bello	bello	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+5	oggi	oggi	ADV	B	_	2	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Io sono già in piedi, tra poco andrò in... http:// fb.me/4KwQZY4L5
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	già	già	ADV	B	_	5	advmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	tra	tra	ADP	E	_	10	case	_	_
+8	poco	poco	ADV	B	_	10	advmod	_	_
+9	andrò	andere	ADV	B	_	8	advmod	_	_
+10	in...	in.	PUNCT	FS	_	5	conj	_	_
+11	http:	http:	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	fb.me/4KwQZY4L5	fb.me/4KwQZY4L5	PROPN	SP	_	5	conj	_	SpacesAfter=\n
+

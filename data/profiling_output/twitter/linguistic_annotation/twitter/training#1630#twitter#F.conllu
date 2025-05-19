@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaFabiano @RaiUno grandissime,evvai le nostre spice girls
+1	@AndreaFabiano	@AndreaFabiano	PROPN	SP	_	5	nsubj	_	_
+2	@RaiUno	@RaiUno	PROPN	SP	_	1	flat:name	_	_
+3	grandissime	grandissimo	ADJ	A	Degree=Abs|Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	evvai	evvai	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	spice	spice	NOUN	S	Number=Plur	5	obj	_	_
+9	girls	girls	NOUN	S	Gender=Masc	5	conj	_	SpacesAfter=\n
+

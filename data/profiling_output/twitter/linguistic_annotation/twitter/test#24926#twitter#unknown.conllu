@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AstridMune @fifinhoso @MatteDj23 ma noi siamo maliziosi, non farebbero mai una cosa del genere.
+1	@AstridMune	@AstridMuno	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@fifinhoso	@fifinhoso	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	@MatteDj23	@MatteDj23	PROPN	SP	_	1	obj	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+6	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	maliziosi	malizioso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+11	mai	mai	ADV	B	_	10	advmod	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	genere.	genere.	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = ehm ehm... vero?
+1	ehm	ehm	NOUN	S	_	0	root	_	_
+2	ehm...	ehm.	NOUN	S	_	1	compound	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

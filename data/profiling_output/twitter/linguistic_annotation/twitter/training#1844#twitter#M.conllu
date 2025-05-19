@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tra quanto sta coppia di bastardi ce la troviamo intervistata da Vespa a fare le star a spese nostre ?
+1	Tra	tra	ADP	E	_	2	case	_	_
+2	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	9	obl	_	_
+3	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	coppia	copere	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	bastardi	bastardo	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+7	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+8	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	intervistata	intervistato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	Vespa	Vespa	PROPN	SP	_	10	obl:agent	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	fare	fare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+15	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+16	star	star	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+19	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+20	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = #leiene #portaaporta
+1	#leiene	#leenere	ADV	B	_	2	advmod	_	_
+2	#portaaporta	#portaaporto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #vitemmerd e due!
+1	#vitemmerd	#vitemmerd	NOUN	S	Gender=Masc	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	due	due	NUM	N	NumType=Card	1	conj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Stavolta l'ispirazione giunge dalla pagina Facebook "Think It Over" ;) pic.twitter.com/Ep3LJ7FLxD
+1	Stavolta	stavolta	ADV	B	_	4	advmod	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	ispirazione	ispirazione	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	giunge	giungere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	pagina	pagina	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	Facebook	Facebook	PROPN	SP	_	7	nmod	_	_
+9	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	Think	Think	PROPN	SP	_	4	obl	_	_
+11	It	It	PROPN	SP	_	10	flat:name	_	_
+12	Over	over	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	10	punct	_	_
+14	;	;	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	10	punct	_	_
+16	pic.twitter.com/Ep3LJ7FLxD	pic.twitter.com/Ep3LJ7FLxD	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

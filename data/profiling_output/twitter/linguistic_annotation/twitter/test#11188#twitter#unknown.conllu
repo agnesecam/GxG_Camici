@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @grazia_monella sei una ragazza stupenda cosa nn darei x poterti accarezzare e baciare dappertutto e poi.......
+1	@grazia_monella	@grazia_monello	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	stupenda	stupendo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	8	nsubj	_	_
+7	nn	nno	ADV	B	_	8	advmod	_	_
+8	darei	dareo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+9	x	x	SYM	SYM	_	12	obj	_	_
+10-11	poterti	_	_	_	_	_	_	_	_
+10	poter	potere	AUX	VM	VerbForm=Inf	12	aux	_	_
+11	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	expl	_	_
+12	accarezzare	accarezzare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	baciare	baciare	VERB	V	VerbForm=Inf	12	conj	_	_
+15	dappertutto	dappertutto	ADV	B	_	14	advmod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	poi.......	poi.....	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

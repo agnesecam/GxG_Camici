@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @annatrieste @acmilan non gli potevi comprare il Milan e farglielo gestire mandando via Galliani?
+1	@annatrieste	@annatriesta	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	@acmilan	@acmilan	NOUN	S	_	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+5	potevi	potevo	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	comprare	comprare	VERB	V	VerbForm=Inf	0	root	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Milan	Milan	PROPN	SP	_	6	obj	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10-11	farglielo	_	_	_	_	_	_	_	_
+10	farglie	farglia	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	gestire	gestire	VERB	V	VerbForm=Inf	8	conj	_	_
+13	mandando	mandare	VERB	V	VerbForm=Ger	12	advcl	_	_
+14	via	via	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+15	Galliani	Galliani	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Sai quanto lo facevi contento?
+1	Sai	sapere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	1	obj	_	_
+3	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	facevi	facevo	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	contento	contento	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Anche a me
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	SpacesAfter=\n
+

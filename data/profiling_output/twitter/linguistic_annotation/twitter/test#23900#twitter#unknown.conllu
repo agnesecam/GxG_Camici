@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cicap #cosedanondireaunoscettico una mia amica stava male e dopo terapia omeopatica sta bene.
+1	@cicap	@cicap	NOUN	S	Gender=Masc	12	nsubj	_	_
+2	#cosedanondireaunoscettico	#cosedanondireaunoscettico	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	amica	amico	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+6	stava	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	acl:relcl	_	_
+7	male	male	ADV	B	_	6	advmod	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	dopo	dopo	ADP	E	_	10	case	_	_
+10	terapia	terapia	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11	omeopatica	omeopatico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	bene	bene	ADV	B	_	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = - Forse le avranno consigliato una vita sana
+1	-	-	PUNCT	FF	_	5	punct	_	_
+2	Forse	forse	ADV	B	_	5	advmod	_	_
+3	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+4	avranno	avere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	consigliato	consigliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	sana	sano	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpacesAfter=\n
+

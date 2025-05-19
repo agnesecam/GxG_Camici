@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Adesso per tirare fuori dalla cacca mediatia la #Basilicata , la #Regione dovrà spendere soldi in #comunicazione con chi?
+1	Adesso	adesso	ADV	B	_	3	advmod	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	tirare	tirare	VERB	V	VerbForm=Inf	15	advcl	_	_
+4	fuori	fuori	ADV	B	_	8	case	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	4	fixed	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	cacca	cacca	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	mediatia	mediatiare	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	#Basilicata	#Basilicata	PROPN	SP	_	3	obj	_	_
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	#Regione	#Regione	PROPN	SP	_	15	nsubj	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	spendere	spendere	VERB	V	VerbForm=Inf	0	root	_	_
+16	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	#comunicazione	#comunicazione	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	chi	chi	PRON	PR	Number=Sing|PronType=Rel	18	nmod	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	15	punct	_	_
+
+# sent_id = 2
+# text = #teloavevodetto
+1	#teloavevodetto	#teloavevodetto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

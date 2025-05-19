@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Nuvolarapida1 amante.
+1	@Nuvolarapida1	@Nuvolarapidal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	amante.	amante.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..a certe je piacerebbe avello.
+1	..a	..are	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	je	je	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	piacerebbe	piacere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	avello.	avello.	NOUN	S	_	4	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..ma qualcuna li se deve accontentasse della pecora che tiene per scallasse...
+1	..ma	..mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	accontentasse	accontentare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pecora	pecora	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	tiene	tenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	scallasse...	scallasse...	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpacesAfter=\n
+

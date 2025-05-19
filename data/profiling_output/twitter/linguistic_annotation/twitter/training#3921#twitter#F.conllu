@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fai finta di non lasciarmi mai anche se dovrà finire prima o poi questa lunga storia d'amore #LauraePaola emozionata pic.twitter.com/vnnrYh05f1
+1	Fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	22	advcl	_	_
+2	finta	finta	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	di	di	ADP	E	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	lasciarmi	arma|lasciarme	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	mai	mai	ADV	B	_	5	advmod	_	_
+7	anche	anche	ADV	B	_	10	mark	_	_
+8	se	se	SCONJ	CS	_	7	fixed	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	finire	finire	VERB	V	VerbForm=Inf	5	advcl	_	_
+11	prima	prima	ADV	B	_	10	advmod	_	_
+12	o	o	CCONJ	CC	_	16	cc	_	_
+13	poi	poi	ADV	B	_	16	advmod	_	_
+14	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	16	det	_	_
+15	lunga	lungo	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	storia	storia	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	_
+17	d'	di	ADP	E	_	18	case	_	SpaceAfter=No
+18	amore	amore	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+19	#	#	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+20	LauraePaola	LauraePaola	PROPN	SP	_	10	xcomp	_	_
+21	emozionata	emozionare	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+22	pic.twitter.com/vnnrYh05f1	pic.twitter.com/vnnrYh05f1	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

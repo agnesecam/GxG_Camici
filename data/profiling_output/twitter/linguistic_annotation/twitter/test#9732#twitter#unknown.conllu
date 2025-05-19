@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E per il 3* anno consecutivo (per mantenere le tradizioni) il titolo di malata durante le vacanze di Pasqua va aaaa...
+1	E	e	CCONJ	CC	_	22	cc	_	_
+2	per	per	ADP	E	_	5	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	3*	3*	PUNCT	FF	_	5	punct	_	_
+5	anno	anno	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	_
+6	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+8	per	per	ADP	E	_	9	mark	_	_
+9	mantenere	mantenere	VERB	V	VerbForm=Inf	6	advcl	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	tradizioni	tradizione	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	9	punct	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	malata	malato	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	durante	durante	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	vacanze	vacanza	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	Pasqua	Pasqua	PROPN	SP	_	19	nmod	_	_
+22	va	vo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+23	aaaa...	aaaa.	PUNCT	FS	_	22	punct	_	_
+
+# sent_id = 2
+# text = Me.
+1	Me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #mainagioia
+1	#mainagioia	#mainagioiare	ADV	B	_	0	root	_	SpacesAfter=\n
+

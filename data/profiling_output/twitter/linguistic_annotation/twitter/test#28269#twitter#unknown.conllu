@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CostanzaRdO e ora saremmo anche un "investimento"?
+1	@CostanzaRdO	@costanzardare	ADV	B	_	0	root	_	_
+2	e	e	CCONJ	CC	_	8	cc	_	_
+3	ora	ora	ADV	B	_	8	advmod	_	_
+4	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+5	anche	anche	ADV	B	_	8	advmod	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	investimento	investimento	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Quotatemi in borsa.
+1-2	Quotatemi	_	_	_	_	_	_	_	_
+1	Quotate	Quotare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	borsa	borsa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

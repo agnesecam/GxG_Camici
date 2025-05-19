@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = AHIME ' POVERO SUINO CLANDESTINO DELL'AREA DEL GENNARGENTU, ANCHE OGGI DI ANIMALISTI NEMMENO L'OMBRA, A QUESTO... http:// fb.me/DzfAxpqq
+1	AHIME	AHIME	PROPN	SP	_	0	root	_	_
+2	'	'	PUNCT	FB	_	3	punct	_	_
+3	POVERO	povero	PROPN	SP	_	13	nmod	_	_
+4	SUINO	SUINO	PROPN	SP	_	3	flat:name	_	_
+5	CLANDESTINO	clandestino	PROPN	SP	_	3	flat:name	_	_
+6-7	DELL'	_	_	_	_	_	_	_	SpaceAfter=No
+6	DI	di	ADP	E	_	8	case	_	_
+7	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	AREA	area	PROPN	SP	_	13	nmod	_	_
+9-10	DEL	_	_	_	_	_	_	_	_
+9	DI	Di	ADP	E	_	10	case	_	_
+10	IL	il	PROPN	SP	_	8	nmod	_	_
+11	GENNARGENTU	GENNARGENTU	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	8	punct	_	_
+13	ANCHE	anche	PROPN	SP	_	1	flat:name	_	_
+14	OGGI	Oggi	PROPN	SP	_	13	flat:name	_	_
+15	DI	Di	ADP	E	_	16	case	_	_
+16	ANIMALISTI	ANIMALISTI	PROPN	SP	_	21	nmod	_	_
+17	NEMMENO	nemmeno	ADP	E	_	19	case	_	_
+18	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	OMBRA	ombra	PROPN	SP	_	21	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	19	punct	_	_
+21	A	a	PROPN	SP	_	13	flat:name	_	_
+22	QUESTO...	QUESTO...	PROPN	SP	_	21	flat:name	_	_
+23	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	21	punct	_	_
+26	fb.me/DzfAxpqq	fb.me/DzfAxpqq	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

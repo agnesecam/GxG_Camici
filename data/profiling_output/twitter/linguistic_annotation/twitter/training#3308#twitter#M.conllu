@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bombino - Azamane Tiliade (Official Video) https:// youtu.be/Ss9Znucx4GM via @YouTube BUONGIORNO ce la farà oggi il sole, nonostante matteino?
+1	Bombino	Bombino	ADV	B	_	18	advmod	_	_
+2	-	-	PUNCT	FF	_	1	punct	_	_
+3	Azamane	Azamano	PROPN	SP	_	18	nsubj	_	_
+4	Tiliade	Tiliade	PROPN	SP	_	3	flat:name	_	_
+5	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	Official	Official	PROPN	SP	_	18	obj	_	_
+7	Video	video	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	6	punct	_	_
+9	https:	https:	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	6	punct	_	_
+12	youtu.be/Ss9Znucx4GM	youtu.be/Ss9Znucx4GM	PROPN	SP	_	6	flat:name	_	_
+13	via	via	ADV	B	_	14	advmod	_	_
+14	@YouTube	@YouTube	PROPN	SP	_	18	nsubj	_	_
+15	BUONGIORNO	BUONGIORNO	PROPN	SP	_	14	flat:name	_	_
+16	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	iobj	_	_
+17	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+18	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+19	oggi	oggi	ADV	B	_	18	advmod	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	sole	sole	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	18	punct	_	_
+23	nonostante	nonostante	ADP	E	_	24	case	_	_
+24	matteino	matteino	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 2
+# text = ;-)
+1	;	;	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

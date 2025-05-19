@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non sono tipo che urla ma...sclero dentro . https:// twitter.com/mikaisgoofy/st atus/718901633736962049 …
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	urla	urlare	NUM	N	NumType=Card	6	nummod	_	_
+6	ma...sclero	ma...sclero	NOUN	S	Gender=Masc|Number=Sing	3	csubj	_	_
+7	dentro	dentro	ADV	B	_	6	advmod	_	_
+8	.	.	PUNCT	FS	_	12	punct	_	_
+9	https:	https:	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	_
+12	twitter.com/mikaisgoofy/st	twitter.com/mikaisgoofy/st	NOUN	S	Gender=Masc	6	nmod	_	_
+13	atus/718901633736962049	atus/718901633736962049	NUM	N	NumType=Card	12	nummod	_	_
+14	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Argutamente @rtl1025 disgustoso un bacio fra due uomini?
+1	@Argutamente	@Argutamente	ADV	B	_	3	advmod	_	_
+2	@rtl1025	@rtl1025	NUM	N	NumType=Card	3	nummod	_	_
+3	disgustoso	disgustoso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bacio	bacio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	fra	fra	ADP	E	_	8	case	_	_
+7	due	due	NUM	N	NumType=Card	8	nummod	_	_
+8	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Nel 2016?
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	2016	2016	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Neanche fossimo nel Medioevo, riguardatela va pic.twitter.com/OORReIlZDY
+1	Neanche	neanche	ADV	BN	PronType=Neg	2	advmod	_	_
+2	fossimo	essere	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+3-4	nel	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Medioevo	Medioevo	PROPN	SP	_	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	riguardatela	riguardatelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+8	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	pic.twitter.com/OORReIlZDY	pic.twitter.com/oorreilzdy	PROPN	SP	_	8	nsubj	_	SpacesAfter=\n
+

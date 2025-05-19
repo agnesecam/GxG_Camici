@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni mattina, in Italia, un renziano si sveglia e sa che dovrà creare un hashtag ottimista sui social per rasserenare gli animi agitati.
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Italia	Italia	PROPN	SP	_	10	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	renziano	renziano	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+13	che	che	SCONJ	CS	_	15	mark	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	creare	creare	VERB	V	VerbForm=Inf	12	ccomp	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	hashtag	hashtag	NOUN	S	Gender=Masc	15	obj	_	_
+18	ottimista	ottimista	ADJ	A	Number=Sing	17	amod	_	_
+19-20	sui	_	_	_	_	_	_	_	_
+19	su	su	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	social	social	NOUN	S	Gender=Masc	15	obl	_	_
+22	per	per	ADP	E	_	23	mark	_	_
+23	rasserenare	rasserenare	VERB	V	VerbForm=Inf	21	acl	_	_
+24	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	animi	animo	NOUN	S	Gender=Masc|Number=Plur	23	obj	_	_
+26	agitati	agitato	ADJ	A	Gender=Masc|Number=Plur	25	amod	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

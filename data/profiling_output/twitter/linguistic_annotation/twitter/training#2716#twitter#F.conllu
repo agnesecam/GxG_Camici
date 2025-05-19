@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Secondo me i parrucchieri possiedono gli specchi che ti fanno sembrare più bella.
+1	Secondo	secondo	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	parrucchieri	parrucchiere	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	possiedono	possedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	specchi	specchio	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+10	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	bella	bello	ADJ	A	Gender=Fem|Number=Sing	11	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

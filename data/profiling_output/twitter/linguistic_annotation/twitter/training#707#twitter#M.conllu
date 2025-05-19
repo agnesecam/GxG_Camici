@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TheSwingingMom @simodelbianco se avessimo stadi nuovi in ogni capoluogo forse riusciremmo a domare persino la Pavone e le sue seguaci :D
+1	@TheSwingingMom	@TheSwingingMom	PROPN	SP	_	2	nsubj	_	_
+2	@simodelbianco	@simodelbianco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	stadi	stadio	NOUN	S	Gender=Masc|Number=Plur	2	advcl	_	_
+6	nuovi	nuovo	ADJ	A	Gender=Masc|Number=Plur	11	nsubj	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	9	det	_	_
+9	capoluogo	capoluogo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+10	forse	forse	ADV	B	_	11	advmod	_	_
+11	riusciremmo	riusciere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	domare	domare	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	persino	persino	ADV	B	_	13	advmod	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Pavone	Pavone	PROPN	SP	_	13	obj	_	_
+17	e	e	CCONJ	CC	_	20	cc	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+19	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	seguaci	seguace	NOUN	S	Number=Plur	11	conj	_	_
+21	:D	:D	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

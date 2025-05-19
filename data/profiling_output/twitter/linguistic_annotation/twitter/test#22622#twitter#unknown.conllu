@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma se facessi vedere quella foto a Cato, perderebbe tutti i peli o https:// twitter.com/Slayonvce/stat us/705471374748491776 …
+1	Ma	ma	CCONJ	CC	_	10	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	facessi	facettere	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	vedere	vedere	VERB	V	VerbForm=Inf	10	advcl	_	_
+5	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	foto	foto	NOUN	S	Gender=Fem	4	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Cato	Cato	PROPN	SP	_	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	perderebbe	perdere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	13	det:predet	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	peli	pelo	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+14	o	o	CCONJ	CC	_	18	cc	_	_
+15	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	_
+18	twitter.com/Slayonvce/stat	twitter.com/Slayonvce/stat	PROPN	SP	_	13	conj	_	_
+19	us/705471374748491776	us/705471374748491776	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	18	punct	_	SpacesAfter=\n
+

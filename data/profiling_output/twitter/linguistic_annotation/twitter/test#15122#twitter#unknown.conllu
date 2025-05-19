@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho così tanta fiducia sulla nostra intelligence che se un kamikaze si facesse esplodere su rai tre ora penso che andrei a dormire.....
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	così	così	ADV	B	_	1	advmod	_	_
+3	tanta	tanto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	fiducia	fiducia	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5-6	sulla	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	intelligence	intelligence	NOUN	S	Gender=Fem	1	obl	_	_
+9	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+10	se	se	SCONJ	CS	_	14	mark	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	kamikaze	kamikaze	NOUN	S	Gender=Masc	14	nsubj	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	advcl	_	_
+15	esplodere	esplodere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+16	su	su	ADP	E	_	17	case	_	_
+17	rai	rare	NOUN	S	_	15	obl	_	_
+18	tre	tre	NUM	N	NumType=Card	20	nummod	_	_
+19	ora	ora	ADV	B	_	18	advmod	_	_
+20	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+21	che	che	SCONJ	CS	_	22	mark	_	_
+22	andrei	andre	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	ccomp	_	_
+23	a	a	ADP	E	_	24	case	_	_
+24	dormire.....	dormire.....	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	SpacesAfter=\n
+

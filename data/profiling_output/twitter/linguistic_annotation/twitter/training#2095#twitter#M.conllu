@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se deserte son le strade, oggi Doria giochi tu.
+1	Se	se	SCONJ	CS	_	9	mark	_	_
+2	deserte	deserto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	son	essere	NOUN	S	Gender=Fem	9	nsubj	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	strade	strada	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	oggi	oggi	ADV	B	_	9	advmod	_	_
+8	Doria	Doria	PROPN	SP	_	9	nsubj	_	_
+9	giochi	gioco	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+10	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = La domenica andando allo stadio cresce dentro … https://www.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+3	andando	andare	VERB	V	VerbForm=Ger	7	advcl	_	_
+4-5	allo	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	cresce	crescere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	dentro	dentro	ADV	B	_	10	advmod	_	_
+9	…	…	PUNCT	FF	_	10	punct	_	_
+10	https://www	https://www	NOUN	S	_	7	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BEB8aq1yOhe/
+1	instagram.com/p/BEB8aq1yOhe/	instagram.com/p/BEB8aq1yOhe/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

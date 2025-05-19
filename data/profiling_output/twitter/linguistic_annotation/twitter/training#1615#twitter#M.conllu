@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Centodieci è Condivisione - Social network, social media, parole sempre più presenti nelle nostre vite, quasi u... http:// ow.ly/3dlJ7K
+1	Centodieci	Centodieci	PROPN	SP	_	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Condivisione	Condivisione	PROPN	SP	_	0	root	_	_
+4	-	-	PUNCT	FF	_	3	punct	_	_
+5	Social	social	PROPN	SP	_	3	flat:name	_	_
+6	network	network	ADJ	A	_	3	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	SpacesAfter= 
+8	social	social	ADJ	A	Number=Sing	6	conj	_	_
+9	media	medio	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	parole	parola	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+12	sempre	sempre	ADV	B	_	13	advmod	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	presenti	presente	ADJ	A	Number=Plur	11	amod	_	_
+15-16	nelle	_	_	_	_	_	_	_	_
+15	in	in	ADP	E	_	18	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+17	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	vite	vita	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	3	punct	_	_
+20	quasi	quasi	ADV	B	_	21	advmod	_	_
+21	u...	u.	PUNCT	FF	_	25	punct	_	_
+22	http:	http:	PUNCT	FS	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	ow.ly/3dlJ7K	ow.ly/3dlj7k	PROPN	SP	_	3	appos	_	SpacesAfter=\n
+

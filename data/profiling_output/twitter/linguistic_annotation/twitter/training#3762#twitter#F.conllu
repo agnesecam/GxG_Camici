@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = a me non importa che dimentichino ciò che gli si fà perchè quando si fa qualcosa o si da qualcosa lo si dimentica... http:// fb.me/7H04PfjkL
+1	a	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	importa	importare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	dimentichino	dimenticare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+11	fà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+12	perchè	perché	SCONJ	CS	_	15	mark	_	_
+13	quando	quando	SCONJ	CS	_	15	mark	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:impers	_	_
+15	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+16	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	15	obj	_	_
+17	o	o	CCONJ	CC	_	18	cc	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	conj	_	_
+19	da	da	ADP	E	_	20	case	_	_
+20	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	18	obl:agent	_	_
+21	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	_
+22	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	27	expl:impers	_	_
+23	dimentica...	dimentica.	PUNCT	FS	_	24	punct	_	_
+24	http:	http:	PUNCT	FS	_	27	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	_
+27	fb.me/7H04PfjkL	fb.me/7H04PfjkL	PROPN	SP	_	20	appos	_	SpacesAfter=\n
+

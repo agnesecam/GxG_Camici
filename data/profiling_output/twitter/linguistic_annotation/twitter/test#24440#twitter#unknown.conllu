@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io alle madri di De Filippi e di quell'Alex mostro dell'acido gliene vorrei dire quattro...
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+2-3	alle	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	madri	madre	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	De	De	PROPN	SP	_	4	nmod	_	_
+7	Filippi	Filippi	PROPN	SP	_	6	flat:name	_	_
+8	e	e	CCONJ	CC	_	12	cc	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	quell'	quello	DET	DD	Number=Sing|PronType=Dem	12	det	_	SpaceAfter=No
+11	Alex	Alex	ADJ	A	_	12	amod	_	_
+12	mostro	mostro	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+13-14	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+13	di	di	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+15	acido	acido	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+16	gliene	glenere	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+17	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+19	quattro..	quattro	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 2
+# text = #chilhavisto
+1	#chilhavisto	#chilhavedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

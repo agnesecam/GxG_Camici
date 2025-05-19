@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alecavo dai che se avessimo potuto anche noi ci saremmo fatti costruire due missili ed un Mazinga
+1	@alecavo	@alecare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	dai	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	che	che	PRON	PR	Number=Sing|PronType=Rel	1	nmod	_	_
+5	se	se	SCONJ	CS	_	12	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+7	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux	_	_
+8	anche	anche	ADV	B	_	9	advmod	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+11	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+13	costruire	costruire	VERB	V	VerbForm=Inf	12	ccomp	_	_
+14	due	due	NUM	N	NumType=Card	15	nummod	_	_
+15	missili	missile	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+16	ed	e	CCONJ	CC	_	18	cc	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Mazinga	Mazinga	PROPN	SP	_	15	conj	_	SpacesAfter=\n
+

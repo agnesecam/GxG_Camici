@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @defilippi_m e se Maria ci augura la buonanotte, la notte DOVRÀ essere buona e noi MUTI.
+1	@defilippi_m	@defilippi_m	NOUN	S	Gender=Masc	0	root	_	_
+2	e	e	CCONJ	CC	_	14	cc	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	Maria	Maria	PROPN	SP	_	6	nsubj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+6	augura	augurare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	buonanotte	buonanotta	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	6	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	notte	notte	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+12	DOVRÀ	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+13	essere	essere	AUX	V	VerbForm=Inf	14	cop	_	_
+14	buona	buono	ADJ	A	Gender=Fem|Number=Sing	1	conj	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+17	MUTI	Muti	PROPN	SP	_	1	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ElenaInvernizzi Aldilà del fatto che, com'è ormai evidente, non riesce neppure ad assorbire quelli interni.
+1	@ElenaInvernizzi	@ElenaInvernizzo	ADP	E	_	2	case	_	_
+2	Aldilà	Aldilà	PROPN	SP	_	0	root	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	che	che	SCONJ	CS	_	11	mark	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	11	punct	_	_
+8	com'	come	SCONJ	CS	_	11	mark	_	SpaceAfter=No
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	ormai	ormai	ADV	B	_	11	advmod	_	_
+11	evidente	evidente	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+16	ad	a	ADP	E	_	17	mark	_	_
+17	assorbire	assorbire	VERB	V	VerbForm=Inf	14	xcomp	_	_
+18	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	17	obj	_	_
+19	interni	interno	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #EUShocked
+1	#EUShocked	#EUShocke	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

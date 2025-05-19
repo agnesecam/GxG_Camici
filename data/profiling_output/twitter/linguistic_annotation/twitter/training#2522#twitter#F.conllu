@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le Principesse non hanno bisogno di chi ha il mostro dentro ,con i mostri ci facciamo il sugo󾆶 󾌴
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	Principesse	Principessa	PROPN	SP	_	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	chi	chi	PRON	PR	Number=Sing|PronType=Rel	5	nmod	_	_
+8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mostro	mostro	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	dentro	dentro	ADV	B	_	8	advmod	_	_
+12	,con	,con	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	mostri	mostro	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	iobj	_	_
+16	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	sugo󾆶	sugo󾆶	PROPN	SP	_	16	obj	_	_
+19	󾌴	󾌴	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

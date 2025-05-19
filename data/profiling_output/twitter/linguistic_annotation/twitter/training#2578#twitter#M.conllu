@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Può sembrare buffo eppure in modo molto sottile anche questa è civiltà.
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	buffo	buffo	NOUN	S	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	eppure	eppure	CCONJ	CC	_	12	cc	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	modo	modo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+7	molto	molto	ADV	B	_	8	advmod	_	_
+8	sottile	sottile	ADJ	A	Number=Sing	6	amod	_	_
+9	anche	anche	ADV	B	_	12	advmod	_	_
+10	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	12	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	civiltà	civiltà	NOUN	S	Gender=Fem	3	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/725BZ9Fso
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/725BZ9Fso	fb.me/725BZ9Fso	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

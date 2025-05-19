@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Direct #Democracy vs #Holacracy il nuovo modello di vedere le nostre vite e gli ecosistemi umani!
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Direct	Direct	PROPN	SP	_	0	root	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	Democracy	Democracy	X	SW	Foreign=Yes	2	appos	_	_
+5	vs	vs	X	SW	Foreign=Yes	4	flat:foreign	_	_
+6	#Holacracy	#Holacracy	X	SW	Foreign=Yes	4	flat:foreign	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	modello	modello	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	vedere	vedere	VERB	V	VerbForm=Inf	9	acl	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	vite	vita	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	ecosistemi	ecosistema	NOUN	S	Gender=Masc|Number=Plur	14	conj	_	_
+18	umani	umano	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @emilabirascid #TEDxCesena
+1	@emilabirascid	@emilabirascid	NOUN	S	Gender=Masc	0	root	_	_
+2	#TEDxCesena	#TEDxCesena	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

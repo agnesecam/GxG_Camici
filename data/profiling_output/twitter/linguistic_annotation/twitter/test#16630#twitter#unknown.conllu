@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = REFERENDUM :
+1	REFERENDUM	referendum	PROPN	SP	_	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = IL 17 APRILE "VOTA SI'!" CONTRO LE TRIVELLE!!! #DLCGR #STOPTRIVELLE Sull' occupazione quante bugie ... http:// bit.ly/1SBzTHK
+1	IL	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	17	17	NUM	N	NumType=Card	5	nmod	_	_
+3	APRILE	aprile	PROPN	SP	_	2	flat	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	VOTA	vota	PROPN	SP	_	0	root	_	_
+6	SI'	SI'	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	5	punct	_	_
+9	CONTRO	contro	PROPN	SP	_	5	flat:name	_	_
+10	LE	Le	PROPN	SP	_	9	flat:name	_	_
+11	TRIVELLE!	TRIVELLE!	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+12	!!	!!	PUNCT	FF	_	5	punct	_	_
+13	#DLCGR	#DLCGR	PROPN	SP	_	5	nmod	_	_
+14	#STOPTRIVELLE	#STOPTRIVELLE	PROPN	SP	_	13	flat:name	_	_
+15-16	Sull'	_	_	_	_	_	_	_	_
+15	Su	su	ADP	E	_	17	case	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+17	occupazione	occupazione	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+18	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	19	det	_	_
+19	bugie	bugia	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+20	...	...	PUNCT	FF	_	21	punct	_	_
+21	http:	http:	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	bit.ly/1SBzTHK	bit.ly/1sbzthk	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

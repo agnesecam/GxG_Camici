@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @serracchiani fate gli interessi dei petrolieri e facevate le buffonate contro Berlusconi ridicoli
+1	@serracchiani	@serracchiano	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	petrolieri	petroliero	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	facevate	facevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	buffonate	buffonata	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+12	contro	contro	ADP	E	_	13	case	_	_
+13	Berlusconi	Berlusconi	PROPN	SP	_	11	nmod	_	_
+14	ridicoli	ridicolo	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

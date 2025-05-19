@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di qualcosa si dovrà pur morire https:// twitter.com/repubblicait/s tatus/718325297419063297 …
+1	Di	di	ADP	E	_	2	case	_	_
+2	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	6	obl	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+5	pur	pure	ADV	B	_	6	advmod	_	_
+6	morire	morire	VERB	V	VerbForm=Inf	0	root	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/repubblicait/s	twitter.com/repubblicait/s	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
+11	tatus/718325297419063297	tatus/718325297419063297	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mimmamax @tatjana31 @andrea_pancani @LuciaBorgonzoni FI sta dovunque ..o dove capita!
+1	@mimmamax	@mimmamax	ADP	E	_	3	case	_	_
+2	@tatjana31	@tatjana31	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	@andrea_pancani	@andrea_pancano	NOUN	S	Gender=Masc	6	obl	_	_
+4	@LuciaBorgonzoni	@LuciaBorgonzoni	PROPN	SP	_	6	nsubj	_	_
+5	FI	FI	PROPN	SP	_	4	flat:name	_	_
+6	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dovunque	dovunque	SCONJ	CS	_	10	mark	_	_
+8	..o	..o	ADV	B	_	10	advmod	_	_
+9	dove	dove	ADV	B	_	10	advmod	_	_
+10	capita	capitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = composta da ex Dc,PSI,AN ecc
+1	composta	comporre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	ex	ex	ADJ	A	_	4	amod	_	_
+4	Dc,PSI,AN	Dc,PSI,AN	PROPN	SP	_	1	obl:agent	_	_
+5	ecc	eccetera	ADV	B	_	1	advmod	_	SpacesAfter=\n
+

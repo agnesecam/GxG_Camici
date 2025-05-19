@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se i cosiddetti onorevoli avessero in po' di dignità,quando c'è la Boldrini a presiedere uscirebbero dall'aula.
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	cosiddetti	cosiddetto	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+4	onorevoli	onorevole	NOUN	S	Number=Plur	5	nsubj	_	_
+5	avessero	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	po'	poco	ADV	B	_	5	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	dignità	dignità	NOUN	S	Gender=Fem	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+11	quando	quando	SCONJ	CS	_	13	mark	_	_
+12	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	SpaceAfter=No
+13	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Boldrini	Boldrini	PROPN	SP	_	13	nsubj	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	presiedere	presiedere	VERB	V	VerbForm=Inf	13	ccomp	_	_
+18	uscirebbero	uscire	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+19-20	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+19	da	da	ADP	E	_	21	case	_	_
+20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	_
+21	aula	aula	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/catenaumana/st atus/712859838087299072 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/catenaumana/st	twitter.com/catenaumana/st	NOUN	S	Gender=Masc	0	root	_	_
+5	atus/712859838087299072	atus/712859838087299072	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

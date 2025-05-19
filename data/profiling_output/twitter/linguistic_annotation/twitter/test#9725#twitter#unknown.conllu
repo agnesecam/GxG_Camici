@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per il terzo anno consecutivo è siciliano il borgo più bello d'Italia.
+1	Per	per	ADP	E	_	4	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	terzo	terzo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	anno	anno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+5	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	siciliano	siciliare	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	borgo	borgo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	bello	bello	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+12	d'	di	ADP	E	_	13	case	_	SpaceAfter=No
+13	Italia	Italia	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Quest'anno Sambuca è il #borgodeiborghi http:// palermo.repubblica.it/cronaca/2016/0 3/28/news/sambuca_borgo_dei_borghi_2016_terza_vittoria_consecutiva_della_sicilia-136429632/ …
+1	Quest'	questo	DET	DD	Number=Sing|PronType=Dem	2	det	_	SpaceAfter=No
+2	anno	anno	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+3	Sambuca	Sambuca	PROPN	SP	_	6	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	#borgodeiborghi	#borgodeiborgo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	_
+10	palermo.repubblica.it/cronaca/2016/0	palermo.repubblica.it/cronaca/2016/0	NUM	N	NumType=Card	6	nummod	_	_
+11	3/28	3/28	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+12	/news/sambuca_borgo_dei_borghi_2016_terza_vittoria_consecutiva_della_sicilia-136429632	/news/sambuca_borgo_dei_borghi_2016_terza_vittoria_consecutiva_della_sicilia-136429632	NUM	N	NumType=Card	11	fixed	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	_
+14	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

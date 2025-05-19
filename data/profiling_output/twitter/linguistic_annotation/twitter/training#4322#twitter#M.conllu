@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SAN MARCELLINO.
+1	SAN	San	PROPN	SP	_	0	root	_	_
+2	MARCELLINO	MARCELLINO	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = OMICIDIO DI SEJDOVIC:
+1	OMICIDIO	omicidio	PROPN	SP	_	0	root	_	_
+2	DI	di	PROPN	SP	_	1	flat:name	_	_
+3	SEJDOVIC	SEJDOVIC	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = ARRESTATO VILLANO.
+1	ARRESTATO	arrestare	PROPN	SP	_	0	root	_	_
+2	VILLANO	VILLANO	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = DOVRÀ SCONTARE 5 ANNI E 3 MESI DI CARCERE http://www.
+1	DOVRÀ	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	SCONTARE	SCONTARE	PROPN	SP	_	1	obj	_	_
+3	5	5	NUM	N	NumType=Card	2	nummod	_	_
+4	ANNI	anno	PROPN	SP	_	2	flat:name	_	_
+5	E	e	CCONJ	CC	_	7	cc	_	_
+6	3	3	NUM	N	NumType=Card	7	nummod	_	_
+7	MESI	mese	PROPN	SP	_	2	nmod	_	_
+8	DI	di	ADP	E	_	9	case	_	_
+9	CARCERE	carcere	PROPN	SP	_	10	nmod	_	_
+10	http://www	http://www	X	SW	Foreign=Yes	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = vairanonews.it/san-marcellino -omicidio-sejdovic-arrestato-villano-dovra-scontare-5-anni-3-mesi-carcere/ …
+1	vairanonews.it/san-marcellino	vairanonews.it/san-marcellare	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	-omicidio	-omicidio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	sejdovic-arrestato	sejdovic-arrestare	NOUN	S	Gender=Masc|Number=Sing	2	compound	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	villano	villare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+8	dovra-scontare	dovra-scontare	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	5	5	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+11	-anni	-anno	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	3-mesi	3-mese	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+14	-carcere	-carcere	NOUN	S	Gender=Masc|Number=Sing	13	compound	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	_
+16	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

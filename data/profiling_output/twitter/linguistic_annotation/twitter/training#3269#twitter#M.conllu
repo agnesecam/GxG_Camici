@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #BaciatodalSole riesce nell'impresa non banale di far sembrare la televisione un ambiente dove si lavora sul serio
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	BaciatodalSole	BaciatodalSole	PROPN	SP	_	3	nsubj	_	_
+3	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+4	in	in	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	impresa	impresa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	banale	banale	ADJ	A	Number=Sing	6	amod	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	far	fare	VERB	V	VerbForm=Inf	6	acl	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	televisione	televisione	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+16	dove	dove	ADV	B	_	18	advmod	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+18	lavora	lavorare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+19-20	sul	_	_	_	_	_	_	_	_
+19	su	su	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	serio	serio	ADJ	A	Gender=Masc|Number=Sing	18	obl	_	SpacesAfter=\n
+

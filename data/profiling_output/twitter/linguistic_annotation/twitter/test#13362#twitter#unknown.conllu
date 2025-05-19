@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io ho parecchi dubbi su questa storia, ma l'intercettazione dipinge uno scenario verosimile e inquieta.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	intercettazione	intercettazione	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+12	dipinge	dipingere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	scenario	scenario	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	verosimile	verosimile	ADJ	A	Number=Sing	14	amod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	inquieta	inquieto	ADJ	A	Number=Sing	15	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Molto: http://www.
+1	Molto	molto	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	http://www	http://www	X	SW	Foreign=Yes	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = sportmediaset.mediaset.it/video/altrispo rt/ciclismo/pantani-l-intercettazione_76259-2016.shtml …
+1	sportmediaset.mediaset.it/video/altrispo	sportmediaset.mediaset.it/video/altrispo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	rt/	rt/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	ciclismo	ciclismo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	/pantani	/pantano	NOUN	S	Gender=Masc|Number=Plur	3	compound	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	l-intercettazione_76259-2016.shtml	l-intercettazione_76259-2016.shtml	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

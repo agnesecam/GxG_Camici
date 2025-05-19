@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lauraboldrini ma questi pensieri le vengono spontanei o glieli suggeriscono?
+1	@lauraboldrini	@lauraboldrino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	ma	ma	CCONJ	CC	_	7	cc	_	_
+3	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	pensieri	pensiero	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+5	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	7	iobj	_	_
+6	vengono	venire	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	spontanei	spontaneo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	o	o	CCONJ	CC	_	11	cc	_	_
+9-10	glieli	_	_	_	_	_	_	_	_
+9	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+11	suggeriscono	suggerire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Così, per capire!
+1	Così	così	ADV	B	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	capire	capire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

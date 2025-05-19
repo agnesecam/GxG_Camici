@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = -Maestro qual'è la strada mgliore per vivere ???
+1	-Maestro	-Maestro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
+2	qual'	iqual	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	strada	strada	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	mgliore	mgliore	ADJ	A	Degree=Cmp|Number=Sing	5	amod	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	vivere	vivere	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+10	??	??	PUNCT	FF	_	5	punct	_	_
+
+# sent_id = 2
+# text = - Ciascuno sceglie quella che ritiene giusta per sè lasciando la... http:// fb.me/7G69iXiPD
+1	-	-	PUNCT	FF	_	3	punct	_	_
+2	Ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	sceglie	scegliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	ritiene	ritenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	6	xcomp	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	sè	sè	PRON	PE	Person=3|PronType=Prs	6	obl	_	_
+10	lasciando	lasciare	VERB	V	VerbForm=Ger	6	advcl	_	_
+11	la...	la.	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	fb.me/7G69iXiPD	fb.me/7G69iXiPD	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

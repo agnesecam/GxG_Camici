@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = T'immagini la faccia che farebbero , se da domani davvero, davvero tutti quanti smettessero.
+1	T'	To	DET	DI	Number=Sing|PronType=Ind	2	det	_	SpaceAfter=No
+2	immagini	immagine	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	se	se	SCONJ	CS	_	15	mark	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	domani	domani	ADV	B	_	15	advmod	_	_
+11	davvero	davvero	ADV	B	_	14	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	davvero	davvero	ADV	B	_	14	advmod	_	_
+14	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	obl	_	_
+15	quanti	quanto	DET	DQ	Gender=Masc|Number=Plur|PronType=Int	16	det	_	_
+16	smettessero.	smettessero.	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ......
+1	......	......	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

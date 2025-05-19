@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sole24ore @24previdenza perché nessuno glielo ha insegnato.
+1	@sole24ore	@sole24ore	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+2	@24previdenza	@24previdenza	NOUN	S	Gender=Fem|Number=Sing	1	compound	_	_
+3	perché	perché	SCONJ	CS	_	7	mark	_	_
+4	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+5-6	glielo	_	_	_	_	_	_	_	_
+5	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	iobj	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+8	insegnato.	insegnato.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..e c'è qualcuno che se ne vanta!
+1	..e	..e	ADV	B	_	3	advmod	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+6	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	vanta	vantare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

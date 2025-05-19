@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Il cielo e la terra perdurano nel tempo.
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	terra	terra	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+7	perdurano	perdurare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Essi durano perché non vivono per se stessi: perciò sono eterni." Lao Tzu pic.twitter.com/T0bdV7gpJH
+1	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	durano	durare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	perché	perché	SCONJ	CS	_	5	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	se	se	SCONJ	CS	_	6	fixed	_	_
+8	stessi	stesso	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	obl	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	2	punct	_	_
+10	perciò	perciò	ADV	B	_	12	advmod	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	eterni	eterno	ADJ	A	Number=Plur	15	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	15	punct	_	_
+15	Lao	Lao	PROPN	SP	_	2	obl	_	_
+16	Tzu	Tzu	PROPN	SP	_	15	flat:name	_	_
+17	pic.twitter.com/T0bdV7gpJH	pic.twitter.com/T0bdV7gpJH	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

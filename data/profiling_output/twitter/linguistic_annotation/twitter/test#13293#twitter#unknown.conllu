@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di errori ne ho fatti parecchi , di cattive azioni mai.
+1	Di	di	ADP	E	_	2	case	_	_
+2	errori	errore	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	cattive	cattivo	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+10	azioni	azione	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+11	mai	mai	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Non dimentico i torti subiti, spesso non… https://www.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	dimentico	dimentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	torti	torto	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	subiti	subito	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	spesso	spesso	ADV	B	_	9	advmod	_	_
+8	non…	non…	PUNCT	FF	_	9	punct	_	_
+9	https://www	https://www	NOUN	S	_	2	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDGONWjNzqO/
+1	instagram.com/p/BDGONWjNzqO/	instagram.com/p/BDGONWjNzqO/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

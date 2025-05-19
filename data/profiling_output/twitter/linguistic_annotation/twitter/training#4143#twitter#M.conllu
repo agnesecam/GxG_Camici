@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @carlucci_cc @lusadep pensate quanto dovrà pedalare il bomba!
+1	@carlucci_cc	@carlucci_ccetera	NOUN	S	Gender=Masc	3	nmod	_	_
+2	@lusadep	@lusadep	NOUN	S	Gender=Masc	1	compound	_	_
+3	pensate	pensare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	3	obj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	pedalare	pedalare	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	bomba	bomba	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #referendum17aprile #iovotoSi #Trivellopoli pic.twitter.com/BEunLCW1tN
+1	#referendum17aprile	#referendum17aprile	ADJ	A	Number=Sing	2	amod	_	_
+2	#iovotoSi	#iovotoSi	PROPN	SP	_	0	root	_	_
+3	#Trivellopoli	#Trivellopoli	PROPN	SP	_	2	flat:name	_	_
+4	pic.twitter.com/BEunLCW1tN	pic.twitter.com/BEunLCW1tN	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

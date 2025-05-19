@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @duplikey facesti bene!
+1	@duplikey	@duplikey	CCONJ	CC	_	2	cc	_	_
+2	facesti	facedere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @RiccardoE @Buzzoole
+1	@RiccardoE	@RiccardoE	PROPN	SP	_	0	root	_	_
+2	@Buzzoole	@Buzzoole	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

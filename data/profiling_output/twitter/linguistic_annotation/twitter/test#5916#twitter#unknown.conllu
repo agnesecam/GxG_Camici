@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = V.
+1	V	V	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Williams sulluguaglianza ATP WTA:
+1	Williams	Williams	PROPN	SP	_	0	root	_	_
+2	sulluguaglianza	sulluguaglianza	ADP	E	_	3	case	_	_
+3	ATP	ATP	PROPN	SP	_	1	nmod	_	_
+4	WTA	WTA	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = Pensavo fossimo pi ugrave avanti http:// dlvr.it/L0gFCg pic.twitter.com/dROZ1Y3fBG
+1	Pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	fossimo	essere	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	_
+3	pi	pe	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+4	ugrave	ugrave	ADJ	A	Number=Sing	5	amod	_	_
+5	avanti	avanti	NOUN	S	Gender=Masc	9	nmod	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	dlvr.it/L0gFCg	dlvr.it/L0gFCg	PROPN	SP	_	1	obj	_	_
+10	pic.twitter.com/dROZ1Y3fBG	pic.twitter.com/dROZ1Y3fBg	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

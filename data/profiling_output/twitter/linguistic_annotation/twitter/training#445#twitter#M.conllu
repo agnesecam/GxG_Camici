@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sevise2
+1	@sevise2	@sevise2	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = Non sapevo che avessimo dei confini:
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	confini	confine	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = Finora è dimostrato il contrario:
+1	Finora	finora	ADV	B	_	3	advmod	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	dimostrato	dimostrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	contrario	contrario	NOUN	S	Gender=Masc|Number=Sing	3	nsubj:pass	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 4
+# text = Il formaggio Emmenthal, ha meno buchi e siamo in ammollo!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	formaggio	formaggio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	Emmenthal	Emmenthal	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	meno	meno	ADV	B	_	5	advmod	_	_
+7	buchi	buco	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	ammollo	ammollo	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

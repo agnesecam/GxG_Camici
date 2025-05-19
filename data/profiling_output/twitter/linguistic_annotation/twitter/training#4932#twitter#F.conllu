@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fu corruzione.
+1	Fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	corruzione	corruzione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = L’affaire indiano degli elicotteri – che più volte si è intrecciato con il destino dei due marò –... http:// fb.me/87R4lzPK0
+1	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	affaire	affaira	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	indiano	indiano	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4-5	degli	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	elicotteri	elicottero	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+7	–	–	PUNCT	FB	_	6	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	volte	volta	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+12	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	intrecciato	intrecciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	acl:relcl	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	destino	destino	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+17-18	dei	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	due	due	NUM	N	NumType=Card	20	obl	_	_
+20	marò	marare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+21	–...	–...	PUNCT	FF	_	20	punct	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	_
+25	fb.me/87R4lzPK0	fb.me/87R4lzPK0	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

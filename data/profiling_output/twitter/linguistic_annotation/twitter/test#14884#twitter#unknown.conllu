@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E se un giorno l' #umanità #scomparisse ?
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	#umanità	#umanità	NOUN	S	Gender=Fem	4	nsubj	_	_
+7	#scomparisse	#scomparire	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = E' l'amara conclusione di uno studio pubblicato sulla rivista... http:// fb.me/7IvyTM3OQ
+1	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+3	amara	amaro	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	conclusione	conclusione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	studio	studio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	pubblicato	pubblicare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+9-10	sulla	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	rivista...	rivista...	NOUN	S	_	8	obl	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	fb.me/7IvyTM3OQ	fb.me/7IvyTM3OQ	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

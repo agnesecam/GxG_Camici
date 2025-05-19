@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il vero gufo è renzi - il governo dovrà tagliare le stime-pil 2016:
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	gufo	gufo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	renzi	renziare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+6	-	-	PUNCT	FF	_	5	punct	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	governo	governo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	tagliare	tagliare	VERB	V	VerbForm=Inf	5	parataxis	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	stime-pil	stime-pil	NOUN	S	Gender=Masc	10	obj	_	_
+13	2016	2016	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = un casino per deficit e debito - Politica http://www.
+1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	casino	casino	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	deficit	deficit	NOUN	S	Gender=Masc	2	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	debito	debito	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+7	-	-	PUNCT	FF	_	2	punct	_	_
+8	Politica	politico	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	http://www	http://www	NOUN	S	_	2	compound	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = dagospia.com/rubrica-3/poli tica/vero-gufo-renzi-dopo-mesi-ri-presa-culo-governo-valuta-121523.htm …
+1	dagospia.com/rubrica-3/poli	dagospia.com/rubrica-3/polo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	tica/vero	tica/vero	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	gufo-renzi-dopo-mesi-ri-presa-culo-governo-valuta-121523.htm	gufo-renzi-dopo-mesi-ri-presa-culo-governo-valuta-121523.htm	NOUN	S	Gender=Masc|Number=Sing	2	compound	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

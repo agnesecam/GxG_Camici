@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pisto_gol sentirle dire quelle fesserie sulla Juve é una cosa assurda.
+1	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2-3	sentirle	_	_	_	_	_	_	_	_
+2	sentir	sentire	NOUN	S	_	12	nsubj	_	_
+3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	dire	dire	VERB	V	VerbForm=Inf	2	acl	_	_
+5	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	fesserie	fesseria	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7-8	sulla	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Juve	Juve	PROPN	SP	_	6	nmod	_	_
+10	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+13	assurda	assurdo	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = Vuole recuperare gli abbonati napoletani dalla disdetta?
+1	Vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	recuperare	recuperare	VERB	V	VerbForm=Inf	0	root	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	abbonati	abbonato	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	napoletani	napoletano	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	disdetta	disdetta	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

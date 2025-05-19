@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chiunque farà il #Sindaco di #Roma la dovrà far risorgere.Se no di Roma resterà solo il nome perchè verrà comprata pezzo per pezzo e finirà!
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	acl:relcl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	Sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	#Roma	#Roma	PROPN	SP	_	5	nmod	_	_
+8	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	far	fare	VERB	V	VerbForm=Inf	1	acl:relcl	_	_
+11	risorgere.Se	risorgere.se	VERB	V	VerbForm=Inf	10	xcomp	_	_
+12	no	no	ADV	BN	PronType=Neg	11	advmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	Roma	Roma	PROPN	SP	_	11	obl	_	_
+15	resterà	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	advcl	_	_
+16	solo	solo	ADV	B	_	15	advmod	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	nome	nome	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+19	perchè	perché	SCONJ	CS	_	21	mark	_	_
+20	verrà	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	aux:pass	_	_
+21	comprata	comprare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+22	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	21	xcomp	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
+25	e	e	CCONJ	CC	_	26	cc	_	_
+26	finirà	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	conj	_	SpaceAfter=No
+27	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

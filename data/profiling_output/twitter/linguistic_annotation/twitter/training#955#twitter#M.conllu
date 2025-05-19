@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Città di Nocera si impone sul Montesarchio e si porta a un passo dalla promozione - Tutto... http:// fb.me/2bdMeqXKK
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Città	Città	PROPN	SP	_	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Nocera	Nocera	PROPN	SP	_	2	nmod	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	impone	imporre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7-8	sul	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Montesarchio	Montesarchio	PROPN	SP	_	6	obl	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+12	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	passo	passo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16-17	dalla	_	_	_	_	_	_	_	_
+16	da	da	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	promozione	promozione	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+19	-	-	PUNCT	FF	_	18	punct	_	_
+20	Tutto...	Tutto...	PROPN	SP	_	18	conj	_	_
+21	http:	http:	PUNCT	FS	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	fb.me/2bdMeqXKK	fb.me/2bdmeqxkk	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

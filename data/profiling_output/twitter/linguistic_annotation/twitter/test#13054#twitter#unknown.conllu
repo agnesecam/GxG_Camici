@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FabioBocchino @Melatengoperme giustissimo...
+1	@FabioBocchino	@FabioBocchino	PROPN	SP	_	0	root	_	_
+2	@Melatengoperme	@Melatengoperme	PROPN	SP	_	1	flat:name	_	_
+3	giustissimo..	giustissimo	NOUN	S	_	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = stavo scherzando con la mia principessa Manu
+1	stavo	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	scherzando	scherzare	VERB	V	VerbForm=Ger	1	advcl	_	_
+3	con	con	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	principessa	principessa	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7	Manu	Manu	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

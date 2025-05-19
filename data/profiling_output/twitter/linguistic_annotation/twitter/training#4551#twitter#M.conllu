@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaffaCo54 @RaiBallaro il senato non dovrà occuparsi delle leggi che passano alla Camera.
+1	@RaffaCo54	@RaffaCo54	PROPN	SP	_	7	nsubj	_	_
+2	@RaiBallaro	@RaiBallaro	PROPN	SP	_	1	flat:name	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	senato	senato	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7-8	occuparsi	_	_	_	_	_	_	_	_
+7	occupar	occupare	VERB	V	VerbForm=Inf	0	root	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	passano	passare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Camera	Camera	PROPN	SP	_	13	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Come in tutti i paesi moderni.
+1	Come	come	ADV	B	_	5	advmod	_	_
+2	in	in	ADP	E	_	5	case	_	_
+3	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+6	moderni	moderno	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #modernità
+1	#modernità	#modernità	NOUN	S	Gender=Fem	0	root	_	SpacesAfter=\n
+

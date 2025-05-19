@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pisto_gol mo mi hai rotto.
+1	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mo	mo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	rotto	rompere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Parli di slealtà come se avessimo obbligato noi #Rizzoli ad arbitrare così di merda.
+1-2	Parli	_	_	_	_	_	_	_	_
+1	Par	Parre	VERB	V	VerbForm=Inf	0	root	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	slealtà	slealtà	NOUN	S	Gender=Fem	1	obl	_	_
+5	come	come	ADV	B	_	8	advmod	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	obbligato	obbligare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+10	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	Rizzoli	Rizzoli	PROPN	SP	_	9	nmod	_	_
+12	ad	a	ADP	E	_	13	mark	_	_
+13	arbitrare	arbitrare	VERB	V	VerbForm=Inf	11	acl	_	_
+14	così	così	ADV	B	_	16	advmod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	merda	merda	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Molla un po'!
+1	Molla	Mollare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	po'	poco	ADV	B	_	1	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

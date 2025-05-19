@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cavoli!
+1	Cavoli	Cavoli	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = @demagistris il costume lo dovrà usare per altri lidi.
+1	@demagistris	@demagistris	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	costume	costume	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	usare	usare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	altri	altro	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+9	lidi	lidi	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/SkyTG24/status /717952112060018688 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/SkyTG24/status	twitter.com/SkyTG24/status	PROPN	SP	_	0	root	_	_
+5	/717952112060018688	/717952112060018688	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

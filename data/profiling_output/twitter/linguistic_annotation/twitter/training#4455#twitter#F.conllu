@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando uno fuma una sigaretta non ci dovrebbe essere nessuno affianco che rompe, perché altrimenti fumerà male e dovrà fumarne un'altra.
+1	Quando	quando	SCONJ	CS	_	3	mark	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	fuma	fumare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	sigaretta	sigaretta	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+8	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+10	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+11	affianco	affianco	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	che	che	SCONJ	CS	_	13	mark	_	_
+13	rompe	rompo	X	X	_	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	perché	perché	SCONJ	CS	_	17	mark	_	_
+16	altrimenti	altrimenti	ADV	B	_	17	advmod	_	_
+17	fumerà	fumare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	advcl	_	_
+18	male	male	ADV	B	_	17	advmod	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	_
+20	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	aux	_	_
+21	fumarne	fumarne	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
+22	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+23	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	21	obj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

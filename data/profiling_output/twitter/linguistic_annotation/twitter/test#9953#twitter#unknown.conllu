@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciollo ce l'ha mollo È colpa di @blueeyeslikeice che oggi faceva solo rime @Ciolini7
+1	Ciollo	Ciollo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mollo	mollo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	4	advcl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	@blueeyeslikeice	@blueeyeslikeice	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	oggi	oggi	ADV	B	_	12	advmod	_	_
+12	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
+13	solo	solo	ADV	B	_	12	advmod	_	_
+14	rime	rima	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+15	@Ciolini7	@Ciolini7	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

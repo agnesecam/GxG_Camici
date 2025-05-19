@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stiamo arrivando sul mercato con questa piadina...
+1	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	arrivando	arrivare	VERB	V	VerbForm=Ger	0	root	_	_
+3-4	sul	_	_	_	_	_	_	_	_
+3	su	su	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	piadina...	piadina...	NOUN	S	_	2	obl	_	_
+
+# sent_id = 2
+# text = ne conoscete qualcuna che abbia queste caratteristiche,... http:// fb.me/82YrPWCTq
+1	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+2	conoscete	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	abbia	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	caratteristiche,...	caratteristiche,...	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	5	punct	_	_
+11	fb.me/82YrPWCTq	fb.me/82YrPWCTq	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

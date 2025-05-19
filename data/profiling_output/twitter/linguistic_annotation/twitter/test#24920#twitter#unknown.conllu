@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @norma_marco a pelle li metterei alla porta però ne farebbero dei martiri e invece dobbiamo farci sentire noi che siamo per un nuovo PD
+1	@norma_marco	@norma_marco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	pelle	pella	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+5	metterei	mettere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	porta	porta	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+9	però	però	ADV	B	_	11	advmod	_	_
+10	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	11	iobj	_	_
+11	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	martiri	martire	NOUN	S	Number=Plur	11	obl	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	invece	invece	ADV	B	_	18	advmod	_	_
+17	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18-19	farci	_	_	_	_	_	_	_	_
+18	far	fare	VERB	V	VerbForm=Inf	11	conj	_	_
+19	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	obj	_	_
+20	sentire	sentire	VERB	V	VerbForm=Inf	18	ccomp	_	_
+21	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	20	obj	_	_
+22	che	che	PRON	PR	PronType=Rel	27	nsubj	_	_
+23	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	27	cop	_	_
+24	per	per	ADP	E	_	27	case	_	_
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+26	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	27	amod	_	_
+27	PD	Pd	PROPN	SP	_	21	acl:relcl	_	SpacesAfter=\n
+

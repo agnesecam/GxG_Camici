@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima ero in biblioteca e un tizio che non conosco mi ha salutata così, a random, come se fossimo amici da una vita.
+1	Prima	prima	ADV	B	_	4	advmod	_	_
+2	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	biblioteca	biblioteca	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tizio	tizio	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
+12	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	salutata	salutare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	così	così	ADV	B	_	13	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	13	punct	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	random	random	NOUN	S	Gender=Masc	13	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	13	punct	_	_
+19	come	come	ADV	B	_	22	advmod	_	_
+20	se	se	SCONJ	CS	_	22	mark	_	_
+21	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	22	cop	_	_
+22	amici	amico	NOUN	S	Gender=Masc|Number=Plur	13	advcl	_	_
+23	da	da	ADP	E	_	25	case	_	_
+24	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	vita	vita	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = (?)
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi non passa più Con questo bel sole e un delitto star chiusi qua dentro Infatti non c'è nessuno Ed io ho la... http:// fb.me/4rzjKNPZh
+1	Oggi	oggi	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	passa	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	3	advmod	_	_
+5	Con	con	ADP	E	_	8	case	_	_
+6	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+7	bel	bello	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	sole	sole	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	delitto	delitto	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+12	star	stare	VERB	V	VerbForm=Inf	11	acl	_	_
+13	chiusi	chiuso	ADJ	A	Gender=Masc|Number=Plur	12	xcomp	_	_
+14	qua	qua	ADV	B	_	12	advmod	_	_
+15	dentro	dentro	ADP	E	_	16	case	_	_
+16	Infatti	infatti	ADV	B	_	12	advmod	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	SpaceAfter=No
+19	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+20	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	nsubj	_	_
+21	Ed	e	CCONJ	CC	_	23	cc	_	_
+22	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_
+23	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	conj	_	_
+24	la...	la...	NOUN	S	Gender=Masc|Number=Sing	23	conj	_	_
+25	http:	http:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	3	punct	_	_
+28	fb.me/4rzjKNPZh	fb.me/4rzjKNPZh	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

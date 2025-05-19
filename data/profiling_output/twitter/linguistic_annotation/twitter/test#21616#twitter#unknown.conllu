@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Quando ti fanno un complimento ringrazia e cambia discorso, se ci sono spettatori.
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Quando	quando	SCONJ	CS	_	4	mark	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	complimento	complimento	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	ringrazia	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+10	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	9	punct	_	_
+12	se	se	SCONJ	CS	_	14	mark	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+14	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	spettatori	spettatore	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = "
+1	"	"	PUNCT	FB	_	0	root	_	_
+
+# sent_id = 3
+# text = Mia nonna starà ridendo, ora che l'ho capita.
+1	Mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	nonna	nonna|nonno	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	starà	esstere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	ridendo	ridere	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	ora	ora	ADV	B	_	4	advmod	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+9	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	capita	capitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

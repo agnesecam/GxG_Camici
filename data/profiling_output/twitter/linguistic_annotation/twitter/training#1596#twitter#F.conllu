@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Assago,ieri,79,78,48,47,8 le nostre età.
+1	Assago	Assago	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	ieri,79,78,48	ieri,79,78,48	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+4	,47,8	,47,8	NUM	N	NumType=Card	3	flat	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	età	età	NOUN	S	Gender=Fem	1	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Capitani coraggiosi sublimi,fantastici @ClaudioBaglioni @MorandiGianni44 Grazie
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Capitani	Capitani	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	coraggiosi	coraggioso	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4	sublimi	sublimo	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	SpaceAfter=No
+5	,fantastici	,fantastico	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+6	@ClaudioBaglioni	@ClaudioBaglioni	PROPN	SP	_	2	nmod	_	_
+7	@MorandiGianni44	@MorandiGianni44	PROPN	SP	_	6	flat:name	_	_
+8	Grazie	grazie	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

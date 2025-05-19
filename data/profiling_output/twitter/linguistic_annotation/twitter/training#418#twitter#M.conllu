@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OGiannino Avessimo anche noi una Siberia ....ci manderei tanti giudici e politici .
+1	@OGiannino	@OGiannino	PROPN	SP	_	8	nsubj	_	_
+2	Avessimo	Avessimo	PROPN	SP	_	1	flat:name	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	obl	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Siberia	Siberia	PROPN	SP	_	8	nsubj	_	_
+7	....ci	....co	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	manderei	mandare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
+10	giudici	giudice	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	politici	politico	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+13	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noi directioner se fossimo state il palo AHAHAHAH.
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	directioner	directionere	VERB	V	VerbForm=Inf	0	root	_	_
+3	se	se	SCONJ	CS	_	7	mark	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+5	state	essere	AUX	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	cop	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	palo	palo	NOUN	S	Gender=Masc|Number=Sing	2	advcl	_	_
+8	AHAHAHAH	AHAHAHAH	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #OhNoNiall pic.twitter.com/6IoC7hyRR0
+1	#OhNoNiall	#OhNoNiall	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/6IoC7hyRR0	pic.twitter.com/6IoC7hyRR0	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

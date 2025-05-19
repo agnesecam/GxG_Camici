@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = mai avuta simpatia per l'uomo giornalista, ma ho sempre seguito con attenzione e interesse i suoi programmi http://www.
+1	mai	mai	ADV	B	_	2	advmod	_	_
+2	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	simpatia	simpatia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	giornalista	giornalista	NOUN	S	Number=Sing	6	compound	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	sempre	sempre	ADV	B	_	12	advmod	_	_
+12	seguito	seguire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	attenzione	attenzione	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	interesse	interere	NOUN	S	Gender=Masc|Number=Sing	14	conj	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	programmi	programma	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+20	http://www	http://www	NOUN	S	_	19	compound	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ilfattoquotidiano.it/2016/03/09/san toro-la-rai-di-renzi-ha-chiuso-il-dialogo-con-me-peggio-di-quando-cera-berlusconi/2532295/ …
+1	ilfattoquotidiano.it/2016/03/09/san	ilfattoquotidiano.it/2016/03/09/santo	ADV	B	_	4	advmod	_	_
+2	toro-la	toro-la	DET	RD	Gender=Fem|Number=Sing	4	det	_	SpaceAfter=No
+3	-rai-di	-rai-do	ADJ	A	Number=Plur	4	amod	_	SpaceAfter=No
+4	-renzi-ha	-renzi-avere	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+6	chiuso-il	chiuso-il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	-dialogo	-dialogo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	con-me-peggio-di	con-me-peggio-do	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+11	quando	quando	SCONJ	CS	_	12	mark	_	SpaceAfter=No
+12	-cera	-cerare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	SpaceAfter=No
+13	-	-	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	berlusconi/2532295	berlusconi/2532295	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	_
+16	…	…	PUNCT	FF	_	12	punct	_	SpacesAfter=\n
+

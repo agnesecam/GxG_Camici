@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = cari amici , scusandoci per il disagio , abbiamo risolto i problemi tecnici delle nostre pagine di vendita on... http:// fb.me/7HKzDcZAd
+1	cari	caro	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+2	amici	amico	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4-5	scusandoci	_	_	_	_	_	_	_	_
+4	scusando	scusare	VERB	V	VerbForm=Ger	11	advcl	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	disagio	disagio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	tecnici	tecnico	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+15-16	delle	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+17	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	pagine	pagina	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	vendita	vendita	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+21	on...	on.	NOUN	S	_	20	compound	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	_
+25	fb.me/7HKzDcZAd	fb.me/7HKzDcZAd	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LindaMadoglio ciao Linda!!!!
+1	@LindaMadoglio	@LindaMadoglio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	ciao	ciao	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	Linda	Linda	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	!!!	!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Tutto benissimo !!
+1	Tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	benissimo	bene	ADV	B	Degree=Abs	1	advmod	_	_
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Un bacione a te!!!!
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bacione	bacione	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	te!	te!	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

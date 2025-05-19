@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - dunque che tutto questo sia legato al trauma causato da una situazione oserei dire inumana, perché costringere l'uomo a dover nascondere-
+1	-	-	PUNCT	FF	_	7	punct	_	_
+2	dunque	dunque	ADV	B	_	7	advmod	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj:pass	_	_
+6	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	legato	legare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	trauma	trauma	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+11	causato	causare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	11	obl:agent	_	_
+15	oserei	oseere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	dire	dire	VERB	V	VerbForm=Inf	7	advcl	_	_
+17	inumana	inumano	ADJ	A	Gender=Fem|Number=Sing	16	xcomp	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	16	punct	_	_
+19	perché	perché	SCONJ	CS	_	20	mark	_	_
+20	costringere	costringere	VERB	V	VerbForm=Inf	16	advcl	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
+22	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+23	a	a	ADP	E	_	25	mark	_	_
+24	dover	dovere	AUX	VM	VerbForm=Inf	25	aux	_	_
+25	nascondere	nascondere	VERB	V	VerbForm=Inf	20	ccomp	_	SpaceAfter=No
+26	-	-	PUNCT	FB	_	16	punct	_	SpacesAfter=\n
+

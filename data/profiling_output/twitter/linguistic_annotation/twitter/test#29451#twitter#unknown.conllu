@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @martafana @yanez_2006 @ilmanifesto perché, ancora nessuno di voi 2 era bloccato da @fnicodemo ?
+1	@martafana	@martafana	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@yanez_2006	@yanez_2006	NUM	N	NumType=Card	3	nummod	_	_
+3	@ilmanifesto	@ilmanifedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	perché	perché	SCONJ	CS	_	12	mark	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	12	punct	_	_
+6	ancora	ancora	ADV	B	_	7	advmod	_	_
+7	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj:pass	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det	_	_
+10	2	2	NUM	N	NumType=Card	12	nummod	_	_
+11	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux:pass	_	_
+12	bloccato	bloccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	@fnicodemo	@fnicodemo	NOUN	S	_	12	obl:agent	_	_
+15	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Io fui cliccato alla mia 1ª interlocuzione!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	_
+2	fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	cliccato	cliccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	1ª	1ª	PROPN	SP	_	3	obl	_	_
+8	interlocuzione	interlocuzione	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

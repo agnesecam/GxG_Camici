@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SimoTarantino io credevo che con Gennaro Ariano e Sandrosca avessimo toccato l'apice e invece tu guarda che sorpresa l'outsider.
+1	@SimoTarantino	@SimoTarantino	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	credevo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	che	che	SCONJ	CS	_	11	mark	_	_
+5	con	con	ADP	E	_	6	case	_	_
+6	Gennaro	Gennaro	PROPN	SP	_	11	obl	_	_
+7	Ariano	Ariano	PROPN	SP	_	6	flat:name	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Sandrosca	Sandrosca	PROPN	SP	_	6	conj	_	_
+10	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	toccato	toccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	apice	apice	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15	invece	invece	ADV	B	_	17	advmod	_	_
+16	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+17	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+18	che	che	SCONJ	CS	_	19	mark	_	_
+19	sorpresa	sorprendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
+20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
+21	outsider	outsider	NOUN	S	_	19	obj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

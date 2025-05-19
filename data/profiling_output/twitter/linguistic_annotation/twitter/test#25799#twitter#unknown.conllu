@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho appena letto "se avremmo aspettato a Sara saremo ancora li" e ora sto piangendo accoccolata nella doccia.
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	appena	appena	ADV	B	_	3	advmod	_	_
+3	letto	leggere	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	aspettato	aspettare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Sara	Sara	PROPN	SP	_	7	obl	_	_
+10	saremo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	17	aux	_	_
+11	ancora	ancora	ADV	B	_	17	advmod	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	17	punct	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15	ora	ora	ADV	B	_	17	advmod	_	_
+16	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	piangendo	piangere	VERB	V	VerbForm=Ger	7	advcl	_	_
+18	accoccolata	accoccolare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
+19-20	nella	_	_	_	_	_	_	_	_
+19	in	in	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	doccia	doccia	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

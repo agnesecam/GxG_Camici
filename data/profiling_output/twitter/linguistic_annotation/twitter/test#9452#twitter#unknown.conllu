@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AndreaLongoni5 @andrea___9 ma io SO caro Longoni,so che ti pagano per fare polemica.
+1	@AndreaLongoni5	@AndreaLongoni5	NUM	N	NumType=Card	5	nummod	_	_
+2	@andrea___9	@andrea___9	NUM	N	NumType=Card	5	nummod	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	SO	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	caro	caro	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	_
+7	Longoni,so	Longoni,so	PROPN	SP	_	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+10	pagano	pagare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	10	advcl	_	_
+13	polemica	polemico	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Cioè linea editoriale di telelombardia è LA polemica.
+1	Cioè	cioè	ADV	B	_	2	advmod	_	_
+2	linea	linea	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	editoriale	editoriale	ADJ	A	Number=Sing	2	amod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	telelombardia	telelombardia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	LA	il	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+8	polemica	polemica	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vispeppe @Emmapretti l'uomo è l'essere confinario che non ha confini, proprio perché nel trovarli , li supera.
+1	@vispeppe	@vispeppa	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	@Emmapretti	@Emmapretti	PROPN	SP	_	1	nmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+7	essere	essere	AUX	V	VerbForm=Inf	8	cop	_	_
+8	confinario	confinario	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	confini	confinare	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	8	punct	_	_
+14	proprio	proprio	ADV	B	_	22	advmod	_	_
+15	perché	perché	SCONJ	CS	_	22	mark	_	_
+16-17	nel	_	_	_	_	_	_	_	_
+16	in	in	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18-19	trovarli	_	_	_	_	_	_	_	_
+18	trovar	trovare	VERB	V	VerbForm=Inf	22	obl	_	_
+19	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+20	,	,	PUNCT	FF	_	18	punct	_	_
+21	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	obj	_	_
+22	supera	superare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = R.Bodei, "limite".
+1	R.Bodei	R.Bodei	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	limite	limite	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

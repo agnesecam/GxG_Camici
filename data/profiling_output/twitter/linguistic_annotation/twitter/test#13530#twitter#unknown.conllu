@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SalvoAltomare non ci dovrebbe essere pietà per queste specie di insegnanti, se ne sentono in giro parecchi di casi simili, ultimamente.
+1	@SalvoAltomare	@SalvoAltomare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+4	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	essere	essere	AUX	VA	VerbForm=Inf	6	cop	_	_
+6	pietà	pietà	NOUN	S	Gender=Fem	1	nsubj	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	9	det	_	_
+9	specie	specie	NOUN	S	Gender=Fem	1	obl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	insegnanti	insegnante	NOUN	S	Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+14	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+15	sentono	sentire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	giro	giro	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+18	parecchi	parecco	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	casi	caso	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
+21	simili	simile	ADJ	A	Number=Plur	20	amod	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	1	punct	_	_
+23	ultimamente.	ultimamente.	NOUN	S	_	1	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E fu così che in quella strana notte di maggio fui sverginata da un paio di forbici @CasaLettori #Adua #ConLeDonne pic.twitter.com/h0sVJAVZdS
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	così	così	ADV	B	_	0	root	_	_
+4	che	che	SCONJ	CS	_	12	mark	_	_
+5	in	in	ADP	E	_	8	case	_	_
+6	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+7	strana	strano	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	notte	notte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	maggio	maggio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+11	fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	aux	_	_
+12	sverginata	sverginare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	paio	paio	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	forbici	forbico	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+18	@CasaLettori	@CasaLettore	PROPN	SP	_	17	nmod	_	_
+19	#Adua	#Adua	PROPN	SP	_	18	flat:name	_	_
+20	#ConLeDonne	#ConLeDonne	PROPN	SP	_	17	nmod	_	_
+21	pic.twitter.com/h0sVJAVZdS	pic.twitter.com/h0sVJAVZdS	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

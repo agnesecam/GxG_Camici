@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @monica_boccardi ignori inoltre cosa fondamen,filosofi laici e teologi (gente molto piu preparata di te e me) affrontano stesse tematiche
+1	@monica_boccardi	@monica_boccardo	ADV	B	_	20	advmod	_	_
+2	ignori	ignore	ADV	B	_	20	advmod	_	_
+3	inoltre	inoltre	ADV	B	_	20	advmod	_	_
+4	cosa	coso	PRON	PQ	Number=Sing|PronType=Int	20	obl	_	_
+5	fondamen,	fondamen,	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	filosofi	filosofo	NOUN	S	Gender=Masc|Number=Plur	20	nsubj	_	_
+7	laici	laico	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	teologi	teologo	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	gente	gente	NOUN	S	Gender=Fem|Number=Sing	9	appos	_	_
+12	molto	molto	ADV	B	_	14	advmod	_	_
+13	piu	piu	ADP	E	_	14	case	_	_
+14	preparata	preparare	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	14	nmod	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	conj	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	11	punct	_	_
+20	affrontano	affrontare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	stesse	stesso	ADJ	A	Gender=Fem|Number=Plur	22	amod	_	_
+22	tematiche	tematica	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tortellina3 grande uomo amante del suo popolo.
+1	@tortellina3	@tortellina3	NUM	N	NumType=Range	3	nummod	_	_
+2	grande	grande	ADJ	A	Number=Sing	3	amod	_	_
+3	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	amante	amante	NOUN	S	Number=Sing	3	nmod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	popolo.	popolo.	NOUN	S	_	4	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..magari avessimo uno così qua da noi..in questo baraccone di paese!
+1	..magari	..magari	ADV	B	_	2	advmod	_	_
+2	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	obj	_	_
+4	così	così	ADV	B	_	9	advmod	_	_
+5	qua	qua	ADV	B	_	9	advmod	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	noi..in	noi..ino	ADV	B	_	5	advmod	_	_
+8	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	baraccone	baraccone	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	paese	paese	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

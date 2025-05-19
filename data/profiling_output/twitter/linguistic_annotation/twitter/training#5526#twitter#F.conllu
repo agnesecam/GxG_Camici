@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uomini che odiano le donne perché qualcuna li ha fatti soffrire....
+1	Uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	odiano	odiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	donne	donna	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	perché	perché	SCONJ	CS	_	10	mark	_	_
+7	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	_
+11	soffrire...	soffrire...	NOUN	S	Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

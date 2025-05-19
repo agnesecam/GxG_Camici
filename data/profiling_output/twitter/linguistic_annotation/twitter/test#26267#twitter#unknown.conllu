@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lo sappiamo:
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	sappiamo	sapere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = la vita non fa sconti a nessuno.
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sconti	sconto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Essa è un dono gratuito da accogliere e mai da possedere ; essa è un... http:// fb.me/7NtrmYesu
+1	Essa	essa	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	dono	dono	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	gratuito	gratuito	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	accogliere	accogliere	VERB	V	VerbForm=Inf	4	acl	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	mai	mai	ADV	B	_	11	advmod	_	_
+10	da	da	ADP	E	_	11	mark	_	_
+11	possedere	possedere	VERB	V	VerbForm=Inf	7	conj	_	_
+12	;	;	PUNCT	FC	_	4	punct	_	_
+13	essa	esso	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	un...	un.	NUM	N	NumType=Card	4	conj	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/7NtrmYesu	fb.me/7NtrmYesu	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

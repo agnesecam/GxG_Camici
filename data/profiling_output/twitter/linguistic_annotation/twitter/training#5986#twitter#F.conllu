@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Renzi si è presentato contro i fossili, quindi ha mentito!
+1	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	Renzi	Renzi	PROPN	SP	_	5	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	presentato	presentare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	contro	contro	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	fossili	fossile	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	quindi	quindi	ADV	B	_	12	advmod	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	mentito	mentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = E se fossimo negli USA se ne sarebbe dovuto andare da un pezzo!
+1	E	e	CCONJ	CC	_	11	cc	_	_
+2	se	se	SCONJ	CS	_	11	mark	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4-5	negli	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	USA	USA	PROPN	SP	_	11	obl	_	_
+7	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+9	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	aux	_	_
+11	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 3
+# text = #lariachetira
+1	#lariachetira	#lariachetirare	ADP	E	_	0	root	_	SpacesAfter=\n
+

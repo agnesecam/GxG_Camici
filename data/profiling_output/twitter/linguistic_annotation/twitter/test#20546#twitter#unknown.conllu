@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho un passaggio in macchina per Cagliari si bellissimo ma glielo dite voi che la mattina alle 7.30 non sono propensa a fare conversazione?
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	passaggio	passaggio	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	Cagliari	Cagliari	PROPN	SP	_	1	obl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	7	amod	_	_
+10	ma	ma	CCONJ	CC	_	13	cc	_	_
+11-12	glielo	_	_	_	_	_	_	_	_
+11	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	conj	_	_
+14	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	_
+15	che	che	SCONJ	CS	_	23	mark	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	23	nsubj	_	_
+18-19	alle	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	7.30	7.30	NUM	N	NumType=Card	23	obl	_	_
+21	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+22	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23	propensa	propenso	ADJ	A	Gender=Fem|Number=Sing	13	ccomp	_	_
+24	a	a	ADP	E	_	25	mark	_	_
+25	fare	fare	VERB	V	VerbForm=Inf	23	advcl	_	_
+26	conversazione	conversazione	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

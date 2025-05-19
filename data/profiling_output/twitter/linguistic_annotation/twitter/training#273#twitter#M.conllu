@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Infatti se avessimo il nucleare ,forse oggi l'elettricità costerebbe meno se poi la biomassa inquina con le pm10 https:// twitter.com/LaGabbiaTw/sta tus/717808254156455936 …
+1	Infatti	infatti	ADV	B	_	10	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	nucleare	nucleare	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	,forse	,forsa	ADV	B	_	7	advmod	_	_
+7	oggi	oggi	ADV	B	_	5	advmod	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	elettricità	elettricità	NOUN	S	Gender=Fem	10	nsubj	_	_
+10	costerebbe	costare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	meno	meno	ADV	B	_	15	case	_	_
+12	se	se	SCONJ	CS	_	11	fixed	_	_
+13	poi	poi	ADV	B	_	15	advmod	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	biomassa	biomassa	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+16	inquina	inquino	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+17	con	con	ADP	E	_	23	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+19	pm10	pm10	NUM	N	NumType=Card	23	nummod	_	_
+20	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	twitter.com/LaGabbiaTw/sta	twitter.com/LaGabbiaTw/sta	PROPN	SP	_	15	nmod	_	_
+24	tus/717808254156455936	tus/717808254156455936	NUM	N	NumType=Card	23	nummod	_	_
+25	…	…	PUNCT	FF	_	10	punct	_	SpacesAfter=\n
+

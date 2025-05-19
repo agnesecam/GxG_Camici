@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_DAGOSPIA-Ma sto Renzi lo vedete dappertutto ?
+1	@_DAGOSPIA	@_DAGOSPIA	ADP	E	_	3	case	_	SpaceAfter=No
+2	-Ma	-Ma	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	3	det	_	_
+3	sto	sto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+4	Renzi	Renzi	PROPN	SP	_	6	nsubj	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	vedete	vedere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dappertutto	dappertutto	ADV	B	_	6	advmod	_	_
+8	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Per strada,a casa,a pranzo,a cena,nel letto,al cesso.D'Agostino sei patetico e servo del M5s!
+1	Per	per	ADP	E	_	2	case	_	_
+2	strada,a	strada,o	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+3	casa,a	casa,a	ADJ	A	Number=Sing	2	amod	_	_
+4	pranzo,a	pranzo,are	ADJ	A	Number=Sing	5	amod	_	_
+5	cena,nel	cena,ni	NOUN	S	Gender=Masc	10	nsubj	_	_
+6	letto,al	letto,al	DET	DQ	Number=Sing|PronType=Int	7	det	_	_
+7	cesso.D'	cesso.D'	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	Agostino	Agostino	PROPN	SP	_	7	flat:name	_	_
+9	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	patetico	patetico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	servo	servo	ADJ	A	Gender=Masc|Number=Sing	10	conj	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	M5s	M5s	PROPN	SP	_	12	obl	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

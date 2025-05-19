@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "La Belle Equipe" a #Parigi ha riaperto lunedì dopo gli attacchi del 13 novembre.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Belle	belle	PROPN	SP	_	9	nsubj	_	_
+4	Equipe	equipe	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	7	punct	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	#Parigi	#Parigi	PROPN	SP	_	9	obl	_	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	riaperto	riaprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	lunedì	lunedì	NOUN	S	Gender=Masc	9	obl	_	_
+11	dopo	dopo	ADP	E	_	13	case	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	attacchi	attacco	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	13	13	NUM	N	NumType=Card	13	nmod	_	_
+17	novembre	novembre	NOUN	S	Gender=Masc|Number=Sing	16	flat	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Qui ci furono 20 morti.
+1	Qui	qui	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	20	20	NUM	N	NumType=Card	5	nummod	_	_
+5	morti	morto	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = @SkyTG24 pic.twitter.com/6IGcce75wf
+1	@SkyTG24	@SkyTG24	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/6IGcce75wf	pic.twitter.com/6IGcce75wf	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

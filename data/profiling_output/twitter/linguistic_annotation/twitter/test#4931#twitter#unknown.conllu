@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La destra in Austria:
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	destra	destra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Austria	Austria	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = il partito che fu di Haider primo nei sondaggi http:// fb.me/5mQYaBiv2
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	partito	partito	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Haider	Haider	PROPN	SP	_	4	obl	_	_
+7	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+8-9	nei	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	sondaggi	sondaggio	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	fb.me/5mQYaBiv2	fb.me/5mQYaBiv2	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Tutelare le nostre informazioni non è facile richiede strumenti e determinate attenzioni" #AlessioPennasilico #ijf16 #sorveglianzadigitale
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Tutelare	tutelare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	informazioni	informazione	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	facile	facile	ADJ	A	Number=Sing	0	root	_	_
+9	richiede	richiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	csubj	_	_
+10	strumenti	strumento	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	determinate	determinato	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
+13	attenzioni	attenzione	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	15	punct	_	_
+15	#AlessioPennasilico	#AlessioPennasilico	PROPN	SP	_	17	nmod	_	_
+16	#	#	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	ijf16	ijf16	SYM	X	_	13	nmod	_	_
+18	#sorveglianzadigitale	#sorveglianzadigitale	ADJ	A	Number=Sing	13	amod	_	SpacesAfter=\n
+

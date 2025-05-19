@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PENNISI CONSIGLI NON RICHIESTI/ La "scaletta" pronta per il Def:
+1	PENNISI	PENNISI	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	CONSIGLI	consigli	PROPN	SP	_	0	root	_	_
+3	NON	Non	PROPN	SP	_	2	nmod	_	_
+4	RICHIESTI	richiesto	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	La	La	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	scaletta	scaletta	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	pronta	pronto	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Def	Def	PROPN	SP	_	10	obl	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Il Governo nei prossimi giorni dovrà presenta... http:// bit.ly/1UCtwKn
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+3-4	nei	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	prossimi	prossimo	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	cop	_	_
+8	presenta...	presenta...	NOUN	S	_	0	root	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	bit.ly/1UCtwKn	bit.ly/1UCtwKn	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

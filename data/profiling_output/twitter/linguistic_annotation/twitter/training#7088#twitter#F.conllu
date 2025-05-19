@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Dalai Lama una volta ha detto “L’amore e la compassione sono una necessità, non un lusso.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Dalai	Dalai	PROPN	SP	_	7	nsubj	_	_
+3	Lama	lama	PROPN	SP	_	2	flat:name	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	volta	volta	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	“	“	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+9	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	amore	amore	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	compassione	compassione	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+14	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	necessità	necessità	NOUN	S	Gender=Fem	7	ccomp	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	lusso	lusso	NOUN	S	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Senza di essi ... http:// fb.me/2ejORMv2Z
+1	Senza	senza	ADP	E	_	3	case	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
+4	...	...	PUNCT	FF	_	3	punct	_	_
+5	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	3	punct	_	_
+8	fb.me/2ejORMv2Z	fb.me/2ejORMv2Z	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

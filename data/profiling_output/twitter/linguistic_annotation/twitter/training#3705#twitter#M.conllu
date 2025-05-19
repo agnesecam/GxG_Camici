@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nel suo tour in #Iran , dopo averlo scambiato con i #Rolex dei Sauditi, #Renzi farà dono agli #Ayatollah di #Beccaria pic.twitter.com/RwaBNxnBdp
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	4	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	tour	tour	NOUN	S	Gender=Masc	21	obl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	#Iran	#Iran	PROPN	SP	_	4	nmod	_	_
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	dopo	dopo	SCONJ	CS	_	11	mark	_	_
+9-10	averlo	_	_	_	_	_	_	_	_
+9	aver	avere	AUX	VA	VerbForm=Inf	11	aux	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	scambiato	scambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	#Rolex	#Rolex	PROPN	SP	_	11	obl	_	_
+15-16	dei	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	Sauditi	Saudito	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	11	punct	_	_
+19	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+20	Renzi	Renzi	PROPN	SP	_	21	nsubj	_	_
+21	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+22	dono	dire	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+23-24	agli	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	25	case	_	_
+24	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	#Ayatollah	#Ayatollah	PROPN	SP	_	21	obl	_	_
+26	di	di	ADP	E	_	27	case	_	_
+27	#Beccaria	#Beccaria	PROPN	SP	_	25	nmod	_	_
+28	pic.twitter.com/RwaBNxnBdp	pic.twitter.com/RwaBNxnBdp	PROPN	SP	_	27	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ho mai avuto la capacità (chiamiamola così) di tirarmela, e non capisco come facciano gli altri.
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	mai	mai	ADV	B	_	4	advmod	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	capacità	capacità	NOUN	S	Gender=Fem	4	obj	_	_
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8-9	chiamiamola	_	_	_	_	_	_	_	_
+8	chiamiamo	chiamare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	così	così	ADV	B	_	8	advmod	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	8	punct	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	tirarmela	tirarmela	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+18	come	come	SCONJ	CS	_	19	mark	_	_
+19	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+20	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	nsubj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Se sei bella okay, sei bella e basta.
+1	Se	se	SCONJ	CS	_	7	mark	_	_
+2	sei	essere	NUM	N	NumType=Card	4	nummod	_	_
+3	bella	bello	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	okay	okay	NOUN	S	_	7	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	sei	essere	NUM	N	NumType=Card	7	nummod	_	_
+7	bella	bello	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

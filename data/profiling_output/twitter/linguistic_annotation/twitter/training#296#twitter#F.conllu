@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi fa incazzare che al netto di Tosel, Rizzoli e Juve, se avessimo tenuto solo la testa salda e orgogliosa quella partita l'avremmo vinta
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	incazzare	incazzare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	che	che	SCONJ	CS	_	28	mark	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	netto	netto	NOUN	S	Gender=Masc|Number=Sing	28	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Tosel	Tosel	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	Rizzoli	Rizzoli	PROPN	SP	_	9	conj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	Juve	Juve	PROPN	SP	_	9	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	7	punct	_	_
+15	se	se	SCONJ	CS	_	17	mark	_	_
+16	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	tenuto	tenere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	_	_
+18	solo	solo	ADV	B	_	20	advmod	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	testa	testa	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+21	salda	saldo	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	orgogliosa	orgoglioso	ADJ	A	Gender=Fem|Number=Sing	21	conj	_	_
+24	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	25	det	_	_
+25	partita	partita	NOUN	S	Gender=Fem|Number=Sing	28	dislocated	_	_
+26	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	28	obj	_	SpaceAfter=No
+27	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	28	aux	_	_
+28	vinta	vincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpacesAfter=\n
+

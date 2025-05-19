@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Roma 2016: persone che vivono in baracche lungo il Tevere.
+1	Roma	Roma	PROPN	SP	_	0	root	_	_
+2	2016	2016	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	persone	persona	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	baracche	baracca	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+9	lungo	lungo	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Tevere	Tevere	PROPN	SP	_	6	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il prossimo sindaco dovrà dar loro una casa, per una vita dignitosa #gazebo
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	dar	dare	VERB	V	VerbForm=Inf	0	root	_	_
+6	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	5	iobj	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+13	dignitosa	dignitoso	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14	#gazebo	#gazebo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\n
+

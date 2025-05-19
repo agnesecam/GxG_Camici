@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Raffaele Sollecito diventa opinionista tv per TgCom24 http://www.
+1	Raffaele	Raffaele	PROPN	SP	_	3	nsubj	_	_
+2	Sollecito	Sollecito	PROPN	SP	_	1	flat:name	_	_
+3	diventa	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	opinionista	opinionista	ADJ	A	Number=Sing	5	amod	_	_
+5	tv	tv	NOUN	S	Gender=Fem	3	obj	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	TgCom24	TgCom24	PROPN	SP	_	3	obl	_	_
+8	http://www	http://www	NOUN	S	_	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = quotidiano.net/raffaele-solle cito-tgcom24-1.2034737 … che squallore, degno di certi personaggetti!
+1	quotidiano.net/raffaele-solle	quotidiano.net/raffaele-solle	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	cito	cito	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	tgcom24	tgcom24	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	-1.2034737	-1.2034737	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	_
+7	che	che	DET	DQ	PronType=Int	8	det	_	_
+8	squallore	squallore	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	degno	degno	NOUN	S	Gender=Masc|Number=Sing	8	appos	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	personaggetti	personaggetto	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Vergognoso!!!!!!!
+1	Vergognoso	vergognoso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!!!!!!	!!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

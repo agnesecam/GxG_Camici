@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stasera si elegge il peggiore tra i peggiori in casa juve, e ce ne sono parecchi !!
+1	Stasera	stasera	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:pass	_	_
+3	elegge	eleggere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	peggiore	peggiore	NOUN	S	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+6	tra	tra	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	peggiori	peggiore	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	casa	casa	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	juve	juvo	ADJ	A	Number=Sing	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+15	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	16	iobj	_	_
+16	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+17	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+18	!!	!!	PUNCT	FF	_	3	punct	_	_
+
+# sent_id = 2
+# text = #InterJuve #TIMCup
+1	#InterJuve	#InterJuve	PROPN	SP	_	0	root	_	_
+2	#TIMCup	#TIMCup	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando un amico nn si fa piú sentire é perchè si é fidanzato.
+1	Quando	quando	SCONJ	CS	_	6	mark	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	amico	amico	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	nn	nn	ADV	B	_	6	advmod	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	piú	piú	PROPN	SP	_	8	obj	_	_
+8	sentire	sentire	VERB	V	VerbForm=Inf	6	ccomp	_	_
+9	é	é	SCONJ	CS	_	13	mark	_	_
+10	perchè	perché	SCONJ	CS	_	13	mark	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl:impers	_	_
+12	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	fidanzato.	fidanzato.	ADJ	A	Gender=Masc|Number=Sing	8	advcl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...e mi fa veramente tanta ma tanta tristezza!
+1	...e	...e	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	veramente	veramente	ADV	B	_	8	advmod	_	_
+5	tanta	tanta	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	tanta	tanto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	tristezza	tristezza	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

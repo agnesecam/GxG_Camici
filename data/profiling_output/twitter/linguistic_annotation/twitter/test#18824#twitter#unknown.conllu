@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AvverbiAmente Silenzio?
+1	@AvverbiAmente	@AvverbiAmente	ADV	B	_	2	advmod	_	_
+2	Silenzio	silenzio	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = MAI! #fragoroso deve levarsi il grido di ciascuno per "combattere" ignoranza e disumanità.
+1	MAI	mai	ADV	B	_	5	advmod	_	SpaceAfter=No
+2	!	!	PUNCT	FF	_	1	punct	_	_
+3	#fragoroso	#fragoroso	ADJ	A	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5-6	levarsi	_	_	_	_	_	_	_	_
+5	levar	levare	VERB	V	VerbForm=Inf	0	root	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	grido	grido	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nmod	_	_
+11	per	per	ADP	E	_	13	mark	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	combattere	combattere	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	15	punct	_	_
+15	ignoranza	ignoranza	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	disumanità	disumanità	NOUN	S	Gender=Fem	15	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/V8JpGU4BOh
+1	pic.twitter.com/V8JpGU4BOh	pic.twitter.com/v8jpgu4boh	INTJ	I	_	0	root	_	SpacesAfter=\n
+

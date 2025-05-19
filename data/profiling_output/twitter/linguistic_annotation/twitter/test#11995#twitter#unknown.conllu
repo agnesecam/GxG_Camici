@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un mese prima e già stavamo uno sopra l'altro al Circo Massimo #nonmidopace #grazieMister #Spalletti #UdineseRoma #otto
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mese	mese	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	prima	prima	ADV	B	_	2	advmod	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	già	già	ADV	B	_	7	advmod	_	_
+6	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	conj	_	_
+8	sopra	sopra	ADP	E	_	10	case	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nmod	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Circo	circo	PROPN	SP	_	20	obl	_	_
+14	Massimo	Massimo	PROPN	SP	_	13	flat:name	_	_
+15	#nonmidopace	#nonmidopace	ADJ	A	Number=Sing	16	amod	_	_
+16	#grazieMister	#grazieMister	PROPN	SP	_	13	flat:name	_	_
+17	#	#	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+18	Spalletti	Spalletti	PROPN	SP	_	13	nmod	_	_
+19	#UdineseRoma	#UdineseRoma	PROPN	SP	_	18	flat:name	_	_
+20	#otto	#otto	NUM	N	NumType=Card	7	nummod	_	SpacesAfter=\n
+

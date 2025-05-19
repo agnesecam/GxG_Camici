@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono senza parole dalla A alla Z ..!!
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	senza	senza	ADP	E	_	3	case	_	_
+3	parole	parola	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	A	A	PROPN	SP	_	3	nmod	_	_
+7-8	alla	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Z	Z	PROPN	SP	_	6	flat:name	_	_
+10	..!	..!	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/M6cbY5xMyQ
+1	pic.twitter.com/M6cbY5xMyQ	pic.twitter.com/M6cbY5xMyQ	NOUN	S	_	0	root	_	SpacesAfter=\n
+

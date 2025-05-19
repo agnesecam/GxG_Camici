@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi chiede "una struttura unitaria di Sicurezza e Difesa".
+1	Renzi	Renzi	ADV	B	_	2	advmod	_	_
+2	chiede	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	struttura	struttura	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	unitaria	unitario	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Sicurezza	sicurezza	PROPN	SP	_	5	nmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	Difesa	difesa	PROPN	SP	_	8	conj	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = "L'Italia, ahimé , ha un'esperienza da offrire" https://www.
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	Italia	Italia	PROPN	SP	_	7	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ahimé	ahimé	ADV	B	_	7	advmod	_	_
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	da	da	ADP	E	_	11	mark	_	_
+11	offrire	offrire	VERB	V	VerbForm=Inf	9	acl	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	7	punct	_	_
+13	https://www.	https://www.	NOUN	S	_	7	obj	_	_
+
+# sent_id = 3
+# text = youtube.com/watch?v=Ccte8K afKjQ …
+1	youtube.com/watch?v=Ccte8K	youtube.com/watch?v=ccte8k	PROPN	SP	_	0	root	_	_
+2	afKjQ	afKjQ	PROPN	SP	_	1	flat:name	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

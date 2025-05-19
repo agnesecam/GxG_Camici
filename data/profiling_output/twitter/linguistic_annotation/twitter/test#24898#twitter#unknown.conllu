@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se aiutassimo i giovani italiani , farebbero piu figli e avremmo meno INCIVILTA' e tranquillita' x tutti noi . https:// twitter.com/fdragoni/statu s/708937115598512128 …
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	aiutassimo	aiutassimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	giovani	giovane	NOUN	S	Number=Plur	2	obj	_	_
+5	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	piu	piu	ADP	E	_	9	case	_	_
+9	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+10	e	e	CCONJ	CC	_	13	cc	_	_
+11	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	meno	meno	ADV	B	_	13	advmod	_	_
+13	INCIVILTA'	INCIVILTAo	ADJ	A	Gender=Masc|Number=Sing	7	conj	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	tranquillita	tranquillito	ADJ	A	Number=Sing	13	conj	_	SpaceAfter=No
+16	'	'	PUNCT	FB	_	13	punct	_	_
+17	x	x	SYM	SYM	_	13	obl	_	_
+18	tutti	tutti	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	nmod	_	_
+19	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+20	.	.	PUNCT	FS	_	19	punct	_	_
+21	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	twitter.com/fdragoni/statu	twitter.com/fdragoni/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	s/708937115598512128	s/708937115598512128	NUM	N	NumType=Card	19	conj	_	_
+26	…	…	PUNCT	FF	_	25	punct	_	SpacesAfter=\n
+

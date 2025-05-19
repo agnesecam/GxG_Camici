@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IsolaDeiFamosi largo ai giovani....
+1	@IsolaDeiFamosi	@IsolaDeiFamoso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	largo	largo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3-4	ai	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	giovani...	giovani...	NOUN	S	_	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = simo lascia spazio per cortesia ......
+1	simo	simo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	_
+2	lascia	lasciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6	.....	.....	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

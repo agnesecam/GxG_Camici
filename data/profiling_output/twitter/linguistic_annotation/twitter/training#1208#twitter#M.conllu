@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non so se è uno scherzo...
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	scherzo...	scherzo...	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	_
+
+# sent_id = 2
+# text = non sta bene con la testa!
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	testa	testa	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Presa dalla coda?
+1	Presa	prendere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	coda	coda	NOUN	S	Gender=Fem|Number=Sing	1	obl:agent	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/Cc0xy7QG
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/Cc0xy7QG	fb.me/Cc0xy7Qg	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

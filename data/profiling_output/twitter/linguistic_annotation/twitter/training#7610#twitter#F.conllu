@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Segui i tuoi sogni, essi conoscono la via.
+1	Segui	seguire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	sogni	sogno	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+7	conoscono	conoscere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	via	via	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Ecolife #Milano #MCB #massoterapia #Physiotherapie pic.twitter.com/7IlX50AiAu
+1	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	Ecolife	Ecolife	PROPN	SP	_	5	nsubj	_	_
+3	#Milano	#Milano	PROPN	SP	_	2	flat:name	_	_
+4	#MCB	#MCB	PROPN	SP	_	2	flat:name	_	_
+5	#massoterapia	#massoterapiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	#Physiotherapie	#Physiotherapie	PROPN	SP	_	5	obj	_	_
+7	pic.twitter.com/7IlX50AiAu	pic.twitter.com/7IlX50AiAu	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

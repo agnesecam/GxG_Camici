@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iofrancesca1965 @blusewillis più che il carattere é ciò che hai dentro , i tuoi sentimenti profondi che ti rendono meravigliosa
+1	@iofrancesca1965	@iofrancesca1965	NUM	N	NumType=Card	2	nummod	_	_
+2	@blusewillis	@blusewillis	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	più	più	ADV	B	_	2	advmod	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	carattere	carattere	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	ccomp	_	_
+9	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+10	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	dentro	dentro	ADV	B	_	10	advmod	_	_
+12	,	,	PUNCT	FF	_	15	punct	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+14	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	sentimenti	sentimento	NOUN	S	Gender=Masc|Number=Plur	8	conj	_	_
+16	profondi	profondo	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	_
+17	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	iobj	_	_
+19	rendono	rendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+20	meravigliosa	meraviglioso	ADJ	A	Gender=Fem|Number=Sing	19	xcomp	_	SpacesAfter=\n
+

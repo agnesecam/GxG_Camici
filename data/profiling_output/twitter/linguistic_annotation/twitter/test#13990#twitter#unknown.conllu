@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Piero__72 @Mamma578Serra @F5063Saw @Superbocce5 buongiorno Giulia sareste da mettere alla prova tu e tua mamma con tutti i buchi
+1	@Piero__72	@Piero__72	PROPN	SP	_	7	nsubj	_	_
+2	@Mamma578Serra	@Mamma578Serra	PROPN	SP	_	1	flat:name	_	_
+3	@F5063Saw	@F5063Saw	PROPN	SP	_	1	flat:name	_	_
+4	@Superbocce5	@Superbocce5	PROPN	SP	_	1	nmod	_	_
+5	buongiorno	buongiorno	NOUN	S	Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Giulia	Giulia	PROPN	SP	_	4	flat:name	_	_
+7	sareste	saredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	da	da	ADP	E	_	9	mark	_	_
+9	mettere	mettere	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	prova	prova	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+13	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
+17	con	con	ADP	E	_	20	case	_	_
+18	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	20	det:predet	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	buchi	buco	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	SpacesAfter=\n
+

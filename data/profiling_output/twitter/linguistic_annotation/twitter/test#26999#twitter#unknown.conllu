@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SteJuve33 Speriamo .Siamo circondati da gente cattiva guarda cos'è successo oggi a Bruxelles.La cattiveria fa girare il mondo ahimè
+1	@SteJuve33	@SteJuve33	PROPN	SP	_	2	nsubj	_	_
+2	Speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.Siamo	.siamo	PROPN	SP	_	2	obj	_	_
+4	circondati	circondare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	gente	gente	NOUN	S	Gender=Fem|Number=Sing	4	obl:agent	_	_
+7	cattiva	cattivo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	cos'	cosa	PRON	PQ	Number=Sing|PronType=Int	11	nsubj	_	SpaceAfter=No
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	successo	successo	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_
+12	oggi	oggi	ADV	B	_	11	advmod	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	Bruxelles.La	Bruxelles.La	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	cattiveria	cattiveria	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+16	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	girare	girare	VERB	V	VerbForm=Inf	16	ccomp	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+20	ahimè	ahimè	INTJ	I	_	2	advmod	_	SpacesAfter=\n
+

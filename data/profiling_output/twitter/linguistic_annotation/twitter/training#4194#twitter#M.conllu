@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco un'immagine di qualche fanta-allenatore che ha higuain in squadra e da settima prossima dovrà schierare manaj pic.twitter.com/01oyuKZlas
+1	Ecco	ecco	ADV	B	_	18	advmod	_	_
+2	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	fanta	fanto	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+7	-allenatore	-allenatore	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	higuain	higuain	NOUN	S	Gender=Masc	9	obj	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	settima	settima	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	_
+16	prossima	proo	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	schierare	schierare	VERB	V	VerbForm=Inf	0	root	_	_
+19	manaj	manaj	PROPN	SP	_	18	obj	_	_
+20	pic.twitter.com/01oyuKZlas	pic.twitter.com/01oyuKZlas	PROPN	SP	_	19	flat:name	_	SpacesAfter=\n
+

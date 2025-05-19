@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo giocato fino ad ora con questa cattiveria ci saremmo giocati diversamente la stagione.
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+3	fino	fino	ADV	B	_	5	case	_	_
+4	ad	a	ADP	E	_	3	fixed	_	_
+5	ora	ora	ADV	B	_	2	advmod	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	cattiveria	cattiveria	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+10	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	giocati	giocare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+12	diversamente	diversamente	ADV	B	_	11	advmod	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Amen.
+1	Amen	amen	INTJ	I	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @stopalpanico furono straordinari, importante separare l'opera dall'uomo (di mmerda)
+1	@stopalpanico	@stopalpanico	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	straordinari	straordinario	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	importante	importante	ADJ	A	Number=Sing	3	conj	_	_
+6	separare	separare	VERB	V	VerbForm=Inf	5	csubj	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	opera	opera	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9-10	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+9	da	da	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+12	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+13	di	di	ADP	E	_	14	case	_	_
+14	mmerda	mmerda	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	14	punct	_	SpacesAfter=\n
+

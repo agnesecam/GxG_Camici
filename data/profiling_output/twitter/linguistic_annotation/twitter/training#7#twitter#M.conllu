@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forex:
+1	Forex	Forex	NOUN	S	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ecco perchè utilizzare il Metodo Smalfiforex conviene...
+1	ecco	ecco	ADV	B	_	3	advmod	_	_
+2	perchè	poiperché	SCONJ	CS	_	3	mark	_	_
+3	utilizzare	utilizzare	VERB	V	VerbForm=Inf	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Metodo	metodo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	Smalfiforex	Smalfiforex	PROPN	SP	_	5	nmod	_	_
+7	conviene...	conviene.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = smalfiplanet.com/public/post.as px?i=111&uid=4d6cb98c-317c-49e2-9899-d9dcdf076638&c=680 … pic.twitter.com/XQ8VopACLX
+1	smalfiplanet.com/public/post.as	smalfiplanet.com/public/post.as	NOUN	S	Gender=Masc	0	root	_	_
+2	px	px	ADJ	NO	Number=Sing|NumType=Ord	1	amod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	i=111&uid=4d6cb98c-317c-49e2-9899	i=111&uid=4d6cb98c-317c-49e2-9899	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	d9dcdf076638&c=680	d9dcdf076638&c=680	NUM	N	NumType=Card	4	compound	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	_
+8	pic.twitter.com/XQ8VopACLX	pic.twitter.com/XQ8VopACLX	ADJ	NO	Number=Sing|NumType=Ord	1	amod	_	SpacesAfter=\n
+

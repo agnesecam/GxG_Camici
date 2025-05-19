@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Aggiungete Giulia Valentina su snapchat che vi farà morire dal ridere
+1	Aggiungete	Aggiungete	PROPN	SP	_	0	root	_	_
+2	Giulia	Giulia	PROPN	SP	_	1	flat:name	_	_
+3	Valentina	Valentina	PROPN	SP	_	1	flat:name	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	snapchat	snapchat	NOUN	S	Gender=Masc	1	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+7	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+9	morire	morire	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10-11	dal	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ridere	ridere	VERB	V	VerbForm=Inf	9	obl	_	SpacesAfter=\n
+

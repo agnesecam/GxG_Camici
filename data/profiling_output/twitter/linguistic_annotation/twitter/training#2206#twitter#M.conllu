@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anima aperta, ripara le ali: io viaggio dentro l’immenso e l’immenso turba le mie ciglia.
+1	Anima	Anima	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	aperta	aperto	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	ripara	riparare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	ali	ala	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	4	punct	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	viaggio	viaggiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	dentro	dentro	ADV	B	_	9	advmod	_	_
+11	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	immenso	immenso	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	immenso	immenso	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	_
+16	turba	turba	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	ciglia	ciglio	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Alda Merini
+1	Alda	Alda	PROPN	SP	_	0	root	_	_
+2	Merini	Merini	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

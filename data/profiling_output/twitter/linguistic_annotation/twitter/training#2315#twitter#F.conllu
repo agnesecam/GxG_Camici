@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MetaErmal fuori piove ma tu hai scaldato il mio cuore portando dentro di me un arcobaleno di pura magia #MetaNazionale
+1	@MetaErmal	@MetaErmale	ADV	B	_	3	advmod	_	_
+2	fuori	fuori	ADV	B	_	3	advmod	_	_
+3	piove	piove	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+6	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	scaldato	scaldare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+11	portando	portare	VERB	V	VerbForm=Ger	7	advcl	_	_
+12	dentro	dentro	ADV	B	_	11	advmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	obl	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	arcobaleno	arcobaleno	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	pura	puro	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
+19	magia	magia	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+20	#MetaNazionale	#MetaNazionale	ADJ	A	Number=Sing	19	amod	_	SpacesAfter=\n
+

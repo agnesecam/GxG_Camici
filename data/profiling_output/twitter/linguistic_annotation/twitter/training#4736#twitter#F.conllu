@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il valzer conquistò velocemente gran parte dell'Europa:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	valzer	valzer	NOUN	S	Gender=Masc	3	nsubj	_	_
+3	conquistò	conquistare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	velocemente	velocemente	ADV	B	_	3	advmod	_	_
+5	gran	gran	ADJ	A	Number=Sing	6	amod	_	_
+6	parte	parte	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	Europa	Europa	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = dalla Francia (dove fu introdotto da Maria Antonietta)... http:// fb.me/4ME7mLPLe
+1-2	dalla	_	_	_	_	_	_	_	_
+1	da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Francia	Francia	PROPN	SP	_	0	root	_	_
+4	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+5	dove	dove	ADV	B	_	7	advmod	_	_
+6	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	introdotto	introdurre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	Maria	Maria	PROPN	SP	_	7	obl:agent	_	_
+10	Antonietta	Antonietta	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+12	...	...	PUNCT	FF	_	7	punct	_	_
+13	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	7	punct	_	_
+16	fb.me/4ME7mLPLe	fb.me/4ME7mLPLe	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

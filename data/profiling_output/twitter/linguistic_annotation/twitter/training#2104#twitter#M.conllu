@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = DADO Canta La Notizia DENTRO L'UTERO:
+1	DADO	dado	ADP	E	_	2	case	_	_
+2	Canta	canta	PROPN	SP	_	4	nmod	_	_
+3	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Notizia	notizia	PROPN	SP	_	0	root	_	_
+5	DENTRO	dentro	PROPN	SP	_	4	flat:name	_	_
+6	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	UTERO	UTERO	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = "Non amarmi al tempo della Cirinnà" http:// fb.me/2EZuI67Rb
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3-4	amarmi	_	_	_	_	_	_	_	_
+3	amar	amare	VERB	V	VerbForm=Inf	0	root	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Cirinnà	Cirinnà	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	12	punct	_	_
+12	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	_
+15	fb.me/2EZuI67Rb	fb.me/2EZuI67Rb	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

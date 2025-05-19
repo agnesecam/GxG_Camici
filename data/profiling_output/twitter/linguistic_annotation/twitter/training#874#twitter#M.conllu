@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @salvatoreAuri L' avessimo fatto anche con i giocatori.
+1	@salvatoreAuri	@salvatoreAurare	PROPN	SP	_	4	nsubj	_	_
+2	L'	il	PROPN	SP	_	1	flat:name	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	anche	anche	ADV	B	_	8	advmod	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	giocatori	giocatore	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Invece chiunque abbia voluto vincere scudetto dal2004 al2011ha preso Ibrahimovic.
+1	Invece	invece	ADV	B	_	5	advmod	_	_
+2	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	5	nsubj	_	_
+3	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	voluto	volere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux	_	_
+5	vincere	vincere	VERB	V	VerbForm=Inf	0	root	_	_
+6	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7	dal2004	dal2004	NUM	N	NumType=Card	6	nummod	_	_
+8	al2011ha	al2011avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+10	Ibrahimovic	Ibrahimovic	PROPN	SP	_	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

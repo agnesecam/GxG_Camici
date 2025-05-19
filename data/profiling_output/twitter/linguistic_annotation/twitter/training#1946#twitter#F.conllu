@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaiTre #abilitatiTFA truffati e vessati dallo Stato #tfaèconcorso #tfainruolo
+1	@RaiTre	@RaiTre	ADV	B	_	4	advmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	abilitatiTFA	abilitatiTFA	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	truffati	truffato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	vessati	vessare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
+7-8	dallo	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Stato	stato	PROPN	SP	_	6	obl:agent	_	_
+10	#tfaèconcorso	#tfaèconcorso	ADP	E	_	11	case	_	_
+11	#tfainruolo	#tfainruolo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpacesAfter=\n
+

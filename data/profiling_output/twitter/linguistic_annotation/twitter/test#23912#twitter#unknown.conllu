@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima i Padovani.
+1	Prima	prima	ADV	B	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Padovani	Padovani	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = E dopo?
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	dopo	dopo	ADV	B	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Il mio commento di oggi su Corriere del Veneto Dedicato ai pensieri che avranno fatto... http:// fb.me/3GIpRoDe9
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	commento	commento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	oggi	oggi	ADV	B	_	3	advmod	_	_
+6	su	su	ADP	E	_	7	case	_	_
+7	Corriere	Corriere	PROPN	SP	_	3	nmod	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Veneto	Veneto	PROPN	SP	_	7	nmod	_	_
+11	Dedicato	dedicare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+12-13	ai	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	pensieri	pensiero	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	avranno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	17	acl:relcl	_	_
+17	fatto...	fatto...	NOUN	S	_	14	nmod	_	_
+18	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	fb.me/3GIpRoDe9	fb.me/3GIpRoDe9	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

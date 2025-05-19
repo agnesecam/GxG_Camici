@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Complimenti alle nostre bellezze locali!
+1	Complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2-3	alle	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	5	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	bellezze	bellezza	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+6	locali	locale	ADJ	A	Number=Plur	5	amod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = — Guardando Ciao Darwin
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Guardando	guardare	VERB	V	VerbForm=Ger	0	root	_	_
+3	Ciao	ciao	PROPN	SP	_	2	obj	_	_
+4	Darwin	Darwin	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dio non impone leggi o sacrifici, non limita la nostra libertà.
+1	Dio	Dio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	impone	imporre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	_
+6	sacrifici	sacrifico	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	limita	limitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	libertà	libertà	NOUN	S	Gender=Fem	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Egli ci invita ad #amare senza confini:
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	invita	invitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ad	a	ADP	E	_	5	mark	_	_
+5	#amare	#amare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	senza	senza	ADP	E	_	7	case	_	_
+7	confini	confine	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = questa è la felicità dell’uomo.
+1	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	felicità	felicità	NOUN	S	Gender=Fem	0	root	_	_
+5-6	dell’	_	_	_	_	_	_	_	SpaceAfter=No
+5	di	di	ADP	E	_	7	case	_	_
+6	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

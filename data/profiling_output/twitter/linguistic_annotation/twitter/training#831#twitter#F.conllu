@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GaiaGaudenzi @sandrinelli9 @diverfa1 @TwittGiorgio @Prof_SconvoltoSe avessimo fatto tesoro di esperienze passate,saremmo messi molto meglio
+1	@GaiaGaudenzi	@GaiaGaudenzi	ADV	B	_	12	advmod	_	_
+2	@sandrinelli9	@sandrinelli9	NUM	N	NumType=Card	4	nummod	_	_
+3	@diverfa1	@diverfa1	NUM	N	NumType=Card	4	nummod	_	_
+4	@TwittGiorgio	@TwittGiorgio	PROPN	SP	_	12	nsubj	_	_
+5	@Prof_SconvoltoSe	@prof_sconvoltose	PROPN	SP	_	4	flat:name	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+8	tesoro	tesoro	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	esperienze	esperienza	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+11	passate,saremmo	passate,saere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+13	molto	molto	ADV	B	_	14	advmod	_	_
+14	meglio	meglio	ADV	B	_	12	advmod	_	SpacesAfter=\n
+

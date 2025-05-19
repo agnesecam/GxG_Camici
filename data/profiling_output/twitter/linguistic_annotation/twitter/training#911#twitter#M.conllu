@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SkyTG24 trump assolutamente!
+1	@SkyTG24	@SkyTG24	NUM	N	NumType=Card	2	nummod	_	_
+2	trump	trump	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	assolutamente	assoluto	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = L' avessimo anche noi al posto del rincoglionito Renzi
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
+2	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	posto	posto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	rincoglionito	rincoglionito	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	Renzi	Renzi	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

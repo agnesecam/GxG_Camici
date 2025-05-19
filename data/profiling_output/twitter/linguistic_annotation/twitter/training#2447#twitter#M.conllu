@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Asia ( @sparkthinks ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Asia	Asia	PROPN	SP	_	1	flat:name	_	_
+3	(	(	PUNCT	FB	_	4	punct	_	_
+4	@sparkthinks	@sparkthinks	NOUN	S	_	1	nmod	_	_
+5	)	)	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = CHIUDETELA DENTRO LA SCATOLA LA MICHIELIN e poi buttate la chiave #LauraePaola
+1	CHIUDETELA	CHIUDETELA	ADP	E	_	2	case	_	_
+2	DENTRO	dentro	PROPN	SP	_	0	root	_	_
+3	LA	La	PROPN	SP	_	2	flat:name	_	_
+4	SCATOLA	scatola	PROPN	SP	_	2	flat:name	_	_
+5	LA	La	PROPN	SP	_	2	flat:name	_	_
+6	MICHIELIN	MICHIELIN	PROPN	SP	_	2	flat:name	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	poi	poi	ADV	B	_	9	advmod	_	_
+9	buttate	buttare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	LauraePaola	LauraePaola	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

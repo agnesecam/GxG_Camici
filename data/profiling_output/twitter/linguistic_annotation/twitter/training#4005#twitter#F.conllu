@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #IGT brava Chiara!
+1	#IGT	#igt	ADV	B	_	2	advmod	_	_
+2	brava	bravo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	Chiara	chiaro	PROPN	SP	_	2	nsubj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Speriamo che sia adesso, proprio adesso, l'intervista di #Vespa ; cosí chi avrá scelto Chiara non dovrà ascoltare altro!
+1	Speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	adesso	adesso	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	proprio	proprio	ADV	B	_	7	advmod	_	_
+7	adesso	adesso	ADV	B	_	1	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	intervista	intervista	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	#Vespa	#Vespa	PROPN	SP	_	10	nmod	_	_
+13	;	;	PUNCT	FC	_	15	punct	_	_
+14	cosí	cosí	PROPN	SP	_	15	nmod	_	_
+15	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	conj	_	_
+16	avrá	avrá	PROPN	SP	_	21	nsubj	_	_
+17	scelto	scelto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	_
+18	Chiara	Chiara	PROPN	SP	_	17	obj	_	_
+19	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+20	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	aux	_	_
+21	ascoltare	ascoltare	VERB	V	VerbForm=Inf	15	acl:relcl	_	_
+22	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	21	obj	_	SpaceAfter=No
+23	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

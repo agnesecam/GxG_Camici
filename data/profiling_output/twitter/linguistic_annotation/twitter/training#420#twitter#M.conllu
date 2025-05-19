@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Auteri:
+1	Auteri	Autero	ADV	B	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Se avessimo 5 punti di vantaggio sarebbe lo stesso" https:// shar.es/1Ykeof via @sharethis
+1	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	advcl	_	_
+4	5	5	NUM	N	NumType=Card	5	nummod	_	_
+5	punti	punto	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	vantaggio	vantaggio	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	16	punct	_	_
+12	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	_
+15	shar.es/1Ykeof	shar.es/1Ykeof	ADP	E	_	16	case	_	_
+16	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+17	@sharethis	@sharethis	ADJ	A	_	16	amod	_	SpacesAfter=\n
+

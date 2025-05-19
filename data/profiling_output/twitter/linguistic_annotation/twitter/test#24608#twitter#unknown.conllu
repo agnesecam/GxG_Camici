@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avendo dimenticato la canotta, non mi sembra il caso di andare in palestra
+1	Avendo	avere	AUX	VA	VerbForm=Ger	2	aux	_	_
+2	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	canotta	canotta	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	caso	caso	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	12	mark	_	_
+12	andare	andare	VERB	V	VerbForm=Inf	10	acl	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	palestra	palestra	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpacesAfter=\n
+

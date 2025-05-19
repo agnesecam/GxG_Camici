@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scusa @AndreaLaudadio ma come è possibile che @matteorenzi twitti alle 10:43 e te "lecchi" alle 10:44?
+1	Scusa	scusa	PROPN	SP	_	0	root	_	_
+2	@AndreaLaudadio	@AndreaLaudadio	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	6	cc	_	_
+4	come	come	ADV	B	_	6	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	possibile	possibile	ADJ	A	Number=Sing	1	amod	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	@matteorenzi	@matteorenzi	ADV	B	_	9	advmod	_	_
+9	twitti	twivere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	csubj	_	_
+10-11	alle	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	16	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+12	10:43	10:43	NUM	N	NumType=Card	16	nummod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	conj	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	lecchi	lecchio	ADJ	A	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	16	punct	_	_
+18-19	alle	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	10:44	10:44	NUM	N	NumType=Card	9	obl	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Glielo gestisci te l'account?
+1-2	Glielo	_	_	_	_	_	_	_	_
+1	Glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gestisci	gestire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	xcomp	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	account	account	NOUN	S	_	3	nsubj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

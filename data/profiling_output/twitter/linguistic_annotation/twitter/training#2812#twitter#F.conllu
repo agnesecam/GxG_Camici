@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Motoc Mihai Doru Angela Ferro Questa è una delle mie favole.
+1	Motoc	Motoc	PROPN	SP	_	8	nsubj	_	_
+2	Mihai	Mihaio	PROPN	SP	_	1	flat:name	_	_
+3	Doru	Doru	PROPN	SP	_	1	flat:name	_	_
+4	Angela	Angela	PROPN	SP	_	1	nmod	_	_
+5	Ferro	ferro	PROPN	SP	_	4	flat:name	_	_
+6	Questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	8	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	mie	mia	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	favole	favole	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Può sembrare dura ma come direbbe Siddartha la via... http:// fb.me/7R51lL8uK
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	dura	duro	ADJ	A	Gender=Fem|Number=Sing	2	xcomp	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	come	come	ADV	B	_	6	advmod	_	_
+6	direbbe	dire	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+7	Siddartha	Siddartha	PROPN	SP	_	9	obj	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	via...	via...	NOUN	S	_	2	conj	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	fb.me/7R51lL8uK	fb.me/7r51ll8uk	PROPN	SP	_	2	conj	_	SpacesAfter=\n
+

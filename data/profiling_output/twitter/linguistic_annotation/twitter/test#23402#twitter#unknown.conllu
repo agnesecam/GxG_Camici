@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salve, quiOroitaly, buon mercoledì a tutti.
+1	Salve	salvo	ADJ	A	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	quiOroitaly	quiOroitaly	PROPN	SP	_	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	buon	buono	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	mercoledì	mercoledì	NOUN	S	Gender=Masc	3	nmod	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Aforisma:"L'uomo è ciò che egli fa per essere".
+1	Aforisma	Aforisma	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+4	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+8	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+9	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	per	per	ADP	E	_	13	mark	_	_
+12	essere	essere	AUX	V	VerbForm=Inf	13	cop	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	10	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/RcUPm4RTuN
+1	pic.twitter.com/RcUPm4RTuN	pic.twitter.com/RcUPm4RTuN	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Rinaldi_euro @meb ... dovrà forse chiedere il permesso a qualcuno.
+1	@Rinaldi_euro	@Rinaldi_euro	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	@meb	@mebbraio	ADJ	A	_	1	amod	_	_
+3	...	...	PUNCT	FF	_	1	punct	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+5	forse	forse	ADV	B	_	6	advmod	_	_
+6	chiedere	chiedere	VERB	V	VerbForm=Inf	0	root	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	permesso	permesso	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

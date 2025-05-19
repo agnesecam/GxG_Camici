@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Islam: nelle moschee del Veneto si dovrà parlare italiano
+1	Islam	Islam	PROPN	SP	_	11	obl	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3-4	nelle	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	moschee	moschea	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Veneto	Veneto	PROPN	SP	_	5	nmod	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:impers	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+12	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	11	xcomp	_	SpacesAfter=\n
+

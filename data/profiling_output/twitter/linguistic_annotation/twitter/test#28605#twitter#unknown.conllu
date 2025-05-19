@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tlc, voci di fusione Orange-Telecom.
+1	Tlc	Tlc	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	voci	voce	NOUN	S	Gender=Fem|Number=Plur	1	appos	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	fusione	fusione	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	Orange-Telecom	Orange-Telecom	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Renzi: " Saremmo felici, ma decide il mercato":
+1	Renzi	renzi	ADV	B	_	4	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	_
+4	Saremmo	essere	PROPN	SP	_	0	root	_	_
+5	felici	felice	ADJ	A	Number=Plur	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	decide	decidere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 3
+# text = Il premier apre le porte a... http:// bit.ly/1TIYBvM
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	premier	premier	NOUN	S	_	3	nsubj	_	_
+3	apre	aprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	porte	porta	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	a...	a.	NOUN	S	_	5	compound	_	_
+7	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	bit.ly/1TIYBvM	bit.ly/1TIYBvM	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

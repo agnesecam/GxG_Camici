@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Riesce a sembrare un cane di quelli seri e normali certe volte.
+1	Riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cane	cane	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	nmod	_	_
+8	seri	sero	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	normali	normale	ADJ	A	Number=Plur	8	conj	_	_
+11	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	volte.	volte.	NOUN	S	_	1	nsubj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..certe volte e per pochissimi… https://www.
+1	..certe	..certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	volte	volta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	pochissimi…	pochissimi…	PUNCT	FF	_	6	punct	_	_
+6	https://www	https://www	NOUN	S	_	2	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDagj0ft5Fv/
+1	instagram.com/p/BDagj0ft5Fv/	instagram.com/p/BDagj0ft5Fv/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

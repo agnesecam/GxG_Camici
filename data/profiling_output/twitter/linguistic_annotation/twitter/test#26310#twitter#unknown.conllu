@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @tvdellosport @Jadegiacalone @GabrieleSchiavi se non aveste anticipato l'affascinante argomento mi sarei sintonizzato.
+1	@tvdellosport	@tvdellosport	NOUN	S	Gender=Masc	0	root	_	_
+2	@Jadegiacalone	@Jadegiacalone	PROPN	SP	_	1	nmod	_	_
+3	@GabrieleSchiavi	@GabrieleSchiavo	PROPN	SP	_	2	flat:name	_	_
+4	se	se	SCONJ	CS	_	13	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	aveste	avedere	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	13	nsubj	_	_
+7	anticipato	anticipare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+9	affascinante	affascinante	ADJ	A	Number=Sing	10	amod	_	_
+10	argomento	argomento	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+12	sarei	essere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	sintonizzato	sintonizzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Grazie.
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

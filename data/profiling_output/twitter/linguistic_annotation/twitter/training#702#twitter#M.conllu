@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iLRossoner0 se avessimo vinto tutte queste partite avremmo 15 pt. in più.
+1	@iLRossoner0	@iLRossoner0	NUM	N	NumType=Card	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	partite	partita	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9	15	15	NUM	N	NumType=Card	10	nummod	_	_
+10	pt.	pt.	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	più	più	ADV	B	_	8	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ecco perché la rosa è inadeguata.
+1	Ecco	ecco	ADV	B	_	6	advmod	_	_
+2	perché	perché	SCONJ	CS	_	6	mark	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	rosa	rosa	NOUN	S	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	inadeguata	inadeguare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = :)
+1	:	:	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

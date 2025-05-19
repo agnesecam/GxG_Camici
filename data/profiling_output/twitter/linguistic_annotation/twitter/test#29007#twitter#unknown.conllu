@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = come se io avessi anche solo toccato il letto stanotte che ridere
+1	come	come	ADV	B	_	7	mark	_	_
+2	se	se	SCONJ	CS	_	1	fixed	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+4	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	solo	solo	ADV	B	_	7	advmod	_	_
+7	toccato	toccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	letto	letto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+10	stanotte	stanotto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	che	che	SCONJ	CS	_	12	mark	_	_
+12	ridere	ridere	VERB	V	VerbForm=Inf	10	ccomp	_	SpacesAfter=\n
+

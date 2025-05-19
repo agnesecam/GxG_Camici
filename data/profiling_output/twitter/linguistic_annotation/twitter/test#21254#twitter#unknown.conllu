@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jpolemica gliela hanno servito su un piatto d'argento eh
+1	@jpolemica	@jpolemico	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+2-3	gliela	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	servito	servire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	piatto	piatto	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	d'	di	ADP	E	_	10	case	_	SpaceAfter=No
+10	argento	argento	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+11	eh	eh	ADJ	A	_	8	amod	_	SpacesAfter=\n
+

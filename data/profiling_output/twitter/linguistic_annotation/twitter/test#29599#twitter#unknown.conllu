@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #isola #Mercedes ragazza carina normale e x niente volgare perciò basta paragoni e riferimenti cn la mamma basta!!!!!
+1	#isola	#isola	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	#Mercedes	#Mercedes	PROPN	SP	_	1	nmod	_	_
+3	ragazza	ragazzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	carina	carina	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	normale	normale	ADJ	A	Number=Sing	4	amod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	x	x	SYM	SYM	_	8	nmod	_	_
+8	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	_
+9	volgare	volgare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	perciò	perciò	SCONJ	CS	_	11	mark	_	_
+11	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+12	paragoni	paragone	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	riferimenti	riferimento	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	_
+15	cn	cno	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	basta	basto	ADJ	A	Number=Sing	17	amod	_	SpaceAfter=No
+19	!!!	!!!	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	!!	!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

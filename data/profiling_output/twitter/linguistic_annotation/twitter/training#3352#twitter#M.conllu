@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @P_Rocchetti87 "vedrete, ci farà pentire"
+1	@P_Rocchetti87	@P_Rocchetti87	PROPN	SP	_	6	nsubj	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	vedrete	vedere	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	pentire	pentire	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

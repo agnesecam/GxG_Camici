@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tifosi anti-Juve tra 3, 2, 1..Sappiate che senza la Juve probabilmente saremmo dietro pure al Belgio nel ranking uefa #onoreavoi #BayernJuve
+1	Tifosi	tifoso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	anti-Juve	anti-Juve	PROPN	SP	_	0	root	_	_
+3	tra	tra	ADP	E	_	4	case	_	_
+4	3	3	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	2	2	NUM	N	NumType=Card	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	1..Sappiate	1..Sappiare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+9	che	che	SCONJ	CS	_	23	mark	_	_
+10	senza	senza	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Juve	Juve	PROPN	SP	_	23	obl	_	_
+13	probabilmente	probabilmente	ADV	B	_	19	advmod	_	_
+14	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	cop	_	_
+15	dietro	dietro	ADV	B	_	16	advmod	_	_
+16	pure	pure	ADV	B	_	19	advmod	_	_
+17-18	al	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Belgio	Belgio	PROPN	SP	_	23	obl	_	_
+20-21	nel	_	_	_	_	_	_	_	_
+20	in	in	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	ranking	ranking	NOUN	S	Gender=Masc	23	obl	_	_
+23	uefa	uefare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+24	#onoreavoi	#onoreavoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	23	xcomp	_	_
+25	#	#	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	BayernJuve	BayernJuve	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = deliquo.
+1	deliquo.	deliquo.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..."in qualche caso perdita di feci e urine per rilassamento degli sfinteri" https:// twitter.com/vedocose/statu s/707219951531245569 …
+1	..	..	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+2	."	."	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	in	in	ADP	E	_	5	case	_	_
+4	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	caso	caso	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+6	perdita	perdita	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	feci	fece	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	urine	urina	NOUN	S	Gender=Fem|Number=Plur	8	conj	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	rilassamento	rilassamento	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+13-14	degli	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	sfinteri	sfintero	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	17	punct	_	_
+17	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	6	punct	_	_
+20	twitter.com/vedocose/statu	twitter.com/vedocose/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	s/707219951531245569	s/707219951531245569	NUM	N	NumType=Card	6	nummod	_	_
+22	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

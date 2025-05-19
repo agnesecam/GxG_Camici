@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lobby, petrolio e le Nostre signore degli emendamenti - Letto su @fattoquotidiano http:// app.ilfattoquotidiano.it/ed-art6677899- 20160409/ …
+1	Lobby	lobby	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	Nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	signore	signore	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	_
+8-9	degli	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	emendamenti	emendamento	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	Letto	letto	PROPN	SP	_	10	nmod	_	_
+13	su	su	ADP	E	_	14	case	_	_
+14	@fattoquotidiano	@fattoquotidiano	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+15	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	app.ilfattoquotidiano.it/ed-art6677899-	_	PUNCT	FB	_	19	punct	_	_
+19	20160409	20160409	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	_
+21	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

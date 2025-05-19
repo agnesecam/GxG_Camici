@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LeojesusNc70 e io ho molta voglia di giocarlo!
+1	@LeojesusNc70	@LeojesusNc70	PROPN	SP	_	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	molta	molto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	giocarlo	giocarlo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = So che può non sembrare , ma la mia classe preferita è il paladino, sempre @FumbleGDR
+1	So	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+6	,	,	PUNCT	FF	_	14	punct	_	_
+7	ma	ma	CCONJ	CC	_	14	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	classe	classe	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+11	preferita	preferito	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	paladino	paladino	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	1	punct	_	_
+16	sempre	sempre	ADV	B	_	1	advmod	_	_
+17	@FumbleGDR	@FumbleGDR	PROPN	SP	_	1	xcomp	_	SpacesAfter=\n
+

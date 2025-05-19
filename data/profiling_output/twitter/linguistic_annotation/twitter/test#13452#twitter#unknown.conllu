@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prepara parecchi flaconi di sali e zuccheri xche' se vado avanti così non reggo @famedalupi @simonafranchi89 https:// twitter.com/famedalupi/sta tus/707611782752428032 …
+1	Prepara	preparare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	flaconi	flacone	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	sali	sale	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	zuccheri	zucchero	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	_
+8	xche	xco	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	1	punct	_	_
+10	se	se	SCONJ	CS	_	11	mark	_	_
+11	vado	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+12	avanti	avanti	ADV	B	_	11	advmod	_	_
+13	così	così	ADV	B	_	15	advmod	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	reggo	reggere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+16	@famedalupi	@famedalupo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	21	det	_	_
+17	@simonafranchi89	@simonafranchi89	NUM	N	NumType=Card	21	nummod	_	_
+18	https:	https:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	twitter.com/famedalupi/sta	twitter.com/famedalupi/stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	obj	_	_
+22	tus/707611782752428032	tus/707611782752428032	NUM	N	NumType=Card	21	nummod	_	_
+23	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

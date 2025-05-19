@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FedeAngeli non ti curar degli insulti dei grillini e vai avanti.
+1	@FedeAngeli	@FedeAngeli	PROPN	SP	_	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+4	curar	curare	VERB	V	VerbForm=Inf	0	root	_	_
+5-6	degli	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	insulti	insulto	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	grillini	grillino	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	avanti	avanti	ADV	B	_	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Pensa poverini che saranno i nuovi delusi dalla politica
+1	Pensa	pensare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	poverini	poverino	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	saranno	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	nuovi	nuovo	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+7	delusi	deluso	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	politica	politica	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpacesAfter=\n
+

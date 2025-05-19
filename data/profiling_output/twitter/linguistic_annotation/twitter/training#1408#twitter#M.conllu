@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fabogua @Sciakkispirr quanto tempo perdiamo per far funzionare chi ci ruba sulle nostre teste
+1	@fabogua	@faboguire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+2	@Sciakkispirr	@Sciakkispirr	PROPN	SP	_	1	nsubj	_	_
+3	quanto	quanto	ADP	E	_	4	case	_	_
+4	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	perdiamo	perdere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	far	fare	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	funzionare	funzionare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	obj	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	obj	_	_
+11	ruba	rubare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12-13	sulle	_	_	_	_	_	_	_	_
+12	su	su	ADP	E	_	15	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	teste	testa	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	SpacesAfter=\n
+

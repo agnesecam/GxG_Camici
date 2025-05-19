@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutto ciò mi è venuto in mente perché anche per il Muller mix non ricordo mai se non mi piaccia il Bora Bora o il Marrakech
+1	Tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	venuto	venire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	mente	mente	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+8	perché	perché	SCONJ	CS	_	15	mark	_	_
+9	anche	anche	ADV	B	_	12	advmod	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Muller	Muller	PROPN	SP	_	15	obl	_	_
+13	mix	mix	ADP	E	_	15	mark	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+16	mai	mai	ADV	B	_	15	advmod	_	_
+17	se	se	SCONJ	CS	_	20	mark	_	_
+18	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+19	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	iobj	_	_
+20	piaccia	piacciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	Bora	Bora	PROPN	SP	_	20	obj	_	_
+23	Bora	Bora	PROPN	SP	_	22	flat:name	_	_
+24	o	o	CCONJ	CC	_	26	cc	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	Marrakech	Marrakech	PROPN	SP	_	22	conj	_	SpacesAfter=\n
+

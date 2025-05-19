@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Con Nando Colelli,vedremo l'ignoranza che toccherà livelli così bassi da far sembrare Brunetta un gigante.
+1	Con	con	ADP	E	_	2	case	_	_
+2	Nando	Nando	PROPN	SP	_	4	obl	_	_
+3	Colelli	Colelli	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,vedremo	,vedre	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	ignoranza	ignoranza	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	toccherà	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_
+9	livelli	livello	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	così	così	ADV	B	_	11	advmod	_	_
+11	bassi	basso	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+12	da	da	ADP	E	_	13	mark	_	_
+13	far	fare	VERB	V	VerbForm=Inf	11	advcl	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	13	ccomp	_	_
+15	Brunetta	Brunetta	PROPN	SP	_	14	xcomp	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	gigante	gigante	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #ciaodarwin
+1	#ciaodarwin	#ciaodarwino	ADV	B	_	0	root	_	SpacesAfter=\n
+

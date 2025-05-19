@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi non sapevo proprio di che colore colorare le mie labbra...
+1	Oggi	oggi	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	proprio	proprio	ADV	B	_	3	advmod	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	che	che	DET	DQ	PronType=Int	7	det	_	_
+7	colore	colore	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+8	colorare	colorare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	labbra...	labbra...	NOUN	S	_	8	obj	_	_
+
+# sent_id = 2
+# text = fortuna che su IG qualcuna è venuta in mio... http:// fb.me/8ylHcRXes
+1	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+3	su	su	ADP	E	_	4	case	_	_
+4	IG	Ig	PROPN	SP	_	7	obl	_	_
+5	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	7	nsubj	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	venuta	venire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	mio...	mio...	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	fb.me/8ylHcRXes	fb.me/8ylHcRXes	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

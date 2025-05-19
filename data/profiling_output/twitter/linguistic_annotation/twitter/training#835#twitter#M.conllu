@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo fatto il nostro dovere con quella banda di musica dei rossoneri ..
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	banda	banda	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	musica	musica	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	rossoneri	rossonero	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ad oggi probabilmente non staremmo...
+1	Ad	a	ADP	E	_	2	case	_	_
+2	oggi	oggi	ADV	B	_	0	root	_	_
+3	probabilmente	probabilmente	ADV	B	_	2	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	staremmo...	staremmo.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/QkQxKWb5
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/QkQxKWb5	fb.me/QkQxKWb5	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

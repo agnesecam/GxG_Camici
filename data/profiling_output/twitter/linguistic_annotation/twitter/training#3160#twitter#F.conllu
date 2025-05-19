@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma cosa vi frega del giudizio della gente.
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	giudizio	giudizio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	gente	gente	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = non serve sembrare uno stuzzicadenti per essere belle.
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	stuzzicadenti	stuzzicadento	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	per	per	ADP	E	_	8	mark	_	_
+7	essere	essere	AUX	V	VerbForm=Inf	8	cop	_	_
+8	belle	bello	ADJ	A	Gender=Fem|Number=Plur	3	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = VIVA
+1	VIVA	viva	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+
+# sent_id = 4
+# text = LE ZEPPOLE E I PANZAROTTI.
+1	LE	il	PROPN	SP	_	0	root	_	_
+2	ZEPPOLE	ZEPPOLE	PROPN	SP	_	1	flat:name	_	_
+3	E	e	CCONJ	CC	_	5	cc	_	_
+4	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	PANZAROTTI	PANZAROTTI	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

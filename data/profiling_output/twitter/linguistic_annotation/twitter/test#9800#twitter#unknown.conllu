@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Markets Ftse mib -0,66% quarto ribasso consecutivo (18.608) BTP/Bund 102,97 Euro 1,133
+1	#Markets	#Markets	PROPN	SP	_	0	root	_	_
+2	Ftse	Ftse	PROPN	SP	_	1	flat:name	_	_
+3	mib	mib	ADJ	A	_	1	amod	_	_
+4	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	0,66	0,66	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+6	%	%	SYM	SYM	_	1	nmod	_	_
+7	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	ribasso	ribasso	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+9	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	18.608	18.608	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	11	punct	_	_
+13	BTP	BTP	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+14	/Bund	/Bund	PROPN	SP	_	13	flat:name	_	_
+15	102,97	102,97	NUM	N	NumType=Card	13	flat:name	_	_
+16	Euro	euro	PROPN	SP	_	13	flat:name	_	_
+17	1,133	1,133	NUM	N	NumType=Card	13	nummod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = essì , io lo lasciavo là, che era in stato di grazia...
+1	essì	essì	ADV	B	_	5	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	lasciavo	lasciare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	parataxis	_	_
+6	là	là	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	stato	stato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	grazia...	grazia...	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+
+# sent_id = 2
+# text = #Morata #BayernJuve #UCL https:// twitter.com/As_TomasRoncer o/status/710214413773447168 …
+1	#Morata	#Morare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	#BayernJuve	#BayernJuve	PROPN	SP	_	1	nsubj:pass	_	_
+3	#UCL	#UCL	PROPN	SP	_	2	flat:name	_	_
+4	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	_
+7	twitter.com/As_TomasRoncer	twitter.com/As_TomasRoncer	PROPN	SP	_	2	nmod	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	SpaceAfter=No
+9	/status/710214413773447168	/status/710214413773447168	NUM	N	NumType=Card	7	conj	_	_
+10	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @guerz86 secondo me il tt è stato causato da quel programma di messa che avevi installato.
+1	@guerz86	@guerz86	SYM	X	_	8	nsubj:pass	_	_
+2	secondo	secondo	ADP	E	_	3	case	_	_
+3	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tt	tt	NOUN	S	Gender=Masc	8	nsubj:pass	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
+7	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	aux:pass	_	_
+8	causato	causare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	programma	programma	NOUN	S	Gender=Masc|Number=Sing	8	obl:agent	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	messa	messa	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	avevi	avere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	installato	installare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = God lock..o come cavolo si chiama
+1	God	God	CCONJ	CC	_	6	cc	_	_
+2	lock..o	lock..o	ADV	B	_	4	advmod	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	cavolo	cavolo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

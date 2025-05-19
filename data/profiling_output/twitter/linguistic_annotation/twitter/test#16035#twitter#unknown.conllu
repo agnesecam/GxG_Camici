@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A Satriano RisultatoImportante su campo difficile per chiunque .Nulla èdovuto e scontato.Ottimo.Calma,luciditàeforzafinoallafine.AVANTIVULTUR
+1	A	a	ADP	E	_	2	case	_	_
+2	Satriano	Satriano	PROPN	SP	_	0	root	_	_
+3	RisultatoImportante	RisultatoImportante	PROPN	SP	_	2	flat:name	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	campo	campo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	difficile	difficile	ADJ	A	Number=Sing	5	amod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	6	obl	_	_
+9	.Nulla	.Nulla	PROPN	SP	_	13	conj	_	_
+10	èdovuto	èdovuto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	scontato.Ottimo.Calma	scontato.Ottimo.Calmo	ADJ	A	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+13	,lucidità	,lucidità	NOUN	S	Gender=Fem	8	nmod	_	SpaceAfter=No
+14	eforzafinoallafine.AVANTIVULTUR	eforzafinoallafine.AVANTIVULTUR	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

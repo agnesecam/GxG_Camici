@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @roccor28 @monicabarra29 passano troppo tempo a rubare e a pensare come farlo meglio..se si facesse un po' di più all'amore!!!
+1	@roccor28	@roccor28	NUM	N	NumType=Card	3	nummod	_	_
+2	@monicabarra29	@monicabarra29	NUM	N	NumType=Card	1	flat	_	_
+3	passano	passare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	troppo	troppo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	rubare	rubare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	pensare	pensare	VERB	V	VerbForm=Inf	7	conj	_	_
+11	come	come	SCONJ	CS	_	12	mark	_	_
+12-13	farlo	_	_	_	_	_	_	_	_
+12	far	fare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+13	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	meglio..se	meglio..so	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	po'	poco	ADV	B	_	16	advmod	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	più	più	ADV	B	_	18	advmod	_	_
+21-22	all'	_	_	_	_	_	_	_	SpaceAfter=No
+21	a	a	ADP	E	_	23	case	_	_
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	_
+23	amore	amore	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+25	!!	!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

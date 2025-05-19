@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sotto con la potatura delle nostre splendide piante.
+1	Sotto	sotto	ADV	B	_	4	advmod	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	potatura	potatura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	9	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+8	splendide	splendido	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+9	piante.	piante.	NOUN	S	_	4	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..in preparazione per la prossima annata󾌰󾌰..
+1	..in	..ino	ADP	E	_	2	case	_	_
+2	preparazione	preparazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	prossima	proo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	annata󾌰󾌰..	annata󾌰󾌰..	NOUN	S	_	2	nmod	_	_
+
+# sent_id = 3
+# text = http:// fb.me/4xkwL4TAU
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4xkwL4TAU	fb.me/4xkwL4TAU	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ricpuglisi non c'è nessuna "correzione al ribasso", solo preso atto che SE avessimo lavorato uguale il pil sarebbe stato minore.
+1	@ricpuglisi	@ricpuglisi	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	nessuna	nessuna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	correzione	correzione	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ribasso	ribasso	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13	solo	solo	ADV	B	_	14	advmod	_	_
+14	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+15	atto	atto	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+16	che	che	SCONJ	CS	_	25	mark	_	_
+17	SE	se	PROPN	SP	_	25	nsubj	_	_
+18	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	19	aux	_	_
+19	lavorato	lavorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	advcl	_	_
+20	uguale	uguale	ADJ	A	Number=Sing	22	amod	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	pil	pil	NOUN	S	Gender=Masc	19	nsubj	_	_
+23	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+24	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	cop	_	_
+25	minore	minore	ADJ	A	Degree=Cmp|Number=Sing	15	advcl	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

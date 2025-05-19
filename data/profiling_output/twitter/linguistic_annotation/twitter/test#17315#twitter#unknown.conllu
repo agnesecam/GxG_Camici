@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonioCorsa E chi lo sa... Mandzukic ha creato una palla gol per Lichtsteiner e ne ha avuta una lui.
+1	@AntonioCorsa	@AntonioCorrere	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	E	e	PROPN	SP	_	0	root	_	_
+3	chi	chi	PRON	PR	PronType=Rel	2	flat:name	_	_
+4	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sa...	sa.	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	Mandzukic	Mandzukic	PROPN	SP	_	5	nmod	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	creato	creare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	palla	pallo	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	gol	goal	NOUN	S	Gender=Masc	10	compound	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	Lichtsteiner	Lichtsteiner	PROPN	SP	_	10	nmod	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	17	iobj	_	_
+16	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Male non è andato.
+1	Male	male	ADJ	A	Number=Sing	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

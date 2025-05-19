@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E quello che è peggio, è che pensavi che non ce ne fossimo accorti @doraebasta
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	peggio	peggio	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	che	che	SCONJ	CS	_	9	mark	_	_
+9	pensavi	pensave	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+10	che	che	SCONJ	CS	_	15	mark	_	_
+11	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+12	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	15	expl	_	_
+13	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+14	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	accorti	accortare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	ccomp	_	_
+16	@doraebasta	@doraebasto	ADJ	A	Number=Sing	15	xcomp	_	SpacesAfter=\n
+

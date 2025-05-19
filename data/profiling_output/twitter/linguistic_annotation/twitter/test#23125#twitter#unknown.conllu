@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vabbè sono le 5:52 e vi devo dire ciao, non avrò internet per tre giorni
+1	Vabbè	vabbè	INTJ	I	_	0	root	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	5:52	5:52	NUM	N	NumType=Card	8	nsubj	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	8	iobj	_	_
+7	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	dire	dire	VERB	V	VerbForm=Inf	1	conj	_	_
+9	ciao	ciao	INTJ	I	_	12	discourse	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	avrò	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
+13	internet	internet	NOUN	S	_	12	obj	_	_
+14	per	per	ADP	E	_	16	case	_	_
+15	tre	tre	NUM	N	NumType=Card	16	nummod	_	_
+16	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	SpacesAfter=\n
+

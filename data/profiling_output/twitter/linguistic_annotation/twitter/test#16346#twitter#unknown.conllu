@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ditemi che non ve n eravate accorti....!!
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ditemi	ditema	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	ve	vere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	n	n	NOUN	S	_	5	obj	_	_
+7	eravate	eravato	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	accorti....!	accorti....!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E' quello il Famoso " tempo" con il quale ogni giorno la gente onesta ne fa un uso...
+1	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Famoso	famoso	PROPN	SP	_	2	nsubj	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	quale	quale	PRON	PR	Number=Sing|PronType=Rel	17	obl	_	_
+11	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	12	det	_	_
+12	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	gente	gente	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+15	onesta	onesto	ADJ	A	Number=Sing	14	amod	_	_
+16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	17	iobj	_	_
+17	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	uso...	uso...	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpacesAfter=\n
+

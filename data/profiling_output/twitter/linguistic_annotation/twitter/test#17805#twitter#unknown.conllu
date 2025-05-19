@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Iotti Mattei Merlin Anselmi Rodano e tante altre.Grazie alle donne che ci fecero diventare cittadine #10marzo1946 pic.twitter.com/CBejTkHoGa
+1	Iotti	Iotti	PROPN	SP	_	0	root	_	_
+2	Mattei	Mattei	PROPN	SP	_	1	flat:name	_	_
+3	Merlin	Merlin	PROPN	SP	_	1	flat:name	_	_
+4	Anselmi	Anselmi	PROPN	SP	_	1	nmod	_	_
+5	Rodano	Rodano	PROPN	SP	_	4	flat:name	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	altre.Grazie	altre.Grazie	NOUN	S	_	1	conj	_	_
+9-10	alle	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	donne	donna	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	iobj	_	_
+14	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
+15	diventare	diventare	VERB	V	VerbForm=Inf	14	ccomp	_	_
+16	cittadine	cittadina	NOUN	S	Gender=Fem	15	xcomp	_	_
+17	#10marzo1946	#10marzo1946	NUM	N	NumType=Card	15	nummod	_	_
+18	pic.twitter.com/CBejTkHoGa	pic.twitter.com/CBejTkHoGa	PROPN	SP	_	15	xcomp	_	SpacesAfter=\n
+

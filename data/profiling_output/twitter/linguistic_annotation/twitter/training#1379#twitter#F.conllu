@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = per la libertà delle nostre idee e dei nostri valori, non esiste un prezzo, bisogna correre e poi volare https:// twitter.com/Fabience988/st atus/718871108896825344 …
+1	per	per	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	libertà	libertà	NOUN	S	Gender=Fem	15	obl	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	idee	idea	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+8	e	e	CCONJ	CC	_	12	cc	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	valori	valore	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	prezzo	prezzo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
+20	correre	correre	VERB	V	VerbForm=Inf	19	ccomp	_	_
+21	e	e	CCONJ	CC	_	23	cc	_	_
+22	poi	poi	ADV	B	_	23	advmod	_	_
+23	volare	volare	VERB	V	VerbForm=Inf	15	conj	_	_
+24	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	15	punct	_	_
+27	twitter.com/Fabience988/st	twitter.com/Fabience988/st	PROPN	SP	_	15	nsubj	_	_
+28	atus/718871108896825344	atus/718871108896825344	NUM	N	NumType=Card	27	nummod	_	_
+29	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

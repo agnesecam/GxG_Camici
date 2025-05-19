@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ilcontedracula #vampires che ci fa il #vampiro alle nostre spalle?
+1	#ilcontedracula	#ilcontedraculare	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
+2	#vampires	#vampire	NOUN	S	Number=Plur	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	iobj	_	_
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#vampiro	#vampiro	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8-9	alle	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	spalle	spalla	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ahahah #paura #sangue http:// fb.me/2NoqYgbsc
+1	Ahahah	Ahahah	INTJ	I	_	2	discourse	_	_
+2	#paura	#pauro	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	#sangue	#sangue	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	http:	http:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	fb.me/2NoqYgbsc	fb.me/2NoqYgbsc	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

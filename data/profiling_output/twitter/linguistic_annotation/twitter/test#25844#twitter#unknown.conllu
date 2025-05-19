@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Twitter mi ha mandato una mail per ringraziarmi:"Non avremmo potuto farcela senza di te!" Eppure rimango umile.
+1	#Twitter	#Twitter	ADP	E	_	4	mark	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	mandato	mandare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mail	mail	NOUN	S	_	4	nsubj	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	ringraziarmi	arma|ringraziarme	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+9	:"	:"	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+10	Non	Non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	cop	_	_
+13	farcela	farcelare	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+14	senza	senza	ADP	E	_	16	case	_	_
+15	di	di	ADP	E	_	14	fixed	_	_
+16	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obl	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	13	punct	_	_
+19	Eppure	eppure	CCONJ	CC	_	20	cc	_	_
+20	rimango	rimanere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	_
+21	umile	umile	ADJ	A	Number=Sing	20	xcomp	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = #Twitter10Years #twitter10
+1	#Twitter10Years	#Twitter10Years	PROPN	SP	_	0	root	_	_
+2	#twitter10	#twitter10	NUM	N	NumType=Card	1	nummod	_	SpacesAfter=\n
+

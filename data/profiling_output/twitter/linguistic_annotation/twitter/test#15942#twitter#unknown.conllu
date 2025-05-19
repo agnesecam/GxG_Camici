@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #soapoperafiscale #panamapapers chiediamo dati a chiunque ma si congela la taskforce sull'evasione internazionale http://www.
+1	#soapoperafiscale	#soapoperafiscale	SCONJ	CS	_	3	mark	_	_
+2	#panamapapers	#panamapaper	PROPN	SW	Foreign=Yes	3	nsubj	_	_
+3	chiediamo	chiedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dati	dato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	xcomp	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	4	obl	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:pass	_	_
+9	congela	congelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	taskforce	taskforcia	NOUN	S	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+12-13	sull'	_	_	_	_	_	_	_	SpaceAfter=No
+12	su	su	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	evasione	evasione	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15	internazionale	internazionale	ADJ	A	Number=Sing	14	amod	_	_
+16	http://www	http://www	NOUN	S	_	14	compound	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = italiaoggi.it/giornali/detta glio_giornali.asp?id=2073924&codiciTestate=1&sez=giornali&testo=ucifi&titolo=Task%20force%20internazionale%20messa%20in%20soffitta …
+1	italiaoggi.it/giornali/detta	italiaoggi.it/giornali/detto	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+2	glio_giornali.asp?	glio_giornali.asp?	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	id=2073924&codiciTestate=1&sez=giornali&testo=ucifi&titolo=Task%20force	id=2073924&codiciTestate=1&sez=giornali&testo=ucifi&titolo=Task%20force	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	%20internazionale	%20internazionale	ADJ	A	Number=Sing	3	amod	_	SpaceAfter=No
+5	%20messa%20in	%20messa%20ino	ADP	E	_	6	case	_	SpaceAfter=No
+6	%20soffitta	%20soffitto	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

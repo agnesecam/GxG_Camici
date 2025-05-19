@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AleRivaPalacio @marinel18181293 @SimpleMariaTv l'amore di Ale per suo hijo e per Maria è tan grande che dovrà finire come vogliamo JUNTOS
+1	@AleRivaPalacio	@AleRivaPalacio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@marinel18181293	@marinel18181293	NUM	N	NumType=Card	3	nummod	_	_
+3	@SimpleMariaTv	@SimpleMariaTv	PROPN	SP	_	1	nmod	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	amore	amore	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Ale	Ale	PROPN	SP	_	5	nmod	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	hijo	hijo	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+11	e	e	CCONJ	CC	_	15	cc	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	Maria	Maria	PROPN	SP	_	15	obl	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	tan	tan	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+16	grande	grande	ADJ	A	Number=Sing	15	amod	_	_
+17	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+18	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	aux	_	_
+19	finire	finire	VERB	V	VerbForm=Inf	15	acl:relcl	_	_
+20	come	come	SCONJ	CS	_	22	mark	_	_
+21	vogliamo	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	cop	_	_
+22	JUNTOS	JUNTOS	PROPN	SP	_	19	ccomp	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fallo di Downs su @AmeDV8 , 3/3 dalla lunetta per il 72-65 per la Grissin Bon #teamreggio
+1	Fallo	fallo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	Downs	Downs	PROPN	SP	_	1	nmod	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	@AmeDV8	@AmeDV8	PROPN	SP	_	1	nmod	_	_
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	3/3	3/3	NUM	N	NumType=Range	10	case	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	7	fixed	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	lunetta	lunetta	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	72	72	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	65	65	NUM	N	NumType=Card	13	compound	_	_
+16	per	per	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	Grissin	Grissin	PROPN	SP	_	10	nmod	_	_
+19	Bon	Bon	PROPN	SP	_	18	flat:name	_	_
+20	#teamreggio	#teamreggio	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	SpacesAfter=\n
+

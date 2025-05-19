@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @defilippi_m @MarroneEmma @elisatoffoli Tina è una grande sta bene dappertutto ......
+1	@defilippi_m	@defilippi_m	NOUN	S	Gender=Masc	7	nsubj	_	_
+2	@MarroneEmma	@MarroneEmma	PROPN	SP	_	1	nmod	_	_
+3	@elisatoffoli	@elisatoffole	ADJ	A	Number=Plur	2	amod	_	_
+4	Tina	Tina	PROPN	SP	_	2	flat:name	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	grande	grande	ADJ	A	Number=Sing	0	root	_	_
+8	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	bene	bene	ADV	B	_	10	advmod	_	_
+10	dappertutto	dappertutto	ADV	B	_	7	advmod	_	_
+11	.....	.....	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

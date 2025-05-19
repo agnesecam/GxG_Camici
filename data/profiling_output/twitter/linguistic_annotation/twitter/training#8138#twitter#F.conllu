@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @63_spinelli yes dal 1992 ma nei miei domini con poco socialfeed con questo account collegato per fare seeding ahimè e dunque pure cucina
+1	@63_spinelli	@63_spinello	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	yes	yes	NOUN	S	_	1	compound	_	_
+3-4	dal	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	1992	1992	NUM	N	NumType=Card	1	nmod	_	_
+6	ma	ma	CCONJ	CC	_	10	cc	_	_
+7-8	nei	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	10	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	domini	domini	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+11	con	con	ADP	E	_	13	case	_	_
+12	poco	poco	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	13	det	_	_
+13	socialfeed	socialfee	NOUN	S	Gender=Masc	10	nmod	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
+16	account	account	NOUN	S	_	13	nmod	_	_
+17	collegato	collegare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+18	per	per	ADP	E	_	19	mark	_	_
+19	fare	fare	VERB	V	VerbForm=Inf	17	advcl	_	_
+20	seeding	seeding	SYM	X	_	21	obj	_	_
+21	ahimè	ahimè	INTJ	I	_	19	obj	_	_
+22	e	e	CCONJ	CC	_	24	cc	_	_
+23	dunque	dunque	ADV	B	_	24	advmod	_	_
+24	pure	pure	ADV	B	_	25	advmod	_	_
+25	cucina	cucinare	NOUN	S	Gender=Fem|Number=Sing	21	conj	_	SpacesAfter=\n
+

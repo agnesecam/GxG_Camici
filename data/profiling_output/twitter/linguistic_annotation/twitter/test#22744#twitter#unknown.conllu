@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_AnnaTatangelo_ @federica_flor sei bellissima sicuramente avrai emozionato tutti con la tua magnifica voce
+1	@_AnnaTatangelo_	@_AnnaTatangelo-	PUNCT	FB	_	2	punct	_	_
+2	@federica_flor	@federica_florre	VERB	V	VerbForm=Inf	0	root	_	_
+3	sei	sei	NUM	N	NumType=Card	2	obj	_	_
+4	bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	3	amod	_	_
+5	sicuramente	sicuramente	ADV	B	_	7	advmod	_	_
+6	avrai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	emozionato	emozionato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	obj	_	_
+9	con	con	ADP	E	_	13	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+11	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+12	magnifica	magnifica	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	voce	voce	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpacesAfter=\n
+

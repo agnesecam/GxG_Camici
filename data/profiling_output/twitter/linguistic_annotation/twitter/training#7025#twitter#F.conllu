@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #buongiorno Una buona fonte di pensiero positivo è pensare ai nostri animali domestici, essi amano in modo incondizionato,ciò ci fa star bene
+1	#buongiorno	#buongiorno	ADP	E	_	4	case	_	_
+2	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	buona	buono	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	fonte	fonte	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	positivo	positivo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	pensare	pensare	VERB	V	VerbForm=Inf	0	root	_	_
+10-11	ai	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	13	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	animali	animale	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+14	domestici	domestico	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	essi	essi	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+17	amano	amare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	modo	modo	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+20	incondizionato,ciò	incondizionato,ciò	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
+21	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	22	iobj	_	_
+22	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	xcomp	_	_
+23	star	stare	VERB	V	VerbForm=Inf	22	ccomp	_	_
+24	bene	bene	ADV	B	_	23	advmod	_	SpacesAfter=\n
+

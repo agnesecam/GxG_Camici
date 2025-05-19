@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Serata BollyWood finita poi in quel di un posto che non vi dirò a ballare Ricky Martín e Pitbull :D pic.twitter.com/xRK8YioEUI
+1	Serata	serare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	_
+2	BollyWood	Bollywood	PROPN	SP	_	1	obj	_	_
+3	finita	finire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4	poi	poi	ADV	B	_	6	advmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	quel	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	posto	posto	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	13	obj	_	_
+13	dirò	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	ballare	ballare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	Ricky	Ricky	PROPN	SP	_	15	obj	_	_
+17	Martín	Martín	PROPN	SP	_	16	flat:name	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	Pitbull	Pitbull	PROPN	SP	_	16	conj	_	_
+20	:D	:D	PROPN	SP	_	19	flat:name	_	_
+21	pic.twitter.com/xRK8YioEUI	pic.twitter.com/xRK8YioEUI	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

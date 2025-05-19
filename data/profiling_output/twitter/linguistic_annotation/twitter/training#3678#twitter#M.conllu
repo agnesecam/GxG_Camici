@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CatenaUmana sta x finire l era della culona tedesca farà la fine di kol.anche se lui era uno statista confronto a lei .lei manovra banche
+1	@CatenaUmana	@CatenaUmana	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	9	nsubj	_	_
+2	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+3	x	x	SYM	SYM	_	2	xcomp	_	_
+4	finire	finire	VERB	V	VerbForm=Inf	2	csubj	_	_
+5	l	l	X	X	_	4	nsubj	_	_
+6	era	era	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	culona	culona	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	tedesca	tedesco	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	fine	fine	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	kol.anche	kol.anche	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+16	se	se	SCONJ	CS	_	20	mark	_	_
+17	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+18	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
+19	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	statista	statista	NOUN	S	Number=Sing	11	advcl	_	_
+21	confronto	confronto	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	_
+22	a	a	ADP	E	_	23	case	_	_
+23	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nmod	_	_
+24	.lei	.lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+25	manovra	manovrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+26	banche	banca	NOUN	S	Gender=Fem|Number=Plur	25	obj	_	SpacesAfter=\n
+

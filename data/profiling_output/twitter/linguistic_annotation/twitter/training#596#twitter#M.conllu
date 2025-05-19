@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @commercialista @frav89 Ah, se non avessimo permesso che la nostra Silicon Valley di Scarmagno finisse in m*...
+1	@commercialista	@commercialista	NOUN	S	Number=Sing	0	root	_	_
+2	@frav89	@frav89	NUM	N	NumType=Card	1	nummod	_	_
+3	Ah	ah	INTJ	I	_	8	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	permesso	permettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+9	che	che	SCONJ	CS	_	16	mark	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	Silicon	Silicon	PROPN	SP	_	16	nsubj	_	_
+13	Valley	Valley	PROPN	SP	_	12	flat:name	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Scarmagno	Scarmagno	PROPN	SP	_	12	nmod	_	_
+16	finisse	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	m*...	m*...	NOUN	S	Gender=Masc	16	obl	_	SpacesAfter=\n
+

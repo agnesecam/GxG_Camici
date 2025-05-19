@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PatriziaRametta Gliela avrà riferita uno dei suoi fidanzati.
+1	@PatriziaRametta	@PatriziaRamettare	PROPN	SP	_	4	nsubj	_	_
+2-3	Gliela	_	_	_	_	_	_	_	_
+2	Glie	gli	PROPN	SP	_	1	flat:name	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	riferita	riferire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	_
+6	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obj	_	_
+7-8	dei	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	fidanzati	fidanzato	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

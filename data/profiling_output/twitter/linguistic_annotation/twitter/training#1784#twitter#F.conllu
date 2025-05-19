@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'universo è pieno di cose magiche in paziente attesa che le nostre facoltà mentali si affinino.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	universo	universo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pieno	pieno	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+7	magiche	magico	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	paziente	paziente	NOUN	S	Number=Sing	10	obl	_	_
+10	attesa	attendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+11	che	che	SCONJ	CS	_	17	mark	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	facoltà	facoltà	NOUN	S	Gender=Fem	17	nsubj	_	_
+15	mentali	mentale	ADJ	A	Number=Plur	14	amod	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	affinino	affinare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

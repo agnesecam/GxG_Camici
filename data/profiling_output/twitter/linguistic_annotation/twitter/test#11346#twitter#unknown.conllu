@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @luigidimaio potrebbe rinunciare all'immunità e allo stipendio come anche lei @DavidErmini1 potrebbe fare ugualmente...pace..lo farete ?
+1	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	rinunciare	rinunciare	VERB	V	VerbForm=Inf	0	root	_	_
+4-5	all'	_	_	_	_	_	_	_	SpaceAfter=No
+4	a	a	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	immunità	immunità	NOUN	S	Gender=Fem	3	obl	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8-9	allo	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	stipendio	stipendio	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+11	come	come	SCONJ	CS	_	16	mark	_	_
+12	anche	anche	ADV	B	_	16	advmod	_	_
+13	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+14	@DavidErmini1	@DavidErmini1	PROPN	SP	_	16	nsubj	_	_
+15	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	3	advcl	_	_
+17	ugualmente...pace..lo	ugualmente...pace..lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	farete	fareto	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

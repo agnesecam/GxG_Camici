@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ZIADinter @Albertoc205 @sr9f6 ma che stai dicendo?
+1	@ZIADinter	@ZIADinter	ADP	E	_	2	case	_	_
+2	@Albertoc205	@Albertoc205	PROPN	SP	_	7	obl	_	_
+3	@sr9f6	@sr9f6	NUM	N	NumType=Card	2	nummod	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	stai	stai	ADV	B	_	7	advmod	_	_
+7	dicendo	dire	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Perché dovremo parlare segretamente contro di te?
+1	Perché	perché	ADV	B	_	3	advmod	_	_
+2	dovremo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+4	segretamente	segreto	ADV	B	_	3	advmod	_	_
+5	contro	contro	ADP	E	_	7	case	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Non ha senso
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	senso	senso	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpacesAfter=\n
+

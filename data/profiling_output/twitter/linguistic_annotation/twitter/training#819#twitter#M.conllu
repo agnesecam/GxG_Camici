@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @itsdede avessimo tutti super-esperti a fare i Ministri comunque non saremmo contenti
+1	@itsdede	@itsdede	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obl	_	_
+4	super-esperti	super-esprire	ADJ	A	Gender=Masc|Number=Plur	1	ccomp	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Ministri	ministro	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	comunque	comunque	ADV	B	_	12	advmod	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	contenti	contento	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpacesAfter=\n
+

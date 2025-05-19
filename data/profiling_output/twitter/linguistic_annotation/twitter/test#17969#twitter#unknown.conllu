@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dite la verità, anche voi non avevate la più pallida idea di come fosse fatta la bandiera del #Belgio https:// twitter.com/willedwards/st atus/712436968601329664 …
+1	Dite	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	verità	verità	NOUN	S	Gender=Fem	1	nsubj:pass	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	anche	anche	ADV	B	_	6	advmod	_	_
+6	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	8	nsubj:pass	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	avevate	avevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	pallida	pallido	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+12	idea	idea	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+13	di	di	ADP	E	_	16	mark	_	_
+14	come	come	SCONJ	CS	_	13	fixed	_	_
+15	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	bandiera	bandiera	NOUN	S	Gender=Fem|Number=Sing	16	nsubj:pass	_	_
+19-20	del	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	#Belgio	#Belgio	PROPN	SP	_	18	nmod	_	_
+22	https:	https:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	twitter.com/willedwards/st	twitter.com/willedwards/st	CCONJ	CC	_	26	cc	_	_
+26	atus/712436968601329664	atus/712436968601329664	NUM	N	NumType=Range	21	conj	_	_
+27	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

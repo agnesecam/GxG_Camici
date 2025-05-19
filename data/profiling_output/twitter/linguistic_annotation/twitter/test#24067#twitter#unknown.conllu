@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @comis_william @MaurizioARicci @enzo_boschi Per cortesia toglietemi da questa stringa!
+1	@comis_william	@comis_william	NOUN	S	Gender=Masc	0	root	_	_
+2	@MaurizioARicci	@MaurizioARicci	NUM	N	NumType=Card	3	nummod	_	_
+3	@enzo_boschi	@enzo_bosco	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	Per	per	ADP	E	_	5	case	_	_
+5	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+6-7	toglietemi	_	_	_	_	_	_	_	_
+6	togliete	togliere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	stringa	stringa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

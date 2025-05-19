@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ho deciso:
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	deciso	decidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = farò la distaccata con lui e pure con mamma perché pure lei non è che scherzi eh.
+1	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	distaccata	distaccata	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	pure	pure	ADV	B	_	9	advmod	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+10	perché	perché	SCONJ	CS	_	14	mark	_	_
+11	pure	pure	ADV	B	_	12	advmod	_	_
+12	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	che	che	SCONJ	CS	_	16	mark	_	_
+16	scherzi	scherzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+17	eh	eh	INTJ	I	_	16	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

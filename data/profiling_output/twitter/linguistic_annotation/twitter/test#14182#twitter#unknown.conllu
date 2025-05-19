@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = regrann from @socialeolie - Sareste in grado di contare tutte le stelle?
+1	regrann	regranno	ADP	E	_	2	case	_	_
+2	from	from	NOUN	S	_	5	nmod	_	_
+3	@socialeolie	@socialeolia	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	-	-	PUNCT	FF	_	2	punct	_	_
+5	Sareste	Saresta	PROPN	SP	_	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	grado	grado	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	contare	contare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	12	det:predet	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #eolie #isoleeolie … https://www.
+1	#eolie	#eolia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#isoleeolie	#isoleeolia	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	https://www	https://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BClGb74NATo/
+1	instagram.com/p/BClGb74NATo/	instagram.com/p/BClGb74NATo/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

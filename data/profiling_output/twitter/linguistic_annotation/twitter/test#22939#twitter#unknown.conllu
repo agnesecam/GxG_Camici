@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = comunque povero #Allegri , i gol validi di un metro non glieli danno mai buoni #BayernJuve #muntari
+1	comunque	comunque	ADV	B	_	2	advmod	_	_
+2	povero	povero	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	Allegri	Allegri	PROPN	SP	_	15	obl	_	_
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	gol	gol	NOUN	S	Gender=Masc	15	nsubj	_	_
+8	validi	valido	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	metro	metro	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+12	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+13-14	glieli	_	_	_	_	_	_	_	_
+13	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	_
+14	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+15	danno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	mai	mai	ADV	B	_	17	advmod	_	_
+17	buoni	buono	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	_
+18	#	#	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	BayernJuve	BayernJuve	PROPN	SP	_	15	obl	_	_
+20	#muntari	#muntario	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Daniele91Nap @BernaConcetta @TheDrowningMan ecco.
+1	@Daniele91Nap	@Daniele91Nap	PROPN	SP	_	0	root	_	_
+2	@BernaConcetta	@BernaConcetta	PROPN	SP	_	1	flat:name	_	_
+3	@TheDrowningMan	@TheDrowningMan	PROPN	SP	_	1	flat:name	_	_
+4	ecco.	ecco.	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..questo è scandaloso.
+1	..questo	..questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	scandaloso	scandaloso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = approfittano di ciascuna pausa per mandare spot. e non è tv commerc
+1	approfittano	approfittare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	ciascuna	ciascuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	pausa	pausa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	mandare	mandare	VERB	V	VerbForm=Inf	1	advcl	_	_
+7	spot.	spot.	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	tv	tv	NOUN	S	Gender=Fem	6	conj	_	_
+12	commerc	commerc	NOUN	S	Gender=Fem	1	obj	_	SpacesAfter=\n
+

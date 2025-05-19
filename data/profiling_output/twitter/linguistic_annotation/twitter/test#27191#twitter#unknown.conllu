@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il sindaco #DeMagistris :
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	DeMagistris	DeMagistris	PROPN	SP	_	2	nmod	_	_
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = "A #Napoli c'è una questione morale nel #Pd .
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	A	a	ADP	E	_	3	case	_	_
+3	#Napoli	#Napoli	PROPN	SP	_	5	obl	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	questione	questione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	morale	morale	ADJ	A	Number=Sing	7	amod	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	#Pd	#Pd	PROPN	SP	_	5	obl	_	_
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Gran parte del partito, ahimé , è quella fotografia delle #primarie ".
+1	Gran	gran	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	partito	partito	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	ahimé	ahimé	ADV	B	_	5	advmod	_	_
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	_
+11	fotografia	fotografia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+12-13	delle	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	#primarie	#primaria	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
+15	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sta pagliacciata Europea dovrà pur finire https:// twitter.com/rep_economia/s tatus/715480786548338689 …
+1	Sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	pagliacciata	pagliacciare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	Europea	europea	ADJ	A	Gender=Fem|Number=Sing	2	xcomp	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+5	pur	pure	ADV	B	_	6	advmod	_	_
+6	finire	finire	VERB	V	VerbForm=Inf	2	parataxis	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/rep_economia/s	twitter.com/rep_economia/s	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+11	tatus/715480786548338689	tatus/715480786548338689	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

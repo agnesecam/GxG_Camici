@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Renzi nervosetto a rispondere alle domande da @annunziatalu . Eh già, #Boschi dovrà rispondere a quelle dei magistrati...
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Renzi	Renzi	PROPN	SP	_	17	nsubj	_	_
+3	nervosetto	nervosetto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	rispondere	rispondere	VERB	V	VerbForm=Inf	3	advcl	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	domande	domanda	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	@annunziatalu	@annunziatalu	NOUN	S	Gender=Masc	8	nmod	_	_
+11	.	.	PUNCT	FS	_	2	punct	_	_
+12	Eh	eh	PROPN	SP	_	2	flat:name	_	_
+13	già	già	ADV	B	_	17	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	#Boschi	#Boschi	PROPN	SP	_	17	nsubj	_	_
+16	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+17	rispondere	rispondere	VERB	V	VerbForm=Inf	0	root	_	_
+18	a	a	ADP	E	_	19	case	_	_
+19	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	17	obl	_	_
+20-21	dei	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	magistrati...	magistrati...	NOUN	S	Gender=Masc	19	nmod	_	SpacesAfter=\n
+

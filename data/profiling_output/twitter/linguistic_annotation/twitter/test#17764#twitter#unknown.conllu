@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @laurachiatti3 procura di Brindisi è corrotta.
+1	@laurachiatti3	@laurachiatti3	NUM	N	NumType=Card	2	nummod	_	_
+2	procura	procura	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Brindisi	Brindisi	PROPN	SP	_	2	nmod	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	corrotta	corrotto	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Ad agosto mi fecero sapere che il mio patrigno era morto perché se fossi andato a Brindisi
+1	Ad	a	ADP	E	_	2	case	_	_
+2	agosto	agosto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	sapere	sapere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	che	che	SCONJ	CS	_	11	mark	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	patrigno	patrigno	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+10	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	morto	morire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_
+12	perché	perché	SCONJ	CS	_	15	mark	_	_
+13	se	se	SCONJ	CS	_	15	mark	_	_
+14	fossi	essere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	Brindisi	brindisi	PROPN	SP	_	15	obl	_	SpacesAfter=\n
+

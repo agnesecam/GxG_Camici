@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se domani Renzi dicesse:
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	domani	domani	ADV	B	_	4	advmod	_	_
+3	Renzi	Renzi	PROPN	SP	_	4	nsubj	_	_
+4	dicesse	dire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = "Da oggi la cacca è saporita!" essi direbbero:
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Da	da	ADP	E	_	3	case	_	_
+3	oggi	oggi	ADV	B	_	7	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cacca	cacca	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	saporita	saporire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	11	punct	_	_
+10	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	direbbero	dire	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	7	punct	_	_
+
+# sent_id = 3
+# text = "Huuummm, Egli ha ragione.
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Huuummm	Huuummm	PROPN	SP	_	5	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = La cacca è saporita.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cacca	cacca	NOUN	S	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	saporita	saporire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 5
+# text = Molto saporita!"
+1	Molto	molto	ADV	B	_	2	advmod	_	_
+2	saporita	saporito	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

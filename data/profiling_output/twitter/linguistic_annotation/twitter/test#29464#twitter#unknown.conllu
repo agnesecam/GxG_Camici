@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Era il giorno ch'al sol si scoloraro per la pietà del suo Fattore i rai, quand'i' fui preso, e non me ne guardai
+1	Era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+4	ch'	che	ADV	B	_	3	advmod	_	SpaceAfter=No
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	sol	sol	NOUN	S	Gender=Masc	9	obl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	scoloraro	scolorarare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	pietà	pietà	NOUN	S	Gender=Fem	9	obl	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	16	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	Fattore	fattore	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	rai	re	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	20	punct	_	_
+20	quand'i	quand'o	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	'	'	PUNCT	FB	_	23	punct	_	_
+22	fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	23	aux	_	_
+23	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	conj	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	29	punct	_	_
+25	e	e	CCONJ	CC	_	29	cc	_	_
+26	non	non	ADV	BN	PronType=Neg	29	advmod	_	_
+27	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	29	expl	_	_
+28	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	29	iobj	_	_
+29	guardai	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	23	conj	_	SpacesAfter=\n
+

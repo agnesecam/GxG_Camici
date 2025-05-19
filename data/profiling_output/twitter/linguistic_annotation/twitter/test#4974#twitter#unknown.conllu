@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LetteraturaIn140Caratteri " Fu allora che vidi il pendolo,appeso alla volta,descriveva ampie oscillazioni con isocrona maestà"
+1	#LetteraturaIn140Caratteri	#LetteraturaIn140Carattero	ADV	B	_	4	advmod	_	_
+2	"	"	PUNCT	FB	_	4	punct	_	_
+3	Fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	allora	allora	ADV	B	_	14	advmod	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	vidi	videre	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pendolo	pendolo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	appeso	appendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	volta	volta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+14	,descriveva	,descrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+15	ampie	ampio	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	_
+16	oscillazioni	oscillazione	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	con	con	ADP	E	_	19	case	_	_
+18	isocrona	isocrono	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	_
+19	maestà	maestà	NOUN	S	Gender=Fem	14	obl	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	14	punct	_	SpacesAfter=\n
+

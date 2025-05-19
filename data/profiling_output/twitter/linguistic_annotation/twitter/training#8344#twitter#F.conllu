@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , con i minuti di silenzio abbiamo fatto, anche le luci suggestive le abbiamo accese, l'afflato collettivo... http:// fb.me/7LJpxGpVZ
+1	Dunque	dunque	ADV	B	_	9	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	silenzio	silenzio	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	anche	anche	ADV	B	_	13	advmod	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	luci	luce	NOUN	S	Gender=Fem|Number=Plur	17	nsubj	_	_
+14	suggestive	suggestivo	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+15	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+16	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	accese	accendere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	21	punct	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
+20	afflato	afflato	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
+21	collettivo...	collettivo...	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	9	punct	_	_
+25	fb.me/7LJpxGpVZ	fb.me/7LJpxGpVZ	PROPN	SP	_	9	conj	_	SpacesAfter=\n
+

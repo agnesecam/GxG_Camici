@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e'l bel paese, e'l loco ov'io fui giunto da'duo begli occhi che legato m'ànno
+1	e	e	CCONJ	CC	_	4	cc	_	SpaceAfter=No
+2	'l	'l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	bel	bello	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	paese	paese	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	SpaceAfter=No
+7	'	'	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	l	l	NOUN	S	Gender=Masc	4	conj	_	_
+9	loco	loco	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	ov'	ove	ADP	E	_	11	case	_	SpaceAfter=No
+11	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
+12	fui	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	aux	_	_
+13	giunto	giungere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+14	da'	dao	ADP	E	_	15	case	_	SpaceAfter=No
+15	duo	duo	NOUN	S	Gender=Masc	13	obl	_	_
+16	begli	bello	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	_
+17	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+18	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+19	legato	legare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
+20	m'	m'	DET	DD	Number=Sing|PronType=Dem	21	det	_	SpaceAfter=No
+21	ànno	ànno	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le nostre proposte alla Leopolda fiorentina sembravano pazze Eravamo considerati barbari #Cambiamenti pic.twitter.com/vXtSmgV7AC
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Leopolda	Leopolda	PROPN	SP	_	3	nmod	_	_
+7	fiorentina	fiorentino	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	sembravano	sembrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	pazze	pazzo	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+10	Eravamo	essere	PROPN	SP	_	9	nmod	_	_
+11	considerati	considerare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+12	barbari	barbario	NOUN	S	Gender=Masc|Number=Plur	11	xcomp	_	_
+13	#	#	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+14	Cambiamenti	cambiamento	NOUN	S	Gender=Masc|Number=Plur	12	compound	_	_
+15	pic.twitter.com/vXtSmgV7AC	pic.twitter.com/vXtSmgV7AC	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

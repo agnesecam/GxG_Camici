@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agorarai #agorarai perché, invece, con gli americani (vedi c/o basi nato) noi cerchiamo di parlare inglese ed essi neanche si sforzano?
+1	@agorarai	@agoraere	ADV	B	_	3	advmod	_	_
+2	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	agorarai	agoraere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	perché	perché	SCONJ	CS	_	12	mark	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	12	punct	_	_
+6	invece	invece	ADV	B	_	12	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	americani	americano	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+13	c/	c/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	o	o	CCONJ	CC	_	15	cc	_	_
+15	basi	base	NOUN	S	Gender=Fem|Number=Plur	12	conj	_	_
+16	nato	nato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	16	punct	_	_
+18	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
+19	cerchiamo	cercare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+20	di	di	ADP	E	_	21	mark	_	_
+21	parlare	parlare	VERB	V	VerbForm=Inf	19	xcomp	_	_
+22	inglese	inglese	ADJ	A	Number=Sing	21	xcomp	_	_
+23	ed	e	CCONJ	CC	_	27	cc	_	_
+24	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
+25	neanche	neanche	ADV	BN	PronType=Neg	27	advmod	_	_
+26	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	27	expl	_	_
+27	sforzano	sforzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	SpaceAfter=No
+28	?	?	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

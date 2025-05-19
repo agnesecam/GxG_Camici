@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarcelloChirico @Gazzetta_it @juventusfc @TUTTOJUVE_COM non che con luxor avessimo trattamento speciale vedi ultime pagelle.gervasoni 6,5
+1	@MarcelloChirico	@MarcelloChirico	X	SW	Foreign=Yes	0	root	_	_
+2	@Gazzetta_it	@Gazzetta_it	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	@juventusfc	@juventusfc	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	@TUTTOJUVE_COM	@TUTTOJUVE_COM	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	non	non	X	SW	Foreign=Yes	1	flat:foreign	_	_
+6	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	luxor	luxor	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+9	avessimo	avessimo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	trattamento	trattamento	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+11	speciale	speciale	ADJ	A	Number=Sing	10	amod	_	_
+12	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+13	ultime	ultimo	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+14	pagelle.gervasoni	pagelle.gervasone	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+15	6,5	6,5	NUM	N	NumType=Card	14	nummod	_	SpacesAfter=\n
+

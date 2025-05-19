@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Verrà il tempo in cui l'uomo non dovrà più uccidere per mangiare, ed anche l'uccisione di un solo animale sarà... http:// fb.me/3MfCUa22q
+1	Verrà	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	cui	cui	PRON	PR	PronType=Rel	11	obl	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	uccidere	uccidere	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+12	per	per	ADP	E	_	13	mark	_	_
+13	mangiare	mangiare	VERB	V	VerbForm=Inf	11	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	18	punct	_	_
+15	ed	e	CCONJ	CC	_	18	cc	_	_
+16	anche	anche	ADV	B	_	18	advmod	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	uccisione	uccisione	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	_
+19	di	di	ADP	E	_	22	case	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	solo	solo	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	_
+22	animale	animale	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+23	sarà...	sarà.	PUNCT	FS	_	22	punct	_	_
+24	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	22	punct	_	_
+27	fb.me/3MfCUa22q	fb.me/3MfCUa22q	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

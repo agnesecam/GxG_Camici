@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avete già dimenticato il miracolo di #Pioli della scorsa stagione?
+1	Avete	avere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	già	già	ADV	B	_	3	advmod	_	_
+3	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	miracolo	miracolo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	#Pioli	#Pioli	PROPN	SP	_	5	nmod	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	scorsa	scorso	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Chiunque avrebbe problemi con Bisevac, Patric, Hoedt e Braafheid.
+1	Chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+2	avrebbe	avere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+3	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	Bisevac	Bisevac	PROPN	SP	_	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	Patric	Patric	PROPN	SP	_	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	Hoedt	Hoedt	PROPN	SP	_	5	conj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	Braafheid	Braafheid	PROPN	SP	_	5	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

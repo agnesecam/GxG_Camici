@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ".
+1	"	"	PUNCT	FB	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..perché il suo cervello è come la resina, quando qualcosa ci resta impigliato dentro non esce più" #sonnambulismo #MagdaSzabò #Laporta
+1	..perché	..perché	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	come	come	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	resina	resina	NOUN	S	Gender=Fem|Number=Sing	17	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	quando	quando	SCONJ	CS	_	13	mark	_	_
+11	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	13	nsubj	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	iobj	_	_
+13	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+14	impigliato	impigliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	_
+15	dentro	dentro	ADV	B	_	14	advmod	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	esce	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	più	più	ADV	B	_	17	advmod	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	20	punct	_	_
+20	#sonnambulismo	#sonnambulismo	NOUN	S	Gender=Masc|Number=Sing	17	xcomp	_	_
+21	#MagdaSzabò	#MagdaSzabò	PROPN	SP	_	20	nmod	_	_
+22	#	#	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	Laporta	Laporta	PROPN	SP	_	17	nsubj	_	SpacesAfter=\n
+

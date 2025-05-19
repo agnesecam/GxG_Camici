@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = COSA.
+1	COSA	cosa	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = CAZZO.
+1	CAZZO	CAZZO	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = STATE.
+1	STATE	stato	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = DICENDO?
+1	DICENDO	dire	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = Svegliarsi alle 7 ed uscire col buio, a piedi, come se non lo facesse nessuno.
+1-2	Svegliarsi	_	_	_	_	_	_	_	_
+1	Svegliar	Svegliare	VERB	V	VerbForm=Inf	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	_
+3-4	alle	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	7	7	NUM	N	NumType=Card	7	obl	_	_
+6	ed	e	CCONJ	CC	_	7	cc	_	_
+7	uscire	uscire	VERB	V	VerbForm=Inf	1	conj	_	_
+8-9	col	_	_	_	_	_	_	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	buio	buio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	7	punct	_	_
+15	come	come	ADV	B	_	19	advmod	_	_
+16	se	se	SCONJ	CS	_	19	mark	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+20	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	nsubj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 6
+# text = #CePostaPerTe
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	CePostaPerTe	CePostaPerTe	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

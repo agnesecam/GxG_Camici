@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se non avessimo avuto la partenza di inizio anno che abbiamo avuto , oggi avremmo vinto lo scudetto.
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	partenza	partenza	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+11	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+13	,	,	PUNCT	FF	_	16	punct	_	_
+14	oggi	oggi	ADV	B	_	16	advmod	_	_
+15	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+17	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	scudetto.	scudetto.	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = grazie mister ! #officialallegri
+1	grazie	grazie	NOUN	S	_	4	case	_	_
+2	mister	mister	NOUN	S	_	1	fixed	_	_
+3	!	!	PUNCT	FS	_	4	punct	_	_
+4	#officialallegri	#officialallegro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

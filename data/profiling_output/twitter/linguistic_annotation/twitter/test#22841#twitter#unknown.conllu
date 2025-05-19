@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @zerofanzine2 a qualcuno glieli hanno fatti soli assaggia prima delle elezioni e poi subito tolti come i posti di lavoro a tempo indetermina
+1	@zerofanzine2	@zerofanzine2	NUM	N	NumType=Card	7	nummod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	_
+4-5	glieli	_	_	_	_	_	_	_	_
+4	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+6	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	25	advcl	_	_
+8	soli	solo	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+9	assaggia	assaggia	NOUN	S	Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+10	prima	prima	ADV	B	_	13	case	_	_
+11-12	delle	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	10	fixed	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15	poi	poi	ADV	B	_	17	advmod	_	_
+16	subito	subito	ADV	B	_	17	advmod	_	_
+17	tolti	togliere	ADJ	A	Number=Plur	13	amod	_	_
+18	come	come	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	posti	posto	NOUN	S	Gender=Masc|Number=Plur	17	obl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+23	a	a	ADP	E	_	24	case	_	_
+24	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+25	indetermina	indetermino	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

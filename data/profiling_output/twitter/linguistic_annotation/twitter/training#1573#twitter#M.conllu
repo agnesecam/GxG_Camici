@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno e buon Sabato!!
+1	Buongiorno	Buongiorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	buon	buono	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ke belle le nostre clienti nella scelta dei nostri favolosiiii abiti a prezzi... http:// fb.me/1bdaBgbqK
+1	Ke	Ke	ADV	B	_	5	advmod	_	_
+2	belle	bello	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	clienti	cliente	NOUN	S	Number=Plur	0	root	_	_
+6-7	nella	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	favolosiiii	favolosiiio	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+13	abiti	abitare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	prezzi...	prezzi...	NOUN	S	_	13	obl	_	_
+16	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	fb.me/1bdaBgbqK	fb.me/1bdabgbqk	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

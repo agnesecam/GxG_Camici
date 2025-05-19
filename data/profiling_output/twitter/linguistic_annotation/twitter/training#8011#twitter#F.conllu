@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = hemn.
+1	hemn.	hemumero	NOUN	S	Gender=Masc	0	root	_	_
+
+# sent_id = 2
+# text = . dunque : de Curtis Antonio, Scicolone Sofia, Caruso Enrico, De Filippo Eduardo ..., ha ragione, sono tanti https:// twitter.com/juve3stars/sta tus/715585914353946625 …
+1	.	.	PUNCT	FF	_	5	punct	_	_
+2	dunque	dunque	ADV	B	_	5	advmod	_	_
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	de	de	ADP	E	_	5	case	_	_
+5	Curtis	Curtis	PROPN	SP	_	19	nsubj	_	_
+6	Antonio	Antonio	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	Scicolone	Scicolone	PROPN	SP	_	5	appos	_	_
+9	Sofia	Sofia	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	8	punct	_	_
+11	Caruso	Caruso	PROPN	SP	_	8	nmod	_	_
+12	Enrico	Enrico	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	11	punct	_	_
+14	De	De	PROPN	SP	_	11	appos	_	_
+15	Filippo	Filippo	PROPN	SP	_	14	flat:name	_	_
+16	Eduardo	Eduardo	PROPN	SP	_	14	flat:name	_	_
+17	...	...	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	5	punct	_	_
+19	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	23	punct	_	_
+22	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	conj	_	_
+24	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	27	punct	_	_
+27	twitter.com/juve3stars/sta	twitter.com/juve3stars/stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
+28	tus/715585914353946625	tus/715585914353946625	NUM	N	NumType=Card	27	nummod	_	_
+29	…	…	PUNCT	FF	_	27	punct	_	SpacesAfter=\n
+

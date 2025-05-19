@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Don Gabriele, una domanda che, forse, ad alcuni può sembrare eccessiva:
+1	Don	don	PROPN	SP	_	0	root	_	_
+2	Gabriele	Gabriele	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	1	appos	_	_
+6	che	che	PRON	PR	PronType=Rel	13	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	forse	forse	ADV	B	_	13	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	ad	a	ADP	E	_	11	case	_	_
+11	alcuni	alcuno	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	obl	_	_
+12	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+14	eccessiva	eccessivo	ADJ	A	Gender=Fem|Number=Sing	13	xcomp	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = oggetti ... http://www.
+1	oggetti	oggetto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	...	.	PUNCT	FF	_	1	punct	_	_
+3	http://www	http://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = ritasberna.it/web/padre-amor th-attenti-agli-oggetti-maleficiati/ … pic.twitter.com/xRoeZQzzWo
+1	ritasberna.it/web/padre-amor	ritasberna.it/web/padre-amorre	NOUN	S	Gender=Masc	4	nmod	_	_
+2	th-	_	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3	attenti	attento	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+4	-agli-oggetti	-agli-oggetto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	-maleficiati	-maleficiato	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	_
+7	…	…	PUNCT	FF	_	5	punct	_	_
+8	pic.twitter.com/xRoeZQzzWo	pic.twitter.com/xRoeZQzzWo	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

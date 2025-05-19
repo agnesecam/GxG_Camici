@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gartner riconosce @qlik come leader nella #BI & #analytic per il 6o anno consecutivo ! #GartnerMQ http:// shrd.vu/biNCW
+1	Gartner	Gartner	PROPN	SP	_	2	nsubj	_	_
+2	riconosce	riconoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	@qlik	@qlik	NOUN	S	Gender=Masc	2	obj	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	leader	leader	NOUN	S	_	2	obl	_	_
+6-7	nella	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	#BI	#BI	PROPN	SP	_	5	nmod	_	_
+9	&	&	SYM	SYM	_	8	flat:name	_	_
+10	#analytic	#analytic	NOUN	S	_	8	flat:name	_	_
+11	per	per	ADP	E	_	14	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	6o	6o	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	anno	anno	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+15	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+16	!	!	PUNCT	FS	_	17	punct	_	_
+17	#GartnerMQ	#GartnerMQ	PROPN	SP	_	5	conj	_	_
+18	http:	http:	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	5	punct	_	_
+21	shrd.vu/biNCW	shrd.vu/biNCW	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

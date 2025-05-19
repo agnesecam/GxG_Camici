@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I nostri limiti non ci impauriscano e non ci blocchino, ma si aprano a condividere le nostre povertà segno del Regno che viene.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	impauriscano	impauriscare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
+10	blocchino	bloccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	ma	ma	CCONJ	CC	_	14	cc	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	aprano	aprare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	condividere	condividere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	povertà	povertà	NOUN	S	Gender=Fem	16	obj	_	_
+20	segno	segno	NOUN	S	Gender=Masc|Number=Sing	19	compound	_	_
+21-22	del	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	Regno	Regno	PROPN	SP	_	19	nmod	_	_
+24	che	che	PRON	PR	PronType=Rel	25	nsubj	_	_
+25	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

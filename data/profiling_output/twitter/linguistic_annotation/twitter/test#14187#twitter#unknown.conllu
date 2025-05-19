@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quanto sareste disposti a spendere per una pausa pranzo lì, in questo momento ??
+1	Quanto	quanto	ADV	B	_	3	advmod	_	_
+2	sareste	saresto	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	3	nsubj	_	_
+3	disposti	disporre	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	spendere	spendere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	pausa	pausa	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+9	pranzo	pranzo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	obj	_	_
+10	lì	lì	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+14	momento	momento	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+15	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// ift.tt/1LDYpuH pic.twitter.com/ok9GZVmOFL
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	ift.tt/1LDYpuH	ift.tt/1LDYpuH	PROPN	SP	_	0	root	_	_
+5	pic.twitter.com/ok9GZVmOFL	pic.twitter.com/ok9GZVmOFL	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

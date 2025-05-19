@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PieroPelu bravo Piero l'importante è far capire a tanti ignoranti che amare non vuol dire possedere e proibire.
+1	@PieroPelu	i@PieroPel	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bravo	bravo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	Piero	Piero	PROPN	SP	_	2	nmod	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	importante	importante	ADJ	A	Number=Sing	2	amod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+8	capire	capire	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+11	ignoranti	ignorante	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	amare	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	dire	dire	VERB	V	VerbForm=Inf	13	ccomp	_	_
+17	possedere	possedere	VERB	V	VerbForm=Inf	16	xcomp	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	proibire	proibire	VERB	V	VerbForm=Inf	17	conj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Auguri a tutte le donne
+1	Auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	a	a	ADP	E	_	5	case	_	_
+3	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	donne	donna	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	SpacesAfter=\n
+

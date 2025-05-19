@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteorenzi le nostre imprese costruiscono all estero centrali rinnovabili e qui pensiamo a trivellate e costruire oleodotti?
+1	@matteorenzi	@matteorenzi	ADP	E	_	4	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	imprese	impresa	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+5	costruiscono	costruire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	all	all	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	estero	estero	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	centrali	centrale	ADJ	A	Number=Plur	7	amod	_	_
+9	rinnovabili	rinnovabile	ADJ	A	Number=Plur	7	amod	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	qui	qui	ADV	B	_	12	advmod	_	_
+12	pensiamo	pensare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	trivellate	trivellare	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	costruire	costruire	VERB	V	VerbForm=Inf	5	conj	_	_
+17	oleodotti	oleodotto	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = non comprendo
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	comprendo	comprendere	VERB	V	VerbForm=Ger	0	root	_	SpacesAfter=\n
+

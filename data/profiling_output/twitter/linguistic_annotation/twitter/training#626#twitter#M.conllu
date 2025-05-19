@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MCaronni concordo con il tuo twitt e concordo anche sul fatto che se avessimo avuto dybala, chiellini e marchisio la storia sarebe diversa
+1	@MCaronni	@MCaronno	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	concordo	concordo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	6	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	twitt	twitt	NOUN	S	Gender=Masc	2	obl	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	concordo	concordo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	anche	anche	ADV	B	_	12	advmod	_	_
+10-11	sul	_	_	_	_	_	_	_	_
+10	su	su	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+13	che	che	SCONJ	CS	_	16	mark	_	_
+14	se	se	SCONJ	CS	_	16	mark	_	_
+15	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+17	dybala	dybala	NUM	N	NumType=Card	16	obj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	chiellini	chiellino	NOUN	S	Gender=Masc|Number=Plur	17	conj	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	marchisio	marchisio	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	storia	storia	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+24	sarebe	sareba	ADJ	A	Gender=Fem|Number=Plur	23	amod	_	_
+25	diversa	diverso	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	SpacesAfter=\n
+

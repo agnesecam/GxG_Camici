@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #fi Veneto, nelle moschee si dovrà parlare italiano:
+1	#fi	#fo	NOUN	S	Gender=Masc|Number=Plur	9	vocative	_	_
+2	Veneto	Veneto	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4-5	nelle	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	moschee	moschea	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+10	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	9	punct	_	_
+
+# sent_id = 2
+# text = Con 30 voti a favore, 8 contrari e un astenut... http:// bit.ly/1UI4TMn #berlusconi
+1	Con	con	ADP	E	_	3	case	_	_
+2	30	30	NUM	N	NumType=Card	3	nummod	_	_
+3	voti	voto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	favore	favore	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	8	8	NUM	N	NumType=Card	8	nummod	_	_
+8	contrari	contrario	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	astenut...	astenut...	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	3	punct	_	_
+15	bit.ly/1UI4TMn	bit.ly/1UI4TMn	PROPN	SP	_	3	nmod	_	_
+16	#berlusconi	#berluscone	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Sport_Mediaset #InterTorino Rigore su Icardi non visto, Nagatomo non tocca neppure il giocatore del Torino.
+1	@Sport_Mediaset	@Sport_Mediaset	PROPN	SP	_	12	obl	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	InterTorino	InterTorino	PROPN	SP	_	1	flat:name	_	_
+4	Rigore	rigore	PROPN	SP	_	1	flat:name	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	Icardi	Icardi	PROPN	SP	_	1	nmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	Nagatomo	Nagatomo	PROPN	SP	_	12	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	giocatore	giocatore	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Torino	Torino	PROPN	SP	_	15	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = È simulazione.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	simulazione.	simulazione.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	_
+
+# sent_id = 4
+# text = Vergogna.
+1	Vergogna.	Vergogna.	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = !!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando una persona ci tiene a fare bene qualcosa non gliene frega nulla del resto . https:// twitter.com/ver_rossi/stat us/710082953863413760 …
+1	Quando	quando	SCONJ	CS	_	5	mark	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	persona	persona	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+5	tiene	tenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	bene	bene	ADV	B	_	7	advmod	_	_
+9	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	gliene	glenere	SCONJ	CS	_	12	mark	_	_
+12	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+13	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obj	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	resto	resto	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+17	.	.	PUNCT	FS	_	5	punct	_	_
+18	https:	https:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	_
+21	twitter.com/ver_rossi/stat	twitter.com/ver_rossi/stare	SYM	X	_	5	nmod	_	_
+22	us/710082953863413760	us/710082953863413760	NUM	N	NumType=Card	21	nummod	_	_
+23	…	…	PUNCT	FF	_	21	punct	_	SpacesAfter=\n
+

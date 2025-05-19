@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Vile fu quel popolo che nulla valse dignità ed onore e sol di vermi intese sì cibarsi".
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Vile	Vile	ADJ	A	Number=Sing	0	root	_	_
+3	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+7	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	_
+8	valse	valgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+9	dignità	dignità	NOUN	S	Gender=Fem	8	obj	_	_
+10	ed	e	CCONJ	CC	_	11	cc	_	_
+11	onore	onore	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	sol	solo	ADJ	A	Gender=Masc|Number=Sing	8	conj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	vermi	vermo	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+16	intese	intese	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+17	sì	sì	INTJ	I	Polarity=Pos	2	obj	_	_
+18-19	cibarsi	_	_	_	_	_	_	_	SpaceAfter=No
+18	cibar	cibare	VERB	V	VerbForm=Inf	17	xcomp	_	_
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+20	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = ilfattoquotidiano.it/2016/04/04/inc hiesta-petrolio-pastena-de-giorgi-e-i-54-miliardi-di-euro-per-la-flotta-militare/2604154/ …
+1	ilfattoquotidiano.it/2016/04/04/inc	ilfattoquotidiano.it/2016/04/04/inc	ADV	B	_	2	advmod	_	_
+2	hiesta-petrolio	hiesta-petrolio	ADJ	A	_	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	pastena-de	pastena-da	X	SW	Foreign=Yes	2	compound	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	giorgi	giorgio	NOUN	S	Gender=Masc|Number=Plur	4	compound	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	e	e	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+10	i-54	i-54	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+11	-miliardi-di-euro	-miliardi-di-euro	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+12	-per-la	-per-la	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	flotta-militare/2604154	flotta-militare/2604154	NUM	N	NumType=Card	12	compound	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	_
+16	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

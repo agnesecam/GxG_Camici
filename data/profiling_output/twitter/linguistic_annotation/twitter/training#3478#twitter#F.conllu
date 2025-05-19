@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Calciomercato Juventus, dall'Inghilterra:
+1	Calciomercato	Calciomercare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Juventus	Juventus	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4-5	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+4	da	da	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	Inghilterra	Inghilterra	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = «L'Arsenal farà di tutto per avere Morata» http:// fb.me/4GLI8DzHe
+1	«	«	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	Arsenal	Arsenal	PROPN	SP	_	4	nsubj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	avere	avere	VERB	V	VerbForm=Inf	4	advcl	_	_
+9	Morata	Morare	PROPN	SP	_	8	obl	_	SpaceAfter=No
+10	»	»	PUNCT	FB	_	9	punct	_	_
+11	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	9	punct	_	_
+14	fb.me/4GLI8DzHe	fb.me/4gli8dzhe	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

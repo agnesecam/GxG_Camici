@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bacimaidati Vabb a parte perché eravamo in parterre appiccicate, ma è stato il concerto migliore per me, anche se il 24 INFINITY ..ugh
+1	@bacimaidati	@bacimaidare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	24	acl	_	_
+2	Vabb	Vabb	PROPN	SP	_	1	xcomp	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	fixed	_	_
+5	perché	perché	SCONJ	CS	_	8	mark	_	_
+6	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	parterre	parterra	NOUN	S	Gender=Fem|Number=Plur	24	advcl	_	_
+9	appiccicate	appiccicato	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	15	punct	_	_
+11	ma	ma	CCONJ	CC	_	15	cc	_	_
+12	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+13	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	concerto	concerto	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+16	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	15	amod	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	8	punct	_	_
+20	anche	anche	ADV	B	_	24	advmod	_	_
+21	se	se	SCONJ	CS	_	20	fixed	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	24	24	NUM	N	NumType=Card	24	nummod	_	_
+24	INFINITY	Infinity	PROPN	SP	_	0	root	_	_
+25	..ugh	..ugh	INTJ	I	_	24	punct	_	SpacesAfter=\n
+

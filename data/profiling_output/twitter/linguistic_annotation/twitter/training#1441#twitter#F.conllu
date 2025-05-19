@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 300 LIKE.
+1	300	300	NUM	N	NumType=Card	2	nummod	_	_
+2	LIKE	Like	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ringraziamo tutti i nostri seguaci che ogni giorno ci tengono compagnia sbirciando le nostre "vetrine… pic.twitter.com/TWxd8IrDax
+1	Ringraziamo	Ringrazare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	seguaci	seguace	NOUN	S	Number=Plur	1	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+7	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	8	det	_	_
+8	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+10	tengono	tenere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+11	compagnia	compagnia	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+12	sbirciando	sbirciare	VERB	V	VerbForm=Ger	10	advcl	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+14	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	vetrine…	vetrine…	PUNCT	FF	_	14	punct	_	_
+17	pic.twitter.com/TWxd8IrDax	pic.twitter.com/TWxd8IrDax	PROPN	SP	_	12	obj	_	SpacesAfter=\n
+

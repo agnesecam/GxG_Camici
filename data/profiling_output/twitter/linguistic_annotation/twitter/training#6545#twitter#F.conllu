@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se non ci fossimo noi donne, voi uomini come fareste?
+1	Se	se	SCONJ	CS	_	6	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+6	donne	donna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	6	appos	_	_
+10	come	come	ADP	E	_	11	case	_	_
+11	fareste	faresta	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quelli che scrivono "tanto le amichevoli le lasciamo vincere ai tedeschi",se avessimo vinto avrebbero scritto "con loro vinciamo sempre noi"
+1	Quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	scrivono	scrivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+5	tanto	tanto	ADV	B	_	9	advmod	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	amichevoli	amichevole	NOUN	S	Gender=Fem	9	nsubj	_	_
+8	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	lasciamo	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+10	vincere	vincere	VERB	V	VerbForm=Inf	16	ccomp	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	tedeschi"	tedeschisecondi	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+14	,se	,so	ADJ	A	Number=Sing	13	amod	_	_
+15	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	vinto	vinto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+17	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	_
+19	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+20	con	con	ADP	E	_	21	case	_	_
+21	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	18	obl	_	_
+22	vinciamo	vincere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	conj	_	_
+23	sempre	sempre	ADV	B	_	22	advmod	_	_
+24	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	22	obl	_	SpaceAfter=No
+25	"	"	PUNCT	FB	_	24	punct	_	SpacesAfter=\n
+

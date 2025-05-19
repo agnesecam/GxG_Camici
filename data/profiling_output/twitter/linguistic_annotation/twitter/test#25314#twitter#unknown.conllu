@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MassMarianella Quando ci furono gli ululati contro Koulibaly, @keitabalde14 si schierò apertamente dalla parte del giocatore napoletano
+1	@MassMarianella	@MassMarianellare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Quando	quando	SCONJ	CS	_	6	mark	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+4	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+5	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+6	ululati	ululato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	contro	contro	ADP	E	_	8	case	_	_
+8	Koulibaly	Koulibaly	PROPN	SP	_	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	@keitabalde14	@keitabalde14	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	schierò	schiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+13	apertamente	apertamente	ADV	B	_	12	advmod	_	_
+14-15	dalla	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+17-18	del	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	giocatore	giocatore	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+20	napoletano	napoletano	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	SpacesAfter=\n
+

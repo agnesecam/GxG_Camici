@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per fortuna presto essere cittadini UE non avrà più significato.E la gente come la Moscerini dovrà andare in carcere https:// twitter.com/CatenaUmana/st atus/713872629497659392 …
+1	Per	per	ADP	E	_	2	case	_	_
+2	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+3	presto	presto	ADV	B	_	5	advmod	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+5	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	17	nsubj	_	_
+6	UE	Ue	PROPN	SP	_	8	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	significato.E	significato.E	PROPN	SP	_	8	obj	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	gente	gente	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+13	come	come	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Moscerini	Moscerini	PROPN	SP	_	8	obl	_	_
+16	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+17	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	carcere	carcere	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+20	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	twitter.com/CatenaUmana/st	twitter.com/CatenaUmana/st	PROPN	SP	_	19	nmod	_	_
+24	atus/713872629497659392	atus/713872629497659392	NUM	N	NumType=Card	23	nummod	_	_
+25	…	…	PUNCT	FF	_	17	punct	_	SpacesAfter=\n
+

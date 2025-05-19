@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Altro che minoranza Pd:
+1	Altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	minoranza	minoranza	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	Pd	Pd	PROPN	SP	_	3	obj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Renzi dovrà vedersela con tutti noi, partigiani della Costituzione, pronti a fare Resistenza https:// twitter.com/francofontana4 3/status/716328605358374913 …
+1	Renzi	Renzi	ADV	B	_	3	advmod	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3-5	vedersela	_	_	_	_	_	_	_	_
+3	veder	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+4	se	se	SCONJ	CS	_	8	case	_	_
+5	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	tutti	tutto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	partigiani	partigiano	NOUN	S	Gender=Masc|Number=Plur	8	appos	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Costituzione	costituzione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	8	punct	_	_
+15	pronti	pronto	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	fare	fare	VERB	V	VerbForm=Inf	15	advcl	_	_
+18	Resistenza	Resistenza	PROPN	SP	_	17	obj	_	_
+19	https:	https:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	_
+22	twitter.com/francofontana4	twitter.com/francofontana4	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+23	3/status/716328605358374913	3/status/716328605358374913	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

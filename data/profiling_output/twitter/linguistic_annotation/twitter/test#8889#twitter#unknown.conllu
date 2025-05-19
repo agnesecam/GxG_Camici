@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 25 euro per leggermi il futuro quando so già che è una merda anche no, neppure da una nippo.
+1	25	25	NUM	N	NumType=Card	2	nummod	_	_
+2	euro	euro	NOUN	S	Gender=Masc	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	leggermi	leggermo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	quando	quando	SCONJ	CS	_	8	mark	_	_
+8	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+9	già	già	ADV	B	_	8	advmod	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	merda	merda	NOUN	S	Gender=Fem|Number=Sing	8	ccomp	_	_
+14	anche	anche	ADV	B	_	15	advmod	_	_
+15	no	no	ADV	BN	PronType=Neg	13	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	13	punct	_	_
+17	neppure	neppure	ADV	BN	PronType=Neg	20	advmod	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	nippo	nippo	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #leiene
+1	#leiene	#leenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

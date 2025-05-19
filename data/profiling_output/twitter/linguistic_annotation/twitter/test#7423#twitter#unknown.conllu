@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = grano, cantine di vino, etc.
+1	grano	grano	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	cantine	cantina	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	vino	vino	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	etc	etc	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E questi delinquenti legati alle mafie o diventano essi stessi mafiosi si fanno ville, bivaccano.
+1	E	e	CCONJ	CC	_	14	cc	_	_
+2	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
+3	delinquenti	delinquento	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+4	legati	legare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	mafie	mafia	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	diventano	diventare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+11	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+12	mafiosi	mafioso	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	ville	villa	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	17	punct	_	_
+17	bivaccano	bivaccano	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 3
+# text = Ci vogliono
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	vogliono	volere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

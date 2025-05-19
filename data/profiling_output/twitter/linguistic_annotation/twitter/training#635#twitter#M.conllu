@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @R0bert079 ne avessimo segnato solo uno, ma rimontati6sul 2a 0 fa tanto male.
+1	@R0bert079	@R0bert079	NUM	N	NumType=Card	4	nummod	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	segnato	segnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	solo	solo	ADV	B	_	6	advmod	_	_
+6	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	12	punct	_	_
+8	ma	ma	CCONJ	CC	_	12	cc	_	_
+9	rimontati6sul	rimontati6sul	ADJ	A	Number=Sing	10	amod	_	_
+10	2a	2a	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+11	0	0	NUM	N	NumType=Card	10	nummod	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	tanto	tanto	ADV	B	_	14	advmod	_	_
+14	male	male	ADV	B	_	12	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Da Coman poi, ancora di più.
+1	Da	da	ADP	E	_	2	case	_	_
+2	Coman	Coman	PROPN	SP	_	0	root	_	_
+3	poi	poi	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	ancora	ancora	ADV	B	_	7	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	più	più	ADV	B	_	2	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

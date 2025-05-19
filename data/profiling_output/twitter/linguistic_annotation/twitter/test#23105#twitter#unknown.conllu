@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BuonannoG questo vale anche per i leghisti..:" se fossero intelligenti quanto rubano, andremmo su Marte domani mattina!"
+1	@BuonannoG	@Buonannog	SYM	X	_	3	nsubj	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+3	vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	anche	anche	ADV	B	_	7	advmod	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	leghisti..	leghisti..	NOUN	S	_	3	obl	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	12	punct	_	_
+10	se	se	SCONJ	CS	_	12	mark	_	_
+11	fossero	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	intelligenti	intelligente	ADJ	A	Number=Plur	3	advcl	_	_
+13	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	_
+14	rubano	rubano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	andremmo	andere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
+17	su	su	ADP	E	_	18	case	_	_
+18	Marte	Marte	PROPN	SP	_	16	obl	_	_
+19	domani	domani	ADV	B	_	16	advmod	_	_
+20	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	16	punct	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	12	punct	_	SpacesAfter=\n
+

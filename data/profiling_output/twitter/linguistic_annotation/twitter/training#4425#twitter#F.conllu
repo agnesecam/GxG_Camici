@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E ora la Stazione Marittima di #Salerno dovrà essere inaugurata 'in memoriam'... :( http:// fb.me/8efROgFM2
+1	E	e	CCONJ	CC	_	10	cc	_	_
+2	ora	ora	ADV	B	_	10	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Stazione	stazione	PROPN	SP	_	10	nsubj:pass	_	_
+5	Marittima	marittima	PROPN	SP	_	4	flat:name	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	#Salerno	#Salerno	PROPN	SP	_	4	nmod	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+9	essere	essere	AUX	VA	VerbForm=Inf	10	aux:pass	_	_
+10	inaugurata	inaugurare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	'	'	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+12	in	in	ADP	E	_	13	case	_	_
+13	memoriam'...	memoriam'...	NOUN	S	Gender=Masc	16	obl	_	_
+14	:	:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	(	(	PUNCT	FB	_	16	punct	_	_
+16	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	fb.me/8efROgFM2	fb.me/8efROgFM2	PROPN	SP	_	10	nsubj:pass	_	SpacesAfter=\n
+

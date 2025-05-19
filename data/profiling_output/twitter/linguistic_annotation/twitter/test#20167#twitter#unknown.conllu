@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jaxofficial ed è nella mancanza di rispetto degl ' altri che nascono i fascismi.
+1	@jaxofficial	@jaxofficial	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ed	e	CCONJ	CC	_	6	cc	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4-5	nella	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mancanza	mancanza	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	rispetto	rispetto	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	degl	degl	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	'	'	PUNCT	FB	_	8	punct	_	_
+11	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	nascono	nascere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	fascismi	fascismo	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Saluti
+1	Saluti	Saluto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

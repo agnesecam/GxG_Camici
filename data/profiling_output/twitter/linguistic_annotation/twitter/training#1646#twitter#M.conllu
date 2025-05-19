@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Pontifex_it SEI GRANDE FRANCE',PER COME ,SEI ENTRATO NELLE NOSTRE FAMIGLIE E X LE INNOVAZIONI CHE STAI PORTANTO.
+1	@Pontifex_it	@Pontifex_it	PROPN	SP	_	0	root	_	_
+2	SEI	Sei	PROPN	SP	_	1	flat:name	_	_
+3	GRANDE	Grande	PROPN	SP	_	1	flat:name	_	_
+4-5	FRANCE'	_	_	_	_	_	_	_	SpaceAfter=No
+4	FRANCI	FRANCI	PROPN	SP	_	1	flat:name	_	_
+5	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	,PER	,PER	PROPN	SP	_	1	nmod	_	_
+7	COME	Come	PROPN	SP	_	6	flat:name	_	_
+8	,SEI	,SEI	PROPN	SP	_	7	flat:name	_	_
+9	ENTRATO	entrare	PROPN	SP	_	7	flat:name	_	_
+10-11	NELLE	_	_	_	_	_	_	_	_
+10	IN	in	PROPN	SP	_	7	flat:name	_	_
+11	LE	Le	PROPN	SP	_	7	flat:name	_	_
+12	NOSTRE	nostro	PROPN	SP	_	6	flat:name	_	_
+13	FAMIGLIE	famiglia	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	nmod	_	_
+14	E	e	PROPN	SP	_	13	nmod	_	_
+15	X	X	PROPN	SP	_	14	flat:name	_	_
+16	LE	Le	PROPN	SP	_	14	flat:name	_	_
+17	INNOVAZIONI	Innovazioni	PROPN	SP	_	14	flat:name	_	_
+18	CHE	che	PROPN	SP	_	14	flat:name	_	_
+19	STAI	stai	PROPN	SP	_	14	flat:name	_	_
+20	PORTANTO	PORTANTO	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = SIA LODATO GESU' CRISTO.
+1	SIA	sia	PROPN	SP	_	0	root	_	_
+2	LODATO	LODATO	PROPN	SP	_	1	flat:name	_	_
+3	GESU'	GESU'	PROPN	SP	_	1	flat:name	_	_
+4	CRISTO	Cristo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

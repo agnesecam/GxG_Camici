@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dovrà correre un po' più piano... https:// twitter.com/DiMarzio/statu s/717365288673656832 …
+1	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	correre	correre	VERB	V	VerbForm=Inf	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	po'	poco	ADV	B	_	2	advmod	_	_
+5	più	più	ADV	B	_	4	advmod	_	_
+6	piano...	piano...	PUNCT	FS	_	10	punct	_	_
+7	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	_
+10	twitter.com/DiMarzio/statu	twitter.com/DiMarzio/statu	PROPN	SP	_	2	obj	_	_
+11	s/717365288673656832	s/717365288673656832	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

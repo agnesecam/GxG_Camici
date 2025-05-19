@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sei interessato a qualcuna ?
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	interessato	interessato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	_
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = — Si https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM5WDD7KAIS365XC5RBTS2T67UYYWNCII2NUENOQRRKKY7QFYCINWTUWKZRUY7
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+7	7B667HQMHN2IG6NM5WDD7KAIS365XC5RBTS2T67UYYWNCII2NUENOQRRKKY7QFYCINWTUWKZRUY7	7B667HQMHN2IG6NM5WDD7KAIS365XC5RBTS2T67UYYWNCII2NUENOQRRKKY7QFYCINWTUWKZRUY7	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+
+# sent_id = 3
+# text = O5MSP
+1	O5MSP	O5MSP	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = L
+1	L	L	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = ULNAZX
+1	ULNAZX	ULNAZX	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA= …
+1	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

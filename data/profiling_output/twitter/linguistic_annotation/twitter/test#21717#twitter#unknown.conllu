@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = a volte sembri convincente.
+1	a	a	ADP	E	_	2	case	_	_
+2	volte	volta	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+3	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	convincente	convincente	ADJ	A	Number=Sing	3	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...quando incoraggi i magistrati a correre, le pensioni minime 80 euro in più sembri un..
+1	...quando	...quare	VERB	V	VerbForm=Ger	0	root	_	_
+2	incoraggi	incoraggio	ADV	B	_	1	advmod	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	magistrati	magistrato	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	correre	correre	VERB	V	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	pensioni	pensione	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+10	minime	minimo	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+11	80	80	NUM	N	NumType=Card	12	nummod	_	_
+12	euro	euro	NOUN	S	Gender=Masc	9	nmod	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	sembri	sembre	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+16	un.	uumero	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/MediasetTgcom2 4/status/717380069862338561 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/MediasetTgcom2	twitter.com/MediasetTgcom2	PROPN	SP	_	0	root	_	_
+5	4	4	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+6	/status/717380069862338561	/status/717380069862338561	NUM	N	NumType=Card	4	nummod	_	_
+7	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

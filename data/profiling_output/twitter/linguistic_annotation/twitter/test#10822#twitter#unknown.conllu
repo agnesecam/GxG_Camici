@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bezker1 @PeroMatteo @Wu_Ming_Foundt La realtà dei fatti è spesso assai più complessa di quanto riportano gli scritti
+1	@bezker1	@bezkerl	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@PeroMatteo	@PeroMatteo	PROPN	SP	_	13	nsubj	_	_
+3	@Wu_Ming_Foundt	@Wu_Ming_Foundt	PROPN	SP	_	2	flat:name	_	_
+4	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	realtà	realtà	NOUN	S	Gender=Fem	13	nsubj	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+10	spesso	spesso	ADV	B	_	13	advmod	_	_
+11	assai	assai	ADV	B	_	13	advmod	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	complessa	complesso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	13	obl	_	_
+16	riportano	riportare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	scritti	scritto	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	SpacesAfter=\n
+

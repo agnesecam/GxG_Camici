@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BBarlozzini @AlessandroRuina @moretti_walter e su ciò che ancora non è certo vale Principio di Precauzione.
+1	@BBarlozzini	@BBarlozzini	PROPN	SP	_	0	root	_	_
+2	@AlessandroRuina	@AlessandroRuina	PROPN	SP	_	1	flat:name	_	_
+3	@moretti_walter	@moretti_waltere	NOUN	S	Number=Sing	1	nmod	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	conj	_	_
+7	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+8	ancora	ancora	ADV	B	_	12	advmod	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	certo	certo	ADV	B	_	12	advmod	_	_
+12	vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+13	Principio	principio	PROPN	SP	_	12	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Precauzione	precauzione	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Un medico dovrebbe saperlo
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	medico	medico	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4-5	saperlo	_	_	_	_	_	_	_	SpacesAfter=\n
+4	saper	sapere	VERB	V	VerbForm=Inf	0	root	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+

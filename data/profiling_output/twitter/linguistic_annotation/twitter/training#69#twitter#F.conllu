@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perche le multinazionali possono evadere le tasse se noi le dobbiamo pagare?
+1	Perche	Perca	ADV	B	_	5	advmod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	multinazionali	multinazionale	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+4	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	evadere	evadere	VERB	V	VerbForm=Inf	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	se	se	SCONJ	CS	_	12	mark	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+10	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	iobj	_	_
+11	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	pagare	pagare	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Firma subito x una giusta #tassazione - https:// act.wemove.eu/campaigns/no-b revetti-vita?utm_medium=twitter?utm_campaign=MeJwKXIKWf …
+1	Firma	firmare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	subito	subito	ADV	B	_	1	advmod	_	_
+3	x	x	SYM	SYM	_	15	obj	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	#tassazione	#tassazione	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+7	-	-	PUNCT	FF	_	8	punct	_	_
+8	https:	https:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	_
+11	act.wemove.eu/campaigns/no-b	act.wemove.eu/campaigns/no-b	NOUN	S	_	12	nmod	_	_
+12	revetti	revetto	NOUN	S	Gender=Masc	6	nmod	_	SpaceAfter=No
+13	-vita	-vito	ADJ	A	Number=Sing	12	amod	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+15	utm_medium=twitter	utm_medium=twittere	VERB	V	VerbForm=Inf	1	csubj	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	15	punct	_	SpaceAfter=No
+17	utm_campaign=MeJwKXIKWf	utm_campaign=MeJwKXIKWf	PROPN	SP	_	15	obl	_	_
+18	…	…	PUNCT	FF	_	17	punct	_	SpacesAfter=\n
+

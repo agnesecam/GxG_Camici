@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GiorgiaMeloni Non eravate ministri nel governo Berlusconi?
+1	@GiorgiaMeloni	@GiorgiaMeloni	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	eravate	erare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	ministri	ministrare	NOUN	S	Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	governo	governo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	Berlusconi	Berlusconi	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = solo oggi ti accorgi che è incapace?
+1	solo	solo	ADV	B	_	4	advmod	_	_
+2	oggi	oggi	ADV	B	_	4	advmod	_	_
+3	ti	to	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+4	accorgi	accorgio	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	incapace	incapace	ADJ	A	Number=Sing	4	ccomp	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = manco tu allora devi essere un'aquila!!!
+1	manco	manco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+3	allora	allora	ADV	B	_	2	advmod	_	_
+4	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+6	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	aquila	aquila	NOUN	S	Gender=Fem|Number=Sing	1	ccomp	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+9	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Liam è quel tipo di persona che merita il mondo,ma che il mondo non merita.Può sembrare una frase fatta, ma è un ragazzo stupendo#WeLoveLiam
+1	Liam	Liam	PROPN	SP	_	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	persona	persona	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	merita	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mondo,ma	mondo,ma	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	che	che	SCONJ	CS	_	16	mark	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	merita.Pu	merita.Pu	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	ò	e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl	_	_
+17	sembrare	sembrare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	frase	frase	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+20	fatta	fatto	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	25	punct	_	_
+22	ma	ma	CCONJ	CC	_	25	cc	_	_
+23	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+24	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+26	stupendo	stupire	VERB	V	VerbForm=Ger	25	advcl	_	SpaceAfter=No
+27	#	#	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+28	WeLoveLiam	WeLoveLiam	PROPN	SP	_	26	obj	_	SpacesAfter=\n
+

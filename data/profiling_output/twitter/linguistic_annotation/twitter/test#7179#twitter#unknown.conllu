@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il momento giusto in cui un padre può lasciare i figli é quando essi capiscono di non poter fare a meno di lui.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	momento	momento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	cui	cui	PRON	PR	PronType=Rel	9	obl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	padre	padre	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	lasciare	lasciare	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12	é	é	CCONJ	CC	_	15	cc	_	_
+13	quando	quando	SCONJ	CS	_	15	mark	_	_
+14	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+15	capiscono	capire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+16	di	di	ADP	E	_	19	mark	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	poter	potere	AUX	VM	VerbForm=Inf	19	aux	_	_
+19	fare	fare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	meno	meno	ADV	B	_	19	advmod	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

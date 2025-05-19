@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = t'amo senza sapere come, né quando né da dove, t'amo direttamente senza problemi né orgoglio:
+1	t'	ta	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	SpaceAfter=No
+2	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	senza	senza	ADP	E	_	4	mark	_	_
+4	sapere	sapere	VERB	V	VerbForm=Inf	2	advcl	_	_
+5	come	come	SCONJ	CS	_	14	mark	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	14	punct	_	_
+7	né	né	CCONJ	CC	_	14	cc	_	_
+8	quando	quando	SCONJ	CS	_	14	mark	_	_
+9	né	né	CCONJ	CC	_	14	cc	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	dove	dove	ADV	B	_	14	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	t'	ta	PRON	PI	Number=Sing|PronType=Ind	14	obj	_	SpaceAfter=No
+14	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+15	direttamente	direttamente	ADV	B	_	14	advmod	_	_
+16	senza	senza	ADP	E	_	17	case	_	_
+17	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+18	né	né	CCONJ	CC	_	19	cc	_	_
+19	orgoglio	orgoglio	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	SpaceAfter=No
+20	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = così ti amo perché non so amare altrimenti
+1	così	così	ADV	B	_	3	advmod	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	perché	perché	SCONJ	CS	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	amare	amare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	altrimenti	altrimenti	ADV	B	_	7	advmod	_	SpacesAfter=\n
+

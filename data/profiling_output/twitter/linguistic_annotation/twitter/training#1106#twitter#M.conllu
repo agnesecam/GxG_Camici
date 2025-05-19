@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rimango incantato a guardare un ape bombus che raccogli il polline dalla mia calendula e mi accorgo delle piccole meraviglie della vita
+1	Rimango	Rimango	ADV	B	_	2	advmod	_	_
+2	incantato	incantare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	guardare	guardare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ape	apo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	bombus	bombus	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+9	raccogli	raccogli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl:relcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	polline	polline	NOUN	S	Gender=Masc|Number=Sing	9	appos	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	15	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	calendula	calendula	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	18	obj	_	_
+18	accorgo	accorgere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+19-20	delle	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	22	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+21	piccole	piccolo	ADJ	A	Gender=Fem|Number=Plur	22	amod	_	_
+22	meraviglie	meraviglia	NOUN	S	Gender=Fem|Number=Plur	18	obl	_	_
+23-24	della	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	vita	vita	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	SpacesAfter=\n
+

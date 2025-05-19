@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @magrabeg Qua l'unica #Scema sei tu Esci dentro , #Cogliona #Ignorante E la lingua #MettitelaNelCulo non tirarla fuori #PoveraItalia
+1	@magrabeg	@magrabeg	SYM	X	_	0	root	_	_
+2	Qua	qua	PROPN	SP	_	1	flat:name	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+4	unica	unico	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+5	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	Scema	Scema	PROPN	SP	_	1	nmod	_	_
+7	sei	essere	NUM	N	NumType=Card	8	nummod	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	Esci	Ere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+10	dentro	dentro	ADV	B	_	20	advmod	_	_
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	#Cogliona	#Cogliona	PROPN	SP	_	20	obl	_	_
+13	#	#	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	Ignorante	Ignorante	PROPN	SP	_	20	obj	_	_
+15	E	e	CCONJ	CC	_	20	cc	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	20	nsubj	_	_
+18	#MettitelaNelCulo	#MettitelaNelCulo	PROPN	SP	_	17	nmod	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20-21	tirarla	_	_	_	_	_	_	_	_
+20	tirar	tirare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+21	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+22	fuori	fuori	ADV	B	_	20	advmod	_	_
+23	#PoveraItalia	#PoveraItalia	PROPN	SP	_	20	obl	_	SpacesAfter=\n
+

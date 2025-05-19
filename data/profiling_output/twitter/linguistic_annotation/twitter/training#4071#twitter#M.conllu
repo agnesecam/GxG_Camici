@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = INTERCETTATI DUE BIG DEL FMI:
+1	INTERCETTATI	INTERCETTATI	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	DUE	due	PROPN	SP	_	0	root	_	_
+3	BIG	big	PROPN	SP	_	2	flat:name	_	_
+4-5	DEL	_	_	_	_	_	_	_	_
+4	DI	Di	ADP	E	_	5	case	_	_
+5	IL	il	PROPN	SP	_	2	nmod	_	_
+6	FMI	Fmi	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = ‘SE LA GRECIA VERRA’ SOTTOPOSTA ALLE GIUSTE PRESSIONI, DOVRA ’ CEDERE’ http:// m.dagospia.com/intercettati-d ue-big-del-fmi-se-la-grecia-verra-sottoposta-alle-giuste-pressioni-dovra-cedere-122050 …
+1	‘SE	‘SE	PROPN	SP	_	0	root	_	_
+2	LA	La	PROPN	SP	_	1	flat:name	_	_
+3	GRECIA	Grecia	PROPN	SP	_	1	flat:name	_	_
+4	VERRA’	VERRAo	PROPN	SP	_	1	nmod	_	_
+5	SOTTOPOSTA	sottoposta	PROPN	SP	_	4	flat:name	_	_
+6-7	ALLE	_	_	_	_	_	_	_	_
+6	A	a	ADP	E	_	7	case	_	_
+7	LE	il	PROPN	SP	_	4	flat:name	_	_
+8	GIUSTE	giuste	PROPN	SP	_	4	flat:name	_	_
+9	PRESSIONI	pressioni	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	DOVRA	DOVRA	PROPN	SP	_	4	conj	_	_
+12	’	’	PUNCT	FF	_	13	punct	_	_
+13	CEDERE’	cedere’	PROPN	SP	_	4	conj	_	_
+14	http:	http:	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	m.dagospia.com/intercettati-d	m.dagospia.com/intercettati-d	NOUN	S	Gender=Fem	22	nmod	_	_
+18	ue	ue	ADJ	A	Gender=Fem|Number=Plur	22	amod	_	SpaceAfter=No
+19	-	-	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+20	big-del	big-del	ADJ	A	_	22	amod	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	fmi-se-la	fmi-se-la	NOUN	S	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+23	-grecia-verra-sottoposta-alle	-grecia-verra-sottoposta-allo	ADJ	A	Number=Sing	26	amod	_	SpaceAfter=No
+24	-	-	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	giuste	giusto	ADJ	A	Gender=Fem|Number=Plur	26	amod	_	SpaceAfter=No
+26	-pressioni	-pressione	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+27	-	-	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+28	dovra	dovra	ADP	E	_	29	mark	_	SpaceAfter=No
+29	-cedere	-cedere	VERB	V	VerbForm=Inf	26	acl	_	SpaceAfter=No
+30	-	-	PUNCT	FF	_	29	punct	_	SpaceAfter=No
+31	122050	122050	NUM	N	NumType=Card	29	nummod	_	_
+32	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

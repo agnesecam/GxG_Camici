@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La poesia e la sana follia Meriniana approdano in calabria.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	poesia	poesia	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	sana	sano	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	follia	follia	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+7	Meriniana	Meriniana	PROPN	SP	_	6	nmod	_	_
+8	approdano	approdare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	calabria	calabria	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Teatro Primo, Villa San Giovanni.
+1	Teatro	Teatro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Primo	primo	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	Villa	Villa	PROPN	SP	_	1	appos	_	_
+5	San	San	PROPN	SP	_	4	flat:name	_	_
+6	Giovanni	Giovanni	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Il 16 aprile sarò ... http:// fb.me/2Q5sJEkeC
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	16	16	NUM	N	NumType=Card	9	obl	_	_
+3	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	9	cop	_	_
+5	...	...	PUNCT	FF	_	4	punct	_	_
+6	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	fb.me/2Q5sJEkeC	fb.me/2Q5sJEkeC	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

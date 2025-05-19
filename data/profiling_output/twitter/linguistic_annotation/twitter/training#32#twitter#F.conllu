@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cenaconme @beabol75 Perché il nostro fiume è sempre magia!!!
+1	@cenaconme	@cenaconme	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	@beabol75	@beabol75	NUM	N	NumType=Card	1	nummod	_	_
+3	Perché	perché	ADV	B	_	9	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	fiume	fiume	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	sempre	sempre	ADV	B	_	9	advmod	_	_
+9	magia!!	magia!!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È il nostro "cantante da piano bar" unico.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+4	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	cantante	cantare	NOUN	S	Number=Sing	0	root	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	piano	piano	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+8	bar	bar	NOUN	S	Gender=Masc	5	compound	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	10	punct	_	_
+10	unico	unico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #lavatoio pic.twitter.com/BKv8yDQwUA
+1	#lavatoio	#lavatoio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	pic.twitter.com/BKv8yDQwUA	pic.twitter.com/BKv8yDQwUA	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

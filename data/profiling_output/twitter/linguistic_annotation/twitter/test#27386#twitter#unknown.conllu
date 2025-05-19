@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LaStradadeiMiracoli Meningite...
+1	#LaStradadeiMiracoli	#LaStradadeiMiracoli	PROPN	SP	_	0	root	_	_
+2	Meningite..	Meningite..	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = anche io la ebbi .
+1	anche	anche	ADV	B	_	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ebbi	ebbio	NOUN	S	Number=Plur	0	root	_	_
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Non mi guarí un miracolo ma un anziano medico che non c'è piú.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	guarí	guarí	PROPN	SP	_	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	miracolo	miracolo	NOUN	S	Gender=Masc|Number=Sing	3	flat:name	_	_
+6	ma	ma	CCONJ	CC	_	9	cc	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	anziano	anziano	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	medico	medico	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	SpaceAfter=No
+13	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+14	piú.	piú.	NOUN	S	_	13	nsubj	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ..questo è un santo
+1	..questo	..questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	santo	santo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lucatelese E' vero ma comunque i governi d'Europa non collaborano neppure difronte a una vera e propria guerra.
+1	@lucatelese	@lucatelese	ADJ	A	Number=Sing	3	nsubj	_	_
+2	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	ma	ma	CCONJ	CC	_	11	cc	_	_
+5	comunque	comunque	ADV	B	_	11	advmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	governi	governo	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+8	d'	di	ADP	E	_	9	case	_	SpaceAfter=No
+9	Europa	Europa	PROPN	SP	_	7	nmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	collaborano	collaborare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	13	advmod	_	_
+13	difronte	difronte	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	advcl	_	_
+14	a	a	ADP	E	_	19	case	_	_
+15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+16	vera	vero	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	propria	proprio	ADJ	A	Gender=Fem|Number=Sing	16	conj	_	_
+19	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

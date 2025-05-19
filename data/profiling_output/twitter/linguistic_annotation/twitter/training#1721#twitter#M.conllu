@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giovanna_dt @peppe3355 non ho visto lo stesso impegno per lo scempio "di necessità " fatto sulle nostre coste #ambienteadorologeria
+1	@giovanna_dt	@giovanna_dt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@peppe3355	@peppe3355	NUM	N	NumType=Card	5	nummod	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	impegno	impegno	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	scempio	scempio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+13	di	di	ADP	E	_	14	case	_	_
+14	necessità	necessità	NOUN	S	Gender=Fem	11	nmod	_	_
+15	"	"	PUNCT	FB	_	14	punct	_	_
+16	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+17-18	sulle	_	_	_	_	_	_	_	_
+17	su	su	ADP	E	_	20	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+19	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	coste	costa	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+21	#ambienteadorologeria	#ambienteadorologerio	ADJ	A	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	amod	_	SpacesAfter=\n
+

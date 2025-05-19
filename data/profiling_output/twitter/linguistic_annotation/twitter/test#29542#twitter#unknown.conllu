@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #UniversoVersi @PaolaToogoodxme @mariangelabruzz siede laTerra dove nata fui su la marina dove'l Po discende per...* pic.twitter.com/gnCc0YnjHe
+1-2	#UniversoVersi	_	_	_	_	_	_	_	_
+1	#Universover	#Universovere	AUX	VA	VerbForm=Inf	5	aux	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+3	@PaolaToogoodxme	@PaolaToogoodxme	ADJ	A	Number=Sing	4	amod	_	_
+4	@mariangelabruzz	@mariangelabruzz	NOUN	S	Gender=Masc	5	obl	_	_
+5	siede	sedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	laTerra	laTerra	PROPN	SP	_	5	nsubj	_	_
+7	dove	dove	ADV	B	_	8	advmod	_	_
+8	nata	nascere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+9	fui	fuo	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	su	su	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	marina	marina	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+13	dove	dove	ADV	B	_	15	advmod	_	SpaceAfter=No
+14	'l	'l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Po	Po	PROPN	SP	_	9	acl:relcl	_	_
+16	discende	discendere	ADP	E	_	18	case	_	_
+17	per...*	per...*	PUNCT	FF	_	18	punct	_	_
+18	pic.twitter.com/gnCc0YnjHe	pic.twitter.com/gncc0ynjhe	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

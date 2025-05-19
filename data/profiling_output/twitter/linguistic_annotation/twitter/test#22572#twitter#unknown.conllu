@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In bocca al lupo!
+1	In	in	ADP	E	_	2	case	_	_
+2	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Certo che se ce la facessi sarebbe davvero un bel colpo!! https:// twitter.com/ignaziomarino/ status/707890898474938368 …
+1	Certo	certo	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	ce	ci	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	facessi	facesso	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+7	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+8	davvero	davvero	ADV	B	_	11	advmod	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	bel	bello	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	colpo	colpo	NOUN	S	Gender=Masc|Number=Sing	4	ccomp	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	18	punct	_	_
+14	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	_
+17	twitter.com/ignaziomarino/	twitter.com/ignaziomarino/	PUNCT	FF	_	14	punct	_	_
+18	status/707890898474938368	status/707890898474938368	NUM	N	NumType=Card	11	nummod	_	_
+19	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

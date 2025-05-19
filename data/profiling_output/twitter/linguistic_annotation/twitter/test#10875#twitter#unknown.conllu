@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Certo che Facebook potrebbe implementare la ricerca tramite descrizione fisica.
+1	Certo	certo	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	Facebook	Facebook	PROPN	SP	_	5	nsubj	_	_
+4	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	implementare	implementare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ricerca	ricerca	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	tramite	tramite	ADP	E	_	9	case	_	_
+9	descrizione	descrizione	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	fisica	fisico	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Che cazzo, altrimenti uno come può fare lo stalker per bene?
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	8	punct	_	_
+4	altrimenti	altrimenti	CCONJ	CC	_	8	cc	_	_
+5	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	_
+6	come	come	ADV	B	_	8	advmod	_	_
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	stalker	stalker	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	bene	bene	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

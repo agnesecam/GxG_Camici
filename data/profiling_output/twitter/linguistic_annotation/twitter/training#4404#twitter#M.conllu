@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cerruti:
+1	Cerruti	Cerruto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Per Bonaventura domenica partita speciale.
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Per	per	ADP	E	_	3	case	_	_
+3	Bonaventura	Bonaventura	PROPN	SP	_	5	nmod	_	_
+4	domenica	domenica	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	partita	partita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	speciale	speciale	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Il Milan dovrà cercare di trattenerlo in... http:// fb.me/3F5ZhZPG8
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Milan	Milan	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	cercare	cercare	VERB	V	VerbForm=Inf	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6-7	trattenerlo	_	_	_	_	_	_	_	_
+6	trattener	trattenere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	in...	in...	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	_
+12	fb.me/3F5ZhZPG8	fb.me/3F5ZhZPG8	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

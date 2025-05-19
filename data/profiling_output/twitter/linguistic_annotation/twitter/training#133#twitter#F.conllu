@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi ricordo che la 2° stagione la vidi in spagnolo, perché alla Mediaset piaceva fare un bel po' di taglia alle scene #9YearsOfPatitoFeo
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	2°	2°	ADJ	NO	NumType=Ord	6	amod	_	_
+6	stagione	stagione	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	vidi	vidio	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	spagnolo	spagnolo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	8	punct	_	_
+12	perché	perché	SCONJ	CS	_	16	mark	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Mediaset	Mediaset	PROPN	SP	_	16	obl	_	_
+16	piaceva	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+17	fare	fare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	bel	bello	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+20	po'	poco	ADV	B	_	22	advmod	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	taglia	taglio	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	_
+23-24	alle	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	25	case	_	_
+24	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
+25	scene	scena	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
+26	#9YearsOfPatitoFeo	#9YearsOfPatitoFeo	PROPN	SP	_	25	nmod	_	SpacesAfter=\n
+

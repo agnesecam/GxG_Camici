@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MariaBattiston1 e io cn te!IL tempo ci dirà,Sia fatta la volontà dl Signore!LUI farà la cosa giusta!Lasciamoci sorprendere da LUI!
+1	@MariaBattiston1	@MariaBattiston1	PROPN	SP	_	8	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	conj	_	_
+4	cn	cno	ADP	E	_	6	case	_	_
+5	te!IL	te!il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	dirà	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
+9	,Sia	,sia	PROPN	SP	_	8	obj	_	_
+10	fatta	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	volontà	volontà	NOUN	S	Gender=Fem	10	nsubj	_	_
+13	dl	dl	ADJ	A	Number=Sing	12	amod	_	_
+14	Signore!LUI	Signore!lui	PRON	PR	PronType=Rel	15	nsubj	_	_
+15	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	acl:relcl	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+18	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
+19	!Lasciamoci	!Lasciamoco	PROPN	SP	_	15	xcomp	_	_
+20	sorprendere	sorprendere	VERB	V	VerbForm=Inf	15	ccomp	_	_
+21	da	da	ADP	E	_	22	case	_	_
+22	LUI	lui	PROPN	SP	_	20	obl	_	SpaceAfter=No
+23	!	!	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

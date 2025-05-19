@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 4 israeliani prigionieri a Gaza.
+1	4	4	NUM	N	NumType=Card	2	nummod	_	_
+2	israeliani	israeliano	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	prigionieri	prigioniero	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Gaza	Gaza	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Per conoscerne le condizioni Israele deve pagare e per riaverli dovrà pagare di più . Come la ndrangheta!
+1	Per	per	ADP	E	_	2	mark	_	_
+2-3	conoscerne	_	_	_	_	_	_	_	_
+2	conoscer	conoscere	VERB	V	VerbForm=Inf	8	advcl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	condizioni	condizione	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	Israele	Israele	PROPN	SP	_	5	nmod	_	_
+7	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11-12	riaverli	_	_	_	_	_	_	_	_
+11	riaver	riavere	VERB	V	VerbForm=Inf	8	conj	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+13	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14	pagare	pagare	VERB	V	VerbForm=Inf	11	ccomp	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	più	più	ADV	B	_	14	advmod	_	_
+17	.	.	PUNCT	FS	_	14	punct	_	_
+18	Come	come	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	ndrangheta	ndrangheta	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

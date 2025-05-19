@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Certa gente mette il becco dappertutto .
+1	Certa	certo	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	gente	gente	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	becco	becco	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	dappertutto	dappertutto	ADV	B	_	5	advmod	_	_
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Anzichè discendere dalla scimmia, discende dalla gallina
+1	Anzichè	anziché	ADV	B	_	2	advmod	_	_
+2	discendere	discendere	VERB	V	VerbForm=Inf	7	advcl	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	scimmia	scimmia	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	discende	discendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	gallina	gallina	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpacesAfter=\n
+

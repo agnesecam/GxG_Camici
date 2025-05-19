@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fornovo:
+1	Fornovo	Fornovo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = sì alla globalizzazione, ma mantenendo intatte le nostre radici - RTA VIDEOTARO.
+1	sì	sì	ADV	B	_	4	advmod	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	globalizzazione	globalizzazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7	mantenendo	mantenere	VERB	V	VerbForm=Ger	4	conj	_	_
+8	intatte	intatto	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	radici	radice	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
+12	-	-	PUNCT	FF	_	11	punct	_	_
+13	RTA	RTA	PROPN	SP	_	4	nmod	_	_
+14	VIDEOTARO.	VIDEOTARO.	PROPN	SP	_	13	flat:name	_	_
+
+# sent_id = 3
+# text = TG 19.35 http://www.
+1	TG	Tg	SYM	X	_	0	root	_	_
+2	19.35	19.35	NUM	N	NumType=Card	1	nummod	_	_
+3	http://www	http://www	NOUN	S	_	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = videotaro.it/news_dettagli.
+1	videotaro.it/news_dettagli	videotaro.it/news_dettaglio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = php?idnews=10648#.VwZlASXoqmU.twitter …
+1	php	php	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+3	idnews=10648	idnews=10648	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+4	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	.VwZlASXoqmU.twitter	.VwZlASXoqmU.twitter	PROPN	SP	_	1	nmod	_	_
+6	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

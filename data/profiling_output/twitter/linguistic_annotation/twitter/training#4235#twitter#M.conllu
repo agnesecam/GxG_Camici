@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa sconfitta è tutta colpa di #Mancini che dovrà spiegare l'assurdo pazzesco cambio di #Icardi ... #InterTorino
+1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	sconfitta	sconfitta|sconfitto	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	tutta	tutto	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	#Mancini	#Mancini	PROPN	SP	_	5	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	spiegare	spiegare	VERB	V	VerbForm=Inf	7	acl:relcl	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+12	assurdo	assurdo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+13	pazzesco	pazzesco	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	#Icardi	#Icardi	PROPN	SP	_	14	nmod	_	_
+17	...	...	PUNCT	FF	_	14	punct	_	_
+18	#	#	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+19	InterTorino	InterTorino	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

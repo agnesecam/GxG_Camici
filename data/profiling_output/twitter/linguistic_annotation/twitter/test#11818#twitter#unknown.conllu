@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Guardavamo nella stessa direzione, ma non stavamo #cullando lo stesso sogno!
+1	Guardavamo	Guardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2-3	nella	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	5	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	direzione	direzione	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	#cullando	#cullare	VERB	V	VerbForm=Ger	1	conj	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #gerundi pic.twitter.com/t8tG1vARu7
+1	#gerundi	#gerundo	CCONJ	CC	_	2	cc	_	_
+2	pic.twitter.com/t8tG1vARu7	pic.twitter.com/t8tG1vARu7	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = -ricambi e prima di entrare do lo zaino si miei, dentro mi porto solo il cellulare,caricatore e i cartelloni
+1	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	ricambi	ricambio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	prima	prima	ADV	B	_	6	mark	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	entrare	entrare	VERB	V	VerbForm=Inf	2	conj	_	_
+7	do	do	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	zaino	zaino	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+11	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	dentro	dentro	ADV	B	_	15	advmod	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	obj	_	_
+15	porto	porire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+16	solo	solo	ADV	B	_	19	advmod	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	cellulare	cellulare	ADJ	A	Number=Sing	19	amod	_	SpaceAfter=No
+19	,caricatore	,caricatore	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+20	e	e	CCONJ	CC	_	22	cc	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	cartelloni	cartellone	NOUN	S	Gender=Masc|Number=Plur	19	conj	_	SpacesAfter=\n
+

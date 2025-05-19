@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = GIANNI BELLA non si puo morire dentro http:// fb.me/Y4033NyP
+1	GIANNI	Gianni	PROPN	SP	_	5	nsubj	_	_
+2	BELLA	bella	PROPN	SP	_	1	flat:name	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	puo	puo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	morire	morire	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	dentro	dentro	ADV	B	_	6	advmod	_	_
+8	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	_
+11	fb.me/Y4033NyP	fb.me/Y4033NyP	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

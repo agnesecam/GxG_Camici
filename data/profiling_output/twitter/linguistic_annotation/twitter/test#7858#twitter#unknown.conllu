@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque con "Panama tutto regolare" si certifica ufficialmente la visione renziana, via Davide Serra, della ben nota "fiscalità di vantaggio"
+1	Dunque	dunque	ADV	B	_	9	advmod	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	Panama	Panama	PROPN	SP	_	9	obl	_	_
+5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+6	regolare	regolare	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	4	punct	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	certifica	certificare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	ufficialmente	ufficialmente	ADV	B	_	9	advmod	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	visione	visione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+13	renziana	renziano	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	via	via	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	_
+16	Davide	Davide	PROPN	SP	_	15	nmod	_	_
+17	Serra	serra	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	12	punct	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	24	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+21	ben	bene	ADV	B	_	22	advmod	_	_
+22	nota	noto	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	_
+23	"	"	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+24	fiscalità	fiscalità	NOUN	S	Gender=Fem	12	nmod	_	_
+25	di	di	ADP	E	_	26	case	_	_
+26	vantaggio	vantaggio	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	"	"	PUNCT	FB	_	9	punct	_	SpacesAfter=\n
+

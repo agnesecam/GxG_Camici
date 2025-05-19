@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ok allora proviamo:
+1	Ok	Ok	PROPN	SP	_	3	nsubj	_	_
+2	allora	allora	ADV	B	_	3	advmod	_	_
+3	proviamo	provire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = #SeBattiamoIlBayern , cosa sareste disposti a fare?
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	SeBattiamoIlBayern	SeBattiamoIlBayern	PROPN	SP	_	5	vocative	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	nsubj	_	_
+5	sareste	saresto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	disposti	disporre	ADJ	A	Gender=Masc|Number=Plur	5	xcomp	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	6	advcl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = @juventibus @juventusfc https:// twitter.com/ioscabot/statu s/710049814436782080 …
+1	@juventibus	@juventibus	NOUN	S	Gender=Masc	7	nmod	_	_
+2	@juventusfc	@juventusfc	NOUN	S	Gender=Masc	1	compound	_	_
+3	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	twitter.com/ioscabot/statu	twitter.com/ioscabot/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	s/710049814436782080	s/710049814436782080	NUM	N	NumType=Card	0	root	_	_
+8	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

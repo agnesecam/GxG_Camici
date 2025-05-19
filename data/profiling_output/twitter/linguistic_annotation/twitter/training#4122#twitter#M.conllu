@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iCapiscers Con qualcuno dovrà pur fare amicizia altrimenti rimane solo il 98% delle persone che lo prendono per il culo.
+1	@iCapiscers	@iCapiscers	PROPN	SP	_	6	nsubj	_	_
+2	Con	con	PROPN	SP	_	1	flat:name	_	_
+3	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+5	pur	pure	ADV	B	_	6	advmod	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+7	amicizia	amicizia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	altrimenti	altrimenti	CCONJ	CC	_	9	cc	_	_
+9	rimane	rimanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	solo	solo	ADV	B	_	9	advmod	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	98	98	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+13	%	%	SYM	SYM	_	9	obj	_	_
+14-15	delle	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	persone	persona	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+17	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	culo	culo	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @enzobianchi7 ... trasmettiamo tenerezza e comprensione.
+1	@enzobianchi7	@enzobianchi7	NUM	N	NumType=Card	3	nummod	_	_
+2	...	...	PUNCT	FF	_	1	punct	_	_
+3	trasmettiamo	trasmettere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tenerezza	tenerezza	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	comprensione	comprensione	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Comunichiamo le nostre emozione senza parlare.
+1	Comunichiamo	Comunichare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	emozione	emozione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5	senza	senza	ADP	E	_	6	mark	_	_
+6	parlare	parlare	VERB	V	VerbForm=Inf	1	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

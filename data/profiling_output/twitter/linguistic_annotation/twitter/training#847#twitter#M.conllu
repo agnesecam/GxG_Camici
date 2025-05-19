@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dibattito/
+1	Dibattito	dibattito	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 2
+# text = Se invece del #Risorgimento avessimo costruito gli #StatiUniti d'Italia?
+1	Se	se	SCONJ	CS	_	8	mark	_	_
+2	invece	invece	ADV	B	_	8	advmod	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	Risorgimento	Risorgimento	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	costruito	costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	#StatiUniti	#StatiUniti	PROPN	SP	_	8	nsubj	_	_
+11	d'	di	ADP	E	_	12	case	_	SpaceAfter=No
+12	Italia	Italia	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = destra.it/dibattito-inve ce-del-risorgimento-avessimo-costruito-gli-stati-uniti-ditalia/ …
+1	destra.it/dibattito-inve	destra.it/dibattito-invere	ADV	B	_	7	advmod	_	_
+2	ce-del-	_	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	risorgimento	risorgimento	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	avessimo-costruito	avessimo-costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	gli-stati	gli-stare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+8	-uniti	-unito	ADJ	A	Number=Plur	7	amod	_	SpaceAfter=No
+9	-ditalia	-ditalia	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

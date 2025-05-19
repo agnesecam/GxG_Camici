@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fattoquotidiano per fortuna che 51 anni fa c'è stato incidente, altrimenti come facevate ??
+1	@fattoquotidiano	@fattoquotidiare	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+4	che	che	SCONJ	CS	_	10	mark	_	_
+5	51	51	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+7	fa	fa	ADV	B	_	6	advmod	_	_
+8	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	SpaceAfter=No
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	stato	stato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+11	incidente	incidente	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	1	punct	_	_
+13	altrimenti	altrimenti	ADV	B	_	15	advmod	_	_
+14	come	come	SCONJ	CS	_	15	mark	_	_
+15	facevate	facevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+16	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MissSamyJu avessimo perso non avrei detto una parola sull'arbitraggio.
+1	@MissSamyJu	@MissSamyJu	PROPN	SP	_	3	nsubj	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	perso	perso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	parola	parola	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9-10	sull'	_	_	_	_	_	_	_	SpaceAfter=No
+9	su	su	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	arbitraggio	arbitraggio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Siamo in finale e posso dirlo:
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	finale	finale	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6-7	dirlo	_	_	_	_	_	_	_	SpaceAfter=No
+6	dir	dire	VERB	V	VerbForm=Inf	3	conj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = Gervasoni imbarazzante.
+1	Gervasoni	Gervasone	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	imbarazzante	imbarazzante	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = #InterJuve
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	InterJuve	InterJuve	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

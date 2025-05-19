@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @zazzatweet ma come allenatore, dal punto di vista dello spettacolo, brutto assai
+1	@zazzatweet	@zazzatweet	NOUN	S	Gender=Masc	0	root	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	allenatore	allenatore	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6-7	dal	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	punto	punto	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	vista	vista	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11-12	dello	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	8	punct	_	_
+15	brutto	brutto	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+16	assai	assai	ADV	B	_	8	advmod	_	SpacesAfter=\n
+

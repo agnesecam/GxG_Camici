@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un altro ministro in conflitto di interesse (e che dunque verrà difeso dai garantisti pelosi,scudi umani ) #Guidi https:// twitter.com/tweetpolitica/ status/715565959654674432 …
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	altro	altro	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	conflitto	conflitto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+9	e	e	CCONJ	CC	_	13	cc	_	_
+10	che	che	PRON	PR	PronType=Rel	13	nsubj:pass	_	_
+11	dunque	dunque	ADV	B	_	13	advmod	_	_
+12	verrà	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux:pass	_	_
+13	difeso	difendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14-15	dai	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	garantisti	garantista	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+17	pelosi,scudi	pelosi,scudo	ADJ	A	Number=Plur	16	amod	_	_
+18	umani	umano	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+19	)	)	PUNCT	FB	_	16	punct	_	_
+20	#Guidi	#Guido	PROPN	SP	_	13	nsubj:pass	_	_
+21	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	twitter.com/tweetpolitica/	twitter.com/tweetpolitica/	PUNCT	FF	_	25	punct	_	_
+25	status/715565959654674432	status/715565959654674432	NUM	N	NumType=Card	20	nummod	_	_
+26	…	…	PUNCT	FF	_	13	punct	_	SpacesAfter=\n
+

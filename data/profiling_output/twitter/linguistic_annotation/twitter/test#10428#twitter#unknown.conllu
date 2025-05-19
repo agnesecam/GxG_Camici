@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa palette @makeuprvltn mi intriga assai . Dovrebbe essere la Blush Goddess Blush Palette.… https://www.
+1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+2	palette	paletto	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+3	@makeuprvltn	@makeuprvltn	NOUN	S	Gender=Fem	5	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	intriga	intrigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	assai	assai	ADV	B	_	5	advmod	_	_
+7	.	.	PUNCT	FS	_	11	punct	_	_
+8	Dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+9	essere	essere	AUX	V	VerbForm=Inf	11	cop	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Blush	Blush	PROPN	SP	_	5	nsubj	_	_
+12	Goddess	Goddess	PROPN	SP	_	11	flat:name	_	_
+13	Blush	Blush	PROPN	SP	_	11	flat:name	_	_
+14	Palette.…	Palette.…	PROPN	SP	_	11	flat:name	_	_
+15	https://www	https://www	NOUN	S	_	11	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD2cteVD7Lu/
+1	instagram.com/p/BD2cteVD7Lu/	instagram.com/p/BD2cteVD7Lu/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

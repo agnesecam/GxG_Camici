@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un governo abusivo di corrotti complici e collusi.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	governo	governo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	abusivo	abusivo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	corrotti	corrotto	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	complici	complico	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	collusi	colluso	ADJ	A	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = andrebbe a casa ...se solo avessimo un Presidente della Repubblica #querelacitutti
+1	andrebbe	andre	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+4	...se	...so	ADJ	A	Number=Sing	3	amod	_	_
+5	solo	solo	ADV	B	_	6	advmod	_	_
+6	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Repubblica	repubblica	PROPN	SP	_	8	nmod	_	_
+12	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+13	querelacitutti	querelacitutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	conj	_	SpacesAfter=\n
+

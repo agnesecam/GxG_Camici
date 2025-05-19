@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 50 GOL in #SerieA per Maurito #Icardi , che anche stavolta butta dentro la prima palla decente.
+1	50	50	NUM	N	NumType=Card	2	nummod	_	_
+2	GOL	gol	PROPN	SP	_	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	#SerieA	#SerieA	PROPN	SP	_	2	nmod	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	Maurito	Maurito	PROPN	SP	_	2	nmod	_	_
+7	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	Icardi	Icardi	PROPN	SP	_	6	flat:name	_	_
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+11	anche	anche	ADV	B	_	12	advmod	_	_
+12	stavolta	stavolta	ADV	B	_	13	advmod	_	_
+13	butta	butto	ADJ	A	Gender=Fem|Number=Sing	2	acl:relcl	_	_
+14	dentro	dentro	ADP	E	_	17	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	17	amod	_	_
+17	palla	palla	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+18	decente	decente	ADJ	A	Number=Sing	17	amod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #FrosinoneInter
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	FrosinoneInter	FrosinoneInter	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

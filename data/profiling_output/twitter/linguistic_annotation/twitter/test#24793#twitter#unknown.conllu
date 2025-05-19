@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I added a video to a @YouTube playlist http:// youtu.be/__KJi3v41kI?a Le domande che gli italiani farebbero agli americani
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	added	adde	NOUN	S	_	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	video	video	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	to	re	X	SW	Foreign=Yes	4	nmod	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	@YouTube	@YouTube	PROPN	SP	_	2	nmod	_	_
+8	playlist	playlist	NOUN	S	_	7	nmod	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	youtu.be/__KJi3v41kI?a	youtu.be/__KJi3v41kI?a	PROPN	SP	_	8	nmod	_	_
+13	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	domande	domanda	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+15	che	che	PRON	PR	PronType=Rel	18	obj	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	18	nsubj	_	_
+18	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+19-20	agli	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	americani	americano	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	SpacesAfter=\n
+

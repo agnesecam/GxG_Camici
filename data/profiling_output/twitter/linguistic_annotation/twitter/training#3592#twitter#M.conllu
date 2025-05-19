@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Capello tagliato, dai che ce la farà ad allungarsi il ciuffo per quest'estate!
+1	Capello	Capello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	tagliato	tagliare	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4-5	dai	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	che	che	PRON	PR	PronType=Rel	9	obl	_	_
+7	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+8	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	acl:relcl	_	_
+10	ad	a	ADP	E	_	11	mark	_	_
+11-12	allungarsi	_	_	_	_	_	_	_	_
+11	allungar	allungarre	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	ciuffo	ciuffo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+15	per	per	ADP	E	_	17	case	_	_
+16	quest'	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	SpaceAfter=No
+17	estate	estate	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

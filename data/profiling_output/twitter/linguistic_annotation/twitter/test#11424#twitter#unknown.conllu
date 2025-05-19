@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rossellatorrig1hai ragione tu!!continuate ad offendere e sicuramente farete capire il vostro punto di vista!
+1	@rossellatorrig1hai	@rossellatorrig1hare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+5	!continuate	!continuare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+6	ad	a	ADP	E	_	7	mark	_	_
+7	offendere	offendere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	sicuramente	sicuramente	ADV	B	_	11	advmod	_	_
+10	farete	faere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	capire	capire	VERB	V	VerbForm=Inf	7	conj	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	punto	punto	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	vista	vista	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ognuno fa le proprie scelte
+1	Ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	proprie	proprio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	scelte	scelta	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpacesAfter=\n
+

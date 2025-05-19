@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @simocavagna1 @MControguerra .. .dai...qualcosa dovrà cambiare..per forza...per forzaaaa!
+1	@simocavagna1	@simocavagnal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@MControguerra	@MControguerra	PROPN	SP	_	6	nsubj	_	_
+3	..	..	PUNCT	FF	_	2	punct	_	_
+4	.dai...qualcosa	.dai...qualcosa	PRON	PI	Number=Sing|PronType=Ind	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	cambiare..per	cambiare..pere	VERB	V	VerbForm=Inf	0	root	_	_
+7	forza...per	forza...per	ADP	E	_	8	case	_	_
+8	forzaaaa	forzaaao	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!tu fai come sempre,combatti e non mollareee
+1	!!tu	!!tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	sempre,combatti	sempre,combatto	ADV	B	_	2	advmod	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	mollareee	mollareeo	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	SpacesAfter=\n
+

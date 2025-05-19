@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In Cammino:
+1	In	in	ADP	E	_	2	case	_	_
+2	Cammino	cammino	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Dal trattato «Sulla fede: a Pietro» di san Fulgenzio di Ruspe" Egli offrì se stesso... http:// fb.me/4NvDbMqvZ
+1-2	Dal	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	trattato	trattato	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+4	«	«	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+5-6	Sulla	_	_	_	_	_	_	_	_
+5	Su	su	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	fede	fede	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	7	punct	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	Pietro	Pietro	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+11	»	»	PUNCT	FB	_	10	punct	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	san	san	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	Fulgenzio	Fulgenzio	PROPN	SP	_	7	nmod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	Ruspe	Ruspe	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	7	punct	_	_
+18	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+19	offrì	offrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	se	se	SCONJ	CS	_	21	mark	_	_
+21	stesso...	stesso.	NUM	N	NumType=Card	19	nummod	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/4NvDbMqvZ	fb.me/4NvDbMqvZ	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

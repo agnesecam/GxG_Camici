@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarioBorgPao già quelli di Patria, Famiglia e Chiesa manco ci son più i destroni di una volta, nemmeno se ne può restituire qualcuna ....
+1	@MarioBorgPao	@MarioBorgPao	INTJ	I	_	15	discourse	_	_
+2	già	già	ADV	B	_	3	advmod	_	_
+3	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	15	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Patria	patria	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	Famiglia	famiglia	PROPN	SP	_	5	conj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Chiesa	chiesa	PROPN	SP	_	5	conj	_	_
+10	manco	manco	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	expl	_	_
+12	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	più	più	ADV	B	_	15	advmod	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	destroni	destrone	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	volta	volta	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	24	punct	_	_
+20	nemmeno	nemmeno	ADV	BN	PronType=Neg	24	advmod	_	_
+21	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	24	expl:impers	_	_
+22	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	24	iobj	_	_
+23	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	restituire	restituire	VERB	V	VerbForm=Inf	15	conj	_	_
+25	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	24	obj	_	_
+26	...	...	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n
+

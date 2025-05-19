@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NapoliOutsider Dalla champion vorrei sempre gli €, il girone di ferro, gli incassi, e vincere la e.league come 3 del girone
+1	@NapoliOutsider	@NapoliOutsidere	NOUN	S	_	8	nsubj	_	_
+2-3	Dalla	_	_	_	_	_	_	_	_
+2	Da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	champion	champion	NOUN	S	Gender=Fem	1	nmod	_	_
+5	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	sempre	sempre	ADV	B	_	8	advmod	_	_
+7	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+8	€	€	SYM	SYM	_	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	girone	girone	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	ferro	ferro	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	incassi	incasso	NOUN	S	Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	vincere	vincere	VERB	V	VerbForm=Inf	8	conj	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	e.league	e.league	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+22	come	come	ADP	E	_	23	case	_	_
+23	3	3	NUM	N	NumType=Card	21	nummod	_	_
+24-25	del	_	_	_	_	_	_	_	_
+24	di	di	ADP	E	_	26	case	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	girone	girone	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	SpacesAfter=\n
+

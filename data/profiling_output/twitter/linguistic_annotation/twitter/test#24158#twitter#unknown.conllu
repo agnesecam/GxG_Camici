@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gonZeando @GisiRaf @bonucci_leo19
+1	@gonZeando	@gonZeare	VERB	V	VerbForm=Ger	0	root	_	_
+2	@GisiRaf	@GisiRaf	PROPN	SP	_	1	obj	_	_
+3	@bonucci_leo19	@bonucci_leo19	NUM	N	NumType=Card	2	nummod	_	_
+
+# sent_id = 2
+# text = E agli interisti, poveracci, che gliene frega?
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2-3	agli	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	interisti	interista	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	poveracci	poveraccio	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+10	frega	frega	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = Stanno laggiù in fondo!Potrei capire i tifosi napolisti
+1	Stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	laggiù	laggiù	ADV	B	_	1	advmod	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	!Potrei	!Potrei	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	capire	capire	VERB	V	VerbForm=Inf	1	ccomp	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	tifosi	tifoso	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+9	napolisti	napolista	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpacesAfter=\n
+

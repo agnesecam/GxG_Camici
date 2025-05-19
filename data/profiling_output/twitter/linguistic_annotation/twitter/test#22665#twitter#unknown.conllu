@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perché quando sei in macchina e la radio passa Avrai di Baglioni se anche hai già parcheggiato in cortile ti fermi, ascolti e canti!
+1	Perché	perché	SCONJ	CS	_	9	mark	_	_
+2	quando	quando	SCONJ	CS	_	9	mark	_	_
+3	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	radio	radio	NOUN	S	Gender=Fem	5	conj	_	_
+9	passa	passo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	Avrai	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	advcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Baglioni	Baglione	PROPN	SP	_	10	obl	_	_
+13	se	se	SCONJ	CS	_	17	mark	_	_
+14	anche	anche	ADV	B	_	17	advmod	_	_
+15	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	_
+16	già	già	ADV	B	_	17	advmod	_	_
+17	parcheggiato	parcheggiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	cortile	cortile	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+20	ti	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	21	expl	_	_
+21	fermi	fermare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	23	punct	_	_
+23	ascolti	ascolto	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	conj	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	canti	cante	ADV	B	_	23	conj	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

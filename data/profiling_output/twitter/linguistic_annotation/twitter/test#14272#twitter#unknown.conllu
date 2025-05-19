@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @yotobi feci la stessa faccia quando capii di essere andata in fissa con Breaking Bad
+1	@yotobi	@yotobo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	feci	feci	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	quando	quando	SCONJ	CS	_	7	mark	_	_
+7	capii	capio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+8	di	di	ADP	E	_	10	mark	_	_
+9	essere	essere	AUX	VA	VerbForm=Inf	10	aux	_	_
+10	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	xcomp	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	fissa	fissa	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	Breaking	Breaking	PROPN	SP	_	10	obl	_	_
+15	Bad	bad	PROPN	SP	_	14	flat:name	_	SpacesAfter=\n
+

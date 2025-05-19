@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @filodrama una vita in anticipo, almeno fossimo puntuali...
+1	@filodrama	@filodramare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vita	vita	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	anticipo	anticipo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	almeno	almeno	ADV	B	_	8	advmod	_	_
+8	fossimo	fossimo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+9	puntuali...	puntuali.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = No, siamo in anticipo!
+1	No	no	INTJ	I	Polarity=Neg	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	anticipo	anticipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

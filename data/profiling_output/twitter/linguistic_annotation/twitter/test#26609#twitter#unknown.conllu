@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A me non è dispiaciuto.
+1	A	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	dispiaciuto.	dispiaciuto.	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Certo ce ne sono di meglio ma mi è sembrato carino.
+1	Certo	certo	ADV	B	_	11	advmod	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	meglio	meglio	ADV	B	_	1	advmod	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+11	carino.	carino.	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 5
+# text = https:// twitter.com/FacchiGiada/st atus/709707042903220224 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/FacchiGiada/st	twitter.com/FacchiGiada/st	PROPN	SP	_	0	root	_	_
+5	atus/709707042903220224	atus/709707042903220224	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

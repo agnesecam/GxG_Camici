@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @stefaniamaglio @camillasacch Raga prima o poi saremo belle in foto anche noi, giuro Nel frattempo tanto cuoricini per le mie amiche
+1	@stefaniamaglio	@stefaniamaglio	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+2	@camillasacch	@camillasacch	NOUN	S	Gender=Masc	1	compound	_	_
+3	Raga	Raga	PROPN	SP	_	1	nmod	_	_
+4	prima	prima	ADV	B	_	14	advmod	_	_
+5	o	o	CCONJ	CC	_	8	cc	_	_
+6	poi	poi	ADV	B	_	8	advmod	_	_
+7	saremo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	8	cop	_	_
+8	belle	bello	ADJ	A	Gender=Fem|Number=Plur	4	conj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	foto	foto	NOUN	S	Gender=Fem	8	obl	_	_
+11	anche	anche	ADV	B	_	12	advmod	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	4	punct	_	_
+14	giuro	giurare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+15-16	Nel	_	_	_	_	_	_	_	_
+15	In	in	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	frattempo	frattempo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	tanto	tanto	ADV	B	_	19	advmod	_	_
+19	cuoricini	cuoricino	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	mie	mio	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	_
+23	amiche	amico	ADJ	A	Gender=Fem|Number=Plur	22	amod	_	SpacesAfter=\n
+

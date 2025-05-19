@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @angarudo (c'era ed in realtà c'era fino dall'inizio MA FACEVA FINTA DI NON ESSERCI, però se c'è janneyuu ti farò un riassunto più che-
+1	@angarudo	@angarudo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+5	ed	e	CCONJ	CC	_	9	cc	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+8	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	SpaceAfter=No
+9	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+10	fino	fino	ADV	B	_	13	case	_	_
+11-12	dall'	_	_	_	_	_	_	_	SpaceAfter=No
+11	da	da	ADP	E	_	10	fixed	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+14	MA	ma	PROPN	SP	_	16	nsubj	_	_
+15	FACEVA	facere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	FINTA	finto	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+17	DI	Di	ADP	E	_	18	case	_	_
+18	NON	non	PROPN	SP	_	16	obl	_	_
+19-20	ESSERCI	_	_	_	_	_	_	_	SpaceAfter=No
+19	ESSER	esser	PROPN	SP	_	18	flat:name	_	_
+20	CI	ci	PROPN	SP	_	19	flat:name	_	_
+21	,	,	PUNCT	FF	_	16	punct	_	_
+22	però	però	ADV	B	_	25	advmod	_	_
+23	se	se	SCONJ	CS	_	25	mark	_	_
+24	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	25	expl	_	SpaceAfter=No
+25	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+26	janneyuu	janneyuu	ADP	E	_	27	case	_	_
+27	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	28	obl	_	_
+28	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	25	advcl	_	_
+29	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	riassunto	riassunto	NOUN	S	Gender=Masc|Number=Sing	28	obj	_	_
+31	più	più	ADV	B	_	30	advmod	_	_
+32	che	che	SCONJ	CS	_	31	fixed	_	SpaceAfter=No
+33	-	-	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

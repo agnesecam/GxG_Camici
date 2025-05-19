@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Torino che può avere al massimo un paio di occasioni da gol, gliene annulli uno,valido,quando la vince?
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Torino	Torino	PROPN	SP	_	16	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	avere	avere	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	massimo	massimo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	paio	paio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	occasioni	occasione	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	gol	goal	NOUN	S	Gender=Masc	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	2	punct	_	_
+16	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	annulli	annullo	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+18	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	,valido	,valido	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+21	quando	quando	SCONJ	CS	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	vince	vincia	NOUN	S	Gender=Fem	16	obl	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = #gliepisodidecidono ?
+1	#gliepisodidecidono	#gliepisodidecidere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

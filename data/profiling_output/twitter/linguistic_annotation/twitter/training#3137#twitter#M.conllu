@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A volte è meglio tacere e sembrare stupidi che aprir bocca e togliere ogni dubbio....
+1	A	a	ADP	E	_	2	case	_	_
+2	volte	volta	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	meglio	meglio	ADV	B	_	5	advmod	_	_
+5	tacere	tacere	VERB	V	VerbForm=Inf	0	root	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	5	conj	_	_
+8	stupidi	stupidio	NOUN	S	Gender=Masc|Number=Plur	7	xcomp	_	_
+9	che	che	SCONJ	CS	_	10	mark	_	_
+10	aprir	aprire	VERB	V	VerbForm=Inf	8	ccomp	_	_
+11	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	togliere	togliere	VERB	V	VerbForm=Inf	10	conj	_	_
+14	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+15	dubbio....	dubbio....	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4gxagOAWs
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4gxagOAWs	fb.me/4gxagOAWs	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

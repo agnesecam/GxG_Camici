@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = *SAME* ... Marx dovrà aspettare https:// twitter.com/ali_stranger97 /status/715555153617747968 …
+1	*SAME*	*SAME*	PROPN	SP	_	5	obl	_	_
+2	...	...	PUNCT	FF	_	1	punct	_	_
+3	Marx	marx	PROPN	SP	_	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	aspettare	aspettare	VERB	V	VerbForm=Inf	0	root	_	_
+6	https:	https:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	_
+9	twitter.com/ali_stranger97	twitter.com/ali_stranger97	NUM	N	NumType=Card	5	nummod	_	_
+10	/status/715555153617747968	/status/715555153617747968	NUM	N	NumType=Card	9	compound	_	_
+11	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

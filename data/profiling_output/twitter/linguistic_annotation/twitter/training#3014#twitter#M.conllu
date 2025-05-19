@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L’artista è esattamente il contrario di colui che fa di tutto per sembrare ciò che non è.
+1	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	artista	artista	NOUN	S	Number=Sing	6	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	esattamente	esattamente	ADV	B	_	6	advmod	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	contrario	contrario	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	colui	colui	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obl	_	_
+13	per	per	ADP	E	_	14	mark	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	10	advcl	_	_
+15	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	obj	_	_
+16	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

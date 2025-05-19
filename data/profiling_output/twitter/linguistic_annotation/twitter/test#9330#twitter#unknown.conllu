@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per dire:
+1	Per	per	ADP	E	_	2	mark	_	_
+2	dire	dire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = @luigidimaio ha incassato 10.516 euro di "rimborsi" in un mese, senza neppure uno scontrino http://www.
+1	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	incassato	incassare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	10.516	10.516	NUM	N	NumType=Card	5	nummod	_	_
+5	euro	euro	NOUN	S	Gender=Masc	3	obj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	rimborsi	rimborso	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mese	mese	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	17	punct	_	_
+14	senza	senza	ADP	E	_	17	case	_	_
+15	neppure	neppure	ADV	BN	PronType=Neg	17	advmod	_	_
+16	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	scontrino	scontrino	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+18	http://www	http://www	NOUN	S	Gender=Masc	17	compound	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = lastampa.it/2016/03/22/ita lia/politica/diecimila-euro-e-poca-trasparenza-la-fine-del-ms-francescano-wSwHT1CErhpxrh3UEWJxcK/pagina.html …
+1	lastampa.it/2016/03/22/ita	lastampa.it/2016/03/22/ire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	lia/politica	lia/politico	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	diecimila-euro	diecimila-euro	ADJ	A	_	2	conj	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	e-poca-trasparenza-la	e-poca-trasparenza-lare	X	SW	Foreign=Yes	2	compound	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	fine-del-ms	fine-del-ms	X	SW	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	francescano	francescano	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+11	-wSwHT1CErhpxrh3UEWJxcK	-wswht1cerhpxrh3uewjxck	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	pagina.html	pagina.html	NOUN	S	Number=Sing	11	compound	_	_
+14	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

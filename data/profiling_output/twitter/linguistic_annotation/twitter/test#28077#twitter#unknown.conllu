@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono quasi certa che facciano apposta a farmi trovare in tv la pubblicità della Luiss
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	quasi	quasi	ADV	B	_	3	advmod	_	_
+3	certa	certo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	apposta	apposta	ADV	B	_	5	advmod	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	farmi	arma|farme	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+9	trovare	trovare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	tv	tv	NOUN	S	Gender=Fem	9	obl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	pubblicità	pubblicità	NOUN	S	Gender=Fem	9	obj	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Luiss	Luiss	PROPN	SP	_	13	nmod	_	SpacesAfter=\n
+

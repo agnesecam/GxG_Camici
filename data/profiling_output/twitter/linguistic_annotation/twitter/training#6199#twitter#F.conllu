@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È stato come se per un attimo si fosse fermato il tempo e fossimo tutti tornati lí..
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+2	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux:pass	_	_
+3	come	come	ADV	B	_	10	advmod	_	_
+4	se	se	SCONJ	CS	_	10	mark	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	attimo	attimo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:pass	_	_
+9	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	fermato	fermare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	aux	_	_
+15	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	_
+16	tornati	tornare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	conj	_	_
+17	lí.	lí.	NOUN	S	_	16	nsubj:pass	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = What's Up le-5-grandi-sfide-che-il-marketing- dovra -affrontare-nel-2016/ ^GM
+1	What	What	X	SW	Foreign=Yes	0	root	_	SpaceAfter=No
+2	's	's	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	Up	Up	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	le	le	X	SW	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	5	5	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	grandi-sfide-che-il-marketing	grandi-sfide-che-il-marketing	NOUN	S	Gender=Masc	1	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FB	_	8	punct	_	_
+10	dovra	dovra	ADP	E	_	11	mark	_	_
+11	-affrontare	-affrontare	VERB	V	VerbForm=Inf	1	acl	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	nel-2016	nel-2016	SYM	X	_	11	conj	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	^GM	^GM	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

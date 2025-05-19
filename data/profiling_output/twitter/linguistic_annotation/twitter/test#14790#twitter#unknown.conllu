@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vincenzoarmetta e certo con i 145 mila euro della fit lo pagano?
+1	@vincenzoarmetta	@vincenzoarmettare	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+2	e	e	CCONJ	CC	_	11	cc	_	_
+3	certo	certo	ADV	B	_	11	advmod	_	_
+4	con	con	ADP	E	_	8	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+6	145	145	NUM	N	NumType=Card	8	nummod	_	_
+7	mila	mila	NUM	N	NumType=Card	6	flat	_	_
+8	euro	euro	NOUN	S	Gender=Masc	11	nmod	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	fit	fit	NOUN	S	_	1	conj	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	pagano	pagare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = la giorgi quest'anno e sotto come prize money...
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	giorgi	giorgio	NOUN	S	Number=Plur	0	root	_	_
+3	quest'	questo	DET	DD	Number=Sing|PronType=Dem	4	det	_	SpaceAfter=No
+4	anno	anno	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	e	e	CCONJ	CC	_	9	cc	_	_
+6	sotto	sotto	ADV	B	_	9	advmod	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	prize	priza	ADJ	A	Number=Sing	9	amod	_	_
+9	money...	money.	NOUN	S	Gender=Masc	2	conj	_	_
+
+# sent_id = 3
+# text = che io sappia o no?
+1	che	che	SCONJ	CS	_	3	mark	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	sappia	sapere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	no	no	ADV	BN	PronType=Neg	3	conj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

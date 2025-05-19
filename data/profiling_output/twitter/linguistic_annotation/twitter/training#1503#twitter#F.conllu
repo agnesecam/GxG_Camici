@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ore 18 ululeremo #MetaNazionale perché nel nostro cuore fai sempre goal!
+1	Ore	ora	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+2	18	18	NUM	N	NumType=Card	1	nummod	_	_
+3	ululeremo	ululere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	#MetaNazionale	#MetaNazionale	ADJ	A	Number=Sing	3	xcomp	_	_
+5	perché	perché	SCONJ	CS	_	10	mark	_	_
+6-7	nel	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+10	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	sempre	sempre	ADV	B	_	10	advmod	_	_
+12	goal	goal	NOUN	S	Gender=Masc	10	obj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @famedalupi le nostre HOLA fino al BOZZI pic.twitter.com/D0qNCi3qvz
+1	@famedalupi	@famedalupo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	HOLA	HOLA	PROPN	SP	_	1	nmod	_	_
+5	fino	fino	ADV	B	_	8	case	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	5	fixed	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	BOZZI	BOZZI	PROPN	SP	_	1	nmod	_	_
+9	pic.twitter.com/D0qNCi3qvz	pic.twitter.com/D0qNCi3qvz	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarcelloChirico obiettivamente una grande idea.
+1	@MarcelloChirico	@MarcelloChirico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	obiettivamente	obiettivo	ADV	B	_	1	advmod	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	grande	grande	ADJ	A	Number=Sing	5	amod	_	_
+5	idea	idea	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mi chiedo, se sarete agevolati come il canale tematico?
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	sarete	sareto	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	agevolati	agevolare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	canale	canale	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	tematico	tematico	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Tipo immagini da dentro Vinovo ecc
+1	Tipo	tipo	ADP	E	_	2	case	_	_
+2	immagini	immagine	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	dentro	dentro	ADV	B	_	5	advmod	_	_
+5	Vinovo	Vinovo	PROPN	SP	_	2	nmod	_	_
+6	ecc	eccetera	ADV	B	_	0	root	_	SpacesAfter=\n
+

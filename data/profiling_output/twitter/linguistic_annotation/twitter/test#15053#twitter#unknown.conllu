@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @luigi_pelerin @pellescura @GiorgiaMeloni Meloni facesse mamma (di padre ignoto?) invece di deturpare Roma con la sua dimostrata incapacità
+1	@luigi_pelerin	@luigi_pelerino	ADP	E	_	2	case	_	_
+2	@pellescura	@pellescuro	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+3	@GiorgiaMeloni	@GiorgiaMeloni	PROPN	SP	_	2	nmod	_	_
+4	Meloni	Meloni	PROPN	SP	_	3	flat:name	_	_
+5	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+8	di	di	ADP	E	_	9	case	_	_
+9	padre	padre	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	ignoto	ignoto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	9	punct	_	_
+13	invece	invece	ADV	B	_	15	mark	_	_
+14	di	di	ADP	E	_	13	fixed	_	_
+15	deturpare	deturpare	VERB	V	VerbForm=Inf	5	advcl	_	_
+16	Roma	Roma	PROPN	SP	_	15	obj	_	_
+17	con	con	ADP	E	_	21	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+19	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	_
+20	dimostrata	dimostrare	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	_
+21	incapacità	incapacità	NOUN	S	Gender=Fem	15	obl	_	SpacesAfter=\n
+

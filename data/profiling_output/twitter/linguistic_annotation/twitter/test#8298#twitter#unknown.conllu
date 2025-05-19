@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È venerdì ed è il suo compleanno:
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	venerdì	venerdì	NOUN	S	Gender=Masc	0	root	_	_
+3	ed	e	CCONJ	CC	_	7	cc	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = su, seguite @tigella e, dunque , fatele gli auguri.
+1	su	su	ADV	B	_	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	seguite	seguire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	@tigella	@tigella	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	e	e	CCONJ	CC	_	9	cc	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	dunque	dunque	ADV	B	_	9	advmod	_	_
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	fatele	fatele	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = #FF #FollowFriday
+1	#FF	#FF	ADP	E	_	2	case	_	_
+2	#FollowFriday	#FollowFriday	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 12 Uomini Che Farebbero Meglio Ad Accettare Il Fatto Di Essere Calvi http:// fb.me/7O8qfWSc3
+1	12	12	NUM	N	NumType=Card	2	nummod	_	_
+2	Uomini	uomini	PROPN	SP	_	0	root	_	_
+3	Che	che	DET	DQ	PronType=Int	4	det	_	_
+4	Farebbero	Fare	PROPN	SP	_	2	nmod	_	_
+5	Meglio	meglio	PROPN	SP	_	4	flat:name	_	_
+6	Ad	a	ADP	E	_	7	mark	_	_
+7	Accettare	accettare	VERB	V	VerbForm=Inf	2	acl	_	_
+8	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Fatto	fatto	PROPN	SP	_	7	obj	_	_
+10	Di	Di	PROPN	SP	_	9	flat:name	_	_
+11	Essere	essere	PROPN	SP	_	10	flat:name	_	_
+12	Calvi	Calvo	PROPN	SP	_	10	flat:name	_	_
+13	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	9	punct	_	_
+16	fb.me/7O8qfWSc3	fb.me/7O8qfWSc3	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

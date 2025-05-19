@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @__Giada anche io ne ho avuti 2 e quando attaccavano miravano subito alla gola.
+1	@__Giada	@__Giada	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	anche	anche	ADV	B	_	3	advmod	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	2	2	NUM	N	NumType=Card	6	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	quando	quando	SCONJ	CS	_	10	mark	_	_
+10	attaccavano	attaccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+11	miravano	mirare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+12	subito	subito	ADV	B	_	11	advmod	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	gola	gola	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È una questione di istinto
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	questione	questione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	istinto	istinto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\n
+

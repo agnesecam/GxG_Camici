@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @HellasVeronaFC quanti rimpianti, perdono tutte le squadre in lotta salvezza...
+1	@HellasVeronaFC	@HellasVeronaFC	ADV	B	_	5	advmod	_	_
+2	quanti	quanto	DET	DQ	Gender=Masc|Number=Plur|PronType=Int	3	det	_	_
+3	rimpianti	rimpiare	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	perdono	perdere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	8	det:predet	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	squadre	squadra	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	lotta	lotta	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	salvezza..	salvezza	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Avessimo vinto col #carpi ...
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3-4	col	_	_	_	_	_	_	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#carpi	#carpo	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+6	...	.	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

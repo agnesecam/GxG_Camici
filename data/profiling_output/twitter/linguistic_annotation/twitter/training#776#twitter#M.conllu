@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MFantinati Pensavo che con #berlusconi avessimo raggiunto il fondo, mi sbagliavo, con i #democraticiapagamento abbiamo preso a scavare!
+1	@MFantinati	@MFantinato	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	Pensavo	pensare	PROPN	SP	_	12	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	#berlusconi	#berluscone	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	raggiunto	raggiungere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	expl	_	_
+12	sbagliavo	sbagliavare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	#democraticiapagamento	#democraticiapagamento	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+17	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	parataxis	_	_
+19	a	a	ADP	E	_	20	mark	_	_
+20	scavare	scavare	VERB	V	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

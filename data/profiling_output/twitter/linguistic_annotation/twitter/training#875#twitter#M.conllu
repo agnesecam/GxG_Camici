@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensate un secondo se avessimo segnato in seguito a quel finto triplice fischio;
+1	Pensate	pensare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	1	nsubj	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	segnato	segnato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	seguito	seguito	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	a	a	ADP	E	_	12	case	_	_
+10	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+11	finto	finto	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	triplice	triplice	NOUN	S	Number=Sing	8	nmod	_	_
+13	fischio	fischio	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	;	;	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = loro si erano fermati.
+1	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	fermati.	fermati.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..come sarebbe stato?
+1	..come	..come	ADV	B	_	3	advmod	_	_
+2	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

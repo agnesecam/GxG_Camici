@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho fatto un acquisto pazzo, il fatto è che se non mi starà come alla tipa in foto sarò depressa per una mezza vita,che ansia di negozio #uo
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	acquisto	acquisto	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	pazzo	pazzo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+10	che	che	SCONJ	CS	_	22	mark	_	_
+11	se	se	SCONJ	CS	_	14	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	obj	_	_
+14	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	advcl	_	_
+15	come	come	ADV	B	_	18	case	_	_
+16-17	alla	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	15	fixed	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	tipa	tipo	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	foto	foto	NOUN	S	Gender=Fem	18	nmod	_	_
+21	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	22	aux	_	_
+22	depressa	deprettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+23	per	per	ADP	E	_	25	case	_	_
+24	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	mezza	mezzo	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	_
+26	vita,che	vita,ca	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	27	det	_	_
+27	ansia	ansia	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+28	di	di	ADP	E	_	29	case	_	_
+29	negozio	negozio	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	_
+30	#uo	#uo	ADJ	A	Gender=Masc|Number=Sing	29	amod	_	SpacesAfter=\n
+

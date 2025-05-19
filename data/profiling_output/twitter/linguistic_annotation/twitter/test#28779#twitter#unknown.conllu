@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perchè comprare un'auto quando la puoi noleggiare?
+1	Perchè	perché	ADV	B	_	2	advmod	_	_
+2	comprare	comprare	VERB	V	VerbForm=Inf	0	root	_	_
+3	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	auto	auto	NOUN	S	Gender=Fem	2	obj	_	_
+5	quando	quando	SCONJ	CS	_	8	mark	_	_
+6	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+7	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	noleggiare	noleggiare	VERB	V	VerbForm=Inf	2	advcl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sono disponibili 2 quote, ognuna con 20 giorni totali da... http:// fb.me/7Nl3OEXY6
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	disponibili	disponibile	ADJ	A	Number=Plur	0	root	_	_
+3	2	2	NUM	N	NumType=Card	4	nummod	_	_
+4	quote	quota	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	ognuna	ognuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	nmod	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	20	20	NUM	N	NumType=Card	9	nummod	_	_
+9	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+10	totali	totale	ADJ	A	Number=Plur	11	amod	_	_
+11	da...	da.	NOUN	S	_	4	conj	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	fb.me/7Nl3OEXY6	fb.me/7Nl3OEXY6	PROPN	SP	_	2	obl	_	SpacesAfter=\n
+

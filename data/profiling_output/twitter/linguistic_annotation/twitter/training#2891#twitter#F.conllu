@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci sono ragazze veramente BELLE che poi si fanno selfie con delle espressioni che le fanno sembrare deficienti e io veramente boh.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ragazze	ragazzo	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+4	veramente	veramente	ADV	B	_	3	advmod	_	_
+5	BELLE	belle	PROPN	SP	_	3	nmod	_	_
+6	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+7	poi	poi	ADV	B	_	9	advmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+9	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+10	selfie	selfia	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+11	con	con	ADP	E	_	14	case	_	_
+12-13	delle	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	11	fixed	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	espressioni	espressione	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+18	sembrare	sembrare	VERB	V	VerbForm=Inf	17	xcomp	_	_
+19	deficienti	deficiente	ADJ	A	Number=Plur	18	xcomp	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	23	conj	_	_
+22	veramente	veramente	ADV	B	_	23	advmod	_	_
+23	boh	boh	X	X	_	18	obj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #mistero
+1	#mistero	#misterare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

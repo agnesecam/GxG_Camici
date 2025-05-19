@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jaipasenvie_ questa, ma credo l'abbiano tolta dallo store perché non la trovavo più pic.twitter.com/uJbWcWdS2B
+1	@jaipasenvie_	@jaipasenvie-	PUNCT	FB	_	2	punct	_	_
+2	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	ma	ma	CCONJ	CC	_	5	cc	_	_
+5	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	abbiano	avere	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	tolta	tolgere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+9-10	dallo	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	store	store	NOUN	S	Gender=Masc|Number=Sing	8	obl:agent	_	_
+12	perché	perché	SCONJ	CS	_	15	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	trovavo	trovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+16	più	più	ADV	B	_	15	advmod	_	_
+17	pic.twitter.com/uJbWcWdS2B	pic.twitter.com/uJbWcWdS2B	PROPN	SP	_	15	obl	_	SpacesAfter=\n
+

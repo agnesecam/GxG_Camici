@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il PD vuole imporre che tutti i partiti facessero le primarie?
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	PD	pd	PROPN	SP	_	4	nsubj	_	_
+3	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	imporre	imporre	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	partiti	partito	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+9	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	primarie	primaria	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Forse è l'unica proposta decente che questo... http:// fb.me/14pgB9j9Z
+1	Forse	forse	ADV	B	_	5	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+4	unica	unico	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	decente	decente	ADJ	A	Number=Sing	5	amod	_	_
+7	che	che	PRON	PR	PronType=Rel	5	conj	_	_
+8	questo...	questo.	PUNCT	FF	_	9	punct	_	_
+9	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	7	punct	_	_
+12	fb.me/14pgB9j9Z	fb.me/14pgB9j9Z	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

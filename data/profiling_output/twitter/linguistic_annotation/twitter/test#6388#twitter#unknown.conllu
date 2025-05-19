@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @doppiaelle59 se non fossimo così distanti, penserei viste le posture e lo sguardo che è il fratello della mia :D
+1	@doppiaelle59	@doppiaelle59	NUM	N	NumType=Card	9	nummod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	così	così	ADV	B	_	6	advmod	_	_
+6	distanti	distante	ADJ	A	Number=Plur	9	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	penserei	penseere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	viste	vedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	posture	postura	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	sguardo	sguardo	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+15	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+16	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	fratello	fratello	NOUN	S	Gender=Masc|Number=Sing	14	acl:relcl	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	22	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	:D	:D	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

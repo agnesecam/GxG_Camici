@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma io mi chiedo come facciano le persone normali a usare le bacchette per mangiare il sushi?!
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	come	come	SCONJ	CS	_	6	mark	_	_
+6	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	persone	persona	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	normali	normale	ADJ	A	Number=Plur	8	amod	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	usare	usare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	bacchette	bacchetta	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	mangiare	mangiare	VERB	V	VerbForm=Inf	11	advcl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	sushi	sushi	PRON	PR	Number=Sing|PronType=Rel	15	obj	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = io uso la forchetta e non mi vergogno di ciò.
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	uso	udere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	forchetta	forchetta	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	expl	_	_
+8	vergogno	vergogno	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

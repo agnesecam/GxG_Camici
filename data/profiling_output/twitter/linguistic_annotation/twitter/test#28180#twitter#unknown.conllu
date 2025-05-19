@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonioCorsa la società scelga UNA linea:
+1	@AntonioCorsa	@AntonioCorrere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	società	società	NOUN	S	Gender=Fem	4	nsubj	_	_
+4	scelga	scegliere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	UNA	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	linea	linea	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = se parlano che lo facciano con la stessa ferocia con cui ci attaccano, altrimenti tacciano!
+1	se	se	SCONJ	CS	_	2	mark	_	_
+2	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	con	con	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	ferocia	ferocia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	cui	cui	PRON	PR	PronType=Rel	13	obl	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
+13	attaccano	attaccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	altrimenti	altrimenti	CCONJ	CC	_	16	cc	_	_
+16	tacciano	tacciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

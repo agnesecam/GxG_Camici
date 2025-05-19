@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E il bello è che gliene viene ancora a loro -.-"
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	bello	bello	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	gliene	glenere	SCONJ	CS	_	7	mark	_	_
+7	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	ancora	ancora	ADV	B	_	7	advmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	7	obl	_	_
+11	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @simocavagna1 al momento non è raggiungibile?a parecchi momenti non è raggiungibile!
+1	@simocavagna1	@simocavagna1	NUM	N	NumType=Card	7	nummod	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	momento	momento	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	raggiungibile	raggiungibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+9	a	a	ADP	E	_	11	case	_	_
+10	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+11	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	raggiungibile	raggiungibile	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = CIAO SIMONETTA, buona domenica pic.twitter.com/JFaThDn0NN
+1	CIAO	ciao	PROPN	SP	_	0	root	_	_
+2	SIMONETTA	Simonetta	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	buona	buono	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	pic.twitter.com/JFaThDn0NN	pic.twitter.com/JFaThDn0NN	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @aretusa277 @eros_dio ....
+1	@aretusa277	@aretusa277	NUM	N	NumType=Card	2	nummod	_	_
+2	@eros_dio	@eros_dio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Pur essendo #divino abbastanza non ho il dono delle "lingue".
+1	Pur	pure	ADV	B	_	3	advmod	_	_
+2	essendo	essere	AUX	V	VerbForm=Ger	3	aux	_	_
+3	#divino	#divare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	abbastanza	abbastanza	ADV	B	_	3	advmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	dono	dono	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	lingue	lingua	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ti amerei di più se mi traducessi l'essenziale
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	amerei	amare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	più	più	ADV	B	_	2	advmod	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	expl	_	_
+7	traducessi	traducettere	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	essenziale	essenziale	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpacesAfter=\n
+

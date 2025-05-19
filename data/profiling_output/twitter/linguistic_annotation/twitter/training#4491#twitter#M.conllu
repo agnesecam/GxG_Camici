@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @antonio_bordin certo, l'air force 17 di Renzi dovrà pur atterrare in sicurezza a Firenze.
+1	@antonio_bordin	@antonio_bordino	ADP	E	_	2	case	_	_
+2	certo	certo	ADV	B	_	6	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	air	air	NOUN	S	Gender=Masc	6	nsubj	_	_
+6	force	forcia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	17	17	NUM	N	NumType=Card	12	nsubj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Renzi	Renzi	PROPN	SP	_	7	nmod	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+11	pur	pure	ADV	B	_	12	advmod	_	_
+12	atterrare	atterrare	VERB	V	VerbForm=Inf	6	ccomp	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	Firenze	Firenze	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Forse la pista é troppo corta per un A340-500
+1	Forse	forse	ADV	B	_	6	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	pista	pista	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	troppo	troppo	ADV	B	_	6	advmod	_	_
+6	corta	corto	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	A340-500	A340-500	PROPN	SP	_	6	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo almeno dei bei servizi pubblici.
+1	Avessimo	Avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	almeno	almeno	ADV	B	_	6	advmod	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	bei	bello	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+7	pubblici.	pubblici.	NOUN	S	_	1	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .in sto paese fa tutto abbastanza cagare..per primi voi che sedete in parlamento#TasseRecord
+1	.in	.ino	ADP	E	_	3	case	_	_
+2	sto	sto	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	paese	paese	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obj	_	_
+6	abbastanza	abbastanza	ADV	B	_	7	advmod	_	_
+7	cagare..per	cagare..per	VERB	V	VerbForm=Inf	4	ccomp	_	_
+8	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	9	amod	_	_
+9	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	sedete	sedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	parlamento#TasseRecord	parlamento#TasseRecord	PROPN	SP	_	11	obl	_	SpacesAfter=\n
+

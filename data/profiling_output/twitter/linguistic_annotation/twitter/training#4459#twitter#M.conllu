@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sorial Girgis Giorgio "Ora il Bomba oltre a ripagare le spese legali dovrà far vedere agli italiani tutti i... http:// fb.me/7WYiUz9aC
+1	Sorial	Sorial	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	Girgis	Girgis	PROPN	SP	_	15	nsubj	_	_
+3	Giorgio	Giorgio	PROPN	SP	_	2	flat:name	_	_
+4	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+5	Ora	ora	ADV	B	_	15	advmod	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Bomba	Bomba	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+8	oltre	oltre	ADV	B	_	10	mark	_	_
+9	a	a	ADP	E	_	8	fixed	_	_
+10	ripagare	ripagare	VERB	V	VerbForm=Inf	15	advcl	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+13	legali	legale	ADJ	A	Number=Plur	12	amod	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+16	vedere	vedere	VERB	V	VerbForm=Inf	15	ccomp	_	_
+17-18	agli	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	_
+20	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	nmod	_	_
+21	i...	i.	PUNCT	FS	_	20	punct	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	_
+25	fb.me/7WYiUz9aC	fb.me/7WYiUz9aC	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

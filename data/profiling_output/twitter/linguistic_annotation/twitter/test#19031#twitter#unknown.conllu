@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " ciascuno protagonista" "un minimo di sfida spingere sono al rischio" dirigere, concertare un… https://www.
+1	"	"	PUNCT	FB	_	3	punct	_	_
+2	ciascuno	ciascuno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	protagonista	protagonista	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	3	punct	_	_
+5	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	minimo	minimo	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	sfida	sfida	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	spingere	spingero	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	rischio	rischio	NOUN	S	Gender=Masc|Number=Sing	3	parataxis	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	16	punct	_	_
+16	dirigere	dirigere	VERB	V	VerbForm=Inf	14	acl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	concertare	concertare	VERB	V	VerbForm=Inf	16	conj	_	_
+19	un…	un…	PUNCT	FF	_	20	punct	_	_
+20	https://www	https://www	NOUN	S	_	16	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BCvfbYGGyLl/
+1	instagram.com/p/BCvfbYGGyLl/	instagram.com/p/BCvfbYGGyLl/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

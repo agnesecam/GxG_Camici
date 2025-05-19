@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " @f1grandprixit : Boullier:
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	@f1grandprixit	@f1grandprixit	SYM	X	_	0	root	_	_
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	Boullier	Boullier	PROPN	SP	_	2	appos	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Vandoorne..
+1	Vandoorne.	Vandoorne.	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// bit.ly/229io6F pic.twitter.com/S3RygzLI4L " se fossi in lui m farei una bella grattata d palle!!
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	bit.ly/229io6F	bit.ly/229io6F	PROPN	SP	_	0	root	_	_
+5	pic.twitter.com/S3RygzLI4L	pic.twitter.com/S3RygzLI4L	PROPN	SP	_	4	flat:name	_	_
+6	"	"	PUNCT	FB	_	4	punct	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	fossi	essere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	advcl	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
+11	m	m	X	X	_	12	nsubj	_	_
+12	farei	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+14	bella	bello	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+15	grattata	grattato	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+16	d	d	NOUN	S	_	12	obj	_	_
+17	palle	pallo	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

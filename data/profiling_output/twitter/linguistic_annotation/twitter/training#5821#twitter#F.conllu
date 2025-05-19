@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dr_A_23 io non sono tutte quindi non mi cambia niente.
+1	@dr_A_23	@dr_A_23	NUM	N	NumType=Card	2	nummod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+5	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	9	obl	_	_
+6	quindi	quindi	ADV	B	_	9	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	niente	niente	PRON	PI	Number=Sing|PronType=Ind	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Magari qualcuna gradisce, sai, non aspettano altro @Il_Pornografo
+1	Magari	magari	ADV	B	_	3	advmod	_	_
+2	qualcuna	qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	gradisce	gradire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	aspettano	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	altro	altro	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	_
+10	@Il_Pornografo	@Il_Pornografo	PROPN	SP	_	8	nsubj	_	SpacesAfter=\n
+

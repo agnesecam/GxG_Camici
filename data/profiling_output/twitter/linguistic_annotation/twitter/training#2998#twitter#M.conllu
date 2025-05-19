@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Potrà sembrare strana la domanda ma sono nuovo su tweetter, qualcuno conosce un mastro arcaio?
+1	Potrà	potere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	strana	strano	ADJ	A	Gender=Fem|Number=Sing	2	xcomp	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	2	conj	_	_
+9	su	su	ADP	E	_	10	mark	_	_
+10	tweetter	tweetter	VERB	V	VerbForm=Inf	8	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+13	conosce	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	mastro	mastro	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	arcaio	arcaio	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Uno che costruisce archi, per intenderci
+1	Uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	costruisce	costruire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	archi	arco	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7-8	intenderci	_	_	_	_	_	_	_	SpacesAfter=\n
+7	intender	intendere	VERB	V	VerbForm=Inf	0	root	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+

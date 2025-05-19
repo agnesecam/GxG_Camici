@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = *** #FtseMib , performance marzo +2,9%, dopo 3 mesi consecutivi di calo.
+1	***	***	PUNCT	FF	_	2	punct	_	_
+2	#FtseMib	#FtseMib	PROPN	SP	_	0	root	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	performance	performance	X	SW	Foreign=Yes	7	nmod	_	_
+5	marzo	marzo	NOUN	S	Gender=Masc|Number=Sing	4	flat	_	_
+6	+2,9	+2,9	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+7	%	%	SYM	SYM	_	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	dopo	dopo	ADP	E	_	11	case	_	_
+10	3	3	NUM	N	NumType=Card	11	nummod	_	_
+11	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+12	consecutivi	consecutivo	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	calo	calo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E' il maggior rialzo da ottobre 2015***
+1	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	maggior	maggiore	ADJ	A	Degree=Cmp|Number=Sing	4	amod	_	_
+4	rialzo	rialzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	ottobre	ottobre	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	2015***	2015***	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

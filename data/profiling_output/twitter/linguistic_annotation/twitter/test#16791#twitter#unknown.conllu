@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Higuain prenderà 4 turni di squalifica e sento paragoni con il caso #Bonucci . Piaccia o no, tra i due casi non c'è riscontro alcuno .
+1	#Higuain	#Higuaino	ADV	B	_	2	advmod	_	_
+2	prenderà	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	4	4	NUM	N	NumType=Card	4	nummod	_	_
+4	turni	turno	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	squalifica	squalifica	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	paragoni	paragone	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	caso	caso	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	_
+13	#Bonucci	#Bonucci	PROPN	SP	_	25	nsubj	_	_
+14	.	.	PUNCT	FS	_	13	punct	_	_
+15	Piaccia	Piaccia	PROPN	SP	_	13	flat:name	_	_
+16	o	o	CCONJ	CC	_	17	cc	_	_
+17	no	no	ADV	BN	PronType=Neg	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	13	punct	_	_
+19	tra	tra	ADP	E	_	22	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	due	due	NUM	N	NumType=Card	22	nummod	_	_
+22	casi	caso	NOUN	S	Gender=Masc|Number=Plur	25	obl	_	_
+23	non	non	ADV	BN	PronType=Neg	25	advmod	_	_
+24	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	25	expl	_	SpaceAfter=No
+25	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+26	riscontro	riscontro	NOUN	S	Gender=Masc|Number=Sing	25	nsubj	_	_
+27	alcuno	alcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	26	det	_	_
+28	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

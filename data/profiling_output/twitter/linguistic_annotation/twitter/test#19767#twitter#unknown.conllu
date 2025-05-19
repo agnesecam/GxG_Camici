@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non pensavo potesse farmi così effetto vederti in quel modo...
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	potesse	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	farmi	arma|farme	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	così	così	ADV	B	_	4	advmod	_	_
+6	effetto	effetto	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7-8	vederti	_	_	_	_	_	_	_	_
+7	veder	vedere	VERB	V	VerbForm=Inf	4	advcl	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	modo..	modo..	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ti preferivo quando facevi lo sbruffone
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	preferivo	preferivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quando	quando	SCONJ	CS	_	4	mark	_	_
+4	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sbruffone	sbruffone	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpacesAfter=\n
+

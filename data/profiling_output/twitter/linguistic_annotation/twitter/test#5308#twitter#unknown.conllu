@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #tvoi
+1	#tvoi	#tvoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	_
+
+# sent_id = 2
+# text = Quando mi mollava qualcuna mia zia Evelina mi diceva "morta Francesca un'altra più fresca".
+1	Quando	quando	SCONJ	CS	_	3	mark	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	mollava	mollavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+4	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	zia	zia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	Evelina	Evelina	PROPN	SP	_	6	nmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	diceva	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	morta	morire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	xcomp	_	_
+12	Francesca	Francesca	PROPN	SP	_	11	obl	_	_
+13	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	obj	_	_
+15	più	più	ADV	B	_	16	advmod	_	_
+16	fresca	fresco	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = Era la sua versione della porta/portone
+1	Era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	versione	versione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	porta/portone	porta/portone	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+

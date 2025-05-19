@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = •Rivoglio le mie ali che seppur nere facevano da scudo in quelle sere• Bentornato @antoninomusic #alinere pic.twitter.com/JorE6F6clE
+1	•	•	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Rivoglio	Rivogliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	ali	ala	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+7	seppur	seppure	ADV	B	_	8	advmod	_	_
+8	nere	nero	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+9	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	scudo	scudo	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	14	obl	_	_
+14	sere	sere	VERB	V	VerbForm=Inf	9	conj	_	SpaceAfter=No
+15	•	•	PUNCT	FF	_	16	punct	_	_
+16	Bentornato	Bentornato	PROPN	SP	_	14	obj	_	_
+17	@antoninomusic	@antoninomusic	X	SW	Foreign=Yes	16	nmod	_	_
+18	#alinere	#alinere	X	SW	Foreign=Yes	17	flat:foreign	_	_
+19	pic.twitter.com/JorE6F6clE	pic.twitter.com/JorE6F6clE	X	SW	Foreign=Yes	17	flat:foreign	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @serracchiani SE AVESSERO AVUTO LE CINTURE ALLACCIATE NON MORIVANO, FARE UNA LEGGE, POI IL SENSORE COLPO DI SONNO PER GLI AURISTI!
+1	@serracchiani	@serracchiano	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	SE	se	PROPN	SP	_	1	nmod	_	_
+3	AVESSERO	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	AVUTO	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	LE	Le	PROPN	SP	_	4	obj	_	_
+6	CINTURE	cinture	PROPN	SP	_	5	flat:name	_	_
+7	ALLACCIATE	allacciata	VERB	V	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+8	NON	non	PROPN	SP	_	7	nsubj	_	_
+9	MORIVANO	morire	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	FARE	fare	PROPN	SP	_	8	conj	_	_
+12	UNA	Una	PROPN	SP	_	11	flat:name	_	_
+13	LEGGE	legge	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	POI	Po	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	IL	il	PROPN	SP	_	8	conj	_	_
+17	SENSORE	SENSORE	PROPN	SP	_	16	flat:name	_	_
+18	COLPO	colpo	PROPN	SP	_	16	flat:name	_	_
+19	DI	Di	ADP	E	_	20	case	_	_
+20	SONNO	sonno	PROPN	SP	_	16	nmod	_	_
+21	PER	per	PROPN	SP	_	20	flat:name	_	_
+22	GLI	gli	PROPN	SP	_	21	flat:name	_	_
+23	AURISTI	AURISTI	PROPN	SP	_	21	flat:name	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

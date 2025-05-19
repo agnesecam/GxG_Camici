@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vlouismile e tipo all'inizio stavo ridendo troppo e quello faceva "Hello?
+1	@vlouismile	@vlouismile	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4-5	all'	_	_	_	_	_	_	_	SpaceAfter=No
+4	a	a	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	stavo	stavo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	ridendo	ridere	VERB	V	VerbForm=Ger	0	root	_	_
+9	troppo	troppo	ADV	B	_	12	advmod	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+12	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	Hello	Hello	PROPN	SP	_	12	obj	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Hello?" E NON CE LA FACEVO PROPRIO
+1	Hello	Hello	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	5	punct	_	_
+4	E	e	CCONJ	CC	_	5	cc	_	_
+5	NON	non	PROPN	SP	_	1	nmod	_	_
+6	CE	CE	PROPN	SP	_	5	flat:name	_	_
+7	LA	La	PROPN	SP	_	5	flat:name	_	_
+8	FACEVO	FACEVO	PROPN	SP	_	5	flat:name	_	_
+9	PROPRIO	proprio	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

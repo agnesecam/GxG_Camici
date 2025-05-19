@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sole24ore date solo ora la notizia Come fossimo allocchi!
+1	@sole24ore	@sole24ore	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	date	dare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	solo	solo	ADV	B	_	4	advmod	_	_
+4	ora	ora	ADV	B	_	2	advmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+7	Come	come	ADP	E	_	9	case	_	_
+8	fossimo	fossimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	allocchi	allocco	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

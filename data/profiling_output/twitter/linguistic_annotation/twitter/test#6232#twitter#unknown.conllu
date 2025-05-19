@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per chi fa finta di non vedere e non sentire.
+1	Per	per	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	3	obl	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	finta	finta	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	di	di	ADP	E	_	7	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	vedere	vedere	VERB	V	VerbForm=Inf	4	acl	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	sentire	sentire	VERB	V	VerbForm=Inf	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Siamo in guerra da tempo ormai.
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	ormai	ormai	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Se fossimo in un’europa unita faremmo qualcosa.
+1	Se	se	SCONJ	CS	_	7	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	un’	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	europa	europo	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+6	unita	unito	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	faremmo	faere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 4
+# text = #Bruxelles
+1	#Bruxelles	#Bruxelles	ADP	E	_	0	root	_	SpacesAfter=\n
+

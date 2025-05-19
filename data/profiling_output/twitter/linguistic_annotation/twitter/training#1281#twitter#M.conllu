@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SE SIETE DALLA PARTE DI ELODIE FATE CAPIRE ALLA SUA FAMIGLIA CHE SIETE DALLA SUA PARTE E TWITTATE CON L'##AmiciDiElodie #Amici15
+1	SE	se	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	SIETE	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	DALLA	_	_	_	_	_	_	_	_
+3	DA	Da	PROPN	SP	_	15	nsubj	_	_
+4	LA	La	PROPN	SP	_	3	flat:name	_	_
+5	PARTE	parte	PROPN	SP	_	3	flat:name	_	_
+6	DI	Di	ADP	E	_	7	case	_	_
+7	ELODIE	ELODIE	PROPN	SP	_	3	nmod	_	_
+8	FATE	Fate	PROPN	SP	_	7	flat:name	_	_
+9	CAPIRE	capire	PROPN	SP	_	8	flat:name	_	_
+10-11	ALLA	_	_	_	_	_	_	_	_
+10	A	A	ADP	E	_	11	case	_	_
+11	LA	La	PROPN	SP	_	8	flat:name	_	_
+12	SUA	Sua	PROPN	SP	_	8	flat:name	_	_
+13	FAMIGLIA	famiglia	PROPN	SP	_	8	flat:name	_	_
+14	CHE	Che	PROPN	SP	_	8	flat:name	_	_
+15	SIETE	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+16-17	DALLA	_	_	_	_	_	_	_	_
+16	DA	da	PROPN	SP	_	15	obj	_	_
+17	LA	La	PROPN	SP	_	16	flat:name	_	_
+18	SUA	Sua	PROPN	SP	_	16	flat:name	_	_
+19	PARTE	parte	PROPN	SP	_	16	flat:name	_	_
+20	E	e	CCONJ	CC	_	21	cc	_	_
+21	TWITTATE	TWITTATE	PROPN	SP	_	16	nmod	_	_
+22	CON	con	PROPN	SP	_	21	flat:name	_	_
+23	L'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	SpaceAfter=No
+24	#	#	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+25	#AmiciDiElodie	#AmiciDiElodie	PROPN	SP	_	22	flat:name	_	_
+26	#Amici15	#Amici15	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

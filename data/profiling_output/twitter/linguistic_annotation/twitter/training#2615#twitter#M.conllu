@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Guarda il Video - Le truffe per far sembrare fresco il pesce che non lo è http:// video.sky.it/news/cronaca/l e_truffe_per_far_sembrare_fresco_il_pesce_che_non_lo/v278491.vid … #VideoSkynews
+1	Guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Video	video	PROPN	SP	_	1	obj	_	_
+4	-	-	PUNCT	FF	_	3	punct	_	_
+5	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	truffe	truffa	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	far	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	fresco	fresco	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+13	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	_
+20	video.sky.it/news/cronaca/l	video.sky.it/news/cronaca/l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	e_truffe_per_far_sembrare_fresco_il_pesce_che_non_lo	e_truffe_per_far_sembrare_fresco_il_pesce_che_non_lo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+23	v278491.vid	v278491.vid	CCONJ	CC	_	25	cc	_	_
+24	…	…	PUNCT	FF	_	25	punct	_	_
+25	#VideoSkynews	#VideoSkynews	PROPN	SP	_	21	conj	_	SpacesAfter=\n
+

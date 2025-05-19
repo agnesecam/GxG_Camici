@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Favignana, non si farà più la centrale elettrica a gasolio http:// ilmattinodisicilia.it/17505-17505/ via @il_volatore
+1	Favignana	Favignana	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	più	più	ADV	B	_	5	advmod	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	centrale	centrale	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+9	elettrica	elettrico	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	gasolio	gasolio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	ilmattinodisicilia.it/17505-17505/	ilmattinodisicilia.it/17505-17505/	PUNCT	FF	_	11	punct	_	_
+16	via	via	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+17	@il_volatore	@il_volatore	NOUN	S	Gender=Masc|Number=Sing	16	compound	_	SpacesAfter=\n
+

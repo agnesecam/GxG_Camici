@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nei " lo so io" ci sono tutte le nostre madri e noi, madri.
+1-2	Nei	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	5	mark	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	"	"	PUNCT	FB	_	5	punct	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	xcomp	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	5	punct	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	13	det:predet	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+12	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	madri	madre	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	15	punct	_	_
+17	madri	madro	NOUN	S	Gender=Masc|Number=Plur	15	appos	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = @FrancescoAbate @Einaudieditore
+1	@FrancescoAbate	@FrancescoAbare	PROPN	SP	_	0	root	_	_
+2	@Einaudieditore	@Einaudieditore	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

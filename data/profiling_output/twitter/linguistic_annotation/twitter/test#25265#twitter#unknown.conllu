@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli echi dei bei tempi che furono ..
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	echi	eco	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	bei	bello	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+9	..	..	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 2
+# text = peró che bella questa malinconia 󾬖 http:// fb.me/7KObNFOxi
+1	peró	peró	PROPN	SP	_	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	5	case	_	_
+3	bella	bellare	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	malinconia	malinconia	NOUN	S	Gender=Fem|Number=Sing	1	acl:relcl	_	_
+6	󾬖	󾬖	PROPN	SP	_	5	appos	_	_
+7	http:	http:	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	fb.me/7KObNFOxi	fb.me/7KObNFOxi	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dovremmo talvolta osservare il mondo dalla prospettiva delle nostre scarpe per apprezzare meglio la nostra ''... http:// fb.me/87Tbsz8ey
+1	Dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	talvolta	talvolta	ADV	B	_	3	advmod	_	_
+3	osservare	osservare	VERB	V	VerbForm=Inf	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	prospettiva	prospettiva	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	scarpe	scarpa	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+13	per	per	ADP	E	_	14	mark	_	_
+14	apprezzare	apprezzare	VERB	V	VerbForm=Inf	3	advcl	_	_
+15	meglio	meglio	ADV	B	_	14	advmod	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+17	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	_
+18	''...	''...	PUNCT	FF	_	17	punct	_	_
+19	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	17	punct	_	_
+22	fb.me/87Tbsz8ey	fb.me/87Tbsz8ey	PROPN	SP	_	14	obj	_	SpacesAfter=\n
+

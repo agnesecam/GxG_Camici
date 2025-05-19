@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ICronica poveretto non se n'è neppure reso conto, eran solo 8 minuti che intasavo il traffico, la tenerezza.
+1	@ICronica	@ICronica	ADV	B	_	2	advmod	_	_
+2	poveretto	poveretto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+5	n'	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	SpaceAfter=No
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	neppure	neppure	ADV	BN	PronType=Neg	8	advmod	_	_
+8	reso	rendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+9	conto	conto	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	8	punct	_	_
+11	eran	eran	NOUN	S	Gender=Masc	8	nmod	_	_
+12	solo	solo	ADV	B	_	14	advmod	_	_
+13	8	8	NUM	N	NumType=Card	14	nummod	_	_
+14	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	intasavo	intasare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	traffico	traffico	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	8	punct	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	tenerezza	tenerezza	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ma poi è arrivato il furbo.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	poi	poi	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	arrivato	arrivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	furbo	furbo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

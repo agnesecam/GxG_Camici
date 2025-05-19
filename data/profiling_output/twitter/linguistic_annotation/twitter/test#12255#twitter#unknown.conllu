@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Benji_Mascolo @HNIALL93S sembri la mia maestra dell'elementari che non ci faceva andare in palestra se non facevamo i bravi AHAHAH
+1	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	3	nsubj	_	_
+2	@HNIALL93S	@HNIALL93S	PROPN	SP	_	1	flat:name	_	_
+3	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	maestra	maestra	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	elementari	elementare	ADJ	A	Number=Plur	6	nmod	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	_
+13	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	_
+14	andare	andare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	palestra	palestra	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	se	se	SCONJ	CS	_	19	mark	_	_
+18	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+19	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	advcl	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	bravi	bravo	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	_
+22	AHAHAH	AHAHAH	PROPN	SP	_	19	obj	_	SpacesAfter=\n
+

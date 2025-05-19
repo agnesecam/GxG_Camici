@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaiQuattro @Donatella_Blu @NicoSavi @malikayane noooo ma annullare così ... avevate assicurato.
+1	@RaiQuattro	@RaiQuattro	ADP	E	_	2	case	_	_
+2	@Donatella_Blu	@Donatella_Blu	PROPN	SP	_	4	obl	_	_
+3	@NicoSavi	@NicoSavo	PROPN	SP	_	2	flat:name	_	_
+4	@malikayane	@malikayano	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	noooo	noooo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7	annullare	annullare	VERB	V	VerbForm=Inf	4	conj	_	_
+8	così	così	ADV	B	_	7	advmod	_	_
+9	...	...	PUNCT	FF	_	11	punct	_	_
+10	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	assicurato	assicurato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .altrimenti la registravo prima...
+1	.altrimenti	.altrimere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	registravo	registravo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	prima...	prima.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il mondo è un'arancia stretta dentro il mio pugno, un succo energetico che gocciola, sbava materia e concentrati...
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	arancia	arancia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	stretta	stretto	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	dentro	dentro	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	pugno	pugno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	succo	succo	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+14	energetico	energetico	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	gocciola	gocciolare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	sbava	sbare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+19	materia	materia	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	concentrati...	concentrati...	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4jonTU2tc
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4jonTU2tc	fb.me/4jonTU2tc	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

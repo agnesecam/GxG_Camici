@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ispira le nostre azioni, Signore, e accompagnale con il tuo aiuto, perché ogni nostra attività abbia sempre da te... http:// fb.me/7XCFL2K2u
+1	Ispira	Ispirare	ADP	E	_	4	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	azioni	azione	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	Signore	signore	PROPN	SP	_	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	accompagnale	accompagnale	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	con	con	ADP	E	_	13	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	9	punct	_	_
+15	perché	perché	SCONJ	CS	_	19	mark	_	_
+16	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	18	det	_	_
+17	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	attività	attività	NOUN	S	Gender=Fem	19	nsubj	_	_
+19	abbia	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+20	sempre	sempre	ADV	B	_	19	advmod	_	_
+21	da	da	ADP	E	_	22	case	_	_
+22	te...	te...	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/7XCFL2K2u	fb.me/7XCFL2K2u	PROPN	SP	_	9	obj	_	SpacesAfter=\n
+

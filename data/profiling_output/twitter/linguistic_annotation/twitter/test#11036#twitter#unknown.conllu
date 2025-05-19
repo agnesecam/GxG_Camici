@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Col fiatone post crono s concede subito con un sorriso ai giornalisti sfoggiando pure un ottimo spagnolo!Che dire..
+1-2	Col	_	_	_	_	_	_	_	_
+1	Con	con	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	fiatone	fiatone	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+4	post	post	ADJ	A	_	3	amod	_	_
+5	crono	cre	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+6	s	s	NOUN	S	Gender=Masc	7	nsubj	_	_
+7	concede	concedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	subito	subito	ADV	B	_	7	advmod	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+12-13	ai	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	sfoggiando	sfoggiare	VERB	V	VerbForm=Ger	7	advcl	_	_
+16	pure	pure	ADV	B	_	15	advmod	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	ottimo	ottimo	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+19	spagnolo	spagnolo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+20	!Che	!Che	PROPN	SP	_	19	nmod	_	_
+21	dire..	dire	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/SubiendoPuerto s/status/718893059715571712 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/SubiendoPuerto	twitter.com/SubiendoPuerto	PROPN	SP	_	0	root	_	_
+5	s/status/718893059715571712	s/status/718893059715571712	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes Ti sei messo a eseguire qualcuna e io non c'ero.
+1	@Albericoyes	@Albericoyes	ADP	E	_	2	case	_	_
+2	Ti	Ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+3	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	eseguire	eseguire	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	6	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	SpaceAfter=No
+12	ero	ero	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = La solita sfigata
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	solita	solito	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	sfigata	sfigata	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpacesAfter=\n
+

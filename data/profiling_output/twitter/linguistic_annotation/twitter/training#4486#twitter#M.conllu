@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il Notiziario:
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Notiziario	notiziario	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Lo schiaffone dell'India all'Italia: cosa dovrà fa......
+1	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	schiaffone	schiaffone	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+3-4	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+3	di	di	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	India	India	PROPN	SP	_	2	nmod	_	_
+6-7	all'	_	_	_	_	_	_	_	SpaceAfter=No
+6	a	a	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	Italia	Italia	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	2	punct	_	_
+10	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	11	obj	_	_
+11	dovrà	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	fa......	fa....	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/8bQ0EpuX1
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/8bQ0EpuX1	fb.me/8bQ0EpuX1	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

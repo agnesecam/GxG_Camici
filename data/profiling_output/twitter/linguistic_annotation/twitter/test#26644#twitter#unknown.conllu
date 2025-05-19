@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Gianluca_2205 questo è quello che ho sentito a crc poi non so mi è sembrato sincero
+1	@Gianluca_2205	@Gianluca_2205	PROPN	SP	_	4	nsubj	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	15	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	sentito	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	crc	crc	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+10	poi	poi	ADV	B	_	7	advmod	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	_
+14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	sincero	sincero	NOUN	S	Gender=Masc|Number=Sing	15	xcomp	_	SpacesAfter=\n
+

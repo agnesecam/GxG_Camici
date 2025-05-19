@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2011."Dopo ciò che è successo, i carabinieri m'hanno abbandonato.
+1	2011	2011	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	Dopo	dopo	ADP	E	_	5	case	_	_
+5	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	carabinieri	carabiniere	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+12	m'	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	SpaceAfter=No
+13	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	abbandonato	abbandonato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Neppure si fanno più vedere.
+1	Neppure	neppure	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	3	advmod	_	_
+5	vedere.	vedere.	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .venivano a salutarmi" http://www.
+1	.venivano	.venire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3-4	salutarmi	_	_	_	_	_	_	_	SpaceAfter=No
+3	salutar	salutare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	http://www	http://www	NOUN	S	_	3	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = lastampa.it/2011/09/18/ita lia/cronache/placanica-un-lavoro-al-catastoe-il-sogno-di-una-vita-normale-1APuggwTD1dnDsNlnoVtNI/pagina.html …
+1	lastampa.it/2011/09/18/ita	lastampa.it/2011/09/18/ire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lia	lia	DET	DI	Number=Sing|PronType=Ind	3	det	_	SpaceAfter=No
+3	/cronache	/cronaco	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	placanica-un	placanica-un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+7	lavoro-al-catastoe-il-sogno-di-una-vita-normale	lavoro-al-catastoe-il-sogno-di-una-vita-normale	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	1APuggwTD1dnDsNlnoVtNI	1APuggwTD1dnDsNlnoVtNI	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	pagina.html	pagina.html	NOUN	S	Number=Sing	9	compound	_	_
+12	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amore @AmorosoOF mentre tu facevi la diretta noi eravamo in pieno laboratorio artistico e guardavamo uomini e donne pic.twitter.com/S7RT6BjixG
+1	Amore	amore	PROPN	SP	_	0	root	_	_
+2	@AmorosoOF	@AmorosoOF	PROPN	SP	_	1	flat:name	_	_
+3	mentre	mentre	SCONJ	CS	_	5	mark	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+9	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	cop	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	pieno	pieno	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	laboratorio	laboratorio	NOUN	S	Gender=Masc|Number=Sing	5	advcl	_	_
+13	artistico	artistico	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	guardavamo	guardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	conj	_	_
+16	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	donne	donna	NOUN	S	Gender=Fem|Number=Plur	16	conj	_	_
+19	pic.twitter.com/S7RT6BjixG	pic.twitter.com/S7RT6Bjixg	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

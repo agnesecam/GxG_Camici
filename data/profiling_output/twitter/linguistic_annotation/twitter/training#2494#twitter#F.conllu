@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Lauraepaola eppure dentro Laura è una teenager!
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Lauraepaola	Lauraepaola	PROPN	SP	_	8	nsubj	_	_
+3	eppure	eppure	CCONJ	CC	_	5	cc	_	_
+4	dentro	dentro	ADP	E	_	5	case	_	_
+5	Laura	Laura	PROPN	SP	_	2	conj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	teenager	teenager	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Ti adoro!
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	adoro	adorare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

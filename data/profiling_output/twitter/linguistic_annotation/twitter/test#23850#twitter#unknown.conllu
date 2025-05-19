@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @secchettanicki Caspita!
+1	@secchettanicki	@secchettanicko	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	Caspita	Caspito	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Bello!
+1	Bello	bello	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ma non l'hai trovato dentro l'uovo, vero?!
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
+4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	dentro	dentro	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	uovo	uovo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	vero	vero	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = Te l' avranno regalato a parte...
+1	Te	te	ADV	B	_	4	advmod	_	_
+2	l'	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	avranno	avranno	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	regalato	regalare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	parte...	parte...	NOUN	S	_	4	obl	_	SpacesAfter=\n
+

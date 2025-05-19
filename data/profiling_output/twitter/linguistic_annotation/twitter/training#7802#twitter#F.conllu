@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agorarai
+1	@agorarai	@agoraere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2
+# text = L'intelligenza e' quella cosa che Ermini non ha e dunque non può parlarne!Si può provare schifo per un politico?
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	intelligenza	intelligenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	6	punct	_	_
+5	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+7	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+8	Ermini	Ermini	PROPN	SP	_	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+11	e	e	CCONJ	CC	_	17	cc	_	_
+12	dunque	dunque	ADV	B	_	17	advmod	_	_
+13	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+14	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+15	parlarne!Si	parlarne!Si	PROPN	SP	_	17	nsubj	_	_
+16	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	provare	provare	VERB	V	VerbForm=Inf	10	conj	_	_
+18	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+19	per	per	ADP	E	_	21	case	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	politico?	politico?	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = la risposta e' si!
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	risposta	risposta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	2	punct	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

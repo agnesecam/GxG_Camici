@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @elpme10 @RobertoTatankaa per quanto riguarda Bersani nessuno l'ha fatto fuori ma e' in minoranza.
+1	@elpme10	@elpme10	NUM	N	NumType=Card	2	nummod	_	_
+2	@RobertoTatankaa	@RobertoTatankaa	PROPN	SP	_	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	2	nmod	_	_
+5	riguarda	riguardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+6	Bersani	Bersani	PROPN	SP	_	5	obj	_	_
+7	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+11	fuori	fuori	ADV	B	_	10	advmod	_	_
+12	ma	ma	CCONJ	CC	_	16	cc	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	SpaceAfter=No
+14	'	'	PUNCT	FB	_	16	punct	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	minoranza	minoranza	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Essendo un partito chi la maggior decide
+1	Essendo	essere	AUX	V	VerbForm=Ger	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	partito	partito	NOUN	S	Gender=Masc|Number=Sing	4	advcl	_	_
+4	chi	chi	PRON	PR	PronType=Rel	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	maggior	maggiore	ADJ	A	Degree=Cmp|Number=Sing	7	amod	_	_
+7	decide	decide	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n
+

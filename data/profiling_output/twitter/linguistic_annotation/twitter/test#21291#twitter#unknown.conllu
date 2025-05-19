@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Lucadellisanti @lord_tvblog digli qualcosa per favore!!
+1	@Lucadellisanti	@Lucadellisante	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@lord_tvblog	@lord_tvblog	NOUN	S	Gender=Masc	0	root	_	_
+3	digli	diglio	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	favore	favore	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Anzi gliela dico io #nip
+1	Anzi	anzi	ADV	B	_	4	advmod	_	_
+2-3	gliela	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	dico	dico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+6	#nip	#nip	X	X	_	0	root	_	SpacesAfter=\n
+

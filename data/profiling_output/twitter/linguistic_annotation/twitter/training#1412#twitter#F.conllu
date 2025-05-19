@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = azzardo ipotesi #StelleNere tarda.
+1	azzardo	azzardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ipotesi	ipotesi	NOUN	S	Gender=Fem	1	obj	_	_
+3	#StelleNere	#stellenero	PROPN	SP	_	2	nmod	_	_
+4	tarda	tardo	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = c'e' ancora alberto che impara storia a spese nostre . poi a seguire c'e' il tg nazionale reg e paesano.
+1	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+2	e'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	ancora	ancora	ADV	B	_	4	advmod	_	_
+4	alberto	albrire	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	impara	imparare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+11	.	.	PUNCT	FS	_	4	punct	_	_
+12	poi	poi	ADV	B	_	14	advmod	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	seguire	seguire	VERB	V	VerbForm=Inf	4	advcl	_	_
+15	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	SpaceAfter=No
+16	e'	eo	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	tg	tg	NOUN	S	Gender=Masc	14	obj	_	_
+19	nazionale	nazionale	ADJ	A	Number=Sing	18	amod	_	_
+20	reg	reg	X	X	_	18	nmod	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	paesano	paesano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

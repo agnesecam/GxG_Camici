@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se non lo fanno neppure i maestri tedeschi figurarci noi italioti http://www.
+1	se	se	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+5	neppure	neppure	ADV	BN	PronType=Neg	7	advmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	maestri	maestro	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	tedeschi	tedesco	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9-10	figurarci	_	_	_	_	_	_	_	_
+9	figurar	figurare	VERB	V	VerbForm=Inf	0	root	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+12	italioti	italioto	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+13	http://www	http://www	NOUN	S	_	11	appos	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = primaonline.it/2016/04/04/232 338/ledizione-cartacea-dello-spiegel-e-quella-online-non-dialogano-tra-loro-e-il-magazine-sopravvaluta-la-sua-importanza-lautocritica-del-settimanale-tedesco-come-premessa-al-piano-delleditore-per/ …
+1	primaonline.it/2016/04/04/232	primaonline.it/2016/04/04/232	NUM	N	NumType=Card	4	nummod	_	_
+2	338	338	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	ledizione	ledizione	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	cartacea-dello	cartacea-dello	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	spiegel	spiegel	ADJ	A	_	6	amod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	e	e	CCONJ	CC	_	16	cc	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	quella-online	quella-online	ADJ	A	Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+16	dialogano	dialogare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	tra-loro	tra-loro	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+20	e-il-magazine-sopravvaluta-la-sua-importanza-lautocritica-del-	_	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+21	settimanale	settimanale	ADJ	A	Number=Sing	22	amod	_	SpaceAfter=No
+22	-tedesco-come-premessa-al-piano	-tedesco-come-premessa-al-piano	NOUN	S	Gender=Masc|Number=Sing	16	parataxis	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	delleditore-per	delleditore-pere	NOUN	S	Gender=Masc|Number=Sing	22	compound	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	…	…	PUNCT	FF	_	16	punct	_	SpacesAfter=\n
+

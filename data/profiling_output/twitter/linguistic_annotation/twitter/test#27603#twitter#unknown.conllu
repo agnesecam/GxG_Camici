@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @il_Tommi13 hahah grande credevo solo le donne facessero danni con la macchina
+1	@il_Tommi13	@il_Tommi13	NUM	N	NumType=Card	2	nummod	_	_
+2	hahah	hahah	NOUN	S	Gender=Masc	4	nsubj	_	_
+3	grande	grande	ADJ	A	Number=Sing	2	amod	_	_
+4	credevo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	solo	solo	ADV	B	_	4	advmod	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	donne	donna	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+9	danni	danno	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpacesAfter=\n
+

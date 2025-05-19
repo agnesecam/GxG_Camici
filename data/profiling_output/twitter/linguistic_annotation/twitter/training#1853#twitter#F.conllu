@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tempo(non sottratto ai nostri alunni, ma alle nostre famiglie)e soldi per abilitazione.
+1	Tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	sottratto	sottrarre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5-6	ai	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	8	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	alunni	alunno	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	14	punct	_	_
+10	ma	ma	CCONJ	CC	_	14	cc	_	_
+11-12	alle	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+18	per	per	ADP	E	_	19	case	_	_
+19	abilitazione	abilitazione	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Non si gioca con la vita delle persone @AnnaAscani
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	gioca	giocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vita	vita	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7-8	delle	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	persone	persona	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+10	@AnnaAscani	@AnnaAscani	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

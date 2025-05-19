@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = <3 Buon pomeriggio a tutti!
+1	<3	<3	NUM	N	NumType=Range	2	nummod	_	_
+2	Buon	buon	PROPN	SP	_	0	root	_	_
+3	pomeriggio	pomeriggio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Oggi Pierpaolo ha bisogno che le nostre preghiere si intensifichino, come previsto...
+1	Oggi	oggi	ADV	B	_	3	advmod	_	_
+2	Pierpaolo	Pierpaolo	PROPN	SP	_	3	nsubj	_	_
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	preghiere	preghiera	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	intensifichino	intensificare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	come	come	ADV	B	_	10	advmod	_	_
+13	previsto...	previsto...	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/1cYAoUKFU
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/1cYAoUKFU	fb.me/1cYAoUKFU	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

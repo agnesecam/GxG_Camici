@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Posiello Vi è mai capitato di registrare un video ma non avevate acceso la telecamera?
+1	#Posiello	#Posiello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	Vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	mai	mai	ADV	B	_	5	advmod	_	_
+5	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	registrare	registrare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	video	video	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	ma	ma	CCONJ	CC	_	13	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	acceso	accendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	telecamera	telecamera	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Posa ma cosa guardi?
+1	Posa	poso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	obj	_	_
+4	guardi	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/m2WHhoDjju
+1	pic.twitter.com/m2WHhoDjju	pic.twitter.com/m2WHhoDjju	ADP	E	_	0	root	_	SpacesAfter=\n
+

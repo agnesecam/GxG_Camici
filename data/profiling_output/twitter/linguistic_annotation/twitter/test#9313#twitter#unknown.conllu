@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quante persone stupide e sguaiate su tw, non hanno pudore neppure in giornate tristi come oggi
+1	Quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+3	stupide	stupido	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	sguaiate	sguaiato	ADJ	A	Gender=Fem|Number=Plur	3	conj	_	_
+6	su	su	ADP	E	_	7	case	_	_
+7	tw	tw	NOUN	S	_	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	pudore	pudore	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	giornate	giornata	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+15	tristi	triste	ADJ	A	Number=Plur	14	amod	_	_
+16	come	come	ADP	E	_	17	case	_	_
+17	oggi	oggi	ADV	B	_	15	advmod	_	SpacesAfter=\n
+

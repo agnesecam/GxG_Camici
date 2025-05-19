@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ClaudioDeglinn2 ma come si fa a rilasciare tali affermazioni,noi siamo noi anche lei è noi?
+1	@ClaudioDeglinn2	@ClaudioDeglinn2	NUM	N	NumType=Card	5	nummod	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	come	come	ADV	B	_	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	rilasciare	rilasciare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	tali	tale	PRON	PD	Number=Plur|PronType=Dem	7	obj	_	_
+9	affermazioni,noi	affermazioni,noio	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	obj	_	_
+10	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+12	anche	anche	ADV	B	_	10	advmod	_	_
+13	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ma di cosa si parla, dunque !
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	obl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+5	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	dunque	dunque	ADV	B	_	5	advmod	_	_
+8	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

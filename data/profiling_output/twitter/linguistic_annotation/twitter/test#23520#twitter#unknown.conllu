@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'individuo moderno è tenuto ad avere successo non a essere una persona.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	individuo	individuo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+3	moderno	moderno	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+5	tenuto	tenere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	ad	a	ADP	E	_	7	mark	_	_
+7	avere	avere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	successo	successo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+10	a	a	ADP	E	_	13	mark	_	_
+11	essere	essere	AUX	V	VerbForm=Inf	13	cop	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	persona	persona	NOUN	S	Gender=Fem|Number=Sing	7	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Egli appartiene alla 'generazione...
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	appartiene	appartenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	'	'	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	generazione...	generazione...	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+
+# sent_id = 3
+# text = http:// fb.me/2f6KESIrm
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2f6KESIrm	fb.me/2f6KESIrm	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

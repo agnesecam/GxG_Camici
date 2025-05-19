@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @borghi_claudio A Milano come nei barconi...
+1	@borghi_claudio	@borghi_claudio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	A	a	ADP	E	_	3	case	_	_
+3	Milano	Milano	PROPN	SP	_	1	nmod	_	_
+4	come	come	ADV	B	_	7	cc	_	_
+5-6	nei	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	barconi..	barconi..	NOUN	S	_	1	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = dentro tutti anche i geni dell'economia... povera Italia...
+1	dentro	dentro	ADV	B	_	2	advmod	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nmod	_	_
+3	anche	anche	ADV	B	_	5	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	geni	gene	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+6-7	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	di	di	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	economia...	economia...	NOUN	S	_	5	nmod	_	_
+9	povera	povero	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	Italia...	Italia...	PROPN	SP	_	8	nmod	_	_
+
+# sent_id = 3
+# text = Passerà...
+1	Passerà...	Passerà.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = http:// milano.corriere.it/notizie/cronac a/16_aprile_09/milano-comunali-corrado-passera-si-ritira-pronto-sostenere-parisi-b3ef9288-fe60-11e5-9678-8403d0d80f1f.shtmlco …
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	milano.corriere.it/notizie/cronac	milano.corriere.it/notizie/cronac	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	a/16_aprile_09	a/16_aprile_09	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	milano-comunali-corrado-passera-si-ritira-pronto-sostenere-parisi-b3ef9288-fe60-11e5-9678-8403d0d80f1f.shtmlco	milano-comunali-corrado-passera-si-ritira-pronto-sostenere-parisi-b3ef9288-fe60-11e5-9678-8403d0d80f1f.shtmlco	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

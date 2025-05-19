@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ilmessaggeroit Se visita i Gulag del compagno Stalin, starà male x lungo tempo, ammesso ke abbia 1 coscienza, ma ne dubito
+1	@ilmessaggeroit	@ilmessaggeroit	ADV	B	_	11	advmod	_	_
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	visita	visitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	Gulag	Gulag	PROPN	SP	_	3	obj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	compagno	compagno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	Stalin	Stalin	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	male	male	ADV	B	_	13	advmod	_	_
+13	x	x	SYM	SYM	_	11	nsubj	_	_
+14	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+15	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	11	punct	_	_
+17	ammesso	ammettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+18	ke	ke	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+19	abbia	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+20	1	1	NUM	N	NumType=Card	21	nummod	_	_
+21	coscienza	coscienza	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	19	punct	_	_
+23	ma	ma	CCONJ	CC	_	25	cc	_	_
+24	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	25	iobj	_	_
+25	dubito	dubitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	conj	_	SpacesAfter=\n
+

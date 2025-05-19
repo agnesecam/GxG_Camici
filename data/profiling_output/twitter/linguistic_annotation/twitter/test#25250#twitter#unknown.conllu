@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " I complici italiani furono il ministro del Tesoro Piero Barucci, l'allora Direttore di Bankitalia Lamberto Dini... http:// fb.me/7Iqf2POPu
+1	"	"	PUNCT	FB	_	5	punct	_	_
+2	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	complici	complico	NOUN	S	Number=Plur	5	nsubj	_	_
+4	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Tesoro	tesoro	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	Piero	Piero	PROPN	SP	_	10	nmod	_	_
+12	Barucci	Barucci	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	16	punct	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+15	allora	allora	ADV	B	_	16	advmod	_	_
+16	Direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	7	conj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	Bankitalia	Bankitalia	PROPN	SP	_	16	nmod	_	_
+19	Lamberto	Lamberto	PROPN	SP	_	18	flat:name	_	_
+20	Dini...	Dini...	PROPN	SP	_	18	flat:name	_	_
+21	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	18	punct	_	_
+24	fb.me/7Iqf2POPu	fb.me/7Iqf2POPu	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

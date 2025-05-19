@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non è la oxa ad entrare nel personale, elodie, ma elisa, ke ha parlato di ciò che hai dentro e che quindi "canti" #Amici15
+1	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	oxa	oxa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	ad	a	ADP	E	_	6	mark	_	_
+6	entrare	entrare	VERB	V	VerbForm=Inf	4	acl	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	personale	personale	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	6	punct	_	_
+11	elodie	elodia	NOUN	S	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	18	punct	_	_
+13	ma	ma	CCONJ	CC	_	18	cc	_	_
+14	elisa	elidere	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	ke	ke	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
+17	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	18	obl	_	_
+21	che	che	PRON	PR	PronType=Rel	22	obj	_	_
+22	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+23	dentro	dentro	ADV	B	_	22	advmod	_	_
+24	e	e	CCONJ	CC	_	28	cc	_	_
+25	che	che	PRON	PR	PronType=Rel	28	case	_	_
+26	quindi	quindi	ADV	B	_	28	advmod	_	_
+27	"	"	PUNCT	FB	_	28	punct	_	SpaceAfter=No
+28	canti	cante	NOUN	S	Number=Plur	22	conj	_	SpaceAfter=No
+29	"	"	PUNCT	FB	_	28	punct	_	_
+30	#Amici15	#Amici15	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

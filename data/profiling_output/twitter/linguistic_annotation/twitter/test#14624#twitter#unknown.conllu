@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @urbanistrani io ve l'avevo detto che quei fiorellini erano parecchio sospetti!
+1	@urbanistrani	@urbanistrano	ADV	B	_	6	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	ve	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+5	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	che	che	SCONJ	CS	_	11	mark	_	_
+8	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+9	fiorellini	fiorellino	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+10	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	parecchio	parecchio	NOUN	S	Gender=Masc|Number=Sing	6	ccomp	_	_
+12	sospetti	sospetto	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

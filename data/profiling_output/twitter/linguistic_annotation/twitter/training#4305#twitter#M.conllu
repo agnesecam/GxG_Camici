@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gine ricorda che te rimarrai sempre nel mio cuore e non sparirà mai, anche quando il destino ci dovrà separare io sarò lì nei momenti
+1	Gine	Gine	PROPN	SP	_	2	nsubj	_	_
+2	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	rimarrai	rimarere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	sparirà	sparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	_
+14	mai	mai	ADV	B	_	13	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	13	punct	_	_
+16	anche	anche	ADV	B	_	22	advmod	_	_
+17	quando	quando	SCONJ	CS	_	22	mark	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	destino	destino	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+20	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+21	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	aux	_	_
+22	separare	separare	VERB	V	VerbForm=Inf	13	advcl	_	_
+23	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
+24	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	28	cop	_	_
+25	lì	lì	ADV	B	_	28	advmod	_	_
+26-27	nei	_	_	_	_	_	_	_	_
+26	in	in	ADP	E	_	28	case	_	_
+27	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
+28	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	22	advcl	_	SpacesAfter=\n
+

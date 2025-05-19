@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @baronedicastro Siamo sicuri che disponga davvero di quelle parti che definisci incurabili?
+1	@baronedicastro	@baronedicastro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	sicuri	sicuro	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	disponga	disporre	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	davvero	davvero	ADV	B	_	9	advmod	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	9	det	_	_
+9	parti	parte	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	obj	_	_
+11	definisci	definire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	incurabili	incurabile	ADJ	A	Number=Plur	11	xcomp	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Vedendo ciò che scrive, il dubbio sorge.
+1	Vedendo	vedere	VERB	V	VerbForm=Ger	8	advcl	_	_
+2	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	scrive	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	sorge	sorge	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @telecomitaliaTw incredibile 3 squilli in tre chiamate poi riagganciato €0,93 con Tim è assurdo avendo un piano illimitato.
+1	@telecomitaliaTw	@telecomitaliaTw	NOUN	S	Gender=Masc	14	nsubj	_	_
+2	incredibile	incredibile	ADJ	A	Number=Sing	1	amod	_	_
+3	3	3	NUM	N	NumType=Card	4	nummod	_	_
+4	squilli	squille	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	tre	tre	NUM	N	NumType=Card	7	nummod	_	_
+7	chiamate	chiamata	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	poi	poi	ADV	B	_	9	advmod	_	_
+9	riagganciato	riagganciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+10	€0,93	€0,93	NUM	N	NumType=Card	9	nummod	_	_
+11	con	con	ADP	E	_	12	case	_	_
+12	Tim	Tim	PROPN	SP	_	9	obl	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	assurdo	assurdo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+15	avendo	avere	VERB	V	VerbForm=Ger	14	advcl	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	piano	piano	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+18	illimitato	illimitato	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

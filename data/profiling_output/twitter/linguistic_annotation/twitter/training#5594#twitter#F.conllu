@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = vorrei fare amicizia con qualcuna di voi che va al concerto dei 5sos il 14, meglio ancora se avete il primo anello.
+1	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	amicizia	amicizia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	5	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	concerto	concerto	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13-14	dei	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	5sos	5sos	NOUN	S	Number=Plur	12	nmod	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	14	14	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	2	punct	_	_
+19	meglio	meglio	ADV	B	_	20	advmod	_	_
+20	ancora	ancora	ADV	B	_	22	advmod	_	_
+21	se	se	SCONJ	CS	_	22	mark	_	_
+22	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	25	amod	_	_
+25	anello	anello	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = se vi va scrivetemi
+1	se	se	SCONJ	CS	_	3	mark	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+4-5	scrivetemi	_	_	_	_	_	_	_	SpacesAfter=\n
+4	scrivete	scrivere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La situazione si Rcs domani secondo me è negative anche perché stoppare un acquisto quasi certo di Cairo può essere un arma a doppio taglio
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	Rcs	Rcs	PROPN	SP	_	9	nsubj	_	_
+5	domani	domani	ADV	B	_	4	advmod	_	_
+6	secondo	secondo	ADP	E	_	7	case	_	_
+7	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	negative	negativo	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+10	anche	anche	ADV	B	_	22	advmod	_	_
+11	perché	perché	SCONJ	CS	_	22	mark	_	_
+12	stoppare	stoppare	VERB	V	VerbForm=Inf	22	csubj	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	acquisto	acquisto	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	quasi	quasi	ADV	B	_	16	advmod	_	_
+16	certo	certo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	Cairo	Cairo	PROPN	SP	_	14	nmod	_	_
+19	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+20	essere	essere	AUX	V	VerbForm=Inf	22	cop	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	arma	arma	NOUN	S	Gender=Masc|Number=Sing	9	advcl	_	_
+23	a	a	ADP	E	_	25	case	_	_
+24	doppio	doppio	ADJ	A	Gender=Masc|Number=Sing	25	amod	_	_
+25	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	SpacesAfter=\n
+

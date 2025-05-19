@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ricordo a tutte le nostre socie e a tutti i nostri soci che questa sera si terrà l'Assemblea dei soci del... http:// fb.me/7R0gX9CpM
+1	Ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	6	case	_	_
+3	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	6	det:predet	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	socie	socia	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+7	e	e	CCONJ	CC	_	12	cc	_	_
+8	a	a	ADP	E	_	12	case	_	_
+9	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	12	det:predet	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	soci	socio	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+13	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+14	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
+15	sera	sera	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	terrà	tenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	acl:relcl	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	Assemblea	assemblea	PROPN	SP	_	17	obj	_	_
+20-21	dei	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	soci	socio	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	_
+23	del...	del.	PUNCT	FS	_	22	punct	_	_
+24	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	22	punct	_	_
+27	fb.me/7R0gX9CpM	fb.me/7R0gX9CpM	PROPN	SP	_	1	obj	_	SpacesAfter=\n
+

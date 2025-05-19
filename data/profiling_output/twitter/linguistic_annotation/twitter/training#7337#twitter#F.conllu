@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ariachetira Oggi se parli di valori tutti ridono perche antichi ,ma essi formano la persona nella responsabilita saggezza e giustizia.
+1	@Ariachetira	@Ariachetirare	ADP	E	_	2	case	_	_
+2	Oggi	oggi	ADV	B	_	9	advmod	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4-5	parli	_	_	_	_	_	_	_	_
+4	par	parre	VERB	V	VerbForm=Inf	9	advcl	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	valori	valore	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	_
+9	ridono	ridere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	perche	perca	ADV	B	_	11	advmod	_	_
+11	antichi	antico	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+12	,ma	,mo	ADV	B	_	14	advmod	_	_
+13	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+14	formano	formare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	persona	persona	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+17-18	nella	_	_	_	_	_	_	_	_
+17	in	in	ADP	E	_	20	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	responsabilita	responsabilita	ADJ	A	Number=Sing	20	amod	_	_
+20	saggezza	saggezza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agorarai @gerrygreco Se la ricorda Ventimiglia e la gente accampata sugli scogli?
+1	@agorarai	@agoraere	ADV	B	_	2	advmod	_	_
+2	@gerrygreco	@gerrygreco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Se	se	SCONJ	CS	_	5	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ricorda	ricorda	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+6	Ventimiglia	Ventimiglia	PROPN	SP	_	5	nmod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	gente	gente	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+10	accampata	accampare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+11-12	sugli	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	scogli	scoglio	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = L'Italia l'ha avuta Calais.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Italia	Italia	PROPN	SP	_	5	nsubj	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	Calais	Calais	PROPN	SP	_	5	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

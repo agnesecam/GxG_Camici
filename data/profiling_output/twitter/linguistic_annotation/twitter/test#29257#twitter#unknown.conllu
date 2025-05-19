@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rischio Vesuvio, allarme dal Canada:
+1	Rischio	rischio	PROPN	SP	_	0	root	_	_
+2	Vesuvio	Vesuvio	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	allarme	allarme	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5-6	dal	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Canada	Canada	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Non avrete il tempo di scappare:
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	scappare	scappare	VERB	V	VerbForm=Inf	5	acl	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = l'Osservatorio agisca" http:// fb.me/4sM8jGFXH
+1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Osservatorio	Osservatorio	PROPN	SP	_	0	root	_	_
+3	agisca	agisco	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	5	punct	_	_
+5	http:	http:	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	_
+8	fb.me/4sM8jGFXH	fb.me/4sM8jGFXH	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

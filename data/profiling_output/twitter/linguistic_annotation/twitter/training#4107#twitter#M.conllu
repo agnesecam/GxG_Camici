@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco finalmente i migliori video di 2Talent, le regole per la finale e chi invece dovrà combattere ai Play... http:// youtu.be/RV8uqL7hSHQ?a
+1	Ecco	ecco	ADV	B	_	25	advmod	_	_
+2	finalmente	finalmente	ADV	B	_	1	advmod	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	5	amod	_	_
+5	video	video	NOUN	S	Gender=Masc	1	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	2Talent	2Talent	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	regole	regola	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	finale	finale	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	chi	chi	PRON	PR	Number=Sing|PronType=Rel	5	conj	_	_
+16	invece	invece	ADV	B	_	18	advmod	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	combattere	combattere	VERB	V	VerbForm=Inf	15	acl:relcl	_	_
+19-20	ai	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	Play...	Play...	PROPN	SP	_	18	obl	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	youtu.be/RV8uqL7hSHQ?a	youtu.be/RV8uqL7hSHQ?a	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

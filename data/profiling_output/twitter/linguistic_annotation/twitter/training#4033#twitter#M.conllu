@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nei luoghi di culto in #Veneto si dovrà parlare italiano.
+1-2	Nei	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	luoghi	luogo	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	culto	culto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	#Veneto	#Veneto	PROPN	SP	_	10	obl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+11	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Esonerato Del Neri.
+1	Esonerato	Esonerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2-3	Del	_	_	_	_	_	_	_	_
+2	Di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Neri	neri	PROPN	SP	_	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

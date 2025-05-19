@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @artiscenichecom non mi spaventa e non mi fa rabbia sentirmi dare ragione a posteriori, e nemmeno non riceverla affatto
+1	@artiscenichecom	@artiscenichecom	NOUN	S	Gender=Masc	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	spaventa	spaventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	rabbia	rabbia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+10-11	sentirmi	_	_	_	_	_	_	_	_
+10	sentir	sentire	ADJ	A	_	9	amod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	dare	dare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+13	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	posteriori	posteriore	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	20	punct	_	_
+17	e	e	CCONJ	CC	_	20	cc	_	_
+18	nemmeno	nemmeno	ADV	BN	PronType=Neg	20	advmod	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20-21	riceverla	_	_	_	_	_	_	_	_
+20	ricever	ricevere	VERB	V	VerbForm=Inf	4	conj	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	affatto	affatto	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	SpacesAfter=\n
+

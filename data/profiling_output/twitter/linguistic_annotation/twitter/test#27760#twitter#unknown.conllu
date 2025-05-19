@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Potremmo esser vs figli.
+1	Potremmo	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	esser	essere	VERB	V	VerbForm=Inf	0	root	_	_
+3	vs	vs	X	X	_	2	obj	_	_
+4	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	3	amod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Abbiamo 30anni, abbiamo studiato e siamo giâ stati selezionati.
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	30anni	30anne	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	studiato	studiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+6	e	e	CCONJ	CC	_	10	cc	_	_
+7	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+8	giâ	giâ	PROPN	SP	_	10	nsubj:pass	_	_
+9	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	aux:pass	_	_
+10	selezionati	selezionare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #abilitatitfa @mariocalabresi @beppesevergnini
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	abilitatitfa	abilitatitfare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	@mariocalabresi	@mariocalabreso	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+4	@beppesevergnini	@beppesevergnino	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chissà come farà #Salvini a stare nella solita coalizione con chi era al governo insieme alla fornero.
+1	Chissà	chissà	INTJ	I	_	3	discourse	_	_
+2	come	come	ADV	B	_	3	advmod	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	Salvini	Salvini	PROPN	SP	_	3	nsubj	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	stare	stare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	solita	solito	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	coalizione	coalizione	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	chi	chi	PRON	PR	PronType=Rel	3	obl	_	_
+14	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	governo	governo	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+18	insieme	insieme	ADV	B	_	13	advmod	_	_
+19-20	alla	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	fornero	fornero	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #Passera
+1	#Passera	#Passera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

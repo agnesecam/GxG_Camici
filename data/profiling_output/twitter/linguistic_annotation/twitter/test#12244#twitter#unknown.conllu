@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @stefanocorrenti @mimar2000 @MICHELEDURANTI1 @ospedaleperugia Dr. @stefanocorrenti ma quando facevamo questi casi, gli altri che facevano?
+1	@stefanocorrenti	@stefanocorrento	NOUN	S	Number=Plur	4	nsubj	_	_
+2	@mimar2000	@mimar2000	NUM	N	NumType=Card	3	nummod	_	_
+3	@MICHELEDURANTI1	@MICHELEDURANTI1	PROPN	SP	_	1	nmod	_	_
+4	@ospedaleperugia	@ospedaleperugiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Dr	Dr	PROPN	SP	_	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+7	@stefanocorrenti	@stefanocorrento	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	ma	ma	CCONJ	CC	_	10	cc	_	_
+9	quando	quando	SCONJ	CS	_	10	mark	_	_
+10	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	conj	_	_
+11	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+12	casi	caso	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	10	punct	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	obl	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

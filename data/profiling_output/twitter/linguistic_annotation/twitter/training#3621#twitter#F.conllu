@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Al ministro Lorenzin una clinica privata a Bari non puo 'fare pronto soccorso fara 'i sui interesdi ed esami inutili
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+4	Lorenzin	Lorenzin	PROPN	SP	_	3	nmod	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	clinica	clinica	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+7	privata	privato	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Bari	Bari	PROPN	SP	_	6	nmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	puo	puo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	'	'	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	fare	fare	VERB	V	VerbForm=Inf	11	ccomp	_	_
+14	pronto	pronto	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+15	soccorso	soccorso	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	fara	farare	ADP	E	_	17	case	_	_
+17	'i	'o	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+18-19	sui	_	_	_	_	_	_	_	_
+18	su	su	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	interesdi	interesdo	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+21	ed	e	CCONJ	CC	_	22	cc	_	_
+22	esami	esame	NOUN	S	Gender=Masc|Number=Plur	17	conj	_	_
+23	inutili	inutile	ADJ	A	Number=Plur	22	amod	_	SpacesAfter=\n
+

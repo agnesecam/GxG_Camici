@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @capuanogio meno male che #Tosel non guarda la televisione altrimenti sconfesserebbe anche il referto di #Irrati https:// twitter.com/sometimesLucia /status/717793544845529088 …
+1	@capuanogio	@capuanogiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	meno	meno	ADV	B	_	1	advmod	_	_
+3	male	male	ADV	B	_	1	advmod	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	#Tosel	#Tosel	PROPN	SP	_	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	televisione	televisione	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	altrimenti	altrimenti	CCONJ	CC	_	11	cc	_	_
+11	sconfesserebbe	sconfessare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	anche	anche	ADV	B	_	14	advmod	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	referto	referto	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	#Irrati	#Irrati	PROPN	SP	_	14	nmod	_	_
+17	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	twitter.com/sometimesLucia	twitter.com/sometimesLucia	PROPN	SP	_	16	nmod	_	_
+21	/status/717793544845529088	/status/717793544845529088	NUM	N	NumType=Card	20	nummod	_	_
+22	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

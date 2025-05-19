@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SamHeughan binomio perfetto vestito fantastico con dentro un uomo fantastico.
+1	@SamHeughan	@SamHeughan	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	binomio	binomio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	vestito	vestire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+5	fantastico	fantastico	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	con	con	ADP	E	_	9	case	_	_
+7	dentro	dentro	ADV	B	_	9	advmod	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+10	fantastico	fantastico	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = L'Italia ti ama sam
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Italia	Italia	PROPN	SP	_	4	nsubj	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	ama	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sam	sam	X	X	_	4	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Se è notte si farà giorno" (Cit. #BenignoZaccagnini ).Utile rileggere il grande Zac,uomo temprato dalla vita che ha saputo servire il Paese
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	4	mark	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	notte	notte	NOUN	S	Gender=Fem|Number=Sing	6	advcl	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	10	punct	_	_
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	Cit.	Cit.	PROPN	SP	_	6	obl	_	_
+11	#BenignoZaccagnini	#BenignoZaccagnini	PROPN	SP	_	10	flat:name	_	_
+12	)	)	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+13	.Utile	.Utile	ADJ	A	Number=Sing	14	xcomp	_	_
+14	rileggere	rileggere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	grande	grande	ADJ	A	Number=Sing	17	amod	_	_
+17	Zac,uomo	Zac,uomo	PROPN	SP	_	14	obj	_	_
+18	temprato	temprare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
+19-20	dalla	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	vita	vita	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+22	che	che	PRON	PR	PronType=Rel	24	nsubj	_	_
+23	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl:relcl	_	_
+25	servire	servire	VERB	V	VerbForm=Inf	24	xcomp	_	_
+26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	Paese	paese	NOUN	S	Gender=Masc|Number=Sing	25	obj	_	SpacesAfter=\n
+

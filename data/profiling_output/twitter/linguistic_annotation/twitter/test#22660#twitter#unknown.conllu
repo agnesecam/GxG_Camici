@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NikoRomito @identitagolose @oloapmarchi @gabrielezanatt @Radio24_news @nikcarbone Bhè, tu Niko, nn avrai pmb a trattare di finanza...;)
+1	@NikoRomito	@NikoRomito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	@identitagolose	@identitagoloso	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	@oloapmarchi	@oloapmarco	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	@gabrielezanatt	@gabrielezanatt	NOUN	S	Gender=Masc	3	compound	_	_
+5	@Radio24_news	@Radio24_news	PROPN	SP	_	3	nmod	_	_
+6	@nikcarbone	@nikcarborre	SYM	SYM	_	5	flat:name	_	_
+7	Bhè	Bhé	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	tu	tu	ADP	E	_	10	case	_	_
+10	Niko	Niko	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	nn	nno	ADP	E	_	13	case	_	_
+13	avrai	avere	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14	pmb	pmb	NOUN	S	_	13	compound	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	trattare	trattare	VERB	V	VerbForm=Inf	1	advcl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	finanza...	finanza...	NOUN	S	_	16	obl	_	SpaceAfter=No
+19	;	;	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

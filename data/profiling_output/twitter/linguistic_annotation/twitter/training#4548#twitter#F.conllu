@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @arbitromirko dicono dovrà stare fermo X 15gg X elongiazione coscia dx
+1	@arbitromirko	@arbitromirko	ADV	B	_	2	advmod	_	_
+2	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	stare	stare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+5	fermo	fermo	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	X	x	X	SW	Foreign=Yes	5	compound	_	_
+7	15gg	15gg	X	SW	Foreign=Yes	6	flat:foreign	_	_
+8	X	x	X	SW	Foreign=Yes	6	flat:foreign	_	_
+9	elongiazione	elongiazione	X	SW	Foreign=Yes	6	flat:foreign	_	_
+10	coscia	cosciare	NOUN	S	Gender=Fem|Number=Sing	6	flat:foreign	_	_
+11	dx	dx	ADJ	NO	Number=Sing|NumType=Ord	2	xcomp	_	SpacesAfter=\n
+

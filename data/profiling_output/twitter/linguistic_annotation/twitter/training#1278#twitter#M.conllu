@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ipsedixitennius più di Sousa delegittimato edi vedersi sorpassare a razzo dalla Roma?
+1	@ipsedixitennius	@ipsedixitennius	NOUN	S	Gender=Masc	0	root	_	_
+2	più	più	ADV	B	_	4	advmod	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Sousa	Sousa	PROPN	SP	_	1	nmod	_	_
+5	delegittimato	delegittimato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+6	edi	edio	ADJ	A	Gender=Masc|Number=Plur	5	xcomp	_	_
+7-8	vedersi	_	_	_	_	_	_	_	_
+7	veder	vedere	VERB	V	VerbForm=Inf	6	csubj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	sorpassare	sorpassare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	razzo	razzo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Roma	Roma	PROPN	SP	_	9	obl	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Secondo me combo di questo e di inadeguatezza mentale
+1	Secondo	secondo	ADP	E	_	2	case	_	_
+2	me	me	X	SW	Foreign=Yes	0	root	_	_
+3	combo	combo	X	SW	Foreign=Yes	2	flat:foreign	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	inadeguatezza	inadeguatezza	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+9	mentale	mentale	ADJ	A	Number=Sing	8	amod	_	SpacesAfter=\n
+

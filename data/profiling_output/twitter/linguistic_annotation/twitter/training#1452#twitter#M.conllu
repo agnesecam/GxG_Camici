@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buonasera a tutti.
+1	Buonasera	Buonasera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	obl	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Le nostre previsioni meteo per domani.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	previsioni	previsione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	meteo	meteo	NOUN	S	Gender=Masc|Number=Sing	3	compound	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	domani	domani	NOUN	S	Gender=Masc	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Tempo in sensibile miglioramento a partire dalla prima... http:// fb.me/6ErfOFl7P
+1	Tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	sensibile	sensibile	ADJ	A	Number=Sing	4	amod	_	_
+4	miglioramento	miglioramento	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	partire	partire	VERB	V	VerbForm=Inf	4	acl	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	prima...	prima...	NOUN	S	_	6	obl	_	_
+10	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	_
+13	fb.me/6ErfOFl7P	fb.me/6ErfOFl7P	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BenjieFede @fedefederossi @Benji_Mascolo Ciao sono di roma e mi chiedevo quanto rimanevate qua o se vi facevate un altro giro vi adoro
+1	@BenjieFede	@BenjieFede	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+2	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	1	nsubj	_	_
+4	Ciao	ciao	PROPN	SP	_	3	flat:name	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	roma	roma	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
+10	chiedevo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	conj	_	_
+11	quanto	quanto	ADV	B	_	12	advmod	_	_
+12	rimanevate	rimanevare	VERB	A	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+13	qua	qua	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	xcomp	_	_
+14	o	o	CCONJ	CC	_	17	cc	_	_
+15	se	se	SCONJ	CS	_	17	mark	_	_
+16	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	17	iobj	_	_
+17	facevate	facevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	conj	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	altro	altro	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+20	giro	giro	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+21	vi	vi	ADV	B	_	20	advmod	_	_
+22	adoro	adorare	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	SpacesAfter=\n
+

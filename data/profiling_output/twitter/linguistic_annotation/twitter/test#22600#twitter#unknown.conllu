@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mia nonna mi ha praticamente insultata per tutto il viaggio pensando che le facessi il muso per qualcosa mentre in realtà avevo le cuffiette
+1	Mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	nonna	nonna|nonno	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	praticamente	praticamente	ADV	B	_	6	advmod	_	_
+6	insultata	insultare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	per	per	ADP	E	_	10	case	_	_
+8	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+11	pensando	pensare	VERB	V	VerbForm=Ger	6	advcl	_	_
+12	che	che	SCONJ	CS	_	22	mark	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	facessi	facesso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	muso	muso	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	_
+17	per	per	ADP	E	_	18	case	_	_
+18	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	16	nmod	_	_
+19	mentre	mentre	CCONJ	CC	_	22	cc	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	realtà	realtà	NOUN	S	Gender=Fem	22	obl	_	_
+22	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
+23	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+24	cuffiette	cuffietta	NOUN	S	Gender=Fem|Number=Plur	22	obj	_	SpacesAfter=\n
+

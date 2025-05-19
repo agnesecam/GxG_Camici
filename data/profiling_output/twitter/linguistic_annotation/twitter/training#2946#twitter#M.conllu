@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SalandinS i quali sono cresciuto.il mio è il dissenso verso ciò che è diventato il Tutto che deve sempre fare sembrare che è tutto uno
+1	@SalandinS	@SalandinS	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	quali	quale	PRON	PR	Number=Plur|PronType=Rel	0	root	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	cresciuto.il	cresciuto.il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mio	mio	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	dissenso	dissenso	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+10	verso	verso	ADP	E	_	11	case	_	_
+11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	nmod	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	xcomp	_	_
+17	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+18	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+19	sempre	sempre	ADV	B	_	20	advmod	_	_
+20	fare	fare	VERB	V	VerbForm=Inf	16	acl:relcl	_	_
+21	sembrare	sembrare	VERB	V	VerbForm=Inf	20	xcomp	_	_
+22	che	che	SCONJ	CS	_	25	mark	_	_
+23	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+24	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	25	obl	_	_
+25	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	21	ccomp	_	SpacesAfter=\n
+

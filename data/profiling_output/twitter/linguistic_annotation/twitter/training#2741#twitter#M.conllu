@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #perQuanto ogni giornata possa sembrare uguale, sta a noi cercare tra le labbra un sorriso, per vivere e continuare a crescere.
+1	#perQuanto	#perQuanto	ADV	B	_	5	advmod	_	_
+2	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+6	uguale	uguale	ADJ	A	Number=Sing	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	obl	_	_
+11	cercare	cercare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+12	tra	tra	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	labbra	labbrare	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	11	punct	_	_
+18	per	per	ADP	E	_	19	mark	_	_
+19	vivere	vivere	VERB	V	VerbForm=Inf	11	advcl	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	continuare	continuare	VERB	V	VerbForm=Inf	19	conj	_	_
+22	a	a	ADP	E	_	23	mark	_	_
+23	crescere	crescere	VERB	V	VerbForm=Inf	21	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = oggi la tipa che mi è antipatica ha cambiato la pic;
+1	oggi	oggi	ADV	B	_	9	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	tipa	tipo	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+4	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	antipatica	antipatico	ADJ	A	Gender=Fem|Number=Sing	3	acl:relcl	_	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	pic	pic	NOUN	S	Gender=Fem	9	obj	_	SpaceAfter=No
+12	;	;	PUNCT	FC	_	9	punct	_	_
+
+# sent_id = 2
+# text = indossa un qualcosa che la fa sembrare una specie Tristan Tzara del quartiere Testaccio
+1	indossa	indossare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	specie	specie	NOUN	S	Gender=Fem	7	obj	_	_
+10	Tristan	Tristan	PROPN	SP	_	9	nmod	_	_
+11	Tzara	Tzara	PROPN	SP	_	10	flat:name	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	quartiere	quartiere	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+15	Testaccio	Testaccio	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mettere fuori tutti i giocatori che non vogliono restare mettiamo dentro i giovani e pensiamo all'anno prossimo
+1	Mettere	mettere	VERB	V	VerbForm=Inf	0	root	_	_
+2	fuori	fuori	ADV	B	_	1	advmod	_	_
+3	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	giocatori	giocatore	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	vogliono	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	restare	restare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+10	mettiamo	mettere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	dentro	dentro	ADV	B	_	10	advmod	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	giovani	giovane	NOUN	S	Number=Plur	10	obj	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	pensiamo	pensare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+16-17	all'	_	_	_	_	_	_	_	SpaceAfter=No
+16	a	a	ADP	E	_	18	case	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
+18	anno	anno	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+19	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	SpacesAfter=\n
+

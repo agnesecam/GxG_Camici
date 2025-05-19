@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #continuando con questi modo di essere/fare stereotipato, ma in negativo, la società italiana che fine farà ?
+1	#continuando	#continuare	VERB	V	VerbForm=Ger	0	root	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	modo	modo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	di	di	ADP	E	_	8	mark	_	_
+6	essere	essere	AUX	V	VerbForm=Inf	8	aux	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+8	fare	fare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+9	stereotipato	stereotipato	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	ma	ma	CCONJ	CC	_	13	cc	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	negativo	negativo	ADJ	A	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	8	punct	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	società	società	NOUN	S	Gender=Fem	8	nsubj:pass	_	_
+17	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+19	fine	fine	ADV	B	_	20	advmod	_	_
+20	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	_
+21	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Mi sa non bella
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	bella	bello	ADJ	A	Gender=Fem|Number=Sing	2	xcomp	_	SpacesAfter=\n
+

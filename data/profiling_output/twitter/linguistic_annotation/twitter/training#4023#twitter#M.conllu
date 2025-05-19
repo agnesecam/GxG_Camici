@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il BVB ricorda a Klopp che lo spogliatoio in cui dovrà andare sarà l'altro https:// twitter.com/JochenStutzky/ status/717738541401378816 …
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	BVB	BVB	PROPN	SP	_	3	nsubj	_	_
+3	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Klopp	Klopp	PROPN	SP	_	19	obl	_	_
+6	che	che	SCONJ	CS	_	19	mark	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	spogliatoio	spogliatoio	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	cui	cui	PRON	PR	PronType=Rel	12	obl	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	andare	andare	VERB	V	VerbForm=Inf	8	acl:relcl	_	_
+13	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	cop	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+15	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	nmod	_	_
+16	https:	https:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	_
+19	twitter.com/JochenStutzky/	twitter.com/JochenStutzky/	PROPN	SP	_	3	obj	_	_
+20	status/717738541401378816	status/717738541401378816	NUM	N	NumType=Card	19	nummod	_	_
+21	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

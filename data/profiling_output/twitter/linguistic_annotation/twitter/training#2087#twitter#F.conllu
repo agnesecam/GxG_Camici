@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dallo stand di Itakon, anteprima della nuova e bellissima Mark 45 di Iron Man da Age of Ultron di Kotobukiya!
+1-2	Dallo	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	stand	stand	NOUN	S	Gender=Masc	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Itakon	Itakon	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	anteprima	anteprima	ADV	B	_	13	advmod	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	13	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+10	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	10	conj	_	_
+13	Mark	Mark	PROPN	SP	_	3	nmod	_	_
+14	45	45	NUM	N	NumType=Card	13	nummod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	Iron	Iron	PROPN	SP	_	13	nmod	_	_
+17	Man	man	PROPN	SP	_	16	flat:name	_	_
+18	da	da	ADP	E	_	19	case	_	_
+19	Age	Age	PROPN	SP	_	13	nmod	_	_
+20	of	of	ADP	E	_	21	case	_	_
+21	Ultron	Ultron	PROPN	SP	_	19	nmod	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	Kotobukiya	Kotobukiya	PROPN	SP	_	21	nmod	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = In... http:// fb.me/4w6DCqiF5
+1	In...	In.	PUNCT	FF	_	5	punct	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	_
+5	fb.me/4w6DCqiF5	fb.me/4w6DCqiF5	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

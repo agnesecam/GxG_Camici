@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = con una libreria così viene voglia di leggere anche a me.
+1	con	con	ADP	E	_	3	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	libreria	libreria	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+4	così	così	ADV	B	_	5	advmod	_	_
+5	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	leggere	leggere	VERB	V	VerbForm=Inf	6	acl	_	_
+9	anche	anche	ADV	B	_	11	advmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = speriamo almeno che dentro ci sia un… https://www.
+1	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	almeno	almeno	ADV	B	_	6	advmod	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	dentro	dentro	ADV	B	_	6	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+7	un…	un…	PUNCT	FF	_	8	punct	_	_
+8	https://www	https://www	NOUN	S	_	6	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD93CdEktPG/
+1	instagram.com/p/BD93CdEktPG/	instagram.com/p/BD93CdEktPG/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

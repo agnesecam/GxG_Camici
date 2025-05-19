@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I vostri figli non sono figli vostri.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	vostri	vostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	vostri	vostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Sono i figli e le figlie del desiderio che la vita ha di sé stessa.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	figlie	figlio	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	desiderio	desiderio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	vita	vita	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+13	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	sé	sé	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	obl	_	_
+16	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Essi ... http:// fb.me/4jC4eBCRE
+1	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+2	...	...	PUNCT	FF	_	1	punct	_	_
+3	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	fb.me/4jC4eBCRE	fb.me/4jC4eBCRE	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

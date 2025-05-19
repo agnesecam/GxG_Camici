@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Antonio permettimi.
+1	Antonio	Antonio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	permettimi.	permettimi.	NOUN	S	_	1	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..fosse solo l'allenatore il problema saremmo a posto.
+1	..fosse	..fosso	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	solo	solo	ADV	B	_	4	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	allenatore	allenatore	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	problema	problema	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+7	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	6	acl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	posto.	posto.	NOUN	S	_	7	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .purtroppo è l'ultimo dei nostri problemi..
+1	.purtroppo	.purtroppo	ADV	B	_	4	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	ultimo	ultimo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	problemi..	problemi..	NOUN	S	_	4	nmod	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/AntoVitiello/s tatus/711860012365320192 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/AntoVitiello/s	twitter.com/AntoVitiello/s	PROPN	SP	_	0	root	_	_
+5	tatus/711860012365320192	tatus/711860012365320192	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

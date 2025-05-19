@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che bello avere un amica top model
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	bello	bello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	avere	avere	VERB	V	VerbForm=Inf	2	acl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	amica	amico	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	top	top	ADJ	A	_	5	amod	_	_
+7	model	model	ADJ	A	_	5	amod	_	SpacesAfter=\n
+

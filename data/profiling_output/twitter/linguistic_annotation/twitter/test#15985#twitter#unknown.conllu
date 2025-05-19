@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pagare a successo:
+1	Pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	successo	successo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = trasformare da comunicatore a venditore chiunque #twittamitutto #SMMdayIT @FlashAndrea #iusve @IUS_VE
+1	trasformare	trasformare	VERB	V	VerbForm=Inf	6	acl	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	comunicatore	comunicatore	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	venditore	venditore	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	0	root	_	_
+7	#twittamitutto	#twittamitutto	DET	DI	Number=Sing|PronType=Ind	8	det	_	_
+8	#SMMdayIT	#SMMdayIT	PROPN	SP	_	6	nmod	_	_
+9	@FlashAndrea	@FlashAndrea	PROPN	SP	_	8	flat:name	_	_
+10	#iusve	#iusvere	NUM	N	NumType=Card	8	flat:name	_	_
+11	@IUS_VE	@IUS_VE	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

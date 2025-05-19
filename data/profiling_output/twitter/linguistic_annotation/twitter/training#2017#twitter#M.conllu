@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima di cadere a terra.
+1	Prima	prima	ADV	B	_	3	mark	_	_
+2	di	di	ADP	E	_	1	fixed	_	_
+3	cadere	cadere	VERB	V	VerbForm=Inf	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	terra.	terra.	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = finito dallo sforzo portatemi all Olimpico http:// fb.me/3Z155gwXn
+1	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+2-3	dallo	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sforzo	sforzo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5-6	portatemi	_	_	_	_	_	_	_	_
+5	portate	portare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	acl	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+7	all	all	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Olimpico	olimpico	PROPN	SP	_	5	obj	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	fb.me/3Z155gwXn	fb.me/3Z155gwXn	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

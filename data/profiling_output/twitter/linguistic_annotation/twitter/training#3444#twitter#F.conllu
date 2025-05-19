@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ManuDolcenera @MaxPezzali @MartyRockstar @THEVOICE_ITALY @VoiceItalia ma manu quando farà the Voice
+1	@ManuDolcenera	@ManuDolcenera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	@MaxPezzali	@MaxPezzali	PROPN	SP	_	0	root	_	_
+3	@MartyRockstar	@MartyRockstar	PROPN	SP	_	2	flat:name	_	_
+4	@THEVOICE_ITALY	@thevoice_italy	PROPN	SP	_	2	flat:name	_	_
+5	@VoiceItalia	@VoiceItalia	PROPN	SP	_	2	flat:name	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7	manu	manu	ADP	E	_	2	conj	_	_
+8	quando	quando	SCONJ	CS	_	9	mark	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	advcl	_	_
+10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
+11	Voice	Voice	PROPN	SP	_	9	obj	_	SpacesAfter=\n
+

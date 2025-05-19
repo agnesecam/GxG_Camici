@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chissà cosa non mi è chiaro nel 'non visualizzare subito gli snap della gente che sembri una stalker', io boh
+1	Chissà	chissà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	6	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	1	ccomp	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	'	'	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	visualizzare	visualizzare	VERB	V	VerbForm=Inf	6	csubj	_	_
+12	subito	subito	ADV	B	_	11	advmod	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	snap	snap	NOUN	S	Gender=Masc	11	obj	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	gente	gente	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+19	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	stalker'	stalkero	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	21	punct	_	_
+23	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+24	boh	boh	NOUN	S	Gender=Masc	19	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non metto anelli al naso per sembrare il surrogato di un toro.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	metto	mettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	anelli	anello	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	naso	naso	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	2	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	surrogato	surrogato	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	toro	toro	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

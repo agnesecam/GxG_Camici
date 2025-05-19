@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CarloAlterego e' la casta politica, arricchitasi, a spese nostre ,che è esempio squallido di nuova ricchezza.Sono costoro indecenti
+1	@CarloAlterego	@CarloAlterego	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	SpaceAfter=No
+3	'	'	PUNCT	FB	_	5	punct	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	casta	casta	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+6	politica	politico	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8-9	arricchitasi	_	_	_	_	_	_	_	SpaceAfter=No
+8	arricchita	arricchire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	obj	_	_
+10	,	,	PUNCT	FF	_	8	punct	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	20	obl	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	,che	,ca	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	16	nsubj	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+17	squallido	squallido	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	17	obl	_	_
+20	ricchezza.Sono	ricchezza.Sere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+21	costoro	costoro	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+22	indecenti	indecente	ADJ	A	Number=Plur	21	amod	_	SpacesAfter=\n
+

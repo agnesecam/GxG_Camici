@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = furono in quel di Chiesina Uzzanese quando accadette(rebbe...)... forse #chiesimo https:// twitter.com/KaizeenDigital /status/710494341396099072 …
+1	furono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	quel	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Chiesina	Chiesina	PROPN	SP	_	3	nmod	_	_
+6	Uzzanese	Uzzanese	PROPN	SP	_	5	flat:name	_	_
+7	quando	quando	SCONJ	CS	_	8	mark	_	_
+8	accadette	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	rebbe...	rebbe...	NOUN	S	Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	...	.	PUNCT	FF	_	3	punct	_	_
+13	forse	forse	ADV	B	_	14	advmod	_	_
+14	#chiesimo	#chiesimo	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+15	https:	https:	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	twitter.com/KaizeenDigital	twitter.com/KaizeenDigital	PROPN	SP	_	3	appos	_	_
+19	/status/710494341396099072	/status/710494341396099072	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

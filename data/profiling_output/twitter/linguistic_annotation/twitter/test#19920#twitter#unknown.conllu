@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una vita in bianco e nero perché nel grigio non c'è passione alcuna https:// twitter.com/elverojaguar/s tatus/715681427644407809 …
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vita	vita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	bianco	bianco	ADJ	A	Gender=Masc|Number=Sing	2	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	nero	nero	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	_
+7	perché	perché	SCONJ	CS	_	13	mark	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	grigio	grigio	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	SpaceAfter=No
+13	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+14	passione	passione	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+15	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	_
+16	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	twitter.com/elverojaguar/s	twitter.com/elverojaguar/s	NOUN	S	Gender=Fem|Number=Plur	14	nmod	_	_
+20	tatus/715681427644407809	tatus/715681427644407809	NUM	N	NumType=Card	19	nummod	_	_
+21	…	…	PUNCT	FF	_	19	punct	_	SpacesAfter=\n
+

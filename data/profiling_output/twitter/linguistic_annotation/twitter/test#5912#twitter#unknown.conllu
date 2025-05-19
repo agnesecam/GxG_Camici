@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @HORASDESIGN @beniapiccone @sole24ore Pensare che se fossimo stati un po più furbi e ... la Silicon Valley sarebbe nata in Italia!
+1	@HORASDESIGN	@horasdesigno	ADP	E	_	2	case	_	_
+2	@beniapiccone	@beniapiccone	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+3	@sole24ore	@sole24ore	ADJ	A	Number=Sing	2	amod	_	_
+4	Pensare	pensare	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	se	se	SCONJ	CS	_	10	mark	_	_
+7	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+8	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	cop	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	po	po	NOUN	S	Gender=Masc|Number=Sing	4	ccomp	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	furbi	furbo	ADJ	A	Number=Plur	10	amod	_	_
+13	e	e	CCONJ	CC	_	19	cc	_	_
+14	...	...	PUNCT	FF	_	16	punct	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Silicon	Silicon	PROPN	SP	_	19	nsubj	_	_
+17	Valley	Valley	PROPN	SP	_	16	flat:name	_	_
+18	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	nata	nascere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	Italia	Italia	PROPN	SP	_	19	obl	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

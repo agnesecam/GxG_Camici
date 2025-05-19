@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @redazioneiene @RugVero occupatevi degli #abilitatiTFA truffati e vessati dallo Stato.
+1	@redazioneiene	@redazioneenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+2	@RugVero	@RugVero	PROPN	SP	_	3	nsubj	_	_
+3	occupatevi	occupare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	degli	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	#abilitatiTFA	#abilitatiTFA	PROPN	SP	_	3	obl	_	_
+7	truffati	truffato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	vessati	vessare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	conj	_	_
+10-11	dallo	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	9	obl:agent	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #tfaèconcorso #tfainruolo
+1	#tfaèconcorso	#tfaèconcorso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	#tfainruolo	#tfainruolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

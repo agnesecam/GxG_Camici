@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Però, professore, suona assai male, detto così... https:// twitter.com/pbecchi/status /715465685367914497 …
+1	Però	però	ADV	B	_	5	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	professore	professore	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	suona	suonare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	assai	assai	ADV	B	_	5	advmod	_	_
+7	male	male	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+10	così...	così...	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+11	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	_
+14	twitter.com/pbecchi/status	twitter.com/pbecchi/status	NOUN	S	Gender=Fem	10	nmod	_	_
+15	/715465685367914497	/715465685367914497	NUM	N	NumType=Card	14	nummod	_	_
+16	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

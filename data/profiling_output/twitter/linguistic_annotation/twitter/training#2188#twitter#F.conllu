@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DavLucia Buona domenica,Lucia
+1	@DavLucia	@DavLucia	PROPN	SP	_	0	root	_	_
+2	Buona	buona	PROPN	SP	_	1	flat:name	_	_
+3	domenica,	domenica,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	Lucia	Lucia	PROPN	SP	_	1	nmod	_	_
+
+# sent_id = 2
+# text = Qui molto nuvoloso Ma il è dentro ogni tua parola Prendo quello Baci e dolcezza pic.twitter.com/BUlZDsLBSe
+1	Qui	qui	ADV	B	_	3	advmod	_	_
+2	molto	molto	ADV	B	_	3	advmod	_	_
+3	nuvoloso	nuvoloso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	Ma	ma	CCONJ	CC	_	10	cc	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+7	dentro	dentro	ADV	B	_	10	advmod	_	_
+8	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	10	det	_	_
+9	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	parola	parola	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+11	Prendo	Prere	PROPN	SP	_	12	nmod	_	_
+12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	nmod	_	_
+13	Baci	Bace	PROPN	SP	_	12	nmod	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	dolcezza	dolcezzo	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
+16	pic.twitter.com/BUlZDsLBSe	pic.twitter.com/bulzdslbse	PROPN	SP	_	13	flat:name	_	SpacesAfter=\n
+

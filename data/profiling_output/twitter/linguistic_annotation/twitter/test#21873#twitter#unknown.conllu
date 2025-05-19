@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - dovevi tipo mandare una foto a Morini con l'hashtag e lui avrebbe scelto.
+1	-	-	PUNCT	FF	_	3	punct	_	_
+2	dovevi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	mandare	mandare	VERB	V	VerbForm=Inf	3	csubj	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	foto	foto	NOUN	S	Gender=Fem	4	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Morini	Morini	PROPN	SP	_	6	nmod	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	hashtag	hashtag	NOUN	S	Gender=Masc	6	nmod	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Il terzo é che i 5sos stavano a Guidonia(pensa te) e stavano -
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	terzo	terzo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+3	é	é	NOUN	S	Gender=Masc	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	5sos	5sos	NOUN	S	Number=Plur	7	nsubj	_	_
+7	stavano	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Guidonia	Guidonia	PROPN	SP	_	7	obl	_	SpaceAfter=No
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	pensa	pensare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+12	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	obj	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	11	punct	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	stavano	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+16	-	-	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

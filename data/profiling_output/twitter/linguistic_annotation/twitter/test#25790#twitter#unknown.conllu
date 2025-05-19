@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Al ginnasio l' avremmo mai pensato che saremmo stati qui insieme davanti al ponte di Brooklyn?" Amici per sempre.
+1	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+2-3	Al	_	_	_	_	_	_	_	_
+2	A	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ginnasio	ginnasio	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+5	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+6	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	mai	mai	ADV	B	_	8	advmod	_	_
+8	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	che	che	SCONJ	CS	_	22	mark	_	_
+10	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	aux	_	_
+11	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	22	cop	_	_
+12	qui	qui	ADV	B	_	22	advmod	_	_
+13	insieme	insieme	ADV	B	_	22	case	_	_
+14	davanti	davanti	ADV	B	_	13	fixed	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	13	fixed	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+17	ponte	ponte	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	Brooklyn	Brooklyn	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	22	punct	_	_
+22	Amici	amico	PROPN	SP	_	8	nsubj	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24	sempre	sempre	ADV	B	_	22	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/OTZqIV9zjk
+1	pic.twitter.com/OTZqIV9zjk	pic.twitter.com/OTZqIV9zjk	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

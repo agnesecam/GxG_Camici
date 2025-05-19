@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma lui si limita a dare un consiglio, che sà di avvertimento.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	limita	limitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	dare	dare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	consiglio	consiglio	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	sà	sà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	avvertimento	avvertimento	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Tra non molto farà trovare i pizzini.
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	molto	molto	ADV	B	_	4	advmod	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	trovare	trovare	VERB	V	VerbForm=Inf	4	csubj	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	pizzini	pizzino	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/social_5stars/ status/718185691549712385 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/social_5stars/	twitter.com/social_5stars/	PUNCT	FF	_	1	punct	_	_
+5	status/718185691549712385	status/718185691549712385	NUM	N	NumType=Card	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

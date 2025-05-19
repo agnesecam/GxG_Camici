@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteodiliberto Aspettiamo il comunicato ufficiale.
+1	@matteodiliberto	@matteodiliberto	ADV	B	_	2	advmod	_	_
+2	Aspettiamo	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	comunicato	comunicato	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	ufficiale	ufficiale	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Xme 3-4 giornate sono giuste.
+1	Xme	Xme	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	3	3	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	4	4	NUM	N	NumType=Card	5	nummod	_	_
+5	giornate	giornata	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	giuste	giusto	ADJ	A	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = In ogni caso il Napoli dovrà preparare un ricorso cazzuto
+1	In	in	ADP	E	_	3	case	_	_
+2	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Napoli	Napoli	PROPN	SP	_	7	nsubj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	preparare	preparare	VERB	V	VerbForm=Inf	0	root	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ricorso	ricorso	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	cazzuto	cazzuto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpacesAfter=\n
+

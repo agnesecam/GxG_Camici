@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , ricapitolando la giornata di ieri, l'espulsione di Higuain è colpa di @bonucci_leo19 .
+1	Dunque	dunque	ADV	B	_	14	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ricapitolando	ricapitolare	VERB	V	VerbForm=Ger	14	advcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	ieri	ieri	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	espulsione	espulsione	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Higuain	Higuain	PROPN	SP	_	10	nmod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	@bonucci_leo19	@bonucci_leo19	NUM	N	NumType=Card	14	nummod	_	_
+17	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Ieri il Napoli ha giocato contro di noi?
+1	Ieri	ieri	ADV	B	_	5	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Napoli	Napoli	PROPN	SP	_	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	contro	contro	ADP	E	_	8	case	_	_
+7	di	di	ADP	E	_	6	fixed	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

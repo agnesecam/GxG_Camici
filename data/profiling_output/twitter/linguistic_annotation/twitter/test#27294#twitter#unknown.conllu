@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PirataPantani10 @valebianconero1 Vontro la Juve tutti diventano Barcellona....
+1	@PirataPantani10	@PirataPantani10	NUM	N	NumType=Card	7	nummod	_	_
+2	@valebianconero1	@valebianconero1	NUM	N	NumType=Card	7	nummod	_	_
+3	Vontro	Vontro	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Juve	Juve	PROPN	SP	_	2	nmod	_	_
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj	_	_
+7	diventano	diventare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	Barcellona...	Barcellona...	PROPN	SP	_	7	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ahime '
+1	Ahime	Ahima	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	'	'	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

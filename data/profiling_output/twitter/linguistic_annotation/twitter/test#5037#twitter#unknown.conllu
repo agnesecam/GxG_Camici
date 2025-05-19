@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cosa facevate mentre si inquinava l'acqua che disseta Puglia e Basilicata?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	facevate	facevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mentre	mentre	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	inquinava	inquinavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	disseta	dissetare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	Puglia	Puglia	PROPN	SP	_	9	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	Basilicata	Basilicata	PROPN	SP	_	10	conj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = C'è la necessità di riformare le... http:// fb.me/53yOXLUWl
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	necessità	necessità	NOUN	S	Gender=Fem	2	nsubj	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	riformare	riformare	VERB	V	VerbForm=Inf	4	acl	_	_
+7	le...	le...	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	fb.me/53yOXLUWl	fb.me/53yOXLUWl	PROPN	SP	_	7	nmod	_	SpacesAfter=\n
+

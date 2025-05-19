@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bellissima domenica in bici dentro il Boscone della Mesola, consigliatissimo (ho visto anche i cervi finalmente!) pic.twitter.com/PxRMNyvr1a
+1	Bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
+2	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	bici	bico	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+5	dentro	dentro	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Boscone	Boscone	PROPN	SP	_	4	nmod	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Mesola	Mesola	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	consigliatissimo	consigliatissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	10	amod	_	_
+13	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+14	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+16	anche	anche	ADV	B	_	18	advmod	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	cervi	cervo	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+19	finalmente	finalmente	ADV	B	_	18	advmod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	15	punct	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	15	punct	_	_
+22	pic.twitter.com/PxRMNyvr1a	pic.twitter.com/PxRMNyvr1a	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

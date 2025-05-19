@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuna di voi sa dirmi quanto è durato il concerto dei 5sos l'anno scorso?
+1	Qualcuna	Qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
+4	sa	sapere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5-6	dirmi	_	_	_	_	_	_	_	_
+5	dir	dire	VERB	V	VerbForm=Inf	0	root	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+7	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	5	obj	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	durato	durare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	concerto	concerto	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	5sos	5sos	NOUN	S	Gender=Masc	11	nmod	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	anno	anno	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+17	scorso	scorso	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

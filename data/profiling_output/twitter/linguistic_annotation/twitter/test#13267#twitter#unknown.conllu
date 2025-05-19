@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parecchi . https:// twitter.com/xrunninafteryo u/status/706140590086475777 …
+1	Parecchi	parecchio	PROPN	SP	_	0	root	_	_
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	https:	https:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	twitter.com/xrunninafteryo	twitter.com/xrunninafteryo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+7	u/status/706140590086475777	u/status/706140590086475777	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

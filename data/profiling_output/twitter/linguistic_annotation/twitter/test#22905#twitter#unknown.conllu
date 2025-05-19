@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = guarda che glieli ha fatti!
+1	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3-4	glieli	_	_	_	_	_	_	_	_
+3	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	iobj	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	ccomp	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!1!1!! true love!!!1!!
+1	!!1!1!!	!!1!1!!	PUNCT	FF	_	2	punct	_	_
+2	true	truire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	love	love	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!!1!!	!!1!!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/underwater_c/s tatus/711593520675557376 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/underwater_c/s	twitter.com/underwater_c/s	NOUN	S	Gender=Fem	0	root	_	_
+5	tatus/711593520675557376	tatus/711593520675557376	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

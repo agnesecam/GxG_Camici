@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaGabbiaTw Sì perché produrre bio è più dispendioso, ma temo che ci siano parecchie truffe
+1	@LaGabbiaTw	@LaGabbiaTw	PROPN	SP	_	0	root	_	_
+2	Sì	sì	INTJ	I	Polarity=Pos	4	discourse	_	_
+3	perché	perché	SCONJ	CS	_	4	mark	_	_
+4	produrre	produrre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	bio	bio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	più	più	ADV	B	_	8	advmod	_	_
+8	dispendioso	dispendioso	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	ma	ma	CCONJ	CC	_	11	cc	_	_
+11	temo	temere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+12	che	che	SCONJ	CS	_	14	mark	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+14	siano	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+15	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
+16	truffe	truffa	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Alexanderspie non lo credo.
+1	@Alexanderspie	@Alexanderspia	NOUN	S	Gender=Fem|Number=Plur	4	dislocated	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ma era quello che intendevo, se avessero voluto trovarli li avrebbero già presi.
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	intendevo	intendere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	se	se	SCONJ	CS	_	10	mark	_	_
+8	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+9	voluto	volere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	_
+10-11	trovarli	_	_	_	_	_	_	_	_
+10	trovar	trovare	VERB	V	VerbForm=Inf	5	advcl	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+13	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	già	già	ADV	B	_	15	advmod	_	_
+15	presi	prendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ci sono altre.potenze dietro
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	altre.potenze	altre.potenza	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+4	dietro	dietro	ADV	B	_	2	advmod	_	SpacesAfter=\n
+

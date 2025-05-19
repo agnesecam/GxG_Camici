@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trasfòrmati Amo le favole, i racconti, i miti.
+1	Trasfòrmati	Trasfòrmare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	Amo	amare	PROPN	SP	_	4	nsubj	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	favole	favole	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	racconti	racconte	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	miti	mito	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Mi incantano.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	incantano	incantare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = In essi sono nascosti ogni volta significati...
+1	In	in	ADP	E	_	2	case	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	nascosti	nascondere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	volta	volta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	significati...	significati.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/5KJYt3sEx
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/5KJYt3sEx	fb.me/5KJYt3sEx	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

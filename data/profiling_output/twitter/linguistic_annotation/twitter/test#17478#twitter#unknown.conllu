@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PER FAVORE ADOTTATE QUESTI ANGIOLETTI CERCONO SOLO DI CHIAMARE MAMMA E PAPÀ IO QUESTA GIOIA L HO AVUTA QUANTO... http:// fb.me/3yzDfU1qe
+1	PER	per	PROPN	SP	_	0	root	_	_
+2	FAVORE	favore	PROPN	SP	_	1	flat:name	_	_
+3	ADOTTATE	adottate	PROPN	SP	_	1	flat:name	_	_
+4	QUESTI	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	ANGIOLETTI	ANGIOLETTI	PROPN	SP	_	1	flat:name	_	_
+6	CERCONO	CERCONO	PROPN	SP	_	5	flat:name	_	_
+7	SOLO	solo	PROPN	SP	_	5	flat:name	_	_
+8	DI	Di	ADP	E	_	9	case	_	_
+9	CHIAMARE	chiamare	PROPN	SP	_	5	nmod	_	_
+10	MAMMA	mamma	PROPN	SP	_	9	flat:name	_	_
+11	E	e	CCONJ	CC	_	12	cc	_	_
+12	PAPÀ	papà	PROPN	SP	_	5	conj	_	_
+13	IO	io	PROPN	SP	_	12	flat:name	_	_
+14	QUESTA	Questa	PROPN	SP	_	12	flat:name	_	_
+15	GIOIA	gioia	PROPN	SP	_	12	flat:name	_	_
+16	L	L	PROPN	SP	_	12	flat:name	_	_
+17	HO	avere	PROPN	SP	_	12	flat:name	_	_
+18	AVUTA	avere	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+19	QUANTO...	QUANTO...	PROPN	SP	_	12	flat:name	_	_
+20	http:	http:	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	12	punct	_	_
+23	fb.me/3yzDfU1qe	fb.me/3yzDfU1qe	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

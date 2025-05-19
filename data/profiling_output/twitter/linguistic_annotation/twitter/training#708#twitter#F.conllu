@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SabryBuononato @DearMaryJack @AriannaLinguar1 @laura_putzolu_ Per loro è importante quindi per noi é come se avessimo vinto l'oscar.
+1	@SabryBuononato	@SabryBuononare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+2	@DearMaryJack	@DearMaryJack	PROPN	SP	_	8	nsubj	_	_
+3	@AriannaLinguar1	@AriannaLinguar1	PROPN	SP	_	2	flat:name	_	_
+4	@laura_putzolu_	@laura_putzolu-	PUNCT	FB	_	2	punct	_	_
+5	Per	per	ADP	E	_	6	case	_	_
+6	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	8	obl	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	importante	importante	ADJ	A	Number=Sing	0	root	_	_
+9	quindi	quindi	ADV	B	_	11	advmod	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	obl	_	_
+12	é	é	CCONJ	CC	_	16	cc	_	_
+13	come	come	ADV	B	_	16	advmod	_	_
+14	se	se	SCONJ	CS	_	16	mark	_	_
+15	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	oscar	oscar	NOUN	S	Gender=Masc	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

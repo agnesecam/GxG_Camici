@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ParadisoNatalia al posto di nessuno, ci furono le elezioni Europee e si scelsero i vari "ministri" @elenuccia71
+1	@ParadisoNatalia	@ParadisoNatalia	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	posto	posto	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+12	Europee	europeo	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:pass	_	_
+15	scelsero	scegliere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+17	vari	vario	ADJ	A	Gender=Masc|Number=Plur	19	amod	_	_
+18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+19	ministri	ministro	NOUN	S	Gender=Masc|Number=Plur	15	nsubj:pass	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	21	punct	_	_
+21	@elenuccia71	@elenuccia71	NUM	N	NumType=Card	9	nummod	_	SpacesAfter=\n
+

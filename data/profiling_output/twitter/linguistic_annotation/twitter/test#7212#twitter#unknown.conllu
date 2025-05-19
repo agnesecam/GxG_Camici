@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I miei studenti dovranno dire no. “Avere il coraggio di dire ai giovani che essi sono tutti sovrani, per cui... http:// fb.me/XTA7flcE
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	studenti	studente	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	dovranno	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+6	no	no	ADV	BN	PronType=Neg	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	_
+8	“	“	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	Avere	avere	VERB	V	VerbForm=Inf	5	ccomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	dire	dire	VERB	V	VerbForm=Inf	11	acl	_	_
+14-15	ai	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	giovani	giovane	NOUN	S	Number=Plur	13	obl	_	_
+17	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+18	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+19	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+20	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	21	obl	_	_
+21	sovrani	sovrano	ADJ	A	Gender=Masc|Number=Plur	16	acl:relcl	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	16	punct	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24	cui...	cui...	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+25	http:	http:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	24	punct	_	_
+28	fb.me/XTA7flcE	fb.me/XTA7flcE	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

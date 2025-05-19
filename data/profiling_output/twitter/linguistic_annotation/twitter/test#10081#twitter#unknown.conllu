@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AbatediTheleme @myPressOn @ilmessaggeroit anche Paolo VI lo faceva , pure Pio XII, per non parlare poi di san Giovanni Paolo II...
+1	@AbatediTheleme	@AbatediTheleme	ADP	E	_	2	case	_	_
+2	@myPressOn	@myPressOno	PROPN	SP	_	8	obl	_	_
+3	@ilmessaggeroit	@ilmessaggeroit	SYM	X	_	2	flat:name	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	Paolo	Paolo	PROPN	SP	_	8	nsubj	_	_
+6	VI	sesto	ADJ	NO	Number=Sing|NumType=Ord	5	amod	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	pure	pure	ADV	B	_	11	advmod	_	_
+11	Pio	Pio	PROPN	SP	_	16	obl	_	_
+12	XII	XII	ADJ	NO	Number=Sing|NumType=Ord	11	amod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	11	punct	_	_
+14	per	per	ADP	E	_	16	mark	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	parlare	parlare	VERB	V	VerbForm=Inf	20	xcomp	_	_
+17	poi	poi	ADV	B	_	16	advmod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	san	san	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+20	Giovanni	Giovanni	PROPN	SP	_	8	obl	_	_
+21	Paolo	Paolo	PROPN	SP	_	20	flat:name	_	_
+22	II...	II...	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

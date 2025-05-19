@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tengo a Justin e non voglio assolutamente vederlo stare male.
+1	Tengo	tenere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Justin	Justin	PROPN	SP	_	1	obl	_	_
+4	e	e	CCONJ	CC	_	8	cc	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	assolutamente	assolutamente	ADV	B	_	8	advmod	_	_
+8-9	vederlo	_	_	_	_	_	_	_	_
+8	veder	vedere	VERB	V	VerbForm=Inf	1	conj	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	stare	stare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	male	male	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma vorrei davvero vedere come vi sareste comportate se aveste avuto il meet.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	davvero	davvero	ADV	B	_	4	advmod	_	_
+4	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	vi	vi	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+7	sareste	saredere	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	comportate	comportare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	se	se	SCONJ	CS	_	10	mark	_	_
+10	aveste	avedere	VERB	V	Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+11	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	meet	meet	NOUN	S	Gender=Masc	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

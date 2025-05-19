@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ValentinoRossi cade ed è fuori dalla gara dopo nemmeno 3 giri.
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	ValentinoRossi	ValentinoRossi	PROPN	SP	_	3	nsubj	_	_
+3	cade	cadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ed	e	CCONJ	CC	_	9	cc	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	fuori	fuori	ADV	B	_	9	case	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	6	fixed	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	gara	gara	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+10	dopo	dopo	ADP	E	_	13	case	_	_
+11	nemmeno	nemmeno	ADV	BN	PronType=Neg	13	advmod	_	_
+12	3	3	NUM	N	NumType=Card	13	nummod	_	_
+13	giri	giro	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #MotoGP #AmericasGP pic.twitter.com/I6iT3nh67I
+1	#MotoGP	#MotoGP	PROPN	SP	_	0	root	_	_
+2	#AmericasGP	#AmericasGP	PROPN	SP	_	1	flat:name	_	_
+3	pic.twitter.com/I6iT3nh67I	pic.twitter.com/I6iT3nh67I	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

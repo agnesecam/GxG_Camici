@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @juventibus ricordatevi che se avessimo giocato dopo il Napoli non saremmo in vantaggio #jvtblive
+1	@juventibus	@juventibus	NOUN	S	Gender=Masc	2	nmod	_	_
+2	ricordatevi	ricordare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	11	mark	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+7	dopo	dopo	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Napoli	Napoli	PROPN	SP	_	6	obl	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	vantaggio	vantaggio	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+14	#jvtblive	#jvtblive	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	SpacesAfter=\n
+

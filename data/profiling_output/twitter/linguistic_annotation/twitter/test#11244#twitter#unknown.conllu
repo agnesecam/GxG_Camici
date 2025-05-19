@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @danielamartani ...i derivati animali però sono dappertutto , nn trovi?
+1	@danielamartani	@danielamartano	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+2	...i	...o	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	derivati	derivare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+4	animali	animale	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5	però	però	ADV	B	_	9	advmod	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	dappertutto	dappertutto	ADV	B	_	9	advmod	_	_
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	nn	nno	ADV	B	_	0	root	_	_
+10	trovi?	trovi?	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = il vegano perfetto nn può esistere
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vegano	vegano	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	nn	nn	NOUN	S	Gender=Masc	2	compound	_	_
+5	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	esistere	esistere	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

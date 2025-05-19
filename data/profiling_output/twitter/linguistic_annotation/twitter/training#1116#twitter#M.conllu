@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 5 minuti dalla partenza della Moto3.
+1	5	5	NUM	N	NumType=Card	2	nummod	_	_
+2	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	partenza	partenza	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Moto3	Moto3	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Mi aspetto una grande gara di @alocatelli55 ! @Leopard_Moto #SkyMotori #FastinTexas #AmericasGP
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	aspetto	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	grande	grande	ADJ	A	Number=Sing	5	amod	_	_
+5	gara	gara	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	@alocatelli55	@alocatelli55	NUM	N	NumType=Card	9	nummod	_	_
+8	!	!	PUNCT	FS	_	7	punct	_	_
+9	@Leopard_Moto	@Leopard_Moto	PROPN	SP	_	5	nmod	_	_
+10	#SkyMotori	#SkyMotore	PROPN	SP	_	9	flat:name	_	_
+11	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	FastinTexas	FastinTexas	PROPN	SP	_	9	nmod	_	_
+13	#AmericasGP	#AmericasGP	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A volte sono i piccoli gesti che danno una soddisfazione per qualcosa che può sembrare banale http:// fb.me/7a4X9qED7
+1	A	a	ADP	E	_	2	case	_	_
+2	volte	volta	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	gesti	gesto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	danno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	soddisfazione	soddisfazione	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	10	nmod	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	sembrare	sembrare	VERB	V	VerbForm=Inf	12	acl:relcl	_	_
+16	banale	banale	ADJ	A	Number=Sing	15	xcomp	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	fb.me/7a4X9qED7	fb.me/7a4X9qED7	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AVagliasindi io credo che se avessimo avuto #plasmati con + continuità.
+1	@AVagliasindi	@AVagliasindi	ADV	B	_	3	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+8	#plasmati	#plasmare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	ccomp	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	+	+	SYM	SYM	_	8	obl	_	_
+11	continuità	continuità	NOUN	S	Gender=Fem	10	compound	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..avrebbe fatto meglio del "fuoriclasse" .....
+1	..avrebbe	..avere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
+2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	meglio	meglio	ADV	B	_	2	advmod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	fuoriclasse	fuoriclassa	NOUN	S	_	3	obl	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	.....	.....	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

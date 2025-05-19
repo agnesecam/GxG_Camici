@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Berlu sei propio rincoglioni dovepensavi di anda?
+1	Berlu	Berlu	ADP	E	_	3	case	_	_
+2	sei	essere	NUM	N	NumType=Card	3	nummod	_	_
+3	propio	propio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	rincoglioni	rincoglione	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dovepensavi	dovepensavo	ADV	B	_	7	advmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	anda	andare	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Renzi farà la tua fine tè giudici x la topa?
+1	Renzi	Renzi	ADV	B	_	2	advmod	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	fine	fine	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+6	tè	tere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+7	giudici	giudice	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	x	x	SYM	SYM	_	7	nmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	topa	topa	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Lui x brogli politici https:// twitter.com/notixweb/statu s/717934957717544961 …
+1	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+2	x	x	SYM	SYM	_	3	nmod	_	_
+3	brogli	broglio	NOUN	S	Gender=Masc|Number=Plur	1	appos	_	_
+4	politici	politico	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	twitter.com/notixweb/statu	twitter.com/notixweb/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	s/717934957717544961	s/717934957717544961	NUM	N	NumType=Card	4	nummod	_	_
+10	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

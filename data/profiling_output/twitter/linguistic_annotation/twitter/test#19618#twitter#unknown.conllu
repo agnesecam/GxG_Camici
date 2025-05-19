@@ -1,0 +1,57 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Michael J.Fox sta perdendo la sua battaglia contro il Parkinson:
+1	Michael	Michael	PROPN	SP	_	4	nsubj	_	_
+2	J.Fox	J.Fox	PROPN	SP	_	1	flat:name	_	_
+3	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	perdendo	perdere	VERB	V	VerbForm=Ger	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	battaglia	battaglia	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	contro	contro	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Parkinson	Parkinson	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = "E' giù di morale, ma è...:
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	giù	giù	PRON	PI	PronType=Ind	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	morale	morale	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+9	...	...	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = ilfattoquotidiano.it/2016/04/08/mic hael-j-fox-starebbe-perdendo-la-sua-battaglia-contro-il-parkinson-e-giu-di-morale-ma-e-cosciente/2618808/ …
+1	ilfattoquotidiano.it/2016/04/08/mic	ilfattoquotidiano.it/2016/04/08/mic	ADV	B	_	7	advmod	_	_
+2	hael	hael	ADJ	A	_	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	j	j	PROPN	SP	_	7	obl	_	SpaceAfter=No
+5	-	-	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	fox-starebbe	fox-staere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpaceAfter=No
+7	-perdendo	-perdere	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+8	-la-sua	-la-suo	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+10	battaglia-contro-il-	_	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	parkinson	parkinson	ADV	BN	PronType=Neg	7	advmod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	e	e	CCONJ	CC	_	15	cc	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+15	giu-di-morale-ma	giu-di-morale-ma	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	e	e	CCONJ	CC	_	18	cc	_	SpaceAfter=No
+18	-cosciente/2618808	-cosciente/2618808	NUM	N	NumType=Card	15	conj	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	15	punct	_	_
+20	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

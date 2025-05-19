@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una preghiera per quelle sette ragazze nostre coetanee.
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	preghiera	preghiera	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	2	nmod	_	_
+5	sette	sette	NUM	N	NumType=Card	6	nummod	_	_
+6	ragazze	ragazza	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	coetanee	coetanea	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Riposate in pace, eravate tutte bellissime
+1	Riposate	Riposare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	pace	pace	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	eravate	eravare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+6	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	7	obl	_	_
+7	bellissime	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

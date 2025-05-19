@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #BallandoConLeStelle comunque diversi partecipanti fuori dallo spettacolo anche col jobs act, farebbero fatica a trovare un lavoro
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	BallandoConLeStelle	BallandoConLeStelle	PROPN	SP	_	16	nsubj	_	_
+3	comunque	comunque	ADV	B	_	2	advmod	_	_
+4	diversi	diverso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	partecipanti	partecipante	NOUN	S	Number=Plur	2	nmod	_	_
+6	fuori	fuori	ADV	B	_	9	case	_	_
+7-8	dallo	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	6	fixed	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+10	anche	anche	ADV	B	_	13	advmod	_	_
+11-12	col	_	_	_	_	_	_	_	_
+11	con	con	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	jobs	jobs	NOUN	S	Gender=Masc	5	nmod	_	_
+14	act	act	NOUN	S	Gender=Masc	13	compound	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	2	punct	_	_
+16	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	fatica	fatica	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+18	a	a	ADP	E	_	19	mark	_	_
+19	trovare	trovare	VERB	V	VerbForm=Inf	17	acl	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	SpacesAfter=\n
+

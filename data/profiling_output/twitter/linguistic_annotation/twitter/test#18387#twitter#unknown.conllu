@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dobrevshug te l'ho sempre detto che avevi problemi, fortuna che ti sei ripresa in curva e hai capito il senso della vita
+1	@dobrevshug	@dobrevshug	SYM	X	_	6	obl	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	sempre	sempre	ADV	B	_	6	advmod	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	che	che	SCONJ	CS	_	20	mark	_	_
+8	avevi	avere	ADJ	A	Number=Plur	9	amod	_	_
+9	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	20	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	9	appos	_	_
+12	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+13	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	expl	_	_
+14	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	ripresa	riprendere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	curva	curva	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	senso	senso	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+23-24	della	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	vita	vita	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	SpacesAfter=\n
+

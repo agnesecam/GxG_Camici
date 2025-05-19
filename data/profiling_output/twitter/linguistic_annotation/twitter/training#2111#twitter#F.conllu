@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = comunque tra qualche ora devo fare la valigia e questa settimana sono veramente disperata perché non so cosa metterci dentro
+1	comunque	comunque	ADV	B	_	6	advmod	_	_
+2	tra	tra	ADP	E	_	4	case	_	_
+3	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	ora	ora	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+5	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	valigia	valigia	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+9	e	e	CCONJ	CC	_	14	cc	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+12	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	veramente	veramente	ADV	B	_	14	advmod	_	_
+14	disperata	disperare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+15	perché	perché	SCONJ	CS	_	17	mark	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+18	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	19	obj	_	_
+19-20	metterci	_	_	_	_	_	_	_	_
+19	metter	mettere	VERB	V	VerbForm=Inf	17	ccomp	_	_
+20	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	expl	_	_
+21	dentro	dentro	ADV	B	_	6	advmod	_	SpacesAfter=\n
+

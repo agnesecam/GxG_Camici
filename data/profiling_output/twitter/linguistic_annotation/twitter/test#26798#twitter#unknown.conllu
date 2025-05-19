@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Avevo un cappio intorno al collo, ma le spalle le ho sempre avute libere.
+1	“	“	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	cappio	cappio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	intorno	intorno	ADV	B	_	8	case	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	5	fixed	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	collo	collo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	16	punct	_	_
+10	ma	ma	CCONJ	CC	_	16	cc	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	spalle	spalla	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	_
+13	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+14	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	sempre	sempre	ADV	B	_	16	advmod	_	_
+16	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	_
+17	libere	libero	ADJ	A	Gender=Fem|Number=Plur	16	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Se vi interessa saperlo”.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	interessa	interessare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	saperlo	_	_	_	_	_	_	_	SpaceAfter=No
+4	saper	sapere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	”	”	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Così si... http:// fb.me/7GUHPoPDo
+1	Così	così	ADV	B	_	6	advmod	_	_
+2	si...	si.	PUNCT	FF	_	1	punct	_	_
+3	http:	http:	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	fb.me/7GUHPoPDo	fb.me/7GUHPoPDo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

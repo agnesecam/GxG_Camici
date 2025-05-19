@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I hope we can watch this program in Russia.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	hope	hope	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+3	we	we	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	can	can	NOUN	S	Gender=Masc	3	nmod	_	_
+5	watch	watch	X	SW	Foreign=Yes	4	compound	_	_
+6	this	this	X	SW	Foreign=Yes	5	flat:foreign	_	_
+7	program	program	X	SW	Foreign=Yes	5	flat:foreign	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	Russia	Russia	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Manca pochissimo!
+1	Manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pochissimo	poco	ADV	B	Degree=Abs	1	advmod	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = :))) Non vedo l'ora!
+1	:	:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	1	punct	_	_
+5	Non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	ora	ora	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = @LauraPausini ce la farete ! :) https:// twitter.com/RaiUno/status/ 715841504913260546 …
+1	@LauraPausini	@LauraPausini	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	1	iobj	_	_
+3	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	farete	faere	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5	!	!	PUNCT	FS	_	1	punct	_	_
+6	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	1	punct	_	_
+8	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	1	punct	_	_
+11	twitter.com/RaiUno/status/	twitter.com/RaiUno/status/	PROPN	SP	_	1	nmod	_	_
+12	715841504913260546	715841504913260546	NUM	N	NumType=Card	11	nummod	_	_
+13	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @benzinazero @VIVINSTRADA @alesbond mi sa che questa conversazione la abbiamo già avuta ! Copenhagen modello da imitare sicuramente
+1	@benzinazero	@benzinazero	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@VIVINSTRADA	@VIVINSTRADA	PROPN	SP	_	5	nsubj	_	_
+3	@alesbond	@alesbond	CCONJ	CC	_	5	cc	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	12	mark	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	conversazione	conversazione	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+9	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+10	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	già	già	ADV	B	_	12	advmod	_	_
+12	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_
+13	!	!	PUNCT	FS	_	12	punct	_	_
+14	Copenhagen	Copenhagen	PROPN	SP	_	12	obj	_	_
+15	modello	modello	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+16	da	da	ADP	E	_	17	mark	_	_
+17	imitare	imitare	VERB	V	VerbForm=Inf	15	acl	_	_
+18	sicuramente	sicuro	ADV	B	_	17	advmod	_	SpacesAfter=\n
+

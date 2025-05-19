@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giampierocalapa @ignaziomarino @fattoquotidiano Peggio, assai peggio...
+1	@giampierocalapa	@giampierocalapare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@ignaziomarino	@ignaziomarino	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	@fattoquotidiano	@fattoquotidiano	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	Peggio	peggio	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	assai	assai	NOUN	S	_	2	nmod	_	_
+7	peggio..	peggio	NOUN	S	_	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Molti (dei quali ci si dovrà pur occupare) non hanno senso civico.
+1	Molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	nsubj	_	_
+2	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	quali	quale	PRON	PR	Number=Plur|PronType=Rel	10	obl	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+9	pur	pure	ADV	B	_	10	advmod	_	_
+10	occupare	occupare	VERB	V	VerbForm=Inf	1	acl:relcl	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	10	punct	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	senso	senso	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15	civico.	civico.	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

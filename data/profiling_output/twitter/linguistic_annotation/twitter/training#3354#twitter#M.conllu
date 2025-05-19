@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Inter , #Mancini : “Facciamo troppa fatica a segnare.
+1	#Inter	#Inter	PROPN	SP	_	6	parataxis	_	_
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	#Mancini	#Mancini	PROPN	SP	_	1	conj	_	_
+4	:	:	PUNCT	FC	_	1	punct	_	_
+5	“	“	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	Facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	troppa	troppo	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	fatica	fatica	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	segnare	segnare	VERB	V	VerbForm=Inf	8	acl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #Icardi ?
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Icardi	Icardi	PROPN	SP	_	0	root	_	_
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = I gol li farà sempre” http:// gianlucadimarzio.com/news-cat/inter -mancini-facciamo-troppa-fatica-a-segnare-icardi-i-gol-li-fara-sempre/ …
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	gol	gol	NOUN	S	Gender=Masc	4	nsubj	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	sempre	sempre	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	”	”	PUNCT	FB	_	4	punct	_	_
+7	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	4	punct	_	_
+10	gianlucadimarzio.com/news-cat/inter	gianlucadimarzio.com/news-cat/inter	VERB	V	VerbForm=Inf	4	xcomp	_	_
+11	-mancini	-mancino	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+14	-troppa	-troppa	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+15	-fatica	-fatico	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+17	a-segnare	a-segnare	VERB	V	VerbForm=Inf	14	acl	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	icardi	icardare	ADV	B	_	17	advmod	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	SpaceAfter=No
+22	-gol-li	-gol-lo	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	fara-sempre	fara-sempre	ADV	B	_	22	advmod	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	_
+26	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

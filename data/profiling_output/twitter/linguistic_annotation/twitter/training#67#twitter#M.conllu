@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sto guardando #Bridegroom su Netflix e devo stoppare perché sto soffocando nelle mie stesse lacrime.
+1	Sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	guardando	guardare	VERB	V	VerbForm=Ger	0	root	_	_
+3	#Bridegroom	#Bridegroom	PROPN	SP	_	2	obj	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	Netflix	Netflix	PROPN	SP	_	3	nmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	stoppare	stoppare	VERB	V	VerbForm=Inf	2	conj	_	_
+9	perché	perché	SCONJ	CS	_	11	mark	_	_
+10	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	soffocando	soffocare	VERB	V	VerbForm=Ger	8	advcl	_	_
+12-13	nelle	_	_	_	_	_	_	_	_
+12	in	in	ADP	E	_	16	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+14	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+15	stesse	stesso	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	_
+16	lacrime	lacrima	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

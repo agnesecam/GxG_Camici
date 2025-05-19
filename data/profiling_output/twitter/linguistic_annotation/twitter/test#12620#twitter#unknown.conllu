@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GuidoCrosetto Sarebbe?
+1	@GuidoCrosetto	@GuidoCrosetto	ADP	E	_	2	case	_	_
+2	Sarebbe	essere	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Nessuno nasce imparato,anche lei lo è stato"Ragazzetto"le sarebbe piaciuto se glielo avessero detto?
+1	Nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	nasce	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	imparato	imparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	anche	anche	ADV	B	_	6	advmod	_	_
+6	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+11	Ragazzetto	Ragazzetto	PROPN	SP	_	15	nsubj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+13	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	15	iobj	_	_
+14	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	piaciuto	piacere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+16	se	se	SCONJ	CS	_	20	mark	_	_
+17-18	glielo	_	_	_	_	_	_	_	_
+17	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+19	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	_
+20	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = @PiazzapulitaLA7
+1	@PiazzapulitaLA7	@PiazzapulitaLA7	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

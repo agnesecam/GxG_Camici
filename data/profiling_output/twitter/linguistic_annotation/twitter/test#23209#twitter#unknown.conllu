@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma vi immaginate se il gesto del Dovi lo avesse fatto merda46 dopo magari essere stato buttato giu da Jorge o Marc?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	vi	vi	ADV	B	_	3	advmod	_	_
+3	immaginate	immaginare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	12	mark	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	gesto	gesto	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Dovi	Dovo	PROPN	SP	_	6	nmod	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+11	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+13	merda46	merda46	NUM	N	NumType=Card	12	nummod	_	_
+14	dopo	dopo	ADP	E	_	18	mark	_	_
+15	magari	magari	ADV	B	_	18	advmod	_	_
+16	essere	essere	AUX	VA	VerbForm=Inf	18	aux	_	_
+17	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	aux:pass	_	_
+18	buttato	buttare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+19	giu	giu	NOUN	S	Gender=Masc	18	nsubj:pass	_	_
+20	da	da	ADP	E	_	21	case	_	_
+21	Jorge	Jorge	PROPN	SP	_	19	nmod	_	_
+22	o	o	CCONJ	CC	_	23	cc	_	_
+23	Marc	Marc	PROPN	SP	_	21	conj	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = schifo la stampa italiana
+1	schifo	schifo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	stampa	stampa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpacesAfter=\n
+

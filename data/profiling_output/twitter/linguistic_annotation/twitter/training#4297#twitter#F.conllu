@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Semmai mi sposerò un giorno remoto della mia vita so già che mio marito dovrà essere un cuoco o un uomo senza papille gustative
+1	Semmai	semmai	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	sposerò	sposare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	remoto	remoto	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+11	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	già	già	ADV	B	_	11	advmod	_	_
+13	che	che	SCONJ	CS	_	19	mark	_	_
+14	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	marito	marito	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+16	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	aux	_	_
+17	essere	essere	AUX	V	VerbForm=Inf	19	cop	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	cuoco	cuoco	NOUN	S	Gender=Masc|Number=Sing	11	ccomp	_	_
+20	o	o	CCONJ	CC	_	22	cc	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	_
+23	senza	senza	ADP	E	_	24	case	_	_
+24	papille	papilla	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
+25	gustative	gustativo	ADJ	A	Gender=Fem|Number=Plur	24	amod	_	SpacesAfter=\n
+

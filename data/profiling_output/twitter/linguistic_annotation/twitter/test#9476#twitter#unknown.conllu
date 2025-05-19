@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Paula___b somiglia più al solito orario di nanna che di sveglia?
+1	@Paula___b	@Paula___b	PROPN	SP	_	2	nsubj	_	_
+2	somiglia	somigliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	più	più	ADV	B	_	2	advmod	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	solito	solito	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+7	orario	orario	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	nanna	nanna	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	case	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	sveglia	sveglio	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

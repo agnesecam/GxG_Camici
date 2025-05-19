@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Alla luce, leggiamo le invenzioni di altri;
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2-3	Alla	_	_	_	_	_	_	_	_
+2	A	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	luce	luce	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	leggiamo	leggere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	invenzioni	invenzione	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nmod	_	SpaceAfter=No
+11	;	;	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = nel buio ci inventiamo le nostre storie." - Alberto Manguel http:// fb.me/71WQLpfDy
+1-2	nel	_	_	_	_	_	_	_	_
+1	in	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	buio	buio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	iobj	_	_
+5	inventiamo	inventare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	storie	storia	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	5	punct	_	_
+11	-	-	PUNCT	FF	_	5	punct	_	_
+12	Alberto	Alberto	PROPN	SP	_	5	parataxis	_	_
+13	Manguel	Manguel	PROPN	SP	_	12	flat:name	_	_
+14	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	12	punct	_	_
+17	fb.me/71WQLpfDy	fb.me/71WQLpfDy	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

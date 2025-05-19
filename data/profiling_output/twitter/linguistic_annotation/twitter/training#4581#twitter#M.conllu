@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Entro l’11 dicembre 2016 L’Unione Europea dovrà decidere se riconoscere alla Cina lo status di economia di... http:// fb.me/2z7s4D2YA
+1	Entro	entro	ADP	E	_	10	mark	_	_
+2	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	11	11	NUM	N	NumType=Card	10	obl	_	_
+4	dicembre	dicembre	NOUN	S	Gender=Masc|Number=Sing	3	flat	_	_
+5	2016	2016	NUM	N	NumType=Card	3	flat	_	_
+6	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	Unione	Unione	PROPN	SP	_	10	nsubj	_	_
+8	Europea	Europea	PROPN	SP	_	7	flat:name	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	decidere	decidere	VERB	V	VerbForm=Inf	0	root	_	_
+11	se	se	SCONJ	CS	_	12	mark	_	_
+12	riconoscere	riconoscere	VERB	V	VerbForm=Inf	10	ccomp	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Cina	Cina	PROPN	SP	_	12	obl	_	_
+16	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	status	status	NOUN	S	Gender=Masc	12	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	economia	economia	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20	di...	di.	NUM	N	NumType=Card	19	nummod	_	_
+21	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	19	punct	_	_
+24	fb.me/2z7s4D2YA	fb.me/2z7s4D2YA	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

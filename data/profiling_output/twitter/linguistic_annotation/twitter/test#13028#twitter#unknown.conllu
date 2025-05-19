@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se mi avessero detto che avrei visto la serie #daredevil non ci avrei creduto.
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+3	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	serie	serie	NOUN	S	Gender=Fem	7	obj	_	_
+10	#daredevil	#daredevile	ADJ	A	Number=Sing	9	amod	_	_
+11	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	iobj	_	_
+13	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	creduto	credere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = In un weekend poi.
+1	In	in	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	weekend	weekend	NOUN	S	Gender=Masc	0	root	_	_
+4	poi	poi	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = E sola.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	sola	solo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = #grazieNetflix
+1	#grazieNetflix	#grazieNetflix	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

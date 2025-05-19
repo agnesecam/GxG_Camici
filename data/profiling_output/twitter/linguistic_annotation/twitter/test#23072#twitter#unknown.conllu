@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Me ne prendo cura come lui si è preso cura di me a suo tempo e gli voglio bene, ma gli sbagli che ha commesso non glieli perdono
+1	Me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	prendo	prendere	VERB	V	VerbForm=Ger	0	root	_	_
+4	cura	cura	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+10	cura	cura	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nmod	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	_
+18	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+19	bene	bene	ADV	B	_	18	advmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	30	punct	_	_
+21	ma	ma	CCONJ	CC	_	30	cc	_	_
+22	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	sbagli	sbaglio	NOUN	S	Gender=Masc|Number=Plur	30	nsubj	_	_
+24	che	che	PRON	PR	PronType=Rel	26	nsubj	_	_
+25	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	commesso	commettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	30	acl:relcl	_	_
+27	non	non	ADV	BN	PronType=Neg	30	advmod	_	_
+28-29	glieli	_	_	_	_	_	_	_	_
+28	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	iobj	_	_
+29	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	30	obj	_	_
+30	perdono	perdere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	SpacesAfter=\n
+

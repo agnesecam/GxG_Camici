@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = potrei sembrare matta, ma voglio che gli Hale mi adottino #teenwolfrai4
+1	potrei	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	matta	matto	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	che	che	SCONJ	CS	_	11	mark	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	Hale	Hale	PROPN	SP	_	11	nsubj	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	expl	_	_
+11	adottino	adottare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+12	#teenwolfrai4	#teenwolfrai4	NUM	N	NumType=Card	11	obj	_	SpacesAfter=\n
+

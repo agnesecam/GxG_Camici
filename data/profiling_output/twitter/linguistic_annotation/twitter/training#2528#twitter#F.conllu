@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hai un cervello di resina.
+1	Hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	resina	resina	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ti s'impigliano dentro un sacco di cose che poi è difficile liberare.
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	SpaceAfter=No
+3	impigliano	impigliare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dentro	dentro	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+10	poi	poi	ADV	B	_	12	advmod	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	difficile	difficile	ADJ	A	Number=Sing	8	acl:relcl	_	_
+13	liberare	liberare	VERB	V	VerbForm=Inf	12	csubj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Parpiglia
+1	@Parpiglia	@Parpiglia	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2
+# text = Io non voto ma se lo avessi fatto Jonas tutta la vita.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+7	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+9	Jonas	Jonas	PROPN	SP	_	8	obl	_	_
+10	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	12	det:predet	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	vita	vita	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = E ho 38 anni e non guardo il segreto.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	38	38	NUM	N	NumType=Card	4	nummod	_	_
+4	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	segreto	segreto	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Bombeminchia le amiche tue
+1	Bombeminchia	Bombeminchiare	ADV	B	_	3	advmod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	amiche	amico	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	SpacesAfter=\n
+

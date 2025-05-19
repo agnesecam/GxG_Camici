@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Rimanete moralmente intransigenti ma determinati!
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Rimanete	Rimanere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	moralmente	moralmente	ADV	B	_	2	advmod	_	_
+4	intransigenti	intransigente	ADJ	A	Number=Plur	2	xcomp	_	_
+5	ma	ma	CCONJ	CC	_	6	cc	_	_
+6	determinati	determinato	ADJ	A	Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Solo cosi avrete una possibilità!"
+1	Solo	solo	ADV	B	_	2	advmod	_	_
+2	cosi	coso	ADJ	A	Number=Plur	0	root	_	_
+3	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	possibilità	possibilità	NOUN	S	Gender=Fem	3	obj	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	2	punct	_	_
+
+# sent_id = 3
+# text = #YanisVaroufakis #Varoufakis #Unito #LectioMagistralis
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	YanisVaroufakis	YanisVaroufakis	PROPN	SP	_	0	root	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	Varoufakis	Varoufakis	PROPN	SP	_	2	nmod	_	_
+5	#Unito	#Unito	PROPN	SP	_	4	flat:name	_	_
+6	#LectioMagistralis	#LectioMagistralis	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

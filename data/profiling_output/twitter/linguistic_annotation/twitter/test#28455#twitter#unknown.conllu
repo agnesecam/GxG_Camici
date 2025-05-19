@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se l acqua diventera' di proprieta' privata, saremmo costretti a sottostare ad ogni volere del mercato x non morire di sete....
+1	se	se	SCONJ	CS	_	4	mark	_	_
+2	l	l	X	X	_	4	obj	_	_
+3	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	diventera	diventero	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	'	'	PUNCT	FB	_	7	punct	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	proprieta	proprieta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	'	'	PUNCT	FB	_	9	punct	_	_
+9	privata	privato	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	costretti	costringere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	sottostare	sottostare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	ad	a	ADP	E	_	17	case	_	_
+16	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	17	det	_	_
+17	volere	volere	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
+21	x	x	SYM	SYM	_	23	mark	_	_
+22	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+23	morire	morire	VERB	V	VerbForm=Inf	14	advcl	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	sete...	sete...	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

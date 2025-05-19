@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domani a quest'ora starà per iniziare il mio webinar "Tradurre l’arte culinaria: i menù".
+1	Domani	Domani	ADV	B	_	5	advmod	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	quest'	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	SpaceAfter=No
+4	ora	ora	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+5	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	iniziare	iniziare	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	webinar	webinar	NOUN	S	Gender=Masc	7	obj	_	_
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	Tradurre	tradurre	VERB	V	VerbForm=Inf	10	acl	_	_
+13	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	arte	arte	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+15	culinaria	culinario	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+16	:	:	PUNCT	FC	_	5	punct	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	menù	menù	NOUN	S	Gender=Masc	5	obj	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = http:// ow.ly/Zqu95 pic.twitter.com/LO6vTzeS7T
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	ow.ly/Zqu95	ow.ly/Zqu95	PROPN	SP	_	0	root	_	_
+5	pic.twitter.com/LO6vTzeS7T	pic.twitter.com/LO6vTzeS7T	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

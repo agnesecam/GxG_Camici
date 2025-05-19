@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Hai l'aria di qualcuna che è rimasta impigliata in qualcosa e non riesce a liberarsi" #phrase #moods #sking #mucchiodossa #bagofbones
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	aria	aria	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	rimasta	rimanere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+10	impigliata	impigliare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	xcomp	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	10	obl	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17-18	liberarsi	_	_	_	_	_	_	_	SpaceAfter=No
+17	liberar	liberare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+19	"	"	PUNCT	FB	_	20	punct	_	_
+20	#phrase	#phranere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+21	#moods	#moods	X	X	_	20	obl	_	_
+22	#sking	#sking	X	X	_	21	flat:foreign	_	_
+23	#mucchiodossa	#mucchiodosso	ADJ	A	_	21	amod	_	_
+24	#bagofbones	#bagofbones	NOUN	S	_	20	obj	_	SpacesAfter=\n
+

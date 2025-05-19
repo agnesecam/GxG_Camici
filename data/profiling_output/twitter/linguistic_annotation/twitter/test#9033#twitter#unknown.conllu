@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giannichiodi mi riferisco a tempi di Monti e relativa carta bianca di cui godeva.
+1	@giannichiodi	@giannichiodo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	riferisco	riferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Monti	Monti	PROPN	SP	_	5	nmod	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	relativa	relativo	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	carta	carta	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+11	bianca	bianco	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	cui	cui	PRON	PR	PronType=Rel	14	obl	_	_
+14	godeva	godere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non oscurarono neppure le strade di notte#Cott.staisereno
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	oscurarono	oscurare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	neppure	neppure	ADV	BN	PronType=Neg	2	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	strade	strada	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	notte#Cott.staisereno	notte#Cott.staisereno	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

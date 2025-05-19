@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @maridesi9624 @alo_oficial esatto.
+1	@maridesi9624	@maridesi9624	NUM	N	NumType=Card	3	nummod	_	_
+2	@alo_oficial	@alo_oficial	DET	DQ	Number=Sing|PronType=Int	3	det	_	_
+3	esatto.	esatto.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .ci saremmo andati 3/4 volte in tutto l'anno?!
+1	.ci	.co	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	3/4	3/4	NUM	N	NumType=Range	5	nummod	_	_
+5	volte	volta	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+6	in	in	ADP	E	_	9	case	_	_
+7	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	9	det:predet	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	anno	anno	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = ma quest'anno è diverso dai!!
+1	ma	ma	CCONJ	CC	_	5	cc	_	_
+2	quest'	questo	DET	DD	Number=Sing|PronType=Dem	3	det	_	SpaceAfter=No
+3	anno	anno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	diverso	diverso	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+6-7	dai	_	_	_	_	_	_	_	SpaceAfter=No
+6	da	da	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = Forzaaa @McLarenF1
+1	Forzaaa	Forzaaa	PROPN	SP	_	0	root	_	_
+2	@McLarenF1	@McLarenF1	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

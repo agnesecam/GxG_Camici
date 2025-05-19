@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perché?
+1	Perché	perché	ADV	B	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Saremmo 2-4 o no?
+1	Saremmo	essere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	2	2	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	-4	-4	NUM	N	NumType=Card	1	nummod	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	no	no	ADV	BN	PronType=Neg	3	conj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/novastadio/sta tus/711577594156687360 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/novastadio/sta	twitter.com/novastadio/stare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	tus/711577594156687360	tus/711577594156687360	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

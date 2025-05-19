@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @h0d3r @facebook è diventato #editore , non sono i #giornali a decidere cosa leggiamo ma il #social in base alle nostre abitudini #ijf16
+1	@h0d3r	@h0d3r	NOUN	S	_	4	nsubj	_	_
+2	@facebook	@facebook	ADJ	A	_	1	amod	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	#editore	#editore	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	#giornali	#giornale	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	decidere	decidere	VERB	V	VerbForm=Inf	10	acl	_	_
+13	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	14	obj	_	_
+14	leggiamo	leggere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+15	ma	ma	CCONJ	CC	_	17	cc	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	#social	#social	NOUN	S	Gender=Masc	4	conj	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	base	base	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20-21	alle	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	23	case	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+22	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	abitudini	abitudine	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
+24	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+25	ijf16	ijf16	SYM	X	_	4	xcomp	_	SpacesAfter=\n
+

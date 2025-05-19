@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il carretto.....
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	carretto.....	carretto.....	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = 2
+# text = era il suo....
+1	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	suo...	suo...	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = ..Oggi ci ha lasciato una persona speciale.
+1	..Oggi	..oggi	ADV	B	_	4	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	persona	persona	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	speciale	speciale	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Senza di lui non saremmo Il Noce.
+1	Senza	senza	ADP	E	_	3	case	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Noce	noce	PROPN	SP	_	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 5
+# text = I... http:// fb.me/YM56Abbe
+1	I...	I.	PUNCT	FF	_	5	punct	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	_
+5	fb.me/YM56Abbe	fb.me/YM56A	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

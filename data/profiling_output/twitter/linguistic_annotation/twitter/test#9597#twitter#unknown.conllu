@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = nemmeno la buonanotte pucciosa che faccio di solito vi meritate stasera, ho letto troppe stronzate
+1	nemmeno	nemmeno	ADV	BN	PronType=Neg	3	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	buonanotte	buonanotta	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	pucciosa	puccioso	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	obj	_	_
+6	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	solito	solito	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	10	obj	_	_
+10	meritate	meritare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	parataxis	_	_
+11	stasera	stasera	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15	troppe	troppo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
+16	stronzate	stronzate	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	SpacesAfter=\n
+

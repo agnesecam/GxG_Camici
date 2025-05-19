@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque @NekOfficial il 25 agosto faccio 30 anni.
+1	Dunque	dunque	ADV	B	_	6	advmod	_	_
+2	@NekOfficial	@NekOfficial	PROPN	SP	_	6	obl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	25	25	NUM	N	NumType=Card	6	obl	_	_
+5	agosto	agosto	NOUN	S	Gender=Masc|Number=Sing	4	flat	_	_
+6	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	30	30	NUM	N	NumType=Card	6	nummod	_	_
+8	anni.	anni.	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .e possibile avere per regalo un tuo concerto solo per me?
+1	.e	.e	ADV	B	_	2	advmod	_	_
+2	possibile	possibile	ADJ	A	Number=Sing	0	root	_	_
+3	avere	avere	VERB	V	VerbForm=Inf	2	advcl	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	regalo	regalo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tuo	tuo	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	obj	_	_
+8	concerto	concerto	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	solo	solo	ADV	B	_	11	advmod	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

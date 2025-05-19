@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "L'arte è colei che ti permette di esprimere ciò che sei non quello che fai." @chiaramariavanninii https://www.
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	arte	arte	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	colei	colei	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	iobj	_	_
+8	permette	permettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	esprimere	esprimere	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+13	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	acl:relcl	_	_
+16	che	che	PRON	PR	PronType=Rel	17	obj	_	_
+17	fai.	fai.	NOUN	S	_	15	nsubj	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	20	punct	_	_
+19	@chiaramariavanninii	@chiaramariavanninii	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	_
+20	https://www	https://www	NOUN	S	_	17	compound	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BEBLUeUlcnS/
+1	instagram.com/p/BEBLUeUlcnS/	instagram.com/p/BEBLUeUlcnS/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

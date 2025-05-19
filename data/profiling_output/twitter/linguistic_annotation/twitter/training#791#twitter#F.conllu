@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarisaC65 Forse se non avessimo sventolato mutande e reggipetti assumendo di forza il ruolo degli uomini oggi saremmo rispettate!
+1	@MarisaC65	@MarisaC65	PROPN	SP	_	0	root	_	_
+2	Forse	forse	ADV	B	_	6	advmod	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	sventolato	sventolare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	mutande	mutanda	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	reggipetti	reggipetto	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+10	assumendo	assumere	VERB	V	VerbForm=Ger	6	advcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	forza	forza	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	ruolo	ruolo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+15-16	degli	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+18	oggi	oggi	ADV	B	_	20	advmod	_	_
+19	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	rispettate	rispettare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	17	acl:relcl	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

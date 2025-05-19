@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C'ho la vicina di casa talmente psicopatica, che siccome piove, non porta dentro la macchina per non sporcare le piastrelle del garage!!!
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vicina	vicina	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	talmente	talmente	ADV	B	_	8	advmod	_	_
+8	psicopatica	psicopatico	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+11	siccome	siccome	SCONJ	CS	_	12	mark	_	_
+12	piove	piovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+16	dentro	dentro	ADV	B	_	15	advmod	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+19	per	per	ADP	E	_	21	mark	_	_
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+21	sporcare	sporcare	VERB	V	VerbForm=Inf	15	advcl	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	piastrelle	piastrella	NOUN	S	Gender=Fem|Number=Plur	21	obj	_	_
+24-25	del	_	_	_	_	_	_	_	_
+24	di	di	ADP	E	_	26	case	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	garage	garage	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+27	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+28	!!	!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il pesce d ' Aprile è soltanto un ' occasione per i falsi di " sembrare " sinceri almeno per un giorno.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	d	d	NOUN	S	_	2	nmod	_	_
+4	'	'	PUNCT	FB	_	3	punct	_	_
+5	Aprile	aprile	PROPN	SP	_	3	flat:name	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+7	soltanto	soltanto	ADV	B	_	10	advmod	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	'	'	PUNCT	FB	_	10	punct	_	_
+10	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	falsi	falso	NOUN	S	Number=Plur	10	nmod	_	_
+14	di	di	ADP	E	_	16	mark	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	13	acl	_	_
+17	"	"	PUNCT	FB	_	16	punct	_	_
+18	sinceri	sincero	ADV	B	_	16	advmod	_	_
+19	almeno	almeno	ADV	B	_	22	advmod	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

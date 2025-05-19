@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = c'è qualcuna che mi blessa la tl con minseok ogni giorno, non so chi sei ma tvb grazie mille
+1	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	blessa	blettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	tl	tl	NOUN	S	_	6	obj	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	minseok	minseok	NOUN	S	_	8	nmod	_	_
+11	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	12	det	_	_
+12	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+16	chi	chi	PRON	PR	Number=Sing|PronType=Rel	15	nsubj	_	_
+17	sei	sei	NUM	N	NumType=Card	16	nummod	_	_
+18	ma	ma	CCONJ	CC	_	19	cc	_	_
+19	tvb	tvb	ADJ	A	_	17	conj	_	_
+20	grazie	grazie	NOUN	S	_	21	case	_	_
+21	mille	mille	NUM	N	NumType=Card	15	nummod	_	SpacesAfter=\n
+

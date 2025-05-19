@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @welikechopin splendido.
+1	@welikechopin	@welikechopino	NOUN	S	Gender=Masc	0	root	_	_
+2	splendido.	splendido.	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....se tutti lo avessero potuto vedere.
+1	....se	....so	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+4	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+5	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	_
+6	vedere	vedere	VERB	V	VerbForm=Inf	1	ccomp	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...questo è giornalismo vero!
+1	...questo	...questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	giornalismo	giornalismo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	vero	vero	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

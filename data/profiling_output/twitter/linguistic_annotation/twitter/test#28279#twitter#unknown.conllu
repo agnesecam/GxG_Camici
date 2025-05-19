@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avevamo un attaccante vero saremmo sul 2 a 0 qua manca @Mgabbia23 #zazza ... ma perché #pellè perché??
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avevamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	attaccante	attaccante	NOUN	S	Number=Sing	2	obj	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7-8	sul	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	2	2	NUM	N	NumType=Card	12	nummod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	0	0	NUM	N	NumType=Card	9	fixed	_	_
+12	qua	qua	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	obj	_	_
+13	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+14	@Mgabbia23	@Mgabbia23	PROPN	SP	_	13	nsubj	_	_
+15	#zazza	#zazza	ADP	E	_	20	case	_	_
+16	...	...	PUNCT	FF	_	20	punct	_	_
+17	ma	ma	CCONJ	CC	_	20	cc	_	_
+18	perché	perché	ADV	B	_	20	advmod	_	_
+19	#pellè	#pellé	CCONJ	CC	_	20	cc	_	_
+20	perché	perché	ADV	B	_	13	advmod	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #contevaloreaggiunto #ItaliaSpagna
+1	#contevaloreaggiunto	#contevaloreaggiunto	ADV	B	_	3	advmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	ItaliaSpagna	ItaliaSpagna	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

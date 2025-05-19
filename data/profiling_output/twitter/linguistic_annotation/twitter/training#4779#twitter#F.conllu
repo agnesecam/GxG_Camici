@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @seccogladys @TwoReaders @mariadicuonzo1 E pensare che fu la noia la somma poetica di Leopardi.
+1	@seccogladys	@seccogladys	PROPN	SW	Foreign=Yes	0	root	_	_
+2	@TwoReaders	@TwoReaders	PROPN	SP	_	1	flat:name	_	_
+3	@mariadicuonzo1	@mariadicuonzo1	NUM	N	NumType=Card	1	nummod	_	_
+4	E	e	CCONJ	CC	_	5	cc	_	_
+5	pensare	pensare	VERB	V	VerbForm=Inf	1	conj	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noia	noia	NOUN	S	Gender=Fem|Number=Sing	5	ccomp	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	somma	somma	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	poetica	poetico	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	Leopardi	Leopardi	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il suo sentimento più ascoltato.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	sentimento	sentimento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	ascoltato	ascoltato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

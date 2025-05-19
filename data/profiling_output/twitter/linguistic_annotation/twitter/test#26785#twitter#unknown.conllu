@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io di risposte non ne ho mai avute e mai ne avrò Di domande ne ho quante ne vuoi
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	risposte	risposta	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+4	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	mai	mai	ADV	B	_	8	advmod	_	_
+8	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	19	acl:relcl	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	mai	mai	ADV	B	_	12	advmod	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+12	avrò	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	8	conj	_	_
+13	Di	Di	ADP	E	_	14	case	_	_
+14	domande	domanda	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+15	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	16	iobj	_	_
+16	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	nsubj	_	_
+17	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	18	det	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	16	obj	_	_
+19	vuoi	volere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

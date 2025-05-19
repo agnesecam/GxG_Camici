@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma cosa ci facevate all'Ipsia?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	obj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	facevate	facevare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	all'	_	_	_	_	_	_	_	SpaceAfter=No
+5	a	a	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	Ipsia	Ipsia	PROPN	SP	_	4	obl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = — Volevamo tipo entrare, ma c'era una bidella che ci minacciava di morte ormai https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM7SECTPIVSD6P5R5RCD43F55J2RWZGZKIFVHM4SRXK6Y7QEQOAYUWOPQT3UY7C65IGTZ3JGBAUUIAPR2ICZXQSK7VB2KC6IF7QKUP5UTXTXXJSBY343NHHGMVJSPAYQR66HBWXZUY2PTVL6DKWHX6AUXIDJXGDZXP5VB2JYXAWJQOC=== …
+1	—	—	PUNCT	FF	_	3	punct	_	_
+2	Volevamo	Volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	entrare	entrare	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	SpaceAfter=No
+8	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	bidella	bidella	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
+13	minacciava	minacciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	morte	morte	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+16	ormai	ormai	ADV	B	_	15	advmod	_	_
+17	https:	https:	PUNCT	FS	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	10	punct	_	_
+20	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	10	nmod	_	_
+21	7B667HQMHN2IG6NM7SECTPIVSD6P5R5RCD43F55J2RWZGZKIFVHM4SRXK6Y7QEQOAYUWOPQT3UY7C65IGTZ3JGBAUUIAPR2ICZXQSK7VB2KC6IF7QKUP5UTXTXXJSBY343NHHGMVJSPAYQR66HBWXZUY2PTVL6DKWHX6AUXIDJXGDZXP5VB2JYXAWJQOC===	7B667HQMHN2IG6NM7SECTPIVSD6P5R5RCD43F55J2RWZGZKIFVHM4SRXK6Y7QEQOAYUWOPQT3UY7C65IGTZ3JGBAUUIAPR2ICZXQSK7VB2KC6IF7QKUP5UTXTXXJSBY343NHHGMVJSPAYQR66HBWXZUY2PTVL6DKWHX6AUXIDJXGDZXP5VB2JYXAWJQOC===	PROPN	SP	_	20	flat:name	_	_
+22	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

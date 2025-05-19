@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = comunque miralem è diventato un true romanista
+1	comunque	comunque	ADV	B	_	4	advmod	_	_
+2	miralem	miralem	NOUN	S	_	4	nsubj	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	true	true	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	_
+7	romanista	romanista	ADJ	A	Number=Sing	6	amod	_	SpacesAfter=\n
+

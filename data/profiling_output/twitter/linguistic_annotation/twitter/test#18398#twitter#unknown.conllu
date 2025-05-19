@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francor71282755 Auguriamoci Buona Fortuna.Pensa dovesse vincere #Salvini ,con una legge disgraziata come questa.Fatta perché avevi il 40%...
+1	@francor71282755	@francor71282755	NUM	N	NumType=Card	2	nummod	_	_
+2-3	Auguriamoci	_	_	_	_	_	_	_	_
+2	Auguriamo	Augurare	PROPN	SP	_	7	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+4	Buona	buona	PROPN	SP	_	7	nsubj	_	_
+5	Fortuna.Pensa	Fortuna.Pensa	PROPN	SP	_	4	flat:name	_	_
+6	dovesse	dovere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	vincere	vincere	VERB	V	VerbForm=Inf	0	root	_	_
+8	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	Salvini	Salvini	PROPN	SP	_	7	obj	_	_
+10	,con	,con	ADP	E	_	12	case	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	legge	legge	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+13	disgraziata	disgraziare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+14	come	come	ADP	E	_	15	case	_	_
+15	questa.Fatta	questa.Fatto	PROPN	SP	_	13	obl	_	_
+16	perché	perché	SCONJ	CS	_	17	mark	_	_
+17	avevi	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	40	40	NUM	N	NumType=Card	20	nummod	_	SpaceAfter=No
+20	%	%	SYM	SYM	_	17	obj	_	SpaceAfter=No
+21	...	.	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Umbria addio, il futuro è meglio costruirlo altrove.
+1	Umbria	Umbria	PROPN	SP	_	8	obl	_	_
+2	addio	addio	INTJ	I	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	meglio	meglio	ADV	B	_	8	advmod	_	_
+8-9	costruirlo	_	_	_	_	_	_	_	_
+8	costruir	costruire	VERB	V	VerbForm=Inf	0	root	_	_
+9	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	altrove	altrove	ADV	B	_	8	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = In tre anni via dalla regione oltre 9mila...
+1	In	in	ADP	E	_	3	case	_	_
+2	tre	tre	NUM	N	NumType=Card	3	nummod	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	via	via	ADV	B	_	3	advmod	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	regione	regione	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+8	oltre	oltre	ADV	B	_	7	advmod	_	_
+9	9mila...	9mila.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7gjWEiet3
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7gjWEiet3	fb.me/7gjWEiet3	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

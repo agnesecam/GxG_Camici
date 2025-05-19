@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No infatti avessimo fatto lo scambio pato-Tevez ormai fatto avremmo vinto noi x 5 anni di fila https:// twitter.com/Rossonerosempe r/status/709146631749378048 …
+1	No	no	INTJ	I	Polarity=Neg	4	discourse	_	_
+2	infatti	infatti	ADV	B	_	4	advmod	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	scambio	scambio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	pato	pato	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+8	-Tevez	-Tevez	PROPN	SP	_	6	nmod	_	_
+9	ormai	ormai	ADV	B	_	12	advmod	_	_
+10	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	12	obj	_	_
+14	x	x	SYM	SYM	_	16	nmod	_	_
+15	5	5	NUM	N	NumType=Card	16	nummod	_	_
+16	anni	anno	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	fila	fila	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	_
+19	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	twitter.com/Rossonerosempe	twitter.com/Rossonerosempe	PROPN	SP	_	18	nmod	_	_
+23	r/status/709146631749378048	r/status/709146631749378048	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

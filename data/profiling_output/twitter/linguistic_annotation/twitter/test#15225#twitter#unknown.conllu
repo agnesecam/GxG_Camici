@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Pab977 pensavo che dovi non facesse parte della cricca
+1	@Pab977	@Pab977	PROPN	SP	_	2	nsubj	_	_
+2	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	dovi	dovo	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+7	parte	parte	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cricca	cricca	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpacesAfter=\n
+

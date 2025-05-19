@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ComeVePare ma purtroppo su snapchat ho la gente del mio corso che ci dovrà studiare su questa cagata di sbobina.
+1	@ComeVePare	@ComeVePare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ma	ma	CCONJ	CC	_	6	cc	_	_
+3	purtroppo	purtroppo	ADV	B	_	6	advmod	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	snapchat	snapchat	ADV	B	_	6	advmod	_	_
+6	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	gente	gente	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	corso	corso	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+13	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+14	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	obj	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16	studiare	studiare	VERB	V	VerbForm=Inf	12	acl:relcl	_	_
+17	su	su	ADP	E	_	19	case	_	_
+18	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
+19	cagata	cagata	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	sbobina	sbobina	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Poveri.
+1	Poveri	povero	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

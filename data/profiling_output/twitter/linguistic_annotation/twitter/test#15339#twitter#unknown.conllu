@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @10gl28 Magari !
+1	@10gl28	@10gl28	NUM	N	NumType=Card	2	nummod	_	_
+2	Magari	magari	PROPN	SP	_	0	root	_	_
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Mi contenterei se il 60% lo facesse . Internet a molta gente non ha fatto bene!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	contenterei	contentere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	8	mark	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	60	60	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+6	%	%	SYM	SYM	_	8	nsubj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	_
+9	.	.	PUNCT	FS	_	8	punct	_	_
+10	Internet	Internet	PROPN	SP	_	13	obj	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	molta	molto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	13	det	_	_
+13	gente	gente	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+17	bene	bene	ADV	B	_	16	advmod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = I social per essere precisi.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	social	social	NOUN	S	Gender=Masc	0	root	_	_
+3	per	per	ADP	E	_	5	mark	_	_
+4	essere	essere	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
+5	precisi	precisare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = ;-)
+1	;	;	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

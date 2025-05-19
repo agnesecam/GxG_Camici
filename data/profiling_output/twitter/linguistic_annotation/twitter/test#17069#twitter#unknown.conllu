@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voi vi fareste operare da un team di chirurghi miopi?
+1	Voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	fareste	faredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	operare	operare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	team	team	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	chirurghi	chirurgo	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+10	miopi	miopo	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #RassegnataStampa #ParoleTakeFail Il Giornale Ah ma non è... http:// fb.me/2xxoVi5Ag
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	RassegnataStampa	RassegnataStampa	PROPN	SP	_	0	root	_	_
+3	#ParoleTakeFail	#ParoleTakeFail	PROPN	SP	_	2	flat:name	_	_
+4	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Giornale	giornale	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	Ah	ah	PROPN	SP	_	5	nmod	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	è...	è.	PUNCT	FS	_	10	punct	_	_
+10	http:	http:	PUNCT	FC	_	6	conj	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	_
+13	fb.me/2xxoVi5Ag	fb.me/2xxoVi5Ag	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

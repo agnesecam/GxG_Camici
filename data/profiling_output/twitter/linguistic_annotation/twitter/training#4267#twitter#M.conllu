@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FligndHollander non ci dimenticheremo nemmeno di qlle d @ricpuglisi qnd dovrà scegliere se rimangiarsele o finire nel pattume della storia
+1	@FligndHollander	@FligndHollander	ADP	E	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	dimenticheremo	dimentichere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	nemmeno	nemmeno	ADV	BN	PronType=Neg	8	advmod	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	qlle	qllo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
+8	d	d	NOUN	S	_	4	obl	_	_
+9	@ricpuglisi	@ricpugliso	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+10	qnd	qnd	CCONJ	CC	_	12	cc	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	scegliere	scegliere	VERB	V	VerbForm=Inf	4	conj	_	_
+13	se	se	SCONJ	CS	_	14	mark	_	_
+14	rimangiarsele	rimangiarsela	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+15	o	o	CCONJ	CC	_	16	cc	_	_
+16	finire	finire	VERB	V	VerbForm=Inf	14	conj	_	_
+17-18	nel	_	_	_	_	_	_	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	pattume	pattume	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	storia	storia	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpacesAfter=\n
+

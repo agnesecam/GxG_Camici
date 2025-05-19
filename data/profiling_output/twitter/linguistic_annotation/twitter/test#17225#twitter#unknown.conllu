@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io la mia Passione l'ho già avuta ieri speriamo per oggi!!!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	Passione	passione	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+5	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	già	già	ADV	B	_	8	advmod	_	_
+8	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	ieri	ieri	ADV	B	_	8	advmod	_	_
+10	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	oggi	oggi	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+14	!!	!!	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

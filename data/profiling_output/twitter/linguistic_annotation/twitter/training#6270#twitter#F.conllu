@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Speravano che fossimo giù psicologicamente e invece quattro gol al Torino forza Juve sempre
+1	Speravano	Sperare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	13	mark	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+4	giù	giù	ADV	B	_	5	advmod	_	_
+5	psicologicamente	psicologicamente	ADV	B	_	13	advmod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	invece	invece	ADV	B	_	9	advmod	_	_
+8	quattro	quattro	NUM	N	NumType=Card	9	nummod	_	_
+9	gol	gol	NOUN	S	Gender=Masc	5	conj	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Torino	Torino	PROPN	SP	_	5	obl	_	_
+13	forza	forza	NOUN	S	Gender=Fem|Number=Sing	1	ccomp	_	_
+14	Juve	Juve	PROPN	SP	_	13	nmod	_	_
+15	sempre	sempre	ADV	B	_	1	advmod	_	SpacesAfter=\n
+

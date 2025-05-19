@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dico sempre che troppi convenevoli non servono ma alla fine ho apparecchiato come fossimo a Buckingham Palace..mi piace la tavola bella
+1	Dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sempre	sempre	ADV	B	_	1	advmod	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	troppi	troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	convenevoli	convenevolo	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+8	ma	ma	CCONJ	CC	_	13	cc	_	_
+9-10	alla	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	fine	fine	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+12	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	apparecchiato	apparecchiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+14	come	come	ADP	E	_	15	case	_	_
+15	fossimo	essere	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	13	amod	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	Buckingham	Buckingham	PROPN	SP	_	15	obl	_	_
+18	Palace..mi	Palace..mi	PROPN	SP	_	17	flat:name	_	_
+19	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	tavola	tavola|tavolo	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+22	bella	bello	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	SpacesAfter=\n
+

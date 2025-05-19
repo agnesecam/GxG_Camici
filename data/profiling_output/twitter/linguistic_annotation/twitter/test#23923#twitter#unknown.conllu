@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fino al 2000 per circa 12 anni svernavo in una casetta in affitto in una piccola frazione sotto la località di... http:// fb.me/VHL6tXXj
+1	Fino	fino	ADV	B	_	4	case	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	1	fixed	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2000	2000	NUM	N	NumType=Card	26	nummod	_	_
+5	per	per	ADP	E	_	8	case	_	_
+6	circa	circa	ADV	B	_	7	advmod	_	_
+7	12	12	NUM	N	NumType=Card	8	nummod	_	_
+8	anni	anno	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+9	svernavo	svernavo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	casetta	casetta	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	affitto	affitto	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+15	in	in	ADP	E	_	18	case	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+18	frazione	frazione	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+19	sotto	sotto	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	località	località	NOUN	S	Gender=Fem	18	nmod	_	_
+22	di...	di.	NOUN	S	_	21	conj	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/VHL6tXXj	fb.me/VHL6tXXj	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

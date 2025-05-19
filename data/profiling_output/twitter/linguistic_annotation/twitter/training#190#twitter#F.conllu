@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io e mamma guardiamo #Sherlock perché si.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+4	guardiamo	guardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	#Sherlock	#Sherlock	PROPN	SP	_	4	obj	_	_
+6	perché	perché	SCONJ	CS	_	7	mark	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

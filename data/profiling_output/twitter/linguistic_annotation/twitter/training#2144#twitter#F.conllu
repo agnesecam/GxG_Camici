@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un sorriso inatteso preme ancora la mia guancia.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	inatteso	inatteso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	preme	premere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ancora	ancora	ADV	B	_	4	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	guancia	guancia	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Mi vesto ballando.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	vesto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ballando	ballare	VERB	V	VerbForm=Ger	2	advcl	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = C'è sole fuori.
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sole	sole	ADJ	A	Gender=Fem|Number=Plur	2	xcomp	_	_
+4	fuori	fuori	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = E dentro pure.
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	dentro	dentro	ADV	B	_	3	advmod	_	_
+3	pure	pure	ADV	B	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

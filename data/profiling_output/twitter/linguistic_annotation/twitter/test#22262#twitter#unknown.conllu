@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RinaAngela1 ebbè co sti gridolin...
+1	@RinaAngela1	@RinaAngela1	PROPN	SP	_	4	nsubj	_	_
+2	ebbè	ebbè	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	co	co	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	sti	sto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	gridolin...	gridolin.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = @mikytavolo13 @dianafalcione69 @SIPARISipari @maurogab1 @IppolitoVita @BeniniLivia @asmistaken @BDaigo
+1	@mikytavolo13	@mikytavolo13	NUM	N	NumType=Card	3	nummod	_	_
+2	@dianafalcione69	@dianafalcione69	NUM	N	NumType=Card	3	nummod	_	_
+3	@SIPARISipari	@SIPARISipari	PROPN	SP	_	5	nmod	_	_
+4	@maurogab1	@maurogab1	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	@IppolitoVita	@IppolitoVita	PROPN	SP	_	0	root	_	_
+6	@BeniniLivia	@BeniniLivia	PROPN	SP	_	5	flat:name	_	_
+7	@asmistaken	@asmistaken	INTJ	I	_	5	nmod	_	_
+8	@BDaigo	@BDaigo	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n
+

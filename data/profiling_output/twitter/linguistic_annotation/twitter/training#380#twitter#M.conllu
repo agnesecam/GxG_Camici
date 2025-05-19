@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FinallyMario sei il più forte giocatore italiano...torna a dimostrarlo!!
+1	@FinallyMario	@FinallyMario	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+2	sei	essere	NUM	N	NumType=Card	1	nummod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	forte	forte	ADJ	A	Number=Sing	6	amod	_	_
+6	giocatore	giocatore	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	italiano...torna	italiano...torno	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	dimostrarlo	_	_	_	_	_	_	_	SpaceAfter=No
+9	dimostrar	dimostrare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Magari avessimo il vecchio Balotelli nell'attacco degli europei.
+1	Magari	magari	ADV	B	_	2	advmod	_	_
+2	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	Balotelli	Balotelli	PROPN	SP	_	2	obj	_	_
+6-7	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	in	in	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	attacco	attacco	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+9-10	degli	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	europei.	europei.	NOUN	S	_	8	nmod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

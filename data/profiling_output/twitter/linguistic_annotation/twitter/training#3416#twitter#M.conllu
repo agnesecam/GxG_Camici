@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chissa' se la Barbara d'Urso domenica fara ' una bella puntata sui furbetti di Panama come fece qualche settimana... http:// fb.me/7NlCUF12C
+1	Chissa	Chissa	ADJ	A	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
+2	'	'	PUNCT	FB	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	20	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Barbara	Barbara	PROPN	SP	_	20	nsubj	_	_
+6	d'	di	ADP	E	_	7	case	_	SpaceAfter=No
+7	Urso	Urso	PROPN	SP	_	8	nmod	_	_
+8	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	fara	faro	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	'	'	PUNCT	FB	_	13	punct	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	bella	bello	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	20	nsubj	_	_
+14-15	sui	_	_	_	_	_	_	_	_
+14	su	su	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	furbetti	furbetto	NOUN	S	Gender=Masc	13	nmod	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	Panama	Panama	PROPN	SP	_	16	nmod	_	_
+19	come	come	ADV	B	_	20	advmod	_	_
+20	fece	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+21	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	22	det	_	_
+22	settimana...	settimana...	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/7NlCUF12C	fb.me/7NlCUF12C	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

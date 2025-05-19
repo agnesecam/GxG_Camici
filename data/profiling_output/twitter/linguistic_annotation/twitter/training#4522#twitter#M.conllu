@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non è certo l'automobile lo strumento che dovrà servirci per un futuro migliore di sopravvivenza in Città…!!!
+1	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	certo	certo	ADV	B	_	5	advmod	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	automobile	automobile	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	strumento	strumento	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10-11	servirci	_	_	_	_	_	_	_	_
+10	servir	servire	VERB	V	VerbForm=Inf	7	acl:relcl	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+15	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	14	amod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	sopravvivenza	sopravvivenza	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	Città…	città…	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+21	!!	!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dietnam @kekkoz questione di mentalità, di affari.
+1	@dietnam	@dietnam	NOUN	S	Gender=Masc	3	nmod	_	_
+2	@kekkoz	@kekkoz	NOUN	S	Gender=Masc	1	compound	_	_
+3	questione	questione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	mentalità	mentalità	NOUN	S	Gender=Fem	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	affari	affaro	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Per@me@è civiltà.
+1	Per@me@è	Per@me@é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	civiltà	civiltà	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = e facessimo come in Inghilterra, il giorno dopo tutti sani al lavoro
+1	e	e	CCONJ	CC	_	2	cc	_	_
+2	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	ADV	B	_	2	advmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Inghilterra	Inghilterra	PROPN	SP	_	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+9	dopo	dopo	ADV	B	_	11	advmod	_	_
+10	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	_
+11	sani	sano	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpacesAfter=\n
+

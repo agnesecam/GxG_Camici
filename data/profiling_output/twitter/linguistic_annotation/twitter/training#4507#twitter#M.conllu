@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il Govenro di Unità nazionale della Libia arriva a Tripoli (ma forse dovrà fuggire) http://www.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Govenro	Govenro	PROPN	SP	_	9	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Unità	unità	NOUN	S	Gender=Fem	2	nmod	_	_
+5	nazionale	nazionale	ADJ	A	Number=Sing	4	amod	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Libia	Libia	PROPN	SP	_	4	nmod	_	_
+9	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	Tripoli	Tripoli	PROPN	SP	_	9	obl	_	_
+12	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+13	ma	ma	CCONJ	CC	_	16	cc	_	_
+14	forse	forse	ADV	B	_	16	advmod	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16	fuggire	fuggire	VERB	V	VerbForm=Inf	9	conj	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	16	punct	_	_
+18	http://www	http://www	NOUN	S	_	9	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = geopoliticalcenter.com/attualita/il-g ovenro-di-unita-nazionale-della-libia-arriva-a-tripoli-ma-forse-dovra-fuggire/ …
+1	geopoliticalcenter.com/attualita/il-g	geopoliticalcenter.com/attualita/il-g	NOUN	S	Gender=Masc	0	root	_	_
+2	ovenro-di-unita	ovenro-di-unito	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	nazionale	nazionale	ADJ	A	Number=Sing	2	amod	_	SpaceAfter=No
+5	-della	-della	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+6	-libia	-libia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+7	-arriva	-arrivo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	a-tripoli-ma	a-tripoli-mare	ADV	B	_	7	advmod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	forse-dovra	forse-dovrare	ADP	E	_	13	mark	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	fuggire	fuggire	VERB	V	VerbForm=Inf	7	advcl	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @carmeloabbate Mi sei piaciuto come sempre, inoltre stavi molto bene con quella bella camicia rosa.
+1	@carmeloabbate	@carmeloabbare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	piaciuto	piacere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	sempre	sempre	ADV	B	_	4	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	inoltre	inoltre	ADV	B	_	11	advmod	_	_
+9	stavi	stave	ADV	B	_	10	advmod	_	_
+10	molto	molto	ADV	B	_	11	advmod	_	_
+11	bene	bene	ADV	B	_	4	advmod	_	_
+12	con	con	ADP	E	_	15	case	_	_
+13	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
+14	bella	bello	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	camicia	camicia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+16	rosa	rosa	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Buona notte.
+1	Buona	buono	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	notte	notte	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

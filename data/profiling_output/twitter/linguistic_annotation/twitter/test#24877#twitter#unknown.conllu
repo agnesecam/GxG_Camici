@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E adesso tutti gli pseudo giornalai che per vendere copie hanno alimentato il fatto, farebbero bene a chiedere... http:// fb.me/4eCE7r0ns
+1	E	e	CCONJ	CC	_	16	cc	_	_
+2	adesso	adesso	ADV	B	_	16	advmod	_	_
+3	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det:predet	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	pseudo	pseudo	ADJ	A	_	6	amod	_	_
+6	giornalai	giornalare	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+7	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	vendere	vendere	VERB	V	VerbForm=Inf	12	advcl	_	_
+10	copie	copia	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+11	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	alimentato	alimentare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	6	punct	_	_
+16	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	bene	bene	ADV	B	_	16	advmod	_	_
+18	a	a	ADP	E	_	19	case	_	_
+19	chiedere...	chiedere...	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+20	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	fb.me/4eCE7r0ns	fb.me/4eCE7r0ns	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

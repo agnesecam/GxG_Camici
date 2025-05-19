@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dove lo hai preso il giacchetto che avevi oggi?
+1	dove	dove	ADV	B	_	4	advmod	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	giacchetto	giacchetto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	obj	_	_
+8	avevi	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	oggi	oggi	ADV	B	_	8	advmod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = — Da Oltre ai gigli mi pare https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM6OGCTJAARPZ7BB5DC64PJPN2ZEY5KMYNNRKMSQBUKK2PIEYBIZSTSVK7Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4=== …
+1	—	—	PUNCT	FF	_	8	punct	_	_
+2	Da	da	ADP	E	_	3	case	_	_
+3	Oltre	oltre	ADV	B	_	8	mark	_	_
+4-5	ai	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	3	fixed	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	gigli	giglio	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	8	nsubj	_	_
+13	7B667HQMHN2IG6NM6OGCTJAARPZ7BB5DC64PJPN2ZEY5KMYNNRKMSQBUKK2PIEYBIZSTSVK7Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4===	7B667HQMHN2IG6NM6OGCTJAARPZ7BB5DC64PJPN2ZEY5KMYNNRKMSQBUKK2PIEYBIZSTSVK7Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4===	PROPN	SP	_	12	flat:name	_	_
+14	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

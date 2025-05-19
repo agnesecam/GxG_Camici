@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PuglisiPD è solito giochino sotto elezioni un po come faceva il vostro maestro berlusconi.sempre piu uguali,anzi peggio @SenatoriPD
+1	@PuglisiPD	@PuglisiPD	PROPN	SP	_	3	nsubj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	solito	solito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	giochino	giocare	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+5	sotto	sotto	ADP	E	_	6	case	_	_
+6	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	po	po	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+9	come	come	SCONJ	CS	_	10	mark	_	_
+10	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	maestro	maestro	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+14	berlusconi.sempre	berlusconi.sempre	ADV	B	_	17	advmod	_	_
+15	piu	piu	ADP	E	_	17	case	_	_
+16	uguali,anzi	uguali,anzi	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	17	amod	_	_
+17	peggio	peggio	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+18	@SenatoriPD	@SenatoriPD	PROPN	SP	_	3	xcomp	_	SpacesAfter=\n
+

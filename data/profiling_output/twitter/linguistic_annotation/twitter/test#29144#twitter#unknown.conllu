@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CatenaUmana @LucyMilano92 la vita è l unico bene che non avrete per duevolte
+1	@CatenaUmana	@CatenaUmana	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@LucyMilano92	@LucyMilano92	PROPN	SP	_	6	nsubj	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vita	vita	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	l	l	X	X	_	0	root	_	_
+7	unico	unico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	bene	bene	NOUN	S	Gender=Masc|Number=Sing	6	appos	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	8	acl:relcl	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	duevolte	duevolta	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	11	obl	_	SpacesAfter=\n
+

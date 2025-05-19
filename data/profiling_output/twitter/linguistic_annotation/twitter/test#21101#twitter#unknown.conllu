@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SilvanoBattisti ..in culo gliela infilerei quella bomba che non ha fatto esplodere allo Stadio...
+1	@SilvanoBattisti	@SilvanoBattista	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+2	..in	..ino	ADP	E	_	3	case	_	_
+3	culo	culo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4-5	gliela	_	_	_	_	_	_	_	_
+4	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	iobj	_	_
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	infilerei	infilare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	bomba	bombo	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+13	esplodere	esplodere	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14-15	allo	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Stadio..	Stadio..	PROPN	SP	_	13	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

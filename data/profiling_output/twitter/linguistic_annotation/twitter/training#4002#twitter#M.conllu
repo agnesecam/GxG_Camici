@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = più che Cavani/Lucas, Blanc dovrà spiegare la mossa Aurier, che rischia di costargli carissima
+1	più	più	ADV	B	_	7	mark	_	_
+2	che	che	SCONJ	CS	_	1	fixed	_	_
+3	Cavani/Lucas	Cavani/Lucas	PROPN	SP	_	7	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	Blanc	Blanc	PROPN	SP	_	3	flat:name	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	spiegare	spiegare	VERB	V	VerbForm=Inf	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mossa	mossa	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	Aurier	Aurier	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	9	punct	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	rischia	rischiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15-16	costargli	_	_	_	_	_	_	_	_
+15	costar	costarre	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	carissima	caro	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	15	xcomp	_	SpacesAfter=\n
+

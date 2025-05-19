@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...mai come in questo tempo avremmo tutti bisogno di pace e serenità.....allora... che sia per tutti una "buona Pasqua" @thebrightside0
+1	...mai	...mare	ADV	B	_	8	advmod	_	_
+2	come	come	ADV	B	_	5	advmod	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+6	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nmod	_	_
+8	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	pace	pace	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	serenità	serenità	NOUN	S	Gender=Fem	10	conj	_	SpaceAfter=No
+13	.....allora...	.....allora.	PUNCT	FF	_	8	punct	_	_
+14	che	che	SCONJ	CS	_	15	mark	_	_
+15	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	15	obl	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+19	"	"	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+20	buona	buono	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	_
+21	Pasqua	Pasqua	PROPN	SP	_	0	root	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	21	punct	_	_
+23	@thebrightside0	@thebrightside0	NUM	N	NumType=Range	21	flat:name	_	SpacesAfter=\n
+

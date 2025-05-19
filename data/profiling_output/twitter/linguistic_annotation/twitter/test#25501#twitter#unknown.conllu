@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ottoemezzo Savelli dice cose false sui dati, le royalities e gli occupati.
+1	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Savelli	Savelli	PROPN	SP	_	1	nmod	_	_
+3	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+5	false	falso	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6-7	sui	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	dati	dato	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	royalities	royality	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	occupati	occupato	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Inoltre è arrogante
+1	Inoltre	inoltre	ADV	B	_	3	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	arrogante	arrogare	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n
+

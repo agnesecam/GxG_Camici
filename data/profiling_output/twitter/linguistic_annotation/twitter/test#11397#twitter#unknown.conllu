@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LauraePaola ce la farete !
+1	#LauraePaola	#LauraePaola	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	1	iobj	_	_
+3	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	farete	faere	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Eccome se ce la farete ! @LauraPausini @PaoCortellesi @RaiUno
+1	Eccome	Eccome	ADV	B	_	3	advmod	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	ce	ce	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+4	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	farete	faere	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	!	!	PUNCT	FS	_	7	punct	_	_
+7	@LauraPausini	@LauraPausini	PROPN	SP	_	5	nmod	_	_
+8	@PaoCortellesi	@PaoCortellesi	PROPN	SP	_	7	flat:name	_	_
+9	@RaiUno	@RaiUno	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

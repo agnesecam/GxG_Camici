@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per la verità dovremmo attendere a lungo, l'Italia dovrà prendere decisioni serie e noi dobbiamo fare tutti la nostra parte @GiulioSiamoNoi
+1	Per	per	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	verità	verità	NOUN	S	Gender=Fem	5	obl	_	_
+4	dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	attendere	attendere	VERB	V	VerbForm=Inf	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	lungo	lungo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	Italia	Italia	PROPN	SP	_	12	nsubj	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	prendere	prendere	VERB	V	VerbForm=Inf	5	conj	_	_
+13	decisioni	decisione	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+14	serie	serie	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
+17	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	fare	fare	VERB	V	VerbForm=Inf	12	conj	_	_
+19	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	18	obj	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	parte	parte	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
+23	@GiulioSiamoNoi	@GiulioSiamoNo	PRON	PE	Number=Plur|Person=1|PronType=Prs	22	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spegniamo sei candeline Caterina!
+1	Spegniamo	Spegnare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sei	sei	NUM	N	NumType=Card	3	nummod	_	_
+3	candeline	candelina	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	Caterina	Caterina	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Tra pochi minuti di 6 anni fa tu facesti il tuo primo respiro… https://www.
+1	Tra	tra	ADP	E	_	3	case	_	_
+2	pochi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	6	6	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	fa	fa	ADV	B	_	6	advmod	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	facesti	facedere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+11	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+12	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
+13	respiro…	respiro…	PUNCT	FF	_	12	punct	_	_
+14	https://www	https://www	NOUN	S	_	9	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDaFECIRQVQ/
+1	instagram.com/p/BDaFECIRQVQ/	instagram.com/p/BDaFECIRQVQ/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

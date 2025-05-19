@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes DA QUANTO TEMPO NON FACEVI PARODIE?
+1	@Albericoyes	@Albericoyes	ADP	E	_	2	case	_	_
+2	DA	Da	PROPN	SP	_	0	root	_	_
+3	QUANTO	quanto	PROPN	SP	_	2	flat:name	_	_
+4	TEMPO	tempo	PROPN	SP	_	2	flat:name	_	_
+5	NON	non	PROPN	SP	_	2	nmod	_	_
+6	FACEVI	FACEVI	PROPN	SP	_	5	flat:name	_	_
+7	PARODIE	PARODIE	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ORA PIANGO,ALBE #PARODIA
+1	ORA	ora	PROPN	SP	_	0	root	_	_
+2	PIANGO,ALBE	PIANGO,ALBE	PROPN	SP	_	1	flat:name	_	_
+3	#PARODIA	#PARODIA	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

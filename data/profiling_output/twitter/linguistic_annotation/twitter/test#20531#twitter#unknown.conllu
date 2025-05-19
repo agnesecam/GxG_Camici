@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Magari poi due non se lo dicono neanche, ma glielo si legge negli occhi che passerebbero la vita ad aspettarsi, a trovarsi, a volersi.
+1	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+2	Magari	magari	ADV	B	_	15	advmod	_	_
+3	poi	poi	ADV	B	_	15	advmod	_	_
+4	due	due	NUM	N	NumType=Card	15	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	neanche	neanche	ADV	BN	PronType=Neg	8	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	15	punct	_	_
+11	ma	ma	CCONJ	CC	_	15	cc	_	_
+12-13	glielo	_	_	_	_	_	_	_	_
+12	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	iobj	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:impers	_	_
+15	legge	leggere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16-17	negli	_	_	_	_	_	_	_	_
+16	in	in	ADP	E	_	18	case	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	_
+19	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+20	passerebbero	passare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	vita	vita	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
+23	ad	a	ADP	E	_	24	mark	_	_
+24-25	aspettarsi	_	_	_	_	_	_	_	SpaceAfter=No
+24	aspettar	aspettare	VERB	V	VerbForm=Inf	20	xcomp	_	_
+25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	24	expl	_	_
+26	,	,	PUNCT	FF	_	24	punct	_	_
+27	a	a	ADP	E	_	28	mark	_	_
+28-29	trovarsi	_	_	_	_	_	_	_	SpaceAfter=No
+28	trovar	trovare	VERB	V	VerbForm=Inf	24	advcl	_	_
+29	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	28	expl	_	_
+30	,	,	PUNCT	FF	_	28	punct	_	_
+31	a	a	ADP	E	_	32	case	_	_
+32	volersi.	volersi.	NOUN	S	Gender=Masc|Number=Sing	28	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ."
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	"	"	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

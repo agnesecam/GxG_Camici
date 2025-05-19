@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Sono 20 anni che ti mento ma io stessa ho creduto alle mie bugie.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	20	20	NUM	N	NumType=Card	4	nummod	_	_
+4	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+7	mento	mento	NOUN	S	Gender=Masc|Number=Sing	4	acl:relcl	_	_
+8	ma	ma	CCONJ	CC	_	12	cc	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+10	stessa	stesso	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	12	obj	_	_
+11	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	creduto	credere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+13-14	alle	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	16	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	bugie	bugia	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ero certa che ti avessimo risparmiato la... http:// fb.me/4BnAwiCKA
+1	Ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	certa	certo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	risparmiato	risparmiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+7	la...	la...	NOUN	S	_	6	parataxis	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	fb.me/4BnAwiCKA	fb.me/4BnAwiCKA	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

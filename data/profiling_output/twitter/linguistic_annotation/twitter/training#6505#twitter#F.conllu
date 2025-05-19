@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se per tutte le volte che troviamo una #giustificazione fossimo in grado di chiedere #scusa , l'umanità sarebbe #migliore . ...
+1	Se	se	SCONJ	CS	_	12	mark	_	_
+2	per	per	ADP	E	_	5	case	_	_
+3	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	volte	volta	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	#giustificazione	#giustificazione	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+10	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	cop	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	grado	grado	NOUN	S	Gender=Masc|Number=Sing	20	advcl	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	chiedere	chiedere	VERB	V	VerbForm=Inf	12	acl	_	_
+15	#scusa	#scusa	ADJ	A	Gender=Fem|Number=Sing	14	xcomp	_	_
+16	,	,	PUNCT	FF	_	12	punct	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	umanità	umanità	NOUN	S	Gender=Fem	20	nsubj	_	_
+19	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	#migliore	#migliore	ADJ	A	Degree=Cmp|Number=Sing	0	root	_	_
+21	.	.	PUNCT	FS	_	20	punct	_	_
+22	...	.	PUNCT	FF	_	20	punct	_	SpacesAfter=\n
+

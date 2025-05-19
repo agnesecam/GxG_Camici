@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #gmfaseb maggiore azionista ryanair e volotea!
+1	#gmfaseb	#gmfasebbraio	NOUN	S	Gender=Masc	0	root	_	_
+2	maggiore	maggiore	ADJ	A	Degree=Cmp|Number=Sing	1	amod	_	_
+3	azionista	azionista	NOUN	S	Number=Sing	1	nmod	_	_
+4	ryanair	ryanair	NOUN	S	_	3	compound	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	volotea	voloteo	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Se invece di comprare biglietti avessimo comprato azioni...
+1	Se	se	SCONJ	CS	_	7	mark	_	_
+2	invece	invece	ADV	B	_	4	mark	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	comprare	comprare	VERB	V	VerbForm=Inf	7	advcl	_	_
+5	biglietti	biglietto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	comprato	comprato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	azioni..	azioni..	NOUN	S	_	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = grazie @matteorenzi @SteGiannini
+1	grazie	grazie	NOUN	S	_	3	case	_	_
+2	@matteorenzi	@matteorenzi	ADP	E	_	1	fixed	_	_
+3	@SteGiannini	@SteGiannini	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SkySportF1HD dettegli che farà la fine di blatter raus ai vecchi stupidi
+1	@SkySportF1HD	@SkySportF1HD	CCONJ	CC	_	2	cc	_	_
+2-3	dettegli	_	_	_	_	_	_	_	_
+2	dette	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	fine	fine	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	blatter	blatter	VERB	V	VerbForm=Inf	7	acl	_	_
+10	raus	raus	NOUN	S	Gender=Masc	9	obj	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	vecchi	vecchio	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+14	stupidi	stupidio	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	SpacesAfter=\n
+

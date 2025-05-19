@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DecarliLeonardo Aspetto che qualcuna scriva #ALettoCon Leonardo Decarli
+1	@DecarliLeonardo	@DecarliLeonardo	PROPN	SP	_	10	nsubj	_	_
+2	Aspetto	Aspetto	PROPN	SP	_	1	flat:name	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	obj	_	_
+5	scriva	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	acl:relcl	_	_
+6	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	ALettoCon	ALettoCon	PROPN	SP	_	5	obl	_	_
+8	Leonardo	Leonardo	PROPN	SP	_	7	flat:name	_	_
+9-10	Decarli	_	_	_	_	_	_	_	SpacesAfter=\n
+9	Decar	Decar	PROPN	SP	_	7	flat:name	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+

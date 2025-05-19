@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NikLoCastro @iltrenoromalido Ma questa è attività di intelligence!
+1	@NikLoCastro	@NikLoCastro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@iltrenoromalido	@iltrenoromalido	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	Ma	ma	CCONJ	CC	_	6	cc	_	_
+4	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	attività	attività	NOUN	S	Gender=Fem	1	conj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	intelligence	intelligence	NOUN	S	Gender=Fem	6	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = In Turchia già sareste al fresco.
+1	In	in	ADP	E	_	2	case	_	_
+2	Turchia	Turchia	PROPN	SP	_	0	root	_	_
+3	già	già	ADV	B	_	4	advmod	_	_
+4	sareste	saredere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	fresco	fresco	ADJ	A	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

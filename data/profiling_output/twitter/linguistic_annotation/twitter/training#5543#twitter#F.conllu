@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo ci prova con tutte, chissà se qualcuna prima o poi gliela dà.
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	prova	provare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	chissà	chissà	ADV	B	_	10	advmod	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
+10	prima	prima	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+11	o	o	CCONJ	CC	_	15	cc	_	_
+12	poi	poi	ADV	B	_	15	advmod	_	_
+13-14	gliela	_	_	_	_	_	_	_	_
+13	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	iobj	_	_
+14	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	dà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #viscido
+1	#viscido	#viscidere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @zazzatweet infatti non è il miglior tecnico, date questa squadra a mancini e un po' di dignità in più l' avremmo ....
+1	@zazzatweet	@zazzatwee	CCONJ	CC	_	7	cc	_	_
+2	infatti	infatti	ADV	B	_	7	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	miglior	migliore	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	tecnico	tecnico	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	date	dare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	mancini	mancino	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+14	e	e	CCONJ	CC	_	18	cc	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	po'	poco	ADV	B	_	18	advmod	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	dignità	dignità	NOUN	S	Gender=Fem	9	conj	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	più	più	ADV	B	_	18	advmod	_	_
+21	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	_
+22	avremmo	avere	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	_
+23	...	...	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

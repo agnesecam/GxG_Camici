@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parecchi "calciatori" sono venuti ad allenarsi con noi,non vi dico in quanto sono scappati
+1	Parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	calciatori	calciatore	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	3	punct	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	venuti	venire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	ad	a	ADP	E	_	8	mark	_	_
+8-9	allenarsi	_	_	_	_	_	_	_	_
+8	allenar	allenare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	con	con	ADP	E	_	17	mark	_	_
+11	noi,non	noi,non	ADV	BN	PronType=Neg	17	advmod	_	_
+12	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	13	obj	_	_
+13	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+14	in	in	ADP	E	_	17	mark	_	_
+15	quanto	quanto	ADV	B	_	14	fixed	_	_
+16	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	scappati	scappare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	SpacesAfter=\n
+

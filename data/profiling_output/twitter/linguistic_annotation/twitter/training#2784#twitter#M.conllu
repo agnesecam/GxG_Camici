@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @disinformatico comincia a sembrare Internet delle Co@@ionate...
+1	@disinformatico	@disinformatico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	comincia	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	Internet	Internet	PROPN	SP	_	4	obj	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	Co@@ionate...	Co@@ionate...	PROPN	SP	_	5	nmod	_	_
+
+# sent_id = 2
+# text = :-D
+1	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	D	D	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

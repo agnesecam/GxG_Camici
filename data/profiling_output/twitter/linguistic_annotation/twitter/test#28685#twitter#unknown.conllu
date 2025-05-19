@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L' avevamo appena conosciuta e già se ne va.
+1	L'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+2	avevamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+3	appena	appena	ADV	B	_	4	advmod	_	_
+4	conosciuta	conoscere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	e	e	CCONJ	CC	_	9	cc	_	_
+6	già	già	ADV	B	_	9	advmod	_	_
+7	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:impers	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+9	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Sembrava simpatica.
+1	Sembrava	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	1	xcomp	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Salutava sempre.
+1	Salutava	Salutare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	sempre	sempre	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = #Guidi #dimissioni
+1	#Guidi	#Guido	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	#dimissioni	#dimissione	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpacesAfter=\n
+

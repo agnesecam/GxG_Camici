@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francofontana43 «non avrò la scorta, la gente mi farà da scorta!» ehmm…
+1	@francofontana43	@francofontana43	NUM	N	NumType=Card	4	nummod	_	_
+2	«	«	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	avrò	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	scorta	scorta	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	gente	gente	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	scorta	scorta	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+15	»	»	PUNCT	FB	_	4	punct	_	_
+16	ehmm…	ehmm…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

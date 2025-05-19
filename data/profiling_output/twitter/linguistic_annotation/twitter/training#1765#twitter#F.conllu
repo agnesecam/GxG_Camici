@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlBrambilla Salone del Risparmio,tutta la VERA verità sulle nostre pensioni pic.twitter.com/8KC6DhNVsv
+1	@AlBrambilla	@AlBrambilla	PROPN	SP	_	0	root	_	_
+2	Salone	Salone	PROPN	SP	_	1	flat:name	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Risparmio,tutta	Risparmio,tutta	PROPN	SP	_	1	nmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	VERA	Vera	PROPN	SP	_	1	nmod	_	_
+8	verità	verità	NOUN	S	Gender=Fem	7	nmod	_	_
+9-10	sulle	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	pensioni	pensione	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+13	pic.twitter.com/8KC6DhNVsv	pic.twitter.com/8KC6DhNVsv	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @__Fabiana___ uno di essi c'era Luke Newberry, attore che ho molto apprezzato in In The Flesh!
+1	@__Fabiana___	@__Fabiana__-	PUNCT	FB	_	6	punct	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nmod	_	_
+5	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No
+6	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	Luke	Luke	PROPN	SP	_	6	nsubj	_	_
+8	Newberry	Newberry	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	attore	attore	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+12	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	molto	molto	ADV	B	_	14	advmod	_	_
+14	apprezzato	apprezzato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	In	In	PROPN	SP	_	14	obl	_	_
+17	The	the	PROPN	SP	_	16	flat:name	_	_
+18	Flesh	Flesh	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

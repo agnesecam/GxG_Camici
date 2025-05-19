@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @francesca_laghi penso proprio che dopo il 9 ci starà moooolto alla larga
+1	@francesca_laghi	@francesca_lago	PRON	PR	Number=Sing|PronType=Rel	2	obj	_	_
+2	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	proprio	proprio	ADV	B	_	2	advmod	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5	dopo	dopo	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	9	9	NUM	N	NumType=Card	9	nummod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+10	moooolto	moooolto	ADV	B	_	9	advmod	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	larga	largo	ADJ	A	Gender=Fem|Number=Sing	9	obl	_	SpacesAfter=\n
+

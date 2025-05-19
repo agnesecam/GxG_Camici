@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlessAmato dunque causa dei terremoti sono faglie critically stressed.
+1	@AlessAmato	@AlessAmare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	causa	causa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	terremoti	terremoto	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	faglie	fagliere	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	critically	critically	NOUN	S	Gender=Fem	1	nsubj	_	_
+10	stressed	stressed	ADJ	A	_	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma non solo oil&gas recovery induce sismicità, vero @luigiimprota8 ?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	solo	solo	ADV	B	_	4	advmod	_	_
+4	oil&gas	oil&gas	X	SW	Foreign=Yes	6	nsubj	_	_
+5	recovery	recovery	X	SW	Foreign=Yes	4	flat:foreign	_	_
+6	induce	induce	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sismicità	sismicità	NOUN	S	Gender=Fem	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	vero	vero	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+10	@luigiimprota8	@luigiimprota8	NUM	N	NumType=Card	9	nummod	_	_
+11	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

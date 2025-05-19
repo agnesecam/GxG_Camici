@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutto cominciò...:
+1	Tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	cominciò...	cominciò...	NOUN	S	_	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Psicopittografia, come possedere una personalità a... http:// lifarnur.blogspot.com/2016/02/psicop ittografia-come-possedere-una.html?spref=tw …
+1	Psicopittografia	Psicopittografia	ADV	B	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	come	come	SCONJ	CS	_	4	mark	_	_
+4	possedere	possedere	VERB	V	VerbForm=Inf	1	advcl	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	personalità	personalità	NOUN	S	Gender=Fem	4	obj	_	_
+7	a...	a.	NOUN	S	_	6	compound	_	_
+8	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	6	punct	_	_
+11	lifarnur.blogspot.com/2016/02/psicop	lifarnur.blogspot.com/2016/02/psicop	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	_
+12	ittografia-come-possedere-una.html	ittografia-come-possedere-una.html	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+14	spref=tw	spref=tw	NOUN	S	Gender=Masc	6	compound	_	_
+15	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = San Dionigi di Corinto Titolo:
+1	San	San	PROPN	SP	_	0	root	_	_
+2	Dionigi	Dionigi	PROPN	SP	_	1	flat:name	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Corinto	Corinto	PROPN	SP	_	1	nmod	_	_
+5	Titolo	titolo	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vescovo Ricorrenza: 08 aprile Fu nominato vescovo di Corinto, la sua città....
+1	Vescovo	vescovo	PROPN	SP	_	7	nsubj	_	_
+2	Ricorrenza	ricorrenza	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	08	08	NUM	N	NumType=Card	5	nummod	_	_
+5	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+6	Fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+7	nominato	nominare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	vescovo	vescovo	NOUN	S	Gender=Masc|Number=Sing	7	xcomp	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Corinto	Corinto	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	città....	città....	NOUN	S	_	7	conj	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7JTmr5Ljo
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7JTmr5Ljo	fb.me/7JTmr5Ljo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

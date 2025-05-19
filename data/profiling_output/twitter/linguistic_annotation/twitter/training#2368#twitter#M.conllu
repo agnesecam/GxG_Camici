@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Filippo_Casini @Urginea ci danno dentro col pane insomma, ovunque sia!
+1	@Filippo_Casini	@Filippo_Casini	PROPN	SP	_	4	nsubj	_	_
+2	@Urginea	@Urginea	PROPN	SP	_	1	flat:name	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	danno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dentro	dentro	ADV	B	_	4	advmod	_	_
+6-7	col	_	_	_	_	_	_	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pane	pane	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	insomma	insomma	ADV	B	_	8	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	ovunque	ovunque	ADV	B	_	4	advmod	_	_
+12	sia	essere	CCONJ	CC	_	4	obj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

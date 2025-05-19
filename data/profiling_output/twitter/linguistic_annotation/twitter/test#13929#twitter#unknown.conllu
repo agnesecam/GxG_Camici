@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MinoRaiola noi sappiamo fare solo i film?
+1	@MinoRaiola	@MinoRaiola	PROPN	SP	_	3	obl	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	sappiamo	sapere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	solo	solo	ADV	B	_	4	advmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	film	film	NOUN	S	Gender=Masc	4	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ok allora ne faremo uno su di te....storia di un pappone!
+1	Ok	Ok	PROPN	SP	_	4	nsubj	_	_
+2	allora	allora	ADV	B	_	1	advmod	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	te....storia	te....storia	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	pappone	pappone	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Pensi solo a fare soldi coi calciatori
+1	Pensi	pensare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	solo	solo	ADV	B	_	4	advmod	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+5	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6-7	coi	_	_	_	_	_	_	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	calciatori	calciatore	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpacesAfter=\n
+

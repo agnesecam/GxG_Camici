@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se fossi onesto, eviteresti dunque di attribuire a chi rivendica i diritti di isarele un appoggio politico per default @pimma77
+1	se	se	SCONJ	CS	_	3	mark	_	_
+2	fossi	essere	AUX	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	onesto	onesto	ADJ	A	Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	eviteresti	eviteredere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	dunque	dunque	ADV	B	_	5	advmod	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	attribuire	attribuire	VERB	V	VerbForm=Inf	5	xcomp	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	obl	_	_
+11	rivendica	rivendicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	isarele	isarela	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	appoggio	appoggio	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+18	politico	politico	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	per	per	ADP	E	_	20	case	_	_
+20	default	default	NOUN	S	Gender=Masc	17	nmod	_	_
+21	@pimma77	@pimma77	NUM	N	NumType=Card	20	nummod	_	SpacesAfter=\n
+

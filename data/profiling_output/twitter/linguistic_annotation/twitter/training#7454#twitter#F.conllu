@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Piot_94 essi allora è lei proprio.
+1	@Piot_94	@Piot_94	NUM	N	NumType=Card	2	nummod	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+3	allora	allora	ADV	B	_	5	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+6	proprio	proprio	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Me la ricordavo anche io
+1	Me	Me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	ricordavo	ricordavo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	anche	anche	ADV	B	_	3	advmod	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpacesAfter=\n
+

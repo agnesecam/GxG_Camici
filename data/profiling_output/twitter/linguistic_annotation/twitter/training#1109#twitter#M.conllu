@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VIAREGGIO NUOVI
+1	VIAREGGIO	Viareggio	PROPN	SP	_	0	root	_	_
+2	NUOVI	nuovo	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 2
+# text = CLANDESTINI MANDATI DALLA PREFETTURA http:// nuovatoscana.altervista.org/?p=181
+1	CLANDESTINI	clandestini	PROPN	SP	_	9	nsubj	_	_
+2	MANDATI	mandati	PROPN	SP	_	1	flat:name	_	_
+3-4	DALLA	_	_	_	_	_	_	_	_
+3	DA	Da	PROPN	SP	_	1	flat:name	_	_
+4	LA	La	PROPN	SP	_	1	flat:name	_	_
+5	PREFETTURA	Prefettura	PROPN	SP	_	1	nmod	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	nuovatoscana.altervista.org/?p=181	nuovatoscana.altervista.org/?p=181	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Usavano il contraccettivo, infatti non mi risulta che qualcuna sia rimasta incinta.
+1	Usavano	usare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	contraccettivo	contraccettivo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	infatti	infatti	ADV	B	_	8	advmod	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	risulta	risultare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	12	nsubj	_	_
+11	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	rimasta	rimanere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_
+13	incinta	incincere	ADJ	A	Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/V89yKgqVHU
+1	pic.twitter.com/V89yKgqVHU	pic.twitter.com/V89yKgqVHU	ADP	E	_	0	root	_	SpacesAfter=\n
+

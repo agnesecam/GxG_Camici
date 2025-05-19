@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Aliceb2014Alice ...infatti è ciò che ho consigliato.
+1	@Aliceb2014Alice	@Aliceb2014Alice	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	...infatti	...infatto	ADV	B	_	1	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	consigliato	consigliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Poi dovrà prevalere l'istinto materno su tutto il resto...
+1	Poi	poi	ADV	B	_	3	advmod	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	prevalere	prevalere	VERB	V	VerbForm=Inf	0	root	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	istinto	istinto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	materno	materno	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	su	su	ADP	E	_	10	case	_	_
+8	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	resto...	resto...	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpacesAfter=\n
+

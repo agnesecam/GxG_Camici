@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Romani, 4:17 - (secondo che è scritto:
+1	Romani	romani	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	4:17	4:17	NUM	N	NumType=Card	6	nummod	_	_
+4	-	-	PUNCT	FF	_	3	punct	_	_
+5	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj:pass	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = Io ti ho costituito padre di molte nazioni) dinanzi al Dio a cui egli ... http:// fb.me/46Jsl4Otp
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	costituito	costituire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
+5	padre	padre	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	molte	molto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	nazioni	nazione	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	4	punct	_	_
+10	dinanzi	dinanzi	ADV	B	_	13	case	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Dio	Dio	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	cui	cui	PRON	PR	PronType=Rel	16	obl	_	_
+16	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+17	...	...	PUNCT	FF	_	16	punct	_	_
+18	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	16	punct	_	_
+21	fb.me/46Jsl4Otp	fb.me/46Jsl4Otp	PROPN	SP	_	16	appos	_	SpacesAfter=\n
+

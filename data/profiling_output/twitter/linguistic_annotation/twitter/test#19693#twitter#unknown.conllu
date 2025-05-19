@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giucruciani la vera domanda non perché tu ti sia ribellato (giustamente) con un salame, ma cosa ci facevi con un salame in ufficio?
+1	@giucruciani	@giucruciano	ADV	B	_	10	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	vera	vero	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+6	perché	perché	SCONJ	CS	_	10	mark	_	_
+7	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	expl	_	_
+9	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	ribellato	ribellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	giustamente	giustamente	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	12	punct	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	salame	salame	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	21	punct	_	_
+18	ma	ma	CCONJ	CC	_	21	cc	_	_
+19	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	21	obj	_	_
+20	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	21	expl	_	_
+21	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	_
+22	con	con	ADP	E	_	24	case	_	_
+23	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	salame	salame	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
+25	in	in	ADP	E	_	26	case	_	_
+26	ufficio	ufficio	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

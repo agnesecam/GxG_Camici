@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io dico che se i tempi supplementari li avessimo a Torino non so se sarebbe finita così la partita #BayernJuve #BeHeroes #ForzaJuve
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	13	mark	_	_
+4	se	se	SCONJ	CS	_	9	mark	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+7	supplementari	supplementare	ADJ	A	Number=Plur	6	amod	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	Torino	Torino	PROPN	SP	_	9	obl	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+14	se	se	SCONJ	CS	_	16	mark	_	_
+15	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	finita	finire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	_
+17	così	così	ADV	B	_	16	advmod	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	partita	partita	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+20	#	#	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+21	BayernJuve	BayernJuve	PROPN	SP	_	19	nmod	_	_
+22	#BeHeroes	#BeHeroes	PROPN	SP	_	21	flat:name	_	_
+23	#	#	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	ForzaJuve	ForzaJuve	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

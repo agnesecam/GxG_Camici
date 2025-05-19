@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Jack ancora quel sopracciglio tagliato come se fossimo nel 2006 #uominiedonne
+1	Jack	Jack	PROPN	SP	_	0	root	_	_
+2	ancora	ancora	ADV	B	_	4	advmod	_	_
+3	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	sopracciglio	sopracciglio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+5	tagliato	tagliare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6	come	come	ADV	B	_	11	advmod	_	_
+7	se	se	SCONJ	CS	_	11	mark	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	2006	2006	NUM	N	NumType=Card	5	nummod	_	_
+12	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	SpacesAfter=\n
+

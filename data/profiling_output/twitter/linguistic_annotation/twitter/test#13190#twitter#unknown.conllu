@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @teobruno85 @tornatiatorino oh ma allora lo fai apposta.
+1	@teobruno85	@teobruno85	NUM	N	NumType=Card	2	nummod	_	_
+2	@tornatiatorino	@tornatiatorino	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	oh	oh	ADV	B	_	2	advmod	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	allora	allora	ADV	B	_	7	advmod	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	apposta	apposta	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Veniva considerato tale da parecchi .
+1	Veniva	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux:pass	_	_
+2	considerato	considerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	tale	tale	ADJ	A	Number=Sing	2	xcomp	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	2	obl:agent	_	_
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Stesso aggettivo.
+1	Stesso	stesso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	aggettivo	aggettivo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Il senso era quello
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	senso	senso	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	SpacesAfter=\n
+

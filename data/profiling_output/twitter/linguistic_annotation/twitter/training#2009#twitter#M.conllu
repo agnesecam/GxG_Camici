@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = FUORI
+1	FUORI	fuori	ADP	E	_	0	root	_	_
+
+# sent_id = 2
+# text = LA MAFIA DALLO STATO http:// fb.me/QNburU6R
+1	LA	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	MAFIA	mafia	PROPN	SP	_	0	root	_	_
+3-4	DALLO	_	_	_	_	_	_	_	_
+3	DA	Da	PROPN	SP	_	2	flat:name	_	_
+4	LO	Lo	PROPN	SP	_	2	flat:name	_	_
+5	STATO	Stato	PROPN	SP	_	2	nmod	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	fb.me/QNburU6R	fb.me/QNburU6R	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

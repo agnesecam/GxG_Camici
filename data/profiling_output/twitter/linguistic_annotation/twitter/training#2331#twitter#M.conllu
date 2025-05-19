@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Inter @MauroIcardi tocchera anche pochi palloni ma quelli che tocca li butta sempre dentro ...
+1	@Inter	@Inter	ADP	E	_	2	case	_	_
+2	@MauroIcardi	@MauroIcardi	PROPN	SP	_	3	obl	_	_
+3	tocchera	toccherare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	anche	anche	ADV	B	_	6	advmod	_	_
+5	pochi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	palloni	pallone	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	6	conj	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+12	butta	buttare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+13	sempre	sempre	ADV	B	_	12	advmod	_	_
+14	dentro	dentro	ADV	B	_	12	advmod	_	_
+15	...	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

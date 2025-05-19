@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uomini!
+1	Uomini	uomini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Dallo strepitoso concerto torinese Human Rights Now! a oggi, un mito che mi accompagna da sempre e che... http:// fb.me/4xwfCnm2p
+1-2	Dallo	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	4	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	strepitoso	strepitoso	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	concerto	concerto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	torinese	torinese	ADJ	A	Number=Sing	4	amod	_	_
+6	Human	Human	PROPN	SP	_	4	nmod	_	_
+7	Rights	Rights	PROPN	SP	_	6	flat:name	_	_
+8	Now	Now	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	4	punct	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	oggi	oggi	ADV	B	_	4	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	4	punct	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	mito	mito	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+17	accompagna	accompagnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+18	da	da	ADP	E	_	19	case	_	_
+19	sempre	sempre	ADV	B	_	17	advmod	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	che...	che...	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	_
+22	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	14	punct	_	_
+25	fb.me/4xwfCnm2p	fb.me/4xwfCnm2p	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

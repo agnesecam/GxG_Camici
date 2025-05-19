@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 50,000$ mensili?
+1	50,000$	50,000$	PROPN	SP	_	0	root	_	_
+2	mensili	mensile	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Soldi Reali?
+1	Soldi	soldi	PROPN	SP	_	0	root	_	_
+2	Reali	Reali	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = ROBOT FX:
+1	ROBOT	robot	PROPN	SP	_	0	root	_	_
+2	FX	FX	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 4
+# text = Si, ma questo soltanto su di un unico conto.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	4	punct	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	conj	_	_
+5	soltanto	soltanto	ADV	B	_	10	advmod	_	_
+6	su	su	ADP	E	_	10	case	_	_
+7	di	di	ADP	E	_	6	fixed	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	unico	unico	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	conto	conto	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = http://www.
+1	http://www.	http://www.	NOUN	S	_	0	root	_	_
+
+# sent_id = 6
+# text = mt5fxea.com
+1	mt5fxea.com	mt5fxea.com	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

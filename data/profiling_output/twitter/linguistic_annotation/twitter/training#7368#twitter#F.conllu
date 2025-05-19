@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = nei miei libri parlo di molti paesi attorno al lago, e per alcuni di essi ci saranno aperture e itinerari... http:// fb.me/4TqXrWhLZ
+1-2	nei	_	_	_	_	_	_	_	_
+1	in	in	ADP	E	_	4	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	libri	libro	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+5	parlo	parlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+9	attorno	attorno	ADV	B	_	12	case	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	9	fixed	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	lago	lago	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	20	punct	_	_
+14	e	e	CCONJ	CC	_	20	cc	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	alcuni	alcuno	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	20	obl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nmod	_	_
+19	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	20	expl	_	_
+20	saranno	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	_
+21	aperture	apertura	NOUN	S	Gender=Fem|Number=Plur	20	nsubj	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	itinerari...	itinerari...	NOUN	S	Gender=Masc|Number=Sing	21	conj	_	_
+24	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	21	punct	_	_
+27	fb.me/4TqXrWhLZ	fb.me/4TqXrWhLZ	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

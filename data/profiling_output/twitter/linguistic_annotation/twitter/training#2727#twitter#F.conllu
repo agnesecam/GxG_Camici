@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #perQuanto possa sembrare assurdo, da piccola avevo un sogno:
+1	#perQuanto	#perQuanto	ADV	B	_	3	advmod	_	_
+2	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+4	assurdo	assurdo	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	8	obl	_	_
+8	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	conj	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = indossare l'uniforme.
+1	indossare	indossare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	uniforme.	uniforme.	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = Poi son cresciuta ed il sogno è rimasto nel cassetto.
+1	Poi	poi	ADV	B	_	3	advmod	_	_
+2	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	cresciuta	crescere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	ed	e	CCONJ	CC	_	8	cc	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	rimasto	rimanere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	cassetto.	cassetto.	NOUN	S	Gender=Masc	8	obl	_	SpaceAfter=No
+
+# sent_id = 5
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

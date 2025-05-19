@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sportal.it - La Juve vuole riprendere la marcia:
+1	sportal.it	sportal.it	ADV	B	_	6	advmod	_	_
+2	-	-	PUNCT	FF	_	6	punct	_	_
+3	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Juve	Juve	PROPN	SP	_	6	nsubj	_	_
+5	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	riprendere	riprendere	VERB	V	VerbForm=Inf	0	root	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	marcia	marcia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = La Juve vuole riprendere la marciaAllegri dovrà fa... http:// bit.ly/22XCx5u @sportal -
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Juve	Juve	PROPN	SP	_	4	nsubj	_	_
+3	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	riprendere	riprendere	VERB	V	VerbForm=Inf	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	marciaAllegri	marciaAllegri	PROPN	SP	_	8	nsubj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	cop	_	_
+8	fa...	fa...	NOUN	S	_	4	conj	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	bit.ly/22XCx5u	bit.ly/22XCx5u	PROPN	SP	_	8	nmod	_	_
+13	@sportal	@sportal	ADJ	A	_	12	amod	_	_
+14	-	-	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

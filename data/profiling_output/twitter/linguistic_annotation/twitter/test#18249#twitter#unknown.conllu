@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #AndroidN porta con sè parecchie novità.
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	AndroidN	AndroidN	PROPN	SP	_	3	nsubj	_	_
+3	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	sè	sè	PRON	PE	Person=3|PronType=Prs	3	obl	_	_
+6	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+7	novità	novità	NOUN	S	Gender=Fem	3	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Quale vi incuriosisce di più?
+1	Quale	quale	PRON	PQ	Number=Sing|PronType=Int	3	nsubj	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	incuriosisce	incuriosire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	più	più	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = instanews.it/2016/03/10/and roid-n-ufficiale-tutte-le-novita/ …
+1	instanews.it/2016/03/10/and	instanews.it/2016/03/10/and	NOUN	S	_	7	nmod	_	_
+2	roid	roid	ADJ	A	_	7	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	n-	_	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	ufficiale-tutte-le	ufficiale-tutte-le	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	novita	novita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	_
+9	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

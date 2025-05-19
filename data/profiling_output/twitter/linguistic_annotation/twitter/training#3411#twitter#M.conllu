@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco, il video di Gabriele anche stanotte non mi farà dormire #quartogrado
+1	Ecco	ecco	ADV	B	_	8	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	video	video	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Gabriele	Gabriele	PROPN	SP	_	4	nmod	_	_
+7	anche	anche	ADV	B	_	8	advmod	_	_
+8	stanotte	stanotta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	xcomp	_	_
+12	dormire	dormire	VERB	V	VerbForm=Inf	11	xcomp	_	_
+13	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	quartogrado	quartogrado	SCONJ	CS	_	8	conj	_	SpacesAfter=\n
+

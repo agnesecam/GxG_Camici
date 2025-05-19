@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E
+1	E	e	CCONJ	CC	_	0	root	_	_
+
+# sent_id = 2
+# text = VAFFANCULO a chi dirà che un'altra ti cancellerà che un giorno arriverà qualcuno che mi farà scordare noi.
+1	VAFFANCULO	Vaffanculare	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	nmod	_	_
+4	dirà	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	9	nsubj	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+9	cancellerà	cancellare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+13	arriverà	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	ccomp	_	_
+14	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obj	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+17	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	acl:relcl	_	_
+18	scordare	scordare	VERB	V	VerbForm=Inf	17	xcomp	_	_
+19	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Proprio adatta questa
+1	Proprio	proprio	ADV	B	_	2	advmod	_	_
+2	adatta	adatto	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	SpacesAfter=\n
+

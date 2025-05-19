@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nonostante sei il n°1 dei ballerini Samuel Peron le nostre baby dancer hanno qualcosa da insegnarti!
+1	Nonostante	nonostante	SCONJ	CS	_	14	mark	_	_
+2	sei	sei	NUM	N	NumType=Card	4	nummod	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	n°1	n°1	NUM	N	NumType=Card	14	nsubj	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	ballerini	ballerino	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	Samuel	Samuel	PROPN	SP	_	7	nmod	_	_
+9	Peron	Peron	PROPN	SP	_	8	flat:name	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	baby	baby	NOUN	S	Gender=Fem	14	nsubj	_	_
+13	dancer	dancere	AUX	VA	VerbForm=Inf	14	aux	_	_
+14	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	14	obj	_	_
+16	da	da	ADP	E	_	17	mark	_	_
+17-18	insegnarti	_	_	_	_	_	_	_	SpaceAfter=No
+17	insegnar	insegnare	VERB	V	VerbForm=Inf	14	advcl	_	_
+18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+19	!	!	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = ;-))) http:// fb.me/VIDkCadW
+1	;	;	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	1	punct	_	_
+6	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	1	punct	_	_
+9	fb.me/VIDkCadW	fb.me/VIDkCadW	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

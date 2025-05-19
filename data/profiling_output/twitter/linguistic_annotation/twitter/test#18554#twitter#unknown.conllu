@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @repubblicait @ilaria_carra se facessimo tutti così vivremmo nella più totale anarchia!
+1	@repubblicait	@repubblicait	CCONJ	CC	_	4	cc	_	_
+2	@ilaria_carra	@ilaria_carrare	ADV	B	_	4	advmod	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obj	_	_
+6	così	così	ADV	B	_	7	advmod	_	_
+7	vivremmo	vivere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	4	advcl	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	12	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	totale	totale	ADJ	A	Number=Sing	12	amod	_	_
+12	anarchia	anarchia	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = diventare un esempio in positivo, questo doveva fare
+1	diventare	diventare	VERB	V	VerbForm=Inf	9	advcl	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	positivo	positivo	ADJ	A	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	_
+8	doveva	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = «Cosa ne pensa dello stupro?» E il parlamentare afghano minaccia di tagliare il naso alla giornalista http:// video.corriere.it/cosa-ne-pensa- stupro-parlamentare-afgano-minaccia-tagliare-naso-giornalista/90017dd2-fe1a-11e5-9678-8403d0d80f1f …
+1	«	«	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	dello	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	stupro	stupro	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	»	»	PUNCT	FB	_	4	punct	_	_
+10	E	e	CCONJ	CC	_	14	cc	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	parlamentare	parlamentare	NOUN	S	Number=Sing	14	nsubj	_	_
+13	afghano	afghano	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	minaccia	minaccia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+15	di	di	ADP	E	_	16	mark	_	_
+16	tagliare	tagliare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	naso	naso	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19-20	alla	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	giornalista	giornalista	NOUN	S	Number=Sing	16	obl	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	video.corriere.it/cosa-ne-pensa-	_	PUNCT	FF	_	26	punct	_	_
+26	stupro	stupro	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+27	-	-	PUNCT	FF	_	26	punct	_	SpaceAfter=No
+28	parlamentare	parlamentare	VERB	V	VerbForm=Inf	26	acl	_	SpaceAfter=No
+29	-	-	PUNCT	FF	_	30	punct	_	SpaceAfter=No
+30	afgano	afgare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	parataxis	_	SpaceAfter=No
+31	-	-	PUNCT	FF	_	30	punct	_	SpaceAfter=No
+32	minaccia-tagliare	minaccia-tagliare	VERB	V	VerbForm=Inf	28	xcomp	_	SpaceAfter=No
+33	-	-	PUNCT	FF	_	32	punct	_	SpaceAfter=No
+34	naso	naso	NOUN	S	Gender=Masc|Number=Sing	32	obj	_	SpaceAfter=No
+35	-giornalista/90017dd2	-giornalista/90017dd2	NUM	N	NumType=Card	37	nummod	_	SpaceAfter=No
+36	-	-	PUNCT	FF	_	35	punct	_	SpaceAfter=No
+37	fe1a-11e5-9678-8403d0d80f1f	fe1a-11e5-9678-8403d0d80f1f	NOUN	S	Gender=Masc|Number=Sing	34	nmod	_	_
+38	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @icouldkillyou - quella è bella bella, poi però ho dovuto chiudere.
+1	@icouldkillyou	@icouldkillyou	ADJ	A	_	3	amod	_	_
+2	-	-	PUNCT	FF	_	1	punct	_	_
+3	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	bella	bello	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+6	bella	bello	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	12	punct	_	_
+8	poi	poi	ADV	B	_	12	advmod	_	_
+9	però	però	ADV	B	_	12	advmod	_	_
+10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux	_	_
+12	chiudere	chiudere	VERB	V	VerbForm=Inf	5	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Sicuramente ne scaricherò qualcuna :) Grazie per avermene parlato
+1	Sicuramente	sicuramente	ADV	B	_	3	advmod	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	scaricherò	scaricare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	obj	_	_
+5	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+6	)	)	PUNCT	FB	_	3	punct	_	_
+7	Grazie	grazie	NOUN	S	_	0	root	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9-11	avermene	_	_	_	_	_	_	_	_
+9	aver	avere	VERB	V	VerbForm=Inf	7	acl	_	_
+10	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+11	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+12	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	SpacesAfter=\n
+

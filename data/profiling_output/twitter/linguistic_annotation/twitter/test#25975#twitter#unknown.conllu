@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bobogiac che non ci siano interessi illeciti nella vittoria del #pd a #Roma del resto un po di arresti lo avete avuti già #MafiaCapitale
+1	@bobogiac	@bobogiac	NOUN	S	Gender=Masc	25	nsubj	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	siano	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	ccomp	_	_
+6	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+7	illeciti	illecito	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8-9	nella	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	25	obl	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	#pd	#pd	NOUN	S	Gender=Masc	25	nmod	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	#Roma	#Roma	PROPN	SP	_	13	nmod	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	resto	resto	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	po	po	NOUN	S	Gender=Masc|Number=Sing	25	nsubj	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	arresti	arresto	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
+23	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
+24	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+26	già	già	ADV	B	_	25	advmod	_	_
+27	#MafiaCapitale	#MafiaCapitale	PROPN	SP	_	25	xcomp	_	SpacesAfter=\n
+

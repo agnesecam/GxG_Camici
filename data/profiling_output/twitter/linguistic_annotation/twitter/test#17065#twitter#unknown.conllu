@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @serracchiani certo voi pur di vincere fareste accordi anche con il diavolo, calpestando storie, identita' ecc
+1	@serracchiani	@serracchiano	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	certo	certo	ADV	B	_	1	advmod	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	1	obj	_	_
+4	pur	pure	ADV	B	_	6	mark	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	vincere	vincere	VERB	V	VerbForm=Inf	1	advcl	_	_
+7	fareste	faresta	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+8	accordi	accordo	ADJ	A	Number=Plur	7	amod	_	_
+9	anche	anche	ADV	B	_	12	advmod	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	diavolo	diavolo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	1	punct	_	_
+14	calpestando	calpestare	VERB	V	VerbForm=Ger	1	advcl	_	_
+15	storie	storia	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	17	punct	_	_
+17	identita	identire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+18	'	'	PUNCT	FB	_	17	punct	_	_
+19	ecc	eccetera	ADV	B	_	1	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ciaodarwin stasera una cacata.
+1	#ciaodarwin	#ciaodarwino	ADP	E	_	2	case	_	_
+2	stasera	stasera	ADV	B	_	4	advmod	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cacata.	cacata.	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..normali e diversi ,credevo che fossimo tutti uguali....bah.....sempre differenze ...
+1	..normali	..normale	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	diversi	diverso	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	,credevo	,credevo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+5	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+6	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	_	_
+8	uguali....bah.....sempre	uguali....bah.....sempre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+9	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+10	...	...	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

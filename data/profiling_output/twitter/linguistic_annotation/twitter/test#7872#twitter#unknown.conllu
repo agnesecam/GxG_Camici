@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma a Report sanno che il 98% delle imprese sono pmi?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Report	Report	PROPN	SP	_	4	obl	_	_
+4	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	13	mark	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	98	98	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+8	%	%	SYM	SYM	_	13	nsubj	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	imprese	impresa	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+12	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	pmi	pmo	ADJ	A	Number=Plur	4	ccomp	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = E dunque è pretestuoso comparare gradi di utilizzo diversi di servizi?
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	dunque	dunque	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pretestuoso	pretestuoso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	comparare	comparare	VERB	V	VerbForm=Inf	4	csubj	_	_
+6	gradi	grado	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	utilizzo	utilizzo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

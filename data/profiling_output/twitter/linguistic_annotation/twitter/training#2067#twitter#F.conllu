@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Biagio de patta illuminato dallo spirito #ciaodarwin
+1	Biagio	Biagio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	de	di	ADP	E	_	3	case	_	_
+3	patta	patta	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	illuminato	illuminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5-6	dallo	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	spirito	spirito	NOUN	S	Gender=Masc|Number=Sing	4	obl:agent	_	_
+8	#ciaodarwin	#ciaodarwino	ADP	E	_	4	case	_	SpacesAfter=\n
+

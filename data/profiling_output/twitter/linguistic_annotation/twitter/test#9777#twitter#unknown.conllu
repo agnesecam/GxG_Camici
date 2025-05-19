@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ProRecco vince la Coppa Italia battuto in finale #Brescia 5-4 è l'11º titolo il 4º consecutivo #pallanuoto maschile #waterpolo
+1	#ProRecco	#ProRecco	ADV	B	_	2	advmod	_	_
+2	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Coppa	Coppa	PROPN	SP	_	2	nsubj	_	_
+5	Italia	Italia	PROPN	SP	_	4	nmod	_	_
+6	battuto	battere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	finale	finale	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	Brescia	Brescia	PROPN	SP	_	6	obl	_	_
+11	5	5	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	4	4	NUM	N	NumType=Card	10	flat:name	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+16	11º	1primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	17	amod	_	_
+17	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	4º	4º	NUM	N	NumType=Card	20	nummod	_	_
+20	consecutivo	consecutivo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+21	#pallanuoto	#pallanuoto	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+22	maschile	maschile	ADJ	A	Number=Sing	20	amod	_	_
+23	#waterpolo	#waterpolo	NOUN	S	Gender=Masc|Number=Sing	2	xcomp	_	SpacesAfter=\n
+

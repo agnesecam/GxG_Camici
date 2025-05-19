@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cosa faresti se?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	faresti	fare	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	2	fixed	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ogni giorno, a scuola, lui ti rubasse i compiti e con essi prendesse il massimo dei voti: pic.twitter.com/WJH7TW6OCC
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+9	rubasse	rubare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	compiti	compito	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obl	_	_
+15	prendesse	prendere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	massimo	massimo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+18-19	dei	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	voti	voto	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+21	:	:	PUNCT	FC	_	15	punct	_	_
+22	pic.twitter.com/WJH7TW6OCC	pic.twitter.com/WJH7TW6OCC	PROPN	SP	_	9	obj	_	SpacesAfter=\n
+

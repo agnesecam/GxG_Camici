@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lozobeat @AlessandraSerr1 -> che dovendo difendere un Premier indifendibile sono costretti a navigarci ogni giorno dentro ad #unmarediballe
+1	@lozobeat	@lozobeare	SYM	X	_	4	nmod	_	_
+2	@AlessandraSerr1	@AlessandraSerr1	PROPN	SP	_	1	flat:name	_	_
+3	-	_	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	>	>	SYM	SYM	_	12	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	dovendo	dovere	AUX	VM	VerbForm=Ger	7	aux	_	_
+7	difendere	difendere	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Premier	premier	PROPN	SP	_	7	obj	_	_
+10	indifendibile	indifendibile	ADJ	A	Number=Sing	9	amod	_	_
+11	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	costretti	costringere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14-15	navigarci	_	_	_	_	_	_	_	_
+14	navigar	navigare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	expl	_	_
+16	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	17	det	_	_
+17	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	dentro	dentro	ADV	B	_	14	advmod	_	_
+19	ad	a	ADP	E	_	20	case	_	_
+20	#unmarediballe	#unmarediballo	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	SpacesAfter=\n
+

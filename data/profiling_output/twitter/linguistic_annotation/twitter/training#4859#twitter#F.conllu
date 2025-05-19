@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Caterna fu gettata", Carlo Sperduti - Caro Carlo... https://www.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Caterna	Caterna	ADV	B	_	4	advmod	_	_
+3	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	gettata	esgetere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	Carlo	Carlo	PROPN	SP	_	0	root	_	_
+8	Sperduti	Sperduto	PROPN	SP	_	7	flat:name	_	_
+9	-	-	PUNCT	FF	_	7	punct	_	_
+10	Caro	caro	NOUN	S	Gender=Masc|Number=Sing	7	appos	_	_
+11	Carlo...	Carlo.	PROPN	SP	_	10	nmod	_	_
+12	https://www	https://www	X	SW	Foreign=Yes	11	flat:name	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = bloglovin.com/blog/post/8098 027/4826666043 … on @bloglovin
+1	bloglovin.com/blog/post/8098	bloglovin.com/blog/post/8098	NUM	N	NumType=Card	4	nmod	_	_
+2	027/4826666043	027/4826666043	NUM	N	NumType=Card	1	flat	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	on	on	X	SW	Foreign=Yes	0	root	_	_
+5	@bloglovin	@bloglovino	X	SW	Foreign=Yes	4	flat:foreign	_	SpacesAfter=\n
+

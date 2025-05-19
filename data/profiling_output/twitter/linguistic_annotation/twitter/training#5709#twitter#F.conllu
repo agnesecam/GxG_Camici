@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non tutti possono fare tutti la prova del fuoco ..
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
+3	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obj	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	prova	prova	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	fuoco	fuoco	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = qualcuna potrebbe sciogliersi #isola #botox
+1	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3-4	sciogliersi	_	_	_	_	_	_	_	_
+3	scioglier	sciogliere	VERB	V	VerbForm=Inf	5	advcl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	#isola	#isolare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	#botox	#botox	SYM	SYM	_	5	obj	_	SpacesAfter=\n
+

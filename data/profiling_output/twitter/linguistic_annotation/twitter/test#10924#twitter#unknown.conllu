@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bigbadroar i confetti te li tengo da parte, ma non dimenticare di venire a prenderli che altrimenti me li mangio
+1	@bigbadroar	@bigbadroare	VERB	V	VerbForm=Inf	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	confetti	confetto	NOUN	S	Gender=Masc|Number=Plur	6	dislocated	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	tengo	tenere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	dimenticare	dimenticare	VERB	V	VerbForm=Inf	6	conj	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	venire	venire	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16-17	prenderli	_	_	_	_	_	_	_	_
+16	prender	prendere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+18	che	che	PRON	PR	PronType=Rel	22	obj	_	_
+19	altrimenti	altrimenti	ADV	B	_	20	advmod	_	_
+20	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+21	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	obj	_	_
+22	mangio	mangiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	SpacesAfter=\n
+

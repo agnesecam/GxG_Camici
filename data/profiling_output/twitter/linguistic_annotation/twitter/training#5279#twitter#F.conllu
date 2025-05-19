@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C'è qualcuna disponibile a truccarmi per un progetto a Napoli domenica 3 aprile?! *Tfcd*
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	disponibile	disponibile	ADJ	A	Number=Sing	2	nsubj	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	truccarmi	_	_	_	_	_	_	_	_
+6	truccar	truccare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	Napoli	Napoli	PROPN	SP	_	10	nmod	_	_
+13	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+14	3	3	NUM	N	NumType=Card	13	nmod	_	_
+15	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	14	flat	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	_
+18	*Tfcd*	*Tfcd*	PROPN	SP	_	2	nsubj	_	SpacesAfter=\n
+

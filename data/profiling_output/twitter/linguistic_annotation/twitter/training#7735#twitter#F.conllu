@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ieri era ieri, oggi sarà diverso, dunque non aspettare che ti fischino le orecchie perché non sprecherò un solo pensiero #per_te
+1	Ieri	ieri	ADV	B	_	3	advmod	_	_
+2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	ieri	ieri	ADV	B	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	oggi	oggi	ADV	B	_	7	advmod	_	_
+6	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	_	_
+7	diverso	diverso	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	dunque	dunque	ADV	B	_	11	advmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	aspettare	aspettare	VERB	V	VerbForm=Inf	7	advcl	_	_
+12	che	che	SCONJ	CS	_	14	mark	_	_
+13	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	14	iobj	_	_
+14	fischino	fiscare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	orecchie	orecchia	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	perché	perché	SCONJ	CS	_	19	mark	_	_
+18	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+19	sprecherò	sprecare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	solo	solo	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	_
+22	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+23	#per_te	#per_to	ADJ	A	Number=Sing	22	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PgGrilli @eurodisastro @KappaRar @luigidimaio che debba prima chiedere ad ESSI ?
+1	@PgGrilli	@PgGrille	NOUN	S	Gender=Masc	0	root	_	_
+2	@eurodisastro	@eurodisastro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	@KappaRar	@KappaRar	ADJ	A	Number=Sing	1	amod	_	_
+4	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+6	debba	dovere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	prima	prima	ADV	B	_	8	advmod	_	_
+8	chiedere	chiedere	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+9	ad	a	ADP	E	_	10	case	_	_
+10	ESSI	Essi	PROPN	SP	_	8	obl	_	_
+11	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

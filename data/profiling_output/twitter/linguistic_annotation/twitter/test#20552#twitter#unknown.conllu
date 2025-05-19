@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @serebellardinel @pentotaldoll @MauroBarin @GAIDORic @soniabetz1 @tito_m5s @ErmannoKilgore ..fino a quando i pupari glielo permetteranno.
+1	@serebellardinel	@serebellardini	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	@pentotaldoll	@pentotaldoll	NOUN	S	Gender=Masc	0	root	_	_
+3	@MauroBarin	@MauroBarin	PROPN	SP	_	2	nmod	_	_
+4	@GAIDORic	@GAIDORic	PROPN	SP	_	3	flat:name	_	_
+5	@soniabetz1	@soniabetz1	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	@tito_m5s	@tito_m5s	NOUN	S	_	2	nmod	_	_
+7	@ErmannoKilgore	@ErmannoKilgore	PROPN	SP	_	6	nmod	_	_
+8	..fino	..fino	ADV	B	_	6	advmod	_	_
+9	a	a	ADP	E	_	8	fixed	_	_
+10	quando	quando	SCONJ	CS	_	15	mark	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	pupari	puparo	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+13-14	glielo	_	_	_	_	_	_	_	_
+13	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+14	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	permetteranno	permettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il giornalismo online cambia come cambiano le nostre abitudini:
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	giornalismo	giornalismo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	online	online	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	come	come	SCONJ	CS	_	6	mark	_	_
+6	cambiano	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	abitudini	abitudine	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = Blendle fa pagare i singoli articoli, senza adv. https://www.
+1	Blendle	Blendle	PROPN	SP	_	2	nsubj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pagare	pagare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	singoli	singolo	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	articoli	articolo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	senza	senza	ADP	E	_	9	case	_	_
+9	adv.	adv.	NOUN	S	_	2	obl	_	_
+10	https://www	https://www	NOUN	S	_	9	compound	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = facebook.com/ezekielbrief/p hotos/a.794226033966445.1073741828.791074887614893/975631692492544/?
+1	facebook.com/ezekielbrief/p	facebook.com/ezekielbrief/p	NOUN	S	Gender=Fem	0	root	_	_
+2	hotos/a.794226033966445.1073741828.791074887614893/975631692492544	hotos/a.794226033966445.1073741828.791074887614893/975631692492544	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = type=3 …
+1	type=3	type=3	NUM	N	NumType=Card	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

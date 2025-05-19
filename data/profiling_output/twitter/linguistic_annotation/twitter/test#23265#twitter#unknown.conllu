@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi: “Quell’emendamento è roba mia” http://www.
+1	Renzi	Renzi	ADV	B	_	8	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	“	“	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+4-5	Quell’	_	_	_	_	_	_	_	SpaceAfter=No
+4	Qui	qui	ADV	B	_	8	advmod	_	_
+5	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	emendamento	emendamento	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	roba	roba	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	SpaceAfter=No
+10	”	”	PUNCT	FB	_	11	punct	_	_
+11	http://www	http://www	NOUN	S	_	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = lastampa.it/2016/04/03/ita lia/politica/renzi-quellemendamento-roba-mia-TOv6ihgYT2svARlv685nOJ/pagina.html … E se invece l' avesse detto sì, ma non fosse vero??
+1	lastampa.it/2016/04/03/ita	lastampa.it/2016/04/03/ire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	lia/politica	lia/politico	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	renzi	renzi	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	quellemendamento	quellemendamento	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	roba-mia-TOv6ihgYT2svARlv685nOJ	roba-mia-TOv6ihgYT2svARlv685nOJ	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	pagina.html	pagina.html	NOUN	S	_	8	compound	_	_
+11	…	…	PUNCT	FF	_	1	punct	_	_
+12	E	e	CCONJ	CC	_	17	cc	_	_
+13	se	se	SCONJ	CS	_	17	mark	_	_
+14	invece	invece	ADV	B	_	17	advmod	_	_
+15	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+16	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+18	sì	sì	ADV	B	_	17	advmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	23	punct	_	_
+20	ma	ma	CCONJ	CC	_	23	cc	_	_
+21	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+22	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
+23	vero	vero	ADJ	A	Gender=Masc|Number=Sing	17	conj	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 08:42 Luisa Buongiorno Claudio 09:22 Claudio buongiorno a te principessa hihi di solito mai nessuna mi da il... http:// fb.me/3IUUN8zXF
+1	08:42	08:42	NUM	N	NumType=Card	2	nummod	_	_
+2	Luisa	Luisa	PROPN	SP	_	7	obj	_	_
+3	Buongiorno	Buongiorno	PROPN	SP	_	2	flat:name	_	_
+4	Claudio	Claudio	PROPN	SP	_	7	nsubj	_	_
+5	09:22	09:22	NUM	N	NumType=Card	4	flat:name	_	_
+6	Claudio	Claudio	PROPN	SP	_	4	flat:name	_	_
+7	buongiorno	buongiorno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+10	principessa	principessare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+11	hihi	hio	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	solito	solito	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+14	mai	mai	ADV	B	_	10	advmod	_	_
+15	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obl	_	_
+17	da	da	ADP	E	_	18	case	_	_
+18	il...	il...	NOUN	S	_	10	obl	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	10	punct	_	_
+22	fb.me/3IUUN8zXF	fb.me/3IUUN8zXF	PROPN	SP	_	7	nmod	_	SpacesAfter=\n
+

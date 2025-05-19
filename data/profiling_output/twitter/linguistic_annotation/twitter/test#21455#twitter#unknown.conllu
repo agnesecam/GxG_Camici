@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stasera da Ultimo si starà #COMEACDM
+1	Stasera	stasera	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	Ultimo	ultimo	PROPN	SP	_	1	nmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	COMEACDM	COMEACDM	PROPN	SP	_	5	obl	_	SpacesAfter=\n
+

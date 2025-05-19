@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per chi non mi conosce bene posso sembrare un po noiosa https:// twitter.com/wajtingforhes/ status/713316342259126273 …
+1	Per	per	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	conosce	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	bene	bene	ADV	B	_	5	advmod	_	_
+7	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	po	po	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	noiosa	noioso	ADJ	A	_	10	amod	_	_
+12	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	twitter.com/wajtingforhes/	twitter.com/wajtingforhes/	PUNCT	FF	_	11	punct	_	_
+16	status/713316342259126273	status/713316342259126273	NUM	N	NumType=Card	11	nummod	_	_
+17	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

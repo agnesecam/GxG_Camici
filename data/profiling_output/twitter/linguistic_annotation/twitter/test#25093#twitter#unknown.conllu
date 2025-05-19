@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ppiersante Belle!
+1	@ppiersante	@ppiersante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
+2	Belle	belle	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Dov 'è?
+1	Dov	Dov	NOUN	S	_	0	root	_	_
+2	'	'	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Essi sono delle finestre in grado di trascinarti letteralmente all'interno di una persona per poter scoprire i suoi sentimenti ed emozioni.
+1	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3-4	delle	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	finestre	finestra	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	grado	grado	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9-10	trascinarti	_	_	_	_	_	_	_	_
+9	trascinar	trascinare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	expl	_	_
+11	letteralmente	letteralmente	ADV	B	_	9	advmod	_	_
+12-13	all'	_	_	_	_	_	_	_	SpaceAfter=No
+12	a	a	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	interno	interno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	persona	persona	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	per	per	ADP	E	_	20	mark	_	_
+19	poter	potere	AUX	VM	VerbForm=Inf	20	aux	_	_
+20	scoprire	scoprire	VERB	V	VerbForm=Inf	9	advcl	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+22	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	sentimenti	sentimento	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	_
+24	ed	e	CCONJ	CC	_	25	cc	_	_
+25	emozioni	emozioni	NOUN	S	Gender=Fem|Number=Plur	23	conj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

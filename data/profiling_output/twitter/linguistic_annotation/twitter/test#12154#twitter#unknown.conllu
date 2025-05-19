@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando alla radio facevamo Spazio Fantasia Mistero incontravano tanta gente disposta a credere a ogni cosa.
+1	Quando	quando	SCONJ	CS	_	5	advmod	_	_
+2-3	alla	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	radio	radio	NOUN	S	Gender=Fem	5	obl	_	_
+5	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+6	Spazio	spazio	PROPN	SP	_	5	obj	_	_
+7	Fantasia	fantasia	PROPN	SP	_	6	flat:name	_	_
+8	Mistero	mistero	PROPN	SP	_	6	flat:name	_	_
+9	incontravano	incontrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	tanta	tanto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+11	gente	gente	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	disposta	disposto	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	a	a	ADP	E	_	14	mark	_	_
+14	credere	credere	VERB	V	VerbForm=Inf	12	advcl	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	17	det	_	_
+17	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Ecco cosa dovevo fare: il mago.
+1	Ecco	ecco	ADV	B	_	4	advmod	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	obj	_	_
+3	dovevo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mago	mago	NOUN	S	Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

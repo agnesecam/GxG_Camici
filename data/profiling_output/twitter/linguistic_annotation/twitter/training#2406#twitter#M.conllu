@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @asocialesempre ok...loro però giocano dentro casa contro il grande Verona.
+1	@asocialesempre	@asocialesempre	ADV	B	_	4	advmod	_	_
+2	ok...loro	ok...loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+3	però	però	ADV	B	_	4	advmod	_	_
+4	giocano	giocare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dentro	dentro	ADP	E	_	6	case	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	contro	contro	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	grande	grande	ADJ	A	Number=Sing	10	amod	_	_
+10	Verona.	Verona.	PROPN	SP	_	4	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..c'è differenza
+1	..c'	..ci	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	SpaceAfter=No
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

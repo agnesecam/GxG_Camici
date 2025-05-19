@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Con 14)...Axc6 Caruana sta pareggiando il gioco, ma dovrà vincere se vuole sfidare Carlsen per il mondiale!
+1	Con	con	ADP	E	_	2	case	_	_
+2	14	14	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	...Axc6	...Axc6	PROPN	SP	_	7	nsubj	_	_
+5	Caruana	Caruana	PROPN	SP	_	4	flat:name	_	_
+6	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	pareggiando	pareggiare	VERB	V	VerbForm=Ger	0	root	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	ma	ma	CCONJ	CC	_	13	cc	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	vincere	vincere	VERB	V	VerbForm=Inf	7	conj	_	_
+14	se	se	SCONJ	CS	_	16	mark	_	_
+15	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	sfidare	sfidare	VERB	V	VerbForm=Inf	13	ccomp	_	_
+17	Carlsen	Carlsen	PROPN	SP	_	16	obj	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	mondiale	mondiale	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = #MoscowCandidates #scacchi
+1	#MoscowCandidates	#MoscowCandidates	ADP	E	_	2	case	_	_
+2	#scacchi	#scacco	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

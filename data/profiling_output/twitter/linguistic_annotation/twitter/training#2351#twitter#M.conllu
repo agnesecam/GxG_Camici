@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Melo dentro e Kondo fuori.
+1	Melo	melo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dentro	dentro	ADV	B	_	1	advmod	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	Kondo	Kondo	PROPN	SP	_	2	conj	_	_
+5	fuori	fuori	ADV	B	_	1	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Molto molto bene!
+1	Molto	molto	ADV	B	_	3	advmod	_	_
+2	molto	molto	ADV	B	_	3	advmod	_	_
+3	bene	bene	ADV	B	_	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #FrosinoneInter
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	FrosinoneInter	FrosinoneInter	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

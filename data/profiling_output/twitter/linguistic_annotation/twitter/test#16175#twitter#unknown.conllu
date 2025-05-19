@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dove eravate voi tutti?
+1	Dove	dove	ADV	B	_	3	advmod	_	_
+2	eravate	eravare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	0	root	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = http:// contromaelstrom.com/2012/02/19/dov e-eravate-voi-tutti/ … via @wordpressdotcom
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	contromaelstrom.com/2012/02/19/dov	contromaelstrom.com/2012/02/19/dov	NOUN	S	Gender=Fem	0	root	_	_
+5	e-eravate	e-eravato	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	voi-tutti	voi-tutto	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	_
+9	…	…	PUNCT	FF	_	10	punct	_	_
+10	via	via	NOUN	S	Gender=Fem|Number=Sing	7	compound	_	_
+11	@wordpressdotcom	@wordpressdotcom	NOUN	S	Gender=Masc	4	nmod	_	SpacesAfter=\n
+

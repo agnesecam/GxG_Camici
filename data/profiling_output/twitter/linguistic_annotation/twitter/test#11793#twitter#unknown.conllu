@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Frank, un anno fa stavamo andando a ritirare il tuo giocattolo!
+1	Frank	Frank	PROPN	SP	_	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	anno	anno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+5	fa	fa	ADV	B	_	4	advmod	_	_
+6	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	andando	andare	VERB	V	VerbForm=Ger	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	ritirare	ritirare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	giocattolo	giocattolo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/87rEOBaLU
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/87rEOBaLU	fb.me/87rEOBaLU	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

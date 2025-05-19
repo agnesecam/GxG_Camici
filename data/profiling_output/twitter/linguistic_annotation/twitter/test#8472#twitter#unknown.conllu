@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lorepregliasco @you_trend Molto stanco non le sono venute bene neppure le diff. , si riveda.
+1	@lorepregliasco	@lorepregliare	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@you_trend	@you_trend	NOUN	S	Gender=Masc	8	nsubj	_	_
+3	Molto	molto	ADV	B	_	4	advmod	_	_
+4	stanco	stanco	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	iobj	_	_
+7	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	venute	venire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+9	bene	bene	ADV	B	_	8	advmod	_	_
+10	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	diff.	diffessore	NOUN	S	_	8	obj	_	_
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	riveda	rivedere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Io sono vecchio nn mi agiyo più.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	nn	nno	ADP	E	_	6	mark	_	_
+5	mi	mo	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
+6	agiyo	agiyo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	più	più	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Osservo
+1	Osservo	Osservo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

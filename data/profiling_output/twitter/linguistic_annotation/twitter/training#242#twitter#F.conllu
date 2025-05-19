@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tagadala7 @soniabetz1
+1	@tagadala7	@tagadala7	NUM	N	NumType=Card	2	nummod	_	_
+2	@soniabetz1	@soniabetz1	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = Se avessimo un Presidente della Repubblica GARANTE delle istituzioni, le camere sarebbero già sciolte @beppe_grillo
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Presidente	Presidente	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Repubblica	Repubblica	PROPN	SP	_	4	nmod	_	_
+8	GARANTE	GARANTE	PROPN	SP	_	7	flat:name	_	_
+9-10	delle	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	istituzioni	istituzione	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	2	punct	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	camere	camera	NOUN	S	Gender=Fem|Number=Plur	17	nsubj:pass	_	_
+15	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+16	già	già	ADV	B	_	17	advmod	_	_
+17	sciolte	sciogliere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+18	@beppe_grillo	@beppe_grillo	NOUN	S	Gender=Masc|Number=Sing	17	xcomp	_	SpacesAfter=\n
+

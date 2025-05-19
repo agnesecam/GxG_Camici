@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @AbatediTheleme @SilviaNicolucci non vorrei sembrare razzista ma vi faccio notare che non è solo al Sud il voto di scambio.
+1	@AbatediTheleme	@AbatediTheleme	ADP	E	_	2	case	_	_
+2	@SilviaNicolucci	@SilviaNicolucci	PROPN	SP	_	5	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+6	razzista	razzista	NOUN	S	Number=Sing	5	obj	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	vi	vi	ADV	B	_	9	advmod	_	_
+9	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	notare	notare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	che	che	SCONJ	CS	_	17	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+14	solo	solo	ADV	B	_	17	advmod	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Sud	Sud	PROPN	SP	_	10	ccomp	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	voto	voto	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	scambio	scambio	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

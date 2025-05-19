@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @scrondofiorito Invece stanno raccogliendo soldi per pagarsi l'avvocato e la gente glieli da.
+1	@scrondofiorito	@scrondofiorire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	Invece	invece	ADV	B	_	4	advmod	_	_
+3	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	raccogliendo	raccogliere	VERB	V	VerbForm=Ger	1	advcl	_	_
+5	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7-8	pagarsi	_	_	_	_	_	_	_	_
+7	pagar	pagare	VERB	V	VerbForm=Inf	4	advcl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	avvocato	avvocato	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	gente	gente	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+14-15	glieli	_	_	_	_	_	_	_	_
+14	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	conj	_	_
+15	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obl:agent	_	_
+16	da	da	ADP	E	_	15	case	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Per dire.
+1	Per	per	ADP	E	_	2	mark	_	_
+2	dire	dire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

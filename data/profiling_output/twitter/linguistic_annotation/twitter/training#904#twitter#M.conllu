@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @StefanoDiscreti se l' avessimo fatto noi un gol così sarebbe già stata pronunciata la parola "fallo" almeno una decina di volte.
+1	@StefanoDiscreti	@StefanoDiscrete	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+4	avessimo	avessimo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	fatto	fare	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	gol	gol	NOUN	S	Gender=Masc	6	appos	_	_
+9	così	così	ADV	B	_	13	advmod	_	_
+10	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	già	già	ADV	B	_	13	advmod	_	_
+12	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	aux:pass	_	_
+13	pronunciata	pronunciare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	parola	parola	NOUN	S	Gender=Fem|Number=Sing	13	nsubj:pass	_	_
+16	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+17	fallo	fallo	NOUN	S	Gender=Masc|Number=Sing	15	compound	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	17	punct	_	_
+19	almeno	almeno	ADV	B	_	21	advmod	_	_
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	decina	decina	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	volte	volta	NOUN	S	Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bobogiac attacchi la @virginiaraggi perché hai paura del m5s, sai benissimo che il Magna Magna sta arrivando al capolinea TU SEI scandaloso
+1	@bobogiac	@bobogiac	ADV	B	_	2	advmod	_	_
+2	attacchi	attacco	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	@virginiaraggi	@virginiaraggio	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	perché	perché	SCONJ	CS	_	6	mark	_	_
+6	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	paura	paura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	m5s	m5s	NOUN	S	Gender=Masc	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	2	punct	_	_
+12	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	benissimo	bene	ADV	B	Degree=Abs	12	advmod	_	_
+14	che	che	SCONJ	CS	_	19	mark	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Magna	magna	PROPN	SP	_	19	nsubj	_	_
+17	Magna	magna	PROPN	SP	_	16	flat:name	_	_
+18	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	arrivando	arrivare	VERB	V	VerbForm=Ger	12	ccomp	_	_
+20-21	al	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	capolinea	capolinea	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+23	TU	tu	PROPN	SP	_	22	nmod	_	_
+24	SEI	Sei	PROPN	SP	_	23	flat:name	_	_
+25	scandaloso	scandaloso	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	SpacesAfter=\n
+

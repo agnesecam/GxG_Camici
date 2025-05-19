@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quiz della notte:
+1	Quiz	Quiz	NOUN	S	Gender=Masc	0	root	_	_
+2-3	della	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	notte	notte	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = chi è che ha scritto un libro che non ha neppure un titolo originale ma preso in prestito dal grandissimo Ennio Flaiano?
+1	chi	chi	PRON	PQ	PronType=Int	0	root	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	libro	libro	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	neppure	neppure	ADV	BN	PronType=Neg	10	advmod	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+14	originale	originale	ADJ	A	Number=Sing	13	amod	_	_
+15	ma	ma	CCONJ	CC	_	16	cc	_	_
+16	preso	prendere	ADJ	A	Gender=Masc|Number=Sing	14	conj	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	prestito	prestito	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+19-20	dal	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	22	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	grandissimo	grande	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	22	amod	_	_
+22	Ennio	Ennio	PROPN	SP	_	18	nmod	_	_
+23	Flaiano	Flaiano	PROPN	SP	_	22	flat:name	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

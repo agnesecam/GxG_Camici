@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caso Regeni.
+1	Caso	caso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Regeni	Regeno	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Pignatone:
+1	Pignatone	Pignatone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = "Gli elementi avuti dal Cairo non sono idonei per fare chiarezza" http:// ln.is/www.rainews.it /dl/ra/uyZPr … ... http:// fb.me/73KnPitJY
+1	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+2	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	elementi	elemento	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+4	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5-6	dal	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Cairo	Cairo	PROPN	SP	_	4	obl:agent	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	idonei	idoneo	ADJ	A	Gender=Masc|Number=Plur	26	amod	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	10	advcl	_	_
+13	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	20	punct	_	_
+15	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	_
+18	ln.is/www.rainews.it	ln.is/www.rainews.it	CCONJ	CC	_	20	cc	_	_
+19	/dl/ra	/dl/ro	ADP	E	_	20	case	_	SpaceAfter=No
+20	/uyZPr	/uyZPr	PROPN	SP	_	12	obj	_	_
+21	…	…	PUNCT	FF	_	20	punct	_	_
+22	...	...	PUNCT	FF	_	20	punct	_	_
+23	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	20	punct	_	_
+26	fb.me/73KnPitJY	fb.me/73knpitjy	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

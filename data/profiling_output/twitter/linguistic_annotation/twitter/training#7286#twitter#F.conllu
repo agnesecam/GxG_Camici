@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io chiebbi, tu chiebbisti, egli/ella/esso chiabbi, noi #chiesimo , voi chiebbite, essi chiabbero.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	chiebbi	chiebbo	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	conj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	chiebbisti	chiebbedere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	conj	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	ella/esso	ella/ettere	ADP	E	_	10	case	_	_
+10	chiabbi	chiabbio	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+13	#chiesimo	#chiesimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
+16	chiebbite	chiebbire	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+19	chiabbero	chia	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il Verbo secondo #Gasparri
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Verbo	verbo	PROPN	SP	_	0	root	_	_
+3	secondo	secondo	ADP	E	_	5	case	_	_
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	Gasparri	Gasparri	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

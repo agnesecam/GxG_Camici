@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agiannett @AndreFrulla @dek0605 Se ho capito spiegano la proposta che faranno alle aziende.Anche perchè a ora nessuna azienda a messo sghei
+1	@agiannett	@agiannett	NOUN	S	Gender=Masc	7	obj	_	_
+2	@AndreFrulla	@AndreFrulla	PROPN	SP	_	7	nsubj	_	_
+3	@dek0605	@dek0605	NUM	N	NumType=Card	2	nummod	_	_
+4	Se	se	SCONJ	CS	_	6	mark	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+7	spiegano	spiegare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	faranno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	acl:relcl	_	_
+12-13	alle	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	aziende.Anche	aziende.Anche	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+15	perchè	perché	SCONJ	CS	_	19	mark	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	ora	ora	ADV	B	_	19	advmod	_	_
+18	nessuna	nessuna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	_
+19	azienda	azienda	NOUN	S	Gender=Fem|Number=Sing	11	advcl	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	messo	messo	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	_
+22	sghei	sgheo	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	SpacesAfter=\n
+

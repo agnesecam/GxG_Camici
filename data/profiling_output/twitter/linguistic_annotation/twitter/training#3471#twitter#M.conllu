@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = GUARDATE e ascoltate questo video , questa ragazzina vi farà venire la pelle d'oca e vi farà pensare 16 anni http:// video.repubblica.it/spettacoli-e-c ultura/la-sedicenne-chiara-porta-peppino-impastato-a-italia-s-got-talent/234838 …
+1	GUARDATE	Guardare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	ascoltate	ascoltare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	_
+4	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	video	video	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	ragazzina	ragazzino	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+9	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+10	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+11	venire	venire	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	pelle	pelle	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	d'	di	ADP	E	_	15	case	_	SpaceAfter=No
+15	oca	oca	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	vi	vi	ADV	B	_	18	advmod	_	_
+18	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+19	pensare	pensare	VERB	V	VerbForm=Inf	18	ccomp	_	_
+20	16	16	NUM	N	NumType=Card	21	nummod	_	_
+21	anni	anno	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	video.repubblica.it/spettacoli-e-c	video.repubblica.it/spettacoli-e-c	NOUN	S	Gender=Fem	19	nsubj	_	_
+26	ultura/la	ultura/la	ADJ	A	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
+27	-sedicenne	-sedicenne	ADJ	A	_	25	amod	_	SpaceAfter=No
+28	-	-	PUNCT	FF	_	27	punct	_	SpaceAfter=No
+29	chiara-porta-peppino	chiara-porta-peppino	ADJ	A	Gender=Masc|Number=Sing	30	amod	_	SpaceAfter=No
+30	-impastato	-impastato	NOUN	S	Gender=Masc|Number=Sing	27	compound	_	SpaceAfter=No
+31	-	-	PUNCT	FF	_	30	punct	_	SpaceAfter=No
+32	a-italia	a-italia	NOUN	S	Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+33	-	-	PUNCT	FF	_	35	punct	_	SpaceAfter=No
+34	s-	s-	PUNCT	FB	_	35	punct	_	SpaceAfter=No
+35	got-	_	SYM	SYM	_	32	nmod	_	SpaceAfter=No
+36	talent/234838	talent/234838	NUM	N	NumType=Card	35	nummod	_	_
+37	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

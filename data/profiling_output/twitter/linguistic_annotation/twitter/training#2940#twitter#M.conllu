@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I vegani che chiamano alla Zanzara riescono nell'impresa di far sembrare simpatico Cruciani.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	vegani	vegano	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	chiamano	chiamare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Zanzara	zanzara	PROPN	SP	_	4	obl	_	_
+8	riescono	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-10	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+9	in	in	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	impresa	impresa	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	far	fare	VERB	V	VerbForm=Inf	11	acl	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	13	ccomp	_	_
+15	simpatico	simpatico	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	Cruciani	Cruciani	PROPN	SP	_	14	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Per Parenzo invece c'è ancora molto da lavorare
+1	Per	per	ADP	E	_	2	case	_	_
+2	Parenzo	Parenzo	PROPN	SP	_	5	obl	_	_
+3	invece	invece	ADV	B	_	5	advmod	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ancora	ancora	ADV	B	_	7	advmod	_	_
+7	molto	molto	ADV	B	_	5	advmod	_	_
+8	da	da	ADP	E	_	9	mark	_	_
+9	lavorare	lavorare	VERB	V	VerbForm=Inf	5	ccomp	_	SpacesAfter=\n
+

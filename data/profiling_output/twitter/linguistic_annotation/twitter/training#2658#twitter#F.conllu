@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ManuDolcenera la tua bellezza è tale da farti sembrare una dea dell'Olimpo #tvoi #thevoiceofitaly @THEVOICE_ITALY
+1	@ManuDolcenera	@ManuDolcenerare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	bellezza	bellezza	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	tale	tale	ADJ	A	Number=Sing	1	xcomp	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	farti	farto	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	6	csubj	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	dea	dea	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12-13	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+12	di	di	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	Olimpo	Olimpo	PROPN	SP	_	15	nmod	_	_
+15	#tvoi	#tvo	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	nmod	_	_
+16	#thevoiceofitaly	#thevoiceofitaly	PROPN	SW	Foreign=Yes	15	nmod	_	_
+17	@THEVOICE_ITALY	@thevoice_italy	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

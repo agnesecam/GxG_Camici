@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @elenasilvestri9 @pulcepalma @agavefiorita Medicine già prese...
+1	@elenasilvestri9	@elenasilvestri9	NUM	N	NumType=Card	2	nummod	_	_
+2	@pulcepalma	@pulcepalma	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	@agavefiorita	@agavefiorire	ADJ	A	Number=Sing	2	amod	_	_
+4	Medicine	medicine	PROPN	SP	_	2	nmod	_	_
+5	già	già	ADV	B	_	6	advmod	_	_
+6	prese..	prese..	NOUN	S	_	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = dovrà darmi qualcosa di super potente...
+1	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2-3	darmi	_	_	_	_	_	_	_	_
+2	dar	dare	VERB	V	VerbForm=Inf	0	root	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+4	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	super	super	ADJ	A	_	7	amod	_	_
+7	potente...	potente...	NOUN	S	_	4	nmod	_	SpacesAfter=\n
+

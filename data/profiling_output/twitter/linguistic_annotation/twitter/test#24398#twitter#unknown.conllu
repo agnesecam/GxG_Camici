@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SIGNORA MARIA NON GLIENE FREGA UN CAZZO DELLE SUE DOMANDE.
+1	SIGNORA	signore	PROPN	SP	_	0	root	_	_
+2	MARIA	Maria	PROPN	SP	_	1	flat:name	_	_
+3	NON	non	PROPN	SP	_	1	flat:name	_	_
+4	GLIENE	GLIENE	PROPN	SP	_	1	flat:name	_	_
+5	FREGA	frega	PROPN	SP	_	1	flat:name	_	_
+6	UN	Un	PROPN	SP	_	1	flat:name	_	_
+7	CAZZO	CAZZO	PROPN	SP	_	6	flat:name	_	_
+8-9	DELLE	_	_	_	_	_	_	_	_
+8	DI	Di	ADP	E	_	9	case	_	_
+9	LE	Le	PROPN	SP	_	6	flat:name	_	_
+10	SUE	sue	PROPN	SP	_	6	flat:name	_	_
+11	DOMANDE.	DOMANDE.	PROPN	SP	_	6	flat:name	_	_
+
+# sent_id = 2
+# text = VADA OLTRE!
+1	VADA	andare	PROPN	SP	_	0	root	_	_
+2	OLTRE	oltre	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #cepostaperte
+1	#cepostaperte	#cepostaperto	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

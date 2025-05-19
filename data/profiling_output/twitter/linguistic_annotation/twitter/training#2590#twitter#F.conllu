@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sto programma sta facendo sembrare stonatissima pure la Pausini.
+1	Sto	Sto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	programma	programma	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	facendo	fare	VERB	V	VerbForm=Ger	0	root	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	stonatissima	stonato	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	5	xcomp	_	_
+7	pure	pure	ADV	B	_	5	advmod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Pausini	Pausini	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #LauraePaola
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LauraePaola	LauraePaola	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

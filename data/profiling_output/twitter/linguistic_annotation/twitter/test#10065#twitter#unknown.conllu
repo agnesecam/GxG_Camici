@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agensir @LuisellaSaro da bambina si faceva , ad un certo punto, un gioco, chiamato " dell'uva" ; significato:
+1	@agensir	@agensire	ADP	E	_	2	case	_	_
+2	@LuisellaSaro	@LuisellaSaro	PROPN	SP	_	6	obl	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	bambina	bambina	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	ad	a	ADP	E	_	11	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	certo	certo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	punto	punto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	chiamato	chiamare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+17	"	"	PUNCT	FB	_	20	punct	_	_
+18-19	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+18	di	di	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	uva	uva	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	20	punct	_	_
+22	;	;	PUNCT	FC	_	20	punct	_	_
+23	significato	significare	NOUN	S	Gender=Masc|Number=Sing	16	xcomp	_	SpaceAfter=No
+24	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = ognuno a casa sua
+1	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	SpacesAfter=\n
+

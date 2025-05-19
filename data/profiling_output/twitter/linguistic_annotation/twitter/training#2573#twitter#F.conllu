@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lottandoidemoni esatto, sono talmente bravi che lo fanno sembrare così reale, il che lo rende perfetto al massimo
+1	@lottandoidemoni	@lottandoidemone	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+2	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	talmente	talmente	ADV	B	_	6	advmod	_	_
+6	bravi	bravo	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+11	così	così	ADV	B	_	12	advmod	_	_
+12	reale	reale	ADJ	A	Number=Sing	10	xcomp	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	9	punct	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	rende	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+18	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	17	xcomp	_	_
+19-20	al	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	massimo	massimo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	SpacesAfter=\n
+

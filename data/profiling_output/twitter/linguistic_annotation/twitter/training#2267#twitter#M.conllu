@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OfficialMonto ti rifiuti di uscire?
+1	@OfficialMonto	@OfficialMonto	ADV	B	_	3	advmod	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
+3	rifiuti	rifiere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	uscire	uscire	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Fenomeno,ti devi muovere.
+1	Fenomeno,ti	Fenomeno,to	PROPN	SP	_	3	nsubj	_	_
+2	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	muovere	muovere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Dentro il nuovo e fuori il vecchio
+1	Dentro	dentro	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	7	nmod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	fuori	fuori	ADV	B	_	3	conj	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	vecchio	vecchio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

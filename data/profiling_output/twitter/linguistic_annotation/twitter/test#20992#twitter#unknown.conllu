@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Serfiss Se il pubblico gradisce quella minestra ... gliela forniscono su piatti d'argento.
+1	@Serfiss	@Serfiss	NOUN	S	Gender=Masc	0	root	_	_
+2	Se	se	SCONJ	CS	_	11	mark	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+5	gradisce	gradiscio	ADJ	A	Number=Sing	4	amod	_	_
+6	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	4	nmod	_	_
+7	minestra	minestro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	6	nmod	_	_
+8	...	...	PUNCT	FF	_	4	punct	_	_
+9-10	gliela	_	_	_	_	_	_	_	_
+9	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+10	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	forniscono	fornire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+12	su	su	ADP	E	_	13	case	_	_
+13	piatti	piatto	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+14	d'	di	ADP	E	_	15	case	_	SpaceAfter=No
+15	argento	argento	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

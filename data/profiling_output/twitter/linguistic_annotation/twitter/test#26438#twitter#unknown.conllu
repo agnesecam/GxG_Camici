@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes Albe ma quando avremo l'onore di vederti ballare??
+1	@Albericoyes	@Albericoyes	ADP	E	_	2	case	_	_
+2	Albe	Albe	PROPN	SP	_	5	obl	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	quando	quando	SCONJ	CS	_	5	mark	_	_
+5	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	onore	onore	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9-10	vederti	_	_	_	_	_	_	_	_
+9	veder	vedere	VERB	V	VerbForm=Inf	7	acl	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+11	ballare	ballare	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #BallandoConLeStelle
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	BallandoConLeStelle	BallandoConLeStelle	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @agorarai @pietropaganini
+1	@agorarai	@agoraere	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@pietropaganini	@pietropaganino	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+
+# sent_id = 2
+# text = Nn ha senso averli ed averli all'estero.
+1	Nn	Nn	PROPN	SP	_	2	nsubj	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	senso	senso	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4-5	averli	_	_	_	_	_	_	_	_
+4	aver	avere	AUX	VA	VerbForm=Inf	5	aux	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+6	ed	e	CCONJ	CC	_	7	cc	_	_
+7-8	averli	_	_	_	_	_	_	_	_
+7	aver	avere	AUX	VA	VerbForm=Inf	5	conj	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+9-10	all'	_	_	_	_	_	_	_	SpaceAfter=No
+9	a	a	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	estero	estero	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = L aumma aumma Nn dovrà essere più di moda
+1	L	l	PROPN	SP	_	2	nsubj	_	_
+2	aumma	aumma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aumma	aumma	ADV	B	_	7	advmod	_	_
+4	Nn	Nn	PROPN	SP	_	7	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+6	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+7	più	più	ADV	B	_	2	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	moda	moda	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpacesAfter=\n
+

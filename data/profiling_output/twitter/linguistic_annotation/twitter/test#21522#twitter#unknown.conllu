@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Starà molto calmo!sara la persona più calma!
+1	Starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	molto	molto	ADV	B	_	1	advmod	_	_
+3	calmo!sara	calmo!sarare	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	calma	calmo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Giramenti di palle mode on
+1	Giramenti	Giramento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	palle	palla	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+4	mode	modere	X	SW	Foreign=Yes	3	nmod	_	_
+5	on	on	X	SW	Foreign=Yes	4	flat:foreign	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ..'non omo, omo già fui '..
+1	..'	..'	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	omo	omo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	omo	omo	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	fui	fuo	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+8	'.	'.	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se fosse intercettato anche il dialogo fra Dante e Virgilio oggi parrebbe brutto #DivinaCommedia #intercettazioni
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	intercettato	intercettato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+4	anche	anche	ADV	B	_	3	advmod	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dialogo	dialogo	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+7	fra	fra	ADP	E	_	8	case	_	_
+8	Dante	Dante	PROPN	SP	_	6	nmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	Virgilio	Virgilio	PROPN	SP	_	8	conj	_	_
+11	oggi	oggi	ADV	B	_	12	advmod	_	_
+12	parrebbe	parere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	brutto	brutto	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+14	#	#	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	DivinaCommedia	DivinaCommedia	PROPN	SP	_	12	nsubj	_	_
+16	#intercettazioni	#intercettazione	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpacesAfter=\n
+

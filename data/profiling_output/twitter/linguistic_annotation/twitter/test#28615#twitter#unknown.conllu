@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oppure cosa vi costa comprare fazzoletti o fogli di carta reciclata?
+1	Oppure	oppure	CCONJ	CC	_	4	cc	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	costa	costare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	comprare	comprare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	fazzoletti	fazzoletto	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	o	o	CCONJ	CC	_	8	cc	_	_
+8	fogli	foglio	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	carta	carta	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	reciclata	reciclato	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Funzionano lo stesso, ve lo assicuro.
+1	Funzionano	funzionare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	ve	vere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	assicuro	assicuro	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

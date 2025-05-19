@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = mokazine.com/read/corpallon e/corriere-del-pallone-5-aprile-2016 … @andreaabodi Sosteniamo tutti il passaporto ematico, proteggiamo le nostre vite.
+1	mokazine.com/read/corpallon	mokazine.com/read/corpallon	NOUN	S	Gender=Masc	7	nmod	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	SpaceAfter=No
+3	/corriere-del	/corriere-del	ADJ	A	_	5	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	pallone	pallone	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+7	5	5	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	7	flat	_	SpaceAfter=No
+10	-2016	-2016	NUM	N	NumType=Card	7	flat	_	_
+11	…	…	PUNCT	FF	_	12	punct	_	_
+12	@andreaabodi	@andreaabodo	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_
+13	Sosteniamo	Sostenare	PROPN	SP	_	12	appos	_	_
+14	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	nmod	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	passaporto	passaporto	NOUN	S	Gender=Masc|Number=Sing	13	appos	_	_
+17	ematico	ematico	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	12	punct	_	_
+19	proteggiamo	proteggere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+21	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	vite	vita	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	19	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/imdbaIb6eK
+1	pic.twitter.com/imdbaIb6eK	pic.twitter.com/imdbaib6ek	NOUN	S	_	0	root	_	SpacesAfter=\n
+

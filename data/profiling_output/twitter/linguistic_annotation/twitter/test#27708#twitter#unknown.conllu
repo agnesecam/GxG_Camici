@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma avevano lo sconto comitiva?
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	avevano	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sconto	sconto	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	comitiva	comitivo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Hanno fatto un pic nic con i panini, la borsa frigo e tutto?
+1	Hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pic	pic	NOUN	S	_	2	obj	_	_
+5	nic	nic	ADJ	A	_	4	amod	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	panini	panino	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	11	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	borsa	borsa	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	_
+12	frigo	frigo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	conj	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/Y10pylMEDI
+1	pic.twitter.com/Y10pylMEDI	pic.twitter.com/Y10pylMEDI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

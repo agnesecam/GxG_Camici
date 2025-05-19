@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = remember when non voleva essere cap perché erano troppi film https:// twitter.com/stevetilley/st atus/719292653729222656 …
+1	remember	remembere	ADP	E	_	2	case	_	_
+2	when	when	ADV	B	_	6	nmod	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	voleva	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+5	essere	essere	AUX	V	VerbForm=Inf	6	cop	_	_
+6	cap	cap	NOUN	S	Gender=Masc	0	root	_	_
+7	perché	perché	SCONJ	CS	_	10	mark	_	_
+8	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	troppi	troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
+10	film	film	NOUN	S	Gender=Masc	6	advcl	_	_
+11	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	_
+14	twitter.com/stevetilley/st	twitter.com/stevetilley/st	SYM	X	_	10	conj	_	_
+15	atus/719292653729222656	atus/719292653729222656	SYM	X	_	10	nmod	_	_
+16	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DrKrisKelvin @flaneurotic @Piovegovernolad aggiungo.
+1	@DrKrisKelvin	@DrKrisKelvino	X	SW	Foreign=Yes	4	expl	_	_
+2	@flaneurotic	@flaneurotic	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	@Piovegovernolad	@Piovegovernolad	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	aggiungo	aggiungo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = alcuni invecchiando peggiorano assai .
+1	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	invecchiando	invecchiare	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	peggiorano	peggiorere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	assai	assai	ADV	B	_	3	advmod	_	_
+5	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

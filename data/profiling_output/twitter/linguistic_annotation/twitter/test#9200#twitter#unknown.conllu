@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = femminile tradita dall' esibizione di foto provocatorie neppure loro.
+1	femminile	femminile	ADJ	A	Number=Sing	0	root	_	_
+2	tradita	tradire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+3-4	dall'	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	esibizione	esibizione	NOUN	S	Gender=Fem|Number=Sing	2	obl:agent	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	foto	foto	NOUN	S	Gender=Fem	5	nmod	_	_
+8	provocatorie	provocatorio	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+9	neppure	neppure	ADV	BN	PronType=Neg	10	advmod	_	_
+10	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Quanto sopra è la conseguenza forse di mancanza di cacciatori come
+1	Quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	11	obl	_	_
+2	sopra	sopra	ADV	B	_	1	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	conseguenza	conseguenza	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+6	forse	forse	ADV	B	_	8	advmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	mancanza	mancanza	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	cacciatori	cacciatore	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+11	come	come	ADP	E	_	0	root	_	SpacesAfter=\n
+

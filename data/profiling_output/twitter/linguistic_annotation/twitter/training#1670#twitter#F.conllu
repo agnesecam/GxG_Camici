@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @volonellaluce Sentimenti lievi come farfalle colorate che animano le nostre vite grevi.
+1	@volonellaluce	@volonellalurre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Sentimenti	sentimento	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+3	lievi	lieve	ADJ	A	Number=Plur	2	amod	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	farfalle	farfalla	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+6	colorate	colorato	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	animano	animare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	vite	vita	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+12	grevi	greve	ADJ	A	Number=Plur	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/wENwKlUPYv
+1	pic.twitter.com/wENwKlUPYv	pic.twitter.com/wENwKlUPYv	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

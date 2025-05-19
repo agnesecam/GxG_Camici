@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi piace assai ... http:// fb.me/7Fh8fUTxw
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	assai	assai	ADV	B	_	2	advmod	_	_
+4	...	...	PUNCT	FF	_	5	punct	_	_
+5	http:	http:	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	_
+8	fb.me/7Fh8fUTxw	fb.me/7Fh8fUTxw	PROPN	SP	_	2	nsubj	_	SpacesAfter=\n
+

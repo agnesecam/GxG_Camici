@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #chiesimo noi chiesimo, voi chiesiste, essi ...?
+1	#chiesimo	#chiesimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	chiesimo	chiesimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
+6	chiesiste	chiesistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+9	...	...	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

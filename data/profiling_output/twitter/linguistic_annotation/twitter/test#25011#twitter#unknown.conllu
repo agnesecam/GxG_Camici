@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Piovegovernolad che schifo!
+1	@Piovegovernolad	@Piovegovernolad	ADP	E	_	3	case	_	_
+2	che	che	DET	DQ	PronType=Int	3	det	_	_
+3	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Cosa non farebbero per un pugno di voti!
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pugno	pugno	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	voti	voto	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Hanno capito che con gli italiani non ci passeranno mai!
+1	Hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	passeranno	passare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+10	mai	mai	ADV	B	_	9	advmod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

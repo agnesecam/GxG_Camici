@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dalla mia faccia non so se è stanchezza o il pensiero di lavorare domani...-_-
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	stanchezza	stanchezza	NOUN	S	Gender=Fem|Number=Sing	6	ccomp	_	_
+10	o	o	CCONJ	CC	_	12	cc	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14	lavorare	lavorare	VERB	V	VerbForm=Inf	12	acl	_	_
+15	domani...	domani.	NOUN	S	_	14	obj	_	SpaceAfter=No
+16	-_	-_	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+17	-	-	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

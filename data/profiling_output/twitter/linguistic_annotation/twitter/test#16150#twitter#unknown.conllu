@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensavo che con Cuffaro che apostrofava Falcone, la televisione avesse già dato abbastanza pornografia in fascia... http:// fb.me/Z1OyObHR
+1	Pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	13	mark	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	Cuffaro	Cuffaro	PROPN	SP	_	13	obl	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	apostrofava	apostrofare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+7	Falcone	Falcone	PROPN	SP	_	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	televisione	televisione	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+11	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+12	già	già	ADV	B	_	13	advmod	_	_
+13	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+14	abbastanza	abbastanza	ADV	B	_	13	advmod	_	_
+15	pornografia	pornografia	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	fascia...	fascia...	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+18	http:	http:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	15	punct	_	_
+21	fb.me/Z1OyObHR	fb.me/Z1OyObHR	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

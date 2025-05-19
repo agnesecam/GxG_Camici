@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PapaParole Dunque la miglior cosa è seminare,ke nn va confusa cn il dare le perle ai porci...
+1	@PapaParole	@PapaParole	PROPN	SP	_	10	nsubj	_	_
+2	Dunque	dunque	PROPN	SP	_	1	flat:name	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	miglior	migliore	ADJ	A	Number=Sing	5	amod	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+7	seminare,ke	seminare,ke	ADV	B	_	10	advmod	_	_
+8	nn	nn	ADV	B	_	10	advmod	_	_
+9	va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	confusa	confondere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	cn	cno	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	dare	dare	VERB	V	VerbForm=Inf	10	obl	_	_
+14	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
+15-16	perle	_	_	_	_	_	_	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	13	obl	_	_
+17-18	ai	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	porci...	porci...	NOUN	S	_	13	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = RT SkySport:
+1	RT	RT	PROPN	SP	_	0	root	_	_
+2	SkySport	SkySport	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = RT SkySportMotoGP:
+1	RT	RT	PROPN	SP	_	0	root	_	_
+2	SkySportMotoGP	SkySportMotoGP	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = .Desmo_FCIM auguro a chiunque una carriera da raccontatore pribvilegiata come l'ho avuta io!!! Fgata.
+1	.Desmo_FCIM	.Desmo_FCIM	PROPN	SP	_	2	nsubj	_	_
+2	auguro	augurare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	2	obl	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	raccontatore	raccontatore	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	pribvilegiata	pribvilegiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+10	come	come	ADP	E	_	11	case	_	_
+11	l'	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+12	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+14	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+16	!!	!!	PUNCT	FF	_	14	punct	_	_
+17	Fgata	Fgato	PROPN	SP	_	14	appos	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = #AskM …
+1	#AskM	#AskM	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

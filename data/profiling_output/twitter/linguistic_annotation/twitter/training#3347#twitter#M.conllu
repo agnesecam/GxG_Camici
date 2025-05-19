@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FPanunzi @FrancescoCoccoT @borghi_claudio @ricpuglisi Puglisi che farà adesso nel tempo libero,si impegna per Parisi?
+1	@FPanunzi	@FPanunzi	ADP	E	_	2	case	_	_
+2	@FrancescoCoccoT	@FrancescoCoccoT	PROPN	SP	_	13	obl	_	_
+3	@borghi_claudio	@borghi_claudio	INTJ	I	_	13	discourse	_	_
+4	@ricpuglisi	@ricpugliso	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+5	Puglisi	Puglisi	PROPN	SP	_	13	nsubj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+8	adesso	adesso	ADV	B	_	7	advmod	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+12	libero,si	libero,so	ADJ	A	Number=Plur	11	amod	_	_
+13	impegna	impegnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	per	per	ADP	E	_	15	case	_	_
+15	Parisi	Parisi	PROPN	SP	_	13	obl	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = puglisi&parisi?
+1	puglisi&parisi	puglisi&pariso	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @signorponza @qstewie "ora il kebbabbaro è dentro me" (semicit.)
+1	@signorponza	@signorponza	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@qstewie	@qstewio	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+4	ora	ora	ADV	B	_	9	advmod	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	kebbabbaro	kebbabbaro	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	dentro	dentro	ADV	B	_	9	advmod	_	_
+9	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	9	punct	_	_
+11	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+12	semicit.	semicit.	NOUN	S	_	9	appos	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e ci sarebbero parecchi buoni motivi per farlo!
+1	e	e	CCONJ	CC	_	3	cc	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	sarebbero	essere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+5	buoni	buono	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	motivi	motivo	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8-9	farlo	_	_	_	_	_	_	_	SpaceAfter=No
+8	far	fare	VERB	V	VerbForm=Inf	3	advcl	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/chefuturo/stat us/706916502310658048 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/chefuturo/stat	twitter.com/chefuturo/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/706916502310658048	us/706916502310658048	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

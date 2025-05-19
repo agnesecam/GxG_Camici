@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Messaggio di my:Car:
+1	Messaggio	messaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	my:Car	my:Car	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ciao, ti stai prendendo cura di me benissimo : grazie! http://www.
+1	Ciao	ciao	INTJ	I	_	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+4	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	prendendo	prendere	VERB	V	VerbForm=Ger	4	advcl	_	_
+6	cura	cura	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nmod	_	_
+9	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	_
+10	:	:	PUNCT	FC	_	4	punct	_	_
+11	grazie	grazie	NOUN	S	_	13	case	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	13	punct	_	_
+13	http://www	http://www	NOUN	S	_	4	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = driveuconnect.eu /
+1	driveuconnect.eu	driveuconnect.eu	NOUN	S	Gender=Masc	0	root	_	_
+2	/	/	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

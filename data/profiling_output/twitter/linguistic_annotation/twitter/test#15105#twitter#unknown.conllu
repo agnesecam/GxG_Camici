@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @simsantucci @Sarchiapone_ porta sfiga vera.
+1	@simsantucci	@simsantuccio	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	@Sarchiapone_	@Sarchiapone-	PROPN	SP	_	1	nmod	_	_
+3	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sfiga	sfiga	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	vera	vero	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se ci facesse la cortesia di farci sapere se viene in Italia con un po' di anticipo...
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
+3	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7-8	farci	_	_	_	_	_	_	_	_
+7	far	fare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+9	sapere	sapere	VERB	V	VerbForm=Inf	3	ccomp	_	_
+10	se	se	SCONJ	CS	_	11	mark	_	_
+11	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	Italia	Italia	PROPN	SP	_	11	obl	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	po'	poco	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	anticipo...	anticipo...	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpacesAfter=\n
+

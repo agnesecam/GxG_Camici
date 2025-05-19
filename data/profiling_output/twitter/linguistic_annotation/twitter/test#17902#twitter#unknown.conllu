@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Funziona o e' come quando tutte mi avevate fatto credere che il fieno greco fa crescere DAVVERO le tette?! persino l'Erborista!
+1	Funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	o	o	CCONJ	CC	_	10	cc	_	_
+3	e	e	CCONJ	CC	_	10	cc	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	10	punct	_	_
+5	come	come	ADP	E	_	10	mark	_	_
+6	quando	quando	SCONJ	CS	_	5	fixed	_	_
+7	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	10	iobj	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+9	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+11	credere	credere	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	che	che	SCONJ	CS	_	16	mark	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fieno	fieno	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	greco	greco	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+16	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+17	crescere	crescere	VERB	V	VerbForm=Inf	16	ccomp	_	_
+18	DAVVERO	davvero	PROPN	SP	_	17	obj	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	tette	tetta	NOUN	S	Gender=Fem|Number=Plur	17	nsubj	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	20	punct	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	25	punct	_	_
+23	persino	persino	ADV	B	_	25	advmod	_	_
+24	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	SpaceAfter=No
+25	Erborista	Erborista	PROPN	SP	_	20	nmod	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

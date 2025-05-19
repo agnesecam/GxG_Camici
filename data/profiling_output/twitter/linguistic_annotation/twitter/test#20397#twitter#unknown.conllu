@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Carloalvino forza Napoli sempre ovunque e dovunque .
+1	@Carloalvino	@Carloalvino	ADP	E	_	2	case	_	_
+2	forza	forza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	Napoli	Napoli	PROPN	SP	_	2	nmod	_	_
+4	sempre	sempre	ADV	B	_	5	advmod	_	_
+5	ovunque	ovunque	ADV	B	_	2	advmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	dovunque	dovunque	ADV	B	_	5	conj	_	_
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Abbiamo un rito scaramantico al mercatino di Fuori grotta domattina.
+1	Abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	rito	rito	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	scaramantico	scaramantico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mercatino	mercatino	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Fuori	fuori	PROPN	SP	_	7	nmod	_	_
+10	grotta	grotto	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	domattina	domattina	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ci verresti?
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	verresti	verredere	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

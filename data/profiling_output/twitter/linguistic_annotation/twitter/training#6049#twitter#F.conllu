@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se non ci fossimo conosciuti credo mi sarei resa conto che la mia vita non era completa pic.twitter.com/4IBn2MK88j
+1	se	se	SCONJ	CS	_	5	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	conosciuti	conoscere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	_
+6	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+8	sarei	essere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	resa	rendere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+10	conto	conto	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11	che	che	SCONJ	CS	_	17	mark	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	vita	vita	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+17	completa	completare	ADJ	A	Gender=Fem|Number=Sing	9	ccomp	_	_
+18	pic.twitter.com/4IBn2MK88j	pic.twitter.com/4IBn2MK88j	PROPN	SP	_	17	flat:name	_	SpacesAfter=\n
+

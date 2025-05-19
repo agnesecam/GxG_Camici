@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @artvsykes nope il sabato non vado, te l'avresti avuta ?
+1	@artvsykes	@artvsykes	ADP	E	_	2	case	_	_
+2	nope	nope	NOUN	S	Number=Sing	11	obl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	vado	andare	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	11	punct	_	_
+8	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	expl	_	_
+9	l'	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	11	obj	_	SpaceAfter=No
+10	avresti	avresto	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	?	?	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se continua così, Renzi farà presto le valigie http://www.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	così	così	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	Renzi	Renzi	PROPN	SP	_	6	nsubj	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	presto	presto	ADV	B	_	6	advmod	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	valigie	valigia	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+10	http://www	http://www	NOUN	S	_	9	compound	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = lettera43.it/politica/se-co ntinua-cosi-renzi-fara-presto-le-valigie_43675241242.htm#.VwfpihqEL8B.twitter … via @Lettera43
+1	lettera43.it/politica/se-co	lettera43.it/politica/se-co	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+2	ntinua-cosi	ntinua-coso	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+3	-renzi	-renzi	ADV	B	_	4	advmod	_	SpaceAfter=No
+4	-fara-presto-le	-fara-presto-le	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	valigie_43675241242.htm#	valigie_43675241242.htm#	PROPN	SP	_	2	obl	_	SpaceAfter=No
+7	.VwfpihqEL8B.twitter	.VwfpihqEL8B.twitter	PROPN	SP	_	6	flat:name	_	_
+8	…	…	PUNCT	FF	_	6	punct	_	_
+9	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	@Lettera43	@Lettera43	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

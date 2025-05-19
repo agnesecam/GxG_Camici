@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = https:// youtu.be/wagYzegXRqU "Perché sei un essere speciale...
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	youtu.be/wagYzegXRqU	youtu.be/wagYzegXRqU	PROPN	SP	_	0	root	_	_
+5	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+6	Perché	perché	ADV	B	_	10	advmod	_	_
+7	sei	essere	NUM	N	NumType=Card	10	nummod	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+10	speciale..	speciale	NOUN	S	_	4	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ed io avrò cura di te" #Amici2016
+1	Ed	e	CCONJ	CC	_	3	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	avrò	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	8	parataxis	_	_
+4	cura	curare	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	#Amici2016	#Amici2016	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

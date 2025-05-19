@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il putto buffo di Renzi ci vuol comprare con altri 80€ adesso pero' dovrà preparare le valige se il parlamento farà il suo lavoro corretto
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	putto	putto	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	buffo	buffo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Renzi	Renzi	PROPN	SP	_	2	nmod	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	iobj	_	_
+7	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	comprare	comprare	VERB	V	VerbForm=Inf	0	root	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	altri	altro	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+11	80€	80€	PROPN	SP	_	8	obl	_	_
+12	adesso	adesso	ADV	B	_	13	advmod	_	_
+13	pero	perare	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	'	'	PUNCT	FB	_	13	punct	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16	preparare	preparare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	valige	valigia	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+19	se	se	SCONJ	CS	_	22	mark	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	parlamento	parlamento	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+22	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	advcl	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	25	det:poss	_	_
+25	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	_
+26	corretto	corretto	ADJ	A	Gender=Masc|Number=Sing	25	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ragazzi, forse lo avevate già capito, ma il mio progetto di formazione è molto ambizioso e sta toccando i vertici...
+1	Ragazzi	ragazzi	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	forse	forse	ADV	B	_	7	advmod	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+5	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	già	già	ADV	B	_	7	advmod	_	_
+7	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	17	punct	_	_
+9	ma	ma	CCONJ	CC	_	17	cc	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	formazione	formazione	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	molto	molto	ADV	B	_	17	advmod	_	_
+17	ambizioso	ambizioso	ADJ	A	Gender=Masc|Number=Sing	7	conj	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	toccando	toccare	VERB	V	VerbForm=Ger	7	conj	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	vertici...	vertici...	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+
+# sent_id = 2
+# text = http:// fb.me/5nF0re4WS
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/5nF0re4WS	fb.me/5nF0re4WS	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

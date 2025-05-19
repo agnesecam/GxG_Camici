@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @paris_2005 Questo!
+1	@paris_2005	@paris_2005	NUM	N	NumType=Card	2	nummod	_	_
+2	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Appena leggo qualche caxx...
+1	Appena	appena	ADV	B	_	2	advmod	_	_
+2	leggo	leggere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	caxx...	caxx...	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+
+# sent_id = 3
+# text = ta, gliela schiocco subito pic.twitter.com/kwSWx6kugt
+1	ta	ta	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3-4	gliela	_	_	_	_	_	_	_	_
+3	glie	gliere	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+5	schiocco	schiocco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	subito	subito	ADV	B	_	5	advmod	_	_
+7	pic.twitter.com/kwSWx6kugt	pic.twitter.com/kwSWx6kugt	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

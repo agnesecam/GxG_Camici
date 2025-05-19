@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensare per un attimo di averti ancora, se avessimo una vita in più.
+1	Pensare	pensare	VERB	V	VerbForm=Inf	0	root	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	attimo	attimo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6-7	averti	_	_	_	_	_	_	_	_
+6	aver	avere	AUX	VA	VerbForm=Inf	7	aux	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+8	ancora	ancora	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	se	se	SCONJ	CS	_	11	mark	_	_
+11	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	vita	vita	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	più	più	ADV	B	_	13	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

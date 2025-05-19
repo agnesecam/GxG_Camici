@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cubodirubik2 @abetesecolare mmm eppure ricordo un tweet di una tipa che si sarebbe concessa al 1000esimo FW chiunque egli sarà..o no?
+1	@cubodirubik2	@cubodirubik2	NUM	N	NumType=Card	3	nummod	_	_
+2	@abetesecolare	@abetesecolare	ADJ	A	Number=Sing	3	amod	_	_
+3	mmm	millimmetro	NOUN	S	Gender=Masc	21	nsubj	_	_
+4	eppure	eppure	CCONJ	CC	_	5	cc	_	_
+5	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tweet	tweet	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tipa	tipo	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+13	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	concessa	concedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	18	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	1000esimo	1000esimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	_
+18	FW	FW	PROPN	SP	_	14	obl	_	_
+19	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	21	expl	_	_
+20	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+21	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+22	..o	..o	NOUN	S	Gender=Masc|Number=Sing	21	xcomp	_	_
+23	no	no	ADV	BN	PronType=Neg	22	advmod	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	21	punct	_	SpacesAfter=\n
+

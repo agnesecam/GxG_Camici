@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = venerdi 8 aprile 2016 « Ciò che è limitato non può comprendere l’illimitato.
+1	venerdi	venerde	ADV	B	_	12	advmod	_	_
+2	8	8	NUM	N	NumType=Card	12	obl	_	_
+3	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4	2016	2016	NUM	N	NumType=Card	2	flat	_	_
+5	«	«	PUNCT	FB	_	2	punct	_	_
+6	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj:pass	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	limitato	limitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	comprendere	comprendere	VERB	V	VerbForm=Inf	0	root	_	_
+13	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	illimitato	illimitato	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = E poiché la coscienza umana è... http:// fb.me/5kXJ3oJ01
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	poiché	poiché	SCONJ	CS	_	4	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	coscienza	coscienza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	umana	umano	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	è...	è.	PUNCT	FS	_	7	punct	_	_
+7	http:	http:	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	_
+10	fb.me/5kXJ3oJ01	fb.me/5kXJ3oJ01	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

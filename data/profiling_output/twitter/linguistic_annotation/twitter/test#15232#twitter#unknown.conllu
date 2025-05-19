@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @davidemaggio pensavo lo facesse per soldi!
+1	@davidemaggio	@davidemaggio	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

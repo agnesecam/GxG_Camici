@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RengaOfficial @iodonnalive perfetto!
+1	@RengaOfficial	@RengaOfficial	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	@iodonnalive	@iodonnalive	NOUN	S	Gender=Masc	0	root	_	_
+3	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Dunque io 15, tu 20...ci siamo!!
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	15	15	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+6	20...ci	20...co	NUM	N	NumType=Card	5	nummod	_	_
+7	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

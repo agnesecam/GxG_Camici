@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marcofrax te credo... Lavoro di fatica...
+1	@marcofrax	@marcofrax	ADP	E	_	2	case	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+3	credo...	credo.	PUNCT	FF	_	2	punct	_	_
+4	Lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	fatica..	fatica..	NOUN	S	_	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ma anche la mia cervicale non è messa benissimo .
+1	Ma	ma	CCONJ	CC	_	8	cc	_	_
+2	anche	anche	ADV	B	_	5	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	cervicale	cervicale	ADJ	A	Number=Sing	8	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	messa	mettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	benissimo	bene	ADV	B	Degree=Abs	8	advmod	_	_
+10	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

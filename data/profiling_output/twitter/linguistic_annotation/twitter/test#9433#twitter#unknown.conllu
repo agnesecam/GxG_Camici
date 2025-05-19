@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @insopportabile si.
+1	@insopportabile	@insopportabile	ADJ	A	Number=Sing	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = cioè dici che da questa pagina https://www.
+1	cioè	cioè	ADV	B	_	2	advmod	_	_
+2	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	pagina	pagina	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7	https://www	https://www	NOUN	S	_	6	compound	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = facebook.com/Insopportabile -293964667374417/?
+1	facebook.com/Insopportabile	facebook.com/Insopportabile	ADJ	A	Number=Sing	2	amod	_	_
+2	-293964667374417	-293964667374417	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = fref=ts … riesci a fare streaming pur non avendo bollino?
+1	fref=ts	fref=ts	X	X	_	3	nsubj	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	_
+3	riesci	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	streaming	streaming	NOUN	S	Gender=Masc	5	obj	_	_
+7	pur	pure	ADV	B	_	9	advmod	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	avendo	avere	VERB	V	VerbForm=Ger	6	advcl	_	_
+10	bollino	bollare	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

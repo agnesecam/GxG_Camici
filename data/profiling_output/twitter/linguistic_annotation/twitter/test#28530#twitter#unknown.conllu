@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io se avrebbero masso in gabbia tutti i porci ladroni oggi saremmo meglio degli emirati arabi pic.twitter.com/XATasGOcHJ
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	masso	massare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	gabbia	gabbia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	9	det:predet	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	porci	porco	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+10	ladroni	ladrone	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	oggi	oggi	ADV	B	_	13	advmod	_	_
+12	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	meglio	meglio	ADJ	A	_	0	root	_	_
+14-15	degli	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	emirati	emirato	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+17	arabi	arabo	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	pic.twitter.com/XATasGOcHJ	pic.twitter.com/XATasGOcHJ	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E tutto ebbe inizio da qui... Novembre 2014, first recording session of IN 'STA VIA #instavia … https://www.
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	qui...	qui.	NUM	N	NumType=Card	3	obl	_	_
+7	Novembre	novembre	NOUN	S	Gender=Masc|Number=Sing	6	flat	_	_
+8	2014	2014	NUM	N	NumType=Card	6	flat	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	6	punct	_	_
+10	first	first	X	SW	Foreign=Yes	6	appos	_	_
+11	recording	recording	X	SW	Foreign=Yes	10	flat:foreign	_	_
+12	session	session	X	SW	Foreign=Yes	10	flat:foreign	_	_
+13	of	of	ADP	E	_	14	case	_	_
+14	IN	in	PROPN	SP	_	10	nmod	_	_
+15	'STA	'STA	PROPN	SP	_	14	flat:name	_	_
+16	VIA	via	PROPN	SP	_	14	nmod	_	_
+17	#instavia	#instavia	ADP	E	_	19	case	_	_
+18	…	…	PUNCT	FF	_	19	punct	_	_
+19	https://www	https://www	NOUN	S	_	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDVrNTAy4EY/
+1	instagram.com/p/BDVrNTAy4EY/	instagram.com/p/BDVrNTAy4EY/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

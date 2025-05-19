@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mengonimarco @mengonimarco giungono belle news dalla TV tedesca (buchi lo schermo da paura.. ) e da I Tunes Kenya!
+1	@mengonimarco	@mengonimarco	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@mengonimarco	@mengonimarco	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	giungono	giungere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	belle	bello	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+5	news	news	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	TV	TV	NOUN	S	Gender=Fem	3	obl	_	_
+9	tedesca	tedesco	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	buchi	bucare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	schermo	schermo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	paura..	paura..	NOUN	S	_	13	nmod	_	_
+16	)	)	PUNCT	FB	_	11	punct	_	_
+17	e	e	CCONJ	CC	_	20	cc	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	Tunes	Tunes	PROPN	SP	_	3	conj	_	_
+21	Kenya	Kenya	PROPN	SP	_	20	nmod	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Pazzesco!
+1	Pazzesco	Pazzesco	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

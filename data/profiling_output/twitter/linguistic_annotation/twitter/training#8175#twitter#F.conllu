@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LucaMantelli1 @blackso10 Davvero?
+1	@LucaMantelli1	@LucaMantellil	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	@blackso10	@blackso10	NUM	N	NumType=Card	3	nummod	_	_
+3	Davvero	davvero	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = parlavo delle tue figlie?
+1	parlavo	parlare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	delle	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	5	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	figlie	figlia	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Perché ho detto che avete documenti pronti e a posto?
+1	Perché	perché	ADV	B	_	3	advmod	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	pronti	pronto	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	posto	posto	NOUN	S	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = Dunque ?
+1	Dunque	dunque	ADV	B	_	0	root	_	_
+2	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

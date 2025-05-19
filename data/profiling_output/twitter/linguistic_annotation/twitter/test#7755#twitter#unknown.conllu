@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Entro due mesi partiranno dunque i lavori per la messa in sicurezza di alcuni fabbricati, la demolizione di numeros http://www.
+1	Entro	entro	ADP	E	_	3	case	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+4	partiranno	partire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	dunque	dunque	ADV	B	_	4	advmod	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	lavori	lavoro	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	messa	messa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
+15	fabbricati	fabbricato	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	4	punct	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	demolizione	demolizione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	numeros	numeros	X	SW	Foreign=Yes	18	nmod	_	_
+21	http://www	http://www	X	SW	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = piacenzasera.it/valtidone/ok-a lla-bonifica-dell-ex-polveriera-piozzano-intervento-187mila-euro.jspurl?
+1	piacenzasera.it/valtidone/ok-a	piacenzasera.it/valtidone/ok-are	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lla-bonifica-dell-ex-polveriera-piozzano-intervento-187mila-euro.jspurl	lla-bonifica-dell-ex-polveriera-piozzano-intervento-187mila-euro.jspurl	PRON	PQ	Number=Sing|PronType=Int	1	obj	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = id_prodotto=66954&IdC=1093&IdS=1093&tipo_padre=0&tipo_cliccato=0 …
+1	id_prodotto=66954&IdC=1093&IdS=1093&tipo_padre=0&tipo_cliccato=0	id_prodotto=66954&IdC=1093&IdS=1093&tipo_padre=0&tipo_cliccato=0	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

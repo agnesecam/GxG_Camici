@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per capire se sia vero bisogna vedere gli occhi e se essi non brillano allora non é reale
+1	Per	per	ADP	E	_	2	mark	_	_
+2	capire	capire	VERB	V	VerbForm=Inf	0	root	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	6	advcl	_	_
+6	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	vedere	vedere	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	e	e	CCONJ	CC	_	18	cc	_	_
+11	se	se	SCONJ	CS	_	14	mark	_	_
+12	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	brillano	brillare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+15	allora	allora	ADV	B	_	14	advmod	_	_
+16	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+17	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+18	reale	reale	ADJ	A	Number=Sing	7	conj	_	SpacesAfter=\n
+

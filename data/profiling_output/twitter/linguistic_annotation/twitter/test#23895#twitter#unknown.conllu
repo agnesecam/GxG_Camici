@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sheneedsnialler sono sicura che con il tempo tutti avranno modo di bearsene
+1	@sheneedsnialler	@sheneedsniallere	AUX	VA	VerbForm=Inf	3	aux	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	sicura	sicurare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	_
+9	avranno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	ccomp	_	_
+10	modo	modo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11	di	di	ADP	E	_	12	mark	_	_
+12-14	bearsene	_	_	_	_	_	_	_	SpacesAfter=\n
+12	bear	bearre	VERB	V	VerbForm=Inf	10	acl	_	_
+13	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+14	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+

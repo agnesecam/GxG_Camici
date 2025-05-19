@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la volontà di possesso del mondo attraverso la capacità di un momento che può sembrare un eternità è qualcosa di... http:// fb.me/4cG1LsLvn
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	volontà	volontà	NOUN	S	Gender=Fem	20	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	possesso	possesso	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	attraverso	attraverso	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	capacità	capacità	NOUN	S	Gender=Fem	20	obl	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	momento	momento	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	13	acl:relcl	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	eternità	eternità	NOUN	S	Gender=Fem	16	obj	_	_
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	0	root	_	_
+21	di...	di.	PUNCT	FS	_	22	punct	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	20	punct	_	_
+25	fb.me/4cG1LsLvn	fb.me/4cG1LsLvn	PROPN	SP	_	20	nmod	_	SpacesAfter=\n
+

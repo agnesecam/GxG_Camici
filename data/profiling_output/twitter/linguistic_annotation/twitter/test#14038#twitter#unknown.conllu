@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cotrofficial Vi sareste mai aspettato tutto questo?
+1	@cotrofficial	@cotrofficial	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	Vi	vi	PROPN	SP	_	0	root	_	_
+3	sareste	saredere	ADJ	A	Number=Sing	2	amod	_	_
+4	mai	mai	ADV	B	_	5	advmod	_	_
+5	aspettato	aspettare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+6	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #Twitter10BlueRoom #LoveTwitter
+1	#Twitter10BlueRoom	#Twitter10BlueRoom	PROPN	SP	_	0	root	_	_
+2	#LoveTwitter	#LoveTwitter	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

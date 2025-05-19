@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spiace per chi ha studiato la campagna, ma degli uomini che si mettono la crema sulle mani non possono sembrare virili, dai!
+1	Spiace	Spiacere	NOUN	S	_	23	nsubj	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	nmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	studiato	studiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10-11	degli	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:pass	_	_
+15	mettono	mettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	crema	crema	NOUN	S	Gender=Fem|Number=Sing	15	nsubj:pass	_	_
+18-19	sulle	_	_	_	_	_	_	_	_
+18	su	su	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	mani	mano	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	_
+21	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+22	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+24	virili	virili	ADJ	A	Number=Plur	23	xcomp	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	23	punct	_	_
+26-27	dai	_	_	_	_	_	_	_	SpaceAfter=No
+26	da	da	ADP	E	_	28	case	_	_
+27	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
+28	!	!	PUNCT	FS	_	23	punct	_	_
+
+# sent_id = 2
+# text = @NIVEAItalia
+1	@NIVEAItalia	@NIVEAItalia	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

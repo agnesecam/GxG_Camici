@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le piccole cose che cambiano le città italiane @mbarchitetto http://www.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	piccole	piccolo	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+3	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	cambiano	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	città	città	NOUN	S	Gender=Fem	5	obj	_	_
+8	italiane	italiano	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+9	@mbarchitetto	@mbarchitetto	ADP	E	_	10	case	_	_
+10	http://www	http://www	NOUN	S	_	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ilpost.it/2016/04/06/pic cole-cose-cambiano-citta/castellosforzescomilano/ …
+1	ilpost.it/2016/04/06/pic	ilpost.it/2016/04/06/pic	ADV	B	_	2	advmod	_	_
+2	cole-cose-cambiano	cole-cose-cambiano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	citta	citta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+5	/castellosforzescomilano	/castellosforzescomilano	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	_
+7	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il #trap ha festeggiato come se avessimo vinto l europeo.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#trap	#trap	NOUN	S	_	4	nsubj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	festeggiato	festeggiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	come	come	ADV	B	_	8	advmod	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+9	l	l	X	X	_	8	obj	_	_
+10	europeo	europeo	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #raiinguardabile #GermaniaItalia
+1	#raiinguardabile	#raiinguardabile	ADJ	A	Number=Sing	3	amod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	GermaniaItalia	GermaniaItalia	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

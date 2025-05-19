@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scrittori moderni "La guardai, mi guardò per un tempo infinito Ci guardammo estasiati.
+1	Scrittori	scrittore	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	moderni	moderno	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+4	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	guardai	guardaio	NOUN	S	_	8	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	guardò	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	infinito	infinito	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	Ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	obj	_	_
+14	guardammo	guardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	advcl	_	_
+15	estasiati	estasiato	ADJ	A	Gender=Masc|Number=Plur	14	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Poi m'accorsi, ahimè ... di non avere gli occhiali"
+1	Poi	poi	ADV	B	_	3	advmod	_	_
+2	m'	m'	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+3	accorsi	accorso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ahimè	ahimè	INTJ	I	_	9	discourse	_	_
+6	...	...	PUNCT	FF	_	5	punct	_	_
+7	di	di	ADP	E	_	5	case	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	avere	avere	VERB	V	VerbForm=Inf	3	conj	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	occhiali	occhiale	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

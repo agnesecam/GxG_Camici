@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ma di chi è la canzone?!??"
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ma	ma	CCONJ	CC	_	4	cc	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	chi	chi	PRON	PR	PronType=Rel	0	root	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	canzone	canzone	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	4	punct	_	_
+
+# sent_id = 2
+# text = "Mbooooh, non me lo ricordo" Emma starà lanciando il televisore dalla finestra #tvoi
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	Mbooooh	Mbooooh	INTJ	I	_	7	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	10	punct	_	_
+9	Emma	Emma	PROPN	SP	_	10	nsubj	_	_
+10	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	lanciando	lanciare	VERB	V	VerbForm=Ger	10	advcl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	televisore	televisore	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14-15	dalla	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	finestra	finestra	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+17	#tvoi	#tvoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	16	nmod	_	SpacesAfter=\n
+

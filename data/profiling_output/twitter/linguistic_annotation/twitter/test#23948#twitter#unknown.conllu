@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi chiedo perchè certi libri non finiscono mai e i libri di @MdGOfficial finiscono troppo presto!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	perchè	perché	SCONJ	CS	_	7	mark	_	_
+4	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	libri	libro	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	finiscono	finire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+8	mai	mai	ADV	B	_	7	advmod	_	_
+9	e	e	CCONJ	CC	_	14	cc	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	libri	libro	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	@MdGOfficial	@MdGOfficial	PROPN	SP	_	11	nmod	_	_
+14	finiscono	finire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+15	troppo	troppo	ADV	B	_	16	advmod	_	_
+16	presto	presto	ADV	B	_	14	advmod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = (2* lettura de #IlMetodoDelCoccodrillo )
+1	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	2*	2*	PUNCT	FF	_	3	punct	_	_
+3	lettura	lettura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	de	de	ADP	E	_	5	case	_	_
+5	#IlMetodoDelCoccodrillo	#IlMetodoDelCoccodrillo	PROPN	SP	_	3	nmod	_	_
+6	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

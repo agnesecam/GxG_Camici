@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho già trovato dove andare a vivere:
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	già	già	ADV	B	_	3	advmod	_	_
+3	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	dove	dove	ADV	B	_	5	advmod	_	_
+5	andare	andare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	vivere	vivere	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = in una delle parecchie tende da campeggio fissate sotto un ponte lungo la Sprea
+1	in	in	ADP	E	_	2	case	_	_
+2	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+3-4	delle	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	parecchie	parecchia	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	tende	tendere	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	campeggio	campeggio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	fissate	fissare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+10	sotto	sotto	ADP	E	_	12	case	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ponte	ponte	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	lungo	lungo	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Sprea	Sprea	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

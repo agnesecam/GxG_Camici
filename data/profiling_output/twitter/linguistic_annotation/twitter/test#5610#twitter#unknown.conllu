@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ilfoglio_it Scommettete che ci sarà qualcuna che si innamorerà di questi due mostri?
+1	@ilfoglio_it	@ilfoglio_it	CCONJ	CC	_	2	cc	_	_
+2	Scommettete	Scommetteto	PROPN	SP	_	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
+6	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	innamorerà	innamorare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	ccomp	_	_
+10	di	di	ADP	E	_	13	case	_	_
+11	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	13	det	_	_
+12	due	due	NUM	N	NumType=Card	13	nummod	_	_
+13	mostri	mostro	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

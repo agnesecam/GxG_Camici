@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ffvx press conference:
+1	#ffvx	#ffvx	ADP	E	_	2	case	_	_
+2	press	press	NOUN	S	_	0	root	_	_
+3	conference	conferencere	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = per Tabata il gioco dovrà vendere almeno 10 mln di copie.
+1	per	per	ADP	E	_	2	case	_	_
+2	Tabata	Tabata	PROPN	SP	_	6	obl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	vendere	vendere	VERB	V	VerbForm=Inf	0	root	_	_
+7	almeno	almeno	ADV	B	_	8	advmod	_	_
+8	10	10	NUM	N	NumType=Card	9	nummod	_	_
+9	mln	mln	NOUN	S	Gender=Fem	6	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	copie	copia	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/ITBeI8iIqV
+1	pic.twitter.com/ITBeI8iIqV	pic.twitter.com/ITBeI8iIqV	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

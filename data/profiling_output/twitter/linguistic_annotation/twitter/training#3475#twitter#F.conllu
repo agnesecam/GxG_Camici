@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Balich:
+1	Balich	Balich	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Il Brasile ce la farà , il sud del mondo avrà i suoi Giochi felici" http://www.
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Brasile	Brasile	PROPN	SP	_	6	nsubj	_	_
+4	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sud	sud	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+13	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	conj	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	Giochi	gioco	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+17	felici	felico	ADJ	A	Number=Plur	16	amod	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	19	punct	_	_
+19	http://www	http://www	NOUN	S	_	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = repubblica.it/sport/2016/04/ 08/news/balich_il_brasile_ce_la_fara_il_sud_del_mondo_avra_i_suoi_giochi_felici_-137165318/ … via @repubblicait ..
+1	repubblica.it/sport/2016/04/	repubblica.it/sport/2016/04/	PUNCT	FF	_	3	punct	_	_
+2	08	08	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+3	/news	/news	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	balich_il_brasile_ce_la_fara_il_sud_del_mondo_avra_i_suoi_giochi_felici_-137165318	balich_il_brasile_ce_la_fara_il_sud_del_mondo_avra_i_suoi_giochi_felici_-137165318	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	_
+7	…	…	PUNCT	FF	_	5	punct	_	_
+8	via	via	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+9	@repubblicait	@repubblicait	NOUN	S	_	8	compound	_	_
+10	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

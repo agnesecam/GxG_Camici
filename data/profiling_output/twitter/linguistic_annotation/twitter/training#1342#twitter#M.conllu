@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il Territorio della provincia di Teramo ... dal mare alla montagna in 30 minuti attraversando le nostre dolci... http:// fb.me/2I8CUZHwa
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Territorio	territorio	PROPN	SP	_	0	root	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	provincia	provincia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Teramo	Teramo	PROPN	SP	_	5	nmod	_	_
+8	...	...	PUNCT	FF	_	2	punct	_	_
+9-10	dal	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	mare	mare	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	30	30	NUM	N	NumType=Card	17	nummod	_	_
+17	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+18	attraversando	attraversare	VERB	V	VerbForm=Ger	25	advcl	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+20	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	dolci...	dolci...	NOUN	S	_	18	obj	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/2I8CUZHwa	fb.me/2I8CUZHwa	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

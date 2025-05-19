@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ora tutti preoccupati per la prova troppo rischiosa.
+1	Ora	ora	ADV	B	_	3	advmod	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	_
+3	preoccupati	preoccupato	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	prova	prova	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	troppo	troppo	ADV	B	_	8	advmod	_	_
+8	rischiosa	rischioso	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Come se l' avessimo scelta noi, non loro.
+1	Come	come	ADV	B	_	5	advmod	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	scelta	scelta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = PERACOTTARI.
+1	PERACOTTARI	PERACOTTARI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = #Isola
+1	#Isola	#Isolo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

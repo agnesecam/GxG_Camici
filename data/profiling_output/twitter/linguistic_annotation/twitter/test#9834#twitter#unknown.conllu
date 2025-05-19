@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pjanic re degli assist: unico giocatore in doppia cifra per il secondo anno consecutivo in Serie A http://www.
+1	Pjanic	Pjanic	NOUN	S	_	8	nmod	_	_
+2	re	re	NOUN	S	Gender=Masc	1	compound	_	_
+3-4	degli	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	assist	assist	NOUN	S	Gender=Masc	1	nmod	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	1	punct	_	_
+7	unico	unico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	giocatore	giocatore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	doppia	doppio	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	cifra	cifra	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	per	per	ADP	E	_	15	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
+15	anno	anno	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+16	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	Serie	serie	PROPN	SP	_	11	nmod	_	_
+19	A	A	PROPN	SP	_	18	flat:name	_	_
+20	http://www	http://www	NOUN	S	_	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = laroma24.it/approfondiment i/2016/03/pjanic-re-degli-assist-unico-giocatore-in-doppia-cifra-per-il-secondo-anno-consecutivo-in-serie-a …
+1	laroma24.it/approfondiment	laroma24.it/approfondiment	ADV	B	_	9	advmod	_	_
+2	i/2016/	i/2016/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	03	03	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	pjanic-re	pjanic-re	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	degli-assist	degli-assist	ADV	B	_	9	advmod	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	unico	unico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+10	-giocatore-in	-giocatore-ino	ADP	E	_	11	case	_	SpaceAfter=No
+11	-doppia	-doppia	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+12	-cifra-per-il-	_	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+13	secondo	secondo	ADP	E	_	15	case	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+15	anno	anno	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+16	-	-	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+17	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+18	-in	-ino	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	serie	serie	NOUN	S	Gender=Fem	18	compound	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+22	a	a	ADP	E	_	11	case	_	_
+23	…	…	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

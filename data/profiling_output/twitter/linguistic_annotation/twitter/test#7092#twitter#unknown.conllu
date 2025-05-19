@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ludus essi ! il tweet eh, mica il post!
+1	@Ludus	@Ludus	PROPN	SP	_	0	root	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
+3	!	!	PUNCT	FS	_	5	punct	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tweet	tweet	NOUN	S	Gender=Masc	1	appos	_	_
+6	eh	eh	INTJ	I	_	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	mica	mica	ADV	BN	PronType=Neg	10	advmod	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	post	post	NOUN	S	_	1	appos	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = :D
+1	:D	:D	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

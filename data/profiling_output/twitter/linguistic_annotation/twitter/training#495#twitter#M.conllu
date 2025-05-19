@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #heartbeatoftheday cosa succederebbe se invece di boss avessimo coach?
+1	#heartbeatoftheday	#heartbeatoftheday	CCONJ	CC	_	3	cc	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	nsubj	_	_
+3	succederebbe	succedare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	7	case	_	_
+5	invece	invece	ADV	B	_	7	case	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	boss	boss	NOUN	S	Gender=Masc	3	obl	_	_
+8	avessimo	avessimo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	coach	coach	ADJ	A	_	7	amod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #leadership #lovemarketing #coaching pic.twitter.com/MLE3R2syep
+1	#leadership	#leadership	X	SW	Foreign=Yes	0	root	_	_
+2	#lovemarketing	#lovemarketing	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	#coaching	#coaching	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	pic.twitter.com/MLE3R2syep	pic.twitter.com/MLE3R2syep	X	SW	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n
+

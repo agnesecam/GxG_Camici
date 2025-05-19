@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Holy fuck" tua madre chiunque tu fossi
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Holy	Holy	ADJ	A	_	3	amod	_	_
+3	fuck	fuck	NOUN	S	_	8	nmod	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	3	punct	_	_
+5	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	madre	madre	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	8	nsubj	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+9	fossi	essere	AUX	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	SpacesAfter=\n
+

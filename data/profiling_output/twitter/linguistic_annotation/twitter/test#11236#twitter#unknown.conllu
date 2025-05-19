@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @markorusso69 @DeborahBergamin ci sono mine vaganti dappertutto !!!
+1	@markorusso69	@markorusso69	NUM	N	NumType=Card	2	nummod	_	_
+2	@DeborahBergamin	@DeborahBergamin	PROPN	SP	_	4	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mine	mina	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+6	vaganti	vagare	ADV	B	_	7	advmod	_	_
+7	dappertutto	dappertutto	ADV	B	_	5	advmod	_	_
+8	!!!	!!!	PUNCT	FF	_	5	punct	_	_
+
+# sent_id = 2
+# text = Abbiamo bisogno di controlli su frontiere interne ed esterne.
+1	Abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	controlli	controllo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	frontiere	frontiera	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	interne	interno	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	ed	e	CCONJ	CC	_	9	cc	_	_
+9	esterne.	esterne.	NOUN	S	_	6	conj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

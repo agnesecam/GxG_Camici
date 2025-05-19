@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La fenomenologia del porno e il declino del sesso esibito.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	fenomenologia	fenomenologia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	porno	porno	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	declino	declino	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	sesso	sesso	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	esibito	esibito	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Anni fa, le edicole furono sommerse da riviste che in... http:// fb.me/56VuMbXPi
+1	Anni	anno	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+2	fa	fa	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	edicole	edicola	NOUN	S	Gender=Fem|Number=Plur	7	nsubj:pass	_	_
+6	furono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	sommerse	sommergere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	riviste	rivistere	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	7	nsubj:pass	_	_
+11	in...	in.	PUNCT	FS	_	12	punct	_	_
+12	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	_
+15	fb.me/56VuMbXPi	fb.me/56VuMbXPi	PROPN	SP	_	7	xcomp	_	SpacesAfter=\n
+

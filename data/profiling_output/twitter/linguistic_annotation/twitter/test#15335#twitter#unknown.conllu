@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io che non ho che non ho mai creduto nell'amore e a niente che facesse batter forte forte il cuore adesso che... http:// fb.me/5877Nji57
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	4	obj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	mai	mai	ADV	B	_	9	advmod	_	_
+9	creduto	credere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+10-11	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+10	in	in	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	amore	amore	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	e	e	CCONJ	CC	_	17	cc	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	obl	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	conj	_	_
+18	batter	batter	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+19	forte	forte	ADJ	A	Number=Sing	18	amod	_	_
+20	forte	forte	ADJ	A	Number=Sing	18	amod	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+23	adesso	adesso	ADV	B	_	22	advmod	_	_
+24	che...	che.	PUNCT	FS	_	22	punct	_	_
+25	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	22	punct	_	_
+28	fb.me/5877Nji57	fb.me/5877Nji57	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @unozerozer0 @giure99 Pienamente d'accordo.
+1	@unozerozer0	@unozerozer0	NUM	N	NumType=Card	3	nummod	_	_
+2	@giure99	@giure99	NUM	N	NumType=Card	3	nummod	_	_
+3	Pienamente	pienamente	PROPN	SP	_	0	root	_	_
+4	d'	di	ADP	E	_	5	case	_	SpaceAfter=No
+5	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Prima via i delinquenti dalla politica e poi si facciano delle buone leggi a tutela degli onesti
+1	Prima	prima	ADV	B	_	4	case	_	_
+2	via	via	ADV	B	_	1	fixed	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	delinquenti	delinquento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	politica	politica	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	poi	poi	ADV	B	_	11	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12-13	delle	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	15	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	buone	buono	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+15	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	tutela	tutela	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+18-19	degli	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	onesti	onesto	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	SpacesAfter=\n
+

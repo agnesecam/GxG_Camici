@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ValentinaBoop scherzi vero?
+1	@ValentinaBoop	@ValentinaBoop	NOUN	S	_	2	nmod	_	_
+2	scherzi	scherzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ci sono locali che fanno il pienone, partono con la cena e finiscono con gli spogliarellisti.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	locali	locale	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pienone	pienone	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	partono	partire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	cena	cena	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	finiscono	finire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	con	con	ADP	E	_	17	case	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	spogliarellisti	spogliarellista	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Qualcuna continua
+1	Qualcuna	Qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

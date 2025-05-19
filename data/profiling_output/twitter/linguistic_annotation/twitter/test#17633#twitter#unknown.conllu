@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Decidi che per cena farai hamburgher.....
+1	Decidi	decidere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	advmod	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	cena	cena	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	farai	fare	NOUN	S	_	4	compound	_	_
+6	hamburgher.....	hamburgher.....	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vai al supermercato, carrello, ciao ciao, che strano vederti di... http:// fb.me/25ISE4qrM
+1	Vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	acl	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	supermercato	supermercato	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	carrello	carrello	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	ciao	ciao	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+9	ciao	ciao	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	8	punct	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	strano	strere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13-14	vederti	_	_	_	_	_	_	_	_
+13	veder	vedere	VERB	V	VerbForm=Inf	8	acl:relcl	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	iobj	_	_
+15	di...	di.	PUNCT	FS	_	16	punct	_	_
+16	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	fb.me/25ISE4qrM	fb.me/25ISE4qrM	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

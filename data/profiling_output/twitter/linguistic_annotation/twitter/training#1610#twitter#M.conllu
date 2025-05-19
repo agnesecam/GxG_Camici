@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le NOSTRE TECNOLOGIE studiate e scoperte da NOSTRI SCIENZIATI sfruttate dagli arabi.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	NOSTRE	nostro	PROPN	SP	_	4	nsubj	_	_
+3	TECNOLOGIE	tecnologie	PROPN	SP	_	2	flat:name	_	_
+4	studiate	studiare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	scoperte	scoprire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	NOSTRI	nostro	PROPN	SP	_	6	obl:agent	_	_
+9	SCIENZIATI	scienziato	PROPN	SP	_	8	flat:name	_	_
+10	sfruttate	sfruttare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	_
+11-12	dagli	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	arabi	arabo	NOUN	S	Gender=Masc|Number=Plur	10	obl:agent	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Il colmo dell'idiozia politica.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	colmo	colmo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3-4	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+3	di	di	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	idiozia	idiozia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	politica	politico	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/tranellio/stat us/718571906547494913 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/tranellio/stat	twitter.com/tranellio/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/718571906547494913	us/718571906547494913	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

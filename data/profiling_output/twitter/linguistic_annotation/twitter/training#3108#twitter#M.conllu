@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche al costo di sembrare noioso tengo a queste precisazioni, visto come tutti sanno alla regia del clima ci sono IO, ma come a suo tempo
+1	Anche	anche	ADV	B	_	4	advmod	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	costo	costo	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	sembrare	sembrare	VERB	V	VerbForm=Inf	4	acl	_	_
+7	noioso	noioso	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	_
+8	tengo	tenere	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	11	det	_	_
+11	precisazioni	precisazione	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+14	come	come	ADP	E	_	15	case	_	_
+15	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	_
+16	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+17-18	alla	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	regia	regia	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+20-21	del	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	clima	clima	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	_
+23	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	24	expl	_	_
+24	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+25	IO	io	PROPN	SP	_	24	nsubj	_	SpaceAfter=No
+26	,	,	PUNCT	FF	_	28	punct	_	_
+27	ma	ma	CCONJ	CC	_	28	cc	_	_
+28	come	come	ADV	B	_	24	conj	_	_
+29	a	a	ADP	E	_	31	case	_	_
+30	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	31	det:poss	_	_
+31	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	28	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Secondo me se l' avessero fatto, ora Lucas avrebbe tutt'altro atteggiamento verso Giulia.
+1	Secondo	secondo	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	obl	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	ora	ora	ADV	B	_	9	advmod	_	_
+9	Lucas	Lucas	PROPN	SP	_	11	nsubj	_	_
+10	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	tutt'	tutto	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+12	altro	altro	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	atteggiamento	atteggiamento	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+14	verso	verso	ADP	E	_	15	case	_	_
+15	Giulia	Giulia	PROPN	SP	_	11	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Che squallido.
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	squallido	squallido	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

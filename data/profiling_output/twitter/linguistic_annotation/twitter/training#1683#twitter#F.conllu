@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sui #socialmedia bisogna stare attenti ad assicurare la sicurezza delle nostre fonti #ijf16 #giornalismo
+1-2	Sui	_	_	_	_	_	_	_	_
+1	Su	su	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	#socialmedia	#socialmedia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+4	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	stare	stare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	attenti	attento	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	ad	a	ADP	E	_	8	mark	_	_
+8	assicurare	assicurare	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11-12	delle	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	fonti	fonte	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+15	#	#	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+16	ijf16	ijf16	NUM	N	NumType=Card	17	nummod	_	_
+17	#giornalismo	#giornalismo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpacesAfter=\n
+

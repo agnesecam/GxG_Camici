@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Siamo talmente sfigati da seguire due sfigati che cambiamo talmente le canzoni da farle sembrare inediti!
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+2	talmente	talmente	ADV	B	_	3	advmod	_	_
+3	sfigati	sfigare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	da	da	ADP	E	_	5	mark	_	_
+5	seguire	seguire	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	due	due	NUM	N	NumType=Card	7	nummod	_	_
+7	sfigati	sfigato	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	cambiamo	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	talmente	talmente	ADV	B	_	9	advmod	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+13	da	da	ADP	E	_	14	mark	_	_
+14-15	farle	_	_	_	_	_	_	_	_
+14	far	fare	VERB	V	VerbForm=Inf	9	advcl	_	_
+15	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	14	ccomp	_	_
+17	inediti	inedito	ADJ	A	Gender=Masc|Number=Plur	16	xcomp	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #secondomeèimbarazzante
+1	#secondomeèimbarazzante	#secondomeèimbarazzante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	0	root	_	SpacesAfter=\n
+

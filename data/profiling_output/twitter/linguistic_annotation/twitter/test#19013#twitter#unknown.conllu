@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OliBu1982 @anto19213 @GiusyMaffi @morganafata1 Buonanotte a tutti cari amici nerazzurri.
+1	@OliBu1982	@OliBu1982	NUM	N	NumType=Card	3	nummod	_	_
+2	@anto19213	@anto19213	NUM	N	NumType=Card	3	nummod	_	_
+3	@GiusyMaffi	@GiusyMaffi	PROPN	SP	_	0	root	_	_
+4	@morganafata1	@morganafata1	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Buonanotte	Buonanotta	PROPN	SP	_	3	nmod	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	9	det	_	_
+8	cari	caro	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+9	amici	amico	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+10	nerazzurri	nerazzurro	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Un bacio a ciascuno
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bacio	bacio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pa_tere @s1lver3ack2 io vorrei dare un opportunità a chi non lha mai avuta , m5s.
+1	@pa_tere	@pa_tere	VERB	V	VerbForm=Inf	5	advcl	_	_
+2	@s1lver3ack2	@s1lver3ack2	NUM	N	NumType=Card	3	nummod	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+4	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	dare	dare	VERB	V	VerbForm=Inf	0	root	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	opportunità	opportunità	NOUN	S	Gender=Fem	5	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	chi	chi	PRON	PR	Number=Sing|PronType=Rel	7	nmod	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	lha	lavere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	mai	mai	ADV	B	_	13	advmod	_	_
+13	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+14	,	,	PUNCT	FF	_	9	punct	_	_
+15	m5s	m5s	PROPN	SW	Foreign=Yes	9	appos	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Dopo averli visti all'opera diremo
+1	Dopo	dopo	SCONJ	CS	_	4	mark	_	_
+2-3	averli	_	_	_	_	_	_	_	_
+2	aver	avere	AUX	VA	VerbForm=Inf	4	aux	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	visti	vedere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	_
+5-6	all'	_	_	_	_	_	_	_	SpaceAfter=No
+5	a	a	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	opera	opera	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	diremo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

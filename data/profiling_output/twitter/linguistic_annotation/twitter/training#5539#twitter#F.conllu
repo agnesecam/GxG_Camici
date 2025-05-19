@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ragazze, qualcuna di voi vorrebbe provare a leggere il prologo della mia FF e dirmi che ne pensa?
+1	Ragazze	ragazza	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	1	appos	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	nmod	_	_
+6	vorrebbe	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	provare	provare	VERB	V	VerbForm=Inf	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	leggere	leggere	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	prologo	prologo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12-13	della	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	15	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	FF	FF	PROPN	SP	_	11	nmod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17-18	dirmi	_	_	_	_	_	_	_	_
+17	dir	dire	VERB	V	VerbForm=Inf	7	conj	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+19	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+20	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	21	iobj	_	_
+21	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/9SJBrFw5yC
+1	pic.twitter.com/9SJBrFw5yC	pic.twitter.com/9SJBrFw5yC	ADV	B	_	0	root	_	SpacesAfter=\n
+

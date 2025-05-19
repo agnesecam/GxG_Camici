@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @jessica14897720 fu così https:// youtu.be/J5cuT45ND_4 ......
+1	@jessica14897720	@jessica14897720	NUM	N	NumType=Card	7	nsubj	_	_
+2	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+3	così	così	ADV	B	_	7	advmod	_	_
+4	https:	https:	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	3	punct	_	_
+7	youtu.be/J5cuT45ND_4	youtu.be/J5cuT45ND_4	PROPN	SP	_	0	root	_	_
+8	.....	.....	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = non chiedermi altro.
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2-3	chiedermi	_	_	_	_	_	_	_	_
+2	chieder	chiedere	VERB	V	VerbForm=Inf	0	root	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+4	altro	altro	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Non parlo nemmeno da ubriaca quando ci vediamo.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	parlo	parlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nemmeno	nemmeno	ADV	BN	PronType=Neg	2	advmod	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	ubriaca	ubriacare	ADJ	A	Gender=Fem|Number=Sing	2	obl	_	_
+6	quando	quando	SCONJ	CS	_	8	mark	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	_
+8	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

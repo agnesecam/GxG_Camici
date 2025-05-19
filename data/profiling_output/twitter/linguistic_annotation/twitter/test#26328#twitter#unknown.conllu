@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #gazebarie certo che se aveste fatto le pulci pure ai cinesi in occasione primarie pd sarebbe stato divertentissimo.Siete forti.
+1	#gazebarie	#gazebario	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	certo	certo	ADV	B	_	1	advmod	_	_
+3	che	che	SCONJ	CS	_	19	mark	_	_
+4	se	se	SCONJ	CS	_	19	mark	_	_
+5	aveste	avedere	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	fatto	fare	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	pulci	pulce	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	pure	pure	ADV	B	_	12	advmod	_	_
+10-11	ai	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	cinesi	cinese	NOUN	S	Number=Plur	8	nmod	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	primarie	primario	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+16	pd	pd	CCONJ	CC	_	19	cc	_	_
+17	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+18	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	cop	_	_
+19	divertentissimo.Siete	divertentissimo.Sieto	PROPN	SP	_	1	advcl	_	_
+20	forti	forte	ADJ	A	Number=Plur	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

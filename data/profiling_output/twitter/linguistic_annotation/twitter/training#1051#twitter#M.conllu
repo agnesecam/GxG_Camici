@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SaulGobbo Dalla vergogna per le stupidità che scrivi.
+1	@SaulGobbo	@SaulGobbo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	Dalla	_	_	_	_	_	_	_	_
+2	Da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	stupidità	stupidità	NOUN	S	Gender=Fem	4	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	scrivi	scrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = I social producono tanti personaggi come te, niente di strano https:// twitter.com/saulgobbo/stat us/719214911797207040 …
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	social	social	NOUN	S	Gender=Masc	3	nsubj	_	_
+3	producono	produrre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	personaggi	personaggio	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	come	come	ADP	E	_	7	case	_	_
+7	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	niente	niente	PRON	PI	Number=Sing|PronType=Ind	3	obj	_	_
+10	di	di	ADP	E	_	15	case	_	_
+11	strano	strano	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+12	https:	https:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	_
+15	twitter.com/saulgobbo/stat	twitter.com/saulgobbo/stare	SYM	X	_	9	nmod	_	_
+16	us/719214911797207040	us/719214911797207040	NUM	N	NumType=Card	15	nummod	_	_
+17	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

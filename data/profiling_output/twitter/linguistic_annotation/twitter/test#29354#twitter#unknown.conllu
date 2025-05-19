@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Alitalia @aeroportodicomiso immagino avrete una giustificazione anche per questo.
+1	@Alitalia	@Alitalia	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	@aeroportodicomiso	@aeroportodicomiso	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	immagino	immagino	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	giustificazione	giustificazione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	anche	anche	ADV	B	_	9	advmod	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/1eUQTrlbRQ
+1	pic.twitter.com/1eUQTrlbRQ	pic.twitter.com/1eUQTrlbRQ	NOUN	S	_	0	root	_	SpacesAfter=\n
+

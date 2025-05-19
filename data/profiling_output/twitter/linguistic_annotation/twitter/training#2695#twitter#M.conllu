@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @eddiemyw mi dispiace tanto, è terribile quando succede;
+1	@eddiemyw	@eddiemyw	NOUN	S	_	3	obj	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+4	tanto	tanto	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	terribile	terribile	ADJ	A	Number=Sing	0	root	_	_
+8	quando	quando	SCONJ	CS	_	9	mark	_	_
+9	succede	succedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+10	;	;	PUNCT	FC	_	7	punct	_	_
+
+# sent_id = 2
+# text = può sembrare scontato ma se hai voglia di qualcuno che ti ascolti sai dove cercarmi
+1	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	scontato	scontato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	obj	_	_
+12	ascolti	ascolgere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+13	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	xcomp	_	_
+14	dove	dove	ADV	B	_	15	advmod	_	_
+15-16	cercarmi	_	_	_	_	_	_	_	SpacesAfter=\n
+15	cercar	cercare	VERB	V	VerbForm=Inf	13	ccomp	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	obj	_	_
+

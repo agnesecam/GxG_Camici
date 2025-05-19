@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mimmopolitano Doveva capitare amico mio , di non esser "finalmente" per 1volta non esser d'accordo con te :
+1	@mimmopolitano	@mimmopolitare	ADV	B	_	2	advmod	_	_
+2	Doveva	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	capitare	capitare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	amico	amico	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	di	di	ADP	E	_	16	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+9	esser	essere	AUX	V	VerbForm=Inf	16	aux	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	finalmente	finalmente	ADV	B	_	16	advmod	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	1volta	1volta	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	esser	essere	VERB	V	VerbForm=Inf	4	acl	_	_
+17	d'	di	ADP	E	_	18	case	_	SpaceAfter=No
+18	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	18	nmod	_	_
+21	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = IO HO PAURA ! HO 2 NIPOTINE !!
+1	IO	io	PROPN	SP	_	0	root	_	_
+2	HO	Ho	PROPN	SP	_	1	flat:name	_	_
+3	PAURA	paura	PROPN	SP	_	1	flat:name	_	_
+4	!	!	PUNCT	FS	_	5	punct	_	_
+5	HO	Ho	PROPN	SP	_	1	appos	_	_
+6	2	2	NUM	N	NumType=Card	7	nummod	_	_
+7	NIPOTINE	NIPOTINE	PROPN	SP	_	5	flat:name	_	_
+8	!!	!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Traffico in calo in Italia per il secondo anno consecutivo http:// dlvr.it/Kp8Pzq pic.twitter.com/rO9onqnX2x
+1	Traffico	traffico	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	calo	calo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Italia	Italia	PROPN	SP	_	3	nmod	_	_
+6	per	per	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	anno	anno	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+10	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	dlvr.it/Kp8Pzq	dlvr.it/Kp8Pzq	PROPN	SP	_	1	nmod	_	_
+15	pic.twitter.com/rO9onqnX2x	pic.twitter.com/rO9onqnX2x	PROPN	SP	_	14	flat:name	_	SpacesAfter=\n
+

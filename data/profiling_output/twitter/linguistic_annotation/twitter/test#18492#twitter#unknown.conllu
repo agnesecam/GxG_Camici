@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avevi tra le mani una ferrari e la guidavi come una fiat uno, ora la ferrari la guida un vero pilota, tu gioca con le macchinine.
+1	Avevi	Avevo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tra	tra	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	mani	mano	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	ferrari	ferrario	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	guidavi	guidavo	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+10	come	come	ADP	E	_	12	case	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	fiat	fiat	NOUN	S	_	6	nmod	_	_
+13	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	ora	ora	ADV	B	_	17	advmod	_	_
+16	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	ferrari	ferrario	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	guida	guida	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	vero	vero	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	_
+22	pilota	pilota	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	19	punct	_	_
+24	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	25	nsubj	_	_
+25	gioca	giocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+26	con	con	ADP	E	_	28	case	_	_
+27	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
+28	macchinine	macchinina	NOUN	S	Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cojone.
+1	Cojone	Cojone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

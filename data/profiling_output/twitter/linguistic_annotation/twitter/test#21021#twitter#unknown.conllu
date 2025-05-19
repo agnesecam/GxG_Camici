@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sevise2 @MadagioPepe proprio loro che il mare ce l hanno da ogni parte ma tanto la marea nera gliela manda la libia cosi'sono accontentati
+1	@sevise2	@sevise2	NUM	N	NumType=Card	2	nummod	_	_
+2	@MadagioPepe	@MadagioPepe	PROPN	SP	_	4	nsubj	_	_
+3	proprio	proprio	ADV	B	_	4	advmod	_	_
+4	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	0	root	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mare	mare	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+8	ce	ce	ADJ	A	Number=Sing	9	amod	_	_
+9	l	l	X	X	_	10	nsubj	_	_
+10	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+13	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	ma	ma	CCONJ	CC	_	26	cc	_	_
+15	tanto	tanto	ADV	B	_	17	advmod	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	marea	marea	NOUN	S	Gender=Fem|Number=Sing	26	nsubj	_	_
+18	nera	nero	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+19-20	gliela	_	_	_	_	_	_	_	_
+19	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	iobj	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	manda	manda	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	libia	libia	NOUN	S	Gender=Fem|Number=Sing	21	nsubj	_	_
+24	cosi'	cosio	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
+25	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	accontentati	accontentare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	conj	_	SpacesAfter=\n
+

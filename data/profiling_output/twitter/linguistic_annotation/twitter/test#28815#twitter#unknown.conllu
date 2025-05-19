@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Auguri a tutte le donne!
+1	Auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	a	a	ADP	E	_	5	case	_	_
+3	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	donne	donna	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ognuna di voi è speciale con il suo stile #festadelladonna #8marzo pic.twitter.com/CR4aI2bVH7
+1	Ognuna	ognuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	speciale	speciale	ADJ	A	Number=Sing	0	root	_	_
+6	con	con	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	stile	stile	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10	#festadelladonna	#festadelladonna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+11	#8marzo	#8marzo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+12	pic.twitter.com/CR4aI2bVH7	pic.twitter.com/CR4aI2bVH7	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

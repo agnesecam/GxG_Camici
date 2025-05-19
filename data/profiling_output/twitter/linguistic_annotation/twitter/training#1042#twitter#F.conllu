@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bruna27_ @MetaErmal circa 10 giorni fa l'ho sentita anch'io trasmessa dalla radio della mia città, non potevo crederci..che felicità!! *-*
+1	@bruna27_	ExtraSubj=Yes|@bruna27_	ADJ	NO	NumType=Ord	2	amod	_	_
+2	@MetaErmal	@MetaErmal	PROPN	SP	_	9	nsubj	_	_
+3	circa	circa	ADV	B	_	4	advmod	_	_
+4	10	10	NUM	N	NumType=Card	5	nummod	_	_
+5	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+6	fa	fa	ADV	B	_	5	advmod	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sentita	sentire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	anch'	anche	ADV	B	_	11	advmod	_	SpaceAfter=No
+11	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+12	trasmessa	trasmettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+13-14	dalla	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	radio	radio	NOUN	S	Gender=Fem	12	obl:agent	_	_
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	19	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	città	città	NOUN	S	Gender=Fem	15	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	22	punct	_	_
+21	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+22	potevo	potere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	conj	_	_
+23	crederci..che	crederci..co	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	24	det	_	_
+24	felicità	felicità	NOUN	S	Gender=Fem	22	obj	_	SpaceAfter=No
+25	!	!	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	9	punct	_	_
+27	*	*	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+28	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+29	*	*	PUNCT	FF	_	9	punct	_	SpacesAfter=\n
+

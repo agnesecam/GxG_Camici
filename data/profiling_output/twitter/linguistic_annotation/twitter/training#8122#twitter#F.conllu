@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nuovo dilemma per gli esperti di security:
+1	Nuovo	Nuovo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dilemma	dilemma	ADV	B	_	1	advmod	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	esperti	esperto	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	security	security	NOUN	S	Gender=Fem	5	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = dunque un demente come lo identifichiamo?
+1	dunque	dunque	ADV	B	_	3	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	demente	demente	ADV	B	_	0	root	_	_
+4	come	come	SCONJ	CS	_	6	mark	_	_
+5	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	identifichiamo	identifichare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #EgyptAir
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	EgyptAir	EgyptAir	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

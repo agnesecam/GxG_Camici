@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Conte arrabbiatissimo?
+1	Conte	Conte	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	arrabbiatissimo	arrabbiatissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = L'unica cosa che starà pensando sarà "fragacazzi tanto vado al chelsea" #GermaniaItalia
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+2	unica	unico	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	starà	esstere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	_
+6	pensando	pensare	VERB	V	VerbForm=Ger	5	advcl	_	_
+7	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	cop	_	_
+8	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+9	fragacazzi	fragacazzo	ADP	E	_	10	case	_	_
+10	tanto	tanto	ADV	B	_	11	advmod	_	_
+11	vado	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	chelsea	chelsea	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	14	punct	_	_
+16	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+17	GermaniaItalia	GermaniaItalia	PROPN	SP	_	11	obj	_	SpacesAfter=\n
+

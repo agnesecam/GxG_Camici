@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FabioCapozzi1 Considerando le nostre opposte visioni politiche e ciò che ha vissuto, non si farebbe condizionare nemmeno dal Papa
+1	@FabioCapozzi1	@FabioCapozzi1	PROPN	SP	_	16	nsubj	_	_
+2	Considerando	considerare	PROPN	SP	_	1	flat:name	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+4	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+5	opposte	opposto	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+6	visioni	visione	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+7	politiche	politico	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	conj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	vissuto	vivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	1	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	farebbe	fare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	condizionare	condizionare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+18	nemmeno	nemmeno	ADV	BN	PronType=Neg	17	advmod	_	_
+19-20	dal	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Papa	Papa	PROPN	SP	_	17	obl	_	SpacesAfter=\n
+

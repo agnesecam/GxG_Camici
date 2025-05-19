@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @snowhiteoutgdr prendere l'ovetto con dentro Rosie ed esce dalla porta di casa, avviandosi verso la macchina*
+1	@snowhiteoutgdr	@snowhiteoutgdre	ADP	E	_	2	mark	_	_
+2	prendere	prendere	VERB	V	VerbForm=Inf	0	root	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	ovetto	ovetto	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	dentro	dentro	ADV	B	_	7	advmod	_	_
+7	Rosie	Rosie	PROPN	SP	_	4	nmod	_	_
+8	ed	e	CCONJ	CC	_	9	cc	_	_
+9	esce	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	porta	porta	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	casa	casa	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	9	punct	_	_
+16-17	avviandosi	_	_	_	_	_	_	_	_
+16	avviando	avviare	VERB	V	VerbForm=Ger	9	advcl	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+18	verso	verso	ADP	E	_	20	case	_	_
+19	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	macchina*	macchina*	PUNCT	FF	_	16	obl	_	SpacesAfter=\n
+

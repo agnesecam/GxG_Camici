@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lplacebobomb Perso...non per sempre, momentaneamente.
+1	@lplacebobomb	@lplacebobomb	NOUN	S	Gender=Masc	0	root	_	_
+2	Perso...non	Perso...non	PROPN	SP	_	1	nmod	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	sempre	sempre	ADV	B	_	6	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	momentaneamente	momentaneamente	ADV	B	_	1	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Se tu volessi, lo ritroveresti!
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+3	volessi	volettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ritroveresti	ritroveresto	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Egli ti aspetta, Dolce Lily! pic.twitter.com/BYHPsyXLWr
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
+3	aspetta	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	Dolce	dolce	PROPN	SP	_	3	nsubj	_	_
+6	Lily	Lily	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	5	punct	_	_
+8	pic.twitter.com/BYHPsyXLWr	pic.twitter.com/BYHPsyXLWr	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

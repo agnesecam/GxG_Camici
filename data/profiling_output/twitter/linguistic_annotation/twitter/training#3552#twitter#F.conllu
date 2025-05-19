@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Carino questo/a nik name ...ora farà abracadabra e io sparirò Vietate le critiche alla #Raggi pic.twitter.com/CUfqbjDD8s
+1	Carino	Carare	PROPN	SP	_	8	nsubj	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	obj	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	a	a	ADP	E	_	5	case	_	_
+5	nik	nik	NOUN	S	_	2	nmod	_	_
+6	name	name	ADP	E	_	7	case	_	_
+7	...ora	...ora	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	abracadabra	abracadabra	ADV	B	_	13	advmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	conj	_	_
+12	sparirò	sparire	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	Vietate	vietate	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	conj	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	critiche	critica	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+16-17	alla	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	#Raggi	#Raggi	PROPN	SP	_	15	nmod	_	_
+19	pic.twitter.com/CUfqbjDD8s	pic.twitter.com/CUfqbjDD8s	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

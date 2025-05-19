@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giure99
+1	@giure99	@giure99	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = Ma va ...l'importante è fare sempre, comunque e dovunque come ci pare...poi ci lamentiamo...e lamentiamo...e lamentiamo...
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	...l'	...lo	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	nsubj	_	SpaceAfter=No
+4	importante	importante	ADJ	A	Number=Sing	3	amod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+7	sempre	sempre	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	comunque	comunque	ADV	B	_	2	advmod	_	_
+10	e	e	CCONJ	CC	_	16	cc	_	_
+11	dovunque	dovunque	ADV	B	_	16	advmod	_	_
+12	come	come	ADP	E	_	13	case	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	_
+14	pare...poi	pare...poi	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	nsubj	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	lamentiamo...e	lamentiamo...e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	lamentiamo...e	lamentiamo...e	ADV	B	_	16	advmod	_	_
+18	lamentiamo...	lamentiamo.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

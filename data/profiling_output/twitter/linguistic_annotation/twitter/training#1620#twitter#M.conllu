@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TheSipario dai cagnolone dove sei finito.
+1	@TheSipario	@TheSipario	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	dai	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	cagnolone	cagnolone	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	dove	dove	ADV	B	_	7	advmod	_	_
+6	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ci manchi Sipa, le nostre conversazioni di qualità
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	manchi	mancare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	Sipa	Sipa	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	conversazioni	conversazione	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	qualità	qualità	NOUN	S	Gender=Fem	7	nmod	_	SpacesAfter=\n
+

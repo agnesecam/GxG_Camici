@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = in Egitto.
+1	in	in	ADP	E	_	2	case	_	_
+2	Egitto	Egitto	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Forse perché il caso iberico non ha implicazioni diplomatiche sopratutto sulle regole carcerarie ( avremmo fatto la figura
+1	Forse	forse	ADV	B	_	17	advmod	_	_
+2	perché	perché	SCONJ	CS	_	7	mark	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	iberico	iberico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+8	implicazioni	implicazione	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
+9	diplomatiche	diplomatico	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+10	sopratutto	sopratutto	ADV	B	_	13	advmod	_	_
+11-12	sulle	_	_	_	_	_	_	_	_
+11	su	su	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	regole	regola	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	_
+14	carcerarie	carcerario	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+15	(	(	PUNCT	FB	_	17	punct	_	_
+16	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	figura	figura	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	SpacesAfter=\n
+

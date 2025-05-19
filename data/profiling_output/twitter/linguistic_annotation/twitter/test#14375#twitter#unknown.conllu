@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'anno scorso, in occasione dell'uscita di Mariasole, feci un posto in cui pregavo i miei allora quasi 3mila...
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	anno	anno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	scorso	scorso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	uscita	uscita	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Mariasole	Mariasole	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	feci	feci	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	posto	posto	NOUN	S	Gender=Masc|Number=Sing	6	appos	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	cui	cui	PRON	PR	PronType=Rel	18	obl	_	_
+18	pregavo	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	18	obj	_	_
+21	allora	allora	ADV	B	_	18	advmod	_	_
+22	quasi	quasi	ADV	B	_	18	advmod	_	_
+23	3mila...	3mila.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7bz56DwkA
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7bz56DwkA	fb.me/7bz56DwkA	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

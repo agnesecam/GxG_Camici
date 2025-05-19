@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "E fu la lacrima, goccia di un cielo infinito...
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	E	e	CCONJ	CC	_	5	cc	_	_
+3	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	lacrima	lacrima	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	goccia	goccia	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	infinito...	infinito.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = ...E fu la luna, che di passione m’illuminò il cuore" (Cit) pic.twitter.com/EQo4jbRj3D
+1	...E	...E	ADV	B	_	4	advmod	_	_
+2	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	luna	luna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	passione	passione	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+9	m’	mo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+10	illuminò	illuminare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	15	punct	_	_
+14	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	Cit	Cit	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	15	punct	_	_
+17	pic.twitter.com/EQo4jbRj3D	pic.twitter.com/EQo4jbRj3D	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

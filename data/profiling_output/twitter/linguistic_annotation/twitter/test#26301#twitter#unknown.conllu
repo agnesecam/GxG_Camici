@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VI
+1	VI	VI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	_
+
+# sent_id = 2
+# text = INVITIAMO A RISPONDERE AL SONDAGGIO DEL GIORNO:
+1	INVITIAMO	invitiamo	PROPN	SP	_	0	root	_	_
+2	A	a	PROPN	SP	_	1	flat:name	_	_
+3	RISPONDERE	rispondere	PROPN	SP	_	1	flat:name	_	_
+4-5	AL	_	_	_	_	_	_	_	_
+4	A	a	ADP	E	_	5	case	_	_
+5	IL	il	PROPN	SP	_	1	nmod	_	_
+6	SONDAGGIO	sondaggio	PROPN	SP	_	5	flat:name	_	_
+7-8	DEL	_	_	_	_	_	_	_	_
+7	DI	Di	ADP	E	_	8	case	_	_
+8	IL	il	PROPN	SP	_	5	flat:name	_	_
+9	GIORNO	giorno	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = In cosa sarebbe "diversa" la vostra vita se aveste molto denaro?
+1	In	in	ADP	E	_	2	case	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	obl	_	_
+3	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	diversa	diverso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	9	punct	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+10	se	se	SCONJ	CS	_	11	mark	_	_
+11	aveste	avedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+12	molto	molto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	13	det	_	_
+13	denaro	denaro	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vaporjames non sono piedofila,ma mi ci farai diventare.Se solo tu mi facessi dormire con la testa appoggiata al cuscino...
+1	@vaporjames	@vaporjames	ADP	E	_	8	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+4	piedofila,ma	piedofila,mare	ADV	B	_	8	advmod	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
+7	farai	fare	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	diventare.Se	diventare.se	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+9	solo	solo	ADV	B	_	13	advmod	_	_
+10	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	13	obj	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	expl	_	_
+12	facessi	facettere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	dormire	dormire	VERB	V	VerbForm=Inf	8	advcl	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	testa	testa	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+17	appoggiata	appoggiato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	cuscino..	cuscino..	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

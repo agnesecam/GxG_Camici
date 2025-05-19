@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @welikechopin #gasparroremoto "Gasparri, interrogato.
+1	@welikechopin	@welikechopino	ADP	E	_	2	case	_	_
+2	#gasparroremoto	#gasparroremoto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	Gasparri	Gasparri	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	interrogato	interrogare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = "
+1	"	"	PUNCT	FB	_	0	root	_	_
+
+# sent_id = 3
+# text = "Sì, signora maestra.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Sì	sì	INTJ	I	Polarity=Pos	4	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	signora	signore	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	maestra	maestra	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Allora: io chiesi, tu chiesi, egli chiese, noi chiesimo..."
+1	Allora	allora	ADV	B	_	4	advmod	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	chiesi	chiendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+7	chiesi	chiendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	chiese	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+13	chiesimo...	chiesimo.	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

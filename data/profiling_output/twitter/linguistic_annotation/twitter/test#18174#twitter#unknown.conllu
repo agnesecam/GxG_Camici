@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In effetti 72 ore sono parecchie tra una siesta e l'altra
+1	In	in	ADP	E	_	2	case	_	_
+2	effetti	effetto	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+3	72	72	NUM	N	NumType=Card	4	nummod	_	_
+4	ore	ora	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	parecchie	parecchio	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+7	tra	tra	ADP	E	_	9	case	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	siesta	siesta	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	9	conj	_	SpacesAfter=\n
+

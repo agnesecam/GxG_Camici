@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = le parole di #Rastelli "se avessimo segnato prima noi, se rosati non le avesse parate, se..se..se" mettevi a giocare cazzo!
+1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	parole	parola	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	Rastelli	Rastelli	PROPN	SP	_	2	nmod	_	_
+6	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	segnato	segnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	advcl	_	_
+10	prima	prima	ADV	B	_	11	case	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	9	punct	_	_
+13	se	se	SCONJ	CS	_	14	mark	_	_
+14	rosati	rosare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	avesse	avere	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	_
+18	parate	parare	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	20	punct	_	_
+20	se..se..se	se..se..so	ADJ	A	Gender=Fem|Number=Plur	18	conj	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	9	punct	_	_
+22	mettevi	metteve	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
+23	a	a	ADP	E	_	24	mark	_	_
+24	giocare	giocare	VERB	V	VerbForm=Inf	22	xcomp	_	_
+25	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	24	obj	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #forzacasteddu
+1	#forzacasteddu	#forzacasteddu	ADP	E	_	0	root	_	SpacesAfter=\n
+

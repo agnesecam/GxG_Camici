@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pinacarbini Siamo certi che affidandoci a Lei, Lei ci porterà dal suo amato Figlio.
+1	@pinacarbini	@pinacarbino	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+2	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	certi	certo	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	che	che	SCONJ	CS	_	12	mark	_	_
+5-6	affidandoci	_	_	_	_	_	_	_	_
+5	affidando	affidare	VERB	V	VerbForm=Ger	12	advcl	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Lei	lei	PROPN	SP	_	12	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	Lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+12	porterà	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	advcl	_	_
+13-14	dal	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	16	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	amato	amato	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+17	Figlio	figlio	PROPN	SP	_	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ciao Pina!
+1	Ciao	ciao	INTJ	I	_	2	discourse	_	_
+2	Pina	Pina	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marco_borrano Dovrà fare gli interessi di entrambi;
+1	@marco_borrano	@marco_borrare	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+2	Dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	entrambi	entrambi	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nmod	_	SpaceAfter=No
+8	;	;	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = come negli USA (anche lì ci sono stati industrializzati e altri che lo sono di meno).
+1	come	come	ADV	B	_	11	advmod	_	_
+2-3	negli	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	USA	USA	PROPN	SP	_	1	obl	_	_
+5	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+6	anche	anche	ADV	B	_	7	advmod	_	_
+7	lì	lì	ADV	B	_	11	advmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+9	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	aux:pass	_	_
+11	industrializzati	industrializzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	conj	_	_
+14	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	acl:relcl	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	meno	meno	ADV	B	_	15	advmod	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io credo che quando sarò anziano meneró parecchi giovani che oggi nn hanno avuto un po di regole ed educazione!!... http:// fb.me/5hRnFnBfb
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	parataxis	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	quando	quando	SCONJ	CS	_	6	mark	_	_
+5	sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	anziano	anziare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	meneró	meneró	PROPN	SP	_	6	obj	_	_
+8	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+9	giovani	giovane	NOUN	S	Number=Plur	6	nsubj	_	_
+10	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+11	oggi	oggi	ADV	B	_	14	advmod	_	_
+12	nn	nn	ADV	B	_	14	advmod	_	_
+13	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	po	po	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	regole	regola	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
+19	ed	e	CCONJ	CC	_	20	cc	_	_
+20	educazione	educazione	NOUN	S	Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+21	!!...	!!...	PUNCT	FF	_	9	punct	_	_
+22	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	6	punct	_	_
+25	fb.me/5hRnFnBfb	fb.me/5hRnFnBfb	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

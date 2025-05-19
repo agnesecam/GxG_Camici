@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #PanamaPapers "Cameron dovrà per forza dimettersi, con le sue dimissioni le euro fallirà" http:// info5stelle.blogspot.it/2016/04/news-p anama-papers-david-cameron-si.html … pic.twitter.com/Rh4UC3XSjW
+1	#PanamaPapers	#PanamaPapers	NOUN	S	_	7	nsubj	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	Cameron	Cameron	PROPN	SP	_	1	nmod	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	forza	forza	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+7-8	dimettersi	_	_	_	_	_	_	_	SpaceAfter=No
+7	dimetter	dimettere	VERB	V	VerbForm=Inf	0	root	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	con	con	ADP	E	_	13	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+12	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	dimissioni	dimissione	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	euro	euro	NOUN	S	Gender=Masc	16	nsubj	_	_
+16	fallirà	fallire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	conj	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	18	punct	_	_
+18	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	16	punct	_	_
+21	info5stelle.blogspot.it/2016/04/news-p	info5stelle.blogspot.it/2016/04/news-p	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+22	anama-papers-david-cameron-si.html	anama-papers-david-cameron-si.html	NOUN	S	Gender=Masc	21	compound	_	_
+23	…	…	PUNCT	FF	_	21	punct	_	_
+24	pic.twitter.com/Rh4UC3XSjW	pic.twitter.com/Rh4UC3XSjW	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

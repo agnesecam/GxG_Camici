@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il cuore vola dove la mente non sa neppure camminare...
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cuore	cuore	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	vola	volare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dove	dove	ADV	B	_	3	advmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mente	mente	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	neppure	neppure	ADV	BN	PronType=Neg	8	advmod	_	_
+10	camminare...	camminare.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = buonanotte pic.twitter.com/Qv5CXY4WV3
+1	buonanotte	buonanotto	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+2	pic.twitter.com/Qv5CXY4WV3	pic.twitter.com/Qv5CXY4WV3	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

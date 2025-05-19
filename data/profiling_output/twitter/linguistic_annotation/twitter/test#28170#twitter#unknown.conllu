@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io mi chiedo come cazzo facciano a passare inosservati con #esplosivi in #aeroporto in periodi come questi...
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+6	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	passare	passare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	inosservati	inosservato	ADJ	A	Gender=Masc|Number=Plur	8	xcomp	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	#esplosivi	#esplosivo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	#aeroporto	#aeroporto	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	periodi	periodo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+16	come	come	ADP	E	_	17	case	_	_
+17	questi...	questi.	NUM	N	NumType=Card	3	nummod	_	_
+
+# sent_id = 2
+# text = #Bruxelles
+1	#Bruxelles	#Bruxelles	ADP	E	_	0	root	_	SpacesAfter=\n
+

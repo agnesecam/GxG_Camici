@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pisto_gol ciao Maurizio, te lo chiedo perché ti stimo e ne rimarrei deluso.
+1	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ciao	ciao	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	Maurizio	Maurizio	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	expl	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	perché	perché	SCONJ	CS	_	10	mark	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+10	stimo	stimare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	13	iobj	_	_
+13	rimarrei	rimarre	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	_
+14	deluso.	deluso.	NOUN	S	_	13	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = tu veramente credi nella malafede degli arbitri?
+1	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	veramente	vero	ADV	B	_	3	advmod	_	_
+3	credi	credere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	nella	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	malafede	malafede	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7-8	degli	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	arbitri	arbitro	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La LUCE che spettacolo!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	LUCE	luce	PROPN	SP	_	0	root	_	_
+3	che	che	DET	DQ	PronType=Int	4	det	_	_
+4	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = noi di esperti in questi ultimi periodi ne stiamo incontrando parecchi ... chissà che il... http:// fb.me/3Mjyi3o9u
+1	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	esperti	esperto	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+6	ultimi	ultimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	7	amod	_	_
+7	periodi	periodo	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+9	stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	incontrando	incontrare	VERB	V	VerbForm=Ger	0	root	_	_
+11	parecchi	parecchio	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	...	.	PUNCT	FF	_	10	punct	_	_
+13	chissà	chissà	INTJ	I	_	14	punct	_	_
+14	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+15	il...	il.	PUNCT	FS	_	16	punct	_	_
+16	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	14	punct	_	_
+19	fb.me/3Mjyi3o9u	fb.me/3Mjyi3o9u	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

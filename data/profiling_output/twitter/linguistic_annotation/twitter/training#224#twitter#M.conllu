@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A veder giocare così il @acmilan mi fa gioire ma allo stesso tempo incavolare.
+1	A	a	ADP	E	_	2	mark	_	_
+2	veder	vedere	VERB	V	VerbForm=Inf	8	advcl	_	_
+3	giocare	giocare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	così	così	ADV	B	_	3	advmod	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	@acmilan	@acmilan	NOUN	S	Gender=Masc	3	obj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	gioire	gioira	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	ma	ma	CCONJ	CC	_	14	cc	_	_
+11-12	allo	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	14	case	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+15	incavolare	incavolare	ADJ	A	Number=Sing	14	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Se avessimo giocato sempre così?
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	giocato	giocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	sempre	sempre	ADV	B	_	3	advmod	_	_
+5	così	così	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Psg-City, derby del deserto Quante stelle in campo...:
+1	Psg-City	Psg-City	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	derby	derby	NOUN	S	_	1	appos	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	deserto	deserto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	Quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	8	det	_	_
+8	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	campo...	campo...	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Psg-City, derby del deserto Quante stelle in campo...Al... http:// bit.ly/1SchYag
+1	Psg-City	Psg-City	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	derby	derby	NOUN	S	_	8	nmod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	deserto	deserto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	Quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	8	det	_	_
+8	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	campo...Al...	campo...Al...	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	bit.ly/1SchYag	bit.ly/1SchYag	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

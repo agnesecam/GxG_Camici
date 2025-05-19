@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GliAntennati questo e un mio pensiero ma se vuole sapere chi sono io chiami al 3485686726 e daro una spiegazione cosi si fara contradittori
+1	@GliAntennati	@GliAntennare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+7	ma	ma	CCONJ	CC	_	24	cc	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	sapere	sapere	VERB	V	VerbForm=Inf	24	advcl	_	_
+11	chi	chi	PRON	PQ	PronType=Int	13	nsubj	_	_
+12	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+14	chiami	chiamare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	3485686726	3485686726	NUM	N	NumType=Card	14	obl	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	daro	darare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	spiegazione	spiegazione	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+22	cosi	coso	ADJ	A	Number=Plur	21	amod	_	_
+23	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	24	expl	_	_
+24	fara	farare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+25	contradittori	contradittore	NOUN	S	Gender=Masc|Number=Plur	24	obj	_	SpacesAfter=\n
+

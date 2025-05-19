@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Combatteremo i vostri reggiseni imbottiti con le nostre Porsche noleggiate" ahahahah
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Combatteremo	combattere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	vostri	vostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	reggiseni	reggiseno	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6	imbottiti	imbottire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	Porsche	Porsche	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+11	noleggiate	noleggiato	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	2	punct	_	_
+13	ahahahah	ahahahah	INTJ	I	_	2	punct	_	SpacesAfter=\n
+

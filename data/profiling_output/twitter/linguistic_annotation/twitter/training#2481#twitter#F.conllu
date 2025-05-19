@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Reportage dalla Siria - Le telecamere di Rainews sono entrate dentro Palmira liberata http:// fb.me/YSDrz5au
+1	Reportage	Reportagere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Siria	Siria	PROPN	SP	_	1	obl	_	_
+5	-	-	PUNCT	FB	_	4	punct	_	_
+6	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	telecamere	telecamera	NOUN	S	Gender=Fem|Number=Plur	11	nsubj:pass	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Rainews	Rainews	PROPN	SP	_	7	nmod	_	_
+10	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+11	entrate	entrare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	_
+12	dentro	dentro	ADP	E	_	13	case	_	_
+13	Palmira	Palmira	PROPN	SP	_	11	obl	_	_
+14	liberata	liberare	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+15	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	11	punct	_	_
+18	fb.me/YSDrz5au	fb.me/YSDrz5au	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

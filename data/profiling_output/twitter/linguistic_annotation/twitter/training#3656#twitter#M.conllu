@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ZN: Napoli, Iuliano: “Squalifica Higuain si farà sentire” http://www.
+1	ZN	ZN	PROPN	SP	_	11	nsubj	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	Napoli	Napoli	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	Iuliano	Iuliano	PROPN	SP	_	1	appos	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	5	punct	_	_
+7	“	“	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Squalifica	squalificare	PROPN	SP	_	5	nmod	_	_
+9	Higuain	Higuain	PROPN	SP	_	8	flat:name	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	sentire	sentire	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
+13	”	”	PUNCT	FB	_	14	punct	_	_
+14	http://www	http://www	NOUN	S	_	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = zonacalcio.net/zn-napoli-iuli ano-squalifica-higuain-si-fara-sentire/ … pic.twitter.com/dkJ6C1oXem
+1	zonacalcio.net/zn-napoli-iuli	zonacalcio.net/zn-napoli-iulo	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	ano	ano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	squalifica-higuain-si	squalifica-higuain-so	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
+5	-fara-sentire	-fara-sentire	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	_
+7	…	…	PUNCT	FF	_	4	punct	_	_
+8	pic.twitter.com/dkJ6C1oXem	pic.twitter.com/dkJ6C1oXem	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

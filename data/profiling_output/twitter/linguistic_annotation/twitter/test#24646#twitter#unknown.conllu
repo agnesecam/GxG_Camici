@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LoredanaBerte È contenta del successo che sta avendo @MattiaBriga ?
+1	@LoredanaBerte	@LoredanaBerto	PROPN	SP	_	3	nsubj	_	_
+2	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	contenta	contentire	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	successo	successo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	avendo	avere	VERB	V	VerbForm=Ger	6	acl:relcl	_	_
+10	@MattiaBriga	@MattiaBriga	PROPN	SP	_	9	obj	_	_
+11	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ci vediamo in libreria il 19 aprile!
+1	Ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	libreria	libreria	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	19	19	NUM	N	NumType=Card	2	obl	_	_
+7	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	6	flat	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Non odii lui, odii se stessa.
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	odii	odii	ADJ	NO	Number=Sing|NumType=Ord	3	amod	_	_
+3	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	odii	odii	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	5	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

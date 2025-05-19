@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gesu' prese vide la croce , la mise al coll e disse :LIKE A VIRGINNNNNNNNNN no scherza vo disse :Con questo...
+1	Gesu'	Gesuo	ADV	B	_	2	advmod	_	_
+2	prese	presa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vide	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	croce	croce	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	mise	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	coll	coll	NOUN	S	Gender=Masc	8	obl	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	disse	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+14	:LIKE	:LIKE	PROPN	SP	_	13	obj	_	_
+15	A	a	ADP	E	_	16	case	_	_
+16	VIRGINNNNNNNNNN	VIRGINNNNNNNNNN	PROPN	SP	_	18	nmod	_	_
+17	no	no	ADV	BN	PronType=Neg	18	advmod	_	_
+18	scherza	scherzare	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+19	vo	vo	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	20	aux	_	_
+20	disse	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+21	:Con	:Con	PROPN	SP	_	20	nsubj	_	_
+22	questo...	questo.	PUNCT	FS	_	20	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4VWRRPp8k
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4VWRRPp8k	fb.me/4VWRRPp8k	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

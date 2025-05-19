@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fonderanno coperative che si occuperanno di integrazione presiedute da compagni meritevoli sovvenzionate dallo stato https:// twitter.com/intuslegens/st atus/719104108544835585 …
+1	Fonderanno	Fonderanno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	coperative	coperativo	ADJ	A	Gender=Fem|Number=Plur	19	xcomp	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	occuperanno	occupare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	integrazione	integrazione	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+8	presiedute	presiedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	compagni	compagno	NOUN	S	Gender=Masc|Number=Plur	8	obl:agent	_	_
+11	meritevoli	meritevole	ADJ	A	Number=Plur	10	amod	_	_
+12	sovvenzionate	sovvenzionare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+13-14	dallo	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	stato	stato	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	_
+16	https:	https:	PUNCT	FC	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	2	punct	_	_
+19	twitter.com/intuslegens/st	twitter.com/intuslegens/st	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+20	atus/719104108544835585	atus/719104108544835585	NUM	N	NumType=Card	19	nummod	_	_
+21	…	…	PUNCT	FF	_	19	punct	_	SpacesAfter=\n
+

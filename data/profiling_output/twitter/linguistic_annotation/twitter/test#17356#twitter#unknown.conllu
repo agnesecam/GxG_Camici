@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La più bella definizione di #Quaresima l'ho avuta oggi ... Quaresima è il tempo per sognare
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+2	più	più	ADV	B	_	3	advmod	_	_
+3	bella	bello	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	definizione	definizione	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	#Quaresima	#quaresima	PROPN	SP	_	4	nmod	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	acl	_	_
+10	oggi	oggi	ADV	B	_	9	advmod	_	_
+11	...	...	PUNCT	FF	_	9	punct	_	_
+12	Quaresima	Quaresimo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	15	nsubj	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+16	per	per	ADP	E	_	17	mark	_	_
+17	sognare	sognare	VERB	V	VerbForm=Inf	15	acl	_	SpacesAfter=\n
+

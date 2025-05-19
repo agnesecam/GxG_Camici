@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oh mamacita #Panama dov'è/ ora che siamo in mare/sull'orizzonte ottico non c'è/si dovrà pur vedere http://www.
+1	Oh	oh	INTJ	I	_	2	discourse	_	_
+2	mamacita	mamacita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	Panama	Panama	PROPN	SP	_	12	nsubj	_	_
+5	dov'	dove	ADV	B	_	12	advmod	_	SpaceAfter=No
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	_
+8	ora	ora	ADV	B	_	12	advmod	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	mare	mare	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14-15	sull'	_	_	_	_	_	_	_	SpaceAfter=No
+14	su	su	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	orizzonte	orizzonte	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+17	ottico	ottico	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+18	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+19	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	20	expl	_	SpaceAfter=No
+20	è/si	è/so	ADJ	A	Gender=Masc|Number=Plur	2	conj	_	_
+21	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	aux	_	_
+22	pur	pure	ADV	B	_	23	advmod	_	_
+23	vedere	vedere	VERB	V	VerbForm=Inf	20	advcl	_	_
+24	http://www	http://www	NOUN	S	_	23	obj	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	23	punct	_	_
+
+# sent_id = 2
+# text = ansa.it/sito/notizie/m ondo/2016/04/03/scheda-panama-papers-i-numeri-della-mega-fuga-di-notizie_f004736f-d515-40c9-9b60-716d3c830813.html …
+1	ansa.it/sito/notizie/m	ansa.it/sito/notizie/m	NOUN	S	Gender=Masc	0	root	_	_
+2	ondo/2016/	ondo/2016/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	04	04	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+4	/03	/03	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	scheda-panama-papers	scheda-panama-paper	NOUN	S	Gender=Fem	1	nmod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	SpaceAfter=No
+9	-numeri	-numero	NOUN	S	Gender=Masc|Number=Plur	1	appos	_	SpaceAfter=No
+10	-della-mega	-della-mega	NOUN	S	Gender=Masc	9	compound	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	fuga-di	fuga-do	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	notizie_f004736f-d515-40c9-9b60-716d3c830813.html	notizie_f004736f-d515-40c9-9b60-716d3c830813.html	NOUN	S	Gender=Masc|Number=Sing	12	compound	_	_
+15	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

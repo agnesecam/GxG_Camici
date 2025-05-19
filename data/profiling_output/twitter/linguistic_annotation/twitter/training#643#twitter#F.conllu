@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Credevo avessimo toccato il fondo con #ilbossdellecerimonie ma #ilbossdeiprediciottesimi lo batte a mani basse.
+1	Credevo	Credevo	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	toccato	toccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	#ilbossdellecerimonie	#ilbossdellecerimonia	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+8	ma	ma	CCONJ	CC	_	11	cc	_	_
+9	#ilbossdeiprediciottesimi	#ilbossdeiprediciottesimo	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+10	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	batte	batta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	mani	mano	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+14	basse	basso	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/TrgHVaalpH
+1	pic.twitter.com/TrgHVaalpH	pic.twitter.com/trghvaalph	ADV	B	_	0	root	_	SpacesAfter=\n
+

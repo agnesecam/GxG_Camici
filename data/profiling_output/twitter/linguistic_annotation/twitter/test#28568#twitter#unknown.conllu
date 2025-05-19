@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iLRossoner0 @Ibra_official ricordo di quando si diceva che una volta partito saremmo tornati a giocare a calcio.
+1	@iLRossoner0	@iLRossoner0	PROPN	SP	_	0	root	_	_
+2	@Ibra_official	@Ibra_official	PROPN	SP	_	1	flat:name	_	_
+3	ricordo	ricordare	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	di	di	ADP	E	_	7	mark	_	_
+5	quando	quando	SCONJ	CS	_	4	fixed	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+7	diceva	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+8	che	che	SCONJ	CS	_	13	mark	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	volta	volta	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+11	partito	partito	NOUN	S	Gender=Masc|Number=Sing	10	compound	_	_
+12	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	tornati	tornare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	ccomp	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	giocare	giocare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	calcio.	calcio.	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

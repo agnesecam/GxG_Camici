@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non capirò mai questa mania di invitare in TV ogni volta il top del top dello squallore umano, come se non avessimo altro.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	capirò	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mai	mai	ADV	B	_	2	advmod	_	_
+4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	mania	mania	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	invitare	invitare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	TV	TV	PROPN	SP	_	7	obl	_	_
+10	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	11	det	_	_
+11	volta	volta	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	top	top	NOUN	S	Gender=Masc	7	obj	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	top	top	NOUN	S	Gender=Masc	13	nmod	_	_
+17-18	dello	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	squallore	squallore	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+20	umano	umano	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	2	punct	_	_
+22	come	come	ADV	B	_	26	advmod	_	_
+23	se	se	SCONJ	CS	_	26	mark	_	_
+24	non	non	ADV	BN	PronType=Neg	26	advmod	_	_
+25	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	26	cop	_	_
+26	altro	altro	ADJ	A	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #Riina
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Riina	Riina	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

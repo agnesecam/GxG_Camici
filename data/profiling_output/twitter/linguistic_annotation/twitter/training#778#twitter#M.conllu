@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @edmond644 @ilsussidiario Sarebbe vero se li avessimo eletti ma, non avendolo fatto, "altri" se li meritano.
+1	@edmond644	@edmond644	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	@ilsussidiario	@ilsussidiario	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	Sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	eletti	eleggere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	ma	ma	CCONJ	CC	_	13	cc	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	avendolo	avendolare	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	altri	altro	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	16	punct	_	_
+18	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+19	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	obj	_	_
+20	meritano	meritare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @danmari83 eppure se non avessimo fatto un secondo tempo indegno il 3 posto era fattibile.Dopo un ottavo posto e rispettando vincoli FFP
+1	@danmari83	@danmari83	NUM	N	NumType=Card	15	nummod	_	_
+2	eppure	eppure	CCONJ	CC	_	10	cc	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux:pass	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+10	indegno	indegno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	3	3	NUM	N	NumType=Card	13	nummod	_	_
+13	posto	posto	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+15	fattibile.Dopo	fattibile.Dopo	PROPN	SP	_	18	nsubj	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	ottavo	ottavo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	_
+18	posto	posto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	rispettando	rispettare	VERB	V	VerbForm=Ger	18	conj	_	_
+21	vincoli	vincolo	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	_
+22	FFP	FFP	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

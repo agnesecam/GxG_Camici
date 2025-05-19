@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In #Colombia la Corte costituzionale dà il via libera al #matrimonio egualitario, ma la legge dovrà farla il parlamento #gay #omosessuali
+1	In	in	ADP	E	_	2	case	_	_
+2	#Colombia	#Colombia	PROPN	SP	_	6	obl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Corte	corte	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	costituzionale	costituzionale	ADJ	A	Number=Sing	4	amod	_	_
+6	dà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	via	via	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	libera	libero	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	#matrimonio	#matrimonio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+13	egualitario	egualitario	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	19	punct	_	_
+15	ma	ma	CCONJ	CC	_	19	cc	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	legge	legge	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+18	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	aux	_	_
+19-20	farla	_	_	_	_	_	_	_	_
+19	far	fare	VERB	V	VerbForm=Inf	6	conj	_	_
+20	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	parlamento	parlamento	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+23	#gay	#gay	CCONJ	CC	_	24	cc	_	_
+24	#omosessuali	#omosessuale	NOUN	S	Gender=Masc|Number=Plur	22	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il governatore del Nord Carolina non è stato capace di citare neppure un nome di un'azienda che vorrebbe la su... http:// tinyurl.com/hylcudf
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	governatore	governatore	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Nord	Nord	PROPN	SP	_	2	nmod	_	_
+6	Carolina	Carolina	PROPN	SP	_	5	flat:name	_	_
+7	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
+10	capace	capace	ADJ	A	Number=Sing	26	nsubj	_	_
+11	di	di	ADP	E	_	12	mark	_	_
+12	citare	citare	VERB	V	VerbForm=Inf	10	advcl	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	nome	nome	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	azienda	azienda	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+19	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+20	vorrebbe	volere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	su...	su...	NOUN	S	_	20	obj	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	tinyurl.com/hylcudf	tinyurl.com/hylcudf	ADP	E	_	0	root	_	SpacesAfter=\n
+

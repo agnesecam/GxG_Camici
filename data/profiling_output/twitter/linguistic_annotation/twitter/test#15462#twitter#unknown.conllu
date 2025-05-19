@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CostanzaFinocc2
+1	@CostanzaFinocc2	@CostanzaFinocc2	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = Io mi associo a te , farei la stessa cosa.Il 17 ricordati di andare a votare per il Referendum.E'importante...
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	associo	associare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	cosa.Il	cosa.Il	PROPN	SP	_	12	nsubj	_	_
+11	17	17	NUM	N	NumType=Card	10	nummod	_	_
+12-13	ricordati	_	_	_	_	_	_	_	_
+12	ricorda	ricordare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	expl	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15	andare	andare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	votare	votare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20-21	Referendum.E'	_	_	_	_	_	_	_	SpaceAfter=No
+20	Referendum.i	Referendum.i	PROPN	SP	_	17	obl	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	importante..	importante..	NOUN	S	_	17	obj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

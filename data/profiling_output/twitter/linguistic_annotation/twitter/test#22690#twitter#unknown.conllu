@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ama chi odi ed avrai amore.
+1	Ama	amare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	obj	_	_
+3	odi	odare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	ed	e	CCONJ	CC	_	5	cc	_	_
+5	avrai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	3	conj	_	_
+6	amore	amore	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/b9E91E5GwO
+1	pic.twitter.com/b9E91E5GwO	pic.twitter.com/b9e91e5gwo	ADV	B	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MatteoBoneschi @andben75 @michele020776 Prandelli, a Firenze, faceva bellissimo calcio
+1	@MatteoBoneschi	@MatteoBonesco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	_
+2	@andben75	@andben75	NUM	N	NumType=Card	4	nummod	_	_
+3	@michele020776	@michele020776	NUM	N	NumType=Card	4	nummod	_	_
+4	Prandelli	Prandelli	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	Firenze	Firenze	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	11	amod	_	_
+11	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpacesAfter=\n
+

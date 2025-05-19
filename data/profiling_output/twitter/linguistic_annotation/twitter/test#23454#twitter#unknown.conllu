@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = egli segna la conclusione dell'Antico Testamento e in lui i grandi patriarchi e i profeti conseguono il frutto promesso
+1	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	segna	segnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	conclusione	conclusione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5-6	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+5	di	di	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	Antico	Antico	PROPN	SP	_	4	nmod	_	_
+8	Testamento	Testamento	PROPN	SP	_	7	flat:name	_	_
+9	e	e	CCONJ	CC	_	14	cc	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	grandi	grande	ADJ	A	Number=Plur	14	amod	_	_
+14	patriarchi	patriarco	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	profeti	profeto	NOUN	S	Gender=Masc|Number=Plur	18	nsubj	_	_
+18	conseguono	conseguire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	frutto	frutto	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+21	promesso	promesso	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	SpacesAfter=\n
+

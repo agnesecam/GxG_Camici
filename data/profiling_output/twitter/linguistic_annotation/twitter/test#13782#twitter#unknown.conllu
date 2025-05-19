@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La tua collera dice tutto.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	collera	collera	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Sei sempre uno di noi.
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	sempre	sempre	ADV	B	_	3	advmod	_	_
+3	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ce la faremo a coronare quel sogno Pepe...
+1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	coronare	coronare	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	Pepe...	Pepe...	PROPN	SP	_	7	nmod	_	_
+
+# sent_id = 4
+# text = @PReina25
+1	@PReina25	@PReina25	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

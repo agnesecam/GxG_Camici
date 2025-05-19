@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sissiisissi2 Infatti e si lamenta anche,l' avessimo noi,questa fortuna, come c'e' l ha lei
+1	@sissiisissi2	@sissiisissi2	NUM	N	NumType=Card	2	nummod	_	_
+2	Infatti	infatti	PROPN	SP	_	5	nsubj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	lamenta	lamentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	anche,l'	anche,lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	avessimo	avessimo	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14-15	c'e'	_	_	_	_	_	_	_	_
+14	c'i	c'o	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	l	l	NOUN	S	Gender=Masc	17	nsubj	_	_
+17	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+18	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	obj	_	SpacesAfter=\n
+

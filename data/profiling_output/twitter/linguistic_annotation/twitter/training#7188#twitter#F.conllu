@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I diritti in secondo piano e con essi il rispetto delle persone #Piazzapulita #Rodota
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	piano	piano	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	conj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	rispetto	rispetto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+11-12	delle	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	persone	persona	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+14	#Piazzapulita	#Piazzapulito	PROPN	SP	_	13	nmod	_	_
+15	#Rodota	#Rodota	PROPN	SP	_	14	flat:name	_	SpacesAfter=\n
+

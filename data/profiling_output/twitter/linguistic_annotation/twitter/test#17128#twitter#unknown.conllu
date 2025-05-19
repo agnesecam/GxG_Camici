@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @XXX77UD @matteosalvinimi e voi non aspettate altro vero?
+1	@XXX77UD	@xxx77ud	NOUN	S	_	0	root	_	_
+2	@matteosalvinimi	@matteosalvinimo	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	aspettate	aspettare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	_
+8	vero	vero	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E poicche fareste ?
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	poicche	poicca	ADV	B	_	3	advmod	_	_
+3	fareste	faresto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Guerra?
+1	Guerra	Guerra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Madonna mia quanta ignoranza
+1	Madonna	Madonna	PROPN	SP	_	4	nmod	_	_
+2	mia	mio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	1	flat:name	_	_
+3	quanta	quanto	DET	DQ	Gender=Fem|Number=Sing|PronType=Int	4	det	_	_
+4	ignoranza	ignoranza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

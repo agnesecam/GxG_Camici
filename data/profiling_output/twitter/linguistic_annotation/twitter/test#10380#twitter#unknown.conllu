@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Prof_Sconvolto Se avvertiva lo accoglievano assai calorosamente!
+1	@Prof_Sconvolto	@Prof_Sconvolto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	Se	se	SCONJ	CS	_	3	mark	_	_
+3	avvertiva	avvertire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	accoglievano	accogliere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+6	assai	assai	ADV	B	_	7	advmod	_	_
+7	calorosamente	calorosamente	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Lo ha fatto solo per far credere di non temere le proteste.
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	solo	solo	ADV	B	_	6	advmod	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	far	fare	VERB	V	VerbForm=Inf	3	advcl	_	_
+7	credere	credere	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	di	di	ADP	E	_	10	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	temere	temere	VERB	V	VerbForm=Inf	7	xcomp	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	proteste	protesta	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

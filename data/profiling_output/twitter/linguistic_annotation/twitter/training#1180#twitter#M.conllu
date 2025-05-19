@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Direttore del Tunnel del Monte Bianco licenziato per tasso alcolico fuori dalla norma.
+1	Direttore	Direttora	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Tunnel	tunnel	PROPN	SP	_	1	nmod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Monte	monte	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	Bianco	Bianco	PROPN	SP	_	7	nmod	_	_
+9	licenziato	licenziare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	tasso	tasso	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+12	alcolico	alcolico	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	fuori	fuori	ADV	B	_	9	advmod	_	_
+14-15	dalla	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	norma	norma	NOUN	S	Gender=Fem|Number=Sing	9	obl:agent	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E' stato sorpreso a rincorrere dei neutrini.
+1	E'	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	aux:pass	_	_
+3	sorpreso	sorprendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	rincorrere	rincorrere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	neutrini	neutrino	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

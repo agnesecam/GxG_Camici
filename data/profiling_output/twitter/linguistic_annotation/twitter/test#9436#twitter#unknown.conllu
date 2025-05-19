@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @repubblicait voi ci scherzate, ma è grave!
+1	@repubblicait	@repubblicait	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	scherzate	scherzare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	grave	grave	ADJ	A	Number=Sing	1	conj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cioè , questo percepisce uno stipendio (e che stipendio!
+1	Cioè	cioè	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+4	percepisce	percepiscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	stipendio	stipendio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	che	che	DET	DQ	PronType=Int	10	det	_	_
+10	stipendio	stipendiare	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!!) pagato da noi.
+1	!!!	!!!	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	_
+3	pagato	pagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = Mi fa ribrezzo.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ribrezzo	ribrezzo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

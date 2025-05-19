@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MatteoPogliani @AnnettePalmieri @social_muffin Ehhhh ma io sono zia dentro e fuori
+1	@MatteoPogliani	@MatteoPogliani	PROPN	SP	_	9	nsubj	_	_
+2	@AnnettePalmieri	@AnnettePalmieri	PROPN	SP	_	1	flat:name	_	_
+3	@social_muffin	@social_muffin	ADP	E	_	4	case	_	_
+4	Ehhhh	Ehhhh	PROPN	SP	_	9	obl	_	_
+5	ma	ma	CCONJ	CC	_	9	cc	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	zia	ziare	ADV	B	_	9	advmod	_	_
+9	dentro	dentro	ADV	B	_	0	root	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	fuori	fuori	ADV	B	_	9	conj	_	SpacesAfter=\n
+

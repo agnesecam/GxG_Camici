@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come fare un Digital detox?
+1	Come	come	SCONJ	CS	_	2	mark	_	_
+2	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	Digital	digital	ADJ	A	_	5	amod	_	_
+5	detox	detox	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Usare i digital device, non farsi usare da essi _AnnaFata_ http://www.
+1	Usare	usare	VERB	V	VerbForm=Inf	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	digital	digital	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	device	device	ADJ	A	_	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7-8	farsi	_	_	_	_	_	_	_	_
+7	far	fare	VERB	V	VerbForm=Inf	1	conj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	usare	usare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+12	_AnnaFata_	_AnnaFata-	PROPN	SP	_	11	nmod	_	_
+13	http://www	http://www	NOUN	S	_	12	flat:name	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = armoniabenessere.it/?p=638
+1	armoniabenessere.it/?p=638	armoniabenessere.it/?p=638	NUM	N	NumType=Card	0	root	_	SpacesAfter=\n
+

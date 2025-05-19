@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = + bambine viziate.
+1	+	+	SYM	SYM	_	3	obl	_	_
+2	bambine	bambino	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	viziate	viziato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non è che se offendete Danielle siete fighe, anzi vi fa sembrare stupide e immature.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	12	mark	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	offendete	offendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+6	Danielle	Danielle	PROPN	SP	_	12	nsubj	_	_
+7	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	cop	_	_
+8	fighe	figa	DET	RD	Definite=Def|PronType=Art	12	det	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	anzi	anzi	ADV	B	_	12	advmod	_	_
+11	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	12	iobj	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+13	sembrare	sembrare	VERB	V	VerbForm=Inf	12	ccomp	_	_
+14	stupide	stupide	NOUN	S	Gender=Fem|Number=Plur	13	xcomp	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	immature	immatura	NOUN	S	Gender=Fem|Number=Plur	14	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

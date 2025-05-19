@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Potrebbe aspettare che qualcuno la ricucia, ma sa che nessuno lo farà .
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	aspettare	aspettare	VERB	V	VerbForm=Inf	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	ccomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ricucia	ricucia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	ma	ma	CCONJ	CC	_	10	cc	_	_
+10	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	che	che	SCONJ	CS	_	14	mark	_	_
+12	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	ccomp	_	_
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Deve prendere ago e filo e ricucirsi da sola".
+1	Deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	prendere	prendere	VERB	V	VerbForm=Inf	0	root	_	_
+3	ago	ago	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	filo	filo	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7-8	ricucirsi	_	_	_	_	_	_	_	_
+7	ricucir	ricucire	VERB	V	VerbForm=Inf	2	conj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	sola	solo	ADJ	A	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = (Chuck Palahniuk)
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Chuck	Chuck	PROPN	SP	_	0	root	_	_
+3	Palahniuk	Palahniuk	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	2	punct	_	SpacesAfter=\n
+

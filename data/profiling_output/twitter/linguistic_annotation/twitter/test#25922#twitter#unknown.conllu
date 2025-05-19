@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Funzione dei #libri nell’origine dell’ #amore .
+1	Funzione	funzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2-3	dei	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	#libri	#libro	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5-6	nell’	_	_	_	_	_	_	_	SpaceAfter=No
+5	in	in	ADP	E	_	7	case	_	_
+6	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	origine	origine	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+8-9	dell’	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	#amore	#amore	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = [Si ama perché si sono avuti dei libri.] #amoriiniziatidaunlibro http://www.
+1	[	[	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	ama	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	perché	perché	SCONJ	CS	_	7	mark	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+6	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	libri.	libri.	NOUN	S	_	7	obl	_	SpaceAfter=No
+11	]	]	PUNCT	FB	_	10	punct	_	_
+12	#amoriiniziatidaunlibro	#amoriiniziatidaunlibro	ADP	E	_	13	case	_	_
+13	http://www	http://www	NOUN	S	_	7	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = doppiozero.com/materiali/bart hes100/i-libri …
+1	doppiozero.com/materiali/bart	doppiozero.com/materiali/bart	ADV	B	_	6	advmod	_	_
+2	hes100	hes100	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	libri	libro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

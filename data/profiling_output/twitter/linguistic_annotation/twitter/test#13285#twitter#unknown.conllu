@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AMIN1908 purtroppo è il più irraggiungibile di quelli in campo :) da seguire ce ne sono davvero parecchi :Milik, klaseen, willems, Bruma ecc
+1	@AMIN1908	@AMIN1908	PROPN	SP	_	6	nsubj	_	_
+2	purtroppo	purtroppo	ADV	B	_	6	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	irraggiungibile	irraggiungibile	ADJ	A	Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	6	obl	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	campo	campo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+11	:	:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	6	punct	_	_
+13	da	da	ADP	E	_	14	mark	_	_
+14	seguire	seguire	VERB	V	VerbForm=Inf	6	advcl	_	_
+15	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	14	iobj	_	_
+17	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	davvero	davvero	ADV	B	_	19	advmod	_	_
+19	parecchi	parecchio	ADJ	A	Gender=Masc|Number=Plur	6	conj	_	_
+20	:Milik	:Milik	PROPN	SP	_	19	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	22	punct	_	_
+22	klaseen	klaseen	INTJ	I	_	6	conj	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	24	punct	_	_
+24	willems	willems	PROPN	SW	Foreign=Yes	22	conj	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	26	punct	_	_
+26	Bruma	Bruma	PROPN	SP	_	22	conj	_	_
+27	ecc	eccetera	ADV	B	_	6	advmod	_	SpacesAfter=\n
+

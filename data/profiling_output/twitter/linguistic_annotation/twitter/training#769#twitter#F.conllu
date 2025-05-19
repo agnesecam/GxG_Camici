@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo davvero occhi per vedere vedremmo gioia invece dei nostri bisogni doloranti (Esercizio Principe -... http:// fb.me/51DKy35IN
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+3	davvero	davvero	ADV	B	_	2	advmod	_	_
+4	occhi	occo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	vedere	vedere	VERB	V	VerbForm=Inf	7	advcl	_	_
+7	vedremmo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	gioia	gioiare	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9	invece	invece	ADV	B	_	7	advmod	_	_
+10-11	dei	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	13	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	bisogni	bisogno	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+14	doloranti	dolorante	ADV	B	_	7	advmod	_	_
+15	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	Esercizio	esercizio	PROPN	SP	_	7	obl	_	_
+17	Principe	Principe	PROPN	SP	_	16	flat:name	_	_
+18	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	...	...	PUNCT	FF	_	16	punct	_	_
+20	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	16	punct	_	_
+23	fb.me/51DKy35IN	fb.me/51DKy35IN	PROPN	SP	_	7	obj	_	SpacesAfter=\n
+

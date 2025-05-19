@@ -1,0 +1,61 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = c'è qualcuna che ti piace?
+1	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
+6	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = — Attualmente no Ripeto per l'ennesima volta la domanda.
+1	—	—	PUNCT	FF	_	4	punct	_	_
+2	Attualmente	attualmente	ADV	B	_	4	advmod	_	_
+3	no	no	ADV	BN	PronType=Neg	4	advmod	_	_
+4	Ripeto	ripetere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	per	per	ADP	E	_	8	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+7	ennesima	ennesimo	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	volta	volta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	domanda.	domanda.	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = C'è modo di sapere chi sei?
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	modo	modo	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	sapere	sapere	VERB	V	VerbForm=Inf	3	acl	_	_
+6	chi	chi	PRON	PR	Number=Sing|PronType=Rel	5	obj	_	_
+7	sei	sei	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM6GODBKAI
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+5	7B667HQMHN2IG6NM6GODBKAI	7B667HQMHN2IG6NM6GODBKAI	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+
+# sent_id = 6
+# text = RX
+1	RX	RX	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 7
+# text = G4FW77D7SLNZN62UYY2Z2MFJFMYQZRL2Z7UFIEJQUH4DB7YEV7M2V
+1	G4FW77D7SLNZN62UYY2Z2MFJFMYQZRL2Z7UFIEJQUH4DB7YEV7M2V	G4FW77D7SLNZN62UYY2Z2MFJFMYQZRL2Z7UFIEJQUH4DB7YEV7M2V	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 8
+# text = ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY= …
+1	ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY=	ONS5LPBR5UUARBEY3C53DWGP5B6MTGOHPZS2PFWD7SCSMUBQC2TTHDFMILWLAES3NVXGHNYUKYTFGLYDTQOPPYP7SFZZWHX6M6NPKJ47XTQI72VY=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

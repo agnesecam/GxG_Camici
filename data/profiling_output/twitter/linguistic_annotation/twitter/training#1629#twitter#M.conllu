@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo mette a posto le nostre coscienze @zazzatweet #Karlsson #Ibrahimovic https:// twitter.com/zazzatweet/sta tus/718501215408123905 …
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	posto	posto	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	coscienze	coscienza	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+8	@zazzatweet	@zazzatwee	SYM	X	_	11	nmod	_	_
+9	#Karlsson	#Karlsson	PROPN	SP	_	8	flat:name	_	_
+10	#	#	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	Ibrahimovic	Ibrahimovic	PROPN	SP	_	15	nsubj	_	_
+12	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	_
+15	twitter.com/zazzatweet/sta	twitter.com/zazzatweet/stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	tus/718501215408123905	tus/718501215408123905	NUM	N	NumType=Card	15	nummod	_	_
+17	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

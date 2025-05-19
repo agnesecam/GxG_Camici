@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RadioR101 @Paolo_Dini @CriMilitello @lesterR101 il trio delle meraviglie.
+1	@RadioR101	@RadioR101	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@Paolo_Dini	@Paolo_Dini	PROPN	SP	_	0	root	_	_
+3	@CriMilitello	@CriMilitello	PROPN	SP	_	2	flat:name	_	_
+4	@lesterR101	@lesterR101	PROPN	SP	_	2	flat:name	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	trio	trio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7-8	delle	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	meraviglie.	meraviglie.	NOUN	S	_	6	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...l' avessimo avuto in campo ieri sera avremmo asfaltato il Bayer!
+1	...l'	...lo	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	campo	campo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+6	ieri	ieri	ADV	B	_	9	advmod	_	_
+7	sera	sera	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+8	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	asfaltato	asfaltare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Bayer	Bayer	PROPN	SP	_	9	obj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

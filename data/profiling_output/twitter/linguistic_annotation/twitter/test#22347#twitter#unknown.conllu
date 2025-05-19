@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @michele_bravi Michele oggi è il mio compleanno mi farebbe piacere se mi facessi gli auguri
+1	@michele_bravi	@michele_bravo	ADV	B	_	2	advmod	_	_
+2	Michele	Michele	PROPN	SP	_	9	nsubj	_	_
+3	oggi	oggi	ADV	B	_	7	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	farebbe	fare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	piacere	piacere	NOUN	S	Gender=Masc|Number=Sing	9	xcomp	_	_
+11	se	se	SCONJ	CS	_	13	mark	_	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+13	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	SpacesAfter=\n
+

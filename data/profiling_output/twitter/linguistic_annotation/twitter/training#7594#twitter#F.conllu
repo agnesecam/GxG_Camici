@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = -io esisto -tu esisti -he/she/it esiste -noi esistiamo -voi esistete - essi esistono
+1	-io	-io	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	esisto	esisto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+3	-tu	-tu	ADP	E	_	4	case	_	_
+4	esisti	esista	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+5	-he	-o	DET	RD	Definite=Def|PronType=Art	7	det	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	she/it	she/it	NOUN	S	Gender=Masc	4	nmod	_	_
+8	esiste	esista	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+9	-noi	-noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+10	esistiamo	esistere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	_
+13	esistete	esistere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
+14	-	-	PUNCT	FB	_	13	punct	_	_
+15	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+16	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @oloapmarchi @AlajmoBros @Corriere pensa che insurrezione se avessero scritto la stessa cosa relativamente a primati calcistici
+1	@oloapmarchi	@oloapmarco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@AlajmoBros	@AlajmoBros	PROPN	SP	_	4	nsubj	_	_
+3	@Corriere	@Corriere	PROPN	SP	_	2	flat:name	_	_
+4	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	insurrezione	insurrezione	NOUN	S	Gender=Fem|Number=Sing	4	ccomp	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+12	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+13	relativamente	relativamente	ADV	B	_	16	case	_	_
+14	a	a	ADP	E	_	13	fixed	_	_
+15	primati	primato	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	_
+16	calcistici	calcistico	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpacesAfter=\n
+

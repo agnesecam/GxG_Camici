@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @casadasburgo farei notare che i"Federati"che fecero insorgere la Cittadella di Alessandria erano rivoluzionari liberali x l'unità nazionale
+1	@casadasburgo	@casadasburgo	ADV	B	_	2	advmod	_	_
+2	farei	fare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	notare	notare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	che	che	SCONJ	CS	_	17	mark	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	Federati	Federati	PROPN	SP	_	17	nsubj	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
+11	insorgere	insorgere	VERB	V	VerbForm=Inf	10	xcomp	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Cittadella	cittadella	PROPN	SP	_	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Alessandria	Alessandria	PROPN	SP	_	13	nmod	_	_
+16	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+17	rivoluzionari	rivoluzionario	ADJ	A	Gender=Masc|Number=Plur	3	ccomp	_	_
+18	liberali	liberale	ADJ	A	Number=Plur	19	amod	_	_
+19	x	x	SYM	SYM	_	21	nmod	_	_
+20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
+21	unità	unità	NOUN	S	Gender=Fem	17	nsubj	_	_
+22	nazionale	nazionale	ADJ	A	Number=Sing	21	amod	_	SpacesAfter=\n
+

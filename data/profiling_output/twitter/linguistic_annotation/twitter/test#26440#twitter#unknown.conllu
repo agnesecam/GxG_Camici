@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avremo esagerato ieri sera con una caraffa di invisibile in 2?!
+1	Avremo	avere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	2	aux	_	_
+2	esagerato	esagerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	ieri	ieri	ADV	B	_	2	advmod	_	_
+4	sera	sera	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	caraffa	caraffa	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	invisibile	invisibile	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	2	2	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

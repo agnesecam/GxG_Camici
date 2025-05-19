@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @annabarbararosa @reportrai3 no.A Genova hanno chiuso area a caldo perché inquinava!
+1	@annabarbararosa	@annabarbararosa	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+2	@reportrai3	@reportrai3	NUM	N	NumType=Card	3	nummod	_	_
+3	no.A	no.A	PROPN	SP	_	1	nmod	_	_
+4	Genova	Genova	PROPN	SP	_	3	flat:name	_	_
+5	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	chiuso	chiudere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	area	area	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	caldo	caldo	ADJ	A	Gender=Masc|Number=Sing	6	obl	_	_
+10	perché	perché	SCONJ	CS	_	11	mark	_	_
+11	inquinava	inquinavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Perché non farlo a Taranto?
+1	Perché	perché	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3-4	farlo	_	_	_	_	_	_	_	_
+3	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Taranto	Taranto	PROPN	SP	_	3	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = Cittadini di serie A e B..
+1	Cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	serie	serie	NOUN	S	Gender=Fem	1	nmod	_	_
+4	A	A	PROPN	SP	_	3	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	B.	B.	PROPN	SP	_	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

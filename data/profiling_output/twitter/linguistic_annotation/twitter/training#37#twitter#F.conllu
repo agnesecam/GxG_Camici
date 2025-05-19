@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DSportiva date notizia della conquista della coppa campioni femminile di pallavolo all'1 di notte?
+1	@DSportiva	@DSportivo	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	date	dare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4-5	della	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	conquista	conquista	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	coppa	coppa	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	campioni	campione	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+11	femminile	femminile	ADJ	A	Number=Sing	10	amod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	pallavolo	pallavolo	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+14-15	all'	_	_	_	_	_	_	_	SpaceAfter=No
+14	a	a	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	1	1	NUM	N	NumType=Card	2	obl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	notte	notte	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Perché non è calcio, perché femminile?
+1	Perché	perché	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	perché	perché	SCONJ	CS	_	7	mark	_	_
+7	femminile	femminile	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = «Di qualunque cosa le nostre anime siano fatte, la mia e la tua sono fatte della stessa cosa.» Emily Brontë pic.twitter.com/fGVf1ePP5L
+1	«	«	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+2	Di	di	ADP	E	_	4	case	_	_
+3	qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	anime	anima	NOUN	S	Gender=Fem|Number=Plur	9	nsubj:pass	_	_
+8	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
+9	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	acl:relcl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	mia	mio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	nsubj:pass	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	tua	tuo	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	conj	_	_
+16	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+17	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	24	acl	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	21	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	_
+21	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	17	punct	_	SpaceAfter=No
+23	»	»	PUNCT	FB	_	17	punct	_	SpacesAfter=\s\s\s
+24	Emily	Emily	PROPN	SP	_	0	root	_	_
+25	Brontë	Brontë	PROPN	SP	_	24	flat:name	_	_
+26	pic.twitter.com/fGVf1ePP5L	pic.twitter.com/fGVf1ePP5L	PROPN	SP	_	24	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io poi un giorno vorrei che chi governa (o commissaria) non denunciasse ma facesse #tuquoquecantone
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	poi	poi	ADV	B	_	4	advmod	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+5	vorrei	volere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	nsubj	_	_
+8	governa	governare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	o	o	CCONJ	CC	_	11	cc	_	_
+11	commissaria	commissaria	ADJ	A	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	11	punct	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	denunciasse	denunciarre	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+15	ma	ma	CCONJ	CC	_	16	cc	_	_
+16	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	conj	_	_
+17	#tuquoquecantone	#tuquoquecantone	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sfigatidss @andrewgabryele Buon giorno Amorrrr mamma sembri spaventato!!!
+1	@sfigatidss	@sfigatidss	NOUN	S	Gender=Masc	7	nsubj	_	_
+2	@andrewgabryele	@andrewgabryele	ADJ	A	Number=Sing	1	amod	_	_
+3	Buon	buon	PROPN	SP	_	1	nmod	_	_
+4	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+5	Amorrrr	Amorrrr	PROPN	SP	_	7	nsubj	_	_
+6	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	spaventato	spaventare	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+10	!!	!!	PUNCT	FF	_	7	punct	_	_
+
+# sent_id = 2
+# text = #pauratu in bocca al lupo per stasera
+1	#pauratu	#pauratu	NOUN	S	Gender=Masc	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	stasera	stasera	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpacesAfter=\n
+

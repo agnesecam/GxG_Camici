@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No ma davvero Alessia i tempi stringono!
+1	No	no	INTJ	I	Polarity=Neg	7	discourse	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	davvero	davvero	ADV	B	_	4	advmod	_	_
+4	Alessia	Alessia	PROPN	SP	_	7	obl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+7	stringono	stringere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ed io che pensavo che avessimo ancora 3 ore di diretta #isola
+1	Ed	e	CCONJ	CC	_	2	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	acl:relcl	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	cop	_	_
+7	ancora	ancora	ADV	B	_	8	advmod	_	_
+8	3	3	NUM	N	NumType=Card	9	nummod	_	_
+9	ore	ora	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	#isola	#isolo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpacesAfter=\n
+

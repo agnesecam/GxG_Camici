@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuno dovrà pur guardarla.
+1	Qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	pur	pure	ADV	B	_	4	advmod	_	_
+4	guardarla.	guardarla.	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = #EurosportSNOOKER
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	EurosportSNOOKER	EurosportSNOOKER	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

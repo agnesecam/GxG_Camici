@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Aspetto solo che facciano vedere il video in cui Stefano dice di usare Marco per buttare fuori Jonas perchè è sacrificabile.
+1	Aspetto	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	solo	solo	ADV	B	_	4	advmod	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	vedere	vedere	VERB	V	VerbForm=Inf	4	advcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	video	video	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	cui	cui	PRON	PR	PronType=Rel	11	obl	_	_
+10	Stefano	Stefano	PROPN	SP	_	11	nsubj	_	_
+11	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	usare	usare	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	Marco	Marco	PROPN	SP	_	13	obj	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	buttare	buttare	VERB	V	VerbForm=Inf	13	advcl	_	_
+17	fuori	fuori	ADV	B	_	18	advmod	_	_
+18	Jonas	Jonas	PROPN	SP	_	16	obj	_	_
+19	perchè	perché	SCONJ	CS	_	21	mark	_	_
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	sacrificabile	sacrificabile	ADJ	A	Number=Sing	16	advcl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #isola
+1	#isola	#isolo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

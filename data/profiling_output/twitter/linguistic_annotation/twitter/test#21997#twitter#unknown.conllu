@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giovani vite spezzate proprio mentre stavano mettendo le basi per il loro futuro.Il mio pensiero va alle loro famiglie distrutte...
+1	Giovani	giovane	ADJ	A	Number=Plur	2	amod	_	_
+2	vite	vito	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	_
+3	spezzate	spezzare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4	proprio	proprio	ADV	B	_	7	advmod	_	_
+5	mentre	mentre	SCONJ	CS	_	7	mark	_	_
+6	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	mettendo	mettere	VERB	V	VerbForm=Ger	3	advcl	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	basi	base	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
+10	per	per	ADP	E	_	13	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	loro	loro	DET	AP	Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	futuro.Il	futuro.Il	PROPN	SP	_	9	nmod	_	_
+14	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+16	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17-18	alle	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	20	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+19	loro	loro	DET	AP	Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	_
+21	distrutte...	distrutte.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = #Erasmus
+1	#Erasmus	#Erasmus	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

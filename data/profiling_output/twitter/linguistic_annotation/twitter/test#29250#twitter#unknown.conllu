@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In Cammino:
+1	In	in	ADP	E	_	2	case	_	_
+2	Cammino	cammino	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = ..
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #PANEQUOTIDIANO ..,Quando avrete innalzato il Figlio ... #Vangelodioggi ... http:// antoniobortoloso.blogspot.com/2016/03/pane-q uotidianoquando-avrete-innalzato.html?spref=tw …
+1	#PANEQUOTIDIANO	#PANEQUOTIDIANO	PROPN	SP	_	0	root	_	_
+2	..,	..,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	Quando	quando	SCONJ	CS	_	5	mark	_	_
+4	avrete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	innalzato	innalzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Figlio	figlio	PROPN	SP	_	5	obj	_	_
+8	...	...	PUNCT	FF	_	5	punct	_	_
+9	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	Vangelodioggi	Vangelodioggi	PROPN	SP	_	1	flat:name	_	_
+11	...	...	PUNCT	FF	_	10	punct	_	_
+12	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	10	punct	_	_
+15	antoniobortoloso.blogspot.com/2016/03/pane-q	antoniobortoloso.blogspot.com/2016/03/pane-q	NOUN	S	_	10	nmod	_	_
+16	uotidianoquando-avrete-innalzato.html	uotidianoquando-avrete-innalzato.html	ADJ	A	Number=Sing	15	amod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+18	spref=tw	spref=tw	NOUN	S	Gender=Masc	1	nmod	_	_
+19	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

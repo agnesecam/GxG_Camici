@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlexGoodyear89 io ero tutto un "WOW!" mentre lo guardavo XD + perché ci saranno parecchi collegamenti (vedi falcon che figo ) + BUCKYYY
+1	@AlexGoodyear89	@AlexGoodyear89	NUM	N	NumType=Card	7	nummod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+3	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+4	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	WOW!	Wow!	PROPN	SP	_	0	root	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	mentre	mentre	SCONJ	CS	_	16	mark	_	_
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	guardavo	guardavo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+12	XD	XD	PROPN	SP	_	11	nmod	_	_
+13	+	+	SYM	SYM	_	12	flat:name	_	_
+14	perché	perché	SCONJ	CS	_	16	mark	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	saranno	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	advcl	_	_
+17	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
+18	collegamenti	collegamento	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+19	(	(	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+21	falcon	falcon	ADP	E	_	23	case	_	_
+22	che	che	DET	DQ	PronType=Int	23	det	_	_
+23	figo	figo	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+24	)	)	PUNCT	FB	_	20	punct	_	_
+25	+	+	SYM	SYM	_	18	nmod	_	_
+26	BUCKYYY	Buckyyy	PROPN	SP	_	25	flat:name	_	SpacesAfter=\n
+

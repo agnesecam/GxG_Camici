@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi chiedo quale sarà il prezzo che dovrà pagare per aver osato scrivere questo...
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quale	quale	PRON	PQ	Number=Sing|PronType=Int	6	nsubj	_	_
+4	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	prezzo	prezzo	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	pagare	pagare	VERB	V	VerbForm=Inf	6	acl:relcl	_	_
+10	per	per	ADP	E	_	12	mark	_	_
+11	aver	avere	AUX	VA	VerbForm=Inf	12	aux	_	_
+12	osato	osare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+13	scrivere	scrivere	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14	questo..	questo	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Oltretutto è anche donna...!
+1	Oltretutto	Oltretutto	ADV	B	_	4	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	donna...	donna.	NOUN	S	_	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/VVZ7r4Ul
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/VVZ7r4Ul	fb.me/VVZ7r4Ul	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

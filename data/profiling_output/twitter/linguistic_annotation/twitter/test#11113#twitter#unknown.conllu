@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La logica vi porterà da A a B.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	logica	logica	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	porterà	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	A	a	PROPN	SP	_	4	obl	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	B	B	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = L'immaginazione vi porterà dappertutto . Albert Einstein #UniversoVersi #frasi pic.twitter.com/gEnhbY6dae
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	immaginazione	immaginazione	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	porterà	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	dappertutto	dappertutto	ADV	B	_	4	advmod	_	_
+6	.	.	PUNCT	FS	_	4	punct	_	_
+7	Albert	Albert	PROPN	SP	_	4	obj	_	_
+8	Einstein	Einstein	PROPN	SP	_	7	flat:name	_	_
+9-10	#UniversoVersi	_	_	_	_	_	_	_	_
+9	#Universover	#Universover	PROPN	SP	_	7	flat:name	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	#frasi	#franere	DET	DI	Number=Sing|PronType=Ind	12	det	_	_
+12	pic.twitter.com/gEnhbY6dae	pic.twitter.com/gEnhbY6dae	PROPN	SP	_	7	nmod	_	SpacesAfter=\n
+

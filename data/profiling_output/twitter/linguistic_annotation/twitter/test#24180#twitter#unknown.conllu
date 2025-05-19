@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TristeMietitore sono stati previdenti e gliene hanno fatto uno di taglia xl
+1	@TristeMietitore	@TristeMietitore	PROPN	SP	_	4	nsubj	_	_
+2	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	stati	essere	AUX	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	cop	_	_
+4	previdenti	previdere	ADJ	A	Number=Plur	8	nsubj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	gliene	glenere	ADJ	A	Gender=Fem|Number=Plur	4	conj	_	_
+7	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	taglia	taglia	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	xl	xl	ADJ	A	Number=Sing	11	amod	_	SpacesAfter=\n
+

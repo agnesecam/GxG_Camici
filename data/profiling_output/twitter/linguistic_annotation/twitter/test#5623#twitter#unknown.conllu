@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma davvero qualcuna se lo è sposato?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	davvero	davvero	ADV	B	_	3	advmod	_	_
+3	qualcuna	qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	sposato	sposare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @alinomilan
+1	@alinomilan	@alinomilan	ADV	B	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma come è possibile trovare un gioco se i raduni sono molto rari?
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	come	come	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	possibile	possibile	ADJ	A	Number=Sing	0	root	_	_
+5	trovare	trovare	VERB	V	VerbForm=Inf	4	csubj	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	se	se	SCONJ	CS	_	13	mark	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	raduni	raduno	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	molto	molto	ADV	B	_	13	advmod	_	_
+13	rari	raro	ADJ	A	Gender=Masc|Number=Plur	5	advcl	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Si dovrà insistere sempre sugli stessi nomi?
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	insistere	insistere	VERB	V	VerbForm=Inf	0	root	_	_
+4	sempre	sempre	ADV	B	_	3	advmod	_	_
+5-6	sugli	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	8	case	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+8	nomi	nome	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/RobertoRenga/s tatus/715071767107252224 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/RobertoRenga/s	twitter.com/RobertoRenga/s	PROPN	SP	_	0	root	_	_
+5	tatus/715071767107252224	tatus/715071767107252224	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non guardi Sanremo perché sono pagati troppo| allora spiegami cosa facevi allo stadio cantando in coro| ti vedo... http:// fb.me/7ddFVfNHc
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	guardi	guardare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Sanremo	Sanremo	PROPN	SP	_	2	obj	_	_
+4	perché	perché	SCONJ	CS	_	6	mark	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	pagati	pagare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+7	troppo|	troppo|	PROPN	SP	_	9	nsubj	_	_
+8	allora	allora	ADV	B	_	9	advmod	_	_
+9	spiegami	spiegamare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+10	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	11	obj	_	_
+11	facevi	faceve	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+12-13	allo	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15	cantando	cantare	VERB	V	VerbForm=Ger	11	advcl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	coro|	coro|	PROPN	SP	_	18	obl	_	_
+18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	obl	_	_
+19	vedo...	vedo.	PUNCT	FS	_	18	punct	_	_
+20	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	_
+23	fb.me/7ddFVfNHc	fb.me/7ddFVfNHc	PROPN	SP	_	15	obj	_	SpacesAfter=\n
+

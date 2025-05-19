@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Glover406P @littleduck33 @petergomezblog @soniabetz1 @fattoquotidiano VI FREGA, appunto.sempre piu simile alla DC,probabile dovrà esiliare
+1	@Glover406P	@Glover406P	NOUN	S	_	3	nmod	_	_
+2	@littleduck33	@littleduck33	NUM	N	NumType=Card	3	nummod	_	_
+3	@petergomezblog	@petergomezblog	NOUN	S	Gender=Fem	5	nsubj	_	_
+4	@soniabetz1	@soniabetz1	NUM	N	NumType=Card	3	nummod	_	_
+5	@fattoquotidiano	@fattoquotidiano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+6	VI	sesto	ADJ	NO	Number=Sing|NumType=Ord	7	amod	_	_
+7	FREGA	frega	PROPN	SP	_	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	appunto.sempre	appunto.sempre	ADV	B	_	11	advmod	_	_
+10	piu	piu	ADP	E	_	11	case	_	_
+11	simile	simile	ADJ	A	Number=Sing	5	obl	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	DC,probabile	DC,probabile	PROPN	SP	_	11	obl	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16	esiliare	esiliare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

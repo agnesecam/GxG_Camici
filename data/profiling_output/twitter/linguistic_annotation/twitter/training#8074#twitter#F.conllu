@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VodafoneIT non riesco più ad accedere al mio account e dunque all'area fai da te.
+1	@VodafoneIT	@VodafoneIT	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	3	advmod	_	_
+5	ad	a	ADP	E	_	6	mark	_	_
+6	accedere	accedere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	account	account	NOUN	S	_	6	obl	_	_
+11	e	e	CCONJ	CC	_	16	cc	_	_
+12	dunque	dunque	ADV	B	_	16	advmod	_	_
+13-14	all'	_	_	_	_	_	_	_	SpaceAfter=No
+13	a	a	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+15	area	area	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+16	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	conj	_	_
+17	da	da	ADP	E	_	18	case	_	_
+18	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se richiedo le credenziali la mail non mi arriva.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	richiedo	richiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	credenziali	credenziale	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mail	mail	NOUN	S	Number=Sing	9	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	arriva	arrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

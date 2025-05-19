@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = renzi e pinocchio che differenza c'è tra loro due???
+1	renzi	renzi	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	pinocchio	pinocchio	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+5	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+8	tra	tra	ADP	E	_	10	case	_	_
+9	loro	loro	DET	AP	Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	due	due	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = NESSUNA ! http://www.
+1	NESSUNA	nessuno	PROPN	SP	_	0	root	_	_
+2	!	!	PUNCT	FF	_	1	punct	_	_
+3	http://www	http://www	NOUN	S	_	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = ilfattoquotidiano.it/2016/04/06/nap oli-scontri-polizia-manifestanti-al-corteo-contro-renzi-sul-caso-bagnoli/2613058/ …
+1	ilfattoquotidiano.it/2016/04/06/nap	ilfattoquotidiano.it/2016/04/06/nap	NOUN	S	_	0	root	_	_
+2	oli-scontri	oli-scontro	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
+3	-polizia-manifestanti-al-	_	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	corteo	corteo	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	contro	contro	ADV	B	_	4	advmod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	renzi-sul-	_	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+9	caso	caso	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	bagnoli/2613058	bagnoli/2613058	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	_
+13	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

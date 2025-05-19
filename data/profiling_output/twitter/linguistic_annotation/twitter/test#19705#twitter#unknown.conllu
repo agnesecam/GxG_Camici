@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonellaBanni se era un peccato invece.
+1	@AntonellaBanni	@AntonellaBanno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	peccato	peccato	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	invece.	invece.	NOUN	S	Gender=Masc|Number=Sing	1	advcl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....ti ci facevi il bagno nella nutella:-):-):-)
+1	....ti	....to	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	obj	_	_
+3	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bagno	bagno	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6-7	nella	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	nutella	nutella	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

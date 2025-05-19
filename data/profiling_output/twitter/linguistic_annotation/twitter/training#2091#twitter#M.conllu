@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AntonellaGramig @luigidimaio @matteorenzi sei schiava del sistema.
+1	@AntonellaGramig	@AntonellaGramig	SYM	X	_	5	nsubj	_	_
+2	@luigidimaio	@luigidimaio	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+3	@matteorenzi	@matteorenzi	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	2	amod	_	_
+4	sei	essere	NUM	N	NumType=Card	2	nummod	_	_
+5	schiava	schiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sistema.	sistema.	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ci sei dentro e con tutti sti vitalizi come fai ad uscirne.
+1	..ci	..co	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+3	dentro	dentro	ADV	B	_	8	advmod	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	sti	sto	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+8	vitalizi	vitalizio	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	come	come	SCONJ	CS	_	10	mark	_	_
+10	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+11	ad	a	ADP	E	_	12	case	_	_
+12	uscirne.	uscirne.	NOUN	S	_	10	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

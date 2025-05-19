@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Già nel lontano giugno 1918, quasi un secolo fa, il padre del Pci, Antonio Gramsci, ebbe di che rendere pubblico...
+1	Già	già	ADV	B	_	5	advmod	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	5	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	giugno	giugno	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	_
+6	1918	1918	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	quasi	quasi	ADV	B	_	10	advmod	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	secolo	secolo	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+11	fa	fa	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	10	punct	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	padre	padre	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Pci	pci	NOUN	S	Gender=Masc	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	14	punct	_	_
+19	Antonio	Antonio	PROPN	SP	_	14	appos	_	_
+20	Gramsci	Gramsci	PROPN	SP	_	19	flat:name	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	14	punct	_	_
+22	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+23	di	di	ADP	E	_	25	mark	_	_
+24	che	che	SCONJ	CS	_	23	fixed	_	_
+25	rendere	rendere	VERB	V	VerbForm=Inf	22	advcl	_	_
+26	pubblico...	pubblico.	PUNCT	FS	_	22	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/5drUOSHo5
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/5drUOSHo5	fb.me/5drUOSHo5	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

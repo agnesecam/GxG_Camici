@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CremoniniCesare pur non avendo più 20 anni.
+1	@CremoniniCesare	@CremoniniCesare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pur	pure	ADV	B	_	4	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	avendo	avere	VERB	V	VerbForm=Ger	1	advcl	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	20	20	NUM	N	NumType=Card	7	nummod	_	_
+7	anni.	anni.	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .rimani sempre l'uomo più affascinante che io conosca!
+1	.rimani	.rimani	ADV	B	_	4	advmod	_	_
+2	sempre	sempre	ADV	B	_	4	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	affascinante	affascinante	ADJ	A	Number=Sing	4	amod	_	_
+7	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	conosca	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Auguri Ce
+1	Auguri	auguri	PROPN	SP	_	0	root	_	_
+2	Ce	ce	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

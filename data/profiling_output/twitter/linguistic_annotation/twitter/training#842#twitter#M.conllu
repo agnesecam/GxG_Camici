@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo buonsenso avremmo altro presidente del consiglio https:// twitter.com/TgLa7/status/7 06203991785525248 …
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	buonsenso	buonsenso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+4	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	altro	altro	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	consiglio	consiglio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	6	punct	_	_
+13	twitter.com/TgLa7/status/7	twitter.com/TgLa7/status/7	PROPN	SP	_	6	nmod	_	_
+14	06203991785525248	06203991785525248	NUM	N	NumType=Card	13	nummod	_	_
+15	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

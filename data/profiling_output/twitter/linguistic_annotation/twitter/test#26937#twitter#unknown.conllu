@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @irmadellarcipre @LisaSpezzano @ghigno_2012 quel momento lo ricordo.....
+1	@irmadellarcipre	@irmadellarciprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@LisaSpezzano	@LisaSpezzano	PROPN	SP	_	1	nsubj	_	_
+3	@ghigno_2012	@ghigno_2012	NUM	N	NumType=Card	2	nummod	_	_
+4	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	momento	momento	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ricordo.....	ricordo.....	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+
+# sent_id = 2
+# text = ahimè .....continuamente.
+1	ahimè	ahimè	INTJ	I	_	2	discourse	_	_
+2	.....continuamente.	.....continuamente.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...neanche l'alcool lo cancella....
+1	...neanche	...neanche	ADV	B	_	3	advmod	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	alcool	alcool	NOUN	S	Gender=Masc	0	root	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cancella...	cancella...	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

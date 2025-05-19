@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Così corti non li mai avuti .
+1	Così	così	ADV	B	_	2	advmod	_	_
+2	corti	corto	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+5	mai	mai	ADV	B	_	6	advmod	_	_
+6	avuti	avere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = My new look #corti #cortissimi #frangia #frangietta
+1	My	my	DET	AP	Poss=Yes|PronType=Prs	2	det	_	_
+2	new	new	NOUN	S	_	3	nmod	_	_
+3	look	look	NOUN	S	Gender=Masc	0	root	_	_
+4	#corti	#corto	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	#cortissimi	#corto	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	6	amod	_	_
+6	#frangia	#frangia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	#frangietta	#frangietto	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpacesAfter=\n
+

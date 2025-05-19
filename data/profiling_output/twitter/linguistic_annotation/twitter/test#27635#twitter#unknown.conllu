@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ciccarema Piuttosto si facessero due domande sul perché il Leicester pur avendo speso meno abbia 15 punti in più
+1	@ciccarema	@ciccaremare	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Piuttosto	piuttosto	PROPN	SP	_	1	nmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	domande	domanda	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+7-8	sul	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	14	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+9	perché	perché	SCONJ	CS	_	14	mark	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Leicester	Leicester	PROPN	SP	_	14	nsubj	_	_
+12	pur	pure	ADV	B	_	14	advmod	_	_
+13	avendo	avere	AUX	VA	VerbForm=Ger	14	aux	_	_
+14	speso	spendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+15	meno	meno	ADV	B	_	16	advmod	_	_
+16	abbia	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+17	15	15	NUM	N	NumType=Card	18	nummod	_	_
+18	punti	punto	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	più	più	ADV	B	_	16	advmod	_	SpacesAfter=\n
+

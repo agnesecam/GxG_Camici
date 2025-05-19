@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Va_le_28 dai ti giuro che faremo quel viaggio ai Caraibi che ti avevo promesso
+1	@Va_le_28	@Va_le_28	NUM	N	NumType=Card	5	nummod	_	_
+2-3	dai	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ti	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+5	giuro	giuro	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	5	ccomp	_	_
+8	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	viaggio	viaggio	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10-11	ai	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	Caraibi	Caraibi	PROPN	SP	_	9	nmod	_	_
+13	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	obj	_	_
+15	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	promesso	promettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	SpacesAfter=\n
+

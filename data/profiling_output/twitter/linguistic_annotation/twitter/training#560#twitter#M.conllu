@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Niente contro i nostri Morata, Dybala, Mandzukic e Zaza,ma se avessimo #Higuain non ce ne sarebbe per nessuno.
+1	Niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	contro	contro	ADP	E	_	5	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	Morata	Morata	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	Dybala	Dybala	PROPN	SP	_	1	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	Mandzukic	Mandzukic	PROPN	SP	_	1	conj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	Zaza,ma	Zaza,ma	PROPN	SP	_	1	conj	_	_
+12	se	se	SCONJ	CS	_	18	mark	_	_
+13	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	cop	_	_
+14	#Higuain	#Higuain	PROPN	SP	_	18	nsubj	_	_
+15	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+16	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	18	expl	_	_
+17	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	18	iobj	_	_
+18	sarebbe	essere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+19	per	per	ADP	E	_	20	case	_	_
+20	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #mostruoso #juventus #invidia
+1	#mostruoso	#mostruoso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	#juventus	#juventus	NOUN	S	Gender=Masc	3	nsubj	_	_
+3	#invidia	#invidio	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

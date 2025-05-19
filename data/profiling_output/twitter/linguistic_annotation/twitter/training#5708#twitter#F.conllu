@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Non ci posso far niente la gelosia fa parte di me..
+1	“	“	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+4	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+6	niente	niente	PRON	PI	Number=Sing|PronType=Ind	5	obj	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	gelosia	gelosia	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+9	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	parte	parte	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	me..	me..	NOUN	S	Gender=Masc	10	nmod	_	_
+
+# sent_id = 2
+# text = e dioppo se si avvicina qualcuna gli stacco la...” https:// tmblr.co/ZntZFq237n3wq
+1	e	e	CCONJ	CC	_	5	cc	_	_
+2	dioppo	dioppo	ADV	B	_	5	advmod	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	avvicina	avvicinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	stacco	stacco	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+9	la...	la.	NOUN	S	_	8	compound	_	SpaceAfter=No
+10	”	”	PUNCT	FB	_	11	punct	_	_
+11	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	_
+14	tmblr.co/ZntZFq237n3wq	tmblr.co/ZntZFq237n3wq	PROPN	SP	_	5	obj	_	SpacesAfter=\n
+

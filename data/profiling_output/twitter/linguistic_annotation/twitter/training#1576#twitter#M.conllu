@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nfg2015 :))) quando in realtà è pseudo-sferica e gira come le nostre palle
+1	@nfg2015	@nfg2015	NUM	N	NumType=Card	6	nummod	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+4	)	)	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+5	)	)	PUNCT	FB	_	1	punct	_	_
+6	quando	quando	SCONJ	CS	_	10	mark	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	pseudo	pseudo	ADJ	A	_	0	root	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	sferica	sferico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	gira	girare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+15	come	come	ADP	E	_	18	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+17	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	palle	palla	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	SpacesAfter=\n
+

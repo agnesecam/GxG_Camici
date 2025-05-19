@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Insieme possiamo battere chiunque ! #wearecutrofianovolley @Palazzetto Cutrofiano G.Cesari https://www.
+1	Insieme	insieme	ADV	B	_	3	advmod	_	_
+2	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	battere	battere	VERB	V	VerbForm=Inf	0	root	_	_
+4	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	3	obj	_	_
+5	!	!	PUNCT	FS	_	4	punct	_	_
+6	#wearecutrofianovolley	#wearecutrofianovolley	PROPN	SW	Foreign=Yes	4	nmod	_	_
+7	@Palazzetto	@Palazzetto	PROPN	SP	_	6	flat:name	_	_
+8	Cutrofiano	Cutrofiano	PROPN	SP	_	6	flat:name	_	_
+9	G.Cesari	G.Cesari	PROPN	SP	_	6	nmod	_	_
+10	https://www	https://www	NOUN	S	_	9	flat:name	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD3IBcvhkFV/
+1	instagram.com/p/BD3IBcvhkFV/	instagram.com/p/BD3IBcvhkFV/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

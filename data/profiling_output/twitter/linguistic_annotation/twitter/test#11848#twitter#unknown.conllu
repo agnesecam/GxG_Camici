@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Esattamente un anno fa, io e te stavamo passeggiando proprio lì...ammirando la grandezza di quella metro,... http:// fb.me/7MSQSu1sa
+1	Esattamente	esattamente	ADV	B	_	6	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	anno	anno	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+4	fa	fa	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+9	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	passeggiando	passeggiare	VERB	V	VerbForm=Ger	6	conj	_	_
+11	proprio	proprio	ADV	B	_	12	advmod	_	_
+12	lì	lì	ADV	B	_	10	advmod	_	SpaceAfter=No
+13	...ammirando	...ammirare	VERB	V	VerbForm=Ger	10	advcl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	grandezza	grandezza	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_
+18	metro,...	metro,.	NOUN	S	Gender=Masc	15	nmod	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	fb.me/7MSQSu1sa	fb.me/7MSQSu1sa	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

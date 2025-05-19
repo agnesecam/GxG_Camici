@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi mi è sembrato di vivere in prima persona #Boris , la serie
+1	Oggi	oggi	ADV	B	_	4	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	vivere	vivere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
+9	persona	persona	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	#Boris	#Boris	PROPN	SP	_	6	conj	_	_
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	serie	serie	NOUN	S	Gender=Fem	4	obj	_	SpacesAfter=\n
+

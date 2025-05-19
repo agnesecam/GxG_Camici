@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @la_stampa @aledipie MOLESTIE non siamo cani che si chiamano con il fischio loro ,i maschi , che farebbero se lo facessimo noi?
+1	@la_stampa	@la_stampa	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@aledipie	@aledipia	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+3	MOLESTIE	molestie	PROPN	SP	_	2	nmod	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	cani	cane	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	chiamano	chiamare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	fischio	fischio	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	loro	loro	DET	AP	Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	,i	,o	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+15	maschi	maschio	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	_
+16	,	,	PUNCT	FF	_	14	punct	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+19	se	se	SCONJ	CS	_	21	mark	_	_
+20	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+21	facessimo	facessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+22	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	21	nsubj	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

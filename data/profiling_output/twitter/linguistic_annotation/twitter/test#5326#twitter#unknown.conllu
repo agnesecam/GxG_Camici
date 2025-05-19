@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di dove sei?
+1	Di	di	ADP	E	_	2	case	_	_
+2	dove	dove	ADV	B	_	3	advmod	_	_
+3	sei	sei	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = — qualcuna su whatsap?
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+3	su	su	ADP	E	_	4	case	_	_
+4	whatsap	whatsap	NOUN	S	Gender=Fem	2	nmod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = che palle https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM3CADFOY3RT6O3O5RCD7KJ7F4YIXM2Y2JFBKJSHLRCDQL4VI6IJX
+1	che	che	DET	DQ	PronType=Int	2	det	_	_
+2	palle	palla	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	2	nmod	_	_
+7	7B667HQMHN2IG6NM3CADFOY3RT6O3O5RCD7KJ7F4YIXM2Y2JFBKJSHLRCDQL4VI6IJX	7B667HQMHN2IG6NM3CADFOY3RT6O3O5RCD7KJ7F4YIXM2Y2JFBKJSHLRCDQL4VI6IJX	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+
+# sent_id = 4
+# text = D6WCYQZ2LKIPUH63PZB
+1	D6WCYQZ2LKIPUH63PZB	D6WCYQZ2LKIPUH63PZB	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = BAXQVANDSICBQTG67EDWKC4OPHQPQ6RT33V2SYSFY7ZTKC7B4KJ2PAUQBF4XMXLTU6YDKUV3TNRKWOY36ADN3GTQGH5NAL5W5734IZMFCHUFYNRDDLDUUUKMNRFQ====== …
+1	BAXQVANDSICBQTG67EDWKC4OPHQPQ6RT33V2SYSFY7ZTKC7B4KJ2PAUQBF4XMXLTU6YDKUV3TNRKWOY36ADN3GTQGH5NAL5W5734IZMFCHUFYNRDDLDUUUKMNRFQ======	BAXQVANDSICBQTG67EDWKC4OPHQPQ6RT33V2SYSFY7ZTKC7B4KJ2PAUQBF4XMXLTU6YDKUV3TNRKWOY36ADN3GTQGH5NAL5W5734IZMFCHUFYNRDDLDUUUKMNRFQ======	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Paolo_Sabatino essi intanto sognamo non guasta a fa bene allo spirito
+1	@Paolo_Sabatino	@Paolo_Sabatino	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	intanto	intanto	ADV	B	_	1	advmod	_	_
+4	sognamo	sognre	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	guasta	guanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	fa	fare	ADV	B	_	6	advmod	_	_
+9	bene	bene	ADV	B	_	6	advmod	_	_
+10-11	allo	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	spirito	spirito	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpacesAfter=\n
+

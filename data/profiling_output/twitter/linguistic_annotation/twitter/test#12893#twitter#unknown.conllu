@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Hanna__26 @_mygreatescape esatto!
+1	@Hanna__26	@Hanna__26	NUM	N	NumType=Card	2	nummod	_	_
+2	@_mygreatescape	@_mygreatescape	NOUN	S	Number=Sing	0	root	_	_
+3	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Da una parte credo che se avessero voluto mettere altre date le avrebbero già messe da un pezzo ma -
+1	Da	da	ADP	E	_	3	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+4	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	se	se	SCONJ	CS	_	9	mark	_	_
+7	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+8	voluto	volere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	aux	_	_
+9	mettere	mettere	VERB	V	VerbForm=Inf	4	ccomp	_	_
+10	altre	altro	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+11	date	data	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+13	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	già	già	ADV	B	_	15	advmod	_	_
+15	messe	mettere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
+16	da	da	ADP	E	_	18	case	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	15	obl:agent	_	_
+19	ma	ma	CCONJ	CC	_	15	cc	_	_
+20	-	-	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

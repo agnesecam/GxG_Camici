@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Burden dunque sarà il 2° ostacolo che Maguire dovrà superare dopo Dale per arrivare diretto al Crucible #EurosportSNOOKER
+1	Burden	Burden	INTJ	I	_	3	punct	_	_
+2	dunque	dunque	ADV	B	_	3	advmod	_	_
+3	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	2°	2°	ADJ	NO	NumType=Ord	6	amod	_	_
+6	ostacolo	ostacolo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+7	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+8	Maguire	Maguire	PROPN	SP	_	10	nsubj	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+10	superare	superare	VERB	V	VerbForm=Inf	6	acl:relcl	_	_
+11	dopo	dopo	ADP	E	_	12	case	_	_
+12	Dale	Dale	PROPN	SP	_	10	obl	_	_
+13	per	per	ADP	E	_	14	mark	_	_
+14	arrivare	arrivare	VERB	V	VerbForm=Inf	10	advcl	_	_
+15	diretto	diretto	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Crucible	Crucible	PROPN	SP	_	15	obl	_	_
+19	#	#	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+20	EurosportSNOOKER	EurosportSNOOKER	PROPN	SP	_	14	obj	_	SpacesAfter=\n
+

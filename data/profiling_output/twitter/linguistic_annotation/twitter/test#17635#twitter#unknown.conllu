@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @milly_carlucci Milly invita anche massimo Ranieri che farai un figurone!
+1	@milly_carlucci	@milly_carluccio	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	Milly	Milly	PROPN	SP	_	1	nmod	_	_
+3	invita	invitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	massimo	massimo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	Ranieri	Ranieri	PROPN	SP	_	3	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	figurone	figurone	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

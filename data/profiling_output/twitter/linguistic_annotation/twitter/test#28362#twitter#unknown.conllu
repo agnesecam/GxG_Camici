@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rockysal1979 @RosikCity voi venite sulla mia TL fate RT e saremmo noi gli #ossessionati ?
+1	@rockysal1979	@rockysal1979	NUM	N	NumType=Card	2	nummod	_	_
+2	@RosikCity	@RosikCity	PROPN	SP	_	0	root	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nmod	_	_
+4	venite	venire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
+5-6	sulla	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	8	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	TL	TL	PROPN	SP	_	9	obl	_	_
+9	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl	_	_
+10	RT	RT	PROPN	SP	_	9	nsubj	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	conj	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	#ossessionati	#ossessionato	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+16	?	?	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = @Sgrammaticato11 @PReina25 https:// twitter.com/rockysal1979/s tatus/711327996666372096 …
+1	@Sgrammaticato11	@Sgrammaticato11	PROPN	SP	_	0	root	_	_
+2	@PReina25	@PReina25	PROPN	SP	_	1	flat:name	_	_
+3	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	_
+6	twitter.com/rockysal1979/s	twitter.com/rockysal1979/s	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+7	tatus/711327996666372096	tatus/711327996666372096	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

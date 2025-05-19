@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E se alla fine torna la LegaPound…?
+1	E	e	CCONJ	CC	_	6	cc	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	fine	fine	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+6	torna	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	LegaPound…	Legapound…	PROPN	SP	_	6	nsubj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Mi viene in mente questo vecchio servizio che feci per Gazebo http://www.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	mente	mente	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+6	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	servizio	servizio	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+8	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+9	feci	feci	ADJ	A	Number=Plur	8	amod	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	Gazebo	Gazebo	PROPN	SP	_	9	obl	_	_
+12	http://www	http://www	NOUN	S	_	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = rai.tv/dl/RaiTV/progr ammi/media/ContentItem-d7dcba0a-f161-4dab-afc3-9b5371cff4f5.html …
+1	rai.tv/dl/RaiTV/progr	rai.tv/dl/RaiTV/progr	ADP	E	_	2	case	_	_
+2	ammi/media/ContentItem	ammi/media/ContentItem	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	-d7dcba0a	-d7dcba0o	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	f161-4dab-afc3-9b5371cff4f5.html	f161-4dab-afc3-9b5371cff4f5.html	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+6	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

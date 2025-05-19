@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se fossimo tutti costretti ad alzarci con gli Boney M,sarebbe senza dubbio un mondo più allegro!
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obl	_	_
+4	costretti	costringere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	ad	a	ADP	E	_	6	mark	_	_
+6-7	alzarci	_	_	_	_	_	_	_	_
+6	alzar	alzare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	Boney	Boney	PROPN	SP	_	6	obl	_	_
+11	M,sarebbe	M,sare	PROPN	SP	_	10	flat:name	_	_
+12	senza	senza	ADP	E	_	13	case	_	_
+13	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+16	più	più	ADV	B	_	17	advmod	_	_
+17	allegro	allegro	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = 󾌲󾔗󾔗 http:// fb.me/7FVVw9aZs
+1	󾌲󾔗󾔗	󾌲󾔗󾔗	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/7FVVw9aZs	fb.me/7FVVw9aZs	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

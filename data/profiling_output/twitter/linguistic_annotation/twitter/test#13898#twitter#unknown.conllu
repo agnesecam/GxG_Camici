@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - Livello in inglese?
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Livello	livello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	inglese	inglese	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = - Level - No, il SUO livello - YOUR level - Vabbè, le faremo sapere - Ok, We'll let you know
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Level	Level	PROPN	SP	_	16	obl	_	_
+3	-	-	PUNCT	FF	_	2	punct	_	_
+4	No	no	INTJ	I	Polarity=Neg	16	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	SUO	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	livello	livello	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+9	-	-	PUNCT	FF	_	10	punct	_	_
+10	YOUR	YOUR	PROPN	SP	_	8	nmod	_	_
+11	level	level	ADJ	A	_	10	amod	_	_
+12	-	-	PUNCT	FF	_	10	punct	_	_
+13	Vabbè	vabbè	INTJ	I	_	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	8	punct	_	_
+15	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	16	iobj	_	_
+16	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+17	sapere	sapere	VERB	V	VerbForm=Inf	16	ccomp	_	_
+18	-	-	PUNCT	FF	_	19	punct	_	_
+19	Ok	Ok	PROPN	SP	_	17	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	21	punct	_	_
+21-22	We'	_	_	_	_	_	_	_	SpaceAfter=No
+21	Wi	Wi	PROPN	SP	_	19	nmod	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	ll	ll	NOUN	S	Gender=Masc	19	nmod	_	_
+24	let	let	X	SW	Foreign=Yes	23	compound	_	_
+25	you	you	X	SW	Foreign=Yes	24	flat:foreign	_	_
+26	know	know	X	SW	Foreign=Yes	24	flat:foreign	_	SpacesAfter=\n
+

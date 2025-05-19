@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rekotc @AlbertoBagnai @rubino7004 inoltre poiché le virtù appartengono solo agli affamati, affamiamo la popolazione cosi diventerà virtuosa
+1	@rekotc	@rekotc	NOUN	S	Gender=Masc	18	nsubj	_	_
+2	@AlbertoBagnai	@AlbertoBagnai	PROPN	SP	_	1	nmod	_	_
+3	@rubino7004	@rubino7004	NUM	N	NumType=Card	2	nummod	_	_
+4	inoltre	inoltre	ADV	B	_	14	advmod	_	_
+5	poiché	poiché	SCONJ	CS	_	8	mark	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	virtù	virtù	NOUN	S	Gender=Fem	8	nsubj	_	_
+8	appartengono	appartenere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+9	solo	solo	ADV	B	_	12	advmod	_	_
+10-11	agli	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	affamati	affamato	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	8	punct	_	_
+14	affamiamo	affamere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	popolazione	popolazione	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+17	cosi	coso	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	diventerà	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+19	virtuosa	virtuoso	NOUN	S	Gender=Fem|Number=Sing	18	xcomp	_	SpacesAfter=\n
+

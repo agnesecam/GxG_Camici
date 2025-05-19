@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pdnetwork @TgLa7 la mobilità ci permetta di tornare dalle nostre famiglie e restituisca credibilità al governo Renzi #8000esiliatifaseb
+1	@pdnetwork	@pdnetwork	NOUN	S	Gender=Masc	0	root	_	_
+2	@TgLa7	@TgLa7	PROPN	SP	_	1	nmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mobilità	mobilità	NOUN	S	Gender=Fem	6	nsubj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+6	permetta	permettere	VERB	V	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	tornare	tornare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9-10	dalle	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	restituisca	restituire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15	credibilità	credibilità	NOUN	S	Gender=Fem	14	obj	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	governo	governo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+19	Renzi	Renzi	PROPN	SP	_	18	nmod	_	_
+20	#8000esiliatifaseb	#8000esiliatifaseb	X	X	_	1	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ElioLannutti da Berlusconi a #renzi ....
+1	@ElioLannutti	@ElioLannutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	Berlusconi	Berlusconi	PROPN	SP	_	1	nmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	#renzi	#renzi	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+6	...	...	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = dalla padella alla brace ...
+1-2	dalla	_	_	_	_	_	_	_	_
+1	da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	padella	padella	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	brace	brace	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7	...	...	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

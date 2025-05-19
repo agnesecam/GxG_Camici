@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lerbadeivicini @SeedorfOfficial un gran signore, dentro e fuori dal campo!
+1	@lerbadeivicini	@lerbadeivicino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@SeedorfOfficial	@SeedorfOfficial	PROPN	SP	_	1	nmod	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	gran	gran	ADJ	A	Number=Sing	5	amod	_	_
+5	signore	signore	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	dentro	dentro	ADV	B	_	12	case	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	fuori	fuori	ADV	B	_	7	conj	_	_
+10-11	dal	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	7	fixed	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	campo	campo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

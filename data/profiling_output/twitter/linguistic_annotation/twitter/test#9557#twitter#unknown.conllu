@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #whereismydesk La mia scrivania oggi è in un posto molto più a sud del solito : @campluslife a Catania.
+1	#whereismydesk	#whereismydesk	X	SW	Foreign=Yes	4	nsubj	_	_
+2	La	La	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	mia	mio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nsubj	_	_
+4	scrivania	scrivania	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	oggi	oggi	ADV	B	_	4	advmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	posto	posto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+10	molto	molto	ADV	B	_	11	advmod	_	_
+11	più	più	ADV	B	_	13	advmod	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	sud	sud	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	solito	solito	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+17	:	:	PUNCT	FC	_	16	punct	_	_
+18	@campluslife	@campluslife	ADJ	A	Number=Sing	16	amod	_	_
+19	a	a	ADP	E	_	20	case	_	_
+20	Catania	Catania	PROPN	SP	_	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Che bello!
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	bello	bello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/DT5u88cLH6
+1	pic.twitter.com/DT5u88cLH6	pic.twitter.com/DT5u88cLH6	SYM	X	_	0	root	_	SpacesAfter=\n
+

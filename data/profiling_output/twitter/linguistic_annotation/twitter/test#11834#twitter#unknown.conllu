@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giu_balli_rano @realvarriale il vostro problema è che non siete obiettivi!
+1	@giu_balli_rano	@giu_balli_rare	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	@realvarriale	@realvarriale	ADJ	A	Number=Sing	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	obiettivi	obiettivo	NOUN	S	Gender=Masc|Number=Plur	6	ccomp	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ripeto stavamo sotto di 15 punti fate mea colpa invece di essere
+1	Ripeto	ripetere	ADV	B	_	2	advmod	_	_
+2	stavamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	sotto	sotto	ADP	E	_	6	case	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	15	15	NUM	N	NumType=Card	6	nummod	_	_
+6	punti	punto	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+7	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	mea	meo	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	invece	invece	ADV	B	_	7	advmod	_	_
+11	di	di	ADP	E	_	7	mark	_	_
+12	essere	essere	AUX	V	VerbForm=Inf	2	xcomp	_	SpacesAfter=\n
+

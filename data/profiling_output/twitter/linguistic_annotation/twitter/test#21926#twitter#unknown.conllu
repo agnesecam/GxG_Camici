@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Corda91 rose è stata egoista!
+1	@Corda91	@Corda9l	NUM	N	NumType=Card	2	nummod	_	_
+2	rose	rosa	NOUN	S	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
+5	egoista	egoista	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Ci stavano tranquillamente in due!
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	stavano	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	tranquillamente	tranquillo	ADV	B	_	2	advmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	due	due	NUM	N	NumType=Card	2	obl	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

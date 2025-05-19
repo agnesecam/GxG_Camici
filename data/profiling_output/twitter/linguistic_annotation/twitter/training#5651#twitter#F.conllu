@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho bisogno di aiuto.
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Qualcuna di voi ha visto l'ultimo video di benji e fede?
+1	Qualcuna	Qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+7	ultimo	ultimo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	video	video	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	benji	benji	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	fede	fede	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Se si, sapreste dirmi il titolo dell ultima canzone cantata?
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	sapreste	sapredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	dirmi	_	_	_	_	_	_	_	_
+5	dir	dire	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+9	dell	dell	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	ultima	ultimo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	canzone	canzone	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	cantata	cantato	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

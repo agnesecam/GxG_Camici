@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SE UN DOMANI VUOI ANCHE TU VEDERE LE NOSTRE COSTE E IL NOSTRO MARE COSI IL 17 APRILE DAI RETTA ALLO PSICOPATICO... http:// fb.me/4vYImWCJP
+1	SE	se	PROPN	SP	_	5	nsubj	_	_
+2	UN	uno	PROPN	SP	_	1	flat:name	_	_
+3	DOMANI	Domani	PROPN	SP	_	1	flat:name	_	_
+4	VUOI	vuo	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	ANCHE	anche	PROPN	SP	_	0	root	_	_
+6	TU	tu	PROPN	SP	_	5	flat:name	_	_
+7	VEDERE	vedere	PROPN	SP	_	5	flat:name	_	_
+8	LE	Le	PROPN	SP	_	5	flat:name	_	_
+9	NOSTRE	nostro	PROPN	SP	_	5	flat:name	_	_
+10	COSTE	costa	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
+11	E	e	PROPN	SP	_	5	nmod	_	_
+12	IL	il	PROPN	SP	_	11	flat:name	_	_
+13	NOSTRO	nostro	PROPN	SP	_	11	flat:name	_	_
+14	MARE	Mare	PROPN	SP	_	11	flat:name	_	_
+15	COSI	COSI	PROPN	SP	_	11	flat:name	_	_
+16	IL	il	PROPN	SP	_	11	flat:name	_	_
+17	17	17	NUM	N	NumType=Card	11	flat:name	_	_
+18	APRILE	aprile	PROPN	SP	_	11	flat:name	_	_
+19-20	DAI	_	_	_	_	_	_	_	_
+19	DA	da	ADP	E	_	21	case	_	_
+20	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	RETTA	retta	PROPN	SP	_	11	nmod	_	_
+22-23	ALLO	_	_	_	_	_	_	_	_
+22	A	a	ADP	E	_	23	case	_	_
+23	LO	il	PROPN	SP	_	21	nmod	_	_
+24	PSICOPATICO...	PSICOPATICO...	PROPN	SP	_	23	flat:name	_	_
+25	http:	http:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	23	punct	_	_
+28	fb.me/4vYImWCJP	fb.me/4vYImWCJP	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

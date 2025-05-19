@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @benedettabarb esattooooo con tutte quelle borse che ha( che tratta pure male) facesse beneficenza ahahah
+1	@benedettabarb	@benedettabarb	NOUN	S	Gender=Masc	15	nsubj	_	_
+2	esattooooo	esattooooo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl	_	_
+3	con	con	ADP	E	_	6	case	_	_
+4	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	6	det:predet	_	_
+5	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	borse	borsa	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
+9	(	(	PUNCT	FB	_	11	punct	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	tratta	trattare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+12	pure	pure	ADV	B	_	13	advmod	_	_
+13	male	male	ADV	B	_	11	advmod	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	11	punct	_	_
+15	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+16	beneficenza	beneficenza	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+17	ahahah	ahahah	ADJ	A	_	16	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @carmicorcione se fossero tutti nel pieno della forma sarebbe una bella formazione.
+1	@carmicorcione	@carmicorcione	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	fossero	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pieno	pieno	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	forma	forma	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	bella	bello	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+14	formazione	formazione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma Prince e Menez non giocano da parecchio tempo
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	Prince	Prince	PROPN	SP	_	6	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	Menez	Menez	PROPN	SP	_	2	conj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	giocano	giocare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	parecchio	parecchio	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpacesAfter=\n
+

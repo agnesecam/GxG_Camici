@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Shalom, questo e' il link per "15 minuti di Torah" di venerdi 8 aprile.
+1	Shalom	Shalom	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	conj	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	SpaceAfter=No
+5	'	'	PUNCT	FB	_	7	punct	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	link	link	NOUN	S	Gender=Masc	1	conj	_	_
+8	per	per	ADP	E	_	11	case	_	_
+9	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	15	15	NUM	N	NumType=Card	11	nummod	_	_
+11	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	Torah	Torah	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	11	punct	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	venerdi	venerde	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+17	8	8	NUM	N	NumType=Card	16	nmod	_	_
+18	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	17	flat	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Leggeremo e faremo un commento su un... http:// fb.me/11MCFhzdo
+1	Leggeremo	Leggere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	11	acl	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	commento	commento	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	su	su	ADP	E	_	7	case	_	_
+7	un...	un...	NOUN	S	_	5	nmod	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	fb.me/11MCFhzdo	fb.me/11MCFhzdo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " ricordo che faceva male,guardarla stare male " GIÀ MI PIACE STO FILM
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+5	male,guardarla	male,guardarla	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	stare	stare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+7	male	male	ADV	B	_	6	advmod	_	_
+8	"	"	PUNCT	FB	_	9	punct	_	_
+9	GIÀ	già	PROPN	SP	_	6	obl	_	_
+10	MI	mi	PROPN	SP	_	9	flat:name	_	_
+11	PIACE	piace	PROPN	SP	_	9	flat:name	_	_
+12	STO	Sto	PROPN	SP	_	4	nsubj	_	_
+13	FILM	Film	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

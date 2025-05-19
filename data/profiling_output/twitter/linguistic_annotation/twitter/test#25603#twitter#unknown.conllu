@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @simonemartelli
+1	@simonemartelli	@simonemartello	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = Lo so.
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ma non ho resistito al pigiama.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	resistito	resistere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pigiama	pigiama	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Inoltre , sai com'è, ci resto male quando mi si dice "o vieni tu, o nulla"...
+1	Inoltre	inoltre	ADV	B	_	3	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	com'	come	SCONJ	CS	_	8	mark	_	SpaceAfter=No
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
+8	resto	redere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	male	male	ADV	B	_	8	advmod	_	_
+10	quando	quando	SCONJ	CS	_	13	mark	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl:impers	_	_
+13	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+14	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+15	o	o	CCONJ	CC	_	16	cc	_	_
+16	vieni	vieni	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	conj	_	_
+17	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	16	obj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	20	punct	_	_
+19	o	o	CCONJ	CC	_	20	cc	_	_
+20	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	conj	_	SpaceAfter=No
+21	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+22	...	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Far camminare un bimbo è cosa semplice, tremendo è portare gli uomini verso la pace, essi accontentano la morte...
+1	Far	fare	AUX	VM	VerbForm=Inf	2	aux	_	_
+2	camminare	camminare	VERB	V	VerbForm=Inf	6	csubj	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bimbo	bimbo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+7	semplice	semplice	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	tremendo	tremendo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	portare	portare	VERB	V	VerbForm=Inf	0	root	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	verso	verso	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	pace	pace	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+19	accontentano	accontentare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	morte..	morte..	NOUN	S	_	19	obj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = #AMerini #UniversoVersi
+1	#AMerini	#AMerini	PROPN	SP	_	3	nsubj	_	_
+2-3	#UniversoVersi	_	_	_	_	_	_	_	SpacesAfter=\n
+2	#Universover	#Universover	PROPN	SP	_	1	flat:name	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	0	root	_	_
+

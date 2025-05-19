@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tanto lui non polemizzava, però se l'avesse fatto sareste davvero incoerenti, ma lo siete sempre, so.
+1	Tanto	tanto	ADV	B	_	4	advmod	_	_
+2	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	polemizzava	polemizzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	però	però	ADV	B	_	10	advmod	_	_
+7	se	se	SCONJ	CS	_	10	mark	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+9	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+11	sareste	saresta	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+12	davvero	davvero	ADV	B	_	13	advmod	_	_
+13	incoerenti	incoerente	ADJ	A	Number=Plur	11	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	ma	ma	CCONJ	CC	_	17	cc	_	_
+16	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	siete	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+18	sempre	sempre	ADV	B	_	17	advmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	20	punct	_	_
+20	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

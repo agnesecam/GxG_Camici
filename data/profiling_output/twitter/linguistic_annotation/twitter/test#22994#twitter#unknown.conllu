@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giek2 sicuro...
+1	@giek2	@giek2	NUM	N	NumType=Card	2	nummod	_	_
+2	sicuro..	sicuro..	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Appunto.
+1	Appunto	appunto	ADV	B	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Glieli portiamo tutti ... (Poi voglio vederli..)
+1-2	Glieli	_	_	_	_	_	_	_	_
+1	Glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+3	portiamo	portare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	obl	_	_
+5	...	...	PUNCT	FF	_	4	punct	_	_
+6	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+7	Poi	poi	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	voglio	volere	NOUN	S	Gender=Masc|Number=Sing	3	advcl	_	_
+9	vederli..	vederli	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	3	punct	_	SpacesAfter=\n
+

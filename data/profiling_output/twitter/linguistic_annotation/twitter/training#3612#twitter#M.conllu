@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = De magistris per il momento il bugiardo sei tu,che non stai facendo niente per Bagnoli .Renzi ha promesso che farà ' qualcosa e da fastidio .
+1	De	di	X	SW	Foreign=Yes	18	nsubj	_	_
+2	magistris	magistris	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	momento	momento	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bugiardo	bugiardo	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	_
+8	sei	essere	NUM	N	NumType=Card	7	nummod	_	_
+9	tu,che	tu,co	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	11	obj	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+12	facendo	fare	VERB	V	VerbForm=Ger	18	advcl	_	_
+13	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obj	_	_
+14	per	per	ADP	E	_	15	case	_	_
+15	Bagnoli	Bagnoli	PROPN	SP	_	18	obl	_	_
+16	.Renzi	.Renzi	PROPN	SP	_	15	flat:name	_	_
+17	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	promesso	promettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+19	che	che	SCONJ	CS	_	20	mark	_	_
+20	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	ccomp	_	_
+21	'	'	PUNCT	FB	_	22	punct	_	_
+22	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	20	obj	_	_
+23	e	e	CCONJ	CC	_	25	cc	_	_
+24	da	da	ADP	E	_	25	case	_	_
+25	fastidio	fastidio	NOUN	S	Gender=Masc|Number=Sing	20	conj	_	_
+26	.	.	PUNCT	FS	_	18	punct	_	SpacesAfter=\n
+

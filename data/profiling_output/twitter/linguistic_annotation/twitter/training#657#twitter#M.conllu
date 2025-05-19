@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tenerissimi gli anti juventini che difendono il tweet del Bayern di cattivo gusto.
+1	Tenerissimi	Tenero	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	0	root	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	anti	anti	ADJ	A	_	4	amod	_	_
+4	juventini	juventino	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	difendono	difendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tweet	tweet	NOUN	S	Gender=Masc	6	obj	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Bayern	Bayern	PROPN	SP	_	8	nmod	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	cattivo	cattivo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+14	gusto	gusto	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Lo avessimo fatto noi ci avrebbero spalato merda addosso
+1	Lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	fatto	fatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+6	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	spalato	spalare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+8	merda	merda	NOUN	S	Gender=Masc	7	obj	_	_
+9	addosso	addosso	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\n
+

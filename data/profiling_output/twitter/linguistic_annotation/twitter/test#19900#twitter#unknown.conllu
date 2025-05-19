@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @matteosalvinimi Si ma nelle loro carceri.Visto ke sui loro documenti nn cè alcuna verifica.
+1	@matteosalvinimi	@matteosalvinimo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	ma	ma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	nelle	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	loro	loro	DET	AP	Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	carceri.Visto	carceri.Visto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	ke	ke	ADJ	A	Number=Sing	7	amod	_	_
+9-10	sui	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	loro	loro	DET	AP	Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+13	nn	nno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+14	cè	cè	NOUN	S	Gender=Masc	12	appos	_	_
+15	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
+16	verifica	verifica	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

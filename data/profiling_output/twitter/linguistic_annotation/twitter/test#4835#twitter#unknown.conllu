@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Manassero nel 2010 fu il più giovane partecipante da sempre al Masters, passò il taglio è vinse il premio come miglior amateur.
+1	Manassero	manassero	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	advcl	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	2010	2010	NUM	N	NumType=Card	9	obl	_	_
+5	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+7	più	più	ADV	B	_	8	advmod	_	_
+8	giovane	giovane	ADJ	A	Number=Sing	9	amod	_	_
+9	partecipante	partecipare	NOUN	S	Number=Sing	1	nsubj	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	sempre	sempre	ADV	B	_	1	advmod	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Masters	Masters	PROPN	SP	_	1	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	passò	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	vinse	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	premio	premio	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
+23	come	come	ADP	E	_	25	case	_	_
+24	miglior	miglior	ADJ	A	Gender=Masc|Number=Sing	25	amod	_	_
+25	amateur	amateur	NOUN	S	Gender=Masc	22	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	20	punct	_	_
+
+# sent_id = 2
+# text = #skygolf
+1	#skygolf	#skygolf	ADP	E	_	0	root	_	SpacesAfter=\n
+

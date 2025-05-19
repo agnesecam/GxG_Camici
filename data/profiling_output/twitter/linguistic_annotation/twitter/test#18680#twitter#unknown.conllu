@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @robertosaviano grazie.
+1	@robertosaviano	@robertosaviare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	grazie	grazie	NOUN	S	_	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Per stimolare in maniera così puntuale le riflessioni di ciascuno . Grazie, Roberto!
+1	Per	per	ADP	E	_	2	mark	_	_
+2	stimolare	stimolare	VERB	V	VerbForm=Inf	12	advcl	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	così	così	ADV	B	_	6	advmod	_	_
+6	puntuale	puntuale	ADJ	A	Number=Sing	4	amod	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	riflessioni	riflessione	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nmod	_	_
+11	.	.	PUNCT	FS	_	2	punct	_	_
+12	Grazie	grazie	INTJ	I	_	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	Roberto	Roberto	PROPN	SP	_	12	vocative	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = c'era la luna e avevi gli occhi stanchi, lui pose le sue mani sui tuoi fianchi.
+1	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	luna	luna	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	avevi	avere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	stanchi	stanco	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	pose	porre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	mani	mano	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+16-17	sui	_	_	_	_	_	_	_	_
+16	su	su	ADP	E	_	19	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	fianchi	fianco	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #LAmore #Faber @CasaLettori pic.twitter.com/tXPlQqSdBo
+1	#LAmore	#LAmore	PROPN	SP	_	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	Faber	Faber	PROPN	SP	_	1	flat:name	_	_
+4	@CasaLettori	@CasaLettore	PROPN	SP	_	1	flat:name	_	_
+5	pic.twitter.com/tXPlQqSdBo	pic.twitter.com/tXPlQqSdBo	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

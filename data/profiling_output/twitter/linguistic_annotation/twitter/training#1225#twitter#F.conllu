@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RosemaryBrace Sono profondamente e sinceramente commossa dalla tua gentilezza.
+1	@RosemaryBrace	@RosemaryBrace	PROPN	SP	_	6	nsubj:pass	_	_
+2	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+3	profondamente	profondamente	ADV	B	_	6	advmod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	sinceramente	sinceramente	ADV	B	_	3	conj	_	_
+6	commossa	commuovere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	gentilezza	gentilezza	NOUN	S	Gender=Fem|Number=Sing	6	obl:agent	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Grazie per essermi amica.
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	essermi	essermo	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+4	amica	amico	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ciao da Nadia.
+1	Ciao	ciao	INTJ	I	_	0	root	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	Nadia	Nadia	PROPN	SP	_	1	obl	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

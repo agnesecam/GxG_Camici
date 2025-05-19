@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quidquid bene dictum est ab ullo meum Qualsiasi massima è stata detta da alcuno è mia #Letteremorali Seneca @TwitSofia_It @twittfilosofici
+1	Quidquid	Quidquid	CCONJ	CC	_	12	cc	_	_
+2	bene	bene	ADV	B	_	3	advmod	_	_
+3	dictum	dictum	X	SW	Foreign=Yes	12	obl	_	_
+4	est	est	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	ab	ab	X	SW	Foreign=Yes	3	flat:foreign	_	_
+6	ullo	ullo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	meum	meum	NOUN	S	Gender=Masc	12	nsubj:pass	_	_
+8	Qualsiasi	qualsiasi	ADJ	A	Number=Sing	7	amod	_	_
+9	massima	massima	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	aux:pass	_	_
+12	detta	dire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+13	da	da	ADP	E	_	14	case	_	_
+14	alcuno	alcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	18	obl	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+16	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+17	#	#	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+18	Letteremorali	Letteremorali	PROPN	SP	_	12	nsubj:pass	_	_
+19	Seneca	Seneca	PROPN	SP	_	18	flat:name	_	_
+20	@TwitSofia_It	@TwitSofia_It	PROPN	SP	_	18	flat:name	_	_
+21	@twittfilosofici	@twittfilosofico	ADJ	A	Gender=Masc|Number=Plur	12	xcomp	_	SpacesAfter=\n
+

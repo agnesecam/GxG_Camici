@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @R0bert079 @Savi_B Buongiorno.
+1	@R0bert079	@R0bert079	PROPN	SP	_	0	root	_	_
+2	@Savi_B	@Savi_B	PROPN	SP	_	1	flat:name	_	_
+3	Buongiorno	Buongiorno	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Dopo la brusca interruzione di ieri sera, torno brevemente su quanto stavamo dicendo.
+1	Dopo	dopo	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	brusca	brusco	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	interruzione	interruzione	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	ieri	ieri	ADV	B	_	4	nmod	_	_
+7	sera	sera	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	torno	tornare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	brevemente	brevemente	ADV	B	_	9	advmod	_	_
+11	su	su	ADP	E	_	12	case	_	_
+12	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	9	obl	_	_
+13	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	dicendo	dire	VERB	V	VerbForm=Ger	12	acl:relcl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = Non ho bisogno di
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+4	di	di	ADP	E	_	3	case	_	SpacesAfter=\n
+

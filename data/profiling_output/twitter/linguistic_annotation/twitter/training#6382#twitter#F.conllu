@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @claudina_1992 @piero_barone se fossimo a tavola faccia a faccia,,, mi verrebbe rossa come i suoi occhiali,,, non saprei dove gusrdare
+1	@claudina_1992	@claudina_1992	NUM	N	NumType=Card	2	nummod	_	_
+2	@piero_barone	@piero_barone	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	_
+3	se	se	SCONJ	CS	_	14	mark	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	aux	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	tavola	tavola	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	faccia	fare	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	7	fixed	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	_
+14	verrebbe	verre	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+15	rossa	rosso	ADJ	A	Gender=Fem|Number=Sing	14	xcomp	_	_
+16	come	come	ADP	E	_	19	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	occhiali	occhiale	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	26	punct	_	_
+23	non	non	ADV	BN	PronType=Neg	26	advmod	_	_
+24	saprei	sapere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	aux	_	_
+25	dove	dove	ADV	B	_	26	advmod	_	_
+26	gusrdare	gusrdare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

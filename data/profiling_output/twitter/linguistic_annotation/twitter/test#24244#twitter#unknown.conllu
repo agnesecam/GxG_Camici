@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'Europa tedesca difende i prodotti tedeschi e non gliene frega una mazza di olio frutta o pomodori italiani!
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Europa	Europa	PROPN	SP	_	4	nsubj	_	_
+3	tedesca	tedesco	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	difende	difendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	prodotti	prodotto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	tedeschi	tedesco	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	gliene	glenere	SCONJ	CS	_	11	mark	_	_
+11	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	mazza	mazza	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	olio	olio	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+16	frutta	frutto	NOUN	S	Gender=Fem|Number=Sing	15	compound	_	_
+17	o	o	CCONJ	CC	_	18	cc	_	_
+18	pomodori	pomodoro	NOUN	S	Gender=Masc|Number=Plur	16	conj	_	_
+19	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #quintacolonna #MadeinItaly
+1	#quintacolonna	#quintacolonna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	#MadeinItaly	#MadeinItaly	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I cittadini messi con le spalle al muro dalle troppo tasse, devono per forza di cose non pagarne qualcuna per... http:// fb.me/5kWNWnhim
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	21	nsubj	_	_
+3	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	spalle	spalla	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	muro	muro	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10-11	dalle	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	13	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+12	troppo	troppo	ADV	B	_	13	advmod	_	_
+13	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	2	punct	_	_
+15	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
+16	per	per	ADP	E	_	17	case	_	_
+17	forza	forza	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	21	obl	_	_
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+21-22	pagarne	_	_	_	_	_	_	_	_
+21	pagar	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+22	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	21	iobj	_	_
+23	qualcuna	qualcuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	per...	per.	NOUN	S	_	21	obj	_	_
+25	http:	http:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	21	punct	_	_
+28	fb.me/5kWNWnhim	fb.me/5kWNWnhim	PROPN	SP	_	21	conj	_	SpacesAfter=\n
+

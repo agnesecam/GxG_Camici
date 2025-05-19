@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Nunzio Scalercio ( @Webmastru ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Nunzio	Nunzio	PROPN	SP	_	1	flat:name	_	_
+3	Scalercio	Scalercio	PROPN	SP	_	1	flat:name	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@Webmastru	@Webmastru	PROPN	SP	_	1	nmod	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = ULTIM'ORA:
+1	ULTIM'	ULTIMo	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	ORA	ora	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = Iole mi comunica che GUANTA ha smentito.
+1	Iole	Iole	PROPN	SP	_	3	nsubj	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	comunica	comunica	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	GUANTA	GUANTA	PROPN	SP	_	7	nsubj	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	smentito	smentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = La capra dovrà ... http:// fb.me/86EDXtZjd
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	capra	capra	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	cop	_	_
+4	...	...	PUNCT	FF	_	5	punct	_	_
+5	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	_
+8	fb.me/86EDXtZjd	fb.me/86EDXtZjd	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tuttosport Signor Tacchinardi, dovrebbe stare attento a quello che dice, dire certe cose, non la fanno sembrare molto intelligente!
+1	@tuttosport	@tuttosport	NOUN	S	Gender=Masc	6	nsubj	_	_
+2	Signor	Signor	PROPN	SP	_	1	nmod	_	_
+3	Tacchinardi	Tacchinardi	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+7	attento	attento	ADJ	A	Gender=Masc|Number=Sing	6	xcomp	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	obj	_	_
+11	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	dire	dire	VERB	V	VerbForm=Inf	6	conj	_	_
+14	certe	certo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
+15	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	19	punct	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+20	sembrare	sembrare	VERB	V	VerbForm=Inf	19	ccomp	_	_
+21	molto	molto	ADV	B	_	22	advmod	_	_
+22	intelligente	intelligente	ADJ	A	Number=Sing	20	xcomp	_	SpaceAfter=No
+23	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

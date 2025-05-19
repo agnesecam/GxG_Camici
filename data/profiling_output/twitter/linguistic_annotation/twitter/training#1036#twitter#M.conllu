@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma solo entro le 12 miglia dalla nostra costa.
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	solo	solo	ADV	B	_	6	advmod	_	_
+3	entro	entro	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	12	12	NUM	N	NumType=Card	6	nummod	_	_
+6	miglia	miglio	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	10	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	costa	costa	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Oltre...
+1	Oltre...	Oltre.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = va tutto bene.
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	nsubj	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/fattoquotidian o/status/719212460796944385 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/fattoquotidian	twitter.com/fattoquotidian	NOUN	S	Gender=Masc	0	root	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	SpaceAfter=No
+6	/status/719212460796944385	/status/719212460796944385	NUM	N	NumType=Card	4	conj	_	_
+7	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

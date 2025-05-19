@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CalcioNapoli24 allora pensate di giocare sempre contro il Napoli falliti magari non eravate da B.Con la Juve sudditanza assoluta ho visto
+1	@CalcioNapoli24	@CalcioNapoli24	NUM	N	NumType=Card	3	nummod	_	_
+2	allora	allora	ADV	B	_	3	advmod	_	_
+3	pensate	pensare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	giocare	giocare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7	contro	contro	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Napoli	Napoli	PROPN	SP	_	5	obl	_	_
+10	falliti	fallire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+11	magari	magari	ADV	B	_	13	advmod	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	eravate	eravare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	_
+14	da	da	ADP	E	_	15	case	_	_
+15	B.Con	B.Con	PROPN	SP	_	13	obl:agent	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Juve	Juve	PROPN	SP	_	13	nsubj	_	_
+18	sudditanza	sudditanza	NOUN	S	Gender=Fem|Number=Sing	17	compound	_	_
+19	assoluta	assoluto	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+20	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se mi addormento, mi sveglio dopo mezzogiorno.
+1	Se	se	SCONJ	CS	_	6	mark	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
+3	addormento	addormento	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+6	sveglio	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dopo	dopo	ADP	E	_	8	case	_	_
+8	mezzogiorno	mezzogiorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Quasi quasi resto sveglia e faccio un'unica tirata.
+1	Quasi	quasi	ADV	B	_	3	advmod	_	_
+2	quasi	quasi	ADV	B	_	3	advmod	_	_
+3	resto	resto	ADJ	A	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+8	unica	unico	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	tirata	tirata	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Adesso per entrare in Belgio si dovrà firmare un "contratto" http:// fb.me/3hFIwK258
+1	Adesso	adesso	ADV	B	_	3	advmod	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	entrare	entrare	VERB	V	VerbForm=Inf	8	advcl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Belgio	Belgio	PROPN	SP	_	3	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	firmare	firmare	VERB	V	VerbForm=Inf	0	root	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	contratto	contratto	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	_
+16	fb.me/3hFIwK258	fb.me/3hFIwK258	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

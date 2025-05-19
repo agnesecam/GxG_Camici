@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = essì amore https:// twitter.com/louis_tomlinso n/status/4132865382023168 …
+1	essì	essì	INTJ	I	Polarity=Pos	0	root	_	_
+2	amore	amore	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+3	https:	https:	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	twitter.com/louis_tomlinso	twitter.com/louis_tomlinsare	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	n/status/4132865382023168	n/status/4132865382023168	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

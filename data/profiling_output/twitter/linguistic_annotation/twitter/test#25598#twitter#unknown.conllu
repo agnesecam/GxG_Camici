@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @EnzoMutina inoltre M e S nn s sono viste x niente.
+1	@EnzoMutina	@EnzoMutinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	inoltre	inoltre	ADV	B	_	1	advmod	_	_
+3	M	M	PROPN	SP	_	1	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	S	S	PROPN	SP	_	3	conj	_	_
+6	nn	nno	ADP	E	_	7	case	_	_
+7	s	s	NOUN	S	Gender=Masc	5	nmod	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	viste	vedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	csubj	_	_
+10	x	x	SYM	SYM	_	9	xcomp	_	_
+11	niente	niente	PRON	PI	Number=Sing|PronType=Ind	9	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Almeno prima s usavano tutti i compound e s vedeva il relativo comportamento!
+1	Almeno	almeno	ADV	B	_	3	advmod	_	_
+2	prima	primo	ADV	B	_	3	advmod	_	_
+3	s	s	NOUN	S	Gender=Masc	4	nsubj	_	_
+4	usavano	usare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	compound	compound	NOUN	S	Gender=Masc	4	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	s	s	NOUN	S	Gender=Masc	7	conj	_	_
+10	vedeva	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	relativo	relativo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	comportamento	comportamento	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se negrotelli non faceva il pallavolista di turno il gobbo barzagli la buttava dentro ..
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	negrotelli	negrotello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	advcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pallavolista	pallavolista	NOUN	S	Number=Sing	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	turno	turno	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	gobbo	gobbo	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+11	barzagli	barzaglio	NOUN	S	Gender=Masc|Number=Plur	10	compound	_	_
+12	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	buttava	buttare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+14	dentro	dentro	ADV	B	_	13	advmod	_	_
+15	.	.	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
+

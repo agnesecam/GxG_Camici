@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Inoltre , voglio ringraziare tutte le persone che seguono me e Sharon nel profilo @LarryNewsItaly , siete sempre gentilissimi.
+1	Inoltre	inoltre	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	ringraziare	ringraziare	VERB	V	VerbForm=Inf	0	root	_	_
+5	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	persone	persona	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	seguono	seguire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	Sharon	Sharon	PROPN	SP	_	10	conj	_	_
+13-14	nel	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	profilo	profilo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+16	@LarryNewsItaly	@LarryNewsItaly	PROPN	SP	_	15	nmod	_	_
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	sempre	sempre	ADV	B	_	20	advmod	_	_
+20	gentilissimi	gentile	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

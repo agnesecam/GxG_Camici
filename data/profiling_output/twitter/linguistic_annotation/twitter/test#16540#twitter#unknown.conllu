@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi è piaciuto un video di @YouTube da @sorellina01: http:// youtu.be/1gRv_32U44o?a Tag Storyteller tra le pagine della fantasia coll .
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	piaciuto	piacere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	video	video	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	@YouTube	@YouTube	PROPN	SP	_	5	nmod	_	_
+8	da	da	ADP	E	_	14	case	_	_
+9	@sorellina01	@sorellina01	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	9	punct	_	_
+11	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	9	punct	_	_
+14	youtu.be/1gRv_32U44o?a	youtu.be/1gRv_32U44o?a	PROPN	SP	_	5	nmod	_	_
+15	Tag	Tag	PROPN	SP	_	5	nmod	_	_
+16	Storyteller	Storyteller	PROPN	SP	_	15	flat:name	_	_
+17	tra	tra	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	pagine	pagina	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	fantasia	fantasia	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+23	coll	coll	ADJ	A	Number=Sing	22	amod	_	_
+24	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = I Love
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Love	Love	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

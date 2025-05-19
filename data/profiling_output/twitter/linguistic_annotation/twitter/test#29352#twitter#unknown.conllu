@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @la_stampa bravi ragazzi avrete buoni avocati e la colpa è della droga rito abbreviato e metà pena già scontata e giustizia è fatta
+1	@la_stampa	@la_stampere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	parataxis	_	_
+2	bravi	bravo	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	13	acl:relcl	_	_
+5	buoni	buono	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	avocati	avocato	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	e	e	CCONJ	CC	_	13	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	droga	droga	NOUN	S	Gender=Fem|Number=Sing	24	nsubj:pass	_	_
+14	rito	rito	NOUN	S	Gender=Masc|Number=Sing	13	compound	_	_
+15	abbreviato	abbreviato	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	metà	metà	NOUN	S	Gender=Fem	14	conj	_	_
+18	pena	pena	NOUN	S	Gender=Fem|Number=Sing	17	compound	_	_
+19	già	già	ADV	B	_	20	advmod	_	_
+20	scontata	scontato	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	giustizia	giustizio	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	_
+23	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
+24	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Farete presto altri concerti?
+1	Farete	Farete	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	presto	presto	ADV	B	_	3	advmod	_	_
+3	altri	altro	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = *B&F: sì molto presto.
+1	*B&F	*B&F	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	sì	sì	INTJ	I	Polarity=Pos	1	nmod	_	_
+4	molto	molto	ADV	B	_	5	advmod	_	_
+5	presto	presto	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Inizio a piangere #VietatoSmettereDiSognare @Benji_Mascolo pic.twitter.com/JJmEACFAuW
+1	Inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	piangere	piangere	VERB	V	VerbForm=Inf	1	acl	_	_
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	VietatoSmettereDiSognare	VietatoSmettereDiSognare	PROPN	SP	_	1	nmod	_	_
+6	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	5	flat:name	_	_
+7	pic.twitter.com/JJmEACFAuW	pic.twitter.com/JJmEACFAuW	PROPN	SP	_	5	flat:name	_	SpacesAfter=\n
+

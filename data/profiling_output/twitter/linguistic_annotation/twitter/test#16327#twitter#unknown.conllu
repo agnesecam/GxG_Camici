@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Al solito..la solita solfa del " eravate al governo voi" e BLABLA vari.
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	5	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3	solito..la	solito..la	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+4	solita	solito	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	solfa	solfare	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	"	"	PUNCT	FB	_	9	punct	_	_
+9	eravate	eravato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	17	acl	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	governo	governo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	voi	vo	PRON	PE	Number=Plur|Person=2|PronType=Prs	12	compound	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	9	punct	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	BLABLA	BLABLA	PROPN	SP	_	9	conj	_	_
+17	vari.	vari.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = #dallavostraparte
+1	#dallavostraparte	#dallavostraparte	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A te sospiriamo, affamati e ridenti in questa valle di trash.
+1	A	a	ADP	E	_	2	case	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+3	sospiriamo	sospirare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	affamati	affamata	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	ridenti	ridere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	valle	valle	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	trash	trash	NOUN	S	Gender=Masc	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Orsú dunque opinionista nostra rivolgi a noi le tue reazioni.
+1	Orsú	Orsú	PROPN	SP	_	3	nsubj	_	_
+2	dunque	dunque	ADV	B	_	3	advmod	_	_
+3	opinionista	opinionista	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	rivolgi	rivolga	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	reazioni	reazione	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #uominiedonne
+1	#uominiedonne	#uominiedonna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

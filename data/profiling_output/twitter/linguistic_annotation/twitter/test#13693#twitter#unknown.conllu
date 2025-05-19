@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giusto, @DeborahBergamin .
+1	Giusto	giusto	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	@DeborahBergamin	@DeborahBergamin	PROPN	SP	_	0	root	_	_
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Molto evanescente.
+1	Molto	molto	ADV	B	_	2	advmod	_	_
+2	evanescente	evanescente	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Se domani l'esito dell'incontro sarà negativo, cosa faremo ?
+1	Se	se	SCONJ	CS	_	9	mark	_	_
+2	domani	domani	ADV	B	_	9	advmod	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	esito	esito	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+5-6	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+5	di	di	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	incontro	incontro	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	cop	_	_
+9	negativo	negativo	ADJ	A	Gender=Masc|Number=Sing	12	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	12	obj	_	_
+12	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+13	?	?	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/deborahbergami n/status/717405983438299137 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/deborahbergami	twitter.com/deborahbergamare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	n/status/717405983438299137	n/status/717405983438299137	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

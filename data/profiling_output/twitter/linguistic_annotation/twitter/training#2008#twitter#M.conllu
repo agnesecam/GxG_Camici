@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cornuti e Mazziati.
+1	Cornuti	Cornuto	PROPN	SP	_	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	Mazziati.	Mazziati.	PROPN	SP	_	1	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = dallo Stato..se ti difendi.
+1-2	dallo	_	_	_	_	_	_	_	_
+1	da	da	ADP	E	_	3	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Stato..se	Stato..se	PROPN	SP	_	5	nmod	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	expl	_	_
+5	difendi.	difendi.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 5
+# text = #MovimentOnesti pic.twitter.com/tkSSAngq1T
+1	#MovimentOnesti	#MovimentOnesto	PROPN	SP	_	0	root	_	_
+2	pic.twitter.com/tkSSAngq1T	pic.twitter.com/tkSSAngq1T	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

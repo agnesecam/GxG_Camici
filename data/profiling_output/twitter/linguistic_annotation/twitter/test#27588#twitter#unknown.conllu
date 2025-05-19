@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se tutti facessero come me che non guardano la tv e soprattutto quella idiota, certi programmi avrebbero vita corta.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
+3	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	advcl	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	guardano	guardare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tv	tv	NOUN	S	Gender=Fem	8	obj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	soprattutto	soprattutto	ADV	B	_	14	advmod	_	_
+13	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
+14	idiota	idioto	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	3	punct	_	_
+16	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	_
+17	programmi	programma	NOUN	S	Gender=Masc|Number=Plur	19	nsubj	_	_
+18	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	vita	vita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+20	corta	corto	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	19	punct	_	SpacesAfter=\n
+

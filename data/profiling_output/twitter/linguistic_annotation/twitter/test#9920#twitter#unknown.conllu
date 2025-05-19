@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In finale di #TIMCup per il 2' anno consecutivo .Questo è quello che conta.Tutto il resto è noia.
+1	In	in	ADP	E	_	2	case	_	_
+2	finale	finale	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	#TIMCup	#TIMCup	PROPN	SP	_	2	nmod	_	_
+5	per	per	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	2'	2'	NUM	N	NumType=Card	8	nummod	_	_
+8	anno	anno	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+9	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	.Questo	.Questo	PROPN	SP	_	12	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+13	che	che	PRON	PR	PronType=Rel	14	obj	_	_
+14	conta.Tutto	conta.Tuggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	resto	resto	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	_
+17	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+18	noia	noio	NOUN	S	Gender=Fem|Number=Sing	14	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = #InterJuve pic.twitter.com/nsxow0Qm5D
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	InterJuve	InterJuve	PROPN	SP	_	0	root	_	_
+3	pic.twitter.com/nsxow0Qm5D	pic.twitter.com/nsxow0Qm5D	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

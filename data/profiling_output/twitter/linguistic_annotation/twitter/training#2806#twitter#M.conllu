@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = KD fa sembrare tutto così semplice, ma non lo è per niente.
+1	KD	KD	PROPN	SP	_	2	nsubj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	_
+5	così	così	ADV	B	_	6	advmod	_	_
+6	semplice	semplice	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	13	punct	_	_
+8	ma	ma	CCONJ	CC	_	13	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	per	per	ADP	E	_	13	case	_	_
+13	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	conj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #NbaTipo
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	NbaTipo	NbaTipo	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

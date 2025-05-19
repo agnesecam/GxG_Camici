@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il CONDANNATO DEL #PD DEL GIORNO!!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	CONDANNATO	condannato	PROPN	SP	_	0	root	_	_
+3-4	DEL	_	_	_	_	_	_	_	_
+3	DI	di	ADP	E	_	4	case	_	_
+4	IL	il	PROPN	SP	_	2	flat:name	_	_
+5	#PD	#PD	PROPN	SP	_	2	flat:name	_	_
+6-7	DEL	_	_	_	_	_	_	_	_
+6	DI	Di	ADP	E	_	7	case	_	_
+7	IL	il	PROPN	SP	_	2	nmod	_	_
+8	GIORNO	giorno	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Spese pazze, stangata su Cracolici Dovrà restituire 346 mila euro!! http:// fb.me/7V7YIosCF
+1	Spese	spesa	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	pazze	pazzo	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	stangata	stangare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	Cracolici	Cracolico	PROPN	SP	_	4	obl	_	_
+7	Dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	restituire	restituire	VERB	V	VerbForm=Inf	0	root	_	_
+9	346	346	NUM	N	NumType=Card	11	nummod	_	_
+10	mila	mila	NUM	N	NumType=Card	9	flat	_	_
+11	euro	euro	NOUN	S	Gender=Masc	8	obj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	14	punct	_	_
+14	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	_
+17	fb.me/7V7YIosCF	fb.me/7V7YIosCF	PROPN	SP	_	8	conj	_	SpacesAfter=\n
+

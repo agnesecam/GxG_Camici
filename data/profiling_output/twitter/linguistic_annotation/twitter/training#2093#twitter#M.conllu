@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da mestrino emigrato, seguo qui dentro lo sviluppo del progetto.
+1	Da	da	ADP	E	_	2	case	_	_
+2	mestrino	mestrino	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+3	emigrato	emigrato	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	seguo	seguire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	qui	qui	ADV	B	_	5	advmod	_	_
+7	dentro	dentro	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sviluppo	sviluppo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Con molto interesse.
+1	Con	con	ADP	E	_	3	case	_	_
+2	molto	molto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #m9 #mestre https:// twitter.com/M9Mestre/statu s/718829679931744257 …
+1	#m9	#m9	NUM	N	NumType=Card	2	nummod	_	_
+2	#mestre	#mestra	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	twitter.com/M9Mestre/statu	twitter.com/M9Mestre/statu	PROPN	SP	_	2	nmod	_	_
+7	s/718829679931744257	s/718829679931744257	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

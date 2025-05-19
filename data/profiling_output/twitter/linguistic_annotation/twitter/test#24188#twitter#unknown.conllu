@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = inizio a pensare che non gliene freghi più nulla e poi vedo ste cose https:// twitter.com/hoiiestcompany s/status/713580851724947456 …
+1	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	pensare	pensare	VERB	V	VerbForm=Inf	1	acl	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	freghi	frega	PRON	PR	Number=Sing|PronType=Rel	6	obj	_	_
+8	più	più	ADV	B	_	7	advmod	_	_
+9	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obj	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	poi	poi	ADV	B	_	12	advmod	_	_
+12	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+13	ste	sto	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+14	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+15	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	twitter.com/hoiiestcompany	twitter.com/hoiiestcompany	CCONJ	CC	_	19	cc	_	_
+19	s/status/713580851724947456	s/status/713580851724947456	SYM	X	_	14	conj	_	_
+20	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

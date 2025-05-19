@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #stefanopatrizi . A una persona non potete insegnare qualsiasi cosa.
+1	#stefanopatrizi	#stefanopatrizio	ADV	B	_	8	advmod	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	_
+3	A	a	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	insegnare	insegnare	VERB	V	VerbForm=Inf	0	root	_	_
+9	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	10	det	_	_
+10	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Potete solo aiutarla a scoprirla dentro di sè.
+1	Potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	solo	solo	ADV	B	_	3	advmod	_	_
+3-4	aiutarla	_	_	_	_	_	_	_	_
+3	aiutar	aiutare	VERB	V	VerbForm=Inf	0	root	_	_
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	scoprirla	_	_	_	_	_	_	_	_
+6	scoprir	scoprire	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	dentro	dentro	ADV	B	_	10	case	_	_
+9	di	di	ADP	E	_	8	fixed	_	_
+10	sè	sè	PRON	PE	Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = GG
+1	GG	Gg	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

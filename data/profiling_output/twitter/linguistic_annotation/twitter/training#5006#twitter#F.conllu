@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I 50 anni dell'Armata di Monicelli.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	50	50	NUM	N	NumType=Card	3	nummod	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4-5	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+4	di	di	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	Armata	armata	PROPN	SP	_	3	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Monicelli	Monicelli	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = E il capolavoro Brancaleone, e il Medioevo non fu più lo stesso:
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	capolavoro	capolavoro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	Brancaleone	Brancaleone	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	13	punct	_	_
+6	e	e	CCONJ	CC	_	13	cc	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Medioevo	Medioevo	PROPN	SP	_	13	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+10	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
+11	più	più	ADV	B	_	13	advmod	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	conj	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = repubblica.it/spettacoli/cin ema/2016/04/07/news/i_50_anni_dell_armata_di_monicelli-136821129/ …
+1	repubblica.it/spettacoli/cin	repubblica.it/spettacoli/cino	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	ema/2016	ema/2016	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	04	04	NUM	N	NumType=Card	2	compound	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	07	07	NUM	N	NumType=Card	4	compound	_	SpaceAfter=No
+7	/news/i_50_anni_dell_armata_di_monicelli-136821129	/news/i_50_anni_dell_armata_di_monicelli-136821129	NUM	N	NumType=Card	6	fixed	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	2	punct	_	_
+9	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

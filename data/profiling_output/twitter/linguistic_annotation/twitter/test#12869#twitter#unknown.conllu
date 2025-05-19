@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CambaGigi da nessuna credo.
+1	@CambaGigi	@CambaGigio	ADV	B	_	0	root	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	credo.	credo.	NOUN	S	_	1	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..fossero in buona fede non credo avessero problemi
+1	..fossero	..fore	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	buona	buono	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	fede	fede	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	avessero	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+8	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	SpacesAfter=\n
+

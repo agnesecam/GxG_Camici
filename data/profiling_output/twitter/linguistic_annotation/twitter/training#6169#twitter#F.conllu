@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se davvero noi italiani fossimo stati come questi clandestini, sarebbe giusto estinguerci , datemene le prove e inizio da me!!!
+1	Se	se	SCONJ	CS	_	12	mark	_	_
+2	davvero	davvero	ADV	B	_	9	advmod	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+4	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+6	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	cop	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+9	clandestini	clandestino	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+13	estinguerci	estinguerce	ADJ	A	Number=Plur	12	amod	_	_
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15-17	datemene	_	_	_	_	_	_	_	_
+15	date	dare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	conj	_	_
+16	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	_
+17	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	prove	prova	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	_
+22	da	da	ADP	E	_	23	case	_	_
+23	me!	me!	PUNCT	FS	_	21	nmod	_	SpaceAfter=No
+24	!!	!!	PUNCT	FF	_	23	punct	_	SpacesAfter=\n
+

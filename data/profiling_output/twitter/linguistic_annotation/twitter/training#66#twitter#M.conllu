@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mmayr5 @RaoulPx non capisco perché difendi Berlusconi quando nessuno lo sta attaccando.
+1	@mmayr5	@mmayr5	NUM	N	NumType=Card	2	nummod	_	_
+2	@RaoulPx	@RaoulPx	PROPN	SP	_	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	perché	perché	SCONJ	CS	_	6	mark	_	_
+6	difendi	difendi	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	Berlusconi	Berlusconi	PROPN	SP	_	6	obj	_	_
+8	quando	quando	SCONJ	CS	_	12	mark	_	_
+9	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+11	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	attaccando	attaccare	VERB	V	VerbForm=Ger	6	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

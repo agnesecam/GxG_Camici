@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #lastradadeimiracoli su rete4 ...facevo zapping.
+1	#lastradadeimiracoli	#lastradadeimiracolo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	su	su	ADP	E	_	3	case	_	_
+3	rete4	rete4	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	...facevo	...facevo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	zapping.	zappingegnere	NOUN	S	_	1	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..non pensavo avessero il coraggio di mandare in TV certa roba.
+1	..non	..non	ADP	E	_	2	case	_	_
+2	pensavo	pensare	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+3	avessero	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	mandare	mandare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	TV	tv	PROPN	SP	_	7	obl	_	_
+10	certa	certo	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	roba	roba	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Da denuncia
+1	Da	da	ADP	E	_	2	case	_	_
+2	denuncia	denuncia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

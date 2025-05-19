@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A Bonucci 30-40 giorni di riposo non glieli toglie nessuno.
+1	A	a	ADP	E	_	2	case	_	_
+2	Bonucci	Bonucci	PROPN	SP	_	6	nmod	_	_
+3	30	30	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	40	40	NUM	N	NumType=Card	3	compound	_	_
+6	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10-11	glieli	_	_	_	_	_	_	_	_
+10	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+12	toglie	togliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dottor Sconcerti la Juventus vincerà il suo quinto scudetto consecutivo ?
+1	Dottor	Dottor	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	Sconcerti	Sconcerti	PROPN	SP	_	1	nmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Juventus	Juventus	PROPN	SP	_	1	nmod	_	_
+5	vincerà	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+7	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+8	quinto	quinto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+10	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Grazie #TerzoTempo
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	#TerzoTempo	#TerzoTempo	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

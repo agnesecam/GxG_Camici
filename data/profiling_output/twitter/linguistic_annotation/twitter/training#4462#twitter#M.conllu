@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #riformecattoliche il prossimo Papa dovrà chiamarsi Sisto Sesto.
+1	#riformecattoliche	#riformecattolico	ADV	B	_	6	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Papa	papa	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6-7	chiamarsi	_	_	_	_	_	_	_	_
+6	chiamar	chiamare	VERB	V	VerbForm=Inf	0	root	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+8	Sisto	Sisto	PROPN	SP	_	6	obj	_	_
+9	Sesto	sesto	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Perché fermarsi al quinto non è divertente.
+1	Perché	perché	SCONJ	CS	_	9	mark	_	_
+2-3	fermarsi	_	_	_	_	_	_	_	_
+2	fermar	fermare	VERB	V	VerbForm=Inf	9	advcl	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	quinto	quinto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	2	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	divertente	divertente	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

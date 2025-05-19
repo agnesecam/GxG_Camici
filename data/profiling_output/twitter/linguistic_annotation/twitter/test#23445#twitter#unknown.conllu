@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Savi_B @unfair_coffee @tuttosport @annatrieste Vabbe', hai ragione tu.
+1	@Savi_B	@savi_b	NOUN	S	_	8	obl	_	_
+2	@unfair_coffee	@unfair_coffeo	NOUN	S	_	1	compound	_	_
+3	@tuttosport	@tuttosport	NOUN	S	_	1	compound	_	_
+4	@annatrieste	@annatriesto	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+5	Vabbe	vabbe	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+6	'	'	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+10	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Siete l'unico pensiero di Pepe Reina.
+1	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+3	unico	unico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Pepe	pepe	PROPN	SP	_	4	nmod	_	_
+7	Reina	Reina	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Anzi, egli vive per prendervi
+1	Anzi	anzi	ADV	B	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6-7	prendervi	_	_	_	_	_	_	_	SpacesAfter=\n
+6	prender	prendere	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	4	obl	_	_
+

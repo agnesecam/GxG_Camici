@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Così non si va da nessuna parte...
+1	Così	così	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	parte...	parte...	NOUN	S	_	4	obl	_	SpacesAfter=\n
+

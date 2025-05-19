@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @michele_bravi @elisatoffoli ma dimmi, ieri sera hai fatto le ore piccole?
+1	@michele_bravi	@michele_brave	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+2	@elisatoffoli	@elisatoffole	ADJ	A	Number=Plur	1	amod	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	dimmi	dire	ADJ	A	Number=Plur	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	ieri	ieri	ADV	B	_	9	advmod	_	_
+7	sera	sera	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+8	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	ore	ora	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	piccole	piccolo	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Mi sembra di vederti più cadaverino del solito
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4-5	vederti	_	_	_	_	_	_	_	_
+4	veder	vedere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	cadaverino	cadaverino	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	solito	solito	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpacesAfter=\n
+

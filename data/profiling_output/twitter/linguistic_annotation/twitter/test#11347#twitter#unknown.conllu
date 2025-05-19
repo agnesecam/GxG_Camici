@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi aiutate per una mia amica a far entrare in tendenza l' #gretavieniagenova ?
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	aiutate	aiutare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	per	per	ADP	E	_	6	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	amica	amico	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	far	fare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+9	entrare	entrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	tendenza	tendenza	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	#gretavieniagenova	#gretavieniagenova	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+14	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Grazie davvero se lo farete
+1	Grazie	grazie	INTJ	I	_	0	root	_	_
+2	davvero	davvero	ADV	B	_	1	fixed	_	_
+3	se	se	SCONJ	CS	_	1	fixed	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	farete	faere	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	SpacesAfter=\n
+

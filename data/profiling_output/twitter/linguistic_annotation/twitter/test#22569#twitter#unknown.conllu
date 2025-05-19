@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MarcoCapoccetti Mi piacerebbe che un giro lo facessi sul serio, molte delle cose che dici su di noi non sono vere.
+1	@MarcoCapoccetti	@MarcoCapoccetti	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	piacerebbe	piacere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	che	che	SCONJ	CS	_	24	mark	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	giro	giro	NOUN	S	Gender=Masc|Number=Sing	24	nsubj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+9-10	sul	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	serio	serio	ADJ	A	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	molte	molto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	6	obj	_	_
+14-15	delle	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+17	che	che	PRON	PR	PronType=Rel	18	obj	_	_
+18	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+19	su	su	ADP	E	_	21	case	_	_
+20	di	di	ADP	E	_	19	fixed	_	_
+21	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	obl	_	_
+22	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+23	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
+24	vere	vere	VERB	V	VerbForm=Inf	3	ccomp	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ah, io sarò a P.Maggiore
+1	Ah	ah	INTJ	I	_	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	sarò	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	P.Maggiore	P.Maggiore	PROPN	SP	_	4	obl	_	SpacesAfter=\n
+

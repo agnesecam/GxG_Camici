@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = REPLICHE FINO DOMANI COLL +ORECCHINI A 25 EURO COMPRESA SPED CONS 25/30 GG LAV
+1	REPLICHE	REPLICHE	PROPN	SP	_	0	root	_	_
+2	FINO	Fino	PROPN	SP	_	1	flat:name	_	_
+3	DOMANI	Domano	PROPN	SP	_	1	flat:name	_	_
+4	COLL	COLL	PROPN	SP	_	1	nmod	_	_
+5	+ORECCHINI	+ORECCHINI	PROPN	SP	_	4	flat:name	_	_
+6	A	A	PROPN	SP	_	4	flat:name	_	_
+7	25	25	NUM	N	NumType=Card	8	nummod	_	_
+8	EURO	euro	PROPN	SP	_	4	nmod	_	_
+9	COMPRESA	compresa	PROPN	SP	_	4	nmod	_	_
+10	SPED	SPED	PROPN	SP	_	9	flat:name	_	_
+11	CONS	CONS	PROPN	SP	_	9	flat:name	_	_
+12	25/	25/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	30	30	NUM	N	NumType=Card	14	nummod	_	_
+14	GG	Gg	PROPN	SP	_	9	nmod	_	_
+15	LAV	LAV	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

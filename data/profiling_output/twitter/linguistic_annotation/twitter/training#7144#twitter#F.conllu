@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dottorgiustizia
+1	@dottorgiustizia	@dottorgiustizia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = 2
+# text = Il diritto alla salute è calpestato da chi governa continuando a tagliare fondi e Personale.I medici sono anch' essi vittime
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	salute	salute	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	calpestato	calpestare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	chi	chi	PRON	PR	Number=Sing|PronType=Rel	7	obl:agent	_	_
+10	governa	governare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+11	continuando	continuare	VERB	V	VerbForm=Ger	10	advcl	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	tagliare	tagliare	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	fondi	fondo	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	_
+15	e	e	CCONJ	CC	_	20	cc	_	_
+16	Personale.I	Personale.I	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	medici	medico	NOUN	S	Gender=Masc|Number=Plur	20	nsubj:pass	_	_
+18	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
+19	anch'	anche	ADV	B	_	20	advmod	_	_
+20	essi	esso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	conj	_	_
+21	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	SpacesAfter=\n
+

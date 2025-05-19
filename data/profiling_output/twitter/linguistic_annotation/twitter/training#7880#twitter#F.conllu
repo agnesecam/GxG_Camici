@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , stamattina ho dormito sino alle 11 e oggi pomeriggio dalle 14 alle 18.
+1	Dunque	dunque	ADV	B	_	5	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	stamattina	stamattina	ADV	B	_	5	advmod	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	dormito	dormire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	sino	sino	ADV	B	_	12	case	_	_
+7-8	alle	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	6	fixed	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+9	11	11	NUM	N	NumType=Card	12	nummod	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	oggi	oggi	ADV	B	_	12	advmod	_	_
+12	pomeriggio	pomeriggio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+13-14	dalle	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	14	14	NUM	N	NumType=Card	5	obl	_	_
+16-17	alle	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	18	18	NUM	N	NumType=Card	5	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = C è un medico?
+1	C	C	PROPN	SP	_	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	medico	medico	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

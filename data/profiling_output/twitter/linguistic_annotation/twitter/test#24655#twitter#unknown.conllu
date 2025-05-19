@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @michele_bravi io un braccialetto di masca e orso un peluche e dei cioccolatini anche avendo 14 anni mi piace ricevere uova
+1	@michele_bravi	@michele_bravo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	braccialetto	braccialetto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	masca	masca	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	orso	orrere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	peluche	peluca	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	cioccolatini	cioccolatino	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+15	anche	anche	ADV	B	_	16	advmod	_	_
+16	avendo	avere	VERB	V	VerbForm=Ger	20	advcl	_	_
+17	14	14	NUM	N	NumType=Card	18	nummod	_	_
+18	anni	anno	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+19	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	iobj	_	_
+20	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+21	ricevere	ricevere	VERB	V	VerbForm=Inf	20	csubj	_	_
+22	uova	uovo	NOUN	S	Gender=Fem|Number=Plur	21	obj	_	SpacesAfter=\n
+

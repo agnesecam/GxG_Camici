@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io chiesi Tu chiedesti Egli chiese Noi #chiesimo Voi ci rimandaste alla #Crusca Essi direttamente a fanc***
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	chiesi	chiendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	Tu	tu	PROPN	SP	_	4	nsubj:pass	_	_
+4	chiedesti	chiededere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	xcomp	_	_
+5	Egli	Egli	PROPN	SP	_	6	nsubj	_	_
+6	chiese	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+8	#chiesimo	#chiesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
+9	Voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+11	rimandaste	rimandanere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	#Crusca	#Crusca	PROPN	SP	_	11	obl	_	_
+15	Essi	Essi	PROPN	SP	_	14	flat:name	_	_
+16	direttamente	direttamente	ADV	B	_	18	advmod	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	fanc***	fanc***	PUNCT	FF	_	14	punct	_	SpacesAfter=\n
+

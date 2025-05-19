@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco da dove viene il cibo delle nostre tavole http:// fb.me/5tvc7Zk6Z
+1	Ecco	ecco	ADV	B	_	14	advmod	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	dove	dove	ADV	B	_	4	obl	_	_
+4	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cibo	cibo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+7-8	delle	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	tavole	tavola	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	fb.me/5tvc7Zk6Z	fb.me/5tvc7Zk6Z	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

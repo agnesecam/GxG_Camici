@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @abertagni Alle colonne d'Ercole Ulisse non trovò un punto ma una virgola.Non ebbe l'ardimento di passare alla frase successiva, l'ignoto.
+1	@abertagni	@abertagno	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+2-3	Alle	_	_	_	_	_	_	_	_
+2	A	a	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	colonne	colonna	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+5	d'	di	ADP	E	_	6	case	_	SpaceAfter=No
+6	Ercole	Ercole	PROPN	SP	_	4	nmod	_	_
+7	Ulisse	Ulisse	PROPN	SP	_	6	flat:name	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	trovò	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	punto	punto	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	ma	ma	CCONJ	CC	_	15	cc	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	virgola.Non	virgola.Non	PROPN	SP	_	15	nsubj	_	_
+15	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	ardimento	ardimento	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+18	di	di	ADP	E	_	19	mark	_	_
+19	passare	passare	VERB	V	VerbForm=Inf	17	acl	_	_
+20-21	alla	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	frase	frase	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	_
+23	successiva	successivo	ADJ	A	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	26	punct	_	_
+25	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	26	det	_	SpaceAfter=No
+26	ignoto	ignoto	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

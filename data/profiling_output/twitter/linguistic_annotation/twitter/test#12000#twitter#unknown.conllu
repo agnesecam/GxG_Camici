@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @michele_bravi visto che ci hai chiesto cosa facciamo stavamo pensando a un nome.per il nostro canale help us please
+1	@michele_bravi	@michele_bravo	ADV	B	_	2	advmod	_	_
+2	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	acl	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+5	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+7	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	8	obj	_	_
+8	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+9	stavamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	pensando	pensare	VERB	V	VerbForm=Ger	8	advcl	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	nome.per	nome.per	NOUN	S	Number=Sing	10	obl	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	canale	canale	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+17	help	help	X	X	_	10	obl	_	_
+18	us	us	X	X	_	17	flat:foreign	_	_
+19	please	please	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

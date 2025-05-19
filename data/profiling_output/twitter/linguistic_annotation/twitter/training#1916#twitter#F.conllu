@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Più sicurezza nelle nostre città con L'ESERCITO ITALIANO ☆ pic.twitter.com/Hk265cnonr
+1	Più	più	ADV	B	_	2	advmod	_	_
+2	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3-4	nelle	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	6	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	città	città	NOUN	S	Gender=Fem	2	nmod	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	ESERCITO	esercito	PROPN	SP	_	6	nmod	_	_
+10	ITALIANO	italiano	PROPN	SP	_	9	flat:name	_	_
+11	☆	☆	SYM	SYM	_	2	nmod	_	_
+12	pic.twitter.com/Hk265cnonr	pic.twitter.com/Hk265cnonr	PROPN	SP	_	11	flat:name	_	SpacesAfter=\n
+

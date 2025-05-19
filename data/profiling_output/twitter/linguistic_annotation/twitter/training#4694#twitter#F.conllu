@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = DIFENDONO il superiore che dovrà rispondere personalmente del buco dell' azienda ad ogni romano,ORMAI SONO SGAMATI https:// twitter.com/lacordacura/st atus/713070251823509504 …
+1	DIFENDONO	difendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	superiore	superiore	ADJ	A	Degree=Cmp|Number=Sing	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	rispondere	rispondere	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+7	personalmente	personalmente	ADV	B	_	6	advmod	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	buco	buco	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+11-12	dell'	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	azienda	azienda	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	ad	a	ADP	E	_	16	case	_	_
+15	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
+16	romano	romano	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	ORMAI	ormai	PROPN	SP	_	20	nsubj	_	_
+19	SONO	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	SGAMATI	SGAMATI	PROPN	SP	_	6	nmod	_	_
+21	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	_
+24	twitter.com/lacordacura/st	twitter.com/lacordacura/st	SYM	X	_	20	nmod	_	_
+25	atus/713070251823509504	atus/713070251823509504	NUM	N	NumType=Card	24	nummod	_	_
+26	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

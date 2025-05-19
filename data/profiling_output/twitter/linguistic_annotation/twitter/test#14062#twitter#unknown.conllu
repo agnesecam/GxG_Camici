@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AleRicci90 ma vaaaa!
+1	@AleRicci90	@AleRicci90	NUM	N	NumType=Card	3	nummod	_	_
+2	ma	ma	CCONJ	CC	_	3	cc	_	_
+3	vaaaa	vaaaare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Tu e i tuoi 25 anni, mi sareste passati accanto senza neppure vedermi, te lo dico io!
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+2	e	e	CCONJ	CC	_	6	cc	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+4	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+5	25	25	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	sareste	saredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	passati	passare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	xcomp	_	_
+11	accanto	accanto	ADV	B	_	10	advmod	_	_
+12	senza	senza	ADP	E	_	14	mark	_	_
+13	neppure	neppure	ADV	BN	PronType=Neg	14	advmod	_	_
+14-15	vedermi	_	_	_	_	_	_	_	SpaceAfter=No
+14	veder	vedere	VERB	V	VerbForm=Inf	10	advcl	_	_
+15	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	obj	_	_
+16	,	,	PUNCT	FF	_	14	punct	_	_
+17	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	expl	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	conj	_	_
+20	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

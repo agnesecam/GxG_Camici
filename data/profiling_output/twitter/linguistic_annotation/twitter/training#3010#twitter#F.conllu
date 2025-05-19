@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho finalmente fatto la ceretta alle braccia dopo mesi (tanto che iniziavo a sembrare un gorilla) E LE AMOO MI MANCAVANO TANTISSIMO LE MIE
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	finalmente	finalmente	ADV	B	_	3	advmod	_	_
+3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ceretta	ceretta	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6-7	alle	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	braccia	braccio	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+9	dopo	dopo	ADP	E	_	10	case	_	_
+10	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	tanto	tanto	ADV	B	_	3	advmod	_	_
+13	che	che	SCONJ	CS	_	14	mark	_	_
+14	iniziavo	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	gorilla	gorilla	NOUN	S	Gender=Masc	16	obj	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	12	punct	_	_
+20	E	e	CCONJ	CC	_	21	cc	_	_
+21	LE	Le	PROPN	SP	_	3	conj	_	_
+22	AMOO	AMOO	PROPN	SP	_	21	flat:name	_	_
+23	MI	mi	PROPN	SP	_	21	flat:name	_	_
+24	MANCAVANO	MANCAVANO	PROPN	SP	_	21	flat:name	_	_
+25	TANTISSIMO	TANTISSIMO	PROPN	SP	_	21	flat:name	_	_
+26	LE	Le	PROPN	SP	_	21	flat:name	_	_
+27	MIE	mie	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

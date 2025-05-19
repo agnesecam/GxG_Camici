@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @perlatiziana @lucatipo2 @agavefiorita @luca_segatori76 @franca_canzani BACIOTTI A TUTTI!!!!!!
+1	@perlatiziana	@perlatiziano	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@lucatipo2	@lucatipo2	NUM	N	NumType=Card	3	nsubj	_	_
+3	@agavefiorita	@agavefiorire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	@luca_segatori76	@luca_segatori76	NUM	N	NumType=Card	5	nummod	_	_
+5	@franca_canzani	@franca_canzano	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	BACIOTTI	BACIOTTI	PROPN	SP	_	5	nmod	_	_
+7	A	a	PROPN	SP	_	6	flat:name	_	_
+8	TUTTI	Tutti	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+10	!!!!!	!!!!!	PUNCT	FF	_	3	punct	_	_
+
+# sent_id = 2
+# text = UNO X CIASCUNO NN GA MALE A NESSUNO
+1	UNO	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	X	X	NOUN	S	_	0	root	_	_
+3	CIASCUNO	ciascuno	PROPN	SP	_	2	nmod	_	_
+4	NN	NN	PROPN	SP	_	3	flat:name	_	_
+5	GA	GA	PROPN	SP	_	3	flat:name	_	_
+6	MALE	male	PROPN	SP	_	3	flat:name	_	_
+7	A	A	PROPN	SP	_	2	nmod	_	_
+8	NESSUNO	nessuno	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n
+

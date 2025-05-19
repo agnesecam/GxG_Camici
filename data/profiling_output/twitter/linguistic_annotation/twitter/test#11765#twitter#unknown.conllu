@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se il dito guarda il cielo, lo scemo guarda il dito (prima stavamo guardando i tre puntini di Instagram ) ADomani pic.twitter.com/1uYOlRZdQ4
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	dito	dito	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	scemo	sce	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	dito	dito	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+14	prima	prima	ADV	B	_	16	advmod	_	_
+15	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	aux	_	_
+16	guardando	guardare	VERB	V	VerbForm=Ger	12	advcl	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	tre	tre	NUM	N	NumType=Card	19	nummod	_	_
+19	puntini	punto	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	Instagram	Instagram	PROPN	SP	_	19	nmod	_	_
+22	)	)	PUNCT	FB	_	16	punct	_	_
+23	ADomani	ADomano	PROPN	SP	_	12	nmod	_	_
+24	pic.twitter.com/1uYOlRZdQ4	pic.twitter.com/1uYOlRZdQ4	PROPN	SP	_	23	flat:name	_	SpacesAfter=\n
+

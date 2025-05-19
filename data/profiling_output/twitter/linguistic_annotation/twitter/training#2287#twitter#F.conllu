@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #MilanJuve Dentro Lemina fuori Asa per favore e gia ammonito non vorrei che arbitro Orsetto ne combini una delle sue
+1	#MilanJuve	#MilanJuve	SCONJ	CS	_	10	mark	_	_
+2	Dentro	dentro	PROPN	SP	_	10	nsubj	_	_
+3	Lemina	Lemina	PROPN	SP	_	2	flat:name	_	_
+4	fuori	fuori	ADP	E	_	5	case	_	_
+5	Asa	Asa	PROPN	SP	_	2	nmod	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	favore	favore	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	gia	gia	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+10	ammonito	ammonire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	vorrei	volere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+13	che	che	SCONJ	CS	_	17	mark	_	_
+14	arbitro	arbitro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	Orsetto	Orsetto	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	17	iobj	_	_
+17	combini	combine	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+18	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	17	obj	_	_
+19-20	delle	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	nmod	_	SpacesAfter=\n
+

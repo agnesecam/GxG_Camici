@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sta roba chissà quanto dovrà durare https:// twitter.com/skytg24/status /715217442453254144 …
+1	Sta	stare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	roba	robo	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	chissà	chissà	ADV	B	_	4	advmod	_	_
+4	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	2	nmod	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	durare	durare	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	_
+10	twitter.com/skytg24/status	twitter.com/skytg24/status	NOUN	S	Gender=Fem	6	obj	_	_
+11	/715217442453254144	/715217442453254144	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

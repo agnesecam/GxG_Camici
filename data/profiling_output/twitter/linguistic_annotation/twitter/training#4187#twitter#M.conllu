@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le quattro giornate di squalifica a #Higuain sono una tegola pesantissima, il #Napoli dovrà guardarsi le spalle
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	quattro	quattro	NUM	N	NumType=Card	3	nummod	_	_
+3	giornate	giornata	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	squalifica	squalifica	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	#Higuain	#Higuain	PROPN	SP	_	3	nmod	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tegola	tegola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+11	pesantissima	pesante	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	#Napoli	#Napoli	PROPN	SP	_	16	nsubj	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16-17	guardarsi	_	_	_	_	_	_	_	_
+16	guardar	guardare	VERB	V	VerbForm=Inf	10	acl	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	spalle	spalla	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	SpacesAfter=\n
+

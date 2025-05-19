@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @JUGICA62
+1	@JUGICA62	@JUGICA62	PROPN	SP	_	0	root	_	_
+
+# sent_id = 2
+# text = Non me lo ricordo, ma l'avevo bloccato dunque ci sarà stato un motivo
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	ma	ma	CCONJ	CC	_	9	cc	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+8	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	bloccato	bloccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+10	dunque	dunque	ADV	B	_	9	advmod	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+12	sarà	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	motivo	motivo	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	SpacesAfter=\n
+

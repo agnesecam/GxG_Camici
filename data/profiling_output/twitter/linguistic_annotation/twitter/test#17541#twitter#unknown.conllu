@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Albericoyes No ti prego Albe non fare così!
+1	@Albericoyes	@Albericoyes	ADP	E	_	2	case	_	_
+2	No	No	PROPN	SP	_	4	obl	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+4	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Albe	Albe	PROPN	SP	_	4	obj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	così	così	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Sei stai male tu, sto male anch'io!
+1	Sei	essere	NUM	N	NumType=Card	2	nummod	_	_
+2	stai	stare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	male	male	ADV	B	_	4	advmod	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	male	male	ADV	B	_	6	advmod	_	_
+8	anch'	anche	ADV	B	_	9	advmod	_	SpaceAfter=No
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Vedrai che ce la farai ! #albestaystrong
+1	Vedrai	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	!	!	PUNCT	FS	_	5	punct	_	_
+7	#albestaystrong	#albestaystrong	SYM	X	_	5	obl	_	SpacesAfter=\n
+

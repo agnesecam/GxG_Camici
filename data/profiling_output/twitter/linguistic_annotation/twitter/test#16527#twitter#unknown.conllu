@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lupokkio.it HP reinventa la stampa business:
+1	Lupokkio.it	Lupokkio.it	PROPN	SP	_	3	nsubj	_	_
+2	HP	Hp	PROPN	SP	_	1	flat:name	_	_
+3	reinventa	reinventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	stampa	stampa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	business	business	NOUN	S	Gender=Fem	5	compound	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = HP PageWide Technology è una tecnologia di stampa scalabile, coll ... http:// bit.ly/22egw25
+1	HP	Hp	PROPN	SP	_	6	nsubj	_	_
+2	PageWide	PageWide	PROPN	SP	_	1	flat:name	_	_
+3	Technology	Technology	PROPN	SP	_	1	flat:name	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tecnologia	tecnologia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	stampa	stampa	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	scalabile	scalabile	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	coll	coll	NOUN	S	Number=Sing	6	conj	_	_
+12	...	...	PUNCT	FF	_	13	punct	_	_
+13	http:	http:	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	_
+16	bit.ly/22egw25	bit.ly/22egw25	NUM	N	NumType=Card	6	nummod	_	SpacesAfter=\n
+

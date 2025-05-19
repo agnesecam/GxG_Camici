@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Luca 2:48 E, quando essi lo videro, rimasero stupiti, e sua madre gli disse:
+1	Luca	Luca	PROPN	SP	_	10	nsubj	_	_
+2	2:48	2:48	NUM	N	NumType=Card	3	nummod	_	_
+3	E	e	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	quando	quando	SCONJ	CS	_	8	mark	_	_
+6	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	videro	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	rimasero	rimanere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	stupiti	stupito	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	17	punct	_	_
+13	e	e	CCONJ	CC	_	17	cc	_	_
+14	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	madre	madre	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+16	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	iobj	_	_
+17	disse	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	SpaceAfter=No
+18	:	:	PUNCT	FC	_	10	punct	_	_
+
+# sent_id = 2
+# text = «Figlio, perché ci hai fatto questo?
+1	«	«	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Figlio	figlio	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	perché	perché	SCONJ	CS	_	7	mark	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+6	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+8	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...
+1	...	.	PUNCT	FF	_	0	root	_	_
+
+# sent_id = 4
+# text = http:// fb.me/7Nu3TtpM7
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7Nu3TtpM7	fb.me/7Nu3TtpM7	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = '80 euro a pensioni minime'.
+1	'80	'80	NUM	N	NumType=Card	2	nummod	_	_
+2	euro	euro	NOUN	S	Gender=Masc	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	pensioni	pensione	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+5	minime	minimo	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
+6	'	'	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = @matteorenzi vende tappeti anche su social.Irresponsabile.Pensi a manovra da 40-50mld che dovrà fare in autunno
+1	@matteorenzi	@matteorenzi	ADV	B	_	2	advmod	_	_
+2	vende	vendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tappeti	tappete	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	anche	anche	ADV	B	_	6	advmod	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	social.Irresponsabile.Pensi	social.Irresponsabile.Penso	PROPN	SP	_	3	nmod	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	manovra	manovra	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	da	da	ADP	E	_	10	case	_	_
+10	40-50mld	40-50mld	NOUN	S	Gender=Masc	6	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	fare	fare	VERB	V	VerbForm=Inf	10	acl:relcl	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	autunno	autunno	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpacesAfter=\n
+

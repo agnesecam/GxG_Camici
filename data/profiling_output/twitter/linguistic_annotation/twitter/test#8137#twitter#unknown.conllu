@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #terrorismo Dunque ora sappiamo che i terroristi prendono tranquillamente voli aerei di linea.
+1	#terrorismo	#terrorismo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+2	Dunque	dunque	PROPN	SP	_	4	nsubj	_	_
+3	ora	ora	ADV	B	_	2	advmod	_	_
+4	sappiamo	sapere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	terroristi	terrorista	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+8	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+9	tranquillamente	tranquillo	ADV	B	_	10	advmod	_	_
+10	voli	vole	ADJ	A	Number=Plur	11	amod	_	_
+11	aerei	aereo	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	linea	linea	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Evidentemente...
+1	Evidentemente...	Evidentemente.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = http:// fb.me/7aXK7PSpQ
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7aXK7PSpQ	fb.me/7aXK7PSpQ	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

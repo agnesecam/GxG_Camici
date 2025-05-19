@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gdrcoraline ORA HO CAPITO!!
+1	@gdrcoraline	@gdrcoralina	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	ORA	ora	PROPN	SP	_	1	nmod	_	_
+3	HO	Ho	PROPN	SP	_	2	flat:name	_	_
+4	CAPITO	capito	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = FORSE AVRAI UNA CUGINA ACQUISITA!!
+1	FORSE	forse	ADV	B	_	2	advmod	_	_
+2	AVRAI	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	UNA	Una	PROPN	SP	_	2	obj	_	_
+4	CUGINA	CUGINA	PROPN	SP	_	3	flat:name	_	_
+5	ACQUISITA	acquisito	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @andreagale Ciao Andrea, farai un video speciale per il tuo 100 mila iscritti?
+1	@andreagale	@andreagale	SCONJ	CS	_	5	mark	_	_
+2	Ciao	ciao	PROPN	SP	_	5	nsubj	_	_
+3	Andrea	Andrea	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	farai	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	video	video	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	speciale	speciale	ADJ	A	Number=Sing	7	amod	_	_
+9	per	per	ADP	E	_	14	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+11	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+12	100	100	NUM	N	NumType=Card	14	nummod	_	_
+13	mila	mila	NUM	N	NumType=Card	12	flat	_	_
+14	iscritti	iscritto	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = :)
+1	:	:	PUNCT	FC	_	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

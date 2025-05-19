@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = San Valentino senza ‘e te è assai difficile pe me stasera ‘o saje ca è ‘a festa ‘e tutt ‘e nammurat e ja dimmello...
+1	San	San	PROPN	SP	_	9	nsubj	_	_
+2	Valentino	Valentino	PROPN	SP	_	1	flat:name	_	_
+3	senza	senza	ADP	E	_	4	case	_	_
+4	‘e	‘e	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	assai	assai	ADV	B	_	9	advmod	_	_
+8	difficile	difficile	ADJ	A	Number=Sing	9	amod	_	_
+9	pe	pe	NOUN	S	Gender=Fem	16	nsubj	_	_
+10	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+11	stasera	stasera	ADV	B	_	12	advmod	_	_
+12	‘o	‘o	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+13	saje	saje	ADJ	A	Number=Sing	14	amod	_	_
+14	ca	co	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	‘a	‘o	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+17	festa	festa	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+18	‘e	‘e	ADJ	A	Number=Sing	17	amod	_	_
+19	tutt	tutt	CCONJ	CC	_	21	cc	_	_
+20	‘e	‘e	ADJ	A	Number=Sing	21	amod	_	_
+21	nammurat	nammurat	NOUN	S	_	18	conj	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	ja	ja	NOUN	S	Gender=Fem|Number=Sing	21	conj	_	_
+24	dimmello...	dimmello.	PUNCT	FS	_	21	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/6WYjD3U1X
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/6WYjD3U1X	fb.me/6WYjD3U1X	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

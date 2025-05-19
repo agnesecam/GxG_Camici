@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @pettymagpie certo.
+1	@pettymagpie	@pettymagpiere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	certo	certo	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma da quel che vedo funziona solo per farci sembrare panda.
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	quel	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	solo	solo	ADV	B	_	9	advmod	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9-10	farci	_	_	_	_	_	_	_	_
+9	far	fare	VERB	V	VerbForm=Inf	6	advcl	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+12	panda	panda	NOUN	S	Gender=Masc	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Preferisco altre strade.
+1	Preferisco	preferisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	altre	altro	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+3	strade	strada	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = E non sono una che molla.
+1	E	e	CCONJ	CC	_	6	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	molla	mollare	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa è analisi condivisibile assai @deFrancescoFab https:// twitter.com/theeconomist/s tatus/713392004915400704 …
+1	Questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj:pass	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	analisi	analidere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	condivisibile	condivisibile	ADJ	A	Number=Sing	5	amod	_	_
+5	assai	assai	NOUN	S	_	3	nsubj:pass	_	_
+6	@deFrancescoFab	@deFrancescoFab	PROPN	SP	_	5	nmod	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/theeconomist/s	twitter.com/theeconomist/s	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+11	tatus/713392004915400704	tatus/713392004915400704	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

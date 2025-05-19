@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ciò che dovrà accadere accadrà e tu hai una scelta:
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	accadere	accadere	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
+6	accadrà	accadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	advcl	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+9	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = andarci insieme o andarci contro."
+1-2	andarci	_	_	_	_	_	_	_	_
+1	andar	andare	VERB	V	VerbForm=Inf	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	1	expl	_	_
+3	insieme	insieme	ADV	B	_	1	advmod	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5-6	andarci	_	_	_	_	_	_	_	_
+5	andar	andare	VERB	V	VerbForm=Inf	1	conj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+7	contro	contro	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	1	punct	_	_
+
+# sent_id = 3
+# text = •Osho• pic.twitter.com/SadOOAHDUf
+1	•Osho	•Osho	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	•	•	PUNCT	FF	_	1	punct	_	_
+3	pic.twitter.com/SadOOAHDUf	pic.twitter.com/SadOOAHDUf	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

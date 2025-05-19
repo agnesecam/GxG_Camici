@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #politica Una mappa di tutte le battaglie degli ultimi 4000 anni:
+1	#politica	#politico	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	mappa	mappa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	battaglie	battaglia	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+8-9	degli	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	12	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+10	ultimi	ultimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	12	amod	_	_
+11	4000	4000	NUM	N	NumType=Card	12	nummod	_	_
+12	anni	anno	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Una mappa di tutte le battaglie degl ... http:// bit.ly/1TS0Z1m #italia
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mappa	mappa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	6	det:predet	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	battaglie	battaglia	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+7	degl	degl	ADJ	A	_	6	amod	_	_
+8	...	...	PUNCT	FF	_	9	punct	_	_
+9	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	2	punct	_	_
+12	bit.ly/1TS0Z1m	bit.ly/1TS0Z1m	X	SW	Foreign=Yes	2	compound	_	_
+13	#italia	#italia	X	SW	Foreign=Yes	12	flat:foreign	_	SpacesAfter=\n
+

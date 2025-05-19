@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @maccarimiranda @CretellaRoberta Fa ciò che vuole, chi lo ferma?
+1	@maccarimiranda	@maccarimirandare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	@CretellaRoberta	@CretellaRoberta	PROPN	SP	_	1	nmod	_	_
+3	Fa	fa	PROPN	SP	_	2	flat:name	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	chi	chi	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	ferma	fermare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il parlamento delegittimato e sottomesso,o i signor SI che non osano nulla.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	parlamento	parlamento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	delegittimato	delegittimato	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	sottomesso,o	sottomesso,o	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	signor	signore	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	SI	si	PROPN	SP	_	7	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	osano	osare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+12	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	11	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

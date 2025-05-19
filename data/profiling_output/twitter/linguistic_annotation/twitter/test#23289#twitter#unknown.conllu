@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Affida il tuo peso al Signore;
+1	Affida	Affidare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	peso	peso	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Signore	signore	PROPN	SP	_	1	obl	_	SpaceAfter=No
+8	;	;	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = egli ti darà aiuto, mai permetterà che un giusto soccomba!
+1	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	darà	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	mai	mai	ADV	B	_	7	advmod	_	_
+7	permetterà	permettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	conj	_	_
+8	che	che	SCONJ	CS	_	11	mark	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	soccomba	soccomba	NOUN	S	Gender=Masc|Number=Sing	7	ccomp	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// bible.com/1196/psa.55.23 .ICL00 …
+1	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	bible.com/1196/psa.55.23	bible.com/1196/psa.55.23	NUM	N	NumType=Range	5	nummod	_	_
+5	.ICL00	.ICL00	PROPN	SP	_	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

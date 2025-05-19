@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mazzettam è l'estrazione di acqua e produrre la subsidenza.
+1	@mazzettam	@mazzettam	NOUN	S	Gender=Masc	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	estrazione	estrazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	produrre	produrre	VERB	V	VerbForm=Inf	4	conj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	subsidenza	subsidenza	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = acque industriali irrigue potabile.
+1	acque	acqua	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	industriali	industriale	ADJ	A	Number=Plur	1	amod	_	_
+3	irrigue	irriguire	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+4	potabile	potabile	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = idrometano si faceva anni 50.
+1	idrometano	idrometare	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+5	50	50	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = @AleGuerani
+1	@AleGuerani	@AleGuerani	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

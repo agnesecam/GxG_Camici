@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mariellavendit e @mariannamadia ha risposto al solito con sagacia, arguta comprensione, entusiasta partecipazione, immancabile risolutezza
+1	@mariellavendit	@mariellavendit	NOUN	S	_	5	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	@mariannamadia	@mariannamadia	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	risposto	rispondere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	solito	solito	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	sagacia	sagacia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	arguta	argere	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	comprensione	comprensione	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	entusiasta	entusiasta	ADJ	A	Number=Sing	16	amod	_	_
+16	partecipazione	partecipazione	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18	immancabile	immancabile	ADJ	A	Number=Sing	16	amod	_	_
+19	risolutezza	risolutezza	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dov 'è grande l'amore, l'ansia serra:
+1	Dov	Dov	NOUN	S	_	4	obl	_	_
+2	'	'	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	grande	grande	ADJ	A	Number=Sing	0	root	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	amore	amore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	ansia	ansia	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+10	serra	serra	NOUN	S	Gender=Fem|Number=Sing	9	compound	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = timor e amore sono alleati in guerra.
+1	timor	timor	NOUN	S	Gender=Masc	5	nsubj:pass	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	amore	amore	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+5	alleati	alleare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = @Twifavola @TwLetteratura #HamleTw /09 pic.twitter.com/D1FCkRobwN
+1	@Twifavola	@Twifavola	PROPN	SP	_	0	root	_	_
+2	@TwLetteratura	@TwLetteratura	PROPN	SP	_	1	flat:name	_	_
+3	#HamleTw	#HamleTw	PROPN	SP	_	1	flat:name	_	_
+4	/09	/09	NUM	N	NumType=Card	5	nummod	_	_
+5	pic.twitter.com/D1FCkRobwN	pic.twitter.com/D1FCkRobwN	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

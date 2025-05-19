@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando sono proprio i nonni a rovinare l esistenza dei nipoti li fate smettere chiaro?
+1	Quando	quando	SCONJ	CS	_	5	mark	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	proprio	proprio	ADV	B	_	5	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	nonni	nonno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	rovinare	rovinare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	l	l	X	X	_	9	case	_	_
+9	esistenza	esistenza	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10-11	dei	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	nipoti	nipote	NOUN	S	Number=Plur	9	nmod	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	acl	_	_
+15	smettere	smettere	VERB	V	VerbForm=Inf	14	xcomp	_	_
+16	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Li stanno violentando facendo su di essi
+1	Li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+2	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	violentando	violentare	VERB	V	VerbForm=Ger	0	root	_	_
+4	facendo	fare	VERB	V	VerbForm=Ger	3	advcl	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	SpacesAfter=\n
+

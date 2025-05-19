@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "E anche quando si gelava con la luna già cambiata, eri solo più lontana ma tu ci sei sempre stata..."
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	E	e	CCONJ	CC	_	6	cc	_	_
+3	anche	anche	ADV	B	_	6	advmod	_	_
+4	quando	quando	SCONJ	CS	_	6	mark	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	gelava	gelavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	luna	luna	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	già	già	ADV	B	_	11	advmod	_	_
+11	cambiata	cambiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	eri	ere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	conj	_	_
+14	solo	solo	ADV	B	_	16	advmod	_	_
+15	più	più	ADV	B	_	16	advmod	_	_
+16	lontana	lontano	ADJ	A	Gender=Fem|Number=Sing	13	obj	_	_
+17	ma	ma	CCONJ	CC	_	21	cc	_	_
+18	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	21	nsubj	_	_
+19	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	21	expl	_	_
+20	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	sempre	sempre	ADV	B	_	16	conj	_	_
+22	stata...	stata.	PUNCT	FS	_	21	punct	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	21	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @paolofranci17
+1	@paolofranci17	@paolofranci17	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = No ma infatti farò un numero apposito per le rotture di palle
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	infatti	infatti	ADV	B	_	4	advmod	_	_
+4	farò	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	numero	numero	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	apposito	apposito	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	rotture	rottura	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	palle	palla	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	SpacesAfter=\n
+

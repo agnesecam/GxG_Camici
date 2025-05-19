@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avete capito perché Rugani non gioca...?
+1	Avete	avere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	perché	perché	SCONJ	CS	_	4	mark	_	_
+4	Rugani	Rugani	PROPN	SP	_	2	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	gioca...	gioca.	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Tolto l'episodio del rigore...è sembrato sempre molto insicuro...
+1	Tolto	togliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	episodio	episodio	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	rigore...è	rigore...è	NOUN	S	Gender=Masc	3	nmod	_	_
+7	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+8	sempre	sempre	ADV	B	_	9	advmod	_	_
+9	molto	molto	ADV	B	_	7	advmod	_	_
+10	insicuro..	insicuro	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

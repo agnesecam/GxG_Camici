@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il suo orsetto.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	orsetto	orsetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = So che può sembrare stupido, ma ce l'ha da quando era piccolo.
+1	So	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+5	stupido	stupido	ADJ	A	_	4	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+9	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+10	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	da	da	ADP	E	_	14	mark	_	_
+12	quando	quando	SCONJ	CS	_	14	mark	_	_
+13	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+14	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	10	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = C'è affezionato, e nessuno regalerebbe così un ricordo simile
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	affezionato	affezionato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+7	regalerebbe	regalare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	così	così	ADV	B	_	7	advmod	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ricordo	ricordo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+11	simile	simile	ADJ	A	Number=Sing	10	amod	_	SpacesAfter=\n
+

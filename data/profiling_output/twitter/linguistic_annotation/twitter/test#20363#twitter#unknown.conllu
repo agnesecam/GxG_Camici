@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_Carmine_b Buschini sei speciale ovunque e dovunque sarai io ti sosterrò sempre come tu senza saperlo fai per Me!
+1	@_Carmine_b	@_Carmine_b	PROPN	SP	_	11	nsubj	_	_
+2	Buschini	Buschini	PROPN	SP	_	1	flat:name	_	_
+3	sei	essere	NUM	N	NumType=Card	4	nummod	_	_
+4	speciale	speciale	ADJ	A	Number=Sing	1	amod	_	_
+5	ovunque	ovunque	ADV	B	_	8	advmod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	dovunque	dovunque	ADV	B	_	8	advmod	_	_
+8	sarai	sarare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	11	conj	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	iobj	_	_
+11	sosterrò	sosterrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	sempre	sempre	ADV	B	_	11	advmod	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	11	obl	_	_
+15	senza	senza	ADP	E	_	16	mark	_	_
+16-17	saperlo	_	_	_	_	_	_	_	_
+16	saper	sapere	VERB	V	VerbForm=Inf	11	xcomp	_	_
+17	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+18	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+19	per	per	ADP	E	_	20	case	_	_
+20	Me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	18	obl	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Ti saluto e abbraccio
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	saluto	salere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	abbraccio	abbrare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	SpacesAfter=\n
+

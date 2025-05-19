@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Faccio un'ipotesi:se le avessero fatto un invito-imboscata per molestarla?
+1	Faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	ipotesi:se	ipotesi:so	NOUN	S	Number=Sing	6	nsubj	_	_
+4	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	6	iobj	_	_
+5	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	invito	invito	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	imboscata	imboscare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12-13	molestarla	_	_	_	_	_	_	_	SpaceAfter=No
+12	molestar	molestare	VERB	V	VerbForm=Inf	10	advcl	_	_
+13	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #chilhavisto
+1	#chilhavisto	#chilhavedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

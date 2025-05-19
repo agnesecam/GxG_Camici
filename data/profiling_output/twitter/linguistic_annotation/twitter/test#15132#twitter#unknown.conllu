@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un bambino puo chiedere scusa e dissociarsi, Sarebbe bene che il resto del mondo islamico facesse altrettanto.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	puo	puo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	chiedere	chiedere	VERB	V	VerbForm=Inf	0	root	_	_
+5	scusa	scusare	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7-8	dissociarsi	_	_	_	_	_	_	_	SpaceAfter=No
+7	dissociar	dissociare	VERB	V	VerbForm=Inf	4	conj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	Sarebbe	essere	PROPN	SP	_	7	obl	_	_
+11	bene	bene	ADV	B	_	10	advmod	_	_
+12	che	che	SCONJ	CS	_	19	mark	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	resto	resto	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+18	islamico	islamico	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+20	altrettanto	altrettanto	ADV	B	_	19	advmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/xproudoftorres /status/712322802842525696 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/xproudoftorres	twitter.com/xproudoftorres	DET	RD	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	/status/712322802842525696	/status/712322802842525696	NUM	N	NumType=Card	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

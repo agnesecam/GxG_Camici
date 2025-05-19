@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #sutwitterhocapitoche tanti sono convinti che ogni tweet o la maggior parte di essi siano rivolti a loro.Madavvero!
+1	#sutwitterhocapitoche	#sutwitterhocapitoco	ADV	B	_	4	advmod	_	_
+2	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	convinti	convinto	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+5	che	che	SCONJ	CS	_	15	mark	_	_
+6	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	7	det	_	_
+7	tweet	tweet	NOUN	S	Gender=Masc	15	nsubj	_	_
+8	o	o	CCONJ	CC	_	11	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	maggior	maggiore	ADJ	A	Degree=Cmp|Number=Sing	11	amod	_	_
+11	parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod	_	_
+14	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	rivolti	rivolgere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	loro.Madavvero	loro.Madavvero	PROPN	SP	_	15	obl	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/BjqyETnB8z
+1	pic.twitter.com/BjqyETnB8z	pic.twitter.com/BjqyETnB8z	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

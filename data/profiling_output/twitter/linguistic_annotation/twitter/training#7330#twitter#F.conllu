@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rtl1025 #password Grande Gabriele !!!
+1	@rtl1025	@rtl1025	NUM	N	NumType=Card	2	nummod	_	_
+2	#password	#password	NOUN	S	Gender=Masc	0	root	_	_
+3	Grande	Grande	ADJ	A	Number=Sing	2	amod	_	_
+4	Gabriele	Gabriele	PROPN	SP	_	2	nmod	_	_
+5	!!!	!!!	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 2
+# text = I vicini maleducati rompono siano essi bambini o adulti !!! Educare prima i genitori !!
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	vicini	vicino	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	maleducati	maleducato	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4	rompono	rompere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+6	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+7	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	adulti	adulto	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+10	!!!	!!!	PUNCT	FF	_	7	punct	_	_
+11	Educare	educare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+12	prima	prima	ADV	B	_	14	advmod	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+15	!!	!!	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

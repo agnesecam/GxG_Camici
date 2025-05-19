@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Piovegovernolad Chissà quanti Egiziani irregolari dovrà prendere l' #Italia in cambio di una finta collaborazione del loro governo?
+1	@Piovegovernolad	@Piovegovernolad	ADP	E	_	2	case	_	_
+2	Chissà	chissà	PROPN	SP	_	7	obl	_	_
+3	quanti	quanto	DET	DQ	Gender=Masc|Number=Plur|PronType=Int	4	det	_	_
+4	Egiziani	Egiziani	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+5	irregolari	irregolare	ADJ	A	Number=Plur	4	amod	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	prendere	prendere	VERB	V	VerbForm=Inf	0	root	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	#Italia	#Italia	PROPN	SP	_	7	obj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+12	di	di	ADP	E	_	15	case	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	finta	finto	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	collaborazione	collaborazione	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	19	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	loro	loro	DET	AP	Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	governo	governo	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

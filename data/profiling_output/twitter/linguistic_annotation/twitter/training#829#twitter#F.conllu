@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Iniziamo anche #MrRobot sperando in qualcosa di bello @whoismrrobot Manco non avessimo #serietv da vedere!
+1	Iniziamo	Inizare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	anche	anche	ADV	B	_	3	advmod	_	_
+3	#MrRobot	#MrRobot	PROPN	SP	_	1	obj	_	_
+4	sperando	sperare	VERB	V	VerbForm=Ger	13	advcl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	obl	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	bello	bello	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	@whoismrrobot	@whoismrrobot	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	Manco	Manco	PROPN	SP	_	9	nmod	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	#serietv	#serietv	ADJ	NO	Number=Sing|NumType=Ord	1	conj	_	_
+14	da	da	ADP	E	_	15	mark	_	_
+15	vedere	vedere	VERB	V	VerbForm=Inf	13	advcl	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

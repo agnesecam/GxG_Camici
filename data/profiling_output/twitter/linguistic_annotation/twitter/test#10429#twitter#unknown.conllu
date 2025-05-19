@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Lilletta18 hai notato pure te la posa assai aggraziata?
+1	@Lilletta18	@Lilletta18	PROPN	SP	_	3	nsubj	_	_
+2	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	notato	notare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	pure	pure	ADV	B	_	5	advmod	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	posa	posa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+8	assai	assai	ADV	B	_	9	advmod	_	_
+9	aggraziata	aggraziare	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = E la panza?
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	panza	panza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = XD
+1	XD	Xd	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

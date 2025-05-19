@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pesci..
+1	Pesci.	Pesci.	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Avrete a che fare con una persona poco sincera.
+1	Avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	mark	_	_
+3	che	che	SCONJ	CS	_	2	fixed	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	persona	persona	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	poco	poco	ADV	B	_	9	advmod	_	_
+9	sincera.	sincera.	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = Un piccolo problema dovrà essere risolto...
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	problema	problema	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+5	essere	essere	AUX	V	VerbForm=Inf	6	cop	_	_
+6	risolto..	risolto..	NOUN	S	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

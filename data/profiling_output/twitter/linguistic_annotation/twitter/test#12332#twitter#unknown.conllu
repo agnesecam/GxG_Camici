@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @iodonnalive #ioho20anni perché ho vissuto due vite...
+1	@iodonnalive	@iodonnalive	ADV	B	_	2	advmod	_	_
+2	#ioho20anni	#ioho20anne	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+3	perché	perché	SCONJ	CS	_	5	mark	_	_
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	vissuto	vivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+6	due	due	NUM	N	NumType=Card	5	obj	_	_
+7	vite...	vite...	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = di 20 ciascuna pic.twitter.com/haVsQOv6sC
+1	di	di	ADP	E	_	4	case	_	_
+2	20	20	NUM	N	NumType=Card	3	nummod	_	_
+3	ciascuna	ciascuno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	pic.twitter.com/haVsQOv6sC	pic.twitter.com/haVsQOv6sC	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

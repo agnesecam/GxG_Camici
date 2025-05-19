@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Delirauhl @Albericoyes perché è giugno e farà caldo cassiopea
+1	@Delirauhl	@Delirauhl	PROPN	SP	_	0	root	_	_
+2	@Albericoyes	@Albericoyes	PROPN	SP	_	1	flat:name	_	_
+3	perché	perché	SCONJ	CS	_	5	mark	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	giugno	giugre	NOUN	S	Gender=Masc|Number=Sing	1	advcl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	_
+8	caldo	caldo	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	_
+9	cassiopea	cassiopea	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpacesAfter=\n
+

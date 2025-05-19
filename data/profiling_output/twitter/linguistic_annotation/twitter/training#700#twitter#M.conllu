@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Aggiungo se avessimo lametà degli attributi adesempio del Genoa il terzoposto sarebbe stato certo.Ma non li abbiamo https:// twitter.com/rossonerosempe r/status/709040515103244288 …
+1	Aggiungo	aggiungere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	advcl	_	_
+4	lametà	lametà	NOUN	S	Gender=Fem	3	obj	_	_
+5-6	degli	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	attributi	attributo	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	adesempio	adesempio	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Genoa	Genoa	PROPN	SP	_	7	nmod	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	terzoposto	terzoposto	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+14	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	cop	_	_
+16	certo.Ma	certo.Ma	PROPN	SP	_	1	ccomp	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	obj	_	_
+19	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+20	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	19	punct	_	_
+23	twitter.com/rossonerosempe	twitter.com/rossonerosempa	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	24	det	_	_
+24	r/status/709040515103244288	r/status/709040515103244288	NUM	N	NumType=Card	19	obj	_	_
+25	…	…	PUNCT	FF	_	19	punct	_	SpacesAfter=\n
+

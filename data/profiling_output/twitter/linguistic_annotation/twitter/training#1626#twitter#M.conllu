@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = https:// youtu.be/rbtKkMHcFxI Amare verità.
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	youtu.be/rbtKkMHcFxI	youtu.be/rbtKkMHcFxI	PROPN	SP	_	0	root	_	_
+5	Amare	Amare	PROPN	SP	_	4	flat:name	_	_
+6	verità	verità	NOUN	S	Gender=Fem	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Un quadro realistico delle nostre città.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	quadro	quadro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	realistico	realistico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	città	città	NOUN	S	Gender=Fem	2	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Bravo Niccolò!
+1	Bravo	bravo	PROPN	SP	_	0	root	_	_
+2	Niccolò	Niccolò	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = @Radio_GdA @niccolofabi
+1	@Radio_GdA	@Radio_GdA	DET	RI	Definite=Ind|PronType=Art	2	det	_	_
+2	@niccolofabi	@niccolofabo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

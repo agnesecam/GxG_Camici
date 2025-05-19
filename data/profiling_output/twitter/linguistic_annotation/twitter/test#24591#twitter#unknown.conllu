@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @killedbymuse ma si sono bravi, hanno canzoni carine ok ma madonna stanno avendo troppo credito secondo me, poi l'altro giorno ho visto un v
+1	@killedbymuse	@killedbymudere	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	bravi	bravo	ADJ	A	Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	canzoni	canzone	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	_
+9	carine	carino	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+10	ok	ok	NOUN	S	_	8	nsubj	_	_
+11	ma	ma	CCONJ	CC	_	12	cc	_	_
+12	madonna	madonna	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+13	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	avendo	avere	VERB	V	VerbForm=Ger	7	conj	_	_
+15	troppo	troppo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	16	det	_	_
+16	credito	credito	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+17	secondo	secondo	ADP	E	_	18	case	_	_
+18	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	25	punct	_	_
+20	poi	poi	ADV	B	_	25	advmod	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
+22	altro	altro	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	_
+24	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+26	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	v	quinto	ADJ	NO	Number=Sing|NumType=Ord	25	obj	_	SpacesAfter=\n
+

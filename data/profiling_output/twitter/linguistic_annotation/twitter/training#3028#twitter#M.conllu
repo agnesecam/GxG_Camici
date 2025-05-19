@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incredibile!
+1	Incredibile	incredibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Come un mondopieno di persone ti puo sembrare deserto se una sola manca — Ascoltando musica
+1	Come	come	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mondopieno	mondopieno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	persone	persona	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+6	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	7	iobj	_	_
+7	puo	puo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	advcl	_	_
+9	deserto	deserto	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	se	se	SCONJ	CS	_	15	mark	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	sola	solo	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	manca	manca	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+14	—	—	PUNCT	FF	_	13	punct	_	_
+15	Ascoltando	ascoltando	VERB	V	VerbForm=Ger	8	advcl	_	_
+16	musica	musico	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	SpacesAfter=\n
+

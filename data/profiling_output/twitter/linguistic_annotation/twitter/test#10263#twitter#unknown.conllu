@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Un vero giornalista spiega benissimo quello che non sa".
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	giornalista	giornalista	NOUN	S	Number=Sing	5	nsubj	_	_
+5	spiega	spiegare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

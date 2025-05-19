@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le nostre priorità sono consolidare la riduzione in atto della pressione fiscale, soprattutto su lavoro e... http:// fb.me/32VxNYG3V
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	priorità	priorità	NOUN	S	Gender=Fem	5	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	consolidare	consolidare	VERB	V	VerbForm=Inf	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	riduzione	riduzione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	atto	atto	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10-11	della	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	pressione	pressione	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+13	fiscale	fiscale	ADJ	A	Number=Sing	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	5	punct	_	_
+15	soprattutto	soprattutto	ADV	B	_	17	advmod	_	_
+16	su	su	ADP	E	_	17	case	_	_
+17	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+18	e...	e.	NUM	N	NumType=Card	17	nummod	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	17	punct	_	_
+22	fb.me/32VxNYG3V	fb.me/32VxNYG3V	PROPN	SP	_	5	conj	_	SpacesAfter=\n
+

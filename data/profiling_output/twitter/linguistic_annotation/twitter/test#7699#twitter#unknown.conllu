@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ORIANA FALLACI SULLE ADOZIONI GAY.
+1	ORIANA	ORIANA	ADP	E	_	2	case	_	_
+2	FALLACI	FALLACI	PROPN	SP	_	0	root	_	_
+3-4	SULLE	_	_	_	_	_	_	_	_
+3	SU	su	PROPN	SP	_	2	flat:name	_	_
+4	LE	Le	PROPN	SP	_	2	nmod	_	_
+5	ADOZIONI	ADOZIONI	PROPN	SP	_	4	flat:name	_	_
+6	GAY	Gay	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = IMMENSA!!
+1	IMMENSA	IMMENSA	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = "[...]Con quale diritto, dunque , una coppia di omosessuali (maschi...
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	[	[	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	...	...	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	]Con	]con	PROPN	SP	_	0	root	_	_
+5	quale	quale	DET	DQ	Number=Sing|PronType=Int	6	det	_	_
+6	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	dunque	dunque	ADV	B	_	6	advmod	_	_
+9	,	,	PUNCT	FF	_	6	punct	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	coppia	coppia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	omosessuali	omosessuale	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+14	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	maschi...	maschi.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/1B1YHPFa9
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/1B1YHPFa9	fb.me/1B1YHPFa9	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

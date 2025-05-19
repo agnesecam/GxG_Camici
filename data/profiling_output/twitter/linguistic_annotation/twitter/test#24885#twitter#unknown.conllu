@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le frasi di#Bertolaso sulla#Meloni sono squallide,vogliono riportarci indietro di 100 anni.tutte le donne farebbero meglio a fare le mamme?
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	frasi	frase	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+3	di	di	ADP	E	_	5	case	_	SpaceAfter=No
+4	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	Bertolaso	Bertolaso	PROPN	SP	_	2	nmod	_	_
+6	sulla#Meloni	sulla#Meloni	PROPN	SP	_	5	flat:name	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	squallide	squallido	ADJ	A	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+9	,vogliono	,voglrire	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10-11	riportarci	_	_	_	_	_	_	_	_
+10	riportar	riportare	VERB	V	VerbForm=Inf	8	advcl	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	_
+12	indietro	indietro	ADV	B	_	10	advmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	100	100	NUM	N	NumType=Card	10	nummod	_	_
+15	anni.tutte	anni.tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	17	det:predet	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	donne	donna	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
+18	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+19	meglio	meglio	ADV	B	_	18	advmod	_	_
+20	a	a	ADP	E	_	21	mark	_	_
+21	fare	fare	VERB	V	VerbForm=Inf	18	xcomp	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	mamme	mamme	NOUN	S	Gender=Fem|Number=Plur	21	obj	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

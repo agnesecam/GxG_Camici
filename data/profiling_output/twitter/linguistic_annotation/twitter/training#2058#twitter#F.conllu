@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LauraePaola dopo una 1° puntata di studio, sono conquistata e commossa dallo smisurato talento di @LauraPausini e @PaolaCortellesi Grazie!!
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LauraePaola	LauraePaola	PROPN	SP	_	11	nsubj:pass	_	_
+3	dopo	dopo	ADP	E	_	6	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	1°	1°	ADJ	NO	NumType=Ord	6	amod	_	_
+6	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	studio	studio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	6	punct	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+11	conquistata	conquistare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	commossa	commuovere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
+14-15	dallo	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	17	case	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	smisurato	smisurato	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	talento	talento	NOUN	S	Gender=Masc|Number=Sing	13	obl:agent	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	@LauraPausini	@LauraPausini	PROPN	SP	_	17	nmod	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	@PaolaCortellesi	@PaolaCortellesi	PROPN	SP	_	19	conj	_	_
+22	Grazie	grazie	PROPN	SP	_	21	flat:name	_	SpaceAfter=No
+23	!	!	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

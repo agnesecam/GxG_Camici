@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dopo Kung Fu Panda, Adinolfi se la prende con Lupin.
+1	Dopo	dopo	ADP	E	_	2	case	_	_
+2	Kung	Kung	PROPN	SP	_	9	obl	_	_
+3	Fu	essere	PROPN	SP	_	2	flat:name	_	_
+4	Panda	panda	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	Adinolfi	Adinolfi	PROPN	SP	_	9	nsubj	_	_
+7	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	prende	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	Lupin	Lupin	PROPN	SP	_	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Margo gliela fa solo annusare e lui si ammazza di seghe.
+1	Margo	Margo	PROPN	SP	_	4	nsubj	_	_
+2-3	gliela	_	_	_	_	_	_	_	_
+2	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	iobj	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	solo	solo	ADV	B	_	6	advmod	_	_
+6	annusare	annusare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	ammazza	ammazzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	seghe	sega	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

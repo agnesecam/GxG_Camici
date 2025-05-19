@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Aprire i file riservati sugli Ufo, la Clinton farà chiarezza" - La Repubblica:
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Aprire	aprire	VERB	V	VerbForm=Inf	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	file	fila	NOUN	S	Number=Sing	2	obj	_	_
+5	riservati	riservato	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6-7	sugli	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Ufo	Ufo	PROPN	SP	_	12	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Clinton	Clinton	PROPN	SP	_	12	nsubj	_	_
+12	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	acl:relcl	_	_
+13	chiarezza	chiarezza	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	12	punct	_	_
+15	-	-	PUNCT	FF	_	12	punct	_	_
+16	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Repubblica	Repubblica	PROPN	SP	_	12	obj	_	SpaceAfter=No
+18	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = La Repubblica"Aprire i file ri... http:// bit.ly/23hYLiR
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Repubblica	repubblica	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	Aprire	aprire	VERB	V	VerbForm=Inf	11	acl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	file	file	ADJ	A	Number=Sing	7	amod	_	_
+7	ri...	ri...	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	bit.ly/23hYLiR	bit.ly/23hYLiR	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

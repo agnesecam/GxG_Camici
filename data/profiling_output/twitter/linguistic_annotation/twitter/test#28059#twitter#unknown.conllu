@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rotafixa @salvaiciclisti battiamoci anche perché I comuni facciano il loro dovere e manutengano un manto stradale decente!
+1	@rotafixa	@rotafixare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@salvaiciclisti	@salvaiciclista	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+3	battiamoci	battiamoco	ADJ	A	Number=Plur	2	amod	_	_
+4	anche	anche	ADV	B	_	8	advmod	_	_
+5	perché	perché	SCONJ	CS	_	8	mark	_	_
+6	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	comuni	comune	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+8	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	loro	loro	DET	AP	Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	manutengano	manutengare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	manto	manto	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	stradale	stradale	ADJ	A	Number=Sing	15	amod	_	_
+17	decente	decente	ADJ	A	Number=Sing	15	amod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

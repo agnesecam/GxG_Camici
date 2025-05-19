@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma si può esser più idioti?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	esser	essere	AUX	VA	VerbForm=Inf	6	cop	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	idioti	idioto	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Meno male che si fa i video e lo fa conoscere a tutti.
+1	Meno	meno	ADV	B	_	2	advmod	_	_
+2	male	male	ADV	B	_	11	advmod	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:pass	_	_
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	video	video	NOUN	S	Gender=Masc	10	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	conoscere	conoscere	VERB	V	VerbForm=Inf	0	root	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 3
+# text = Sto rivalutando Salvini......
+1	Sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	rivalutando	rivalutare	VERB	V	VerbForm=Ger	0	root	_	_
+3	Salvini......	Salvini......	PROPN	SP	_	2	obj	_	_
+
+# sent_id = 4
+# text = http:// fb.me/4rOx5MqlN
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4rOx5MqlN	fb.me/4rOx5MqlN	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

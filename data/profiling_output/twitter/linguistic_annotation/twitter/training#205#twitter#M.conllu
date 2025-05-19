@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CHE POTENZA I CORSI CON IL "COUCH"!
+1	CHE	che	ADP	E	_	2	case	_	_
+2	POTENZA	potenza	PROPN	SP	_	0	root	_	_
+3	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	CORSI	corso	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	CON	con	PROPN	SP	_	4	nmod	_	_
+6	IL	Il	PROPN	SP	_	5	flat:name	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	COUCH	COUCH	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Pensavo che con i Corsi a Cosenza avessimo toccato l’apice… e, invece, guardate… https:// lnkd.in/d5VTywt
+1	Pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	9	mark	_	_
+3	con	con	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	Corsi	corso	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	Cosenza	Cosenza	PROPN	SP	_	5	nmod	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	toccato	toccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+10	l’	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	apice…	apice…	PUNCT	FF	_	14	punct	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	14	punct	_	_
+14	invece	invece	ADV	B	_	9	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
+16	guardate…	guardate…	PUNCT	FF	_	14	punct	_	_
+17	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	14	punct	_	_
+20	lnkd.in/d5VTywt	lnkd.in/d5VTywt	PROPN	SP	_	9	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PREGHIERA SCIAMANICA Possa, il dio delle Nuvole, proteggere le nostre case, darci ricchezza e abbondanza da... http:// fb.me/7YYzT9BNi
+1	PREGHIERA	preghiera	PROPN	SP	_	11	nsubj	_	_
+2	SCIAMANICA	SCIAMANICA	PROPN	SP	_	1	flat:name	_	_
+3	Possa	potere	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dio	dio	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+7-8	delle	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	Nuvole	Nuvole	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	1	punct	_	_
+11	proteggere	proteggere	VERB	V	VerbForm=Inf	0	root	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	case	casa	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16-17	darci	_	_	_	_	_	_	_	_
+16	dar	dare	VERB	V	VerbForm=Inf	11	conj	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	iobj	_	_
+18	ricchezza	ricchezza	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	abbondanza	abbondanza	NOUN	S	Gender=Fem|Number=Sing	21	conj	_	_
+21	da...	da.	NOUN	S	_	16	obl	_	_
+22	http:	http:	PUNCT	FC	_	21	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	21	punct	_	_
+25	fb.me/7YYzT9BNi	fb.me/7YYzT9BNi	PROPN	SP	_	11	conj	_	SpacesAfter=\n
+

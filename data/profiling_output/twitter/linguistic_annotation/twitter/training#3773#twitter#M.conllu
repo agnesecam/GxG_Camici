@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = frutto preferisco la ciliegia, solo che mi fa schifo tutto ciò che è al gusto di ciliegia (tipo lo yogurt).
+1	frutto	frutto	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	preferisco	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ciliegia	ciliegia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	solo	solo	ADV	B	_	9	advmod	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	9	xcomp	_	_
+11	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
+12	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	obj	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	gusto	gusto	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	ciliegia	ciliegia	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+21	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+22	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	yogurt	yogurt	NOUN	S	_	21	nmod	_	SpaceAfter=No
+24	)	)	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Non so se capite
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	4	case	_	_
+4	capite	capire	X	SW	Foreign=Yes	2	obl	_	SpacesAfter=\n
+

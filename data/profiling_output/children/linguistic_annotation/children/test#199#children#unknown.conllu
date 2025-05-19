@@ -1,0 +1,109 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = caro alessandro allora la tua difficoltà è il lavoro di scrittura, invece le mie difficoltà erano 2 ed era la calligrafia ei temi troppo corti, la mia prima calligrafia era grande e storta e invece la mia vera è piccola e normale, questa cosa l’ ho superata impugnando la penna in un altro modo, invece il secondo problema lo sto ancora risolvendo.
+1	caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	alessandro	alessandro	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s
+3	allora	allora	ADV	B	_	2	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	difficoltà	difficoltà	NOUN	S	Gender=Fem	9	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	50	dislocated	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	scrittura	scrittura	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	18	punct	_	_
+13	invece	invece	ADV	B	_	18	advmod	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	difficoltà	difficoltà	NOUN	S	Gender=Fem	18	nsubj	_	_
+17	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	_
+18	2	2	NUM	N	NumType=Card	9	conj	_	_
+19	ed	e	CCONJ	CC	_	20	cc	_	_
+20	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	calligrafia	calligrafia	NOUN	S	Gender=Fem|Number=Sing	20	obj	_	_
+23	ei	eo	NUM	N	NumType=Card	24	nummod	_	_
+24	temi	tema	NOUN	S	Gender=Masc|Number=Plur	22	nmod	_	_
+25	troppo	troppo	ADV	B	_	26	advmod	_	_
+26	corti	corto	ADJ	A	Gender=Masc|Number=Plur	24	amod	_	SpaceAfter=No
+27	,	,	PUNCT	FF	_	33	punct	_	_
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+29	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	31	det:poss	_	_
+30	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	31	amod	_	_
+31	calligrafia	calligrafia	NOUN	S	Gender=Fem|Number=Sing	33	nsubj	_	_
+32	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	cop	_	_
+33	grande	grande	ADJ	A	Number=Sing	9	conj	_	_
+34	e	e	CCONJ	CC	_	35	cc	_	_
+35	storta	storto	ADJ	A	Gender=Fem|Number=Sing	33	conj	_	_
+36	e	e	CCONJ	CC	_	39	cc	_	_
+37	invece	invece	ADV	B	_	39	advmod	_	_
+38	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
+39	mia	mia	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	_
+40	vera	vero	ADJ	A	Gender=Fem|Number=Sing	39	amod	_	_
+41	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	_
+42	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	9	conj	_	_
+43	e	e	CCONJ	CC	_	44	cc	_	_
+44	normale	normale	ADJ	A	Number=Sing	42	conj	_	SpaceAfter=No
+45	,	,	PUNCT	FF	_	42	punct	_	_
+46	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	47	det	_	_
+47	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	50	dislocated	_	_
+48	l’	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	50	obj	_	_
+49	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	50	aux	_	_
+50	superata	superare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	62	acl	_	_
+51	impugnando	impugnare	VERB	V	VerbForm=Ger	50	advcl	_	_
+52	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	53	det	_	_
+53	penna	penna	NOUN	S	Gender=Fem|Number=Sing	51	obj	_	_
+54	in	in	ADP	E	_	57	case	_	_
+55	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	57	det	_	_
+56	altro	altro	ADJ	A	Gender=Masc|Number=Sing	57	amod	_	_
+57	modo	modo	NOUN	S	Gender=Masc|Number=Sing	51	obl	_	SpaceAfter=No
+58	,	,	PUNCT	FF	_	50	punct	_	_
+59	invece	invece	ADV	B	_	62	advmod	_	_
+60	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	62	det	_	_
+61	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	62	amod	_	_
+62	problema	problema	NOUN	S	Gender=Masc|Number=Sing	66	nsubj	_	_
+63	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	66	obj	_	_
+64	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	66	aux	_	_
+65	ancora	ancora	ADV	B	_	66	advmod	_	_
+66	risolvendo	risolvere	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+67	.	.	PUNCT	FS	_	66	punct	_	_
+
+# sent_id = 2
+# text = Questo problema lo potresti risolvere rilassandoti e scrivendo.
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	potresti	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	risolvere	risolvere	VERB	V	VerbForm=Inf	0	root	_	_
+6-7	rilassandoti	_	_	_	_	_	_	_	_
+6	rilassando	rilassare	VERB	V	VerbForm=Ger	5	advcl	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	scrivendo	scrivere	VERB	V	VerbForm=Ger	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = ma comunque la quinta è facilissima.
+1	ma	ma	CCONJ	CC	_	6	cc	_	_
+2	comunque	comunque	ADV	B	_	6	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	quinta	quinto	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	6	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	facilissima	facile	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = Ci vediamo presto ps: un giorno che non piova
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	presto	presto	ADV	B	_	2	advmod	_	_
+4	ps	ps	PROPN	SW	Foreign=Yes	2	obj	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	piova	piovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	SpacesAfter=\n
+

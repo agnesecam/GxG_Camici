@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi sta arrivando una di quelle influenze così potenti mai avute .
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	arrivando	arrivare	VERB	V	VerbForm=Ger	0	root	_	_
+4	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	3	nsubj	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	influenze	influenza	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	così	così	ADV	B	_	11	advmod	_	_
+9	potenti	potente	ADJ	A	Number=Plur	11	amod	_	_
+10	mai	mai	ADV	B	_	11	advmod	_	_
+11	avute	avere	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Vado a lavoro così contagio tutti
+1	Vado	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+4	così	così	ADV	B	_	5	advmod	_	_
+5	contagio	contagio	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	_
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	obj	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io chiesi-tu chiesi-egli chiese-noi #chiesimo -voi chieseste- essi chiesero:la grammatica secondo #Gasparri .Troppo difficili verbi irregolari.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+2	chiesi-tu	chiesi-tu	ADP	E	_	4	case	_	_
+3	chiesi-egli	chiesi-egliere	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	chiese-noi	chiese-noi	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	#chiesimo	#chiesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+6	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+7	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
+8	chieseste	chiesedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+9	-	-	PUNCT	FB	_	8	punct	_	_
+10	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	chiesero:la	chiesero:lare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	grammatica	grammatica	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+13	secondo	secondo	ADP	E	_	15	case	_	_
+14	#	#	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+15	Gasparri	Gasparri	PROPN	SP	_	11	obl	_	_
+16	.Troppo	.Troppo	PROPN	SP	_	15	flat:name	_	_
+17	difficili	difficile	ADJ	A	Number=Plur	18	amod	_	_
+18	verbi	verbo	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+19	irregolari	irregolare	ADJ	A	Number=Plur	18	amod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n
+

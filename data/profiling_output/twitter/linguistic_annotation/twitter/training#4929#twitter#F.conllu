@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E fu così che passò la voglia di fare colazione #buongiorno #buondí #buonagiornata #happyfriday #happyweekend pic.twitter.com/TMixiuAtlx
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	così	così	ADV	B	_	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	passò	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	colazione	colazione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	#buongiorno	#buongiorno	ADP	E	_	12	case	_	_
+12	#buondí	#buondí	PROPN	SP	_	10	nmod	_	_
+13	#buonagiornata	#buonagiornare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+14	#happyfriday	#happyfriday	X	SW	Foreign=Yes	13	obl	_	_
+15	#happyweekend	#happyweekend	X	SW	Foreign=Yes	14	flat:foreign	_	_
+16	pic.twitter.com/TMixiuAtlx	pic.twitter.com/TMixiuAtlx	X	SW	Foreign=Yes	14	flat:foreign	_	SpacesAfter=\n
+

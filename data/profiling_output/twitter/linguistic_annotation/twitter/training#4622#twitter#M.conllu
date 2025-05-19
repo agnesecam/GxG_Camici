@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima o poi si dovrà sparare....per non estinguersi....
+1	Prima	prima	ADV	B	_	0	root	_	_
+2	o	o	CCONJ	CC	_	6	cc	_	_
+3	poi	poi	ADV	B	_	6	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	sparare....per	sparare....pere	VERB	V	VerbForm=Inf	1	conj	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	estinguersi...	estinguersi.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Chi sono questi galantuomini rifugiati??
+1	Chi	chi	PRON	PQ	PronType=Int	0	root	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	galantuomini	galantuomino	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+5	rifugiati	rifugiato	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = O invasori??
+1	O	o	CCONJ	CC	_	2	cc	_	_
+2	invasori	invasore	ADV	B	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = http:// fb.me/7FVZKhk4Z
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7FVZKhk4Z	fb.me/7FVZKhk4Z	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

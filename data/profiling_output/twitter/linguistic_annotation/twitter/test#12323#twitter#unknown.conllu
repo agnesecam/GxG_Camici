@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In skins le "migliori amiche" scopano ciascuna con il ragazzo dell'altra giusto perché viva il rispetto reciproco
+1	In	in	ADP	E	_	2	case	_	_
+2	skins	skins	NOUN	S	Gender=Fem	8	obl	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+4	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+5	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	8	amod	_	_
+6	amiche	amico	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	8	punct	_	_
+8	scopano	scopare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	ciascuna	ciascuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	nsubj	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+13-14	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+13	di	di	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+15	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	12	nmod	_	_
+16	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+17	perché	perché	SCONJ	CS	_	18	mark	_	_
+18	viva	vivo	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	rispetto	rispetto	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+21	reciproco	reciproco	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	SpacesAfter=\n
+

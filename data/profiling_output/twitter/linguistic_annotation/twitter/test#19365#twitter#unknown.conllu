@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ConteisHere no..
+1	@ConteisHere	@conteishere	NOUN	S	_	0	root	_	_
+2	no.	no.	NOUN	S	_	1	compound	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È praticamente impossibile!
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	praticamente	praticamente	ADV	B	_	3	advmod	_	_
+3	impossibile	impossibile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Può essere capitato che un giocatore abbia perso un frame per tre falli consecutivi
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	essere	essere	AUX	VA	VerbForm=Inf	3	aux	_	_
+3	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	giocatore	giocatore	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	frame	frama	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	tre	tre	NUM	N	NumType=Card	13	nummod	_	_
+13	falli	fallo	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+14	consecutivi	consecutivo	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	SpacesAfter=\n
+

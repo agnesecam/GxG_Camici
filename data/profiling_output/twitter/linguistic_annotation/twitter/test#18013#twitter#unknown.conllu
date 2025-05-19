@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SkySportMotoGP e in precedenza avevate scritto che non aveva niente di grave!
+1	@SkySportMotoGP	@SkySportMotoGP	NOUN	S	_	0	root	_	_
+2	e	e	CCONJ	CC	_	6	cc	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	precedenza	precedenza	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+5	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+10	niente	niente	PRON	PI	Number=Sing|PronType=Ind	9	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	grave	grave	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Visto che non c'era la sicurezza, potevate evitare.
+1	Visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	potevate	potere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	evitare	evitare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 3
+# text = #moto2
+1	#moto2	#moto2	NUM	N	NumType=Card	0	root	_	SpacesAfter=\n
+

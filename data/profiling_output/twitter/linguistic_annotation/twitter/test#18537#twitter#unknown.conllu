@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vitalbaa è il motivo per cui avrebbe dovuto usare il periodo di grazia per ingaggiare gente robusta, dando loro il giusto rilievo.
+1	@vitalbaa	@vitalbaare	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	motivo	motivo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	cui	cui	PRON	PR	PronType=Rel	9	obl	_	_
+7	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	aux	_	_
+9	usare	usare	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	grazia	grazia	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	ingaggiare	ingaggiare	VERB	V	VerbForm=Inf	9	advcl	_	_
+16	gente	gente	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	_
+17	robusta	robusto	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	4	punct	_	_
+19	dando	dare	VERB	V	VerbForm=Ger	4	advcl	_	_
+20	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	19	iobj	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	rilievo	rilievo	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

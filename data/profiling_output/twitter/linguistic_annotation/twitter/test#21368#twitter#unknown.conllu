@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SaraErrani #Charleston brava ottimo match e la consistenza cresce così a cena stasera potrebbe esserci pollo fritto e pannocchia chissà
+1	@SaraErrani	@SaraErrano	ADV	B	_	4	advmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	Charleston	Charleston	PROPN	SP	_	4	nsubj	_	_
+4	brava	bravo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	ottimo	ottimo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	match	match	NOUN	S	Gender=Masc	4	obj	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	consistenza	consistenza	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+10	cresce	crescere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	così	così	ADV	B	_	10	advmod	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	cena	cena	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	stasera	stasera	ADV	B	_	10	advmod	_	_
+15	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16-17	esserci	_	_	_	_	_	_	_	_
+16	esser	essere	VERB	V	VerbForm=Inf	10	advcl	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+18	pollo	pollo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+19	fritto	fritto	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	pannocchia	pannocchia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	_
+22	chissà	chissà	ADV	B	_	21	advmod	_	SpacesAfter=\n
+

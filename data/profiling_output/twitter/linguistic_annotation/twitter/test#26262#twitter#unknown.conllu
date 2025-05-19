@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lorenacelano61 @GotorMiguel questa è una sua opinione, non suffragata dai fatti ... e voi dovete smettere in ciò, " possedere la Verità"...
+1	@lorenacelano61	@lorenacelano6l	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@GotorMiguel	@GotorMiguel	PROPN	SP	_	7	nsubj	_	_
+3	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	7	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	opinione	opinione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	suffragata	suffragare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+11-12	dai	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	10	obl:agent	_	_
+14	...	...	PUNCT	FF	_	18	punct	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_
+17	dovete	dovere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	smettere	smettere	VERB	V	VerbForm=Inf	7	conj	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	18	obl	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	7	punct	_	_
+22	"	"	PUNCT	FB	_	23	punct	_	_
+23	possedere	possedere	VERB	V	VerbForm=Inf	7	parataxis	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	Verità	verità	NOUN	S	Gender=Fem|Number=Sing	23	obj	_	SpaceAfter=No
+26	"	"	PUNCT	FB	_	23	punct	_	SpaceAfter=No
+27	..	..	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

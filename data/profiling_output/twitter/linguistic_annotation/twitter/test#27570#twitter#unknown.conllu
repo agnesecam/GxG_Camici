@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le peggiori mancanze le ho fatte a me stessa quando ho permesso che mi facessero sentire sbagliata solo perché non ero giusta per loro.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	peggiori	peggiore	ADJ	A	Degree=Cmp|Number=Plur	3	amod	_	_
+3	mancanze	mancanza	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+4	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+9	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	6	xcomp	_	_
+10	quando	quando	SCONJ	CS	_	12	mark	_	_
+11	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	permesso	permettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+13	che	che	SCONJ	CS	_	15	mark	_	_
+14	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	_
+15	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+16	sentire	sentire	VERB	V	VerbForm=Inf	15	xcomp	_	_
+17	sbagliata	sbagliare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+18	solo	solo	ADV	B	_	17	advmod	_	_
+19	perché	perché	SCONJ	CS	_	22	mark	_	_
+20	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+21	ero	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	22	cop	_	_
+22	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	17	advcl	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	22	obl	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

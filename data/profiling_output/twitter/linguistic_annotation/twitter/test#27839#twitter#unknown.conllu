@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questi due gemellini non hanno realizzato di esser nati (VIDEO) http:// fb.me/7LohdEYCe
+1	Questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	gemellini	gemellino	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	realizzato	realizzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	di	di	ADP	E	_	9	mark	_	_
+8	esser	essere	AUX	VA	VerbForm=Inf	9	aux	_	_
+9	nati	nascere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	xcomp	_	_
+10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	VIDEO	video	PROPN	SP	_	9	obl	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	11	punct	_	_
+13	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	11	punct	_	_
+16	fb.me/7LohdEYCe	fb.me/7LohdEYCe	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

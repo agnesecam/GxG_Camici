@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @hustleinhead Gliela spaccavo volentieri anch'io la faccia a quell'ubriacone ignorante!
+1	@hustleinhead	@hustleinhead	ADP	E	_	2	case	_	_
+2-3	Gliela	_	_	_	_	_	_	_	_
+2	Glie	gli	PROPN	SP	_	4	obl	_	_
+3	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	spaccavo	spaccavo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	volentieri	volentieri	ADV	B	_	4	advmod	_	_
+6	anch'	anche	ADV	B	_	7	advmod	_	SpaceAfter=No
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	xcomp	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	quell'	quello	DET	DD	Number=Sing|PronType=Dem	12	det	_	SpaceAfter=No
+12	ubriacone	ubriacone	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+13	ignorante	ignorante	ADJ	A	Number=Sing	12	amod	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

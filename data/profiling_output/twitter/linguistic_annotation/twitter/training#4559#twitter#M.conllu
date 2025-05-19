@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lvoir peccato che la legge non lo consente e l'ebetino dovrà piegarsi.
+1	@lvoir	@lvoire	AUX	VM	VerbForm=Inf	2	aux	_	_
+2	peccato	peccato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	8	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	legge	legge	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	consente	consentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	e	e	CCONJ	CC	_	13	cc	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	ebetino	ebetino	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13-14	piegarsi	_	_	_	_	_	_	_	SpaceAfter=No
+13	piegar	piegare	VERB	V	VerbForm=Inf	8	conj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+15	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

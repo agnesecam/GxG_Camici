@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Completamente in disaccordo con ciò, in quanto noi dobbiamo rispettare le nostre di ambizioni @lerbadeivicini https:// twitter.com/lerbadeivicini /status/718544528840507392 …
+1	Completamente	completamente	ADV	B	_	3	advmod	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	disaccordo	disaccordo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	quanto	quanto	ADV	B	_	7	fixed	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	obl	_	_
+10	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	rispettare	rispettare	VERB	V	VerbForm=Inf	0	root	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	nostre	nostre	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	ambizioni	ambizioni	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+16	@lerbadeivicini	@lerbadeivicino	ADJ	A	Number=Plur	15	amod	_	_
+17	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	twitter.com/lerbadeivicini	twitter.com/lerbadeivicino	NOUN	S	Gender=Masc|Number=Plur	16	conj	_	_
+21	/status/718544528840507392	/status/718544528840507392	NUM	N	NumType=Card	20	nummod	_	_
+22	…	…	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

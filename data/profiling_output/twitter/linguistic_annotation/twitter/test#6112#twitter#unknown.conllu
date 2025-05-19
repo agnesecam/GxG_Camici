@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = @rotafixa #nonègiornalismo e sarebbe bello se sabato prossimo fossimo in tanti ad andare in bici al km 17,7 dell'Aurelia per testimoniarlo
+1	@rotafixa	@rotafixa	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	#nonègiornalismo	#nonègiornalismo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	bello	bello	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+6	se	se	SCONJ	CS	_	13	mark	_	_
+7	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+8	prossimo	prossimo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	fossimo	essere	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nmod	_	_
+12	ad	ad	ADP	E	_	13	mark	_	_
+13	andare	andare	VERB	V	VerbForm=Inf	5	advcl	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	bici	bico	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	km	chilometro	NOUN	S	Gender=Masc	15	nmod	_	_
+19	17,7	17,7	NUM	N	NumType=Card	18	nummod	_	_
+20-21	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+20	di	di	ADP	E	_	22	case	_	_
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	_
+22	Aurelia	Aurelia	PROPN	SP	_	18	nmod	_	_
+23	per	per	ADP	E	_	24	mark	_	_
+24-25	testimoniarlo	_	_	_	_	_	_	_	SpacesAfter=\n
+24	testimoniar	testimoniare	VERB	V	VerbForm=Inf	13	advcl	_	_
+25	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+

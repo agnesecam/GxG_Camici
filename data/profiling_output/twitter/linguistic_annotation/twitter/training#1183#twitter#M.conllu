@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli autobus di Roma gestiti dalla stessa società che gestisce i treni dei pendolari?
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	autobus	autobus	NOUN	S	Gender=Masc	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Roma	Roma	PROPN	SP	_	2	nmod	_	_
+5	gestiti	gestire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+9	società	società	NOUN	S	Gender=Fem	5	obl:agent	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	gestisce	gestire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	treni	treno	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	pendolari	pendolare	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Maronnarocarmin...
+1	Maronnarocarmin...	Maronnarocarmin.	PROPN	SP	_	0	root	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/romamobilita/s tatus/719172882140684290 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/romamobilita/s	twitter.com/romamobilita/s	NOUN	S	Gender=Fem	0	root	_	_
+5	tatus/719172882140684290	tatus/719172882140684290	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

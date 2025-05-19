@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non avevamo dubbi! https:// twitter.com/ImprobabiliTw/ status/715724374171656196 …
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	avevamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	5	punct	_	_
+5	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	_
+8	twitter.com/ImprobabiliTw/	twitter.com/ImprobabiliTw/	PROPN	SP	_	2	nsubj	_	_
+9	status/715724374171656196	status/715724374171656196	SYM	X	_	8	flat:name	_	_
+10	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

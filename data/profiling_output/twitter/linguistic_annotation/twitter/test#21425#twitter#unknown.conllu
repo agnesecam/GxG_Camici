@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il ragazzo ha dichiarato le sue intenzioni, speriamo tutti che Valve starà più attenta in futuro!
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	dichiarato	dichiarare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	intenzioni	intenzione	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	obl	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	Valve	Valvere	PROPN	SP	_	13	nsubj	_	_
+13	starà	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	ccomp	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	attenta	attento	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/VG247it/status /715092657324863490 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/VG247it/status	twitter.com/VG247it/status	PROPN	SP	_	0	root	_	_
+5	/715092657324863490	/715092657324863490	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

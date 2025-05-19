@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @InfoAtac anche oggi il sito 'viaggia con atac' non riporta nessuna vettura sulla linea 62; vi e' antipatica?
+1	@InfoAtac	@InfoAtac	ADV	B	_	5	advmod	_	_
+2	anche	anche	ADV	B	_	3	advmod	_	_
+3	oggi	oggi	ADV	B	_	5	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sito	sito	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	'	'	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	viaggia	viaggiare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	con	con	ADP	E	_	11	mark	_	_
+9	atac'	ataci	ADV	B	_	11	advmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	riporta	riportare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+12	nessuna	nessuna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	13	det	_	_
+13	vettura	vettura	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14-15	sulla	_	_	_	_	_	_	_	_
+14	su	su	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	linea	linea	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+17	62	62	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+18	;	;	PUNCT	FC	_	21	punct	_	_
+19	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	21	iobj	_	_
+20	e'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	antipatica	antipatico	ADJ	A	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = PS la vs app dove si scarica?
+1	PS	Ps	X	SW	Foreign=Yes	0	root	_	_
+2	la	il	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	vs	vs	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	app	app	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	dove	dove	X	SW	Foreign=Yes	7	nsubj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	scarica	scarico	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

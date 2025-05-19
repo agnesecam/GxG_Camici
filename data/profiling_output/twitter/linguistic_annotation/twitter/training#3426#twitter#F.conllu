@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #cielidimaremma #nofilter che tempo farà domani???
+1	#cielidimaremma	#cielidimaremma	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	#nofilter	#nofiltere	ADP	E	_	4	case	_	_
+3	che	che	DET	DQ	PronType=Int	4	det	_	_
+4	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	domani	domani	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = evviva la… https://www.
+1	evviva	evvivo	X	X	_	0	root	_	_
+2	la…	la…	PUNCT	FF	_	1	punct	_	_
+3	https://www	https://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD8qmRWQv3iF ug1v0tGlQ1_xwT6iR1lIPN-RB80/ …
+1	instagram.com/p/BD8qmRWQv3iF	instagram.com/p/BD8qmRWQv3iF	ADP	E	_	2	case	_	_
+2	ug1v0tGlQ1_xwT6iR1lIPN	ug1v0tGlQ1_xwT6iR1lIPN	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	RB80	RB80	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

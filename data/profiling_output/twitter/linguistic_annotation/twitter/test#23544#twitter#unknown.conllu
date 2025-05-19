@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La grande truffa!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	grande	grande	ADJ	A	Number=Sing	3	amod	_	_
+3	truffa	truffa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Egli non poteva non sapere....
+1	Egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	sapere...	sapere.	NOUN	S	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #Napolitano https:// twitter.com/Ilenia1970/sta tus/708710572917972992 …
+1	#Napolitano	#Napolitare	ADV	B	_	5	advmod	_	_
+2	https:	https:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	twitter.com/Ilenia1970/sta	twitter.com/Ilenia1970/sta	PROPN	SP	_	0	root	_	_
+6	tus/708710572917972992	tus/708710572917972992	NUM	N	NumType=Card	5	nummod	_	_
+7	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

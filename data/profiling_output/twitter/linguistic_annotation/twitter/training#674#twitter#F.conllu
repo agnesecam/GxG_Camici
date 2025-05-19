@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @amsa_spa Grazie.
+1	@amsa_spa	@amsa_spare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Grazie	grazie	PROPN	SP	_	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Non sapevo nemmeno avessimo un "assessorato al benessere"...
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	nemmeno	nemmeno	ADV	BN	PronType=Neg	2	advmod	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	assessorato	assessorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	benessere	benessere	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	..	..	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Avreste per caso un contatto Twitter?
+1	Avreste	avere	VERB	V	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	contatto	contatto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+6	Twitter	Twitter	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

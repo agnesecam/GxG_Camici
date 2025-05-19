@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pensa un po'!
+1	Pensa	pensare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	po'	poco	ADV	B	_	1	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Si parla di maternità surrogata come se fossimo usciti dal Medioevo ed invece ci stiamo appena... http:// fb.me/17ALZFCyy
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	maternità	maternità	NOUN	S	Gender=Fem	2	obl	_	_
+5	surrogata	surrogare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+6	come	come	ADV	B	_	9	mark	_	_
+7	se	se	SCONJ	CS	_	6	fixed	_	_
+8	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	usciti	uscire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+10-11	dal	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Medioevo	Medioevo	PROPN	SP	_	9	obl	_	_
+13	ed	e	CCONJ	CC	_	16	cc	_	_
+14	invece	invece	ADV	B	_	16	advmod	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	obj	_	_
+16	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	appena...	appena.	PUNCT	FS	_	18	punct	_	_
+18	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	16	punct	_	_
+21	fb.me/17ALZFCyy	fb.me/17ALZFCyy	PROPN	SP	_	2	conj	_	SpacesAfter=\n
+

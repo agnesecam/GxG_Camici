@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alxafan voi solo di una cosa siete dipendenti, dalla CORRUZIONE.Ti saluto frustrato.Non pensateci sempre che noi nn vi caghiamo proprio
+1	@alxafan	@alxafan	ADV	B	_	2	advmod	_	_
+2	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
+3	solo	solo	ADV	B	_	6	advmod	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+7	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	dipendenti	dipendente	ADJ	A	Number=Plur	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	CORRUZIONE.Ti	CORRUZIONE.Ti	PROPN	SP	_	15	obl	_	_
+13	saluto	saluto	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	aux	_	_
+14	frustrato.Non	frustrato.Non	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
+15-16	pensateci	_	_	_	_	_	_	_	_
+15	pensate	pensare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	expl	_	_
+17	sempre	sempre	ADV	B	_	22	advmod	_	_
+18	che	che	SCONJ	CS	_	22	mark	_	_
+19	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	22	nsubj	_	_
+20	nn	nno	ADP	E	_	21	case	_	_
+21	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	22	obl	_	_
+22	caghiamo	caghare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+23	proprio	proprio	ADV	B	_	15	advmod	_	SpacesAfter=\n
+

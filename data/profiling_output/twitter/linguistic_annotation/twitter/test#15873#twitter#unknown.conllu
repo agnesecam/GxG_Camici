@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Berlusconi ormai è diventato un pesce d'aprile vivente.
+1	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	Berlusconi	Berlusconi	PROPN	SP	_	5	nsubj	_	_
+3	ormai	ormai	ADV	B	_	2	advmod	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	5	xcomp	_	_
+8	d'	di	ADP	E	_	9	case	_	SpaceAfter=No
+9	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	vivente	vivente	ADJ	A	Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #ACMilan
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	ACMilan	ACMilan	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

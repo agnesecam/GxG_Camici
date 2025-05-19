@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Regione Lombardia per colpa del suo ex governatore Formigoni, dovrà risarcire alla famiglia Englaro € 142.000 http://www.
+1	Regione	regione	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+2	Lombardia	Lombardia	PROPN	SP	_	1	nmod	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	9	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+7	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+8	ex	ex	ADJ	A	_	9	amod	_	_
+9	governatore	governatore	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+10	Formigoni	Formigoni	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	1	punct	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+17	Englaro	Englaro	PROPN	SP	_	13	obj	_	_
+18	€	€	SYM	SYM	_	17	flat:name	_	_
+19	142.000	142.000	NUM	N	NumType=Card	20	nummod	_	_
+20	http://www	http://www	NOUN	S	Gender=Masc	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = ilgiorno.it/eluana-englaro -condanna-1.2040711 …
+1	ilgiorno.it/eluana-englaro	ilgiorno.it/eluana-englaro	ADP	E	_	2	case	_	_
+2	-condanna	-condanna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	-1.2040711	-1.2040711	NUM	N	NumType=Card	2	nummod	_	_
+4	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

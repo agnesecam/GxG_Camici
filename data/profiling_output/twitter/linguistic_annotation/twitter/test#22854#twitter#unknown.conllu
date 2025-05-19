@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @StregatoCS Vero!
+1	@StregatoCS	@StregatoCS	PROPN	SP	_	0	root	_	_
+2	Vero	vero	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Io avevo dei libri delle scuole medie e glieli ho inviati.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	libri	libro	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	scuole	scuola	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+9	medie	medio	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11-12	glieli	_	_	_	_	_	_	_	_
+11	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	iobj	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+13	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	inviati	inviare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = PS: ci vediamo domani in fiera!
+1	PS	PS	PROPN	SP	_	4	nsubj	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	domani	domani	ADV	B	_	4	advmod	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	fiera	fiero	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

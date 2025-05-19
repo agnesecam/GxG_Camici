@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Quadrio_F ahahahaahahah però il vestito nero della tipa curvy mi piaceva assai
+1	@Quadrio_F	@Quadrio_F	ADP	E	_	2	case	_	_
+2	ahahahaahahah	ahahahaahahah	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+3	però	però	ADV	B	_	5	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	vestito	vestito	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+6	nero	nero	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	tipa	tipo	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+10	curvy	curvy	ADJ	A	_	9	amod	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	piaceva	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+13	assai	assai	ADV	B	_	12	advmod	_	SpacesAfter=\n
+

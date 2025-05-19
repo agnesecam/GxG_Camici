@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gtrotta72 @OmarGibelli @demienforever @dnaJuve27 dove sono tutti gli arbitri ?
+1	@gtrotta72	@gtrotta72	NUM	N	NumType=Card	2	nummod	_	_
+2	@OmarGibelli	@OmarGibelli	PROPN	SP	_	9	nsubj	_	_
+3	@demienforever	@demienforevere	ADP	E	_	4	case	_	_
+4	@dnaJuve27	@dnaJuve27	PROPN	SP	_	2	nmod	_	_
+5	dove	dove	ADV	B	_	9	advmod	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	9	det:predet	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	arbitri	arbitro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+10	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = ASSOLTI con chi faceva cupola Moggi ?
+1	ASSOLTI	assolvere	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	nmod	_	_
+4	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+5	cupola	cupola	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	Moggi	Moggi	PROPN	SP	_	5	nmod	_	_
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Fammi star zitta va
+1	Fammi	Fammo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+2	star	stare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	zitta	zitto	ADJ	A	Gender=Fem|Number=Sing	2	xcomp	_	_
+4	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

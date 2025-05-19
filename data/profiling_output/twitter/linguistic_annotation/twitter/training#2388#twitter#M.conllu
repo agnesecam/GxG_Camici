@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non sono solo un #lombardo , ma non sono #milanese .
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	solo	solo	ADV	B	_	5	advmod	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#lombardo	#lombardo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	#milanese	#milanese	ADJ	A	Number=Sing	5	conj	_	_
+11	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Sono nato a #Legnano e dentro di me scorre sangue di... http:// fb.me/4KPp6jMzZ
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	nato	nascere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	#Legnano	#Legnano	PROPN	SP	_	9	obl	_	_
+5	e	e	CCONJ	CC	_	9	cc	_	_
+6	dentro	dentro	ADV	B	_	9	advmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+9	scorre	scorrere	VERB	V	VerbForm=Inf	2	conj	_	_
+10	sangue	sangue	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11	di...	di.	NUM	N	NumType=Card	9	nummod	_	_
+12	http:	http:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	9	punct	_	_
+15	fb.me/4KPp6jMzZ	fb.me/4KPp6jMzZ	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

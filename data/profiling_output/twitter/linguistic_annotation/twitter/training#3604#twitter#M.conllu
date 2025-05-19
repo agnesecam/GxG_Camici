@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ilbuonLohe ne sono cosciente, ma mi sento che questo cenacolo di esperti che hai convocato me ne fará afferrare spigolature sconosciute
+1	@ilbuonLohe	@ilbuonLohe	ADV	B	_	4	advmod	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cosciente	cosciente	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	expl	_	_
+8	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	che	che	SCONJ	CS	_	20	mark	_	_
+10	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	cenacolo	cenacolo	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	esperti	esperto	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	convocato	convocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+17	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	19	iobj	_	_
+19	fará	fará	PROPN	SP	_	20	nmod	_	_
+20	afferrare	afferrare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+21	spigolature	spigolatura	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
+22	sconosciute	sconosciuto	ADJ	A	Gender=Fem|Number=Plur	21	amod	_	SpacesAfter=\n
+

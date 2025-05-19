@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SAVE THE DATE !!! 13 agosto 2016 , vieni con noi insieme a Dance Travel Europe per il 12° anno consecutivo ....
+1	SAVE	SAVE	PROPN	SP	_	0	root	_	_
+2	THE	the	PROPN	SP	_	1	flat:name	_	_
+3	DATE	dare	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+4	!!!	!!!	PUNCT	FF	_	3	punct	_	_
+5	13	13	NUM	N	NumType=Card	3	obl	_	_
+6	agosto	agosto	NOUN	S	Gender=Masc|Number=Sing	5	flat	_	_
+7	2016	2016	NUM	N	NumType=Card	5	flat	_	_
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	vieni	vieni	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nmod	_	_
+12	insieme	insieme	ADV	B	_	14	case	_	_
+13	a	a	ADP	E	_	12	fixed	_	_
+14	Dance	Dance	PROPN	SP	_	11	nmod	_	_
+15	Travel	Travel	PROPN	SP	_	14	flat:name	_	_
+16	Europe	Europe	PROPN	SP	_	14	flat:name	_	_
+17	per	per	ADP	E	_	20	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	12°	12°	ADJ	NO	NumType=Ord	20	amod	_	_
+20	anno	anno	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
+21	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+22	...	...	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/3Wq9XtqHy
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/3Wq9XtqHy	fb.me/3Wq9XtqHy	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

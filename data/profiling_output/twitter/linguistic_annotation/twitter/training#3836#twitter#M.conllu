@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non mi ha entusiasmato, ma ciò che conta è il risultato finale.
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	entusiasmato	entusiasmare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	12	punct	_	_
+6	ma	ma	CCONJ	CC	_	12	cc	_	_
+7	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	conta	contare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+13	finale	finale	ADJ	A	Number=Sing	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Avanti così.
+1	Avanti	avanti	ADV	B	_	2	advmod	_	_
+2	così	così	ADV	B	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #forzajuve #finoallafine
+1	#forzajuve	#forzajuvere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#finoallafine	#finoallafine	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpacesAfter=\n
+

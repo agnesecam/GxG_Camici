@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti farà bene che io abbia cancellato il tuo numero, fidati!
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	bene	bene	ADV	B	_	2	advmod	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	cancellato	cancellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	numero	numero	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	fidati	fidare	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

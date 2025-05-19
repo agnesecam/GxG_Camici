@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzianer, quando imparerete a non sembrare dei droni e a «sostenere criticamente» il leader?
+1	Renzianer	Renzianer	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	quando	quando	SCONJ	CS	_	4	mark	_	_
+4	imparerete	impareere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	advcl	_	_
+5	a	a	ADP	E	_	7	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	droni	drone	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	a	a	ADP	E	_	14	mark	_	_
+13	«	«	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	sostenere	sostenere	VERB	V	VerbForm=Inf	10	conj	_	_
+15	criticamente	critico	ADV	B	_	14	advmod	_	SpaceAfter=No
+16	»	»	PUNCT	FB	_	14	punct	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	leader	leader	NOUN	S	_	14	obj	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ne guadagneremmo tutti, @matteorenzi compreso.
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+2	guadagneremmo	guadagneere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	@matteorenzi	@matteorenzi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	compreso	comprendere	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @il_dubbioso @Radicali @riccardomagi @MassimoBordin eh sì, intuizione su astensione fu di Pannella, poi Carniti e Martelli si aggiunsero
+1	@il_dubbioso	@il_dubbioso	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@Radicali	@Radicale	PROPN	SP	_	11	nsubj	_	_
+3	@riccardomagi	@riccardomago	ADV	B	_	4	advmod	_	_
+4	@MassimoBordin	@MassimoBordin	PROPN	SP	_	2	flat:name	_	_
+5	eh	eh	INTJ	I	_	6	discourse	_	_
+6	sì	sì	INTJ	I	Polarity=Pos	11	discourse	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	intuizione	intuizione	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	su	su	ADP	E	_	10	case	_	_
+10	astensione	astensione	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+11	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	Pannella	Pannella	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	poi	poi	ADV	B	_	16	advmod	_	_
+16	Carniti	Carniti	PROPN	SP	_	20	nsubj	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	Martelli	Martelli	PROPN	SP	_	16	conj	_	_
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+20	aggiunsero	aggiundere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

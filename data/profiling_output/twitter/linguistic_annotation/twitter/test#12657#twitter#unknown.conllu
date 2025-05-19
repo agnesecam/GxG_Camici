@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ale_dibattista Ale , la dignità Renzi così tutto il PD.
+1	@ale_dibattista	@ale_dibattista	NOUN	S	Number=Sing	0	root	_	_
+2	Ale	Ale	PROPN	SP	_	1	nmod	_	_
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	dignità	dignità	NOUN	S	Gender=Fem	1	conj	_	_
+6	Renzi	Renzi	PROPN	SP	_	5	nmod	_	_
+7	così	così	ADV	B	_	10	advmod	_	_
+8	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	PD	pd	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Non c'è hanno.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	SpaceAfter=No
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..s'è avessero avuto un po' di dignità già si sarebbero dimessi
+1	..s'	..s'	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	SpaceAfter=No
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	po'	poco	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	dignità	dignità	NOUN	S	Gender=Fem	6	nmod	_	_
+9	già	già	ADV	B	_	12	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+11	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	dimessi	dimettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	SpacesAfter=\n
+

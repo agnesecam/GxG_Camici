@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @max91170 certo!Giusto ke ognuno tifi la propria squadra ma vincere sempre con l'aiuto nn giova sopratttt a voi Magari sareste più simpatici
+1	@max91170	@max91170	NUM	N	NumType=Range	0	root	_	_
+2	certo	certo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+3	!Giusto	!Giusto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+4	ke	ke	ADJ	A	Number=Sing	3	amod	_	_
+5	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+6	tifi	tifo	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	propria	proprio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+10	ma	ma	CCONJ	CC	_	11	cc	_	_
+11	vincere	vincere	VERB	V	VerbForm=Inf	6	conj	_	_
+12	sempre	sempre	ADV	B	_	11	advmod	_	_
+13	con	con	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+16	nn	nno	ADP	E	_	17	case	_	_
+17	giova	giova	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+18	sopratttt	sopratttt	ADV	B	_	11	advmod	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	Magari	magari	PROPN	SP	_	11	obl	_	_
+22	sareste	saredere	ADJ	A	Gender=Fem|Number=Plur	21	amod	_	_
+23	più	più	ADV	B	_	24	advmod	_	_
+24	simpatici	simpatico	ADJ	A	Gender=Masc|Number=Plur	11	xcomp	_	SpacesAfter=\n
+

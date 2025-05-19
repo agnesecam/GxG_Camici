@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domanda per Delneri.
+1	Domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	Delneri	Delneri	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Come mai Toni, Pazzini e Marrone sono partiti dalla panchina?
+1	Come	come	ADP	E	_	3	case	_	_
+2	mai	mai	ADV	B	_	3	advmod	_	_
+3	Toni	toni	PROPN	SP	_	9	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	Pazzini	Pazzini	PROPN	SP	_	3	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	Marrone	Marrone	PROPN	SP	_	3	conj	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	partiti	partire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	panchina	panchina	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = #serieapremium
+1	#serieapremium	#serieapremium	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

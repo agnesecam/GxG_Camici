@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ce li avete i ruoti!?"
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	ruoti	ruota	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	4	punct	_	_
+
+# sent_id = 2
+# text = I ruoti!
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	ruoti	ruota	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Per farci dentro le torte!
+1	Per	per	ADP	E	_	2	mark	_	_
+2-3	farci	_	_	_	_	_	_	_	_
+2	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+4	dentro	dentro	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	torte	torte	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = @nitahuggedme oggi ti sei persa sta perla...
+1	@nitahuggedme	@nitahuggedme	ADV	B	_	5	advmod	_	_
+2	oggi	oggi	ADV	B	_	5	advmod	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+4	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	persa	perdere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+7	perla...	perla.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 5
+# text = Quasi Muoio.
+1	Quasi	quasi	ADV	B	_	2	advmod	_	_
+2	Muoio	Muoio	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

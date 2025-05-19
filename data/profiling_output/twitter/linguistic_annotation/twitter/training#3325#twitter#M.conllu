@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ecco perché l'Italia (forse) non ce la farà mai:
+1	Ecco	ecco	ADV	B	_	11	advmod	_	_
+2	perché	perché	SCONJ	CS	_	11	mark	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	Italia	Italia	PROPN	SP	_	11	nsubj	_	_
+5	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	forse	forse	ADV	B	_	11	advmod	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	6	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+10	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	mai	mai	ADV	B	_	11	advmod	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	11	punct	_	_
+
+# sent_id = 2
+# text = Encumbered by History #rassegnati dalla #SiliconValley https:// twitter.com/think_parallel /status/718925629727588352 … – bei Intel Museum
+1	Encumbered	Encumbere	PROPN	SP	_	0	root	_	_
+2	by	by	PROPN	SW	Foreign=Yes	1	flat:name	_	_
+3	History	History	PROPN	SP	_	1	flat:name	_	_
+4	#rassegnati	#rassegnare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	#SiliconValley	#SiliconValley	PROPN	SP	_	4	obl:agent	_	_
+8	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	1	punct	_	_
+11	twitter.com/think_parallel	twitter.com/think_paralli	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	/status/718925629727588352	/status/718925629727588352	NUM	N	NumType=Card	16	nummod	_	_
+13	…	…	PUNCT	FF	_	12	punct	_	_
+14	–	–	PUNCT	FF	_	12	punct	_	_
+15	bei	bello	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+16	Intel	Intel	PROPN	SP	_	1	nmod	_	_
+17	Museum	Museum	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

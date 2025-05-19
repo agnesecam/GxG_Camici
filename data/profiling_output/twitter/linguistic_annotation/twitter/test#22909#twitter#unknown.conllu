@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il clochard ama i libri di Camilleri e Sellerio glieli invia http:// fb.me/OY23LOzs
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	clochard	clochard	NOUN	S	Gender=Masc	3	nsubj	_	_
+3	ama	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	libri	libro	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	Camilleri	Camilleri	PROPN	SP	_	5	nmod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Sellerio	Sellerio	PROPN	SP	_	7	conj	_	_
+10-11	glieli	_	_	_	_	_	_	_	_
+10	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	iobj	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+12	invia	invia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+13	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	fb.me/OY23LOzs	fb.me/OY23LOzs	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

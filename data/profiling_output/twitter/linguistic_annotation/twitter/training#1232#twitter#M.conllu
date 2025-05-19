@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @gentilivero @CretellaRoberta vespa pagato dalla Rai Ora ho capito perché se non paghi vai in galera.
+1	@gentilivero	@gentilivero	ADV	B	_	10	advmod	_	_
+2	@CretellaRoberta	@CretellaRoberta	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	vespa	vespare	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+4	pagato	pagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Rai	Rai	PROPN	SP	_	4	obl:agent	_	_
+8	Ora	ora	PROPN	SP	_	10	nsubj	_	_
+9	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	perché	perché	SCONJ	CS	_	14	mark	_	_
+12	se	se	SCONJ	CS	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	paghi	pagare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+15	vai	andare	NOUN	S	_	14	obj	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	galera	galera	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = ...
+1	...	.	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

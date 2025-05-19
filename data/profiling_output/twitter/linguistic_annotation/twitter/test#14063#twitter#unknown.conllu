@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @godisadj3 non mi sfottere su Nesta.
+1	@godisadj3	@godisadj3	NUM	N	NumType=Card	4	nummod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+4	sfottere	sfottere	VERB	V	VerbForm=Inf	0	root	_	_
+5	su	su	ADP	E	_	6	case	_	_
+6	Nesta	Nesta	PROPN	SP	_	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Stile, bellezza, tecnica, virilità.
+1	Stile	stile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	bellezza	bellezzo	ADJ	A	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	tecnica	tecnica	ADJ	A	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	virilità	virilità	NOUN	S	Gender=Fem	1	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ve lo sareste scopato mentalmente anche voi
+1	Ve	vi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	sareste	saresta	NOUN	S	Gender=Fem|Number=Plur	1	nsubj	_	_
+4	scopato	scopare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+5	mentalmente	mentalmente	ADV	B	_	4	advmod	_	_
+6	anche	anche	ADV	B	_	7	advmod	_	_
+7	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	4	obj	_	SpacesAfter=\n
+

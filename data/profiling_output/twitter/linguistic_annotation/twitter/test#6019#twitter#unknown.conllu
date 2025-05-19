@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tanto per cambiare la regia di #Amici15 è terribileee!!!
+1	Tanto	tanto	ADV	B	_	3	advmod	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	cambiare	cambiare	VERB	V	VerbForm=Inf	9	advcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	regia	regia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	#Amici15	#Amici15	PROPN	SP	_	5	nmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	terribileee	terribileeo	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+10	!!	!!	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Fateci vedere i balletti nell'insieme con telecamera fissa, come fossimo a teatro!
+1-2	Fateci	_	_	_	_	_	_	_	_
+1	Fate	fare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	expl	_	_
+3	vedere	vedere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	balletti	balletto	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6-7	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+6	in	in	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	insieme	insieme	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	telecamera	telecamera	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	fissa	fisso	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	3	punct	_	_
+13	come	come	SCONJ	CS	_	16	mark	_	_
+14	fossimo	fossimo	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	cop	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	teatro	teatro	NOUN	S	Gender=Masc|Number=Sing	3	advcl	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

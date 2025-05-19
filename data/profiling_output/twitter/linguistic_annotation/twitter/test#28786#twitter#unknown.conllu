@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = C'E' UN GLUTEO ASSASSINO IN OGNUNA DI NOI.
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	E'	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	UN	uno	PROPN	SP	_	2	nsubj	_	_
+4	GLUTEO	GLUTEO	PROPN	SP	_	3	flat:name	_	_
+5	ASSASSINO	assassino	PROPN	SP	_	3	flat:name	_	_
+6	IN	In	PROPN	SP	_	3	flat:name	_	_
+7	OGNUNA	ognuno	PROPN	SP	_	3	flat:name	_	_
+8	DI	Di	ADP	E	_	9	case	_	_
+9	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E' che mi sono svegliata con l'angoscia glutea!
+1	E'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	_
+4	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	svegliata	svegliare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	angoscia	angoscia	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+9	glutea	gluteo	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = E se non fosse...
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	case	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	fosse...	fosse.	NOUN	S	_	0	root	_	_
+
+# sent_id = 4
+# text = http:// fb.me/VuPY4LKI
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/VuPY4LKI	fb.me/VuPY4LKI	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

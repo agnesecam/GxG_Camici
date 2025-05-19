@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Potresti votare questo capitolo?
+1	Potresti	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	votare	votare	VERB	V	VerbForm=Inf	0	root	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	capitolo	capitolo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Grazie mille http://… — e se mi facesse schifo dovrei votarlo lo stesso?
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	mille	mille	NUM	N	NumType=Card	1	nummod	_	_
+3	http:	http:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/…	/…	PUNCT	FF	_	2	punct	_	_
+6	—	—	PUNCT	FF	_	1	punct	_	_
+7	e	e	CCONJ	CC	_	13	cc	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	advcl	_	_
+11	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	dovrei	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13-14	votarlo	_	_	_	_	_	_	_	_
+13	votar	votare	VERB	V	VerbForm=Inf	1	conj	_	_
+14	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	13	obj	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = eh?
+1	eh	eh	INTJ	I	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = eh… https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM46WTZKI32KR2XCN6BX62BYFIRBZZCYCPE5GM2SZRKGY7WGKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A==== …
+1	eh…	eh…	PUNCT	FF	_	5	punct	_	_
+2	https:	https:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+6	7B667HQMHN2IG6NM46WTZKI32KR2XCN6BX62BYFIRBZZCYCPE5GM2SZRKGY7WGKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A====	7B667HQMHN2IG6NM46WTZKI32KR2XCN6BX62BYFIRBZZCYCPE5GM2SZRKGY7WGKEA4YFKEQPY43OA7PQPXYKVBJAWQDVHFCJB5OTWI7UAOEDO4HRT2SPJWT2266ZQHRJ3LMH7BEEISIAKELC73PG75EP73LU3YKYYDZY2SG4A5WFRRPR6BB3L5OOYN6A====	PROPN	SP	_	5	nmod	_	_
+7	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

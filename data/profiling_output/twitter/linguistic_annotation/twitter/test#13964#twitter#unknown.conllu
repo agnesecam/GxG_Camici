@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GeCortese @pinapic perchè, voi piddini sareste cittadini normali?
+1	@GeCortese	@GeCortesa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	@pinapic	@pinapic	ADV	B	_	1	advmod	_	_
+3	perchè	perché	SCONJ	CS	_	6	mark	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	piddini	piddine	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+7	sareste	saresto	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
+8	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+9	normali	normale	ADJ	A	Number=Plur	8	amod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Correggo, voi piddini sareste normali?
+1	Correggo	Correggo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	voi	vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+4	piddini	piddine	ADJ	A	Number=Plur	5	amod	_	_
+5	sareste	saresto	NOUN	S	Gender=Fem|Number=Plur	1	appos	_	_
+6	normali	normale	ADJ	A	Number=Plur	5	amod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

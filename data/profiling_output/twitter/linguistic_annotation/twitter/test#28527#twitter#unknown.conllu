@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ci eravamo incontrati perchè doveva succedere; e anche se non fosse stato quel giorno, prima o poi ci saremmo ... http:// fb.me/3q80qDM5q
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	incontrati	incontrare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	perchè	perché	SCONJ	CS	_	7	mark	_	_
+6	doveva	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	succedere	succedere	VERB	V	VerbForm=Inf	4	advcl	_	SpaceAfter=No
+8	;	;	PUNCT	FC	_	22	punct	_	_
+9	e	e	CCONJ	CC	_	22	cc	_	_
+10	anche	anche	ADV	B	_	16	advmod	_	_
+11	se	se	SCONJ	CS	_	16	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+13	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
+14	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	cop	_	_
+15	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
+16	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18	prima	prima	ADV	B	_	22	advmod	_	_
+19	o	o	CCONJ	CC	_	22	cc	_	_
+20	poi	poi	ADV	B	_	22	advmod	_	_
+21	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	22	iobj	_	_
+22	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+23	...	...	PUNCT	FF	_	22	punct	_	_
+24	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	22	punct	_	_
+27	fb.me/3q80qDM5q	fb.me/3q80qDM5q	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

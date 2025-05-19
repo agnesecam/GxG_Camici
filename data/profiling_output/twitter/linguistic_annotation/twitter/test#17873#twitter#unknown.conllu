@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avevate dubbi?????
+1	Avevate	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dubbi	dubbo	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Complimenti!
+1	Complimenti	complimenti	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #migliorsommelier https:// twitter.com/elna75it/statu s/717096222008459265 …
+1	#migliorsommelier	#migliorsommelier	NOUN	S	Gender=Masc	0	root	_	_
+2	https:	https:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	twitter.com/elna75it/statu	twitter.com/elna75it/statu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	s/717096222008459265	s/717096222008459265	NUM	N	NumType=Card	1	nummod	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

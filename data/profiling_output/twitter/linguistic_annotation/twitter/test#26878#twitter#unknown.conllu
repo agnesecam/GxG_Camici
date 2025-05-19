@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @radioanchio @renatobrunetta caro Brunetta quelli si chiamano affaristi e vanno a nozze con tutti gli schieramenti politici ahimé ..
+1	@radioanchio	@radioanchio	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	@renatobrunetta	@renatobrunetta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	caro	caro	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Brunetta	Brunetta	PROPN	SP	_	2	obj	_	_
+5	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	chiamano	chiamare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	affaristi	affarista	NOUN	S	Gender=Masc|Number=Plur	7	xcomp	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	nozze	nozza	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+13	con	con	ADP	E	_	16	case	_	_
+14	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	16	det:predet	_	_
+15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	schieramenti	schieramente	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+17	politici	politico	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	ahimé	ahimé	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+19	.	.	PUNCT	FS	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

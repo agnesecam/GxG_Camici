@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E riscopro te Dolce compagna che Non sai domandare ma sai Che ovunque andrai Al fianco tuo mi avrai Se tu lo vuoi
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	riscopro	riscoprire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+4	Dolce	dolce	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	compagna	compagnare	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	Non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	domandare	domandare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	ma	ma	CCONJ	CC	_	11	cc	_	_
+11	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	conj	_	_
+12	Che	che	SCONJ	CS	_	20	mark	_	_
+13	ovunque	ovunque	ADV	B	_	20	advmod	_	_
+14	andrai	andere	ADV	B	_	20	advmod	_	_
+15-16	Al	_	_	_	_	_	_	_	_
+15	A	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	fianco	fianco	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+18	tuo	tuo	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	iobj	_	_
+19	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	obj	_	_
+20	avrai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	11	ccomp	_	_
+21	Se	se	SCONJ	CS	_	24	mark	_	_
+22	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	24	nsubj	_	_
+23	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+24	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	advcl	_	SpacesAfter=\n
+

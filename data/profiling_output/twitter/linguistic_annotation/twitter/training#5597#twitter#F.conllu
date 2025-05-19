@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che gioia mi da @rossbrescia parlando di calcio!
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	gioia	gioiare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	@rossbrescia	@rossbrescia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	parlando	parlare	VERB	V	VerbForm=Ger	5	advcl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = C'è qualcuna che di quello sport ne sa tanto quanto me!
+1	C'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	SpaceAfter=No
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obl	_	_
+7	sport	sport	NOUN	S	Gender=Masc	6	nmod	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+9	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	tanto	tanto	ADV	B	_	9	advmod	_	_
+11	quanto	quanto	ADP	E	_	12	case	_	_
+12	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	obl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = "La cosa... là... è uscita"
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cosa...	cosa...	NOUN	S	_	6	nsubj	_	_
+4	là...	là.	NOUN	S	_	3	compound	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	uscita	uscire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

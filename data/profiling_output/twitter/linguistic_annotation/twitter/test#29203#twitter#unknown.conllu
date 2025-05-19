@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = facciamo girare, cosi per le vostre feste non avrete più pensieri,vieni a trovarci o chiama al numero indicato...
+1	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	girare	girare	VERB	V	VerbForm=Inf	1	conj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	cosi	coso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+5	per	per	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	vostre	vostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	feste	festa	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	conj	_	_
+11	più	più	ADV	B	_	10	advmod	_	_
+12	pensieri	pensiero	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+13	,vieni	,vieno	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15-16	trovarci	_	_	_	_	_	_	_	_
+15	trovar	trovare	VERB	V	VerbForm=Inf	13	advcl	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	obj	_	_
+17	o	o	CCONJ	CC	_	18	cc	_	_
+18	chiama	chiamare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	conj	_	_
+19-20	al	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	numero	numero	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+22	indicato...	indicato.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4vdYOso5m
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4vdYOso5m	fb.me/4vdYOso5m	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

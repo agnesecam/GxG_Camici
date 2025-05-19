@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noi ci sbaciucchiavamo a casa, non è colpa mia se facevi il terzo incomodo nella stanza, sfigata https:// twitter.com/matt_tube/stat us/710087708811665408 …
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+3	sbaciucchiavamo	sbaciucchiare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	casa	casa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+11	se	se	SCONJ	CS	_	12	mark	_	_
+12	facevi	facevere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	terzo	terzo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
+15	incomodo	incomodo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+16-17	nella	_	_	_	_	_	_	_	_
+16	in	in	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	20	punct	_	_
+20	sfigata	sfigata	NOUN	S	Gender=Fem|Number=Sing	18	conj	_	_
+21	https:	https:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	18	punct	_	_
+24	twitter.com/matt_tube/stat	twitter.com/matt_tube/stare	SYM	X	_	9	nmod	_	_
+25	us/710087708811665408	us/710087708811665408	NUM	N	NumType=Card	24	nummod	_	_
+26	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

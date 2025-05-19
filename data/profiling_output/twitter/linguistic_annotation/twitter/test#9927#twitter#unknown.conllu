@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ag Entrate presenta i risultati '15 e le strategie '16 - 2° anno di record consecutivo per il recupero dell’evasione http://www.
+1	Ag	Ag	PROPN	SP	_	3	nsubj	_	_
+2	Entrate	Entrate	PROPN	SP	_	1	flat:name	_	_
+3	presenta	presentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	'15	'15	NUM	N	NumType=Card	5	nummod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	strategie	strategia	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+10	'16	'16	NUM	N	NumType=Card	12	nummod	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	2°	2°	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+13	anno	anno	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	record	record	NOUN	S	Gender=Masc	9	nmod	_	_
+16	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+17	per	per	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	recupero	recupero	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+20-21	dell’	_	_	_	_	_	_	_	SpaceAfter=No
+20	di	di	ADP	E	_	22	case	_	_
+21	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	_
+22	evasione	evasione	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+23	http://www	http://www	NOUN	S	_	22	compound	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = agenziaentrate.gov.it/wps/file/nsili b/nsi/agenzia/agenzia+comunica/comunicati+stampa/tutti+i+comunicati+del+2016/cs+marzo+2016/cs+01032016+risultati+2015+e+strategie+2016/033_Com.+st.+Presentazione+risultati+01.03.16.pdf …
+1	agenziaentrate.gov.it/wps/file/nsili	agenziaentrate.gov.it/wps/file/nsile	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	b/nsi	b/nso	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	agenzia/agenzia+comunica	agenzia/agenzia+comunico	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+5	/comunicati+stampa/tutti+i+comunicati+del+2016	/comunicati+stampa/tutti+i+comunicati+del+2016	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	cs+marzo+2016	cs+marzo+2016	SYM	X	_	4	conj	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	cs+01032016+risultati+2015+e+strategie+2016/033_Com.+st.+Presentazione+risultati+01.03.16.pdf	cs+01032016+risultati+2015+e+strategie+2016/033_Com.+st.+Presentazione+risultati+01.03.16.pdf	PROPN	SP	_	1	nmod	_	_
+10	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il mondo del risparmio e della #finanza è diventato più complesso per l'82% dei risparmiatori senior #SdR16 pic.twitter.com/YPknFJcSn6
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	risparmio	risparmio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	#finanza	#finanza	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	complesso	complesso	ADJ	A	Gender=Masc|Number=Sing	11	xcomp	_	_
+14	per	per	ADP	E	_	17	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+16	82	82	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
+17	%	%	SYM	SYM	_	11	obl	_	_
+18-19	dei	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	risparmiatori	risparmiatore	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+21	senior	senior	NOUN	S	Gender=Masc	20	compound	_	_
+22	#	#	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	SdR16	SdR16	PROPN	SP	_	20	nmod	_	_
+24	pic.twitter.com/YPknFJcSn6	pic.twitter.com/YPknFJcSn6	PROPN	SP	_	23	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CrampiSportivi di voi mi fido, ditemi che non sto sognando.
+1	@CrampiSportivi	@CrampiSportivo	ADV	B	_	5	advmod	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	_
+5	fido	fidare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	ditemi	ditema	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	che	che	SCONJ	CS	_	11	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	sognando	sognare	VERB	V	VerbForm=Ger	7	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Da un quarto d'ora ripeto "Se avessimo fatto lo 0-3...".
+1	Da	da	ADP	E	_	3	case	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
+4	d'	di	ADP	E	_	5	case	_	SpaceAfter=No
+5	ora	ora	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	ripeto	ripetere	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+8	Se	se	SCONJ	CS	_	10	mark	_	_
+9	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	0-3...	0-3...	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Io muoio.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	muoio	muoio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = #BayernJuve
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	BayernJuve	BayernJuve	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

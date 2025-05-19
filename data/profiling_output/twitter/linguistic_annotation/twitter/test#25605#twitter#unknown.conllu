@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @viaggiaescopri @inLOMBARDIA @italiaBT beh..lo esprimo.
+1	@viaggiaescopri	@viaggiaescoprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	@inLOMBARDIA	@inLOMBARDIA	PROPN	SP	_	0	root	_	_
+3	@italiaBT	@italiaBT	PROPN	SP	_	2	flat:name	_	_
+4	beh..lo	beh..lo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	esprimo.	esprimo.	NOUN	S	_	2	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..la carne mi da un senso di disgusto...
+1	..la	..la	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
+2	carne	carne	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	senso	senso	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	disgusto...	disgusto...	NOUN	S	_	6	nmod	_	_
+
+# sent_id = 3
+# text = inoltre fa anche male.
+1	inoltre	inoltre	ADV	B	_	4	advmod	_	_
+2	fa	fare	ADV	B	_	3	advmod	_	_
+3	anche	anche	ADV	B	_	4	advmod	_	_
+4	male	male	ADV	B	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

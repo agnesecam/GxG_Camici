@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scandalosi, se eravate preoccupati cambiavate immagine COGLIONI #Isola
+1	Scandalosi	Scandaloso	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	preoccupati	preoccupato	ADJ	A	Gender=Masc|Number=Plur	1	advcl	_	_
+6	cambiavate	cambiavare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+7	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+8	COGLIONI	COGLIONI	PROPN	SP	_	7	nmod	_	_
+9	#Isola	#Isola	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

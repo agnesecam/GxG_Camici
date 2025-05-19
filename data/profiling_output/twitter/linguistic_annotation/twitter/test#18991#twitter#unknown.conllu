@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A ciascuno la propria cura.....Buonanotte.
+1	A	a	ADP	E	_	2	case	_	_
+2	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	nmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	propria	proprio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	cura.....Buonanotte	cura.....Buonanotta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4uUE2TJK9
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4uUE2TJK9	fb.me/4uUE2TJK9	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

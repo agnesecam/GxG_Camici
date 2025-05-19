@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fabiovaresi ahimè no, causa mancanza di accredito.
+1	@fabiovaresi	@fabiovarendere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	ahimè	ahimè	INTJ	I	_	1	advmod	_	_
+3	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	causa	causa	NOUN	S	Gender=Fem|Number=Sing	1	nsubj:pass	_	_
+6	mancanza	mancanza	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	accredito	accredito	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Presumo di esserci col Bologna
+1	Presumo	Presumo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3-4	esserci	_	_	_	_	_	_	_	_
+3	esser	essere	VERB	V	VerbForm=Inf	1	acl	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+5-6	col	_	_	_	_	_	_	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Bologna	Bologna	PROPN	SP	_	3	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E con questo siamo al quarto consecutivo , ragazzi!
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	_
+4	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	consecutivo	consecutivo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Che bel giocatore Ivan #Perisic #RomaInter
+1	Che	che	DET	DQ	PronType=Int	3	det	_	_
+2	bel	bello	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	giocatore	giocatore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	Ivan	Ivan	PROPN	SP	_	3	nmod	_	_
+5	#Perisic	#Perisic	PROPN	SP	_	4	flat:name	_	_
+6	#RomaInter	#RomaInter	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

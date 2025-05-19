@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuna lentamente si sta svegliando.
+1	Qualcuna	Qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+2	lentamente	lento	ADV	B	_	5	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+4	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	svegliando	svegliare	VERB	V	VerbForm=Ger	1	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Someone is slowly waking up.
+1	Someone	Someone	X	SW	Foreign=Yes	0	root	_	_
+2	is	is	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	slowly	slowly	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	waking	waking	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	up	up	X	SW	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #spingtime #vineyards #vigna … https://www.
+1	#spingtime	#spingtimo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#vineyards	#vineyards	NOUN	S	Gender=Fem	1	nmod	_	_
+3	#vigna	#vigno	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	…	…	PUNCT	FF	_	5	punct	_	_
+5	https://www	https://www	NOUN	S	_	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = instagram.com/p/BDkwsQsSGd7/
+1	instagram.com/p/BDkwsQsSGd7/	instagram.com/p/BDkwsQsSGd7/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

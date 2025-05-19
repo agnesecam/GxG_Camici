@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni giorno una gazzella si sveglia e sa che dovrà correre.
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	gazzella	gazzella	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+9	che	che	SCONJ	CS	_	11	mark	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	correre	correre	VERB	V	VerbForm=Inf	8	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Ogni giorno un leone si sveglia e "toh una gazzella che corre ... oggi pesce"
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	leone	leone	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+9	toh	toh	INTJ	I	_	11	discourse	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	gazzella	gazzella	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	corre	correre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	...	...	PUNCT	FF	_	11	punct	_	_
+15	oggi	oggi	ADV	B	_	16	advmod	_	_
+16	pesce	pesce	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

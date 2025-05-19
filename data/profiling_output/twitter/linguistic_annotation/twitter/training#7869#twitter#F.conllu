@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ah ma dunque Cristiano non piace eh.
+1	Ah	ah	INTJ	I	_	6	discourse	_	_
+2	ma	ma	CCONJ	CC	_	6	cc	_	_
+3	dunque	dunque	ADV	B	_	6	advmod	_	_
+4	Cristiano	cristiano	PROPN	SP	_	6	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	eh	eh	INTJ	I	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Salutatelo #Amici15 #CristianoPerNoiSeiImportante pic.twitter.com/ji1jHK3jwR
+1	Salutatelo	Salutatelo	PROPN	SP	_	0	root	_	_
+2	#Amici15	#Amici15	PROPN	SP	_	1	flat:name	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	CristianoPerNoiSeiImportante	CristianoPerNoiSeiImportante	PROPN	SP	_	1	nmod	_	_
+5	pic.twitter.com/ji1jHK3jwR	pic.twitter.com/ji1jHK3jwR	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

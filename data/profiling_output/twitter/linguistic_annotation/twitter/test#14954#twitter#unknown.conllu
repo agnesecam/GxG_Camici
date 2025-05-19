@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Je_Romanelli @DettoFattoRai2 a me sembrava troppo strano,che,Caterina facesse ste scene.
+1	@Je_Romanelli	@Je_Romanelli	PROPN	SP	_	5	nsubj	_	_
+2	@DettoFattoRai2	@DettoFattoRai2	PROPN	SP	_	1	flat:name	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+5	sembrava	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	troppo	troppo	ADV	B	_	7	advmod	_	_
+7	strano,che	strano,co	ADV	B	_	5	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	Caterina	Caterina	PROPN	SP	_	10	nsubj	_	_
+10	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	xcomp	_	_
+11	ste	sto	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+12	scene	scena	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = L'aglio non le piace,ma non è allergica
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	aglio	aglio	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	piace,ma	piace,ma	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	allergica	allergica	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

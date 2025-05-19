@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Casaleggio tranquillizza tutti:
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Casaleggio	Casaleggio	PROPN	SP	_	0	root	_	_
+3	tranquillizza	tranquillizzare	ADP	E	_	4	case	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = non farà alcun passo indietro e continuerà a fare il burattinaio del #M5s .
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	alcun	alcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
+4	passo	passo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	indietro	indietro	ADV	B	_	4	advmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	continuerà	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	burattinaio	burattinaio	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	#M5s	#M5s	PROPN	SP	_	11	nmod	_	_
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ora sono sollevato!
+1	Ora	ora	ADV	B	_	3	advmod	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sollevato	sollevare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

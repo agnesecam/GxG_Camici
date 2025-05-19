@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RetrofootballEU @arsenalitalia @PIERPARDO Se fossimo "ricchi" noi @arsenalitalia vestiremmo così all'italian connection di @quellichelapl
+1	@RetrofootballEU	@RetrofootballEU	ADP	E	_	3	case	_	_
+2	@arsenalitalia	@arsenalitalia	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
+3	@PIERPARDO	@PIERPARDO	PROPN	SP	_	10	obl	_	_
+4	Se	se	SCONJ	CS	_	7	mark	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	ricchi	ricco	ADJ	A	Gender=Masc|Number=Plur	10	advcl	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+10	@arsenalitalia	@arsenalitaliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	vestiremmo	vestiere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	conj	_	_
+12	così	così	ADV	B	_	11	advmod	_	_
+13-14	all'	_	_	_	_	_	_	_	SpaceAfter=No
+13	a	a	ADP	E	_	16	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+15	italian	italian	ADJ	A	Number=Sing	16	amod	_	_
+16	connection	connection	NOUN	S	Gender=Fem	11	obl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	@quellichelapl	@quellichelapl	NOUN	S	Gender=Masc	16	nmod	_	SpacesAfter=\n
+

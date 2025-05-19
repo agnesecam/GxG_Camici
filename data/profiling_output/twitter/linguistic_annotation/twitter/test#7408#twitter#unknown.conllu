@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La vita si divide in tre momenti:
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	divide	dividere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	tre	tre	NUM	N	NumType=Card	7	nummod	_	_
+7	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = l'esistenza trascorsa, l'attuale e la futura:
+1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	esistenza	esistenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	trascorsa	trascorso	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	attuale	attuale	ADJ	A	Number=Sing	2	amod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	futura	futura	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = di essi quello che viviamo è... http:// fb.me/4dDUT1NHB
+1	di	di	ADP	E	_	2	case	_	_
+2	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	viviamo	vivere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	è...	è.	NOUN	S	_	5	conj	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	fb.me/4dDUT1NHB	fb.me/4dDUT1NHB	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

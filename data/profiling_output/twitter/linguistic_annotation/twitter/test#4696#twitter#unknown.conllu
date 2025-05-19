@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Formazione in Sicilia, l'assessorato dovrà modificare il bando:
+1	Formazione	formazione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Sicilia	Sicilia	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	assessorato	assessorato	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	modificare	modificare	VERB	V	VerbForm=Inf	0	root	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	bando	bando	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 2
+# text = slitta la partenza dei corsi http://www.
+1	slitta	slivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	partenza	partenza	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	corsi	corso	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+7	http://www	http://www	NOUN	S	Gender=Masc	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = natiperlavorare.it/2016/03/26/for mazione-in-sicilia-lassessorato-dovra-modificare-il-bando-slitta-la-partenza-dei-corsi/ …
+1	natiperlavorare.it/2016/03/26/for	natiperlavorare.it/2016/03/26/forre	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	mazione-in-	_	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	sicilia-lassessorato	sicilia-lassessorato	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	dovra-modificare-il	dovra-modificare-il	ADJ	A	_	1	amod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	bando	bare	VERB	V	VerbForm=Ger	5	advcl	_	SpaceAfter=No
+8	-slitta-la	-slitta-la	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+9	-partenza-dei	-partenza-di	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	corsi	corso	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	_
+13	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

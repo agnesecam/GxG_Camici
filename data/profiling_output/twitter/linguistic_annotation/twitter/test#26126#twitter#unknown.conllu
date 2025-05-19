@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @martinadecicco2 @ver_rossi soprattutto quando c'era la parte che facevano le prof e quando " facevano " l'esame
+1	@martinadecicco2	@martinadecicco2	NUM	N	NumType=Card	2	nummod	_	_
+2	@ver_rossi	@ver_rosso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	soprattutto	soprattutto	ADV	B	_	6	advmod	_	_
+4	quando	quando	SCONJ	CS	_	6	mark	_	_
+5	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	SpaceAfter=No
+6	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	prof	prof	NOUN	S	_	16	obj	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	quando	quando	SCONJ	CS	_	16	mark	_	_
+15	"	"	PUNCT	FB	_	16	punct	_	_
+16	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	conj	_	_
+17	"	"	PUNCT	FB	_	16	punct	_	_
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	esame	esame	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpacesAfter=\n
+

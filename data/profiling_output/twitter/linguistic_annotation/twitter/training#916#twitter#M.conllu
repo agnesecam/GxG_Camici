@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @acmilan @LuizAdriano_9
+1	@acmilan	@acmilan	NOUN	S	Gender=Masc	0	root	_	_
+2	@LuizAdriano_9	@LuizAdriano_9	PROPN	SP	_	1	nmod	_	_
+
+# sent_id = 2
+# text = Mexes può anche già preparare i bagagli,lo avessimo lasciato già l'estate scorsa
+1	Mexes	Mexes	NOUN	S	Gender=Masc	5	nsubj	_	_
+2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	anche	anche	ADV	B	_	5	advmod	_	_
+4	già	già	ADV	B	_	5	advmod	_	_
+5	preparare	preparare	VERB	V	VerbForm=Inf	0	root	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	bagagli,lo	bagagli,lo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+10	già	già	ADV	B	_	12	advmod	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	estate	estate	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	scorsa	scorso	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	SpacesAfter=\n
+

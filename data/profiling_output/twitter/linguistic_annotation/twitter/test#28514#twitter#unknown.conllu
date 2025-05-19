@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @raf_frate @BeppeBort ha!se non ci fosse Lui saremmo tutti alluvionati nelle acque di Noè.
+1	@raf_frate	@raf_frare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@BeppeBort	@BeppeBort	PROPN	SP	_	1	obj	_	_
+3	ha!se	ha!so	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+4	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+6	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux:pass	_	_
+7	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
+8	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+9	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	obl	_	_
+10	alluvionati	alluvionare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	_
+11-12	nelle	_	_	_	_	_	_	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	acque	acqua	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	Noè	Noè	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = AiutamiGesu io credo che tu sei il figlio di Dio
+1	AiutamiGesu	AiutamiGesu	ADP	E	_	2	case	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+3	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+6	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	3	ccomp	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Dio	dio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpacesAfter=\n
+

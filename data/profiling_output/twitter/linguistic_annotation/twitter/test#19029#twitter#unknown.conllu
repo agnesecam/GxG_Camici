@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = " Ciascuno ha la vita che è capace di vivere" Io debbo aver peccato di presunzione quando ho programmato la mia Sera pic.twitter.com/p0pdfXh5mm
+1	"	"	PUNCT	FB	_	3	punct	_	_
+2	Ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vita	vita	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	capace	capace	ADJ	A	Number=Sing	5	acl:relcl	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	vivere	vivere	VERB	V	VerbForm=Inf	8	advcl	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	15	punct	_	_
+12	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+13	debbo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	aver	avere	AUX	VA	VerbForm=Inf	15	aux	_	_
+15	peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	ccomp	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	presunzione	presunzione	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+18	quando	quando	SCONJ	CS	_	20	mark	_	_
+19	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	programmato	programmare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+22	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	Sera	Sera	PROPN	SP	_	20	obj	_	_
+24	pic.twitter.com/p0pdfXh5mm	pic.twitter.com/p0pdfXh5mm	PROPN	SP	_	23	flat:name	_	SpacesAfter=\n
+

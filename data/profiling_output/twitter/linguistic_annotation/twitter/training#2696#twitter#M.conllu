@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Sara_mb8 la diff.
+1	@Sara_mb8	@Sara_mb8	NUM	N	NumType=Card	3	nummod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	diff	diff	NOUN	S	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non é molta in tv se le telecamere sono molto in alto fanno sembrare lo stadio ancor più grande
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	molta	molta	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	tv	tv	NOUN	S	Gender=Fem	3	obl	_	_
+6	se	se	SCONJ	CS	_	13	mark	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	telecamere	telecamera	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+10	molto	molto	ADV	B	_	13	advmod	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	alto	alto	ADV	B	_	13	obl	_	_
+13	fanno	fanno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+14	sembrare	sembrare	VERB	V	VerbForm=Inf	13	ccomp	_	_
+15	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+17	ancor	ancora	ADV	B	_	18	advmod	_	_
+18	più	più	ADV	B	_	19	advmod	_	_
+19	grande	grande	ADJ	A	Number=Sing	16	amod	_	SpacesAfter=\n
+

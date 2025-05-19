@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nadia_corcione #continuando col nostro piacevole buongiorno e oggi coi #gerundiDiversi
+1	@nadia_corcione	@nadia_corcione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	#continuando	#continuare	VERB	V	VerbForm=Ger	1	advcl	_	_
+3-4	col	_	_	_	_	_	_	_	_
+3	con	con	ADP	E	_	7	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+5	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+6	piacevole	piacevole	ADJ	A	Number=Sing	7	amod	_	_
+7	buongiorno	buongiorno	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+8	e	e	CCONJ	CC	_	12	cc	_	SpacesAfter=\s\s\s
+9	oggi	oggi	ADV	B	_	12	advmod	_	SpacesAfter=\s\s\s
+10-11	coi	_	_	_	_	_	_	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	#gerundiDiversi	#gerundiDiverso	PROPN	SP	_	7	conj	_	SpacesAfter=\n
+

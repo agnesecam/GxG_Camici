@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sei milioni di italiani in difficoltà....
+1	Sei	sei	NUM	N	NumType=Card	2	nummod	_	_
+2	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	difficoltà...	difficoltà...	NOUN	S	_	2	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ma non stavamo tutti in ripresa ???
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	ripresa	ripresa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/lemondefr/stat us/710509527838416897 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/lemondefr/stat	twitter.com/lemondefr/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/710509527838416897	us/710509527838416897	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

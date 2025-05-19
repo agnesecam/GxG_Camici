@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che non si facessero differenze tra persone, abbracciare Aurora e i miei idoli https:// twitter.com/flavlessliam/s tatus/711281766284316672 …
+1	Che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6	tra	tra	ADP	E	_	7	case	_	_
+7	persone	persona	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	abbracciare	abbracciare	VERB	V	VerbForm=Inf	4	conj	_	_
+10	Aurora	Aurora	PROPN	SP	_	9	obj	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	idoli	idolo	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+15	https:	https:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	twitter.com/flavlessliam/s	twitter.com/flavlessliam/s	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+19	tatus/711281766284316672	tatus/711281766284316672	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

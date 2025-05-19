@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da 20anni @WWFitalia chiede bonifica di Bagnoli che è già progettata.
+1	Da	da	ADP	E	_	2	case	_	_
+2	20anni	20anno	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+3	@	@	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	WWFitalia	WWFitalia	PROPN	SP	_	5	nsubj	_	_
+5	chiede	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	bonifica	bonifica	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Bagnoli	Bagnoli	PROPN	SP	_	6	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	12	nsubj:pass	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
+11	già	già	ADV	B	_	12	advmod	_	_
+12	progettata	progettare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Bene @matteorenzi se la fara ! @donabianchi1 pic.twitter.com/rwxFPXFVpR
+1	Bene	bene	ADV	B	_	2	advmod	_	_
+2	@matteorenzi	@matteorenzi	ADV	B	_	0	root	_	_
+3	se	se	SCONJ	CS	_	5	fixed	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	fara	fara	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6	!	!	PUNCT	FS	_	8	punct	_	_
+7	@donabianchi1	@donabianchil	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pic.twitter.com/rwxFPXFVpR	pic.twitter.com/rwxFPXFVpR	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

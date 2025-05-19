@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = se qualcuno può contribuire,collabori.
+1	se	se	SCONJ	CS	_	4	mark	_	_
+2	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	contribuire	contribuire	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	,collabori	,collabore	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = un po' di giustizia ci vorrebbe,anche se,poi, dovrà scontrarsi con la legge https:// twitter.com/TutteLeNotizie /status/713699603120394240 …
+1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	po'	poco	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	vorrebbe	volere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	anche	anche	ADV	B	_	9	advmod	_	_
+9	se,poi	se,poi	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12-13	scontrarsi	_	_	_	_	_	_	_	_
+12	scontrar	scontrare	VERB	V	VerbForm=Inf	6	parataxis	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	legge	legge	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+17	https:	https:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	twitter.com/TutteLeNotizie	twitter.com/TutteLeNotizie	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
+21	/status/713699603120394240	/status/713699603120394240	NUM	N	NumType=Card	20	nummod	_	_
+22	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @welikechopin "Noi chiesimo" E' corretto, "Voi ecclesiaste" fa eccezione, " Essi chiorno" è irregolare!Ahahahhahahahhahah!
+1	@welikechopin	@welikechopino	NOUN	S	_	4	obj	_	_
+2	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	chiesimo	chiesimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	_
+6	E'	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	corretto	corretto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+10	Voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
+11	ecclesiaste	ecclesianere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	11	punct	_	_
+13	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+14	eccezione	eccezione	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	18	punct	_	_
+16	"	"	PUNCT	FB	_	18	punct	_	_
+17	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+18	chiorno	chiorno	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	18	punct	_	_
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	irregolare	irregolare	ADJ	A	Number=Sing	11	ccomp	_	SpaceAfter=No
+22	!Ahahahhahahahhahah	!Ahahahhahahahhahah	PROPN	SP	_	21	nsubj	_	SpaceAfter=No
+23	!	!	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = :-D
+1	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	D	D	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

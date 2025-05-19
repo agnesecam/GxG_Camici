@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rubertoavvocato @ZampieriChiara @matteorenzi la prescrizione avessimo una giustizia efficiente ok ma da noi è usata in modo inappropriato
+1	@rubertoavvocato	@rubertoavvocare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+2	@ZampieriChiara	@ZampieriChiara	PROPN	SP	_	1	obj	_	_
+3	@matteorenzi	@matteorenzi	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	prescrizione	prescrizione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+9	efficiente	efficiente	ADJ	A	Number=Sing	8	amod	_	_
+10	ok	ok	ADJ	A	_	9	amod	_	_
+11	ma	ma	CCONJ	CC	_	15	cc	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	15	obl:agent	_	_
+14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
+15	usata	usare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	modo	modo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+18	inappropriato	inappropriato	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\n
+

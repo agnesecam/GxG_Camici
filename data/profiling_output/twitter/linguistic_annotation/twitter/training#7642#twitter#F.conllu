@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dunque i ciliegi stanno sfiorendo e anche noi si parte e si torna a casa.
+1	dunque	dunque	ADV	B	_	5	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ciliegi	ciliegio	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sfiorendo	sfiorere	VERB	V	VerbForm=Ger	0	root	_	_
+6	e	e	CCONJ	CC	_	13	cc	_	_
+7	anche	anche	ADV	B	_	8	advmod	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	parte	partire	NOUN	S	Gender=Fem|Number=Sing	9	compound	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+13	torna	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	casa.	casa.	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = mi mancherai… https://www.
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+2	mancherai…	mancherai…	PUNCT	FF	_	3	punct	_	_
+3	https://www	https://www	NOUN	S	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = instagram.com/p/BD9PPH1qZfQ/
+1	instagram.com/p/BD9PPH1qZfQ/	instagram.com/p/BD9PPH1qZfQ/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

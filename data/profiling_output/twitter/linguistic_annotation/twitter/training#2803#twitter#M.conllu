@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @cla_juve_33 sì sì, è nato il 14 aprile 1956, in effetti l'aria bimbominkiosa lo fa sembrare più giovane ahahahah
+1	@cla_juve_33	@cla_juve_33	NUM	N	NumType=Card	2	nummod	_	_
+2	sì	sì	INTJ	I	Polarity=Pos	6	discourse	_	_
+3	sì	sì	INTJ	I	Polarity=Pos	6	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	nato	nascere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	14	14	NUM	N	NumType=Card	6	obl	_	_
+9	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	8	flat	_	_
+10	1956	1956	NUM	N	NumType=Card	8	flat	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	6	punct	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	effetti	effetto	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+15	aria	aria	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+16	bimbominkiosa	bimbominkioso	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+17	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+18	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+19	sembrare	sembrare	VERB	V	VerbForm=Inf	18	ccomp	_	_
+20	più	più	ADV	B	_	21	advmod	_	_
+21	giovane	giovane	ADJ	A	Number=Sing	19	xcomp	_	_
+22	ahahahah	ahahahah	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

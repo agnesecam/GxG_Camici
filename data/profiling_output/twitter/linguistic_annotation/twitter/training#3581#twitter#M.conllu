@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il post della prossima settimana di @TrivialHockey ci farà entrare nel clima dei playoff NHL, una lunga e oscura serata di hockey...
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	post	post	NOUN	S	_	10	nsubj	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	prossima	proo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	@TrivialHockey	@TrivialHockey	PROPN	SP	_	6	nmod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+10	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	entrare	entrare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12-13	nel	_	_	_	_	_	_	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	clima	clima	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15-16	dei	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	playoff	playoff	NOUN	S	_	14	nmod	_	_
+18	NHL	NHL	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	10	punct	_	_
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+21	lunga	lungo	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	oscura	oscuro	ADJ	A	Gender=Fem|Number=Sing	21	conj	_	_
+24	serata	serata	NOUN	S	Gender=Fem|Number=Sing	10	appos	_	_
+25	di	di	ADP	E	_	26	case	_	_
+26	hockey..	hockey..	NUM	N	NumType=Card	24	nummod	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

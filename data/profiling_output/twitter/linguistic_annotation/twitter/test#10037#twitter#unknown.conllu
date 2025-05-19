@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NESSUNO CONTROLLATA?
+1	NESSUNO	nessuno	PROPN	SP	_	0	root	_	_
+2	CONTROLLATA	controllato	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...LA CORTE DEI CONTI CHE FACEVA ?
+1	...LA	...LA	PROPN	SP	_	7	nsubj	_	_
+2	CORTE	corte	PROPN	SP	_	1	flat:name	_	_
+3-4	DEI	_	_	_	_	_	_	_	_
+3	DI	di	ADP	E	_	5	case	_	_
+4	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	CONTI	Conti	PROPN	SP	_	7	obl	_	_
+6	CHE	che	PROPN	SP	_	7	nsubj	_	_
+7	FACEVA	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	?	?	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = Corruzione nella Sanità costa 6 miliardi l'anno.
+1	Corruzione	corruzione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+2-3	nella	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Sanità	sanità	NOUN	S	Gender=Fem	5	obl	_	_
+5	costa	costare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	6	6	NUM	N	NumType=Card	7	nummod	_	_
+7	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	anno	anno	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = Cantone:... http:// fb.me/63SJEgm6n
+1	Cantone:...	Cantone:...	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	fb.me/63SJEgm6n	fb.me/63SJEgm6n	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

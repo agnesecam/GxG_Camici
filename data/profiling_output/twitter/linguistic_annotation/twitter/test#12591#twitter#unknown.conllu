@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FrancyP_ @morissese - pensate pure se avessero avuto idee programmi e progetti.
+1	@FrancyP_	@francyp_	PUNCT	FB	_	2	punct	_	_
+2	@morissese	@morissese	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+3	-	-	PUNCT	FF	_	4	punct	_	_
+4	pensate	pensare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+5	pure	pure	ADV	B	_	8	advmod	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	idee	idea	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	programmi	programma	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	progetti	progetto	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ...... .
+1	......	......	PUNCT	FF	_	0	root	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

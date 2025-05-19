@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ArenaGiletti se noi comuni mortali avessimo fatto lo stesso??
+1	@ArenaGiletti	@ArenaGiletto	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	7	mark	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+4	comuni	comune	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+5	mortali	mortale	ADJ	A	Number=Plur	4	amod	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

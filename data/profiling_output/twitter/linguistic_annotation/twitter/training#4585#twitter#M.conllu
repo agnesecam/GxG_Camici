@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La vita è lo spazio che dai al tempo che scorre.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+7-8	dai	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	11	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	scorre	scorrere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Il passato è sempre andato e il futuro dovrà sempre arrivare:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	passato	passato	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	sempre	sempre	ADV	B	_	5	advmod	_	_
+5	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	e	e	CCONJ	CC	_	11	cc	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	futuro	futuro	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+9	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+10	sempre	sempre	ADV	B	_	11	advmod	_	_
+11	arrivare	arrivare	VERB	V	VerbForm=Inf	5	conj	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 3
+# text = non ti apparterranno mai.
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	apparterranno	apparterre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

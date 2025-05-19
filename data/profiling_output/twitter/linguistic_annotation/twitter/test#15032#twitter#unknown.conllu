@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno oggi avevo bisogno di una colazione che facesse iniziare la giornata nel piede giusto… https://www.
+1	Buongiorno	Buongiorno	ADV	B	_	4	advmod	_	_
+2	oggi	oggi	ADV	B	_	4	advmod	_	_
+3	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	colazione	colazione	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
+10	iniziare	iniziare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13-14	nel	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	piede	piede	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+16	giusto…	giusto…	PUNCT	FF	_	17	punct	_	_
+17	https://www	https://www	NOUN	S	_	15	compound	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDfOOCmhyJ-/
+1	instagram.com/p/BDfOOCmhyJ-/	instagram.com/p/BDfOOCmhyJ-/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

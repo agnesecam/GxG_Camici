@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = gente che fa la stessa domanda a mille persone...
+1	gente	gente	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	mille	mille	NUM	N	NumType=Card	3	nummod	_	_
+9	persone...	persone...	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = — Ahahahahah Essì https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM72CTRPQJRPZ5XGVVCDXKJPN2ZEY5KMYNNRKMSQBUK22P2EYEIJUT4U27Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4=== …
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Ahahahahah	Ahahahahah	PROPN	SP	_	0	root	_	_
+3	Essì	Essì	PROPN	SP	_	2	conj	_	_
+4	https:	https:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	_
+7	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	2	nmod	_	_
+8	7B667HQMHN2IG6NM72CTRPQJRPZ5XGVVCDXKJPN2ZEY5KMYNNRKMSQBUK22P2EYEIJUT4U27Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4===	7B667HQMHN2IG6NM72CTRPQJRPZ5XGVVCDXKJPN2ZEY5KMYNNRKMSQBUK22P2EYEIJUT4U27Y4YO4R56M3ZLDERR5QAQFCCJCZTSIYHFD2IAKIHHSWXORVRLQKTY6GQX2WPWPAEIOKKAUQLT6HCH776AYDLET6DBT6O346OAGQWD33W66ZML3U7FQ442IA22SAEZ4===	PROPN	SP	_	7	flat:name	_	_
+9	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

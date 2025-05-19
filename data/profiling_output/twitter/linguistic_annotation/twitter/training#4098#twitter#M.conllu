@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Golfo del Messico, chiuso il caso “Marea nera”: “British Petroleum dovrà pagare risarcimento da 20 miliardi dollari” http://www.
+1	Golfo	Golfo	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Messico	Messico	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	chiuso	chiuso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	caso	caso	NOUN	S	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+9	“	“	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	Marea	Marea	PROPN	SP	_	8	nmod	_	_
+11	nera	nero	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	”	”	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	10	punct	_	_
+14	“	“	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	British	British	PROPN	SP	_	10	nmod	_	_
+16	Petroleum	Petroleum	PROPN	SP	_	15	flat:name	_	_
+17	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+18	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	_
+19	risarcimento	risarcimento	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+20	da	da	ADP	E	_	22	case	_	_
+21	20	20	NUM	N	NumType=Card	22	nummod	_	_
+22	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	_
+23	dollari	dollare	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	SpaceAfter=No
+24	”	”	PUNCT	FB	_	22	punct	_	_
+25	http://www	http://www	NOUN	S	_	22	compound	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 2
+# text = ilfattoquotidiano.it/2016/04/04/gol fo-del-messico-chiuso-il-caso-marea-nera-british-petroleum-dovra-pagare-risarcimento-da-20-miliardi-dollari/2607913/ …
+1	ilfattoquotidiano.it/2016/04/04/gol	ilfattoquotidiano.it/2016/04/04/goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fo-del-messico	fo-del-messico	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	-	-	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	chiuso-il-caso-marea-nera	chiuso-il-caso-marea-nerare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
+5	-british-petroleum-dovra-pagare	-british-petroleum-dovra-pagare	VERB	V	VerbForm=Inf	2	acl	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	risarcimento	risarcimento	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	-da-20	-da-20	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+9	-miliardi-dollari/2607913	-miliardi-dollari/2607913	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	_
+11	…	…	PUNCT	FF	_	9	punct	_	SpacesAfter=\n
+

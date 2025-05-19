@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Immigrazione :
+1	#Immigrazione	#Immigrazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Gasparri, magari avessimo in Italia uno come #Orban | Maurizio Gasparri https:// shar.es/1COf0g via @sharethis
+1	Gasparri	Gasparri	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	magari	magari	ADV	B	_	4	advmod	_	_
+4	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	Italia	Italia	PROPN	SP	_	4	obl	_	_
+7	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+8	come	come	ADP	E	_	10	case	_	_
+9	#	#	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	Orban	Orban	PROPN	SP	_	7	nmod	_	_
+11	|	|	SYM	SYM	_	10	flat:name	_	_
+12	Maurizio	Maurizio	PROPN	SP	_	10	nmod	_	_
+13	Gasparri	Gasparri	PROPN	SP	_	12	flat:name	_	_
+14	https:	https:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	12	punct	_	_
+17	shar.es/1COf0g	shar.es/1COf0g	PROPN	SP	_	10	nmod	_	_
+18	via	via	ADV	B	_	17	advmod	_	_
+19	@sharethis	@sharethis	ADV	B	_	17	advmod	_	SpacesAfter=\n
+

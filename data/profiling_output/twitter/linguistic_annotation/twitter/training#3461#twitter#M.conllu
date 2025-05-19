@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #tagadala7 Renzi per la sua carriera ha distrutto il bilancio della Provincia, del Comune di Firenze.
+1	#tagadala7	#tagadala7	NUM	N	NumType=Card	2	nummod	_	_
+2	Renzi	Renzi	PROPN	SP	_	8	nsubj	_	_
+3	per	per	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	distrutto	distruggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	bilancio	bilancio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Provincia	provincia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Comune	Comune	PROPN	SP	_	13	nmod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	Firenze	Firenze	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Farà lo stesso con il bilancio statale
+1	Farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	1	obj	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bilancio	bilancio	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+7	statale	statale	ADJ	A	Number=Sing	6	amod	_	SpacesAfter=\n
+

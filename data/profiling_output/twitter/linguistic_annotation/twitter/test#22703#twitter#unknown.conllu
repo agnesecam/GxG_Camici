@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Di sicuro non avrai manco il tempo di realizzare che sei lì con loro che ti cacciano come da me oggi https:// twitter.com/raglioale/stat us/716368016544497667 …
+1	Di	di	ADP	E	_	2	case	_	_
+2	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	5	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	avrai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	5	cop	_	_
+5	manco	manco	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	realizzare	realizzare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	che	che	SCONJ	CS	_	25	mark	_	_
+11	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	25	cop	_	_
+12	lì	lì	ADV	B	_	14	advmod	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	25	obl	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+17	cacciano	cacciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+18	come	come	ADV	B	_	20	case	_	_
+19	da	da	ADP	E	_	18	fixed	_	_
+20	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	obl	_	_
+21	oggi	oggi	ADV	B	_	20	advmod	_	_
+22	https:	https:	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	14	punct	_	_
+25	twitter.com/raglioale/stat	twitter.com/raglioale/stare	SYM	X	_	9	ccomp	_	_
+26	us/716368016544497667	us/716368016544497667	NUM	N	NumType=Card	25	nummod	_	_
+27	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

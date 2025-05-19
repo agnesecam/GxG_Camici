@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marco_moggio sì, ma sinallagma lo fa sembrare qualcosa di obbligato, un dare per avere.
+1	@marco_moggio	@marco_moggio	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	sì	sì	INTJ	I	Polarity=Pos	1	compound	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	7	punct	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	sinallagma	sinallagmare	ADV	B	_	7	advmod	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	8	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	obbligato	obbligare	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	7	punct	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	dare	dare	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+15	per	per	ADP	E	_	16	mark	_	_
+16	avere	avere	VERB	V	VerbForm=Inf	14	acl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Io invece pensavo al piacere del reciproco @maebort
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	invece	invece	ADV	B	_	3	advmod	_	_
+3	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	piacere	piacere	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	reciproco	reciproco	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	@maebort	@maebort	CCONJ	CC	_	3	cc	_	SpacesAfter=\n
+

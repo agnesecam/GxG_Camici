@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Significativo che #BernieSanders ,ebreo,abbia vinto in New Hampshire Essendo ebreo,potrebbe risolvere i problemi #Israel / #oPt ?
+1	Significativo	significativo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	che	che	SCONJ	CS	_	8	mark	_	_
+3	#BernieSanders	#BernieSanders	PROPN	SP	_	8	nsubj	_	_
+4	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	ebreo	ebreo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	New	New	PROPN	SP	_	8	obl	_	_
+11	Hampshire	Hampshire	PROPN	SP	_	10	flat:name	_	_
+12	Essendo	essere	AUX	V	VerbForm=Ger	13	cop	_	_
+13	ebreo	ebreo	ADJ	A	Gender=Masc|Number=Sing	8	advcl	_	SpaceAfter=No
+14	,potrebbe	,potere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
+15	risolvere	risolvere	VERB	V	VerbForm=Inf	14	csubj	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+18	#Israel	#Israel	PROPN	SP	_	17	nmod	_	_
+19	/	/	PUNCT	FF	_	18	punct	_	_
+20	#oPt	#oPt	PROPN	SP	_	18	flat:name	_	_
+21	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Palestine
+1	#Palestine	#Palestine	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n
+

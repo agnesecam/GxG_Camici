@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MPenikas di questo disastro ambientale chi paga?
+1	@MPenikas	@MPenikas	NOUN	S	Gender=Masc	0	root	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	disastro	disastro	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	ambientale	ambientale	ADJ	A	Number=Sing	4	amod	_	_
+6	chi	chi	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	paga	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ecco, dunque i mari sono a rischio,inutile girarci intorno al problema!
+1	Ecco	ecco	ADV	B	_	8	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	dunque	dunque	ADV	B	_	8	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	mari	maro	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	rischio	rischio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+10	inutile	inutile	ADJ	A	Number=Sing	8	amod	_	_
+11-12	girarci	_	_	_	_	_	_	_	_
+11	girar	girare	VERB	V	VerbForm=Inf	10	csubj	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	obj	_	_
+13	intorno	intorno	ADV	B	_	16	case	_	_
+14-15	al	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	13	fixed	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	problema	problema	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

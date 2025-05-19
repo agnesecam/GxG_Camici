@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ingegneria non è come le altre facoltà, non si possono studiare 104828 materie insieme come fossimo al liceo
+1	Ingegneria	ingegneria	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	come	come	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	altre	altro	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+7	facoltà	facoltà	NOUN	S	Gender=Fem	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+11	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	studiare	studiare	VERB	V	VerbForm=Inf	3	conj	_	_
+13	104828	104828	NUM	N	NumType=Card	12	nummod	_	_
+14	materie	materia	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+15	insieme	insieme	ADV	B	_	17	cc	_	_
+16	come	come	ADP	E	_	15	fixed	_	_
+17	fossimo	fossimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	liceo	liceo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	SpacesAfter=\n
+

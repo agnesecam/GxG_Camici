@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LisaMarinaro1 essendo tale, sarebbe stato pleonastico ricordarlo.
+1	@LisaMarinaro1	@LisaMarinaro1	PROPN	SP	_	7	nsubj	_	_
+2	essendo	essere	AUX	V	VerbForm=Ger	3	cop	_	_
+3	tale	tale	ADJ	A	Number=Sing	7	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	cop	_	_
+7	pleonastico	pleonastico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+8-9	ricordarlo	_	_	_	_	_	_	_	SpaceAfter=No
+8	ricordar	ricordare	VERB	V	VerbForm=Inf	7	csubj	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ma meglio fare, gli stolti sono sempre in giro.
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	meglio	meglio	ADV	B	_	3	advmod	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	10	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	stolti	stolto	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	sempre	sempre	ADV	B	_	10	advmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	giro	giro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 3
+# text = Bel tweed
+1	Bel	Bel	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	tweed	twee	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

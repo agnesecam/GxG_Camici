@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = taggata da milioni di personcine carina!! (( qualcuna di quelle che ho taggato lo avrà già fatto)).
+1	taggata	taggare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	1	obl:agent	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	personcine	personcina	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	carina	carina	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	!!	!!	PUNCT	FF	_	5	punct	_	_
+8	(	(	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+9	(	(	PUNCT	FB	_	17	punct	_	_
+10	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	17	nsubj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	10	nmod	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	taggato	taggare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
+16	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	advcl	_	_
+18	già	già	ADV	B	_	19	advmod	_	_
+19	fatto	fare	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/kXGijceEtr
+1	pic.twitter.com/kXGijceEtr	pic.twitter.com/kXGijceEtr	ADP	E	_	0	root	_	SpacesAfter=\n
+

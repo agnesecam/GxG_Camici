@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retweeted Monica Cirinnà ( @MonicaCirinna ):
+1	Retweeted	Retweeted	PROPN	SP	_	0	root	_	_
+2	Monica	Monica	PROPN	SP	_	1	flat:name	_	_
+3	Cirinnà	Cirinnà	PROPN	SP	_	1	flat:name	_	_
+4	(	(	PUNCT	FB	_	5	punct	_	_
+5	@MonicaCirinna	@MonicaCirinna	PROPN	SP	_	1	nmod	_	_
+6	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = che schifo!
+1	che	che	SCONJ	CS	_	2	mark	_	_
+2	schifo	schifo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Dopo ciò che hanno fatto su #unionicivili è chiaro a... http:// fb.me/7RavBSln8
+1	Dopo	dopo	ADP	E	_	2	case	_	_
+2	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	obl	_	_
+3	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+6	su	su	ADP	E	_	7	case	_	_
+7	#unionicivili	#unionicivile	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	a...	a.	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+11	http:	http:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	fb.me/7RavBSln8	fb.me/7RavBSln8	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

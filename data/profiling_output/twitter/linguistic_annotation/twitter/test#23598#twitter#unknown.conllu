@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "In ogni essere umano esistono facoltà latenti attraverso le quali egli può giungere alla conoscenza del mondo."
+1	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	In	in	ADP	E	_	5	case	_	_
+3	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	_
+5	umano	umano	ADJ	A	Gender=Masc|Number=Sing	6	obl	_	_
+6	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	facoltà	facoltà	NOUN	S	Gender=Fem	6	nsubj	_	_
+8	latenti	latente	ADJ	A	Number=Plur	7	amod	_	_
+9	attraverso	attraverso	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	quali	quale	PRON	PR	Number=Plur|PronType=Rel	14	obl	_	_
+12	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	giungere	giungere	VERB	V	VerbForm=Inf	7	acl:relcl	_	_
+15-16	alla	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	conoscenza	conoscenza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	6	punct	_	_
+
+# sent_id = 2
+# text = RUDOLF STEINER
+1	RUDOLF	Rudolf	PROPN	SP	_	0	root	_	_
+2	STEINER	Steiner	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

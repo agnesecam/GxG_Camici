@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #FCBarcelona fa sapere al #Brasile che #Neymar farà solo l'Olimpiade.
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	FCBarcelona	FCBarcelona	PROPN	SP	_	3	nsubj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sapere	sapere	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	#Brasile	#Brasile	PROPN	SP	_	4	obl	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	#Neymar	#Neymar	PROPN	SP	_	10	nsubj	_	_
+10	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	advcl	_	_
+11	solo	solo	ADV	B	_	13	advmod	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	Olimpiade	Olimpiade	PROPN	SP	_	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #ONey vorrebbe giocare anche la #CopaAmerica pic.twitter.com/MYoYg7aiVP
+1	#ONey	#ONey	PROPN	SP	_	3	nsubj	_	_
+2	vorrebbe	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	giocare	giocare	VERB	V	VerbForm=Inf	0	root	_	_
+4	anche	anche	ADV	B	_	6	advmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	#CopaAmerica	#CopaAmerica	PROPN	SP	_	3	obj	_	_
+7	pic.twitter.com/MYoYg7aiVP	pic.twitter.com/MYoYg7aiVP	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

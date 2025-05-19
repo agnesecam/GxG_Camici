@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Penso ai tuoi occhi e in essi trovo l'infinito...
+1	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	ai	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	5	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+9	trovo	trovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	infinito...	infinito...	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpacesAfter=\n
+

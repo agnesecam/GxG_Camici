@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Paula___b per fortuna farà bello e girerò in motorino.
+1	@Paula___b	@Paula___b	NOUN	S	_	4	nsubj	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	bello	bello	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	girerò	girare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	motorino	motorino	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Una macchina in meno...
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	meno..	meno..	NOUN	S	Gender=Masc	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = (ma non vedrai la differenza)
+1	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	vedrai	vedere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n
+

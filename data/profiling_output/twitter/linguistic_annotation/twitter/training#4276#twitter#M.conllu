@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hanno minacciato Bargiggia, in sostanza se perdono Gabriel dovrà cambiare pianeta #UdineseNapoli
+1	Hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	minacciato	minacciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+3	Bargiggia	Bargiggia	PROPN	SP	_	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	sostanza	sostanza	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	perdono	perdere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+9	Gabriel	Gabriel	PROPN	SP	_	11	nsubj	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	cambiare	cambiare	VERB	V	VerbForm=Inf	0	root	_	_
+12	pianeta	pianeta	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+13	#UdineseNapoli	#UdineseNapoli	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

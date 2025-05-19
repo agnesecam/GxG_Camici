@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se Lilli #Gruber continua ad invitare #Cacciari e #Dalema temo dovrà chiudere #ottoemezzo .
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	Lilli	Lillo	PROPN	SP	_	5	nsubj	_	_
+3	#	#	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+4	Gruber	Gruber	PROPN	SP	_	5	nsubj	_	_
+5	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ad	a	ADP	E	_	7	mark	_	_
+7	invitare	invitare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	Cacciari	Cacciari	PROPN	SP	_	7	obj	_	_
+10	e	e	CCONJ	CC	_	15	cc	_	_
+11	#	#	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+12	Dalema	Dalema	PROPN	SP	_	15	nsubj	_	_
+13	temo	temere	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	chiudere	chiudere	VERB	V	VerbForm=Inf	9	conj	_	_
+16	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+17	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Che noiosi soloni!
+1	Che	che	DET	DQ	PronType=Int	3	det	_	_
+2	noiosi	noioso	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+3	soloni	solone	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #PD
+1	#PD	#PD	CCONJ	CC	_	0	root	_	SpacesAfter=\n
+

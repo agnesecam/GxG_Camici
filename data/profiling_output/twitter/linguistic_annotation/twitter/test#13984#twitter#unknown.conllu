@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Antoluppoli @Lucadellisanti Luca le ho fatto credere che sareste diventati zii.
+1	@Antoluppoli	@Antoluppolo	PROPN	SP	_	6	nsubj	_	_
+2	@Lucadellisanti	@Lucadellisante	PROPN	SP	_	1	flat:name	_	_
+3	Luca	Luca	PROPN	SP	_	1	flat:name	_	_
+4	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	6	iobj	_	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	credere	credere	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	che	che	SCONJ	CS	_	11	case	_	_
+9	sareste	saredere	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	11	det	_	_
+10	diventati	diventare	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+11	zii	zio	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Ahah.
+1	Ahah	Ahah	INTJ	I	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = L'unica che ci è cascata è stata lei
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	unica	unico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	cascata	cascato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
+9	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vorrei conoscere una persona che ama Ben e Fede per la loro musica e non perché sono solo belli,impossibile?
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	conoscere	conoscere	VERB	V	VerbForm=Inf	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	persona	persona	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	ama	amare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	Ben	Ben	PROPN	SP	_	6	obj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Fede	fede	PROPN	SP	_	7	conj	_	_
+10	per	per	ADP	E	_	13	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	loro	loro	DET	AP	Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	musica	musica	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+14	e	e	CCONJ	CC	_	19	cc	_	_
+15	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+16	perché	perché	SCONJ	CS	_	19	mark	_	_
+17	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	solo	solo	ADV	B	_	19	advmod	_	_
+19	belli,impossibile	belli,impossibile	ADJ	A	Number=Sing	2	conj	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

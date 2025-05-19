@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Non mi conoscevo affatto, non avevi per me alcuna realtà mia propria, ero in uno stato come di… https://www.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+4	conoscevo	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	affatto	affatto	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	avevi	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+11	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
+12	realtà	realtà	NOUN	S	Gender=Fem	8	obj	_	_
+13	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+14	propria	propria	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	ero	essere	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+17	in	in	ADP	E	_	19	case	_	_
+18	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	stato	stato	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	_
+20	come	come	ADP	E	_	22	case	_	_
+21	di…	di…	PUNCT	FF	_	22	punct	_	_
+22	https://www	https://www	NOUN	S	_	4	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDplEFNOlNu/
+1	instagram.com/p/BDplEFNOlNu/	instagram.com/p/BDplEFNOlNu/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

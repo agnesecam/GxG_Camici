@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prima che il sole tramonti su qualsiasi giorno in cui lei dovrà fare qualcosa ella si mestruerà e avrà dolori simili alla morte
+1	Prima	prima	ADV	B	_	4	case	_	_
+2	che	che	SCONJ	CS	_	1	fixed	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sole	sole	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	tramonti	tramonto	ADV	B	_	8	advmod	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	8	det	_	_
+8	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	cui	cui	PRON	PR	PronType=Rel	13	obl	_	_
+11	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	fare	fare	VERB	V	VerbForm=Inf	8	acl:relcl	_	_
+14	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	17	obj	_	_
+15	ella	ella	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	mestruerà	mestruare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	advcl	_	_
+18	e	e	CCONJ	CC	_	19	cc	_	_
+19	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	conj	_	_
+20	dolori	dolore	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	_
+21	simili	simile	ADJ	A	Number=Plur	20	amod	_	_
+22-23	alla	_	_	_	_	_	_	_	_
+22	a	a	ADP	E	_	24	case	_	_
+23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	morte	morte	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	SpacesAfter=\n
+

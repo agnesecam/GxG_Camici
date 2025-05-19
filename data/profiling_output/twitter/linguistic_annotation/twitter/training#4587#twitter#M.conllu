@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #UK #pensione 20% dei lavoratori convinti che dovrà lavorare ben oltre i 70 anni http://www.
+1	#UK	#uk	ADJ	A	_	2	amod	_	_
+2	#pensione	#pensione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	20	20	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+4	%	%	SYM	SYM	_	2	nmod	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	convinti	convinto	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	lavorare	lavorare	VERB	V	VerbForm=Inf	7	acl:relcl	_	_
+12	ben	bene	ADV	B	_	11	advmod	_	_
+13	oltre	oltre	ADP	E	_	16	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	70	70	NUM	N	NumType=Card	16	nummod	_	_
+16	anni	anno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+17	http://www	http://www	NOUN	S	_	16	compound	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = express.co.uk/news/uk/656259 /Pension-crisis-poverty-old-age-many-will-never-retire … @Daily_Express @1stFinancialF
+1	express.co.uk/news/uk/656259	express.co.uk/news/uk/656259	NUM	N	NumType=Card	2	nummod	_	_
+2	/Pension	/Pension	PROPN	SP	_	8	obl	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	crisis-	_	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	poverty-old-age-many-will	poverty-old-age-many-will	ADJ	A	_	8	amod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	never-	_	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+8	retire	retire	VERB	V	VerbForm=Inf	0	root	_	_
+9	…	…	PUNCT	FF	_	8	punct	_	_
+10	@Daily_Express	@Daily_Express	PROPN	SP	_	8	obj	_	_
+11	@1stFinancialF	@1stFinancialF	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n
+

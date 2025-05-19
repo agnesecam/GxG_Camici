@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scegli da sola ciò che è meglio per Te... ma prima conosci le nostre proposte :) #StayPositive http:// ln.is/adm.ms/Q730G #ad
+1	Scegli	scegliere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	sola	solo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obl:agent	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	meglio	meglio	ADV	B	_	6	advmod	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	Te...	Te...	PROPN	SP	_	6	obl	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	prima	prima	ADV	B	_	12	advmod	_	_
+12	conosci	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+16	:	:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	1	punct	_	_
+18	#StayPositive	#StayPositive	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+19	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	ln.is/adm.ms/Q730G	ln.is/adm.ms/Q730g	X	SW	Foreign=Yes	18	compound	_	_
+23	#ad	#ad	X	SW	Foreign=Yes	22	flat:foreign	_	SpacesAfter=\n
+

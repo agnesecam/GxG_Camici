@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Radio24_news @24mattino_noi2 @RaffaelloLupi sarebbe una buona notizia.
+1	@Radio24_news	@Radio24_news	PROPN	SP	_	7	nsubj	_	_
+2	@24mattino_noi2	@24mattino_noi2	NUM	N	NumType=Card	3	nummod	_	_
+3	@RaffaelloLupi	@RaffaelloLupi	PROPN	SP	_	1	flat:name	_	_
+4	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	buona	buono	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Se avessimo politici importanti
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	politici	politico	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	importanti	importante	ADJ	A	Number=Plur	3	amod	_	SpacesAfter=\n
+

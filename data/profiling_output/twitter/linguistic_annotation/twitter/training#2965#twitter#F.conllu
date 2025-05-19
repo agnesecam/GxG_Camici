@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Auritomlinson1 ci fanno sembrare come delle disperate che la danno a tutti
+1	@Auritomlinson1	@Auritomlinson1	PROPN	SP	_	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	come	come	SCONJ	CS	_	8	mark	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	disperate	disperata	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+9	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+10	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	danno	danno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	11	obl	_	SpacesAfter=\n
+

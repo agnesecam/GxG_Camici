@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fiordisale Prima o poi uno scontro finale fra dalemiani/bersaniani e renziani ci dovrà essere.
+1	@fiordisale	@fiordisalire	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	_
+2	Prima	Prima	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	1	amod	_	_
+3	o	o	CCONJ	CC	_	6	cc	_	_
+4	poi	poi	ADV	B	_	6	advmod	_	_
+5	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	scontro	scontro	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+7	finale	finale	ADJ	A	Number=Sing	6	amod	_	_
+8	fra	fra	ADP	E	_	9	case	_	_
+9	dalemiani	dalemiano	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+11	bersaniani	bersaniano	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	renziani	renziano	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	_
+14	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16	essere	essere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = Altrimenti espulsioni di massa/scissione
+1	Altrimenti	altrimenti	CCONJ	CC	_	2	cc	_	_
+2	espulsioni	espulsione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	massa/scissione	massa/scissione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n
+

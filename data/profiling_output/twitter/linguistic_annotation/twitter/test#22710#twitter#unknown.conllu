@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il volersi bene è un sentimento che esiste a prescindere dai compromessi, e se tu appartieni a Cristo, avrai i... http:// fb.me/7ORadJAIs
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2-3	volersi	_	_	_	_	_	_	_	_
+2	voler	voler	NOUN	S	Gender=Masc	7	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+4	bene	bene	ADV	B	_	7	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	sentimento	sentimento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	prescindere	prescindere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12-13	dai	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	compromessi	compromesso	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	19	punct	_	_
+16	e	e	CCONJ	CC	_	19	cc	_	_
+17	se	se	SCONJ	CS	_	19	mark	_	_
+18	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	19	nsubj	_	_
+19	appartieni	appartenere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	Cristo	Cristo	PROPN	SP	_	19	obl	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	7	punct	_	_
+23	avrai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	24	cop	_	_
+24	i...	i...	NOUN	S	_	7	conj	_	_
+25	http:	http:	PUNCT	FC	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	24	punct	_	_
+28	fb.me/7ORadJAIs	fb.me/7ORadJAIs	PROPN	SP	_	24	nmod	_	SpacesAfter=\n
+

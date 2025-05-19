@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una realtà non ci fu data e non c’è, ma dobbiamo farcela noi, se vogliamo essere:
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	data	dare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	c’	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	SpaceAfter=No
+10	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	ma	ma	CCONJ	CC	_	14	cc	_	_
+13	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	farcela	farcelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	14	punct	_	_
+17	se	se	SCONJ	CS	_	19	mark	_	_
+18	vogliamo	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	essere	essere	AUX	V	VerbForm=Inf	14	advcl	_	SpaceAfter=No
+20	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = e non sarà mai una per tutti,... http:// fb.me/5mltO8Sg5
+1	e	e	CCONJ	CC	_	5	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	_	_
+4	mai	mai	ADV	B	_	5	advmod	_	_
+5	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	tutti,...	tutti,...	NOUN	S	_	5	nmod	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	fb.me/5mltO8Sg5	fb.me/5mltO8Sg5	PROPN	SP	_	5	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E qui ne conosco parecchie ! https:// twitter.com/tempioaforisma /status/713999067408437248 …
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	qui	qui	ADV	B	_	4	advmod	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+6	!	!	PUNCT	FS	_	7	punct	_	_
+7	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	_
+10	twitter.com/tempioaforisma	twitter.com/tempioaforismare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+11	/status/713999067408437248	/status/713999067408437248	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

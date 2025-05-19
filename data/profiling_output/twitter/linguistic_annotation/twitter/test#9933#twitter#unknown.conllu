@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @federusso80 e dire che nei cartoni giapponesi faceva venire la colina in bocca!
+1	@federusso80	@federusso80	NUM	N	NumType=Range	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	1	conj	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5-6	nei	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	cartoni	cartone	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+8	giapponesi	giapponese	ADJ	A	Number=Plur	7	amod	_	_
+9	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+10	venire	venire	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	colina	colina	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #maipiu #ladridiramen
+1	#maipiu	#maipiu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#ladridiramen	#ladridiramen	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

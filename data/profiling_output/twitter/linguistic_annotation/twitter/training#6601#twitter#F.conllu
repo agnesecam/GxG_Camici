@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se tutti noi fossimo sogni che qualcuno sogna, pensieri che qualcuno pensa?
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+4	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	sogni	sogno	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	_
+8	sogna	sognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	pensieri	pensiero	ADV	B	_	13	advmod	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+13	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #UniversoVersi Pessoa pic.twitter.com/KR5jS9zCxH
+1-2	#UniversoVersi	_	_	_	_	_	_	_	_
+1	#Universover	#Universovere	AUX	VA	VerbForm=Inf	3	cop	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	Pessoa	Pessoa	PROPN	SP	_	0	root	_	_
+4	pic.twitter.com/KR5jS9zCxH	pic.twitter.com/KR5jS9zCxH	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

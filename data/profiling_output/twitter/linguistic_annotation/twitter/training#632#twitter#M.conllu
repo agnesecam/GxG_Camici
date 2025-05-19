@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Highlander_Ro se avessimo Ronaldo e Messi li perderemmo sul più bello per infortunio e squalifica, ne ho viste troppe per crederci ancora
+1	@Highlander_Ro	@Highlander_Ro	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	8	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+4	Ronaldo	Ronaldo	PROPN	SP	_	8	nsubj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	Messi	mettere	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+7	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+8	perderemmo	perdeere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+9-10	sul	_	_	_	_	_	_	_	_
+9	su	su	ADP	E	_	12	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	bello	bello	ADJ	A	Gender=Masc|Number=Sing	8	obl	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	infortunio	infortunio	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	squalifica	squalifica	NOUN	S	Gender=Fem|Number=Sing	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	20	punct	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	20	iobj	_	_
+19	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	viste	vedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	conj	_	_
+21	troppe	troppo	ADJ	A	Gender=Fem|Number=Plur	20	obj	_	_
+22	per	per	ADP	E	_	23	mark	_	_
+23-24	crederci	_	_	_	_	_	_	_	_
+23	creder	credere	VERB	V	VerbForm=Inf	20	advcl	_	_
+24	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	23	obj	_	_
+25	ancora	ancora	ADV	B	_	1	advmod	_	SpacesAfter=\n
+

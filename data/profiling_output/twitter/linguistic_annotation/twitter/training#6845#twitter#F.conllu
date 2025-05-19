@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non c 'è MAI stato un sogno europeo.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	c	c	NOUN	S	_	5	nsubj	_	_
+3	'	'	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	MAI	Mai	PROPN	SP	_	8	nsubj	_	_
+6	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	europeo	europeo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = O meglio c 'era per ESSI che volevano riportarci nell' Ancien Régime https:// twitter.com/destebanica/st atus/717625810639798272 …
+1	O	o	CCONJ	CC	_	3	cc	_	_
+2	meglio	meglio	ADV	B	_	3	advmod	_	_
+3	c	c	NOUN	S	_	5	nsubj	_	_
+4	'	'	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+5	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	ESSI	esso	PROPN	SP	_	5	obl	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	volevano	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10-11	riportarci	_	_	_	_	_	_	_	_
+10	riportar	riportare	VERB	V	VerbForm=Inf	7	acl:relcl	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	_
+12-13	nell'	_	_	_	_	_	_	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	Ancien	Ancien	PROPN	SP	_	10	obl	_	_
+15	Régime	Régimo	PROPN	SP	_	14	flat:name	_	_
+16	https:	https:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	_
+19	twitter.com/destebanica/st	twitter.com/destebanica/st	SYM	X	_	14	nmod	_	_
+20	atus/717625810639798272	atus/717625810639798272	NUM	N	NumType=Card	19	nummod	_	_
+21	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

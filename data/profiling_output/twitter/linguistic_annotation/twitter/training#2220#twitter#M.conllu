@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Patrizio eliminato mentre Michele ancora dentro ... per non parlare di Cristiano #Amici15
+1	Patrizio	Patrizio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	eliminato	eliminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+3	mentre	mentre	SCONJ	CS	_	4	mark	_	_
+4	Michele	Michele	PROPN	SP	_	2	xcomp	_	_
+5	ancora	ancora	ADV	B	_	6	advmod	_	_
+6	dentro	dentro	ADV	B	_	4	advmod	_	_
+7	...	.	PUNCT	FF	_	4	punct	_	_
+8	per	per	ADP	E	_	10	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	parlare	parlare	VERB	V	VerbForm=Inf	4	advcl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Cristiano	cristiano	PROPN	SP	_	10	obl	_	_
+13	#Amici15	#Amici15	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

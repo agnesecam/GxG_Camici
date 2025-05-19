@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @avvenireit .
+1	@avvenireit	@avvenireit	ADV	B	_	0	root	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sì certo è un miracolo!
+1	Sì	sì	INTJ	I	Polarity=Pos	5	discourse	_	_
+2	certo	certo	ADV	B	_	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	miracolo	miracolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Come se fossimo imbecilli.
+1	Come	come	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	imbecilli	imbecillo	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Continuate a coprire questa gentaglia.
+1	Continuate	Continuare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	coprire	coprire	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	gentaglia	gentaglia	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = Si coprono a vicenda.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+2	coprono	coprire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	vicenda	vicenda	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 6
+# text = Schifoso!
+1	Schifoso	Schifoso	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

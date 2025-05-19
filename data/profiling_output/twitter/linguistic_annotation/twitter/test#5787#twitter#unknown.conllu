@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'Area del Premier Renzi si afferma e conferma anche nelle Primarie!
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Area	area	PROPN	SP	_	8	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Premier	premier	PROPN	SP	_	2	nmod	_	_
+6	Renzi	Renzi	PROPN	SP	_	5	flat:name	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	afferma	affermare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	conferma	confermare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	anche	anche	ADV	B	_	14	advmod	_	_
+12-13	nelle	_	_	_	_	_	_	_	_
+12	in	in	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	Primarie	primarie	PROPN	SP	_	10	obl	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Spero che qualcuna capisca che bisogna lavorare insieme!
+1	Spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	capisca	capisca	NOUN	S	Gender=Fem|Number=Sing	1	ccomp	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	lavorare	lavorare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	insieme	insieme	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #pdrenzi
+1	#pdrenzi	#pdrenzi	ADV	B	_	0	root	_	SpacesAfter=\n
+

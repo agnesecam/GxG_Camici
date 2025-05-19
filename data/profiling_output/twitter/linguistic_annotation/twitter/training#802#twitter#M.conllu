@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @OttoemezzoTW l'acidita antirenziana di Lilli Gruber e' davvero intollerabile.
+1	@OttoemezzoTW	@OttoemezzoTW	PROPN	SP	_	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	acidita	acidita	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	antirenziana	antirenziano	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Lilli	Lille	PROPN	SP	_	3	nmod	_	_
+7	Gruber	Gruber	PROPN	SP	_	6	flat:name	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	11	punct	_	_
+10	davvero	davvero	ADV	B	_	11	advmod	_	_
+11	intollerabile	intollerabile	ADJ	A	Number=Sing	6	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = C' avessimo Putin !! @Fabcontra
+1	C'	Co	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	Putin	Putin	PROPN	SP	_	0	root	_	_
+4	!!	!!	PUNCT	FF	_	3	punct	_	_
+5	@Fabcontra	@Fabcontra	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MediasetTgcom24 Siamo dominati dalla dittatura imperialista Europea ...Dov'è la libertà?
+1	@MediasetTgcom24	@MediasetTgcom24	PROPN	SP	_	3	nsubj:pass	_	_
+2	Siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	dominati	dominare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	nsubj	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	dittatura	dittatura	NOUN	S	Gender=Fem|Number=Sing	3	obl:agent	_	_
+7	imperialista	imperialista	ADJ	A	Number=Sing	6	amod	_	_
+8	Europea	Europea	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+9	...Dov'	...Dove	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	libertà	libertà	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = La terra è di tutti...È DEL POPOLO DEL MONDO !!!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	terra	terra	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	tutti...È	tutti...È	PROPN	SP	_	0	root	_	_
+6-7	DEL	_	_	_	_	_	_	_	_
+6	DI	Di	ADP	E	_	7	case	_	_
+7	IL	il	PROPN	SP	_	5	flat:name	_	_
+8	POPOLO	Popolo	PROPN	SP	_	5	flat:name	_	_
+9-10	DEL	_	_	_	_	_	_	_	_
+9	DI	Di	ADP	E	_	10	case	_	_
+10	IL	il	PROPN	SP	_	5	nmod	_	_
+11	MONDO	mondo	PROPN	SP	_	10	flat:name	_	_
+12	!!!	!!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

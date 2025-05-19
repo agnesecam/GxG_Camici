@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non si finisce mai di credere #inUnSogno se esso è stato scolpito nell'anima.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	finisce	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mai	mai	ADV	B	_	3	advmod	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	credere	credere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+7	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	inUnSogno	inUnSogno	PROPN	SP	_	6	obj	_	_
+9	se	se	SCONJ	CS	_	13	mark	_	_
+10	esso	esso	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj:pass	_	_
+11	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	aux:pass	_	_
+13	scolpito	scolpire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+14-15	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+14	in	in	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	anima	anima	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non importa quanto possa sembrare irraggiungibile.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	importa	importare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quanto	quanto	ADV	B	_	5	mark	_	_
+4	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+6	irraggiungibile	irraggiungibile	ADJ	A	Number=Sing	5	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

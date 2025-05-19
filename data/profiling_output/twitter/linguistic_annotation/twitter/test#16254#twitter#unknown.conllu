@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @IndagatoPd che ne sai di chi voto io?
+1	@IndagatoPd	@IndagatoPd	NOUN	S	Gender=Masc	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	4	obj	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	chi	chi	PRON	PR	Number=Sing|PronType=Rel	4	obl	_	_
+7	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	obj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma la volete finire di fare i maestri di vita?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	finire	finire	VERB	V	VerbForm=Inf	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	maestri	maestro	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Dove eravate prima che qualche comico si svegliasse?
+1	Dove	dove	ADV	B	_	2	advmod	_	_
+2	eravate	eravare	VERB	A	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	prima	prima	ADV	B	_	8	mark	_	_
+4	che	che	SCONJ	CS	_	3	fixed	_	_
+5	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	comico	comico	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	svegliasse	svegliare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

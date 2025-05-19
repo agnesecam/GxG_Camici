@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #notizie #Milano Sradicavano bancomat e facevano spaccate in banche e negozi: arrestati die... http:// bit.ly/1RjsfE1 #Lombardia #Italia
+1	#notizie	#notizia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	#Milano	#Milano	PROPN	SP	_	1	nmod	_	_
+3	Sradicavano	Sradicare	PROPN	SP	_	2	flat:name	_	_
+4	bancomat	bancomare	NOUN	S	_	2	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+7	spaccate	spaccare	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	banche	banca	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	negozi	negozio	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+12	:	:	PUNCT	FC	_	7	punct	_	_
+13	arrestati	arrestare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
+14	die...	die...	NUM	N	NumType=Card	18	nummod	_	_
+15	http:	http:	PUNCT	FC	_	14	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	bit.ly/1RjsfE1	bit.ly/1RjsfE1	PROPN	SP	_	7	nmod	_	_
+19	#Lombardia	#Lombardia	PROPN	SP	_	18	flat:name	_	_
+20	#	#	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	Italia	Italia	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

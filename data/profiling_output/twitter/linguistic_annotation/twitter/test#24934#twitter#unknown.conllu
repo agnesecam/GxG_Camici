@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @bravimabasta Per forza!
+1	@bravimabasta	@bravimabanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Per	per	ADP	E	_	3	case	_	_
+3	forza	forza	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vorrei vedere come farebbero ad accendere i fuochi durante le alluvioni
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+3	come	come	SCONJ	CS	_	4	mark	_	_
+4	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	ad	a	ADP	E	_	6	mark	_	_
+6	accendere	accendere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	fuochi	fuoco	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	durante	durante	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	alluvioni	alluvione	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	SpacesAfter=\n
+

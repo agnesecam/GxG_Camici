@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Date un’occhiata alla descrizione di massaggi pubblicati (e a breve arriveranno altri post descrittivi) e avrete ... http:// fb.me/RrlQIncE
+1	Date	dare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un’	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	occhiata	occhiata	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	descrizione	descrizione	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	massaggi	massaggio	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+9	pubblicati	pubblicato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	_
+10	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	breve	breve	ADJ	A	Number=Sing	14	obl	_	_
+14	arriveranno	arrivare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	conj	_	_
+15	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	14	nsubj	_	_
+16	post	post	ADV	B	_	17	advmod	_	_
+17	descrittivi	descrittivo	ADJ	A	Number=Plur	15	amod	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	14	punct	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	9	conj	_	_
+21	...	...	PUNCT	FF	_	22	punct	_	_
+22	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	9	punct	_	_
+25	fb.me/RrlQIncE	fb.me/RrlQIncE	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

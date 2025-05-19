@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi dovrà mostrare gli scontrini che da sindaco aveva tenuto segreti - notixweb http:// ow.ly/108GGe
+1	Renzi	Renzi	ADV	B	_	3	advmod	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	mostrare	mostrare	VERB	V	VerbForm=Inf	0	root	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	scontrini	scontrino	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+9	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	tenuto	tenere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+11	segreti	segreto	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+12	-	-	PUNCT	FF	_	13	punct	_	_
+13	notixweb	notixweb	NOUN	S	Gender=Masc|Number=Sing	11	compound	_	_
+14	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	ow.ly/108GGe	ow.ly/108gge	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

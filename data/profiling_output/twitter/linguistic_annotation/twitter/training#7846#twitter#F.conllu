@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque ricapitoliamo ..
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	ricapitoliamo	ricapitolare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	..	..	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 2
+# text = La Boschi e' fatta la Guidi pure ,adesso tocca alla Pinotti che era in lista d'attesa dal 2014
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Boschi	Boschi	PROPN	SP	_	5	nsubj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	5	punct	_	_
+5	fatta	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Guidi	Guide	PROPN	SP	_	5	obj	_	_
+8	pure	pure	ADV	B	_	9	advmod	_	_
+9	,adesso	,adesso	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Pinotti	Pinotti	PROPN	SP	_	10	obl	_	_
+14	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+15	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	lista	lista	NOUN	S	Gender=Fem|Number=Sing	13	acl:relcl	_	_
+18	d'	di	ADP	E	_	19	case	_	SpaceAfter=No
+19	attesa	attesa	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20-21	dal	_	_	_	_	_	_	_	_
+20	da	da	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	2014	2014	NUM	N	NumType=Card	17	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bella vittoria vincendo 4 frame consecutivi per Mark Allen e domani è lui il favorito contro Walden #EurosportSNOOKER
+1	Bella	bello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	vincendo	vincere	VERB	V	VerbForm=Ger	2	advcl	_	_
+4	4	4	NUM	N	NumType=Card	5	nummod	_	_
+5	frame	frama	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	consecutivi	consecutivo	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	Mark	Mark	PROPN	SP	_	3	obl	_	_
+9	Allen	Allen	PROPN	SP	_	8	flat:name	_	_
+10	e	e	CCONJ	CC	_	15	cc	_	_
+11	domani	domani	ADV	B	_	15	advmod	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	favorito	favorito	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+16	contro	contro	ADP	E	_	17	case	_	_
+17	Walden	Walden	PROPN	SP	_	15	nmod	_	_
+18	#	#	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	EurosportSNOOKER	EurosportSNOOKER	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

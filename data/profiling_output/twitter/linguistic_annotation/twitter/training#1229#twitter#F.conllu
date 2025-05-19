@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Purity di Jonathan Franzen dalla recensione di Marco Missiroli su #laLettura #228 pic.twitter.com/94JDELye6Q
+1	Purity	Purity	NOUN	S	_	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	Jonathan	Jonathan	PROPN	SP	_	1	nmod	_	_
+4	Franzen	Franzen	PROPN	SP	_	3	flat:name	_	_
+5-6	dalla	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	recensione	recensione	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Marco	Marco	PROPN	SP	_	7	nmod	_	_
+10	Missiroli	Missiroli	PROPN	SP	_	9	flat:name	_	_
+11	su	su	ADP	E	_	12	case	_	_
+12	#laLettura	#laLettura	PROPN	SP	_	1	nmod	_	_
+13	#228	#228	NUM	N	NumType=Card	12	nummod	_	_
+14	pic.twitter.com/94JDELye6Q	pic.twitter.com/94JDELye6Q	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

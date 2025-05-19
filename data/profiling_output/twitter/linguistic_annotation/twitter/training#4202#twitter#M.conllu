@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi chiedo ancora la stessa cosa adesso che è ufficiale.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ancora	ancora	ADV	B	_	2	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	adesso	adesso	ADV	B	_	6	advmod	_	_
+8	che	che	SCONJ	CS	_	10	mark	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	ufficiale	ufficiale	ADJ	A	Number=Sing	2	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Cazzo fregherà a Conte dell'Europeo, pensando al lavoro che dovrà fare a Londra.
+1	Cazzo	Cazzo	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	fregherà	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	Conte	conte	PROPN	SP	_	2	obl	_	_
+5-6	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+5	di	di	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	Europeo	europeo	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	pensando	pensare	VERB	V	VerbForm=Ger	2	advcl	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	aux	_	_
+15	fare	fare	VERB	V	VerbForm=Inf	12	acl:relcl	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	Londra	Londra	PROPN	SP	_	15	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sei così simpatico @snailale che i tuoi tweet fanno sembrare il lunedì un martedì.
+1	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	così	così	ADV	B	_	3	advmod	_	_
+3	simpatico	simpatico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	@snailale	@snailale	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	che	che	SCONJ	CS	_	9	mark	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	tweet	tweet	NOUN	S	Gender=Masc	9	nsubj	_	_
+9	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	lunedì	lunedì	NOUN	S	Gender=Masc	10	obj	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	martedì	martedì	NOUN	S	Gender=Masc	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Mitico
+1	Mitico	Mitico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

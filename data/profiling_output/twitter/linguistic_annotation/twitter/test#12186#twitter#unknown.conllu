@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @teobert86 ah e 30,40,50 anni fa non facevamo guerre?
+1	@teobert86	@teobert86	NUM	N	NumType=Card	8	nummod	_	_
+2	ah	ah	INTJ	I	_	8	punct	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	30,40,50	30,40,50	NUM	N	NumType=Card	5	nummod	_	_
+5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+6	fa	fa	ADV	B	_	5	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	guerre	guerra	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = eppure non partiva nessuno @ladyonorato @borghi_claudio @gparagone @giamma71
+1	eppure	eppure	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	partiva	partivo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+5	@ladyonorato	@ladyonorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+6	@borghi_claudio	@borghi_claudio	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	@gparagone	@gparagone	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	@giamma71	@giamma71	NUM	N	NumType=Card	7	nummod	_	SpacesAfter=\n
+

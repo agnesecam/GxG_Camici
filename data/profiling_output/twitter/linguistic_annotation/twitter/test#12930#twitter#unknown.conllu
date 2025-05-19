@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mariocalabresi Direttore se lo avessero preso ora.
+1	@mariocalabresi	@mariocalabrese	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	Direttore	Direttore	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+7	ora	ora	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = il giorno dopo la strage, vorrebbe dire che potevano farlo anche prima che beffa.
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+3	dopo	dopo	ADV	B	_	2	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	strage	strage	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	vorrebbe	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+9	che	che	SCONJ	CS	_	11	mark	_	_
+10	potevano	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11-12	farlo	_	_	_	_	_	_	_	_
+11	far	fare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13	anche	anche	ADV	B	_	14	advmod	_	_
+14	prima	prima	ADV	B	_	16	advmod	_	_
+15	che	che	SCONJ	CS	_	14	fixed	_	_
+16	beffa	beffare	NOUN	S	Gender=Fem|Number=Sing	11	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Agenzia_Ansa scappate in Romania e prontamente estradate.
+1	@Agenzia_Ansa	@Agenzia_Ansa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	scappate	scappare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Romania	Romania	PROPN	SP	_	2	obl	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	prontamente	pronto	ADV	B	_	7	advmod	_	_
+7	estradate	estradato	ADJ	A	Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mi raccomando la fretta!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	raccomando	raccomare	VERB	V	VerbForm=Ger	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fretta	fretta	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Non avessimo a perderle 'ste ziette.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4-5	perderle	_	_	_	_	_	_	_	_
+4	perder	perdere	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	'	'	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	ste	sta	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	ziette	zietto	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

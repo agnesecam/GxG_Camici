@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ce la farà la Rotta a esprimere una frase compiuta di 15 parole senza esprimersi a ma se eccerto sincopati?
+1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Rotta	rotta	PROPN	SP	_	3	nsubj	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	esprimere	esprimere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	frase	frase	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	compiuta	compiuto	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	15	15	NUM	N	NumType=Card	13	nummod	_	_
+13	parole	parola	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+14	senza	senza	ADP	E	_	15	mark	_	_
+15-16	esprimersi	_	_	_	_	_	_	_	_
+15	esprimer	esprimere	VERB	V	VerbForm=Inf	7	advcl	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+17	a	a	ADP	E	_	21	case	_	_
+18	ma	ma	CCONJ	CC	_	21	cc	_	_
+19	se	se	SCONJ	CS	_	21	mark	_	_
+20	eccerto	eccerto	ADV	B	_	21	advmod	_	_
+21	sincopati	sincopato	ADJ	A	Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #ottoemezzo
+1	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n
+

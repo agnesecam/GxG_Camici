@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SandroSca io avrei fatto entrare Zaza invece di Mandzo
+1	@SandroSca	@SandroSca	ADP	E	_	2	case	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+3	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	entrare	entrare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	Zaza	Zaza	PROPN	SP	_	5	obj	_	_
+7	invece	invece	ADV	B	_	5	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	Mandzo	Mandzo	PROPN	SP	_	5	obl	_	SpacesAfter=\n
+

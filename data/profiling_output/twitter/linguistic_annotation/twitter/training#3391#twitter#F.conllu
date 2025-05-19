@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 12x22:
+1	12x22	12x22	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = -Torna il padre di Meredith -Tribunale -JCap ci farà piangere -Scene Calzona (?) A I U T O #GreysAnatomy pic.twitter.com/ovOL7eIrZo
+1	-Torna	-Tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	padre	padre	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Meredith	Meredith	PROPN	SP	_	3	nmod	_	_
+6	-Tribunale	-Tribunale	PROPN	SP	_	5	flat:name	_	_
+7	-JCap	-JCap	PROPN	SP	_	5	flat:name	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+10	piangere	piangere	VERB	V	VerbForm=Inf	9	ccomp	_	_
+11	-Scene	-Scene	PROPN	SP	_	10	nsubj	_	_
+12	Calzona	Calzona	PROPN	SP	_	11	flat:name	_	_
+13	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	14	punct	_	_
+16	A	a	ADP	E	_	18	case	_	_
+17	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	U	u	PROPN	SP	_	11	nmod	_	_
+19	T	T	PROPN	SP	_	18	flat:name	_	_
+20	O	o	PROPN	SP	_	18	nmod	_	_
+21	#GreysAnatomy	#GreysAnatomy	PROPN	SP	_	20	flat:name	_	_
+22	pic.twitter.com/ovOL7eIrZo	pic.twitter.com/ovOL7eIrZo	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

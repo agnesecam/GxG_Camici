@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @riotta @IlPaoloGiordano Essì . Poveri noi.
+1	@riotta	@riotta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@IlPaoloGiordano	@IlPaoloGiordare	PROPN	SP	_	1	nsubj	_	_
+3	Essì	Essì	PROPN	SP	_	2	flat:name	_	_
+4	.	.	PUNCT	FS	_	2	punct	_	_
+5	Poveri	poveri	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ibrahimovic fa 4 gol e il Psg diventa campione di Francia.
+1	Ibrahimovic	Ibrahimovic	PROPN	SP	_	2	nsubj	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	4	4	NUM	N	NumType=Card	4	nummod	_	_
+4	gol	gol	NOUN	S	Gender=Masc	2	obj	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Psg	Psg	PROPN	SP	_	8	nsubj	_	_
+8	diventa	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	campione	campione	NOUN	S	Gender=Masc|Number=Sing	8	xcomp	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Francia	Francia	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E’ il quarto scudetto consecutivo http://www.
+1	E’	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	http://www	http://www	NOUN	S	_	4	compound	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = grognards2011.it/2016/03/ibrahi movic-fa-4-gol-e-il-psg-diventa-campione-di-francia-e-il-quarto-scudetto-consecutivo/ …
+1	grognards2011.it/2016/03/ibrahi	grognards2011.it/2016/03/ibrao	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	movic	movic	ADJ	A	_	1	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	fa	fare	ADV	B	_	2	advmod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	4	4	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	gol	goal	NOUN	S	Gender=Masc	2	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+10	e-il-psg	e-il-psg	SYM	X	_	1	nmod	_	SpaceAfter=No
+11	-diventa	-divento	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+12	-campione-di	-campione-do	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+13	-	-	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	francia-	_	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	e-il	e-ile	ADJ	A	_	19	amod	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	21	punct	_	SpaceAfter=No
+21	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	21	punct	_	_
+23	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

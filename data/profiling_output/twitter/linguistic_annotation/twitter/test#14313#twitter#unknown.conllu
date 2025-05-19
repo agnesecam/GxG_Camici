@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mannaggia quella volta che mi feci rubare il caricatore #Ripiphone @Beba_Gava
+1	Mannaggia	Mannaggia	ADV	B	_	3	advmod	_	_
+2	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	volta	volta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	expl	_	_
+6	feci	feci	NUM	N	_	7	nummod	_	_
+7	rubare	rubare	VERB	V	VerbForm=Inf	3	acl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	caricatore	caricatore	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	#	#	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	Ripiphone	Ripiphone	PROPN	SP	_	9	nmod	_	_
+12	@Beba_Gava	@Beba_Gare	PROPN	SP	_	11	flat:name	_	SpacesAfter=\n
+

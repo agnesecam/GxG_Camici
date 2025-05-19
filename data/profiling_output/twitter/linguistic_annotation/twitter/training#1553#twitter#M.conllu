@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ora i nostri torvi allarmi cambiati in gaie adunate, le nostre terribili marce in allegre danze.
+1	Ora	ora	ADV	B	_	5	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	torvi	torvo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+5-6	allarmi	_	_	_	_	_	_	_	_
+5	allar	allare	VERB	V	VerbForm=Inf	0	root	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	expl	_	_
+7	cambiati	cambiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	gaie	gaia	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	_
+10	adunate	adunato	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det:poss	_	_
+14	terribili	terribile	ADJ	A	Number=Plur	15	amod	_	_
+15	marce	marcia	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+16	in	in	ADP	E	_	18	case	_	_
+17	allegre	allegro	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	_
+18	danze	danza	NOUN	S	Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Antonio @a_bassolino si avvia in una sfida difficile e mette in campo il coraggio che il #Pd non ebbe quando #DeLuca 'trucco'' le #primarie
+1	Antonio	Antonio	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	@a_bassolino	@a_bassolare	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	avvia	avvia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sfida	sfida	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	difficile	difficile	ADJ	A	Number=Sing	7	amod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	mette	mettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	campo	campo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+15	che	che	PRON	PR	PronType=Rel	19	obj	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	#Pd	#Pd	PROPN	SP	_	19	nsubj	_	_
+18	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+19	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
+20	quando	quando	SCONJ	CS	_	22	mark	_	_
+21	#	#	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+22	DeLuca	DeLuca	PROPN	SP	_	19	obj	_	_
+23	'	'	PUNCT	FB	_	22	punct	_	SpaceAfter=No
+24	trucco'	truccoco	ADP	E	_	27	case	_	SpaceAfter=No
+25	'	'	PUNCT	FB	_	27	punct	_	_
+26	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
+27	#primarie	#primaria	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	SpacesAfter=\n
+

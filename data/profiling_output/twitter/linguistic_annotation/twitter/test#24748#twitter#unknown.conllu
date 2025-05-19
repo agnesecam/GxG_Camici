@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se l'isola avesse davvero degli autori, ora farebbero approdare Arisa che poi si picchierebbe con Simona!
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	isola	isola	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	avesse	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	_
+5	davvero	davvero	ADV	B	_	4	advmod	_	_
+6-7	degli	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	autori	autore	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	ora	ora	ADV	B	_	11	advmod	_	_
+11	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	approdare	approdare	VERB	V	VerbForm=Inf	11	xcomp	_	_
+13	Arisa	Arisa	PROPN	SP	_	12	obj	_	_
+14	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+15	poi	poi	ADV	B	_	17	advmod	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl	_	_
+17	picchierebbe	picchiare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+18	con	con	ADP	E	_	19	case	_	_
+19	Simona	Simona	PROPN	SP	_	17	obl	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = #isola #fatemiautrice #viaTara
+1	#isola	#isola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	#fatemiautrice	#fatemiautore	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	#viaTara	#viaTara	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

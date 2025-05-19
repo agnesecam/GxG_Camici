@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ariachetira se avessimo un governo sano e onesto il problema case e tante altre casi sociali non ci sarebbe!
+1	@Ariachetira	@Ariachetirare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	governo	governo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	sano	sano	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	onesto	onedere	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	problema	problema	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+11	case	casa	NOUN	S	Gender=Fem|Number=Plur	10	compound	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
+14	altre	altro	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+15	casi	caso	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	_
+16	sociali	sociale	ADJ	A	Number=Plur	15	amod	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	19	expl	_	_
+19	sarebbe	essere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = L'Enel aumentato del 100%!!
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Enel	enel	PROPN	SP	_	0	root	_	_
+3	aumentato	aumentare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	100	100	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	%	%	SYM	SYM	_	3	obl	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

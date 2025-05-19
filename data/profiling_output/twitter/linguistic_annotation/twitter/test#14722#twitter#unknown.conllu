@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PREVISTA PER LE PROSSIME SETTIMANE L’INVASIONE DELL’ITALIA.
+1	PREVISTA	prevedere	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	PER	per	PROPN	SP	_	1	nmod	_	_
+3	LE	il	PROPN	SP	_	2	flat:name	_	_
+4	PROSSIME	prossimo	PROPN	SP	_	2	flat:name	_	_
+5	SETTIMANE	settimana	PROPN	SP	_	2	flat:name	_	_
+6	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	INVASIONE	invasione	PROPN	SP	_	2	flat:name	_	_
+8-9	DELL’	_	_	_	_	_	_	_	SpaceAfter=No
+8	DI	Di	ADP	E	_	10	case	_	_
+9	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	ITALIA	Italia	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = OLTRE 300 MILA SBANDATI ARRIVERANNO DALL’AFRICA E pic.twitter.com/h6SvNQ45Lk
+1	OLTRE	oltre	ADP	E	_	2	case	_	_
+2	300	300	NUM	N	NumType=Card	3	nummod	_	_
+3	MILA	mila	PROPN	SP	_	5	nsubj	_	_
+4	SBANDATI	sbandati	PROPN	SP	_	3	flat:name	_	_
+5	ARRIVERANNO	arrivare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6-7	DALL’	_	_	_	_	_	_	_	SpaceAfter=No
+6	DA	Da	ADP	E	_	8	case	_	_
+7	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	AFRICA	Africa	PROPN	SP	_	5	obl	_	_
+9	E	e	CCONJ	CC	_	10	cc	_	_
+10	pic.twitter.com/h6SvNQ45Lk	pic.twitter.com/h6SvNQ45Lk	PROPN	SP	_	8	conj	_	SpacesAfter=\n
+

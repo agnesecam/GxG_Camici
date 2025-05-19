@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @evilardi inoltre mi interessano le sorti di tutte le persone che lavorano nel settore.
+1	@evilardi	@evilardare	ADV	B	_	4	advmod	_	_
+2	inoltre	inoltre	ADV	B	_	4	advmod	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	interessano	interessare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	sorti	sorte	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	10	det:predet	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	persone	persona	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	lavorano	lavorare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13-14	nel	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	settore	settore	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Ti sei chiesta come mai Emiliano no si batte x
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	chiesta	chiedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+4	come	come	ADP	E	_	6	case	_	_
+5	mai	mai	ADV	B	_	6	advmod	_	_
+6	Emiliano	Emiliano	PROPN	SP	_	3	obl	_	_
+7	no	no	ADV	BN	PronType=Neg	3	advmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl:pass	_	_
+9	batte	battere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	x	x	SYM	SYM	_	9	nsubj:pass	_	SpacesAfter=\n
+

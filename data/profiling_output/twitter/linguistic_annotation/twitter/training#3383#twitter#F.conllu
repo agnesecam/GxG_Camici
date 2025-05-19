@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini l’uomo che ha diviso il centrodx geniale… farà vincere la sinistra!
+1	Salvini	Salvini	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+2	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	diviso	dividere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	centrodx	centrodx	NOUN	S	Gender=Masc	6	obj	_	_
+9	geniale…	geniale…	PUNCT	FF	_	10	punct	_	_
+10	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	vincere	vincere	VERB	V	VerbForm=Inf	10	ccomp	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/rebeccamanzoni 1/status/718684057782075392 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/rebeccamanzoni	twitter.com/rebeccamanzone	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	1/status/718684057782075392	1/status/718684057782075392	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

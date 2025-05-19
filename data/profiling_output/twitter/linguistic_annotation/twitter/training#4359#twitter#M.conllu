@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mancano ancora 10 giorni a Dublino,ma mia madre piange già perché dovrà stare senza di me per una settimana e salterà il mio compleanno
+1	Mancano	mancare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ancora	ancora	ADV	B	_	1	advmod	_	_
+3	10	10	NUM	N	NumType=Card	4	nummod	_	_
+4	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Dublino,ma	Dublino,ma	PROPN	SP	_	9	obl	_	_
+7	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	madre	madre	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+9	piange	piangere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	già	già	ADV	B	_	13	advmod	_	_
+11	perché	perché	SCONJ	CS	_	13	mark	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	stare	stare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+14	senza	senza	ADP	E	_	16	case	_	_
+15	di	di	ADP	E	_	14	fixed	_	_
+16	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	obl	_	_
+17	per	per	ADP	E	_	19	case	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	salterà	saltare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	conj	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+23	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	compleanno	compleanno	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	SpacesAfter=\n
+

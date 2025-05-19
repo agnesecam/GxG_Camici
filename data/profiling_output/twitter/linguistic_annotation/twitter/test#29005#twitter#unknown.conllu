@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tanti AUGURI a una persona davvero Speciale ...come se ti avessi cantato la canzone degli auguri col violino e Giorgio un po stonato
+1	Tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	AUGURI	auguri	PROPN	SP	_	0	root	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	davvero	davvero	ADV	B	_	7	advmod	_	_
+7	Speciale	speciale	ADJ	A	Number=Sing	5	amod	_	_
+8	...come	...come	ADV	B	_	12	advmod	_	_
+9	se	se	SCONJ	CS	_	12	mark	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	expl	_	_
+11	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	cantato	cantare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	canzone	canzone	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15-16	degli	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+18-19	col	_	_	_	_	_	_	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	violino	violino	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	Giorgio	Giorgio	PROPN	SP	_	14	conj	_	_
+23	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	po	po	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+25	stonato	stonato	ADJ	A	Gender=Masc|Number=Sing	24	amod	_	SpacesAfter=\n
+

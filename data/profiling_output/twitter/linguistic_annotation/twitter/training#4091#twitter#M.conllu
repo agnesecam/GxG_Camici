@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Enzo Bianco perde la Città metropolitana, con la nuova legge votata all'Ars il “Supersindaco” dovrà essere eletto http:// fb.me/10A0nwrCr
+1	Enzo	Enzo	PROPN	SP	_	3	nsubj	_	_
+2	Bianco	Bianco	PROPN	SP	_	1	flat:name	_	_
+3	perde	perdere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Città	città	PROPN	SP	_	3	obj	_	_
+6	metropolitana	metropolitano	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	con	con	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	legge	legge	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+12	votata	votare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	_
+13-14	all'	_	_	_	_	_	_	_	SpaceAfter=No
+13	a	a	ADP	E	_	15	case	_	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+15	Ars	Ars	PROPN	SP	_	12	obl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	“	“	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+18	Supersindaco	Supersindaco	PROPN	SP	_	22	nsubj:pass	_	SpaceAfter=No
+19	”	”	PUNCT	FB	_	18	punct	_	_
+20	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	aux	_	_
+21	essere	essere	AUX	VA	VerbForm=Inf	22	aux:pass	_	_
+22	eletto	eleggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+23	http:	http:	PUNCT	FC	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	22	punct	_	_
+26	fb.me/10A0nwrCr	fb.me/10A0nwrCr	PROPN	SP	_	3	xcomp	_	SpacesAfter=\n
+

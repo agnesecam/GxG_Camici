@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'idea mi è sembrata simpatica, anche per capire in che epoca viviamo è quanto i social influiscano sulle nostre ... http:// fb.me/BbxD9Bdq
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	idea	idea	NOUN	S	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+5	sembrata	sembrare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	anche	anche	ADV	B	_	10	advmod	_	_
+9	per	per	ADP	E	_	10	mark	_	_
+10	capire	capire	VERB	V	VerbForm=Inf	14	advcl	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	che	che	DET	DQ	PronType=Int	13	det	_	_
+13	epoca	epoca	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	viviamo	vivere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	5	advcl	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	social	social	NOUN	S	Gender=Masc	19	nsubj	_	_
+19	influiscano	influire	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+20-21	sulle	_	_	_	_	_	_	_	_
+20	su	su	ADP	E	_	22	case	_	_
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	nostre	nostre	NOUN	S	Gender=Fem|Number=Plur	19	obl	_	_
+23	...	...	PUNCT	FF	_	24	punct	_	_
+24	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	5	punct	_	_
+27	fb.me/BbxD9Bdq	fb.me/BbxD9Bdq	PROPN	SP	_	5	conj	_	SpacesAfter=\n
+

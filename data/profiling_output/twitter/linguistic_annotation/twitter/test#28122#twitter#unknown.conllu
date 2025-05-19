@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @willy_signori sai che anch'io penso una cosa del genere?
+1	@willy_signori	@willy_signore	ADV	B	_	2	advmod	_	_
+2	sai	sapere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	anch'	anche	ADV	B	_	6	advmod	_	SpaceAfter=No
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	genere	genere	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = troppi allenamenti non credo facciano così bene al fisico.
+1	troppi	troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	allenamenti	allenamento	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+6	così	così	ADV	B	_	5	advmod	_	_
+7	bene	bene	ADV	B	_	5	advmod	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	fisico	fisico	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

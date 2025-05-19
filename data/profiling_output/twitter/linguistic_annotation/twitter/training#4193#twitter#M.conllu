@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi sembra un pò la volpe e l'uva.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pò	pe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	volpe	volpe	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	uva	uva	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = La verità è che l'Inter ha perso un'altro anno e dovrà iniziare da zero senza sold https:// twitter.com/CriGiudici/sta tus/716930029129764864 …
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	verità	verità	NOUN	S	Gender=Fem	3	nsubj	_	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	Inter	Inter	PROPN	SP	_	8	nsubj	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+9	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+10	altro	altro	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14	iniziare	iniziare	VERB	V	VerbForm=Inf	8	conj	_	_
+15	da	da	ADP	E	_	16	case	_	_
+16	zero	zero	NUM	N	NumType=Card	14	nummod	_	_
+17	senza	senza	ADP	E	_	18	case	_	_
+18	sold	sold	NOUN	S	Gender=Fem	14	obl	_	_
+19	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	_
+22	twitter.com/CriGiudici/sta	twitter.com/CriGiudici/sta	PROPN	SP	_	18	nmod	_	_
+23	tus/716930029129764864	tus/716930029129764864	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

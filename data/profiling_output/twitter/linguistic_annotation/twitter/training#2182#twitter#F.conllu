@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il sole splende dentro noi per riscaldare l'anima.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sole	sole	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	splende	splendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dentro	dentro	ADP	E	_	5	case	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	riscaldare	riscaldare	VERB	V	VerbForm=Inf	3	advcl	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	anima	anima	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #BuonaDomenica @Matera pic.twitter.com/aLca02AmaP
+1	#BuonaDomenica	#BuonaDomenica	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	@Matera	@Matera	PROPN	SP	_	1	nmod	_	_
+3	pic.twitter.com/aLca02AmaP	pic.twitter.com/aLca02AmaP	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

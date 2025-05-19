@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AnnaBassanini @Elena07617349 @LUDOVICOTODINI gli esempi devono darlo i politici pagando dovunque vanno e rinunciando a tutti privilegi
+1	@AnnaBassanini	@AnnaBassanino	PROPN	SP	_	7	obj	_	_
+2	@Elena07617349	@Elena07617349	PROPN	SP	_	1	flat:name	_	_
+3	@LUDOVICOTODINI	@LUDOVICOTODINI	PROPN	SP	_	1	flat:name	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	esempi	esempio	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+6	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	darlo	darlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	politici	politico	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	pagando	pagare	VERB	V	VerbForm=Ger	7	advcl	_	_
+11	dovunque	dovunque	SCONJ	CS	_	12	mark	_	_
+12	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	rinunciando	rinunciare	VERB	V	VerbForm=Ger	12	conj	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	tutti	tutto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	_
+17	privilegi	privilegio	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	SpacesAfter=\n
+

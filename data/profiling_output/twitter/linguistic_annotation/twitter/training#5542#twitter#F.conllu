@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fate andare " qualcuna " a cui parte la protesi.
+1	Fate	fare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	andare	andare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	_
+4	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+5	"	"	PUNCT	FB	_	4	punct	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	cui	cui	DET	DR	PronType=Rel	8	det:poss	_	_
+8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	protesi	protesi	NOUN	S	Gender=Fem	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #ciaodarwin
+1	#ciaodarwin	#ciaodarwino	ADV	B	_	0	root	_	SpacesAfter=\n
+

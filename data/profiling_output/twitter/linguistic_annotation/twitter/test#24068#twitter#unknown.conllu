@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Alitalia buongiorno.
+1	@Alitalia	@Alitalia	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	buongiorno	buongiorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ancora nessuna notizia del mio bagaglio.
+1	Ancora	ancora	ADV	B	_	3	advmod	_	_
+2	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	notizia	notizia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	bagaglio	bagaglio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Mi aiutate per cortesia ?
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	aiutate	aiutare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = In aeroporto ad Istanbul non hanno notizie.
+1	In	in	ADP	E	_	2	case	_	_
+2	aeroporto	aeroporto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+3	ad	a	ADP	E	_	4	case	_	_
+4	Istanbul	Istanbul	PROPN	SP	_	6	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	notizie	notizia	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 5
+# text = Grazie
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'UNIVERSO NON SA' NEPPURE CHE ESISTI...
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	UNIVERSO	universo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	NON	non	PROPN	SP	_	2	nmod	_	_
+4	SA'	SA'	PROPN	SP	_	3	flat:name	_	_
+5	NEPPURE	neppure	PROPN	SP	_	3	nmod	_	_
+6	CHE	Che	PROPN	SP	_	5	flat:name	_	_
+7	ESISTI..	ESISTI..	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = QUINDI RILASSATI !!!
+1	QUINDI	quindi	PROPN	SP	_	0	root	_	_
+2	RILASSATI	rilassati	PROPN	SP	_	1	flat:name	_	_
+3	!!!	!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

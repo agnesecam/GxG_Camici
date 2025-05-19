@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Giacarta , #Indonesia Ebbe una visione e costruì la chiesa a forma di pavone (che sembra un grande pollo) http:// a.msn.com/01/it-it/AAgKn SX?ocid=st …
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Giacarta	Giacarta	PROPN	SP	_	6	obl	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+5	Indonesia	Indonesia	PROPN	SP	_	6	nsubj	_	_
+6	Ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	visione	visione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	costruì	costruire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	chiesa	chiesa	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	forma	forma	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	pavone	pavone	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+18	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+19	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+20	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	grande	grande	ADJ	A	Number=Sing	22	amod	_	_
+22	pollo	pollo	NOUN	S	Gender=Masc|Number=Sing	19	xcomp	_	SpaceAfter=No
+23	)	)	PUNCT	FB	_	19	punct	_	_
+24	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	6	punct	_	_
+27	a.msn.com/01/it-it/AAgKn	a.msn.com/01/it-it/AAgKn	PROPN	SP	_	6	obj	_	_
+28	SX?	SX?	PROPN	SP	_	27	flat:name	_	SpaceAfter=No
+29	ocid=st	ocid=st	SYM	X	_	27	flat:name	_	_
+30	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

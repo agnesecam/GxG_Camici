@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @BellussiG @borghi_claudio #è da un trentennio che la stanno distruggendo, ahimè !
+1	@BellussiG	@bellussig	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@borghi_claudio	@borghi_claudio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+3	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	trentennio	trentennio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+10	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	distruggendo	distruggere	VERB	V	VerbForm=Ger	7	acl:relcl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	ahimè	ahimè	INTJ	I	_	7	conj	_	_
+14	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

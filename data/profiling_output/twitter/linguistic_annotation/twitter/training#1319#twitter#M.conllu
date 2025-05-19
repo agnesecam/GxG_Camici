@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @mmastropietri buon appetito e roba delle nostre parti
+1	@mmastropietri	@mmastropietro	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+2	buon	buono	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	appetito	appetito	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	roba	roba	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	parti	parte	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpacesAfter=\n
+

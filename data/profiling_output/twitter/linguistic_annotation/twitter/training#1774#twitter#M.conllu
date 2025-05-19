@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = -21
+1	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	21	21	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 2
+# text = Le nostre MISS SONO PRONTE 󾌧 󾌧 VI
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	MISS	Miss	PROPN	SP	_	5	nsubj	_	_
+4	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	PRONTE	pronte	PROPN	SP	_	0	root	_	_
+6	󾌧	󾌧	PROPN	SP	_	5	flat:name	_	_
+7	󾌧	󾌧	PROPN	SP	_	6	flat:name	_	_
+8	VI	VI	ADJ	NO	Number=Sing|NumType=Ord	5	amod	_	_
+
+# sent_id = 3
+# text = ASPETTIAMO 󾬘 󾬗 29 APRILE Jamu Ja TORTORA MARINA Start ore 21.00󾌬 http:// fb.me/7lRmReibw
+1	ASPETTIAMO	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	󾬘	󾬘	PROPN	SP	_	1	obj	_	_
+3	󾬗	󾬗	PROPN	SP	_	2	flat:name	_	_
+4	29	29	NUM	N	NumType=Card	2	nmod	_	_
+5	APRILE	aprile	PROPN	SP	_	4	flat	_	_
+6	Jamu	Jamu	PROPN	SP	_	2	nmod	_	_
+7	Ja	Ja	PROPN	SP	_	6	flat:name	_	_
+8	TORTORA	TORTORA	PROPN	SP	_	6	flat:name	_	_
+9	MARINA	Marina	PROPN	SP	_	6	flat:name	_	_
+10	Start	Start	PROPN	SP	_	6	flat:name	_	_
+11	ore	ora	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
+12	21.00󾌬	21.00󾌬	PROPN	SP	_	2	flat:name	_	_
+13	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	fb.me/7lRmReibw	fb.me/7lRmReibw	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

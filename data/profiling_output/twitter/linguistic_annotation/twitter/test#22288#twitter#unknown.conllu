@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Suo padre lo vide, ebbe compassione, gli corse incontro, gli si gettò al collo e lo baciò (Lc 15,11-32) #buonadomenica #TwQr16
+1	Suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	padre	padre	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	vide	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	xcomp	_	_
+7	compassione	compassione	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+10	corse	corsa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+11	incontro	incontro	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	10	punct	_	_
+13	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+15	gettò	gettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	collo	collo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+19	e	e	CCONJ	CC	_	21	cc	_	_
+20	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+21	baciò	baciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	_
+22	(	(	PUNCT	FB	_	23	punct	_	SpaceAfter=No
+23	Lc	Lc	PROPN	SP	_	21	obl	_	_
+24	15,11	15,11	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+26	32	32	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
+27	)	)	PUNCT	FB	_	23	punct	_	_
+28	#buonadomenica	#buonadomenico	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+29	#TwQr16	#TwQr16	PROPN	SP	_	28	nmod	_	SpacesAfter=\n
+

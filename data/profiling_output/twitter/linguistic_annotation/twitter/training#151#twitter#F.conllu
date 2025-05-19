@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @claudio301065 @soniabetz1 dira' che l'hai blokkata tu perche sei grillino senza argomenti ahaha @BerziLiliana @JosephKarplus @Fabcontra
+1	@claudio301065	@claudio301065	NUM	N	NumType=Card	3	nummod	_	_
+2	@soniabetz1	@soniabetz1	NUM	N	NumType=Card	3	nummod	_	_
+3	dira	dira	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	'	'	PUNCT	FB	_	8	punct	_	_
+5	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+6	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+7	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	blokkata	blokkare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+9	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+10	perche	perca	ADV	B	_	12	advmod	_	_
+11	sei	sei	NUM	N	NumType=Card	12	nummod	_	_
+12	grillino	grillino	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+13	senza	senza	ADP	E	_	14	case	_	_
+14	argomenti	argomento	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
+15	ahaha	ahaavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+16	@BerziLiliana	@BerziLiliana	PROPN	SP	_	15	obj	_	_
+17	@JosephKarplus	@JosephKarplus	PROPN	SP	_	16	flat:name	_	_
+18	@Fabcontra	@Fabcontra	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

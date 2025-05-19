@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Benji_Mascolo @fedefederossi @BenjieFede secondo voi si puó a 17 anni dipendere dalla musica?
+1	@Benji_Mascolo	@Benji_Mascolo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+2	@fedefederossi	@fedefederuovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	@BenjieFede	@BenjieFede	PROPN	SP	_	2	nsubj:pass	_	_
+4	secondo	secondo	ADP	E	_	5	case	_	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	puó	puó	PROPN	SP	_	1	nmod	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	17	17	NUM	N	NumType=Card	10	nummod	_	_
+10	anni	anno	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	dipendere	dipendere	VERB	V	VerbForm=Inf	0	root	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	musica	musica	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Come se tutto fosse in un paio di cuffie?
+1	Come	come	ADV	B	_	4	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+4	fosse	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	paio	paio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	cuffie	cuffia	NOUN	S	Gender=Fem	7	nmod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

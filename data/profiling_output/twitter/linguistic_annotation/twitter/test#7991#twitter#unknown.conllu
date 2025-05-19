@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Guidi : in Italia solo la lobby del petrolio vuole le #trivellazioni .
+1	#Guidi	#Guidio	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Italia	Italia	PROPN	SP	_	1	obl	_	_
+5	solo	solo	ADV	B	_	7	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	lobby	lobby	NOUN	S	Gender=Fem	11	nsubj	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	petrolio	petrolio	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	#trivellazioni	#trivellazione	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Dunque il #17aprile votiamo SI al #referendum #referendum17aprile
+1	Dunque	dunque	ADV	B	_	4	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	#17aprile	#17aprile	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	votiamo	votare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	SI	Si	PROPN	SP	_	4	obj	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	#referendum	#referendum	NOUN	S	Gender=Masc	4	obl	_	_
+9	#referendum17aprile	#referendum17aprile	ADJ	A	Number=Sing	8	amod	_	SpacesAfter=\n
+

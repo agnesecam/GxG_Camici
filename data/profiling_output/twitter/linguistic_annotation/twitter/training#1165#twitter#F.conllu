@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Volevo fare anche i complimenti alla grande udinese la squadra più inutile d Italia !!!!!!!!
+1	Volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	anche	anche	ADV	B	_	5	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	grande	grande	ADJ	A	Number=Sing	9	amod	_	_
+9	udinese	udinese	ADJ	A	Number=Sing	5	amod	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	inutile	inutile	ADJ	A	Number=Sing	11	amod	_	_
+14	d	d	NOUN	S	_	17	nmod	_	_
+15	Italia	Italia	PROPN	SP	_	14	flat:name	_	_
+16	!!!	!!!	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+17	!!!!!	!!!!!	PUNCT	FF	_	11	punct	_	_
+
+# sent_id = 2
+# text = 3 pere dalla Samp messa peggio di loro
+1	3	3	NUM	N	NumType=Card	2	nummod	_	_
+2	pere	pere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Samp	Samp	PROPN	SP	_	6	obl	_	_
+6	messa	mettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+7	peggio	peggio	ADV	B	_	6	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	obl	_	SpacesAfter=\n
+

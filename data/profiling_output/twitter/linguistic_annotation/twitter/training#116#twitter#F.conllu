@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il gatto e le corse forsennate di notte:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	corse	corsa	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+6	forsennate	forsennato	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	notte	notte	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = perché le fa?
+1	perché	perché	SCONJ	CS	_	3	mark	_	_
+2	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	3	iobj	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = https:// shar.es/1jq3sE vía @gcomegatto
+1	https:	https:	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	shar.es/1jq3sE	shar.es/1jq3sE	PROPN	SP	_	5	nsubj	_	_
+5	vía	vío	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	@gcomegatto	@gcomegatto	ADV	B	_	5	advmod	_	SpacesAfter=\n
+

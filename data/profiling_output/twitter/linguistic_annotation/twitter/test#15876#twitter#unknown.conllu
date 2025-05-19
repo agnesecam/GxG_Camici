@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche il governo degli Stati Uniti propende per la scelta di operare in ambiente open source.
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	governo	governo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+4-5	degli	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	Stati	Stati	PROPN	SP	_	3	nmod	_	_
+7	Uniti	Uniti	PROPN	SP	_	6	flat:name	_	_
+8	propende	propendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	per	per	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	operare	operare	VERB	V	VerbForm=Inf	11	acl	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+16	open	open	ADV	B	_	17	advmod	_	_
+17	source	sourcia	ADJ	A	Number=Sing	15	amod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/1e174L4EM
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/1e174L4EM	fb.me/1e174L4EM	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

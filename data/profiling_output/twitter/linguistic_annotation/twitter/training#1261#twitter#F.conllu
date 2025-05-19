@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Post pranzo domenicale dalla nonna pic.twitter.com/NxzDheQzff
+1	Post	post	ADV	B	_	2	advmod	_	_
+2	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	domenicale	domenicale	ADJ	A	Number=Sing	2	amod	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	nonna	nonna|nonno	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+7	pic.twitter.com/NxzDheQzff	pic.twitter.com/NxzDheQzff	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

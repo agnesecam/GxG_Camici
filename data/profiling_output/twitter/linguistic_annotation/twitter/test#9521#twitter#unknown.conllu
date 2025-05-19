@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CF_Fantacalcio ciao Raga, solito dubbio della giornata,meglio dietro a 4(x modificatore)con Molinaro o L.Rigoni a centrocampo avendo Suso?
+1	@CF_Fantacalcio	@CF_Fantacalcio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	ciao	ciao	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	Raga	Raga	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	solito	solito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+6	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	giornata,meglio	giornata,meglio	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	dietro	dietro	ADV	B	_	12	case	_	_
+11	a	a	ADP	E	_	10	fixed	_	_
+12	4	4	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+13	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	x	x	SYM	SYM	_	5	obl	_	_
+15	modificatore	modificatore	NOUN	S	_	14	compound	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+17	con	con	ADP	E	_	18	case	_	_
+18	Molinaro	Molinaro	PROPN	SP	_	5	obl	_	_
+19	o	o	CCONJ	CC	_	20	cc	_	_
+20	L.Rigoni	L.Rigoni	PROPN	SP	_	18	conj	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	centrocampo	centrocampo	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+23	avendo	avere	VERB	V	VerbForm=Ger	5	advcl	_	_
+24	Suso	Suso	PROPN	SP	_	23	obj	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

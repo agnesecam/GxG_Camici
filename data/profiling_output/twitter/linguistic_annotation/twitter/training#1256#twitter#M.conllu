@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LaVero_1990 @kantor57 è semplicemente la verità.
+1	@LaVero_1990	@LaVero_1990	NUM	N	NumType=Card	6	nummod	_	_
+2	@kantor57	@kantor57	NUM	N	NumType=Card	1	flat	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	semplicemente	semplicemente	ADV	B	_	6	advmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	verità	verità	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Ridicolo è chi si lamenta di queste cose, indipendentemente dalla squadra che lo fa.
+1	Ridicolo	Ridicolo	PROPN	SP	_	3	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	lamenta	lamentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
+8	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	indipendentemente	indipendentemente	ADV	B	_	3	advmod	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

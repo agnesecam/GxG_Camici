@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AliLett_ è arrivato 3 perché gli altri sono caduti e che Pedrosa ha chiesto scusa...
+1	@AliLett_	@AliLett-	PUNCT	FB	_	3	punct	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	arrivato	arrivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	3	3	NUM	N	NumType=Card	3	nummod	_	_
+5	perché	perché	SCONJ	CS	_	9	mark	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	nsubj	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	caduti	cadere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	advcl	_	_
+10	e	e	CCONJ	CC	_	14	cc	_	_
+11	che	che	SCONJ	CS	_	14	mark	_	_
+12	Pedrosa	Pedrosa	PROPN	SP	_	14	nsubj	_	_
+13	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+15	scusa...	scusa.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

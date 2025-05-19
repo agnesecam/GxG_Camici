@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mario Giacomelli dalla serie "Motivo suggerito dal taglio dell'albero".
+1	Mario	Mario	PROPN	SP	_	0	root	_	_
+2	Giacomelli	Giacomelli	PROPN	SP	_	1	flat:name	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	serie	serie	NOUN	S	Gender=Fem	1	nmod	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	Motivo	motivo	PROPN	SP	_	1	nmod	_	_
+8	suggerito	suggerire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+9-10	dal	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12-13	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+12	di	di	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	albero	albero	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = 1967-1969 #photography pic.twitter.com/7p3b6HVO7h
+1	1967	1967	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+2	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	1969	1969	NUM	N	NumType=Card	1	compound	_	_
+4	#photography	#photography	NOUN	S	Gender=Masc	0	root	_	_
+5	pic.twitter.com/7p3b6HVO7h	pic.twitter.com/7p3b6HVO7h	PROPN	SP	_	4	nmod	_	SpacesAfter=\n
+

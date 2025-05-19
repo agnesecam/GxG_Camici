@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LAURAGuercilena essì !! che poi dipende dalla luce perché delle volte sembrano rossi
+1	@LAURAGuercilena	@LAURAGuercilenare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	essì	essì	ADV	B	_	1	advmod	_	_
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	poi	poi	ADV	B	_	7	advmod	_	_
+7	dipende	dipendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	luce	luce	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11	perché	perché	ADV	B	_	15	advmod	_	_
+12-13	delle	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	volte	volta	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	_
+15	sembrano	sembrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+16	rossi	rosso	ADJ	A	Gender=Masc|Number=Plur	15	xcomp	_	SpacesAfter=\n
+

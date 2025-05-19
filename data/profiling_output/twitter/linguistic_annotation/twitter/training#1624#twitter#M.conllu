@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @wallflower_85 @vagabonda1973 @plaidoyer @nozze89 tutti i sentimenti nascono nella famiglia, nelle nostre famiglie facciamo cosí.
+1	@wallflower_85	@wallflower_85	NUM	N	NumType=Card	7	nummod	_	_
+2	@vagabonda1973	@vagabonda1973	NUM	N	NumType=Card	7	nummod	_	_
+3	@plaidoyer	@plaidoyer	ADP	E	_	7	case	_	_
+4	@nozze89	@nozze89	NUM	N	NumType=Card	7	nummod	_	_
+5	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det:predet	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	sentimenti	sentimento	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
+8	nascono	nascere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9-10	nella	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	8	punct	_	_
+13-14	nelle	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	16	case	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+17	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+18	cosí	cosí	PROPN	SP	_	17	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Salviamole
+1-2	Salviamole	_	_	_	_	_	_	_	SpacesAfter=\n
+1	Salviamo	Salvare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	det	_	_
+

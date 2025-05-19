@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alla mia Francy non gliela fai, bella!!
+1-2	Alla	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	4	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	Francy	Francy	PROPN	SP	_	8	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6-7	gliela	_	_	_	_	_	_	_	_
+6	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+7	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	fai	faio	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	bella	bello	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Aurora che minaccia my lady NON esiste: no, no, NOH #ilsegreto pic.twitter.com/tsdCO1k51W
+1	Aurora	Aurora	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	minaccia	minacciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	my	my	DET	AP	Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	lady	lady	NOUN	S	Gender=Fem	3	obj	_	_
+6	NON	non	PROPN	SP	_	7	nsubj	_	_
+7	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	7	punct	_	_
+9	no	no	ADV	BN	PronType=Neg	7	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	11	punct	_	_
+11	no	no	INTJ	I	Polarity=Neg	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	NOH	NOH	PROPN	SP	_	5	nmod	_	_
+14	#ilsegreto	#ilsegreto	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15	pic.twitter.com/tsdCO1k51W	pic.twitter.com/tsdCO1k51W	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

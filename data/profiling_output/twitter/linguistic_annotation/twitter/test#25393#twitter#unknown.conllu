@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I #bambini del #ghetto di #Terezin sopravvissuti furono 245.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	#bambini	#bambino	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#ghetto	#ghetto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	#Terezin	#Terezin	PROPN	SP	_	5	nmod	_	_
+8	sopravvissuti	sopravvissuto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+9	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	245	245	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = #viaggiomemoriaistoreco #prague … https://www.
+1	#viaggiomemoriaistoreco	#viaggiomemoriaistoreco	NOUN	S	Gender=Fem	0	root	_	_
+2	#prague	#prague	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	https://www	https://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BCiQifpQ8ap/
+1	instagram.com/p/BCiQifpQ8ap/	instagram.com/p/BCiQifpQ8ap/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

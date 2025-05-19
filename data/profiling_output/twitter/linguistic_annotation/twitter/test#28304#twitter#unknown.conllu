@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Ma se io selezionassi rigorosamente, non ci saremmo mai conosciuti".
+1	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+2	Ma	ma	CCONJ	CC	_	12	cc	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	selezionassi	selezionassare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+6	rigorosamente	rigorosamente	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+10	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	mai	mai	ADV	B	_	12	advmod	_	_
+12	conosciuti	conoscere	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/28WvQrrtm
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/28WvQrrtm	fb.me/28WvQrrtm	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = revelacionesmarianas.com "ECCO, IO VERRÒ PRESTO E PORTERÒ CON ME IL MIO SALARIO, PER RENDERE A CIASCUNO ... http:// fb.me/4eRTlIA8w
+1	revelacionesmarianas.com	revelacionesmarianas.com	NOUN	S	Gender=Masc	0	root	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	ECCO	ecco	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	IO	io	PROPN	SP	_	1	appos	_	_
+6	VERRÒ	Verrare	PROPN	SP	_	5	flat:name	_	_
+7	PRESTO	presto	PROPN	SP	_	5	flat:name	_	_
+8	E	e	CCONJ	CC	_	9	cc	_	_
+9	PORTERÒ	Portare	PROPN	SP	_	5	conj	_	_
+10	CON	con	PROPN	SP	_	9	flat:name	_	_
+11	ME	me	PROPN	SP	_	9	flat:name	_	_
+12	IL	Il	PROPN	SP	_	9	flat:name	_	_
+13	MIO	mio	PROPN	SP	_	9	flat:name	_	_
+14	SALARIO	salario	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	9	punct	_	_
+16	PER	per	PROPN	SP	_	9	flat:name	_	_
+17	RENDERE	rendere	PROPN	SP	_	16	flat:name	_	_
+18	A	A	PROPN	SP	_	16	flat:name	_	_
+19	CIASCUNO	ciascuno	PROPN	SP	_	16	flat:name	_	_
+20	...	...	PUNCT	FF	_	9	punct	_	_
+21	http:	http:	PUNCT	FC	_	9	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	9	punct	_	_
+24	fb.me/4eRTlIA8w	fb.me/4eRTlIA8w	PROPN	SP	_	9	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LisadaCa & @SalaminaSilvia - Il Librandi è internazionale, dunque è doveroso:
+1	@LisadaCa	@LisadaCa	ADP	E	_	2	case	_	_
+2	&	&	SYM	SYM	_	8	obl	_	_
+3	@SalaminaSilvia	@SalaminaSilvia	PROPN	SP	_	2	flat:name	_	_
+4	-	-	PUNCT	FF	_	2	punct	_	_
+5	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Librandi	Librandi	PROPN	SP	_	8	nsubj	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	internazionale	internazionale	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	dunque	dunque	ADV	B	_	12	advmod	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	doveroso	doveroso	ADJ	A	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+13	:	:	PUNCT	FC	_	8	punct	_	_
+
+# sent_id = 2
+# text = " http://www.
+1	"	"	PUNCT	FB	_	2	punct	_	_
+2	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = librandilessworld.com " pic.twitter.com/HUnAGJq8SH
+1	librandilessworld.com	librandilessworld.com	NOUN	S	Gender=Masc	0	root	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	_
+3	pic.twitter.com/HUnAGJq8SH	pic.twitter.com/HUnAGJq8SH	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

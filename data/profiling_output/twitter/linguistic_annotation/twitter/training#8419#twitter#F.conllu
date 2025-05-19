@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , ieri per il nostro Continente è stato giorno (l'ennesimo) di lutto profondo, per gli attentati in Belgio....
+1	Dunque	dunque	ADV	B	_	10	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ieri	ieri	ADV	B	_	10	advmod	_	_
+4	per	per	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	Continente	continente	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
+10	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+11	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	ennesimo	ennesimo	NOUN	S	Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	13	punct	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	lutto	lutto	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+17	profondo	profondo	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	10	punct	_	_
+19	per	per	ADP	E	_	21	case	_	_
+20	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	attentati	attentato	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+22	in	in	ADP	E	_	23	case	_	_
+23	Belgio....	Belgio....	PROPN	SP	_	21	nmod	_	_
+
+# sent_id = 2
+# text = http:// fb.me/5itpX6AX6
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/5itpX6AX6	fb.me/5itpX6AX6	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Beati i single che la domenica mattina non hanno impegni, perché di essi è il regno dei cieli.
+1	Beati	Beare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	single	singla	ADJ	A	_	1	amod	_	_
+4	che	che	SCONJ	CS	_	9	mark	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+7	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	6	compound	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	impegni	impegnare	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	9	punct	_	_
+12	perché	perché	SCONJ	CS	_	17	mark	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obl	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	regno	regno	NOUN	S	Gender=Masc|Number=Sing	9	advcl	_	_
+18-19	dei	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	cieli	cielo	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

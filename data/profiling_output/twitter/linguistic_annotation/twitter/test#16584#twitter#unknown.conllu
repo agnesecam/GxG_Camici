@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Arrivare a Bertinoro è stata un'impresa, ma ce l'abbiamo fatta!
+1	Arrivare	arrivare	VERB	V	VerbForm=Inf	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Bertinoro	Bertinoro	PROPN	SP	_	1	obl	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	cop	_	_
+6	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	impresa	impresa	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	13	punct	_	_
+9	ma	ma	CCONJ	CC	_	13	cc	_	_
+10	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	_
+11	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+12	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Ars #EnzoBianco #perde la #Cittàmetropolitana , con la nuova legge il “Supersindaco” dovrà essere eletto | Leggimi http://www.
+1	#Ars	#Ars	PROPN	SP	_	4	nsubj	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	EnzoBianco	EnzoBianco	PROPN	SP	_	1	flat:name	_	_
+4	#perde	#perdere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	#Cittàmetropolitana	#Cittàmetropolitana	PROPN	SP	_	4	obj	_	_
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	con	con	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	legge	legge	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	“	“	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	Supersindaco	Supersindaco	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+15	”	”	PUNCT	FB	_	14	punct	_	_
+16	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux	_	_
+17	essere	essere	AUX	VA	VerbForm=Inf	18	aux:pass	_	_
+18	eletto	eleggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+19	|	|	SYM	SYM	_	18	xcomp	_	_
+20	Leggimi	Leggimo	PROPN	SP	_	19	flat:name	_	_
+21	http://www	http://www	NOUN	S	_	19	compound	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = leggimionline.it/2016/04/05/enz o-bianco-perde-la-citta-metropolitana-adesso-il-super-sindaco-dovra-essere-eletto/ …
+1	leggimionline.it/2016/04/05/enz	leggimionline.it/2016/04/05/enz	NOUN	S	Gender=Masc	0	root	_	_
+2	o	o	CCONJ	CC	_	5	cc	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+4	bianco	bianco	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+5	-perde-la	-perde-la	NOUN	S	Gender=Masc	1	conj	_	SpaceAfter=No
+6	-citta-metropolitana-adesso-il-super-	_	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	dovra-essere	dovra-essere	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	SpaceAfter=No
+10	-eletto	-eletto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	5	punct	_	_
+12	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

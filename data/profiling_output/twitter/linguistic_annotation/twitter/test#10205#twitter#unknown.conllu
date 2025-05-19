@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “ Nell ’ora violetta…” di Sara Teresano http://www.
+1	“	“	PUNCT	FB	_	2	punct	_	_
+2	Nell	Nell	PROPN	SP	_	0	root	_	_
+3	’	’	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	ora	ora	ADV	B	_	5	advmod	_	_
+5	violetta…	violetta…	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	”	”	PUNCT	FB	_	2	punct	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Sara	Sara	PROPN	SP	_	2	nmod	_	_
+9	Teresano	Teresano	PROPN	SP	_	8	flat:name	_	_
+10	http://www	http://www	NOUN	S	_	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = tempostretto.it/news/messina-o re-19-fino-17-aprile-ora-violetta-sara-teresano.html … via @tempostretto
+1	tempostretto.it/news/messina-o	tempostretto.it/news/messina-o	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+2	re-19-fino-17-aprile-ora-violetta-sara-teresano.html	re-19-fino-17-aprile-ora-violetta-sara-teresano.html	ADJ	A	_	1	amod	_	_
+3	…	…	PUNCT	FF	_	1	punct	_	_
+4	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	@tempostretto	@tempostretto	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\n
+

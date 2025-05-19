@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @antorendina Vandoorne dopo Kimi sarebbe il mio pilota preferito.
+1	@antorendina	@antorendinare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2-3	Vandoorne	_	_	_	_	_	_	_	_
+2	Vandoor	Vandoor	PROPN	SP	_	1	nmod	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	cc	_	_
+4	dopo	dopo	ADP	E	_	5	case	_	_
+5	Kimi	Kimi	PROPN	SP	_	9	obl	_	_
+6	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	pilota	pilota	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+10	preferito	preferito	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Lo facessero correre.
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	facessero	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	correre	correre	VERB	V	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

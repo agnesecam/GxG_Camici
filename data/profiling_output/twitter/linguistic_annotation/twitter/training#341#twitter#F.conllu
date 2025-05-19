@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se non avessimo già saputo tutti dell'enorme UST tra loro, il bacio che Kane da ad Abby lo avrebbe rivelato all'istante #The100 #Kabby
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+4	già	già	ADV	B	_	5	advmod	_	_
+5	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	6	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+9	enorme	enorme	ADJ	A	Number=Sing	10	amod	_	_
+10	UST	UST	PROPN	SP	_	5	xcomp	_	_
+11	tra	tra	ADP	E	_	12	case	_	_
+12	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	bacio	bacio	NOUN	S	Gender=Masc|Number=Sing	12	appos	_	_
+16	che	che	PRON	PR	PronType=Rel	23	obj	_	_
+17	Kane	Kane	PROPN	SP	_	23	nsubj	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	ad	a	ADP	E	_	18	fixed	_	_
+20	Abby	Abby	PROPN	SP	_	17	nmod	_	_
+21	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+22	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	rivelato	rivelare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
+24-25	all'	_	_	_	_	_	_	_	SpaceAfter=No
+24	a	a	ADP	E	_	26	case	_	_
+25	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	26	det	_	_
+26	istante	istante	NOUN	S	Number=Sing	23	obl	_	_
+27	#The100	#The100	PROPN	SP	_	23	obj	_	_
+28	#Kabby	#Kabby	PROPN	SP	_	27	flat:name	_	SpacesAfter=\n
+

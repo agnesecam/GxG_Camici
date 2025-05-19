@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = allora bisogna cambiare rotta ci vuole ordine si comincia da roma con storace la prima cosa che farà francesco pulizia delle fogne
+1	allora	allora	ADV	B	_	2	advmod	_	_
+2	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+3	cambiare	cambiare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	rotta	rotta	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	ordine	ordine	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	comincia	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	roma	roma	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	storace	storace	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	16	amod	_	_
+16	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+17	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+18	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	_
+19	francesco	francesco	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+20	pulizia	pulizia	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	_
+21-22	delle	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	fogne	fogna	NOUN	S	Gender=Fem|Number=Plur	20	nmod	_	SpacesAfter=\n
+

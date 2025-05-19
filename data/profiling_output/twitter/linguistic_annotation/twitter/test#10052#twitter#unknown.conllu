@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No, lui mi faceva -e fa- antipatia lol https:// twitter.com/holdmejamiex/s tatus/717764543749947393 …
+1	No	no	INTJ	I	Polarity=Neg	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	parataxis	_	_
+6	-	-	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	fa	fare	ADV	B	_	10	advmod	_	SpaceAfter=No
+9	-	-	PUNCT	FB	_	8	punct	_	_
+10	antipatia	antipatia	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+11	lol	lol	ADJ	A	_	10	amod	_	_
+12	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	15	punct	_	_
+15	twitter.com/holdmejamiex/s	twitter.com/holdmejamiex/s	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+16	tatus/717764543749947393	tatus/717764543749947393	NUM	N	NumType=Card	15	nummod	_	_
+17	…	…	PUNCT	FF	_	15	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nozze89 @nonegoziabili @MaxiErrante @elvialorena50 @MartaMoric ...fare.
+1	@nozze89	@nozze89	NUM	N	NumType=Card	3	nummod	_	_
+2	@nonegoziabili	@nonegoziabile	ADJ	A	Number=Plur	3	amod	_	_
+3	@MaxiErrante	@MaxiErrante	PROPN	SP	_	6	nsubj	_	_
+4	@elvialorena50	@elvialorena50	NUM	N	NumType=Card	5	nummod	_	_
+5	@MartaMoric	@MartaMoric	PROPN	SP	_	3	flat:name	_	_
+6	...fare	...fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Questo x tutte le coppie.
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	x	x	NOUN	S	Gender=Masc	0	root	_	_
+3	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	coppie	coppia	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Fossimo civili nn se ne discuterebbe!
+1	Fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	civili	civile	ADJ	A	Number=Plur	0	root	_	_
+3	nn	nno	ADV	B	_	6	advmod	_	_
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	discuterebbe	discutere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

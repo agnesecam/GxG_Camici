@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pakistano pizzicato mentre fa la pipì in strada, dovrà sborsare più di 3000 euro, dove li prende?
+1	Pakistano	pakistare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pizzicato	pizzicato	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+3	mentre	mentre	SCONJ	CS	_	4	mark	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	pipì	pipì	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	strada	strada	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	1	punct	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	sborsare	sborsare	VERB	V	VerbForm=Inf	1	conj	_	_
+12	più	più	ADV	B	_	11	obj	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	3000	3000	NUM	N	NumType=Card	15	nummod	_	_
+15	euro	euro	NOUN	S	Gender=Masc	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	19	punct	_	_
+17	dove	dove	ADV	B	_	19	advmod	_	_
+18	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	obj	_	_
+19	prende	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	19	punct	_	_
+
+# sent_id = 2
+# text = - notixweb http:// ow.ly/102ks2
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	notixweb	notixweb	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	http:	http:	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	ow.ly/102ks2	ow.ly/102ks2	NUM	N	NumType=Card	2	compound	_	SpacesAfter=\n
+

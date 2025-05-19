@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti senti con qualcuna ?
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	senti	sentire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obl	_	_
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = — Puo essere di si come può essere di no , chi sei ?
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Puo	Puo	PROPN	SP	_	10	nsubj	_	_
+3	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+6	come	come	ADP	E	_	10	mark	_	_
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+8	essere	essere	AUX	V	VerbForm=Inf	10	cop	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	no	no	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	chi	chi	PRON	PR	Number=Sing|PronType=Rel	10	nsubj	_	_
+13	sei	essere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+14	?	?	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 3
+# text = https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM56EDFIIVQPY7LHNRBDR3H47KSNW4GOAMNAPIUABNK23PSHYEIRVDYU2WQRZLY3NZMTMLBHRBUMLBBXCJCVVSEMXVDDNS6OPPV2VPRX37QSS5CAAZ3LIHHGGDLCBQM43A6HAGR4EUY3LAP3TKT223I7HRA53GF3VVWVVZN5P5QMM2OD24XBA53OJSLA====== …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+5	7B667HQMHN2IG6NM56EDFIIVQPY7LHNRBDR3H47KSNW4GOAMNAPIUABNK23PSHYEIRVDYU2WQRZLY3NZMTMLBHRBUMLBBXCJCVVSEMXVDDNS6OPPV2VPRX37QSS5CAAZ3LIHHGGDLCBQM43A6HAGR4EUY3LAP3TKT223I7HRA53GF3VVWVVZN5P5QMM2OD24XBA53OJSLA======	7B667HQMHN2IG6NM56EDFIIVQPY7LHNRBDR3H47KSNW4GOAMNAPIUABNK23PSHYEIRVDYU2WQRZLY3NZMTMLBHRBUMLBBXCJCVVSEMXVDDNS6OPPV2VPRX37QSS5CAAZ3LIHHGGDLCBQM43A6HAGR4EUY3LAP3TKT223I7HRA53GF3VVWVVZN5P5QMM2OD24XBA53OJSLA======	PROPN	SP	_	4	flat:name	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

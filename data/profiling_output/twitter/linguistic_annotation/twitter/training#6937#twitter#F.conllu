@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sebgiansiracusa @ineziessenziali solo che in realtà "Noi" è anche "io + voi" "io + essi " AIUTO :DDDD
+1	@sebgiansiracusa	@sebgiansiracusare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	@ineziessenziali	@ineziessenziale	ADJ	A	Number=Plur	1	amod	_	_
+3	solo	solo	ADV	B	_	22	advmod	_	_
+4	che	che	SCONJ	CS	_	13	mark	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	8	punct	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	anche	anche	ADV	B	_	13	advmod	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	22	ccomp	_	_
+14	+	+	SYM	SYM	_	15	det	_	_
+15	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	SpaceAfter=No
+16	"	"	PUNCT	FB	_	13	punct	_	_
+17	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+18	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+19	+	+	SYM	SYM	_	18	nmod	_	_
+20	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	nmod	_	_
+21	"	"	PUNCT	FB	_	22	punct	_	_
+22	AIUTO	aiuto	PROPN	SP	_	1	nmod	_	_
+23	:DDDD	:DDDD	PROPN	SP	_	22	flat:name	_	SpacesAfter=\n
+

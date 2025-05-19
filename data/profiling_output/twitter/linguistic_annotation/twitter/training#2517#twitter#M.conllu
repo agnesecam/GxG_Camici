@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma a quelli dello Spirito li hanno messi dentro da piccoli mi sa #ciaodarwin
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	9	obl	_	_
+4-5	dello	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Spirito	spirito	PROPN	SP	_	3	nmod	_	_
+7	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+8	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	advcl	_	_
+10	dentro	dentro	ADV	B	_	9	advmod	_	_
+11	da	da	ADP	E	_	12	case	_	_
+12	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	10	obl	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	_
+14	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	parataxis	_	_
+15	#ciaodarwin	#ciaodarwino	ADP	E	_	0	root	_	SpacesAfter=\n
+

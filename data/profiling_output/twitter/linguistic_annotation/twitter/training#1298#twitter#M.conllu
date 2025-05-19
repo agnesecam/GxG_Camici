@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avete capito che il tecnicismo, sia in azione che nel parlare serve solo a prendere distanze dalla massa?, e se... http:// fb.me/120Nt2MU7
+1	Avete	avere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tecnicismo	tecnicismo	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	sia	sia	CCONJ	CC	_	9	cc	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	azione	azione	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+10	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+11-12	nel	_	_	_	_	_	_	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	parlare	parlare	VERB	V	VerbForm=Inf	14	obl	_	_
+14	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+15	solo	solo	ADV	B	_	17	advmod	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	prendere	prendere	VERB	V	VerbForm=Inf	14	advcl	_	_
+18	distanze	distanza	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	_
+19-20	dalla	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	massa	massa	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	25	punct	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	se...	se.	PUNCT	FS	_	5	conj	_	_
+26	http:	http:	PUNCT	FC	_	25	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+28	/	/	PUNCT	FF	_	25	punct	_	_
+29	fb.me/120Nt2MU7	fb.me/120Nt2MU7	PROPN	SP	_	2	xcomp	_	SpacesAfter=\n
+

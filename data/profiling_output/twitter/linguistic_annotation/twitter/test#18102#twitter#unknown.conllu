@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @1955PalmAlph @RaiSportweb eeeh ma questo ci saranno parecchie morti x pazzia.
+1	@1955PalmAlph	@1955PalmAlph	X	SW	Foreign=Yes	0	root	_	_
+2	@RaiSportweb	@RaiSportweb	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	eeeh	eeeh	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+7	saranno	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+8	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	morti	morte	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+10	x	x	SYM	SYM	_	9	nmod	_	_
+11	pazzia.	pazzia.	NOUN	S	_	9	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...rosicano come i topi(di fogna)
+1	...rosicano	...rosicare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	topi(	topi(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+5	di	di	ADP	E	_	6	case	_	_
+6	fogna	fogna	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

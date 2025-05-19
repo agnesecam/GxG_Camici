@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sangazzurr @pisto_gol sta diventando il tuo idolo perché parla male dalla Juve ?
+1	@sangazzurr	@sangazzurr	ADP	E	_	2	case	_	_
+2	@pisto_gol	@pisto_goal	PRON	PQ	Number=Sing|PronType=Int	4	obl	_	_
+3	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	diventando	diventare	VERB	V	VerbForm=Ger	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	idolo	idolo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+8	perché	perché	SCONJ	CS	_	9	mark	_	_
+9	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	male	male	ADV	B	_	9	advmod	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Juve	Juve	PROPN	SP	_	9	obl	_	_
+14	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Cmq continuate a parlare che noi vinciamo il 5
+1	Cmq	Cmq	PROPN	SP	_	0	root	_	_
+2	continuate	continuare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	parlare	parlare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+7	vinciamo	vincere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	5	5	NUM	N	NumType=Card	7	obj	_	SpacesAfter=\n
+

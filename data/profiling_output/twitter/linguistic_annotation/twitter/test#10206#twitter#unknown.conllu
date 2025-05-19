@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Nescio_ergo_sum auguriiii.
+1	@Nescio_ergo_sum	@Nescio_ergo_sum	NOUN	S	_	0	root	_	_
+2	auguriiii.	auguriiii.	NOUN	S	_	1	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....portati benissimo se la foto è quasi attuale!
+1	....portati	....portare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	benissimo	bene	ADV	B	Degree=Abs	1	advmod	_	_
+3	se	se	SCONJ	CS	_	8	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	foto	foto	NOUN	S	Gender=Fem	8	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	quasi	quasi	ADV	B	_	8	advmod	_	_
+8	attuale	attuale	ADJ	A	Number=Sing	1	advcl	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

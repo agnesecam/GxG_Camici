@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La Regione Lombardia dovrà risarcire la famiglia Englaro per colpa di Formigoni.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Regione	regione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	Lombardia	Lombardia	PROPN	SP	_	2	nmod	_	_
+4	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	risarcire	risarcire	VERB	V	VerbForm=Inf	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	Englaro	Englaro	PROPN	SP	_	7	nmod	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Formigoni	Formigoni	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = I cattotalebani costano alla civiltà e alle nostre tasche
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	cattotalebani	cattotalebano	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	costano	costare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	civiltà	civiltà	NOUN	S	Gender=Fem	3	obl	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8-9	alle	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	11	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	tasche	tasca	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	SpacesAfter=\n
+

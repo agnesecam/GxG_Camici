@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LatinaBasket Saremmo potuti andare anche ad Agrigento perooo @FabioGuzzi77 @i_pietragalla @FranciGuidi
+1	@LatinaBasket	@LatinaBasket	PROPN	SP	_	0	root	_	_
+2	Saremmo	essere	PROPN	SP	_	1	flat:name	_	_
+3	potuti	potere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+4	andare	andare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	ad	a	ADP	E	_	7	case	_	_
+7	Agrigento	Agrigento	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	perooo	perooo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	@FabioGuzzi77	@FabioGuzzi77	NUM	N	NumType=Card	10	nummod	_	_
+10	@i_pietragalla	@i_pietragallo	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+11	@FranciGuidi	@FranciGuido	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

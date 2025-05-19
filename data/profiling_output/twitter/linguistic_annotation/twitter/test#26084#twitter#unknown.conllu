@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alisander91 parla quello che facevano giocare Cordoba col passaporto falso Salvini vi avrebbe ammazzato
+1	@alisander91	@alisander91	NUM	N	NumType=Card	2	nummod	_	_
+2	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+6	giocare	giocare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	Cordoba	Cordoba	PROPN	SP	_	6	obj	_	_
+8-9	col	_	_	_	_	_	_	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	passaporto	passaporto	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	falso	falso	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	Salvini	Salvini	PROPN	SP	_	10	nmod	_	_
+13	vi	vi	ADV	B	_	10	advmod	_	_
+14	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	ammazzato	ammazzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

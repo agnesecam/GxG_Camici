@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vecchi libri trovati in fondo alla libreria.
+1	Vecchi	vecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	libri	libro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	trovati	trovare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	libreria	libreria	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = « Dunque ascoltiamo senza batter ciglia La famosa… https://www.
+1	«	«	PUNCT	FB	_	3	punct	_	_
+2	Dunque	dunque	ADV	B	_	3	advmod	_	_
+3	ascoltiamo	ascoltare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	senza	senza	ADP	E	_	5	mark	_	_
+5	batter	battere	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	ciglia	ciglio	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	La	La	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	famosa…	famosa…	PUNCT	FF	_	9	punct	_	_
+9	https://www	https://www	NOUN	S	_	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDhxKnHk4nc/
+1	instagram.com/p/BDhxKnHk4nc/	instagram.com/p/BDhxKnHk4nc/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

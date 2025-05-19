@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Finché domineranno queste news virali da #striscialanotizia in #italia non cambierà niente #sapevatelo #m5s https:// twitter.com/HuffPostItalia /status/717256744691494912 …
+1	Finché	finché	ADV	B	_	2	advmod	_	_
+2	domineranno	dominare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	4	det	_	_
+4	news	news	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+5	virali	virale	ADJ	A	Number=Plur	4	amod	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	#striscialanotizia	#striscialanotizia	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	#italia	#italia	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	cambierà	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+12	niente	niente	PRON	PI	Number=Sing|PronType=Ind	11	obj	_	_
+13	#sapevatelo	#sapevatelo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	#m5s	#m5s	NOUN	S	Gender=Masc	11	nsubj	_	_
+15	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	_
+18	twitter.com/HuffPostItalia	twitter.com/HuffPostItalia	PROPN	SP	_	14	nmod	_	_
+19	/status/717256744691494912	/status/717256744691494912	NUM	N	NumType=Card	18	nummod	_	_
+20	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

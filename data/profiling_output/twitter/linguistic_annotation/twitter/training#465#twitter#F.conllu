@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CRAZIFORIU @Il__toscano vorrebbe che avessimo una voce per parlargli povero
+1	@CRAZIFORIU	@craziforiu	ADP	E	_	2	case	_	_
+2	@Il__toscano	@Il__toscano	PROPN	SP	_	3	obl	_	_
+3	vorrebbe	volere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	5	mark	_	_
+5	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	voce	voce	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9-10	parlargli	_	_	_	_	_	_	_	_
+9	parlar	parlare	VERB	V	VerbForm=Inf	5	advcl	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	povero	povero	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ReteSport @EdDzeko Anche un certo Rudi Voeller ebbe problemi al suo primo anno.
+1	@ReteSport	@ReteSport	CCONJ	CC	_	2	cc	_	_
+2	@EdDzeko	@EdDzeko	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Anche	anche	ADV	B	_	6	advmod	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	certo	certo	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	Rudi	Rudi	PROPN	SP	_	8	nsubj	_	_
+7	Voeller	Voeller	PROPN	SP	_	6	flat:name	_	_
+8	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+9	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	14	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+12	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+13	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
+14	anno	anno	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Poi sappiamo come andò a finire...
+1	Poi	poi	ADV	B	_	2	advmod	_	_
+2	sappiamo	sapere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	SCONJ	CS	_	4	mark	_	_
+4	andò	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	finire..	finire..	NOUN	S	_	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

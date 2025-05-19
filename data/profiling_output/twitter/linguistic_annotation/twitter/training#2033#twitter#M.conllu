@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dallo Smart Working nuova energia per le imprese http://www.
+1-2	Dallo	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Smart	Smart	PROPN	SP	_	0	root	_	_
+4	Working	Working	PROPN	SP	_	3	nmod	_	_
+5	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	energia	energia	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	per	per	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	imprese	impresa	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+10	http://www	http://www	NOUN	S	_	9	compound	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = labissa.com/economia-finan za-e-industria/item/17193-dallo-smart-working-nuova-energia-per-le-imprese … via @labissa2 #relazioniindustriali #risorseumane
+1	labissa.com/economia-finan	labissa.com/economia-finan	NOUN	S	Gender=Masc	0	root	_	_
+2	za	za	ADP	E	_	16	case	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	e-industria/item/17193	e-industria/item/17193	PROPN	SP	_	16	nmod	_	SpaceAfter=No
+5	-	-	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+6-7	dallo	_	_	_	_	_	_	_	SpaceAfter=No
+6	da	da	ADP	E	_	9	case	_	_
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	-	-	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	smart-working	smart-working	NOUN	S	Gender=Masc	4	nmod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+12	-energia-per-le	-energia-per-le	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	imprese	impresa	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
+15	…	…	PUNCT	FF	_	16	punct	_	_
+16	via	via	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+17	@labissa2	@labissa2	NUM	N	NumType=Card	19	nummod	_	_
+18	#relazioniindustriali	#relazioniindustriale	ADJ	A	Number=Plur	19	amod	_	_
+19	#risorseumane	#risorseumano	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	SpacesAfter=\n
+

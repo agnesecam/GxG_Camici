@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avessimo investito subito sull accoppiata L.Adriano e Bacca avremmo sicuramente qualche punto in più #acmilan #Milan #AtalantaMilan
+1	Avessimo	Avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	investito	investito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+3	subito	subito	ADV	B	_	2	advmod	_	_
+4	sull	sull	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	accoppiata	accoppiare	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	L.Adriano	L.Adriano	PROPN	SP	_	5	nmod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	Bacca	Bacca	PROPN	SP	_	9	nsubj	_	_
+9	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+10	sicuramente	sicuramente	ADV	B	_	9	advmod	_	_
+11	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	12	det	_	_
+12	punto	punto	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+13	in	in	ADP	E	_	16	case	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	#acmilan	#acmilan	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	#Milan	#Milan	PROPN	SP	_	12	nmod	_	_
+17	#AtalantaMilan	#AtalantaMilan	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

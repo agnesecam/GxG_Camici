@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque avevo ragione a protestare su Twitter, @TIM_Official L’Agcom bacchetta Tim:
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	protestare	protestare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+6	su	su	ADP	E	_	7	case	_	_
+7	Twitter	Twitter	PROPN	SP	_	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	@TIM_Official	@TIM_Official	PROPN	SP	_	7	conj	_	_
+10	L’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	Agcom	Agcom	PROPN	SP	_	9	appos	_	_
+12	bacchetta	bacchetto	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	Tim	Tim	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = le nuove tariffe sono troppo alte http://www.
+1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nuove	nuovo	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+3	tariffe	tariffe	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+4	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	troppo	troppo	ADV	B	_	6	advmod	_	_
+6	alte	alto	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+7	http://www	http://www	NOUN	S	_	6	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = lastampa.it/2016/03/25/eco nomia/lagcom-bacchetta-tim-le-nuove-tariffe-sono-troppo-alte-j1nqPvyCAirOIvJh8dtccM/pagina.html …
+1	lastampa.it/2016/03/25/eco	lastampa.it/2016/03/25/eco	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+2	nomia/lagcom	nomia/lagcom	NOUN	S	Gender=Masc	1	compound	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	bacchetta-tim-le	bacchetta-tim-le	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	nuove	nuovo	ADJ	A	Gender=Fem|Number=Plur	11	nsubj	_	SpaceAfter=No
+7	-tariffe-sono	es-tariffe-sere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	troppo-alte	troppo-algere	ADV	B	_	11	advmod	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	j1nqPvyCAirOIvJh8dtccM	j1nqPvyCAirOIvJh8dtccM	PROPN	SP	_	0	root	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	pagina.html	pagina.html	NOUN	S	Number=Sing	11	nmod	_	_
+14	…	…	PUNCT	FF	_	11	punct	_	SpacesAfter=\n
+

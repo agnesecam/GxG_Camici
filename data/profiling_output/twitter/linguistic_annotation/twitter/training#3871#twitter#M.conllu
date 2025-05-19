@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dite pure ciò che volete, ma come i portavoce del Movimento Cinque Stelle non c'è nessun "onorevole".
+1	Dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pure	pure	ADV	B	_	1	advmod	_	_
+3	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	volete	volere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	18	punct	_	_
+7	ma	ma	CCONJ	CC	_	18	cc	_	_
+8	come	come	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	portavoce	portavoce	NOUN	S	_	18	obl	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Movimento	Movimento	PROPN	SP	_	10	nmod	_	_
+14	Cinque	Cinque	PROPN	SP	_	13	flat:name	_	_
+15	Stelle	Stelle	PROPN	SP	_	13	flat:name	_	_
+16	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+17	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	18	expl	_	SpaceAfter=No
+18	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+19	nessun	nessun	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
+20	"	"	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+21	onorevole	onorevole	NOUN	S	Number=Sing	18	nsubj	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ci vediamo... http:// fb.me/7YwHj8lhd
+1	Ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+2	vediamo...	vediamo.	PUNCT	FF	_	3	punct	_	_
+3	http:	http:	PUNCT	FC	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	3	punct	_	_
+6	fb.me/7YwHj8lhd	fb.me/7YwHj8lhd	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

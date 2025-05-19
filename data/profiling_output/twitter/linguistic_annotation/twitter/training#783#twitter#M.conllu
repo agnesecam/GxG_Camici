@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grande Roma se avessimo segnato un gol...
+1	Grande	Grande	ADJ	A	Number=Sing	2	amod	_	_
+2	Roma	Roma	PROPN	SP	_	0	root	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	segnato	segnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	gol...	gol...	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpacesAfter=\n
+

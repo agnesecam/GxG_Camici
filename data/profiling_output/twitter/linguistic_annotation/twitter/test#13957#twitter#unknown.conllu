@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No vabbé ma chi poteva immaginare che sareste venuti a trovarmi all'uscita dell'evento… https://www.
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	_
+2	vabbé	vabbé	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	chi	chi	PRON	PR	Number=Sing|PronType=Rel	1	conj	_	_
+5	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	immaginare	immaginare	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	sareste	saresta	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	9	det	_	_
+9	venuti	venire	NOUN	S	Gender=Masc|Number=Plur	6	ccomp	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	trovarmi	arma|trovarme	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+12-13	all'	_	_	_	_	_	_	_	SpaceAfter=No
+12	a	a	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	uscita	uscita	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+15-16	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+15	di	di	ADP	E	_	18	case	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
+17	evento…	evento…	PUNCT	FF	_	18	punct	_	_
+18	https://www	https://www	NOUN	S	_	14	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD3cw7NJT1i/
+1	instagram.com/p/BD3cw7NJT1i/	instagram.com/p/BD3cw7NJT1i/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

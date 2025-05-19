@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @xManuelVanacore tutto passa dalla società il resto poi viene naturalmente di conseguenza
+1	@xManuelVanacore	@xManuelVanacore	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+2	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	passa	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	società	società	NOUN	S	Gender=Fem	3	obl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	resto	resto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	poi	poi	ADV	B	_	10	advmod	_	_
+10	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	naturalmente	naturalmente	ADV	B	_	10	advmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	conseguenza	conseguenza	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #direttaeurosport Higgins è unico sembri che miri con le sopracciglia grande
+1	#direttaeurosport	#direttaeurosport	CCONJ	CC	_	4	cc	_	_
+2	Higgins	Higgins	PROPN	SP	_	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	unico	unico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	sembri	sembrare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	miri	mirare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	sopracciglia	sopracciglia	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+11	grande	grande	ADJ	A	Number=Sing	10	amod	_	SpacesAfter=\n
+

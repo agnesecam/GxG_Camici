@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Claudine__27 @Fedez ma perchè?
+1	@Claudine__27	@Claudine__27	PROPN	SP	_	0	root	_	_
+2	@Fedez	@Fedez	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	perchè	perché	ADV	B	_	1	advmod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Penso alle cose serie nella vita reale, non posso svagarmi su @twitter ?
+1	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	alle	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+5	serie	serio	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6-7	nella	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vita	vita	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+9	reale	reale	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	posso	potere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	svagarmi	arma|svagarme	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	_
+14	su	su	ADP	E	_	15	mark	_	_
+15	@twitter	@twitter	VERB	V	VerbForm=Inf	12	advcl	_	_
+16	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Manco fossimo negli anni '40!
+1	Manco	Manco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	fossimo	essere	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3-4	negli	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+6	'40	'40	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

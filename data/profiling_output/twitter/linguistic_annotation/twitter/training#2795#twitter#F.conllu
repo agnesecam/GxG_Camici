@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il mio è un lunedì diverso.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mio	mio	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lunedì	lunedì	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	diverso	diverso	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Potrebbe sembrare pure brutto, ma una piadina con prosciutto e squacquerone lo renderà migliore.
+1	Potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	pure	pure	ADV	B	_	4	advmod	_	_
+4	brutto	brutto	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	14	punct	_	_
+6	ma	ma	CCONJ	CC	_	14	cc	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	piadina	piadina	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	prosciutto	prosciutto	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	squacquerone	squacquerone	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+13	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+14	renderà	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	_	_
+15	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	14	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

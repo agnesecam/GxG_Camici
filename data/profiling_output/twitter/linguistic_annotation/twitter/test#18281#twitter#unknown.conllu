@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .....
+1	.....	.....	PUNCT	FF	_	0	root	_	_
+
+# sent_id = 2
+# text = Credo che per credere ci vogliano parecchie energie ! http:// fb.me/6VzQZKFmL
+1	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	credere	credere	VERB	V	VerbForm=Inf	6	advcl	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	obj	_	_
+6	vogliano	vogliare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+7	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	energie	energia	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	!	!	PUNCT	FS	_	10	punct	_	_
+10	http:	http:	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	6	punct	_	_
+13	fb.me/6VzQZKFmL	fb.me/6VzQZKFmL	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n
+

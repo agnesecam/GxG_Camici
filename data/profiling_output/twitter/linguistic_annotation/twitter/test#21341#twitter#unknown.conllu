@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AMARRANCA ci provano a togliermi il sorriso, ma io c'ho la pellaccia dura...mica gliela do' vinta!
+1	@AMARRANCA	@AMARRANCA	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+3	provano	provare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	togliermi	togliermo	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	sorriso	sorriso	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	12	punct	_	_
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+11	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	SpaceAfter=No
+12	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	pellaccia	pellaccia	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+15	dura...mica	dura...mico	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
+16-17	gliela	_	_	_	_	_	_	_	_
+16	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	do'	doo	ADV	B	_	19	advmod	_	_
+19	vinta	vinta	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ;) buona serata ale :*
+1	;	;	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	)	)	PUNCT	FB	_	1	punct	_	_
+3	buona	buono	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	serata	serata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	ale	ale	ADJ	A	Number=Sing	4	amod	_	_
+6	:*	:*	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

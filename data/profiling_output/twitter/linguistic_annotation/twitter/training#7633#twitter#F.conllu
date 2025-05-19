@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Franci95589832 @TIM_Official Ciao,alcune verifiche richiedono delle tempistiche maggiori.Ti invito dunque ad attend.un riscontro app.possib
+1	@Franci95589832	@Franci95589832	PROPN	SP	_	11	nsubj	_	_
+2	@TIM_Official	@TIM_Official	PROPN	SP	_	1	flat:name	_	_
+3	Ciao	ciao	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	,alcune	,alcuno	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	1	nmod	_	_
+5	verifiche	verifica	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	6	obj	_	_
+6	richiedono	richiedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7-8	delle	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	tempistiche	tempistica	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+10	maggiori.Ti	maggiori.Ti	PROPN	SP	_	9	nmod	_	_
+11	invito	invito	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	dunque	dunque	ADV	B	_	11	advmod	_	_
+13	ad	a	ADP	E	_	15	case	_	_
+14	attend.un	attend.uno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
+15	riscontro	riscontro	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+16	app.possib	app.possib	ADJ	A	_	15	amod	_	SpacesAfter=\n
+

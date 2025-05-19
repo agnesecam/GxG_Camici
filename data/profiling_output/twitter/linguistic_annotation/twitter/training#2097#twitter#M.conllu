@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nonleggerlo L'ennesima conferma che Balotelli è un incapace:
+1-2	@nonleggerlo	_	_	_	_	_	_	_	_
+1	@nonlegger	@nonleggere	ADP	E	_	5	case	_	_
+2	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+4	ennesima	ennesimo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	conferma	conferma	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	che	che	SCONJ	CS	_	10	mark	_	_
+7	Balotelli	Balotelli	PROPN	SP	_	10	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	incapace	incapace	ADJ	A	Number=Sing	5	advcl	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	5	punct	_	_
+
+# sent_id = 2
+# text = nella pallavolo la palla va mandata sopra e non dentro la rete.
+1-2	nella	_	_	_	_	_	_	_	_
+1	in	in	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	pallavolo	pallavolo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	palla	palla	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	mandata	mandare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	sopra	sopra	ADP	E	_	13	case	_	_
+9	e	e	CCONJ	CC	_	13	cc	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	dentro	dentro	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	rete	rete	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

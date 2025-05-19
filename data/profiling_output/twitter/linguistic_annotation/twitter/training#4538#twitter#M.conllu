@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ale_mitro45 nessuno!
+1	@ale_mitro45	@ale_mitro45	NUM	N	NumType=Card	2	nummod	_	_
+2	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sarà/sarebbe lo stesso se arrivano davvero con 30+m per Donnarumma (e la società non dovrà essere incolpata x questo)
+1	Sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+6	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	arrivano	arrivare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	davvero	davvero	ADV	B	_	7	advmod	_	_
+9	con	con	ADP	E	_	10	case	_	_
+10	30+m	30+m	NOUN	S	_	7	obl	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	Donnarumma	Donnarumma	PROPN	SP	_	10	nmod	_	_
+13	(	(	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+14	e	e	CCONJ	CC	_	20	cc	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	società	società	NOUN	S	Gender=Fem	20	nsubj:pass	_	_
+17	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+18	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	aux	_	_
+19	essere	essere	AUX	VA	VerbForm=Inf	20	aux:pass	_	_
+20	incolpata	incolpare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	_
+21	x	x	SYM	SYM	_	20	nsubj:pass	_	_
+22	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	21	nmod	_	SpaceAfter=No
+23	)	)	PUNCT	FB	_	20	punct	_	SpacesAfter=\n
+

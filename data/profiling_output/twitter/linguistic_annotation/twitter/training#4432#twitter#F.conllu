@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TuoNomeVirale Assolutamente si a questa idea,chi non accetta queste persone, dovrà ricredersi nel vedere questo programma.
+1	@TuoNomeVirale	@TuoNomeVirale	ADJ	A	Number=Sing	8	amod	_	_
+2	Assolutamente	assolutamente	ADV	B	_	8	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:pass	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	idea,chi	idea,co	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	accetta	accettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+9	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	persone	persona	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	8	punct	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13-14	ricredersi	_	_	_	_	_	_	_	_
+13	ricreder	ricredere	VERB	V	VerbForm=Inf	0	root	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+15-16	nel	_	_	_	_	_	_	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	vedere	vedere	VERB	V	VerbForm=Inf	13	obl	_	_
+18	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
+19	programma	programma	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = Anche,se.....
+1	Anche,se.....	Anche,se...	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

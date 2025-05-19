@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GAcquistapace Il Vangelo infatti è' Gesù Cristo.
+1	@GAcquistapace	@GAcquistapacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Vangelo	Vangelo	PROPN	SP	_	1	obj	_	_
+4	infatti	infatti	ADV	B	_	5	advmod	_	_
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+6	'	'	PUNCT	FB	_	5	punct	_	_
+7	Gesù	Gesù	PROPN	SP	_	5	nsubj	_	_
+8	Cristo	Cristo	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Buon Samaritano che cura le nostre ferite e ci apre alla gioia della figliolanza divina!
+1	Buon	buon	PROPN	SP	_	10	nsubj	_	_
+2	Samaritano	Samaritano	PROPN	SP	_	1	flat:name	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	cura	curare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	ferite	ferita	ADJ	A	Gender=Fem|Number=Plur	4	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+10	apre	aprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	gioia	gioia	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	figliolanza	figliolanza	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+17	divina	divino	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

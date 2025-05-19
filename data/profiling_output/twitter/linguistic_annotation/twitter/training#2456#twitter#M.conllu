@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E questo come ci è finito dentro al #monticano ?
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+3	come	come	ADP	E	_	6	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+7	dentro	dentro	ADV	B	_	10	case	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	7	fixed	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	#monticano	#monticano	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+11	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #Conegliano @oggitreviso https://www.
+1	#Conegliano	#Conegliare	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@oggitreviso	@oggitreviso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	https://www	https://www	NOUN	S	_	2	compound	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD-AbqfPQOP/
+1	instagram.com/p/BD-AbqfPQOP/	instagram.com/p/BD-AbqfPQOP/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

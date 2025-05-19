@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sbirulino è stato testato,sverminato,sterilizzato ma non interessa a nessuno....
+1	Sbirulino	Sbirulino	PROPN	SP	_	4	nsubj:pass	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:pass	_	_
+4	testato	testare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	,sverminato	,sverminato	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	SpaceAfter=No
+6	,sterilizzato	,sterilizzato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	interessa	interessare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	nessuno...	nessuno...	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = :( è un vero tesorino.Ora dovrà ... http:// fb.me/ZrW9RgQE
+1	:	:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+2	(	(	PUNCT	FB	_	12	punct	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	tesorino.Ora	tesorino.Ora	PROPN	SP	_	12	nsubj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	cop	_	_
+8	...	...	PUNCT	FF	_	9	punct	_	_
+9	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	_
+12	fb.me/ZrW9RgQE	fb.me/ZrW9RgQE	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

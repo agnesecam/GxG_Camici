@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'amore arriva per mettere a soqquadro tutte le nostre finte certezze #goodevening … https://www.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	amore	amore	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5	mettere	mettere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	soqquadro	soqquadro	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	12	det:predet	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+10	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+11	finte	finto	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+12	certezze	certezza	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+13	#goodevening	#goodevening	ADJ	A	_	12	amod	_	_
+14	…	…	PUNCT	FF	_	15	punct	_	_
+15	https://www	https://www	NOUN	S	_	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD_V5KRoYu8/
+1	instagram.com/p/BD_V5KRoYu8/	instagram.com/p/BD_V5KRoYu8/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

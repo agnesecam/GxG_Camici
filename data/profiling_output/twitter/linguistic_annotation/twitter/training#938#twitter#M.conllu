@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Meno male che nei test invernali la Honda faceva pena..... Motomondiale già ipotecato Dalla Honda e da Marquez.
+1	Meno	meno	ADV	B	_	2	advmod	_	_
+2	male	male	ADV	B	_	0	root	_	_
+3	che	che	SCONJ	CS	_	10	mark	_	_
+4-5	nei	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	test	test	NOUN	S	Gender=Masc	10	obl	_	_
+7	invernali	invernale	ADJ	A	Number=Plur	6	amod	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Honda	Honda	PROPN	SP	_	10	nsubj	_	_
+10	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+11	pena.....	pena.....	NOUN	S	_	10	obj	_	_
+12	Motomondiale	Motomondiale	PROPN	SP	_	11	flat:name	_	_
+13	già	già	ADV	B	_	14	advmod	_	_
+14	ipotecato	ipotecato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+15-16	Dalla	_	_	_	_	_	_	_	_
+15	Da	Da	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Honda	Honda	PROPN	SP	_	14	obl	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	da	da	ADP	E	_	20	case	_	_
+20	Marquez	Marquez	PROPN	SP	_	17	conj	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

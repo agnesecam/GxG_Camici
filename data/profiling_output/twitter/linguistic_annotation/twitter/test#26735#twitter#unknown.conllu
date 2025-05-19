@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oh oh, mi è sembrato di vedere @AmorosoOF seconda!!
+1	Oh	oh	INTJ	I	_	6	discourse	_	_
+2	oh	oh	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	sembrato	sembrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	vedere	vedere	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	@AmorosoOF	@AmorosoOF	PROPN	SP	_	8	obj	_	_
+10	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #ComunqueAndare #ScleroTime @iTunes @BIGFAMILY_OF pic.twitter.com/rQbXjevXET
+1	#ComunqueAndare	#ComunqueAndare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	ScleroTime	ScleroTime	PROPN	SP	_	1	nsubj	_	_
+4	@iTunes	@iTunes	PROPN	SP	_	3	flat:name	_	_
+5	@BIGFAMILY_OF	@BIGFAMILY_OF	PROPN	SP	_	3	flat:name	_	_
+6	pic.twitter.com/rQbXjevXET	pic.twitter.com/rQbXjevXET	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n
+

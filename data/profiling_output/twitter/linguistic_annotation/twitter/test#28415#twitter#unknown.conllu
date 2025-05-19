@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Siamo così operative in ufficio che ci saremmo potute unire con i vecchietti della tombola.
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	così	così	ADV	B	_	3	advmod	_	_
+3	operative	operativo	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	ufficio	ufficio	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+8	saremmo	essere	AUX	V	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	potute	potere	ADV	B	_	10	advmod	_	_
+10	unire	unire	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+11	con	con	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	vecchietti	vecchietto	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	tombola	tombola	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

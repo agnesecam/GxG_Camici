@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pago per delle ore di sonno se qualcuno volesse cedermene qualcuna delle sue.
+1	Pago	pago	ADV	B	_	5	advmod	_	_
+2	per	per	ADP	E	_	5	case	_	_
+3-4	delle	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ore	ora	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	sonno	sonno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	se	se	SCONJ	CS	_	11	mark	_	_
+9	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	_
+10	volesse	volere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11-13	cedermene	_	_	_	_	_	_	_	_
+11	ceder	ceder	VERB	V	VerbForm=Inf	5	advcl	_	_
+12	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	expl	_	_
+13	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	14	iobj	_	_
+14	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	11	obj	_	_
+15-16	delle	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @andy4ita Il Napoli di passi falsi ne farà di sicuro.
+1	@andy4ita	@andy4ire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Napoli	Napoli	PROPN	SP	_	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	passi	passo	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+6	falsi	falso	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Diciamo che dopo la vittoria di ieri abbiamo fatto un passo avanti
+1	Diciamo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	9	mark	_	_
+3	dopo	dopo	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	ieri	ieri	ADV	B	_	5	advmod	_	_
+8	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	passo	passo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	avanti	avanti	ADV	B	_	11	advmod	_	SpacesAfter=\n
+

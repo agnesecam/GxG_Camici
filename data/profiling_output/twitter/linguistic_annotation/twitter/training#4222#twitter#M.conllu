@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #LazioRoma ++Ultimora:
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	LazioRoma	LazioRoma	PROPN	SP	_	0	root	_	_
+3	++Ultimora	++Ultimora	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = La Federazione non ratifica il risultato di ieri.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Federazione	federazione	PROPN	SP	_	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ratifica	ratificare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	ieri	ieri	ADV	B	_	6	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Si dovrà rigiocare ma a squadre mischiate
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	rigiocare	rigiocare	VERB	V	VerbForm=Inf	0	root	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	squadre	squadra	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+7	mischiate	mischiato	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpacesAfter=\n
+

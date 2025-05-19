@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = qualcuna qui su tuider mi sa dire dove posso trovare rossetto rosso ciliegia, tipo vernice che nun se toglie?
+1	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	6	obj	_	_
+2	qui	qui	ADV	B	_	6	advmod	_	_
+3	su	su	ADP	E	_	4	case	_	_
+4	tuider	tuider	NOUN	S	_	6	obl	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dire	dire	VERB	V	VerbForm=Inf	6	ccomp	_	_
+8	dove	dove	ADV	B	_	10	advmod	_	_
+9	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	trovare	trovare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+11	rossetto	rossetto	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+12	rosso	rosso	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+13	ciliegia	ciliegia	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	13	appos	_	_
+16	vernice	vernice	ADJ	A	Number=Sing	15	amod	_	_
+17	che	che	PRON	PR	PronType=Rel	20	obj	_	_
+18	nun	nuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	_
+19	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+20	toglie	togliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = @HenricusDiabol
+1	@HenricusDiabol	@HenricusDiabol	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

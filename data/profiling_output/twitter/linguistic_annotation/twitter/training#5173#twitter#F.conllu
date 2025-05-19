@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qualcuna mi diceva ieri:"A me non piacciono quelli con i capelli lunghi e la barba" COSA COSA COSA #giovedignocchi pic.twitter.com/gibhF3Iino
+1	Qualcuna	Qualcuna	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	diceva	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	parataxis	_	_
+4	ieri	ieri	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	3	punct	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+7	A	a	ADP	E	_	8	case	_	_
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	obl	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	piacciono	piacere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	10	obj	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	capelli	capello	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	lunghi	lungo	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	barba	barba	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	20	punct	_	_
+20	COSA	Cosa	PROPN	SP	_	18	nmod	_	_
+21	COSA	Cosa	PROPN	SP	_	20	flat:name	_	_
+22	COSA	Cosa	PROPN	SP	_	20	flat:name	_	_
+23	#giovedignocchi	#giovedignocco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	24	det	_	_
+24	pic.twitter.com/gibhF3Iino	pic.twitter.com/gibhF3Iino	PROPN	SP	_	10	nmod	_	SpacesAfter=\n
+

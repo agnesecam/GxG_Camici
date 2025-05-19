@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MLetiziaRub inizi già a migliorare.
+1	@MLetiziaRub	@MLetiziaRub	NOUN	S	_	0	root	_	_
+2	inizi	inizio	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	già	già	ADV	B	_	5	advmod	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	migliorare	migliorare	VERB	V	VerbForm=Inf	1	acl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cmq neppure tu sei brutta.
+1	Cmq	Cmq	PROPN	SP	_	0	root	_	_
+2	neppure	neppure	ADV	BN	PronType=Neg	5	advmod	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	brutta	brutto	ADJ	A	Gender=Fem|Number=Sing	1	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ti saluto.
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	saluto	salere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Sono in venerazione su Rai uno
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	venerazione	venerazione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	Rai	Rai	PROPN	SP	_	3	nmod	_	_
+6	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ZA: Milan, Cerruti: “Il Milan dovrà cercare di trattenere Bonaventura in estate” http://www.
+1	ZA	ZA	PROPN	SP	_	11	obl	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	Milan	Milan	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	Cerruti	Cerruto	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+6	:	:	PUNCT	FC	_	3	punct	_	_
+7	“	“	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+8	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Milan	Milan	PROPN	SP	_	11	nsubj	_	_
+10	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	cercare	cercare	VERB	V	VerbForm=Inf	0	root	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	trattenere	trattenere	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	Bonaventura	Bonaventura	PROPN	SP	_	13	obj	_	_
+15	in	in	ADP	E	_	16	case	_	SpacesAfter= 
+16	estate	estate	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	”	”	PUNCT	FB	_	14	punct	_	_
+18	http://www	http://www	NOUN	S	_	13	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = zonacalcio.net/za-milan-cerru ti-milan-dovra-cercare-trattenere-bonaventura-estate/ … pic.twitter.com/ETL9Mm2FH4
+1	zonacalcio.net/za-milan-cerru	zonacalcio.net/za-milan-cerru	NOUN	S	Gender=Masc	0	root	_	_
+2	ti-milan-	_	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	dovra-cercare	dovra-cercare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
+4	-trattenere	-trattenere	VERB	V	VerbForm=Inf	1	conj	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	bonaventura-estate	bonaventura-estato	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	_
+8	…	…	PUNCT	FF	_	6	punct	_	_
+9	pic.twitter.com/ETL9Mm2FH4	pic.twitter.com/ETL9Mm2FH4	PROPN	SP	_	6	nmod	_	SpacesAfter=\n
+

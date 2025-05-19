@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @CoordinamenCARE @elenacianflone1 @monet68127 @PuglisiPD Forse ha perso i tweet precedenti...
+1	@CoordinamenCARE	@coordinamencare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@elenacianflone1	@elenacianflonel	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	@monet68127	@monet68127	NUM	N	NumType=Card	4	nummod	_	_
+4	@PuglisiPD	@PuglisiPD	PROPN	SP	_	1	obj	_	_
+5	Forse	forse	ADV	B	_	7	advmod	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	perso	perdere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	parataxis	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	tweet	tweet	NOUN	S	Gender=Masc	7	obj	_	_
+10	precedenti...	precedenti.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = glieli posso mandare come messaggio privato.
+1-2	glieli	_	_	_	_	_	_	_	_
+1	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	iobj	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+3	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	mandare	mandare	VERB	V	VerbForm=Inf	0	root	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	messaggio	messaggio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	privato	privato	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

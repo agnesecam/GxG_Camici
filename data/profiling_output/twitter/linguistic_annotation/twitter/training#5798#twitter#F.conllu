@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @chetempochefa conosco qualcuna di queste donne...
+1	@chetempochefa	@chetempochefare	ADV	B	_	2	advmod	_	_
+2	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obj	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	donne...	donne...	NOUN	S	_	3	nmod	_	_
+
+# sent_id = 2
+# text = Un premio a qs medico!
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	premio	premio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	qs	qs	NOUN	S	Gender=Masc	2	nmod	_	_
+5	medico	medico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque accetto Tati in TT solo se si riferisce ad Amata Albero del GF2 che si faceva Lorenzo in diretta.
+1	Comunque	comunque	ADV	B	_	2	advmod	_	_
+2	accetto	accettare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Tati	Tati	PROPN	SP	_	2	obj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	TT	TT	PROPN	SP	_	3	nmod	_	_
+6	solo	solo	ADV	B	_	9	advmod	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	riferisce	riferire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	ad	a	ADP	E	_	11	case	_	_
+11	Amata	amata	PROPN	SP	_	9	obl	_	_
+12	Albero	albero	NOUN	S	Gender=Masc|Number=Sing	11	flat:name	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	GF2	GF2	PROPN	SP	_	11	nmod	_	_
+16	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+18	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	_
+19	Lorenzo	Lorenzo	PROPN	SP	_	18	obl	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

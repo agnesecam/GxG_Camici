@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni cosa che faccio, ha sempre per un determinato motivo, nulla anche se poteva sembrare era a caso
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	obj	_	_
+4	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sempre	sempre	ADV	B	_	6	advmod	_	_
+8	per	per	ADP	E	_	11	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	determinato	determinato	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	motivo	motivo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	_
+13	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	6	obj	_	_
+14	anche	anche	ADV	B	_	17	mark	_	_
+15	se	se	SCONJ	CS	_	14	fixed	_	_
+16	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	sembrare	sembrare	VERB	V	VerbForm=Inf	13	advcl	_	_
+18	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
+19	a	a	ADP	E	_	20	case	_	_
+20	caso	caso	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	SpacesAfter=\n
+

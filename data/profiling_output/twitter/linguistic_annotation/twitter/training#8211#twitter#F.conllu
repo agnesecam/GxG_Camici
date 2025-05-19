@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CAROLYN e intanto BUONA PASQUA.
+1	CAROLYN	CAROLYN	ADV	B	_	0	root	_	_
+2	e	e	CCONJ	CC	_	4	cc	_	_
+3	intanto	intanto	ADV	B	_	4	advmod	_	_
+4	BUONA	buona	PROPN	SP	_	1	conj	_	_
+5	PASQUA	PASQUA	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = AL DUNQUE POSSO FARTI UN PRONOSTICO SU CHI VINCE?
+1-2	AL	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	2	case	_	_
+2	IL	il	PROPN	SP	_	0	root	_	_
+3	DUNQUE	dunque	PROPN	SP	_	2	flat:name	_	_
+4	POSSO	potere	PROPN	SP	_	2	flat:name	_	_
+5	FARTI	FARTI	PROPN	SP	_	2	flat:name	_	_
+6	UN	Un	PROPN	SP	_	2	flat:name	_	_
+7	PRONOSTICO	pronostico	PROPN	SP	_	6	flat:name	_	_
+8	SU	su	PROPN	SP	_	6	flat:name	_	_
+9	CHI	Chi	PROPN	SP	_	6	flat:name	_	_
+10	VINCE	Vince	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = NICOLE scusate ma è un pronostic https:// twitter.com/CarolynSmith51 /status/714038945756147717 …
+1	NICOLE	nicole	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	scusate	scusato	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	ma	ma	CCONJ	CC	_	6	cc	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pronostic	pronostic	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/CarolynSmith51	twitter.com/CarolynSmith51	PROPN	SP	_	6	nmod	_	_
+11	/status/714038945756147717	/status/714038945756147717	NUM	N	NumType=Card	10	nummod	_	_
+12	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

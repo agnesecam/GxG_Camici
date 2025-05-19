@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cari sindacati, dove eravate mentre #Renzi e #Monti macellavano diritti e salari?
+1	Cari	caro	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+2	sindacati	sindacato	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	dove	dove	ADV	B	_	5	advmod	_	_
+5	eravate	eravare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	mentre	mentre	SCONJ	CS	_	11	mark	_	_
+7	#	#	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+8	Renzi	Renzi	PROPN	SP	_	11	nsubj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	#Monti	#Monti	PROPN	SP	_	8	conj	_	_
+11	macellavano	macellare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+12	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	salari	salare	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #Complici http://www.
+1	#Complici	#Complico	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+2	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = repubblica.it/economia/2016/ 03/31/news/lavoro_francia-136614917/?rss=&utm_source=dlvr.it&utm_medium=twitter … pic.twitter.com/yzgmAWoQie
+1	repubblica.it/economia/2016/	repubblica.it/economia/2016/	PUNCT	FF	_	2	punct	_	_
+2	03/31/news	03/31/news	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	/lavoro_francia-136614917	/lavoro_francia-136614917	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	rss=&utm_source=dlvr.it&utm_medium=twitter	rss=&utm_source=dlvr.it&utm_medium=twittere	VERB	V	VerbForm=Inf	2	nmod	_	_
+7	…	…	PUNCT	FF	_	2	punct	_	_
+8	pic.twitter.com/yzgmAWoQie	pic.twitter.com/yzgmAWoQie	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

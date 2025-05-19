@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Speranza resterà sempre e solo una speranza, ahimè #inmezzora
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	Speranza	speranza	PROPN	SP	_	3	nsubj	_	_
+3	resterà	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	sempre	sempre	ADV	B	_	3	advmod	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	solo	solo	ADV	B	_	8	advmod	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	speranza	speranza	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	ahimè	ahimè	INTJ	I	_	3	obj	_	_
+11	#inmezzora	#inmezzora	ADV	B	_	3	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = lettera43.it/economia/macro /petrolio-e-gas-i-giacimenti-possibili-in-italia_43675129850.htm_ … Immaginiamoci se di Petrolio ne avessimo tanto.
+1	lettera43.it/economia/macro	lettera43.it/economia/macro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	/petrolio	/petrolio	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	e-	_	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	gas	gas	NOUN	S	Gender=Masc	20	obl	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	giacimenti	giacimento	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	possibili-in	possibili-ino	ADV	B	_	20	advmod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	italia_43675129850.htm_	ExtraSubj=Yes|italia_43675129850.htm_	PUNCT	FB	_	20	punct	_	_
+14	…	…	PUNCT	FF	_	13	punct	_	_
+15	Immaginiamoci	Immaginiamoci	ADV	B	_	20	mark	_	_
+16	se	se	SCONJ	CS	_	15	fixed	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	Petrolio	petrolio	PROPN	SP	_	20	obl	_	_
+19	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	20	iobj	_	_
+20	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+21	tanto	tanto	ADV	B	_	20	advmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	20	punct	_	SpacesAfter=\n
+

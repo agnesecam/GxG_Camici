@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uno vuole rimettersi in riga e invece te lo impediscono perché hai un cazzo di problema mentale.
+1	Uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3-4	rimettersi	_	_	_	_	_	_	_	_
+3	rimetter	rimettere	VERB	V	VerbForm=Inf	0	root	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	riga	riga	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8	invece	invece	ADV	B	_	11	advmod	_	_
+9	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	iobj	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	impediscono	impedire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	perché	perché	SCONJ	CS	_	13	mark	_	_
+13	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	problema	problema	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+18	mentale.	mentale.	NOUN	S	Gender=Masc	3	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = come se avessimo scelto noi di averlo.
+1	come	come	ADV	B	_	8	advmod	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7-8	averlo	_	_	_	_	_	_	_	SpaceAfter=No
+7	aver	avere	AUX	VA	VerbForm=Inf	8	aux	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+9	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

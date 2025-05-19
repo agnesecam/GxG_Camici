@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un po di marcio e dappertutto , ci vorrebbe una rivoluzione, specie nella testa di questi gentiluomini https:// twitter.com/Corriere/statu s/715953312961585152 …
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	po	po	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	marcio	marcio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	dappertutto	dappertutto	ADV	B	_	2	conj	_	_
+7	,	,	PUNCT	FF	_	2	punct	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	vorrebbe	volere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	rivoluzione	rivoluzione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	specie	specie	ADV	B	_	16	advmod	_	_
+14-15	nella	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	testa	testa	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	19	det	_	_
+19	gentiluomini	gentiluomo	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	_
+20	https:	https:	PUNCT	FC	_	11	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	11	punct	_	_
+23	twitter.com/Corriere/statu	twitter.com/Corriere/statu	PROPN	SP	_	11	nmod	_	_
+24	s/715953312961585152	s/715953312961585152	NUM	N	NumType=Card	23	nummod	_	_
+25	…	…	PUNCT	FF	_	9	punct	_	SpacesAfter=\n
+

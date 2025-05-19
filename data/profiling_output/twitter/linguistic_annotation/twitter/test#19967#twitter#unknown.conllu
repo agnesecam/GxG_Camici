@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PetrolioRai
+1	@PetrolioRai	@PetrolioRai	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2
+# text = L'Europa in Grecia ha realizzato una dittatura basata sulle speculazioni finanziarie e sul lavoro senza alcuna tutela:
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Europa	Europa	PROPN	SP	_	6	nsubj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Grecia	Grecia	PROPN	SP	_	2	nmod	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	realizzato	realizzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	dittatura	dittatura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	basata	basato	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10-11	sulle	_	_	_	_	_	_	_	_
+10	su	su	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	speculazioni	speculazione	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+13	finanziarie	finanziario	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15-16	sul	_	_	_	_	_	_	_	_
+15	su	su	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	_
+18	senza	senza	ADP	E	_	20	case	_	_
+19	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	20	det	_	_
+20	tutela	tutela	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+21	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 3
+# text = Cina 2!
+1	Cina	Cina	PROPN	SP	_	0	root	_	_
+2	2	2	NUM	N	NumType=Card	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domani, nel corso del Rave Letterario 2 Aprile 2016 al Nuovo Cinema Palazzo faremo un'incursione insieme a... http:// fb.me/4aXqYIrkQ
+1	Domani	domani	ADV	B	_	18	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3-4	nel	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	corso	corso	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Rave	Rave	PROPN	SP	_	5	nmod	_	_
+9	Letterario	letterario	PROPN	SP	_	8	flat:name	_	_
+10	2	2	NUM	N	NumType=Card	8	nmod	_	_
+11	Aprile	aprile	PROPN	SP	_	10	flat	_	_
+12	2016	2016	NUM	N	NumType=Card	10	flat	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Nuovo	Nuovo	PROPN	SP	_	5	nmod	_	_
+16	Cinema	cinema	PROPN	SP	_	15	flat:name	_	_
+17	Palazzo	Palazzo	PROPN	SP	_	15	flat:name	_	_
+18	faremo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+19	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	incursione	incursione	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+21	insieme	insieme	ADV	B	_	20	advmod	_	_
+22	a...	a.	PUNCT	FS	_	23	punct	_	_
+23	http:	http:	PUNCT	FC	_	20	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	20	punct	_	_
+26	fb.me/4aXqYIrkQ	fb.me/4aXqYIrkQ	PROPN	SP	_	18	nmod	_	SpacesAfter=\n
+

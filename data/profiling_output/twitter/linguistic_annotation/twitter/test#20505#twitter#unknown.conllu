@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La canzone di @TsTheMark è un modo per chiedergli scusa per non averlo fatto parlare quando era tra i belli a #ciaodarwin .
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	canzone	canzone	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	@TsTheMark	@TsTheMark	PROPN	SP	_	2	nmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	modo	modo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9-10	chiedergli	_	_	_	_	_	_	_	_
+9	chieder	chiedere	VERB	V	VerbForm=Inf	7	acl	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	scusa	scusa	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	per	per	ADP	E	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14-15	averlo	_	_	_	_	_	_	_	_
+14	aver	avere	VERB	V	VerbForm=Inf	9	xcomp	_	_
+15	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	fatto	fare	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+17	parlare	parlare	VERB	V	VerbForm=Inf	14	ccomp	_	_
+18	quando	quando	SCONJ	CS	_	22	mark	_	_
+19	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	cop	_	_
+20	tra	tra	ADP	E	_	22	case	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	belli	bello	NOUN	S	Gender=Masc|Number=Plur	17	advcl	_	_
+23	a	a	ADP	E	_	24	case	_	_
+24	#ciaodarwin	#ciaodarwin	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	_
+25	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Li hai perdonati?
+1	Li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+2	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	perdonati	perdonare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

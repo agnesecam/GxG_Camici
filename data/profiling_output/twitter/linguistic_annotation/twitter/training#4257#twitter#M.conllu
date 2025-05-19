@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il 2° posto rischiava di passare come 'contentino', invece sarebbe traguardo straordinario e fondamentale:
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	2°	2°	ADJ	NO	NumType=Ord	3	amod	_	_
+3	posto	posto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	rischiava	rischiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	passare	passare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	'	'	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	contentino	contentino	ADJ	A	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	'	'	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	invece	invece	ADV	B	_	14	advmod	_	_
+13	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	traguardo	traguardo	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	_
+15	straordinario	straordinario	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	fondamentale	fondamentale	ADJ	A	Number=Sing	15	conj	_	SpaceAfter=No
+18	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = ora il Napoli se lo dovrà sudare.
+1	ora	ora	ADV	B	_	7	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Napoli	Napoli	PROPN	SP	_	7	nsubj	_	_
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	sudare	sudare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

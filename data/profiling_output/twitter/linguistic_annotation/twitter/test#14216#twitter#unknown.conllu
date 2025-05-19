@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 31 anni fa qui feci le prime lezioni , questi i 2 pianoforti che mi hanno accompagnato per 20… https://www.
+1	31	31	NUM	N	NumType=Card	2	nummod	_	_
+2	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	fa	fa	ADV	B	_	2	advmod	_	_
+4	qui	qui	ADV	B	_	2	advmod	_	_
+5	feci	feco	ADJ	A	Number=Plur	2	amod	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	prime	primo	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	8	amod	_	_
+8	lezioni	lezione	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	2	nmod	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	2	2	NUM	N	NumType=Card	13	nummod	_	_
+13	pianoforti	pianoforte	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+14	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+15	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	obj	_	_
+16	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	accompagnato	accompagnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
+18	per	per	ADP	E	_	20	case	_	_
+19	20…	20…	PUNCT	FF	_	20	punct	_	_
+20	https://www	https://www	NOUN	S	_	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BD31IuNkU7n/
+1	instagram.com/p/BD31IuNkU7n/	instagram.com/p/BD31IuNkU7n/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 7 veli, 1 mondo.
+1	7	7	NUM	N	NumType=Card	2	nummod	_	_
+2	veli	velo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	1	1	NUM	N	NumType=Card	5	nummod	_	_
+5	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = cosenostre_streetfood #comfortfoodie #sicily #food #foodporn @Cose Nostre https://www.
+1	cosenostre_streetfood	cosenostre_streetfood	X	SW	Foreign=Yes	0	root	_	_
+2	#comfortfoodie	#comfortfoodie	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	#sicily	#sicily	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	#food	#food	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	#foodporn	#foodporn	X	SW	Foreign=Yes	1	flat:foreign	_	_
+6	@Cose	@Cose	PROPN	SP	_	1	nmod	_	_
+7	Nostre	nostro	PROPN	SP	_	6	flat:name	_	_
+8	https://www	https://www	NOUN	S	_	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BD8hhF3svLS/
+1	instagram.com/p/BD8hhF3svLS/	instagram.com/p/BD8hhF3svLS/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

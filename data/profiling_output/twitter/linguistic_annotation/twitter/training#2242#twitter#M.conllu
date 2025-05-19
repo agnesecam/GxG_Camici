@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il calderone di #Amici .Mettici dentro :cantanti che non se le caga più nessuno;cantanti in promozione con il nuovo cd; scarti da altri talent
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	calderone	calderone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	#Amici	#Amici	PROPN	SP	_	2	nmod	_	_
+5	.Mettici	.Mettici	ADJ	A	Gender=Masc|Number=Plur	4	flat:name	_	_
+6	dentro	dentro	ADV	B	_	7	advmod	_	_
+7	:cantanti	:cantante	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+8	che	che	SCONJ	CS	_	14	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+10	se	se	SCONJ	CS	_	14	mark	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	caga	caga	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	SpaceAfter=No
+15	;cantanti	;cantante	ADV	B	_	17	advmod	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	promozione	promozione	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+18	con	con	ADP	E	_	21	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	_
+21	cd	cd	NOUN	S	Gender=Masc	17	nmod	_	SpaceAfter=No
+22	;	;	PUNCT	FC	_	23	punct	_	_
+23	scarti	scartire	NOUN	S	Gender=Masc|Number=Plur	17	conj	_	_
+24	da	da	ADP	E	_	25	case	_	_
+25	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	26	nmod	_	_
+26	talent	talent	SYM	X	_	23	nmod	_	SpacesAfter=\n
+

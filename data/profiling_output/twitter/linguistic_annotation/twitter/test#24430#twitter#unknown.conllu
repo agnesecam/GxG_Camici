@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DonMatteoRai Povero Capitano...
+1	@DonMatteoRai	@DonMatteoRai	PROPN	SP	_	0	root	_	_
+2	Povero	povero	PROPN	SP	_	1	flat:name	_	_
+3	Capitano..	Capitano..	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = gliene capitano di tutti i colori!
+1	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	capitano	capitare	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det:predet	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	colori	colore	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

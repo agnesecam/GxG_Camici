@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dallo scempio di oggi, teniamoci i tre punti, la certezza #Icardi e la conferma #Perišić (tra i top, anche se poco cinico) #FrosinoneInter
+1-2	Dallo	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	scempio	scempio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	oggi	oggi	ADV	B	_	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	teniamoci	teniamoci	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	tre	tre	NUM	N	NumType=Card	10	nummod	_	_
+10	punti	punto	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	certezza	certezza	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+14	#	#	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+15	Icardi	Icardi	PROPN	SP	_	13	nmod	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	conferma	conferma	NOUN	S	Gender=Fem|Number=Sing	24	conj	_	_
+19	#	#	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	Perišić	Perišić	PROPN	SP	_	18	nmod	_	_
+21	(	(	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+22	tra	tra	ADP	E	_	24	case	_	_
+23	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+24	top	top	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	24	punct	_	_
+26	anche	anche	ADV	B	_	29	advmod	_	_
+27	se	se	SCONJ	CS	_	29	mark	_	_
+28	poco	poco	ADV	B	_	29	advmod	_	_
+29	cinico	cinico	ADJ	A	Gender=Masc|Number=Sing	24	advcl	_	SpaceAfter=No
+30	)	)	PUNCT	FB	_	29	punct	_	_
+31	#	#	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+32	FrosinoneInter	FrosinoneInter	PROPN	SP	_	24	nmod	_	SpacesAfter=\n
+

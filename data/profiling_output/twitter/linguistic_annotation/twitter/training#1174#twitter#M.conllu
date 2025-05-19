@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il #Napoli travolge il #Verona 3-0 e torna a -6 dalla #Juve . #NapoliVerona #SerieATIM pic.twitter.com/D6EsLtc6sf
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	#Napoli	#Napoli	PROPN	SP	_	3	nsubj	_	_
+3	travolge	travolgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	#Verona	#Verona	PROPN	SP	_	3	obj	_	_
+6	3	3	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+7	-0	-0	NUM	N	NumType=Card	6	flat	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	torna	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	6	6	NUM	N	NumType=Card	9	nummod	_	_
+13-14	dalla	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	#Juve	#Juve	PROPN	SP	_	9	obl:agent	_	_
+16	.	.	PUNCT	FS	_	15	punct	_	_
+17	#NapoliVerona	#NapoliVerona	PROPN	SP	_	15	nmod	_	_
+18	#SerieATIM	#SerieATIM	PROPN	SP	_	17	flat:name	_	_
+19	pic.twitter.com/D6EsLtc6sf	pic.twitter.com/D6EsLtc6sf	PROPN	SP	_	17	flat:name	_	SpacesAfter=\n
+

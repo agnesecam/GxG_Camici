@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = conclusione da 'sto trip mentale senza senso:
+1	conclusione	conclusione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	da	da	ADP	E	_	4	mark	_	_
+3	'	'	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl	_	_
+5	trip	trip	NOUN	S	Gender=Fem	4	obj	_	_
+6	mentale	mentale	ADJ	A	Number=Sing	5	amod	_	_
+7	senza	senza	ADP	E	_	8	case	_	_
+8	senso	senso	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = sempre io sono il problema, potete andare in pace.
+1	sempre	sempre	ADV	B	_	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	andare	andare	VERB	V	VerbForm=Inf	5	conj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	pace	pace	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

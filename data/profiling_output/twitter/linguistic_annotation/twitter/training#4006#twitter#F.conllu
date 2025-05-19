@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Veneto, sì alla legge anti-moschee:
+1	Veneto	Veneto	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	sì	sì	ADV	B	_	6	advmod	_	_
+4-5	alla	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	legge	legge	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+7	anti-moschee	anti-moscheo	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Si dovrà parlare solo italiano" - IlGiornale.it http://www.
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+5	solo	solo	ADV	B	_	6	advmod	_	_
+6	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	6	punct	_	_
+8	-	-	PUNCT	FF	_	6	punct	_	_
+9	IlGiornale.it	IlGiornale.it	X	SW	Foreign=Yes	6	compound	_	_
+10	http://www	http://www	X	SW	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = ilgiornale.it/news/cronache/ veneto-s-legge-anti-moschee-si-dovr-parlare-solo-italiano-1243072.html … via @ilgiornale
+1	ilgiornale.it/news/cronache/	ilgiornale.it/news/cronache/	PUNCT	FF	_	2	punct	_	_
+2	veneto-s-legge-anti-moschee-si-dovr-parlare-solo-italiano-1243072.html	veneto-s-legge-anti-moschee-si-dovr-parlare-solo-italiano-1243072.html	ADJ	A	_	4	amod	_	_
+3	…	…	PUNCT	FF	_	2	punct	_	_
+4	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	@ilgiornale	@ilgiornale	ADJ	A	Number=Sing	4	amod	_	SpacesAfter=\n
+

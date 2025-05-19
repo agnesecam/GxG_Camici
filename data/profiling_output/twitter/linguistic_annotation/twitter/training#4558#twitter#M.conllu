@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @soniabetz1 la legge impone delle date precise, non rimandabili.
+1	@soniabetz1	@soniabetz1	NUM	N	NumType=Card	4	nummod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	legge	legge	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	impone	imporre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	date	data	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	precise	preciso	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	rimandabili	rimandabile	ADJ	A	Number=Plur	7	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #renzi dovrà piegarsi ed #alfano indirle.
+1	#renzi	#renzi	ADV	B	_	3	advmod	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3-4	piegarsi	_	_	_	_	_	_	_	_
+3	piegar	piegare	VERB	V	VerbForm=Inf	0	root	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	ed	e	CCONJ	CC	_	6	cc	_	_
+6	#alfano	#alfare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7-8	indirle	_	_	_	_	_	_	_	SpaceAfter=No
+7	indir	indire	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = @AntonioDiBari85
+1	@AntonioDiBari85	@AntonioDiBari85	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

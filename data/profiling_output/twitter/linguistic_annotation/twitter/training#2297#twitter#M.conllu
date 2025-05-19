@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #renzi : sogno un paese in cui chi ruba va dentro ;anche chi ruba un'elezione?
+1	#renzi	#renzi	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	sogno	sogre	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	paese	paese	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	cui	cui	PRON	PR	PronType=Rel	9	obl	_	_
+8	chi	chi	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	ruba	rubare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+10	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+11	dentro	dentro	ADV	B	_	10	advmod	_	_
+12	;anche	;anche	ADV	B	_	10	advmod	_	_
+13	chi	chi	PRON	PR	Number=Sing|PronType=Rel	10	nsubj	_	_
+14	ruba	rubare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+15	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	elezione	elezione	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = #pd
+1	#pd	#pd	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

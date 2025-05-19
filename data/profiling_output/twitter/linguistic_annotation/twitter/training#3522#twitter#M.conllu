@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi la mia Lupetta farà la promessa!
+1	Oggi	oggi	ADV	B	_	5	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	Lupetta	Lupetta	PROPN	SP	_	5	nsubj	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	promessa	promessa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = pic.twitter.com/nunxsDZgOU
+1	pic.twitter.com/nunxsDZgOU	pic.twitter.com/nunxsdzgou	ADP	E	_	0	root	_	SpacesAfter=\n
+

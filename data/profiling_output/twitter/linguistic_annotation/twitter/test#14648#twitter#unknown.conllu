@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ania_joe a kedira no ma higuain a forza di piangere sicuramente 2 gliele tolgono.
+1	@ania_joe	@ania_joe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	kedira	kedira	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+4	no	no	ADV	BN	PronType=Neg	1	advmod	_	_
+5	ma	ma	CCONJ	CC	_	8	cc	_	_
+6	higuain	higuaino	ADV	B	_	8	advmod	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	forza	forza	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	piangere	piangere	VERB	V	VerbForm=Inf	8	acl	_	_
+11	sicuramente	sicuro	ADV	B	_	10	advmod	_	_
+12	2	2	NUM	N	NumType=Card	13	nummod	_	_
+13	gliele	gliele	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+14	tolgono.	tolgono.	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VOGLIONO PIU IGNORANZA.
+1	VOGLIONO	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	PIU	PIU	PROPN	SP	_	0	root	_	_
+3	IGNORANZA.	IGNORANZA.	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .AUTOMATICAMENTE AVRANNO PIU' POTERE !!.CMQ LORO NON HANNO COSI TANTA CULTURA :)p https:// twitter.com/LuigiGallo15/s tatus/714119451608788992 …
+1	.AUTOMATICAMENTE	.automaticamente	PROPN	SP	_	0	root	_	_
+2	AVRANNO	avere	PROPN	SP	_	1	flat:name	_	_
+3	PIU'	PIU'	PROPN	SP	_	1	flat:name	_	_
+4	POTERE	potere	PROPN	SP	_	7	nmod	_	_
+5	!!.CMQ	!!.CMQ	PROPN	SP	_	4	flat:name	_	_
+6	LORO	Loro	PROPN	SP	_	4	flat:name	_	_
+7	NON	non	PROPN	SP	_	1	nmod	_	_
+8	HANNO	avere	PROPN	SP	_	7	flat:name	_	_
+9	COSI	COSI	PROPN	SP	_	8	flat:name	_	_
+10	TANTA	tanta	PROPN	SP	_	8	flat:name	_	_
+11	CULTURA	Cultura	PROPN	SP	_	8	flat:name	_	_
+12	:	:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+13	)p	)p	NOUN	S	Gender=Fem	8	appos	_	_
+14	https:	https:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	_
+17	twitter.com/LuigiGallo15/s	twitter.com/LuigiGallo15/s	PROPN	SP	_	13	nmod	_	_
+18	tatus/714119451608788992	tatus/714119451608788992	NUM	N	NumType=Card	17	nummod	_	_
+19	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

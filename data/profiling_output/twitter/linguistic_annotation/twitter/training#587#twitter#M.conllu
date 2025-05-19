@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Enricicca se non avessimo chiesto il referendum governo non sarebbe tornato indietro rimangiandosi i pozzi petroliferi entro le 12 miglia
+1	@Enricicca	@Enriciccare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	referendum	referendum	NOUN	S	Gender=Masc	11	nsubj	_	_
+8	governo	governo	NOUN	S	Gender=Masc|Number=Sing	7	compound	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	tornato	tornare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+12	indietro	indietro	ADV	B	_	11	advmod	_	_
+13-14	rimangiandosi	_	_	_	_	_	_	_	_
+13	rimangiando	rimangiare	VERB	V	VerbForm=Ger	11	advcl	_	_
+14	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	pozzi	pozzo	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+17	petroliferi	petrolifero	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	entro	entro	ADP	E	_	21	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+20	12	12	NUM	N	NumType=Card	21	nummod	_	_
+21	miglia	miglio	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	SpacesAfter=\n
+

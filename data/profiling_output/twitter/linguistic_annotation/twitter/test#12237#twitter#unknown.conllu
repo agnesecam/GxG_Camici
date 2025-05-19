@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma non ci vado violente!
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+4	vado	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	violente	violente	ADJ	A	Gender=Fem|Number=Plur	4	xcomp	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Sono delicato io.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	delicato	delicato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = E poi lo facevamo anche quando Snow aspettava Emma, eppure non mi - https:// twitter.com/ginaouatgdr/st atus/709335558200401921 …
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	poi	poi	ADV	B	_	4	advmod	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	anche	anche	ADV	B	_	8	advmod	_	_
+6	quando	quando	SCONJ	CS	_	8	mark	_	_
+7	Snow	Snow	PROPN	SP	_	8	nsubj	_	_
+8	aspettava	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+9	Emma	Emma	PROPN	SP	_	8	obj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	eppure	eppure	CCONJ	CC	_	13	cc	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	conj	_	_
+14	-	-	PUNCT	FF	_	13	punct	_	_
+15	https:	https:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	13	punct	_	_
+18	twitter.com/ginaouatgdr/st	twitter.com/ginaouatgdr/st	SYM	X	_	13	nmod	_	_
+19	atus/709335558200401921	atus/709335558200401921	PROPN	SP	NumType=Card	18	flat:name	_	_
+20	…	…	PUNCT	FF	_	13	punct	_	SpacesAfter=\n
+

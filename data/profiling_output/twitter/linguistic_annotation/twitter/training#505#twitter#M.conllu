@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "A NOME DELL'ITALIA PORGO IL MIO CORDOGLIO".
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	A	a	ADP	E	_	3	case	_	_
+3	NOME	nome	PROPN	SP	_	0	root	_	_
+4-5	DELL'	_	_	_	_	_	_	_	SpaceAfter=No
+4	DI	Di	ADP	E	_	6	case	_	_
+5	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	ITALIA	Italia	PROPN	SP	_	7	nmod	_	_
+7	PORGO	PORGO	PROPN	SP	_	3	flat:name	_	_
+8	IL	il	PROPN	SP	_	7	flat:name	_	_
+9	MIO	mio	PROPN	SP	_	7	flat:name	_	_
+10	CORDOGLIO	CORDOGLIO	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+11	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....PARLA COME SE L' AVESSIMO ELETTO!!!!!
+1-2	....PARLA	_	_	_	_	_	_	_	_
+1	....par	....pare	VERB	V	VerbForm=Inf	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	COME	come	PROPN	SP	_	1	obj	_	_
+4	SE	se	PROPN	SP	_	3	flat:name	_	_
+5	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	AVESSIMO	AVESSIMO	PROPN	SP	_	3	flat:name	_	_
+7	ELETTO	eletto	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+9	!!	!!	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	!!	!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n
+

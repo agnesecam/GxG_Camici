@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La metà dei giovani tra i 6 e i 17 anni non legge nemmeno un libro all'anno.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	metà	metà	NOUN	S	Gender=Fem	14	nsubj	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	giovani	giovane	NOUN	S	Number=Plur	2	nmod	_	_
+6	tra	tra	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	6	6	NUM	N	NumType=Card	14	nummod	_	_
+9	e	e	CCONJ	CC	_	14	cc	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	17	17	NUM	N	NumType=Card	12	nummod	_	_
+12	anni	anno	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	legge	leggere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	nemmeno	nemmeno	ADV	BN	PronType=Neg	14	advmod	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	libro	libro	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+18-19	all'	_	_	_	_	_	_	_	SpaceAfter=No
+18	a	a	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	anno	anno	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Ad una generazione così, si può far credere qualsiasi cosa.
+1	Ad	a	ADP	E	_	3	case	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	generazione	generazione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+4	così	così	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:pass	_	_
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+9	credere	credere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	11	det	_	_
+11	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sentirsi rifiutati da bambini genera adulti che non si sentiranno mai, qualsiasi cosa facciano , abbastanza.
+1-2	Sentirsi	_	_	_	_	_	_	_	_
+1	Sentir	sentire	PROPN	SP	_	16	nsubj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	rifiutati	rifiutare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	bambini	bambine	NOUN	S	Gender=Masc|Number=Plur	3	obl:agent	_	_
+6	genera	genero	NOUN	S	_	5	nmod	_	_
+7	adulti	adulto	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	sentiranno	sentire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	acl:relcl	_	_
+12	mai	mai	ADV	B	_	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	1	punct	_	_
+14	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	15	det	_	_
+15	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+16	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	abbastanza	abbastanza	ADV	B	_	16	advmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	16	punct	_	SpacesAfter=\n
+

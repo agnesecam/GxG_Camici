@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ancora troppo ubri dal pranzo per svestirmi in maniera dignitosa e dunque ora sono con felpa con cappuccio tirato su e collant.
+1	Ancora	ancora	ADV	B	_	3	advmod	_	_
+2	troppo	troppo	ADV	B	_	3	advmod	_	_
+3	ubri	ubrare	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4-5	dal	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8-9	svestirmi	_	_	_	_	_	_	_	_
+8	svestir	svestire	VERB	V	VerbForm=Inf	3	advcl	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	obj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+12	dignitosa	dignitoso	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	e	e	CCONJ	CC	_	18	cc	_	_
+14	dunque	dunque	ADV	B	_	18	advmod	_	_
+15	ora	ora	ADV	B	_	18	advmod	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	con	con	ADP	E	_	18	case	_	_
+18	felpa	felpa	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+19	con	con	ADP	E	_	20	case	_	_
+20	cappuccio	cappuccio	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+21	tirato	tirato	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+22	su	su	ADP	E	_	24	case	_	_
+23	e	e	CCONJ	CC	_	24	cc	_	_
+24	collant	collant	NOUN	S	Gender=Masc	20	conj	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

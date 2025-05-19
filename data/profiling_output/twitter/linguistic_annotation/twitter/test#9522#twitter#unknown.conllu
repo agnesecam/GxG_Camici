@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il pubblico di questa sera è osceno più del solito ! #ciaodarwin
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	sera	sera	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+7	osceno	osceno	ADV	B	_	8	advmod	_	_
+8	più	più	ADV	B	_	13	advmod	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	solito	solito	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	!	!	PUNCT	FS	_	11	punct	_	_
+13	#ciaodarwin	#ciaodarwino	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

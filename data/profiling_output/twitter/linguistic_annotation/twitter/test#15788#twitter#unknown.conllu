@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro luca braia ..
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	luca	luca	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	braia	braio	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Le chiavi le hanno buttate il giorno che sei diventato assessore ... Buffone!!!!
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	chiavi	chiave	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	5	obj	_	_
+4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	buttate	buttare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+9	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+11	assessore	assessore	NOUN	S	Gender=Masc|Number=Sing	10	xcomp	_	_
+12	...	...	PUNCT	FF	_	5	punct	_	_
+13	Buffone	buffone	PROPN	SP	_	5	parataxis	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+15	!!!	!!!	PUNCT	FF	_	5	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/lucabraia/stat us/716650282524999680 …
+1	https:	https:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/lucabraia/stat	twitter.com/lucabraia/stare	NOUN	S	Gender=Masc	0	root	_	_
+5	us/716650282524999680	us/716650282524999680	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo figuro, mai eletto da alcuno , occhio, potrebbe essere il vostro nuovo padrone.
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	figuro	figuro	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	mai	mai	ADV	B	_	5	advmod	_	_
+5	eletto	eleggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+6	da	da	ADP	E	_	9	case	_	_
+7	alcuno	alcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	occhio	occhio	NOUN	S	Gender=Masc|Number=Sing	5	obl:agent	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+12	essere	essere	AUX	V	VerbForm=Inf	16	cop	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+14	vostro	vostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+15	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	padrone	padrone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/2q5uIKqgd
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/2q5uIKqgd	fb.me/2q5uIKqgd	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “@robertore62:
+1	“	“	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	@robertore62	@robertore62	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = #Idomeni oggi,la protesta dei migranti bloccati dalla #Macedonia repressa gas lacrimogeni pic.twitter.com/lMbQehb055 Via @acirne
+1	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	Idomeni	Idomeno	PROPN	SP	_	4	nsubj	_	_
+3	oggi,la	oggi,la	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	protesta	protesta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	migranti	migrante	NOUN	S	Number=Plur	17	obl	_	_
+8	bloccati	bloccare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	acl	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	#Macedonia	#Macedonia	PROPN	SP	_	17	obl	_	_
+12	repressa	represso	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	gas	gas	NOUN	S	Gender=Masc	17	nmod	_	_
+14	lacrimogeni	lacrimogeno	NOUN	S	Gender=Masc|Number=Plur	13	compound	_	_
+15	pic.twitter.com/lMbQehb055	pic.twitter.com/lMbQehb055	PROPN	SP	_	13	nmod	_	_
+16	Via	via	ADV	B	_	17	advmod	_	_
+17-18	@acirne	_	_	_	_	_	_	_	SpacesAfter=\n
+17	@acir	@acire	VERB	V	VerbForm=Inf	0	root	_	_
+18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	17	iobj	_	_
+

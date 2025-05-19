@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per chi non è utente Sky:
+1	Per	per	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	utente	utente	ADJ	A	Number=Sing	2	acl:relcl	_	_
+6	Sky	Sky	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Se in Italia la F1 non fosse più trasmessa in chiaro cosa fareste ?
+1	Se	se	SCONJ	CS	_	9	mark	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Italia	Italia	PROPN	SP	_	9	obl	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	F1	F1	PROPN	SP	_	9	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	trasmessa	trasmettere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	fareste	faresto	ADJ	A	Number=Sing	12	amod	_	_
+14	?	?	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oggi i Ghost Notes erano ospiti dello storico negozio di dischi di #Genova e ci hanno dato dentro col rocknroll pic.twitter.com/cEJ9oxuVGH
+1	Oggi	oggi	ADV	B	_	6	advmod	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Ghost	Ghost	PROPN	SP	_	6	nsubj	_	_
+4	Notes	Notes	PROPN	SP	_	3	flat:name	_	_
+5	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	ospiti	ospite	NOUN	S	Number=Plur	0	root	_	_
+7-8	dello	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	storico	storico	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	negozio	negozio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	dischi	disco	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	#Genova	#Genova	PROPN	SP	_	10	nmod	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	iobj	_	_
+17	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+19	dentro	dentro	ADV	B	_	18	advmod	_	_
+20-21	col	_	_	_	_	_	_	_	_
+20	con	con	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	rocknroll	rocknroll	NOUN	S	Gender=Masc	18	obl	_	_
+23	pic.twitter.com/cEJ9oxuVGH	pic.twitter.com/cEJ9oxuVGH	PROPN	SP	_	22	nmod	_	SpacesAfter=\n
+

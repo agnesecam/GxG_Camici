@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giuselli1389 @beppe_grillo AHAHAHHA DATI PRESI DA TOPOLINO ?
+1	@giuselli1389	@giuselli1389	NUM	N	NumType=Card	2	nummod	_	_
+2	@beppe_grillo	@beppe_grillo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	AHAHAHHA	AHAHAHHA	PROPN	SP	_	2	nmod	_	_
+4	DATI	dati	PROPN	SP	_	3	flat:name	_	_
+5	PRESI	prendere	PROPN	SP	_	3	flat:name	_	_
+6	DA	Da	PROPN	SP	_	3	flat:name	_	_
+7	TOPOLINO	TOPOLINO	PROPN	SP	_	3	flat:name	_	_
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = IN PIU' CI FURONO DEI BROGLI SCOPERTI E MAI PUNITI IN QUELLE ELEZIONI..
+1	IN	in	ADP	E	_	2	case	_	_
+2	PIU'	PIU'	PROPN	SP	_	0	root	_	_
+3	CI	ci	PROPN	SP	_	2	nmod	_	_
+4	FURONO	essere	PROPN	SP	_	3	flat:name	_	_
+5-6	DEI	_	_	_	_	_	_	_	_
+5	DI	Di	ADP	E	_	7	case	_	_
+6	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	BROGLI	brogli	PROPN	SP	_	3	nmod	_	_
+8	SCOPERTI	scoperti	PROPN	SP	_	7	flat:name	_	_
+9	E	e	CCONJ	CC	_	10	cc	_	_
+10	MAI	Mai	PROPN	SP	_	7	conj	_	_
+11	PUNITI	PUNITI	PROPN	SP	_	10	flat:name	_	_
+12	IN	In	PROPN	SP	_	10	flat:name	_	_
+13	QUELLE	Quelle	PROPN	SP	_	10	flat:name	_	_
+14	ELEZIONI.	ELEZIONI.	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Occasione.
+1	Occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vendo mio foglietto autografo con lista della spesa.
+1	Vendo	Vere	VERB	V	VerbForm=Ger	0	root	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	foglietto	foglietto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	autografo	autografo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	con	con	ADP	E	_	6	case	_	_
+6	lista	lista	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	spesa	spesa	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Adesso vale pochi €, ma se facessi un giorno fortuna tipo John Lennon?
+1	Adesso	adesso	ADV	B	_	2	advmod	_	_
+2	vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pochi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	€	€	SYM	SYM	_	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	8	punct	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	facessi	facettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	fortuna	fortuno	NOUN	S	Gender=Fem|Number=Sing	10	compound	_	_
+12	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	11	compound	_	_
+13	John	John	PROPN	SP	_	12	nmod	_	_
+14	Lennon	Lennon	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ...
+1	..	..	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

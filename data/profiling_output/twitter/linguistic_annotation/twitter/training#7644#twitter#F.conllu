@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , il ragno gigante nel pigiama l'ho trovato.
+1	Dunque	dunque	ADV	B	_	11	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ragno	ragno	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+5	gigante	gigante	ADJ	A	Number=Sing	4	amod	_	_
+6-7	nel	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pigiama	pigiama	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+9	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	11	obj	_	SpaceAfter=No
+10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Ma di Tom Hardy nemmeno l'ombra.
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	Tom	Tom	PROPN	SP	_	0	root	_	_
+4	Hardy	Hardy	PROPN	SP	_	3	flat:name	_	_
+5	nemmeno	nemmeno	ADV	BN	PronType=Neg	7	advmod	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	ombra	ombra	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = #maiunagioia pic.twitter.com/aep3g1kWpi
+1	#maiunagioia	#maiunagioia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	pic.twitter.com/aep3g1kWpi	pic.twitter.com/aep3g1kWpi	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

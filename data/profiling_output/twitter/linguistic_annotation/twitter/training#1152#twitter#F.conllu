@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @domenicalive d'urso mi meraviglio che no lo butti fuori dalla trasmissione che nn si di stacchi da sto soggetto che gioca su salute altrui
+1	@domenicalive	@domenicalive	ADV	B	_	5	advmod	_	_
+2	d'	di	ADP	E	_	3	case	_	SpaceAfter=No
+3	urso	urso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	meraviglio	meravigliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	no	no	ADV	BN	PronType=Neg	9	advmod	_	_
+8	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	butti	butto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	ccomp	_	_
+10	fuori	fuori	ADV	B	_	9	advmod	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+14	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+15	nn	nno	ADV	B	_	18	advmod	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	stacchi	stacchio	NOUN	S	Gender=Masc|Number=Plur	13	conj	_	_
+19	da	da	ADP	E	_	20	case	_	_
+20	sto	sto	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+21	soggetto	soggetto	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
+22	che	che	PRON	PR	PronType=Rel	23	nsubj	_	_
+23	gioca	giocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+24	su	su	ADP	E	_	25	case	_	_
+25	salute	salute	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	_
+26	altrui	altrui	DET	AP	Poss=Yes|PronType=Prs	25	det:poss	_	SpacesAfter=\n
+

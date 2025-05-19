@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E anche quest'anno #grazieperaverpartecipato #Juventus e se non gli avessimo dato il vantaggio ad inizio campionato?
+1	E	e	CCONJ	CC	_	6	cc	_	_
+2	anche	anche	ADV	B	_	4	advmod	_	_
+3	quest'	questo	DET	DD	Number=Sing|PronType=Dem	4	det	_	SpaceAfter=No
+4	anno	anno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+5	#grazieperaverpartecipato	#grazieperaverpartecipato	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	#Juventus	#Juventus	PROPN	SP	_	0	root	_	_
+7	e	e	CCONJ	CC	_	12	cc	_	_
+8	se	se	SCONJ	CS	_	12	mark	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	_
+11	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	vantaggio	vantaggio	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	ad	a	ADP	E	_	16	case	_	_
+16	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+17	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	16	compound	_	SpaceAfter=No
+18	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = #FinoallaFine
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	FinoallaFine	FinoallaFine	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaiRadio2 @mengonimarco fantastico!
+1	@RaiRadio2	@RaiRadio2	NUM	N	NumType=Card	2	nummod	_	_
+2	@mengonimarco	@mengonimarco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	fantastico	fantastico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Che bello ritrovarti un po' dovunque come un prezzemolino in attesa del #MengoniLive2016
+1	Che	che	DET	DQ	PronType=Int	3	det	_	_
+2	bello	bello	ADJ	A	_	3	amod	_	_
+3	ritrovarti	ritrovartire	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	po'	poco	ADV	B	_	9	advmod	_	_
+6	dovunque	dovunque	ADV	B	_	5	advmod	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	prezzemolino	prezzemolino	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	attesa	attesa	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	#MengoniLive2016	#MengoniLive2016	PROPN	SP	_	11	nmod	_	SpacesAfter=\n
+

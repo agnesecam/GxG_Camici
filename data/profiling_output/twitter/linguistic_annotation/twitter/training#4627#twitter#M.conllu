@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = F1 | Sato:
+1	F1	F1	PROPN	SP	_	0	root	_	_
+2	|	|	SYM	SYM	_	1	flat:name	_	_
+3	Sato	Sato	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Alonso dovrà avere pazienza un paio di stagioni":
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Alonso	Alonso	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+5	pazienza	pazienza	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	paio	paio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	stagioni	stagione	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 3
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = formulapassion.it/2016/03/f1-sat o-alonso-dovra-pazienza-un-paio-stagioni/#.
+1	formulapassion.it/2016/03/f1-sat	formulapassion.it/2016/03/f1-sat	NOUN	S	Gender=Masc	0	root	_	_
+2	o-alonso	o-alonso	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	dovra-pazienza-un-paio-stagioni	dovra-pazienza-un-paio-stagione	NOUN	S	Gender=Fem|Number=Plur	2	compound	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 5
+# text = VvjTbLjEt64.twitter …
+1	VvjTbLjEt64.twitter	VvjTbLjEt64.twitter	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nessuno di noi ha zero.Ha qualcosa,nn sarà certamente abbastanza.Lo metta però con fiducia davanti al Signore edEgli farà il resto @epicoco
+1	Nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	nmod	_	_
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	zero.Ha	zero.Ha	PROPN	SP	_	4	obj	_	_
+6	qualcosa,nn	qualcosa,nno	ADP	E	_	10	mark	_	_
+7	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	cop	_	_
+8	certamente	certamente	ADV	B	_	10	advmod	_	_
+9	abbastanza.Lo	abbastanza.Lo	ADV	B	_	10	advmod	_	_
+10	metta	mettere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+11	però	però	ADV	B	_	10	advmod	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	fiducia	fiducia	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	davanti	davanti	ADV	B	_	17	case	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	14	fixed	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Signore	signore	PROPN	SP	_	10	obl	_	_
+18	edEgli	edEgli	PROPN	SP	_	17	flat:name	_	_
+19	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	resto	resto	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+22	@epicoco	@epicoco	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	SpacesAfter=\n
+

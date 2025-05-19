@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rkmontanari @carmentpf @mividamichele infatti danno fastidio anche quelli regolari.
+1	@rkmontanari	@rkmontanario	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	@carmentpf	@carmentpf	NOUN	S	Gender=Masc	5	nsubj	_	_
+3	@mividamichele	@mividamichele	ADJ	A	Number=Sing	2	amod	_	_
+4	infatti	infatti	ADV	B	_	5	advmod	_	_
+5	danno	danno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	fastidio	fastidio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+7	anche	anche	ADV	B	_	8	advmod	_	_
+8	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	obj	_	_
+9	regolari.	regolari.	NOUN	S	_	8	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...se proprio avessimo bisogno scegliamo chi far entrare
+1	...se	...so	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+3	avessimo	avessimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	scegliamo	sceglare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	chi	chi	PRON	PR	Number=Sing|PronType=Rel	8	obj	_	_
+7	far	fare	VERB	V	VerbForm=Inf	8	aux	_	_
+8	entrare	entrare	VERB	V	VerbForm=Inf	5	xcomp	_	SpacesAfter=\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per chi è improvvisamente diventato anti-petrolio:se domani mattina vi vedo prendere la macchina vi buco i serbatoi #sitrivelle #iovotono
+1	Per	per	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PQ	PronType=Int	8	obl	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	improvvisamente	improvvisamente	ADV	B	_	5	advmod	_	_
+5	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+6	anti	anti	ADJ	A	_	5	xcomp	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	petrolio:se	petrolio:so	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	acl:relcl	_	_
+9	domani	domani	ADV	B	_	12	advmod	_	_
+10	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+11	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	12	iobj	_	_
+12	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+13	prendere	prendere	VERB	V	VerbForm=Inf	12	ccomp	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	vi	vi	ADV	B	_	17	advmod	_	_
+17	buco	buco	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	serbatoi	serbato	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+20	#sitrivelle	#sitrivella	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	19	nmod	_	_
+21	#iovotono	#iovotere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

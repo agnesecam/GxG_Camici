@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Barletta Approvata dalla Giunta comunale la manovra fiscale 2016.
+1	#Barletta	#Barletta	PROPN	SP	_	0	root	_	_
+2	Approvata	approvata	PROPN	SP	_	1	flat:name	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Giunta	giunta	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	comunale	comunale	ADJ	A	Number=Sing	5	amod	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	manovra	manovra	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+9	fiscale	fiscale	ADJ	A	Number=Sing	8	amod	_	_
+10	2016	2016	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Insieme ad altre delibere: http:// giulianainconsiglio.blogspot.com/2016/04/giunta -comunale-dell8-aprile-2016.html?spref=tw …
+1	Insieme	insieme	ADV	B	_	3	case	_	_
+2	ad	a	ADP	E	_	1	fixed	_	_
+3	altre	altro	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	4	obl	_	_
+4	delibere	delibere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	4	punct	_	_
+9	giulianainconsiglio.blogspot.com/2016/04/giunta	giulianainconsiglio.blogspot.com/2016/04/giungere	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+10	-comunale	-comunale	ADJ	A	Number=Sing	9	amod	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	dell8-aprile-2016.html	dell8-aprile-2016.html	ADJ	A	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+14	spref=tw	spref=tw	NOUN	S	Gender=Masc	9	compound	_	_
+15	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

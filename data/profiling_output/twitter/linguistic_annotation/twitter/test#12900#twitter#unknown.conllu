@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dottorgiustizia @roccoscozzarell gli taglierei le palle se le avessero 'ste lote.
+1	@dottorgiustizia	@dottorgiustizia	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	@roccoscozzarell	@roccoscozzarell	ADJ	A	Number=Sing	1	amod	_	_
+3	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	taglierei	tagliare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	palle	palla	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	se	se	SCONJ	CS	_	9	mark	_	_
+8	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	avessero	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+10	'	'	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+11	ste	sto	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+12	lote	lota	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

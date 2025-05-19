@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si perché @giansnow_ sapeva che anche io ho parecchi libri in pdf.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+2	perché	perché	SCONJ	CS	_	4	mark	_	_
+3	@giansnow_	@giansnow-	PUNCT	FB	_	4	punct	_	_
+4	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	anche	anche	ADV	B	_	7	advmod	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+9	parecchi	parecchio	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
+10	libri	libro	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	pdf	pdf	NOUN	S	Gender=Masc	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = @poffare @chaomanu_ @mttgsp
+1	@poffare	@poffare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	@chaomanu_	ExtraSubj=Yes|@chaomanu_	ADJ	NO	NumType=Ord	3	amod	_	_
+3	@mttgsp	@mttgsp	NOUN	S	Gender=Fem	1	obj	_	SpacesAfter=\n
+

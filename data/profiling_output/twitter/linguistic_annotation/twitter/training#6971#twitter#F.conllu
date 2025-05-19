@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @valy_s @PatriziaRametta @robertobenfatto ad essi non serve lo specchio.
+1	@valy_s	@valy_s	PROPN	SW	Foreign=Yes	7	nsubj	_	_
+2	@PatriziaRametta	@PatriziaRametta	PROPN	SP	_	1	flat:name	_	_
+3	@robertobenfatto	@robertobenfatto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+4	ad	a	ADP	E	_	5	case	_	_
+5	essi	essi	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	specchio.	specchio.	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .troppo pieni di sé!
+1	.troppo	.troppo	ADV	B	_	2	advmod	_	_
+2	pieni	pieno	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	sé	sé	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	obl	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Maledetti
+1	Maledetti	Maledetti	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

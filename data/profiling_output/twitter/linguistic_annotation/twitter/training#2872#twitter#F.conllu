@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @silviaspazzoli ti han tirato la palla in faccia facendoti sembrare ancor piú uno scoiattolo che mangia ghiande?
+1	@silviaspazzoli	@silviaspazzole	ADJ	A	Number=Plur	4	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+3	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	tirato	tirare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	palla	palla	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9-10	facendoti	_	_	_	_	_	_	_	_
+9	facendo	fare	VERB	V	VerbForm=Ger	8	advcl	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+12	ancor	ancora	ADV	B	_	13	advmod	_	_
+13	piú	piú	PROPN	SP	_	11	xcomp	_	_
+14	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	scoiattolo	scoiattolo	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+16	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	mangia	mangiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+18	ghiande	ghianda	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

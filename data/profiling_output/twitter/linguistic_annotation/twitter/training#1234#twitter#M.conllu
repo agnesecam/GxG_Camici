@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Casper segue la corsa oggi non dalla srada ma dal letto #EurosportCICLISMO pic.twitter.com/KeVKIRXNt1
+1	Casper	Casper	PROPN	SP	_	2	nsubj	_	_
+2	segue	seguire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	corsa	corsa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	oggi	oggi	ADV	B	_	4	advmod	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	srada	srada	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+10	ma	ma	CCONJ	CC	_	13	cc	_	_
+11-12	dal	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	letto	letto	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	_
+14	#	#	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+15	EurosportCICLISMO	EurosportCICLISMO	PROPN	SP	_	13	nmod	_	_
+16	pic.twitter.com/KeVKIRXNt1	pic.twitter.com/KeVKIRXNt1	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

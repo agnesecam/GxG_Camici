@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SantucciFulvio @ConteAlmaviva @Lenzini81 se fosse stata cessa non gliene sarebbe fregato niente a nessuno ... pic.twitter.com/W6QhK1QvPj
+1	@SantucciFulvio	@SantucciFulvio	PROPN	SP	_	7	nsubj	_	_
+2	@ConteAlmaviva	@ConteAlmaviva	PROPN	SP	_	1	flat:name	_	_
+3	@Lenzini81	@Lenzini81	PROPN	SP	_	1	flat:name	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_
+7	cessa	cessare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+8	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+9	gliene	glenere	SCONJ	CS	_	11	mark	_	_
+10	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	fregato	fregare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+12	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obl	_	_
+15	...	.	PUNCT	FF	_	7	punct	_	_
+16	pic.twitter.com/W6QhK1QvPj	pic.twitter.com/W6QhK1QvPj	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

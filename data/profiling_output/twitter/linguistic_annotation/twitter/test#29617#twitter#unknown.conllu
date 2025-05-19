@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @halavisie @Gix74 @enricobertolino Il problema è solo e soltanto uno:
+1	@halavisie	@halavisia	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	2	det	_	_
+2	@Gix74	@Gix74	PROPN	SP	_	10	nsubj	_	_
+3	@enricobertolino	@enricobertolare	ADP	E	_	5	case	_	_
+4	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+7	solo	solo	ADV	B	_	10	advmod	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	soltanto	soltanto	ADV	B	_	10	advmod	_	_
+10	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	10	punct	_	_
+
+# sent_id = 2
+# text = la Juve vince.Il resto è noia, fatturato, penombra e testate.
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Juve	Juve	PROPN	SP	_	6	nsubj	_	_
+3	vince.Il	vince.Il	PROPN	SP	_	2	flat:name	_	_
+4	resto	resto	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	noia	noio	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	fatturato	fatturare	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	penombra	penombrare	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	testate	testare	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

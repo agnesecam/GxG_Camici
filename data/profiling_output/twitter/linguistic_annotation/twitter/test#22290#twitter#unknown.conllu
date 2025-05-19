@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AngeloFrisoni prima di giudicare aspetta la verità,all'epoca M5S aveva denunciato la cosa ma nn ebbe mai riposta dagli organi preposti e
+1	@AngeloFrisoni	@AngeloFrisone	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	prima	prima	ADV	B	_	4	mark	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	giudicare	giudicare	VERB	V	VerbForm=Inf	5	advcl	_	_
+5	aspetta	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	verità	verità	NOUN	S	Gender=Fem	8	nsubj	_	SpaceAfter=No
+8-9	,all'	_	_	_	_	_	_	_	SpaceAfter=No
+8	,a	,are	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
+10	epoca	epoca	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	M5S	M5S	PROPN	SP	_	10	nmod	_	_
+12	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	denunciato	denunciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	_
+16	ma	ma	CCONJ	CC	_	18	cc	_	_
+17	nn	nno	NOUN	S	Gender=Masc	18	nsubj	_	_
+18	ebbe	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
+19	mai	mai	ADV	B	_	20	advmod	_	_
+20	riposta	riporre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	_
+21-22	dagli	_	_	_	_	_	_	_	_
+21	da	da	ADP	E	_	23	case	_	_
+22	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	organi	organo	NOUN	S	Gender=Masc|Number=Plur	20	obl:agent	_	_
+24	preposti	preposto	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	_
+25	e	e	CCONJ	CC	_	5	cc	_	SpacesAfter=\n
+

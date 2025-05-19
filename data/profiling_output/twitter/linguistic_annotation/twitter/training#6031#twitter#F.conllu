@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Se noi uomini fossimo davver a nostro agio alla luce della luna e delle stelle, affronteremo il buio...” https:// tmblr.co/Z_bcyk24MfS1j
+1	“	“	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	6	mark	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+4	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	davver	davvere	VERB	V	VerbForm=Inf	21	advcl	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	agio	agio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	luce	luce	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+13-14	della	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	luna	luna	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+16	e	e	CCONJ	CC	_	19	cc	_	_
+17-18	delle	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	15	conj	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	6	punct	_	_
+21	affronteremo	affrontare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	buio...	buio...	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	SpaceAfter=No
+24	”	”	PUNCT	FB	_	25	punct	_	_
+25	https:	https:	PUNCT	FC	_	23	punct	_	SpaceAfter=No
+26	/	/	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	23	punct	_	_
+28	tmblr.co/Z_bcyk24MfS1j	tmblr.co/Z_bcyk24MfS1j	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

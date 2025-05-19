@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = fossimo cresciuti tutti sensibili, ora saremmo tutti diversi;
+1	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	cresciuti	crescere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	obl	_	_
+4	sensibili	sensibile	ADJ	A	Number=Plur	2	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	ora	ora	ADV	B	_	9	advmod	_	_
+7	saremmo	essere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	obl	_	_
+9	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
+10	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = e che non è così gli insensibili non lo sapranno mai.
+1	e	e	CCONJ	CC	_	10	cc	_	_
+2	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+5	così	così	ADV	B	_	10	advmod	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	insensibili	insensibile	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	sapranno	sapre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	mai	mai	ADV	B	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

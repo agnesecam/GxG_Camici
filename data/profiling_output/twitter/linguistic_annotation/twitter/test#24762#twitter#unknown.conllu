@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cose che mi farebbero felice oggi.
+1	Cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+4	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	felice	felice	ADJ	A	Number=Sing	4	xcomp	_	_
+6	oggi	oggi	ADV	B	_	1	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Un giorno di riposo, dei tulipani, due passi in riva al mare, un gelato.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	tulipani	tulipano	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	due	due	NUM	N	NumType=Card	11	nummod	_	_
+11	passi	passo	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	riva	riva	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14-15	al	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	mare	mare	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	gelato	gelato	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

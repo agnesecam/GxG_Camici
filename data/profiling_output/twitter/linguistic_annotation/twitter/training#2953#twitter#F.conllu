@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I filtri di #snapchat che mi fanno sembrare #lexa e un #procione col maglioncino della nonna, obvs. https://www.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	filtri	filtro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	#snapchat	#snapchat	NOUN	S	Gender=Masc	2	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	sembrare	sembrare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	#lexa	#lexa	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	#procione	#procione	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	_
+13-14	col	_	_	_	_	_	_	_	_
+13	con	con	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	maglioncino	maglioncino	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	nonna	nonna|nonno	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	21	punct	_	_
+20	obvs.	obvs.	NUM	N	NumType=Card	21	nummod	_	_
+21	https://www	https://www	NOUN	S	Gender=Masc	9	conj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BDndWDZOmoD/
+1	instagram.com/p/BDndWDZOmoD/	instagram.com/p/BDndWDZOmoD/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

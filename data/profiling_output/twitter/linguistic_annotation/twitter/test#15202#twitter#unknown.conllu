@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Offeso #Bertolaso con @Storace ma facesse il suo dovere cercare un compromesso con @GiorgiaMeloni e #alfio #cxdunito https:// twitter.com/Storace/status /711226215387033600 …
+1	Offeso	offeso	PROPN	SP	_	7	nsubj	_	_
+2	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	Bertolaso	Bertolaso	PROPN	SP	_	7	nsubj	_	_
+4	con	con	ADP	E	_	5	case	_	_
+5	@Storace	@Storace	PROPN	SP	_	3	nmod	_	_
+6	ma	ma	CCONJ	CC	_	7	cc	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+11	cercare	cercare	VERB	V	VerbForm=Inf	10	acl	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	compromesso	compromesso	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	@GiorgiaMeloni	@GiorgiaMeloni	PROPN	SP	_	13	nmod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	#alfio	#alfio	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	_
+18	#cxdunito	#cxdunito	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+19	https:	https:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	15	punct	_	_
+22	twitter.com/Storace/status	twitter.com/Storace/status	PROPN	SP	_	15	nmod	_	_
+23	/711226215387033600	/711226215387033600	NUM	N	NumType=Card	22	nummod	_	_
+24	…	…	PUNCT	FF	_	7	punct	_	SpacesAfter=\n
+

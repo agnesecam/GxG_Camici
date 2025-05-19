@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Panama papers, Cameron alle strette rivela i suoi redditi (e il “dono” dalla madre) http://www.
+1	Panama	Panama	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	papers	paper	NOUN	S	Gender=Fem	1	compound	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	Cameron	Cameron	PROPN	SP	_	8	nsubj	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	strette	stretta	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	rivela	rivelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	redditi	reddito	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+12	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	“	“	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	dono	dire	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+17	”	”	PUNCT	FB	_	16	punct	_	_
+18-19	dalla	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	madre	madre	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+21	)	)	PUNCT	FB	_	20	punct	_	_
+22	http://www	http://www	NOUN	S	_	16	compound	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = corriere.it/esteri/16_apri le_10/cameron-svela-redditi-regalo-sospetto-mamma-mary-fleur-6e4f796e-ff00-11e5-a032-8e8dfe3b8a86.shtml …
+1	corriere.it/esteri/16_apri	corriere.it/esteri/16_aprire	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	le_10	le_10	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	cameron-svela-redditi-regalo-sospetto-mamma-mary-fleur-6e4f796e-ff00-11e5-a032-8e8dfe3b8a86.shtml	cameron-svela-redditi-regalo-sospetto-mamma-mary-fleur-6e4f796e-ff00-11e5-a032-8e8dfe3b8a86.shtml	NOUN	S	Gender=Masc	1	nmod	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

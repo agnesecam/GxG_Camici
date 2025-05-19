@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vai, almeno a 'sto giro #Erica non può dimenticarsi niente perché gli ingredienti glieli ha portati la mamma.
+1	Vai	Vai	ADV	B	_	12	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	almeno	almeno	ADV	B	_	7	advmod	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	'	'	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+6	sto	stare	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	giro	giro	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+8	#	#	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	Erica	Erica	PROPN	SP	_	12	nsubj	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12-13	dimenticarsi	_	_	_	_	_	_	_	_
+12	dimenticar	dimenticare	VERB	V	VerbForm=Inf	0	root	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+14	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	obl	_	_
+15	perché	perché	SCONJ	CS	_	21	mark	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	ingredienti	ingrediento	NOUN	S	Gender=Masc|Number=Plur	21	nsubj	_	_
+18-19	glieli	_	_	_	_	_	_	_	_
+18	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	iobj	_	_
+19	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	obj	_	_
+20	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	portati	portare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	advcl	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	21	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = #MasterChefIt
+1	#MasterChefIt	#MasterChefIt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

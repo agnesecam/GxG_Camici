@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cosa stavamo facendo?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	obj	_	_
+2	stavamo	stare	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	facendo	fare	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #what#ahah#siamopazze#buonvenerdi https://www.
+1	#what#ahah#siamopazze	#what#ahah#siamopazza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+2	#buonvenerdi	#buonvenerde	ADJ	A	Number=Plur	3	amod	_	_
+3	https://www	https://www	NOUN	S	_	1	compound	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDYOWMXQzgJ/
+1	instagram.com/p/BDYOWMXQzgJ/	instagram.com/p/BDYOWMXQzgJ/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

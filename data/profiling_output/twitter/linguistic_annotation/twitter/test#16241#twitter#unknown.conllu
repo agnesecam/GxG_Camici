@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @paolacortellesi che eravate brave si sapeva, ma insieme siete fantastiche!!!
+1	@paolacortellesi	@paolacortellendere	NOUN	S	Number=Plur	6	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	eravate	erare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	brave	brave	ADJ	A	Number=Sing	1	acl:relcl	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	11	punct	_	_
+8	ma	ma	CCONJ	CC	_	11	cc	_	_
+9	insieme	insieme	ADV	B	_	11	advmod	_	_
+10	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	fantastiche	fantastico	ADJ	A	Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
+12	!!	!!	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Speriamo arrivi presto venerdi
+1	Speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	1	ccomp	_	_
+3	presto	presto	ADV	B	_	2	advmod	_	_
+4	venerdi	venerde	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpacesAfter=\n
+

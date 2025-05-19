@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La Juve dovrà puntare alla Champions e quindi avere una squadra talmente forte da fare allenamento in Serie A. Con arroganza #zona11pm
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Juve	Juve	PROPN	SP	_	4	nsubj	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	puntare	puntare	VERB	V	VerbForm=Inf	0	root	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Champions	Champions	PROPN	SP	_	4	obl	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	quindi	quindi	ADV	B	_	10	advmod	_	_
+10	avere	avere	VERB	V	VerbForm=Inf	4	conj	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	talmente	talmente	ADV	B	_	14	advmod	_	_
+14	forte	forte	ADJ	A	Number=Sing	12	amod	_	_
+15	da	da	ADP	E	_	16	mark	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	14	advcl	_	_
+17	allenamento	allenamento	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	Serie	serie	PROPN	SP	_	16	obl	_	_
+20	A	A	PROPN	SP	_	19	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	19	punct	_	_
+22	Con	con	ADP	E	_	23	case	_	_
+23	arroganza	arroganza	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+24	#zona11pm	#zona11pm	NOUN	S	Gender=Masc	23	compound	_	SpacesAfter=\n
+

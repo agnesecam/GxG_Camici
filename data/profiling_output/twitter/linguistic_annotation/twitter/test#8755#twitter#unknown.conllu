@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non siamo fatti per stare soli, ma neppure con tutti, che forse è la peggiore delle solitudini #buongiorno
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5	stare	stare	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	soli	solo	ADJ	A	Gender=Masc|Number=Plur	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	17	punct	_	_
+8	ma	ma	CCONJ	CC	_	17	cc	_	_
+9	neppure	neppure	ADV	BN	PronType=Neg	11	advmod	_	_
+10	con	con	ADP	E	_	11	case	_	_
+11	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	17	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+14	forse	forse	ADV	B	_	17	advmod	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	peggiore	peggiore	NOUN	S	Number=Sing	3	conj	_	_
+18-19	delle	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	21	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+20	solitudini	solitudine	ADJ	A	Number=Plur	21	amod	_	_
+21	#buongiorno	#buongiorno	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpacesAfter=\n
+

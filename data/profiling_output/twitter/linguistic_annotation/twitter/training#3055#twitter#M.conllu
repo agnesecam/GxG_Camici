@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tra poco in arrivo 10 nuove famiglie che completeranno le attuali 8.
+1	Tra	tra	ADP	E	_	2	case	_	_
+2	poco	poco	ADV	B	_	4	advmod	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	arrivo	arrivo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	10	10	NUM	N	NumType=Card	7	nummod	_	_
+6	nuove	nuovo	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+7	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+9	completeranno	completerare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	acl:relcl	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	attuali	attuale	ADJ	A	Number=Plur	12	amod	_	_
+12	8	8	NUM	N	NumType=Card	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Per far sembrare questo mondo più magico ad... http:// fb.me/4i87Rrm85
+1	Per	per	ADP	E	_	2	mark	_	_
+2	far	fare	VERB	V	VerbForm=Inf	12	advcl	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	più	più	ADV	B	_	7	advmod	_	_
+7	magico	magico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+8	ad...	ad.	PUNCT	FS	_	9	punct	_	_
+9	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	9	punct	_	_
+12	fb.me/4i87Rrm85	fb.me/4i87Rrm85	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

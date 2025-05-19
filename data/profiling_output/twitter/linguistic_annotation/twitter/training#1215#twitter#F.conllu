@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque quando si abbracciano tutti quanti mi fanno emozionare troppo Higuain che sorride dalla tribuna Vi amo troppo @sscnapoli
+1	Comunque	comunque	SCONJ	CS	_	8	mark	_	_
+2	quando	quando	SCONJ	CS	_	4	mark	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	abbracciano	abbracciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	_	_
+6	quanti	quanto	PRON	PR	Gender=Masc|Number=Plur|PronType=Rel	8	obj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	emozionare	emozionare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	troppo	troppo	ADV	B	_	11	advmod	_	_
+11	Higuain	Higuain	PROPN	SP	_	9	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	sorride	sorridere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+14-15	dalla	_	_	_	_	_	_	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	tribuna	tribuna	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+17	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	18	iobj	_	_
+18	amo	amare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+19	troppo	troppo	ADV	B	_	18	advmod	_	_
+20	@sscnapoli	@sscnapole	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	SpacesAfter=\n
+

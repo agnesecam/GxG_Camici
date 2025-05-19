@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @intuslegens sembrano una gag di Totò:
+1	@intuslegens	@intuslegens	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	sembrano	sembrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	gag	gag	NOUN	S	Gender=Fem	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	Totò	Totò	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = me ne ha date tante, ma gliene ho dette di tutti i colori!
+1	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	date	dare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	10	det	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	gliene	glenere	ADV	B	_	10	advmod	_	_
+9	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	dette	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	ccomp	_	_
+11	di	di	ADP	E	_	14	case	_	_
+12	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	14	det:predet	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	colori	colore	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

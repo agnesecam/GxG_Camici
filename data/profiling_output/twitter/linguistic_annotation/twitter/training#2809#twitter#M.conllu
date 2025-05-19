@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scusatemi non vorrei sembrare volgare ma dioporco sta Inter
+1-2	Scusatemi	_	_	_	_	_	_	_	_
+1	Scusate	scusare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sembrare	sembrare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+6	volgare	volgare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	dioporco	dioporcare	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	_
+9	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	Inter	Inter	PROPN	SP	_	9	xcomp	_	SpacesAfter=\n
+

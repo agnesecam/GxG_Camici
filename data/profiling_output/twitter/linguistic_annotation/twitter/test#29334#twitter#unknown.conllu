@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @THEVOICE_ITALY fate la stessa domanda per.il Bon Jovi di prima avrete un 90% NO.
+1	@THEVOICE_ITALY	@thevoice_italy	CCONJ	CC	_	2	cc	_	_
+2	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	per.il	per.il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Bon	Bon	PROPN	SP	_	11	nsubj	_	_
+8	Jovi	Jovo	PROPN	SP	_	7	flat:name	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	prima	prima	ADV	B	_	11	advmod	_	_
+11	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	90	90	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+14	%	%	SYM	SYM	_	11	obj	_	_
+15	NO	No	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E sono ottimista...
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	ottimista...	ottimista.	NUM	N	NumType=Card	0	root	_	_
+
+# sent_id = 3
+# text = #tvoi
+1	#tvoi	#tvoi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	SpacesAfter=\n
+

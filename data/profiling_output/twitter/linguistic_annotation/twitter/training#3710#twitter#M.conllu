@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Infermiera arrestata:gip,stia in carcere:
+1	Infermiera	Infermiera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	arrestata:gip,stia	arrestata:gip,stiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	carcere	carcere	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Difesa farà ricorso a riesame.Inchiesta prosegue,sentiti parenti http:// bit.ly/1VxMz7x
+1	Difesa	difesa	PROPN	SP	_	2	nsubj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	ricorso	ricorso	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	riesame.Inchiesta	riesame.Inchiesta	PROPN	SP	_	7	nmod	_	_
+6	prosegue,sentiti	prosegue,sentito	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+7	parenti	parente	NOUN	S	Number=Plur	2	obl	_	_
+8	http:	http:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	bit.ly/1VxMz7x	bit.ly/1VxMz7x	PROPN	SP	_	2	obj	_	SpacesAfter=\n
+

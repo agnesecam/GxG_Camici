@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque , l'Europa ha avuto in pasto un video farlocco dell'attentato di Bruxelles.
+1	Dunque	dunque	ADV	B	_	6	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	Europa	Europa	PROPN	SP	_	6	nsubj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	pasto	pasto	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	video	video	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+11	farlocco	farlocco	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12-13	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+12	di	di	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	attentato	attentato	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	Bruxelles	Bruxelles	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Erano immagini di un attentato...
+1	Erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	immagini	immagine	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	attentato...	attentato...	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+
+# sent_id = 3
+# text = http:// fb.me/84MsadU7A
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/84MsadU7A	fb.me/84MsadU7A	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

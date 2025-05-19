@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FandomSegreti mi chiedo solo come facevi ad odiarli..lol .
+1	@FandomSegreti	@FandomSegrete	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	solo	solo	ADV	B	_	3	advmod	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	facevi	facevo	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+7	ad	a	ADP	E	_	8	case	_	_
+8	odiarli..lol	odiarli..lol	NOUN	S	Gender=Masc	6	nmod	_	_
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Comunque non fare peso a ciò che dice la gente,tu puoi fare ciò che vuoi
+1	Comunque	comunque	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+4	peso	peso	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	gente,tu	gente,tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+11	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	8	ccomp	_	_
+13	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obj	_	_
+14	che	che	PRON	PR	PronType=Rel	15	obj	_	_
+15	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpacesAfter=\n
+

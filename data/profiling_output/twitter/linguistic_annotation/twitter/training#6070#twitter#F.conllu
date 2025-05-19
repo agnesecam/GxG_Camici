@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Semmai fossimo in una stanza di ospedale non disturbiamo le infermiere soprattutto di notte.
+1	Semmai	semmai	ADV	B	_	9	advmod	_	_
+2	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	ospedale	ospedale	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	disturbiamo	disturbare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	infermiere	infermiera	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	soprattutto	soprattutto	ADV	B	_	14	advmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	notte	notte	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Non scateniamo il killer che c'è in loro.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	scateniamo	scatenare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	killer	killer	NOUN	S	Number=Sing	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

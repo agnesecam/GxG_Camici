@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ManuelePalermo @JJuventusGirl se ci rimandano anche tutti gli altri bianconeri gliene sarei grata!!!
+1	@ManuelePalermo	@ManuelePalermo	PROPN	SP	_	13	nsubj	_	_
+2	@JJuventusGirl	@JJuventusGirl	PROPN	SP	_	1	flat:name	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+5	rimandano	rimandere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+6	anche	anche	ADV	B	_	10	advmod	_	_
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det:predet	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	altri	altro	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+10	bianconeri	bianconero	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+11	gliene	glenere	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	_
+12	sarei	essere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	grata	grato	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+15	!!	!!	PUNCT	FF	_	13	punct	_	SpacesAfter=\n
+

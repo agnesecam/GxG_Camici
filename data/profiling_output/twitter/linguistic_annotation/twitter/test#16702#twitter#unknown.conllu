@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Fabcontra @nannaenik @GiampaoloGalli Amici miei finche ' gli invitano in tutte le trasmissioni.
+1	@Fabcontra	@Fabcontra	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	@nannaenik	@nannaenik	NOUN	S	_	9	nsubj	_	_
+3	@GiampaoloGalli	@GiampaoloGalli	PROPN	SP	_	2	nmod	_	_
+4	Amici	Amici	PROPN	SP	_	3	flat:name	_	_
+5	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	nsubj	_	_
+6	finche	finca	ADV	BN	PronType=Neg	9	advmod	_	_
+7	'	'	PUNCT	FB	_	9	punct	_	_
+8	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	invitano	invitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	in	in	ADP	E	_	13	case	_	_
+11	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	13	det:predet	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	trasmissioni	trasmissione	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Che strano paese e' L'Italia
+1	Che	che	DET	DQ	PronType=Int	3	det	_	_
+2	strano	strano	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	paese	paese	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	SpaceAfter=No
+5	'	'	PUNCT	FB	_	7	punct	_	_
+6	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	Italia	Italia	PROPN	SP	_	3	conj	_	SpacesAfter=\n
+

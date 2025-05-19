@@ -1,0 +1,56 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Streana integrazione.
+1	Streana	Streana	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	integrazione	integrazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Giusta sarebbe la visita dei bimbi islamici nelle nostre cattedrali.
+1	Giusta	giusto	PROPN	SP	_	4	nsubj	_	_
+2	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	visita	visita	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	bimbi	bimbio	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	islamici	islamico	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+9-10	nelle	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	12	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	cattedrali	cattedrale	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Pane e salame per tutti http://www.
+1	Pane	pane	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	salame	salame	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+6	http://www	http://www	NOUN	S	_	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = lastampa.it/2016/04/10/ita lia/cronache/gli-alunni-in-gita-alla-moschea-di-ravenna-i-pullman-li-paga-la-comunit-islamica-0srJyfXx8WZOrKxTDyd9xJ/pagina.html …
+1	lastampa.it/2016/04/10/ita	lastampa.it/2016/04/10/ire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lia	lia	DET	DI	Number=Sing|PronType=Ind	3	det	_	SpaceAfter=No
+3	/cronache	/cronaco	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	SpaceAfter=No
+6	-alunni-in-gita-alla-moschea-di	-alunni-in-gita-alla-moschea-do	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	ravenna	ravenna	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	SpaceAfter=No
+11	-pullman-li	-pullman-le	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
+12	-paga-la	-paga-la	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+13	-comunit-	_	SYM	SYM	_	16	nmod	_	SpaceAfter=No
+14	islamica-0srJyfXx8WZOrKxTDyd9xJ	islamica-0srJyfXx8WZOrKxTDyd9xJ	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+16	pagina.html	pagina.html	NOUN	S	Number=Sing	12	obj	_	_
+17	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

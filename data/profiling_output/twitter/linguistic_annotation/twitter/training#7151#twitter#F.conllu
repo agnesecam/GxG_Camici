@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anatomia del capello in breve : essi crescono nella parte interna della cute e sono costituiti principalmente di... http:// fb.me/sF5303KP
+1	Anatomia	Anatomia	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+2-3	del	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	capello	capello	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	breve	breve	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	:	:	PUNCT	FC	_	1	punct	_	_
+8	essi	essi	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	crescono	crescere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10-11	nella	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	parte	parte	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	interna	interno	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	cute	cuta	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+17	e	e	CCONJ	CC	_	19	cc	_	_
+18	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
+19	costituiti	costituire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	conj	_	_
+20	principalmente	principalmente	ADV	B	_	19	advmod	_	_
+21	di...	di.	PUNCT	FS	_	22	punct	_	_
+22	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	9	punct	_	_
+25	fb.me/sF5303KP	fb.me/sF5303KP	PROPN	SP	_	9	conj	_	SpacesAfter=\n
+

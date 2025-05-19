@@ -1,0 +1,67 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tra queste ti piace qualcuna ?
+1	Tra	tra	ADP	E	_	2	case	_	_
+2	queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	4	obl	_	_
+3	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	4	nsubj	_	_
+6	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = — Si. https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM32DTVKAWRXJ6TCNEBPTKT67
+1	—	—	PUNCT	FF	_	2	punct	_	_
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+4	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	2	punct	_	_
+7	l.ask.fm/igoto/45DKECPW	l.ask.fm/igoto/45DKECPW	PROPN	SP	_	0	root	_	_
+8	7B667HQMHN2IG6NM32DTVKAWRXJ6TCNEBPTKT67	7B667HQMHN2IG6NM32DTVKAWRXJ6TCNEBPTKT67	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+
+# sent_id = 3
+# text = UY
+1	UY	Uy	CCONJ	CC	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = YWNCII2NUENOQRRKG3P6FI
+1	YWNCII2NUENOQRRKG3P6FI	YWNCII2NUENOQRRKG3P6FI	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = B
+1	B	B	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = I
+1	I	I	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	0	root	_	SpaceAfter=No
+
+# sent_id = 7
+# text = R
+1	R	R	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 8
+# text = X
+1	X	X	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 9
+# text = DSV
+1	DSV	DSV	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 10
+# text = 2T
+1	2T	2T	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+
+# sent_id = 11
+# text = RUY7O5MSP
+1	RUY7O5MSP	RUY7O5MSP	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 12
+# text = LULNAZX
+1	LULNAZX	LULNAZX	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+
+# sent_id = 13
+# text = WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA= …
+1	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	WREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA=	PROPN	SP	_	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

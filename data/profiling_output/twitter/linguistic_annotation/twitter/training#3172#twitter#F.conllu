@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lega_nord Certo avere un padre importante può aiutare a fa sembrare meno colpevole un delinquente irrecuperabile!
+1	@lega_nord	@lega_nord	CCONJ	CC	_	8	cc	_	_
+2	Certo	certo	ADV	B	_	3	advmod	_	_
+3	avere	avere	VERB	V	VerbForm=Inf	8	csubj	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	padre	padre	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	importante	importante	ADJ	A	Number=Sing	5	amod	_	_
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	aiutare	aiutare	VERB	V	VerbForm=Inf	0	root	_	_
+9	a	a	ADP	E	_	11	mark	_	_
+10	fa	fare	ADV	B	_	9	fixed	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+12	meno	meno	ADV	B	_	13	advmod	_	_
+13	colpevole	colpevole	ADJ	A	Number=Sing	11	xcomp	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	delinquente	delinquente	NOUN	S	Number=Sing	11	obj	_	_
+16	irrecuperabile	irrecuperabile	ADJ	A	Number=Sing	15	amod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L Eterno riposo Dona loro , o Signore, E splende ad essi La luce perpetua.
+1	L	L	PROPN	SP	_	0	root	_	_
+2	Eterno	eterno	PROPN	SP	_	1	flat:name	_	_
+3	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+4	Dona	dona	PROPN	SP	_	1	flat:name	_	_
+5	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	conj	_	_
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	o	o	CCONJ	CC	_	8	cc	_	_
+8	Signore	signore	PROPN	SP	_	5	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	E	e	CCONJ	CC	_	11	cc	_	_
+11	splende	splendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+12	ad	a	ADP	E	_	13	case	_	_
+13	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+14	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	luce	luce	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+16	perpetua	perpetuo	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Riposano in pace.… https://www.
+1	Riposano	riposare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	pace.…	pace.…	PUNCT	FF	_	4	punct	_	_
+4	https://www	https://www	NOUN	S	_	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = instagram.com/p/BDVt-BzRXnA/
+1	instagram.com/p/BDVt-BzRXnA/	instagram.com/p/BDVt-BzRXnA/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

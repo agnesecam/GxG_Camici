@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @adoroilvololove ho letto il tuo post in istagram ,,,hai fatto bene ,,, e giusto ciò che dici.
+1	@adoroilvololove	@adoroilvololove	ADV	B	_	3	advmod	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	letto	leggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	post	post	NOUN	S	_	3	obj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	istagram	istagram	NOUN	S	Gender=Masc	6	nmod	_	_
+9	,	,	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+10	,,hai	,,haio	NOUN	S	Gender=Masc|Number=Plur	6	appos	_	_
+11	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+12	bene	bene	ADV	B	_	11	advmod	_	_
+13	,	,	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	18	punct	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+18	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	conj	_	_
+19	che	che	PRON	PR	PronType=Rel	20	obj	_	_
+20	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Buonanotte by Maria
+1	Buonanotte	Buonanotta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	by	by	NOUN	S	_	1	compound	_	_
+3	Maria	Maria	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

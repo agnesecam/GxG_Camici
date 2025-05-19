@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DcCaramia dovrà arricchire l'organico ??
+1	@DcCaramia	@DcCaramio	ADV	B	_	3	advmod	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	arricchire	arricchire	VERB	V	VerbForm=Inf	0	root	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	organico	organico	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = E ò fattutat' ??
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	ò	e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	fattutat'	fattutata	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	_
+4	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mario_Giannetta @MarisaC65 il fidanzato della Guidi..c'è dunque una promessa di matrimonio!
+1	@Mario_Giannetta	@Mario_Giannetta	PROPN	SP	_	11	nsubj	_	_
+2	@MarisaC65	@MarisaC65	PROPN	SP	_	1	flat:name	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fidanzato	fidanzato	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Guidi..c'	Guidi..c'	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	dunque	dunque	ADV	B	_	11	advmod	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	promessa	promessa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	matrimonio	matrimonio	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = E giustamente,lei preparava la dote
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	giustamente,lei	giustamente,lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	preparava	preparare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	dote	dote	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	SpacesAfter=\n
+

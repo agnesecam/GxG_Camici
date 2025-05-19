@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ispazio come mai rilasciate recensioni di tweak senza un JB?
+1	@ispazio	@ispazio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	come	come	ADP	E	_	4	mark	_	_
+3	mai	mai	ADV	B	_	4	advmod	_	_
+4	rilasciate	rilasciare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	recensioni	recensione	NOUN	S	Gender=Fem|Number=Plur	4	xcomp	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	tweak	tweak	NOUN	S	Gender=Masc	5	nmod	_	_
+8	senza	senza	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	JB	JB	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Telefoni con firmware vecchio o avete un'anteprima?
+1	Telefoni	telefono	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	firmware	firmware	NOUN	S	Gender=Masc	1	nmod	_	_
+4	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	_
+6	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	anteprima	anteprima	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

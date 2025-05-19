@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La solidarietà al tempo dei social:
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	solidarietà	solidarietà	NOUN	S	Gender=Fem	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	social	social	NOUN	S	Gender=Masc	5	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = un clic, un filtro tricolore e si può tornare a fare quello che facevamo prima.
+1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	clic	clic	NOUN	S	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	filtro	filtro	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
+6	tricolore	tricolore	ADJ	A	Number=Sing	5	amod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+9	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	tornare	tornare	VERB	V	VerbForm=Inf	2	conj	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	fare	fare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obj	_	_
+14	che	che	PRON	PR	PronType=Rel	15	obj	_	_
+15	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
+16	prima	prima	ADV	B	_	15	advmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = #Bruxelles
+1	#Bruxelles	#Bruxelles	ADP	E	_	0	root	_	SpacesAfter=\n
+

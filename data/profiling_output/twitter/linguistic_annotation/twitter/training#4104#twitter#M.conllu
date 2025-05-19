@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...SE LA DOVRÀ GUADAGNARE LA CADREGA (porcellum-italicum) X PROSSIME, SPERO IMMINENTI elezioni.
+1	...SE	...SE	PROPN	SP	_	3	nsubj	_	_
+2	LA	lo	PROPN	SP	_	1	flat:name	_	_
+3	DOVRÀ	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	GUADAGNARE	guadagnare	PROPN	SP	_	3	obj	_	_
+5	LA	La	PROPN	SP	_	4	flat:name	_	_
+6	CADREGA	CADREGA	PROPN	SP	_	4	flat:name	_	_
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	porcellum-italicum	porcellum-italicum	NOUN	S	_	4	appos	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	X	X	SYM	SYM	_	3	obl	_	_
+11	PROSSIME	prossimo	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	10	punct	_	_
+13	SPERO	Spero	PROPN	SP	_	10	appos	_	_
+14	IMMINENTI	IMMINENTI	PROPN	SP	_	13	flat:name	_	_
+15	elezioni.	elezioni.	NOUN	S	_	3	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = minuscolo voluto https:// twitter.com/AnnaxNar/statu s/717345609162821633 …
+1	minuscolo	minuscolo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	voluto	voluto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	https:	https:	PUNCT	FC	_	2	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	2	punct	_	_
+6	twitter.com/AnnaxNar/statu	twitter.com/AnnaxNar/statu	PROPN	SP	_	2	nmod	_	_
+7	s/717345609162821633	s/717345609162821633	NUM	N	NumType=Card	6	nummod	_	_
+8	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

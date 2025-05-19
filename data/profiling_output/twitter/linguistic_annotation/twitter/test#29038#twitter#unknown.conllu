@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il nostro EA compara I prezzi in tempo reale,conosce il movimento dei prezzi all'interno di pochissimi secondi.Non avrete bisogno di sperare
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	EA	EA	PROPN	SP	_	4	nsubj	_	_
+4	compara	comparare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	prezzi	prezzo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+9	reale,conosce	reale,conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	movimento	movimento	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	prezzi	prezzo	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15-16	all'	_	_	_	_	_	_	_	SpaceAfter=No
+15	a	a	ADP	E	_	17	case	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+17	interno	interno	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	pochissimi	poco	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	20	det	_	_
+20	secondi.Non	secondi.Non	PROPN	SP	_	17	nmod	_	_
+21	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	9	advcl	_	_
+22	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+23	di	di	ADP	E	_	24	mark	_	_
+24	sperare	sperare	VERB	V	VerbForm=Inf	21	advcl	_	SpacesAfter=\n
+

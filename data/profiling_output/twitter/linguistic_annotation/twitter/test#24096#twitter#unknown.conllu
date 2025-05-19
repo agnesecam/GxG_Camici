@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ricordiamoci che siamo ospiti del pianeta.
+1	Ricordiamoci	Ricordiamoci	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ospiti	ospite	NOUN	S	Number=Plur	1	ccomp	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pianeta	pianeta	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = "un gesto di cortesia verso l’ambiente" #Repair Café http://www.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	gesto	gesto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	verso	verso	ADP	E	_	8	case	_	_
+7	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	3	punct	_	_
+10	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+11	Repair	Repair	PROPN	SP	_	3	nmod	_	_
+12	Café	Café	PROPN	SP	_	11	flat:name	_	_
+13	http://www	http://www	NOUN	S	_	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = ilcambiamento.it/decrescita_fel ice/bruxelles_buone_notizie.html …
+1	ilcambiamento.it/decrescita_fel	ilcambiamento.it/decrescita_fi	NOUN	S	Gender=Masc	0	root	_	_
+2	ice	ice	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	bruxelles_buone_notizie.html	bruxelles_buone_notizie.html	ADJ	A	Gender=Masc|Number=Sing	2	conj	_	_
+5	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

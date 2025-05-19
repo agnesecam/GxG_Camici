@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Sarx88 @Kuzzo74 ma avranno pagato il biglietto dello show o erano aggratis perché amici del capo??????
+1	@Sarx88	@Sarx88	PROPN	SP	_	5	nsubj	_	_
+2	@Kuzzo74	@Kuzzo74	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	avranno	avere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	pagato	pagare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	biglietto	biglietto	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8-9	dello	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	show	show	NOUN	S	Gender=Masc	7	nmod	_	_
+11	o	o	CCONJ	CC	_	13	cc	_	_
+12	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	aggratis	aggratis	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+14	perché	perché	SCONJ	CS	_	15	advmod	_	_
+15	amici	amico	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	capo	capo	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+22	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

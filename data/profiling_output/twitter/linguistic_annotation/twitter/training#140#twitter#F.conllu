@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma io ve lo dico che ancora oggi se ci fossero delle repliche in tv ritornerei sottossimo perché è LA SERIE #9YearsOfPatitoFeo
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ve	vere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dico	dico	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+7	ancora	ancora	ADV	B	_	8	advmod	_	_
+8	oggi	oggi	ADV	B	_	11	advmod	_	_
+9	se	se	SCONJ	CS	_	11	mark	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	11	expl	_	_
+11	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	_
+12-13	delle	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	repliche	replica	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	tv	tv	NOUN	S	Gender=Fem	14	nmod	_	_
+17	ritornerei	ritornare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+18	sottossimo	sottossimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+19	perché	perché	SCONJ	CS	_	21	mark	_	_
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	LA	La	PROPN	SP	_	18	advcl	_	_
+22	SERIE	serie	PROPN	SP	_	21	flat:name	_	_
+23	#9YearsOfPatitoFeo	#9YearsOfPatitoFeo	PROPN	SP	_	21	flat:name	_	SpacesAfter=\n
+

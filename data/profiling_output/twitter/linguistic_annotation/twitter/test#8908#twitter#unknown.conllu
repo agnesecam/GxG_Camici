@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sottoinchiesta in Italia il merito non é un costo!
+1	@sottoinchiesta	@sottoinchiestare	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Italia	Italia	PROPN	SP	_	1	nmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	merito	merito	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	costo	costo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Neppure un'opzione considerabile!
+1	Neppure	neppure	ADV	BN	PronType=Neg	3	advmod	_	_
+2	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	opzione	opzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	considerabile	considerabile	ADJ	A	Number=Sing	3	amod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ahimè vengo io a sturare gli scarichi x la metà
+1	Ahimè	ahimè	CCONJ	CC	_	2	cc	_	_
+2	vengo	venire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	sturare	sturare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	scarichi	scarico	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	x	x	SYM	SYM	_	7	nmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	metà	metà	NOUN	S	Gender=Fem	2	obj	_	SpacesAfter=\n
+

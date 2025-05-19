@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Escogitavo un piano "diabolico" dalla serie= Alessandra prendi i biglietti e non dire niente ai tuoi genitori.
+1	Escogitavo	Escogitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	piano	piano	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	diabolico	diabolico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	5	punct	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	11	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+9	serie=	serie=	PUNCT	FF	_	11	punct	_	_
+10	Alessandra	Alessandra	PROPN	SP	_	11	nsubj	_	_
+11	prendi	prendere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	obl	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	biglietti	biglietto	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	dire	dire	VERB	V	VerbForm=Inf	11	conj	_	_
+17	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	obj	_	_
+18-19	ai	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	21	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+20	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma naturalmente non lo feci
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	naturalmente	naturalmente	ADV	B	_	4	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+5	feci	feco	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	SpacesAfter=\n
+

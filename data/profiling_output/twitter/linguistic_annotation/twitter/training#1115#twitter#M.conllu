@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DinoCoppola1 @emanuelaneri14 ( Dalla serie:
+1	@DinoCoppola1	@DinoCoppolal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	@emanuelaneri14	@emanuelaneri14	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	(	(	PUNCT	FB	_	6	punct	_	_
+4-5	Dalla	_	_	_	_	_	_	_	_
+4	Da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	serie	seria	NOUN	S	Gender=Fem	2	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = La "Fantasia" è "Arte", esce dalla mente e si manifesta al mondo).
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	Fantasia	fantasia	PROPN	SP	_	7	nsubj	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	3	punct	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	Arte	arte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	7	punct	_	_
+10	esce	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	mente	mente	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	manifesta	manifestare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+17-18	al	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

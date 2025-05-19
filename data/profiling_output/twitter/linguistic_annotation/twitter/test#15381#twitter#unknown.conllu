@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @antorendina @FIAformulaE sinceramente pensavo che non ce l'ha facesse ...poi gran sorpasso.
+1	@antorendina	@antorendinare	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	@FIAformulaE	@FIAformulaE	PROPN	SP	_	1	nmod	_	_
+3	sinceramente	sinceramente	ADV	B	_	4	advmod	_	_
+4	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+7	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+11	...poi	...poi	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+12	gran	grande	ADJ	A	_	13	amod	_	_
+13	sorpasso	sorpasso	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SkySportMotoGP ....fuori Iannone dalla Ducati...ops....scusate.
+1	@SkySportMotoGP	@skysportmotogp	NOUN	S	_	0	root	_	_
+2	....fuori	....fuori	ADP	E	_	3	case	_	_
+3	Iannone	Iannone	PROPN	SP	_	1	nmod	_	_
+4-5	dalla	_	_	_	_	_	_	_	_
+4	da	da	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Ducati...ops....scusate.	Ducati...ops....scusate.	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....stavolta è stato Pedrosa....
+1	....stavolta	....stavolta	ADV	B	_	4	advmod	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	cop	_	_
+4	Pedrosa...	Pedrosa...	PROPN	SP	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = #fastintexas
+1	#fastintexas	#fastintexas	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

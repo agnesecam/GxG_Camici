@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @snowhiteoutgdr *le sorride dolcemente* lo so, ma questa é bella perché è mia *ride*
+1	@snowhiteoutgdr	@snowhiteoutgdr	ADP	E	_	2	case	_	_
+2	*le	*le	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	_
+3	sorride	sorridere	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	dolcemente*	dolcemente*	PUNCT	FF	_	6	punct	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	11	punct	_	_
+8	ma	ma	CCONJ	CC	_	11	cc	_	_
+9	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	11	nsubj	_	_
+10	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	bella	bello	ADJ	A	Gender=Fem|Number=Sing	6	conj	_	_
+12	perché	perché	SCONJ	CS	_	14	mark	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	mia	mio	PRON	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	advcl	_	_
+15	*ride*	*ride*	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

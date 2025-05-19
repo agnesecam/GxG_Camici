@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RaffaelloLupi certo prof. io mi riferivo ai casi estremi che ahimè non sono pochi, quanto meno in lombardia
+1	@RaffaelloLupi	@RaffaelloLupi	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+2	certo	certo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	prof	prof	NOUN	S	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	expl	_	_
+7	riferivo	riferivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
+8-9	ai	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	casi	caso	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+11	estremi	estremio	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+12	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+13	ahimè	ahimè	INTJ	I	_	16	discourse	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	acl:relcl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18	quanto	quanto	ADV	B	_	19	advmod	_	_
+19	meno	meno	ADV	B	_	21	advmod	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	lombardia	lombardia	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpacesAfter=\n
+

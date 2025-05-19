@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che prima o poi avremmo dovuto inciampare, è fuori di dubbio;
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	prima	prima	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	0	root	_	_
+3	o	o	CCONJ	CC	_	7	cc	_	_
+4	poi	poi	ADV	B	_	7	advmod	_	_
+5	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux	_	_
+7	inciampare	inciampare	VERB	V	VerbForm=Inf	2	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	fuori	fuori	ADV	B	_	12	case	_	_
+11	di	di	ADP	E	_	10	fixed	_	_
+12	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+13	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = certo, non ce lo aspettavamo ieri.
+1	certo	certo	ADV	B	_	6	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	aspettavamo	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	ieri	ieri	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Si dovrà ... http:// fb.me/4zBwz4Zzc
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	_	_
+3	...	...	PUNCT	FF	_	4	punct	_	_
+4	http:	http:	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	_
+7	fb.me/4zBwz4Zzc	fb.me/4zBwz4Zzc	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

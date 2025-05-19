@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giucruciani scappa , coniglio, scappa.
+1	@giucruciani	@giucruciano	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	scappa	scappa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	coniglio	coniglio	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	scappa	scappa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sei una figura di merda vivente che dovrà scappare ancora tante volte...
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	figura	figura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	merda	merda	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	vivente	vivente	ADJ	A	Number=Sing	5	amod	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	scappare	scappare	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+10	ancora	ancora	ADV	B	_	9	advmod	_	_
+11	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	volte...	volte...	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpacesAfter=\n
+

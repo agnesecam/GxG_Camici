@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @avvgbongiorno Finito!Bellissimo!
+1	@avvgbongiorno	@avvgbongiorno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Finito	Finito	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	!Bellissimo	!Bellissimo	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Vero poca coesione donne.
+1	Vero	vero	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	poca	poco	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	coesione	coesione	NOUN	S	Gender=Fem|Number=Sing	1	xcomp	_	_
+4	donne	donna	NOUN	S	Gender=Fem|Number=Plur	3	compound	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = "A casa cape quantu vole u patrune" ma a volta anche "a patruna" Qualcuna ce la fa
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	A	a	ADP	E	_	3	case	_	_
+3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+4	cape	capo	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+5	quantu	quantu	ADP	E	_	6	case	_	_
+6	vole	vole	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+7	u	u	ADP	E	_	8	case	_	_
+8	patrune	patruno	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	3	punct	_	_
+10	ma	ma	CCONJ	CC	_	21	cc	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	volta	volta	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+13	anche	anche	ADV	B	_	16	advmod	_	_
+14	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+15	a	a	ADP	E	_	16	case	_	_
+16	patruna	patruna	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	16	punct	_	_
+18	Qualcuna	Qualcuna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	21	nsubj	_	_
+19	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	21	iobj	_	_
+20	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	iobj	_	_
+21	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

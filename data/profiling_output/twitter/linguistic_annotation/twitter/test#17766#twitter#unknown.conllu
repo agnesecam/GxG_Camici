@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SkySport colpire il più forte per far saltare il banco e colpire il più fragile umanamente....
+1	@SkySport	@SkySport	ADV	B	_	2	advmod	_	_
+2	colpire	colpire	VERB	V	VerbForm=Inf	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	forte	forte	ADJ	A	Number=Sing	2	xcomp	_	_
+6	per	per	ADP	E	_	7	mark	_	_
+7	far	fare	VERB	V	VerbForm=Inf	5	advcl	_	_
+8	saltare	saltare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	banco	banco	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	colpire	colpire	VERB	V	VerbForm=Inf	8	conj	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	fragile	fragile	ADJ	A	Number=Sing	16	amod	_	_
+16	umanamente...	umanamente.	NUM	N	NumType=Card	12	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = fecero bingo.
+1	fecero	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	bingo	binire	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #GiustiziaperMarco .
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	GiustiziaperMarco	GiustiziaperMarco	PROPN	SP	_	0	root	_	_
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

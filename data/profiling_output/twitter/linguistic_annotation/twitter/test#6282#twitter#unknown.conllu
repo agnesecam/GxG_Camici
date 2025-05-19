@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @TrinacriaNapoli .
+1	@TrinacriaNapoli	@TrinacriaNapoli	PROPN	SP	_	0	root	_	_
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Fossimo stati vicini ti avrei invitato a casa mia .
+1	Fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+2	stati	essere	AUX	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	cop	_	_
+3	vicini	vicino	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+5	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	invitato	invitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+9	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Questa è tutta roba che abbonda.
+1	Questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	tutta	tutto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	roba	roba	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	abbonda	abbondare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Se rimanessi senza darei di testa.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	rimanessi	rimanettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	senza	senza	ADP	E	_	4	case	_	_
+4	darei	dareo	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	testa	testa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

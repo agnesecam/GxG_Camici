@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Callen dovrà dire a #Hetty che la sua casa ha subito qualche danno.....
+1	#Callen	#Callen	ADV	B	_	3	advmod	_	_
+2	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	#Hetty	#Hetty	PROPN	SP	_	3	obl	_	_
+6	che	che	SCONJ	CS	_	11	mark	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	casa	casa	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	subito	subito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+12	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	13	det	_	_
+13	danno.....	danno.....	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+
+# sent_id = 2
+# text = Poveraccio !!!!
+1	Poveraccio	Poveraccio	PROPN	SP	_	0	root	_	_
+2	!!!	!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #NCISLA
+1	#NCISLA	#NCISLA	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

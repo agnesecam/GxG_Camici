@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fedefederossi @Benji_Mascolo tranquillo fede qualcuna te la passo io i'm boss, Federico's boss
+1	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+2	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	4	nsubj	_	_
+3	tranquillo	tranquillo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	fede	fede	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+7	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	passo	passo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	SpaceAfter=No
+11	'	'	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	m	metro	NOUN	S	Gender=Masc	15	obj	_	_
+13	boss	boss	NOUN	S	Gender=Masc	12	compound	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	12	punct	_	_
+15	Federico	Federico	PROPN	SP	_	8	obl	_	SpaceAfter=No
+16	's	's	PART	PART	_	15	case	_	_
+17	boss	boss	NOUN	S	Gender=Masc	4	xcomp	_	SpacesAfter=\n
+

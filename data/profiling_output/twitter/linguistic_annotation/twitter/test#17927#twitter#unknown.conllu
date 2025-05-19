@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non so se l' avevate capito, ma è ripartito #MuseumWeek2016 , fosse mai che vi era sfuggita la cosa, ve la ridico!
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	avevate	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	10	punct	_	_
+8	ma	ma	CCONJ	CC	_	10	cc	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	ripartito	ripartire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+11	#MuseumWeek2016	#MuseumWeek2016	PROPN	SP	_	10	obj	_	_
+12	,	,	PUNCT	FF	_	18	punct	_	_
+13	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+14	mai	mai	ADV	B	_	18	advmod	_	_
+15	che	che	SCONJ	CS	_	18	mark	_	_
+16	vi	vi	ADV	B	_	18	advmod	_	_
+17	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	sfuggita	sfuggita	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	22	punct	_	_
+22	ve	vere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	ridico	ridico	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
+25	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = https:// twitter.com/twitteritalia/ status/714351014032326656 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/twitteritalia/	twitter.com/twitteritalia/	PUNCT	FF	_	5	punct	_	_
+5	status/714351014032326656	status/714351014032326656	SYM	X	_	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

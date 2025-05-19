@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @R_Santopaolo 3anni di polemiche strumentali #M5S non sa fare neppure opposizione seria ed efficace, rincorre solo proteste a vanvera.
+1	@R_Santopaolo	@R_Santopaolo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	3anni	3anne	NOUN	S	Gender=Masc	8	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	polemiche	polemica	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+5	strumentali	strumentale	ADJ	A	Number=Plur	4	amod	_	_
+6	#M5S	#M5S	PROPN	SP	_	4	nmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	neppure	neppure	ADV	BN	PronType=Neg	11	advmod	_	_
+11	opposizione	opposizione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	seria	serio	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+13	ed	e	CCONJ	CC	_	14	cc	_	_
+14	efficace	efficace	ADJ	A	Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	rincorre	rincorre	VERB	V	VerbForm=Inf	8	conj	_	_
+17	solo	solo	ADV	B	_	18	advmod	_	_
+18	proteste	protesta	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+19	a	a	ADP	E	_	20	case	_	_
+20	vanvera	vanvera	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

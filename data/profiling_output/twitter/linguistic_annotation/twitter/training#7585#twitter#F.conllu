@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Essi hanno un vestito celeste #KCA #VotaTheKolors
+1	Essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	vestito	vestito	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	celeste	celeste	ADJ	A	Number=Sing	4	amod	_	_
+6	#KCA	#KCA	PROPN	SP	_	4	nmod	_	_
+7	#VotaTheKolors	#VotaTheKolors	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n
+

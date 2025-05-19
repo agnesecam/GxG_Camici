@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ValeYellow46 grande vale se nn cambiavi moto gliele davi a marquez!
+1	@ValeYellow46	@ValeYellow46	NUM	N	NumType=Card	3	nummod	_	_
+2	grande	grande	ADJ	A	Number=Sing	3	amod	_	_
+3	vale	valere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	nn	nno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	cambiavi	cambiavo	NOUN	S	Gender=Masc|Number=Plur	3	advcl	_	_
+7	moto	moto	NOUN	S	Gender=Fem	6	nmod	_	_
+8	gliele	gliele	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+9	davi	dave	ADV	B	_	11	advmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	marquez	marquez	NOUN	S	Gender=Masc	7	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ste gomme sono quello che sono...
+1	Ste	Sto	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	gomme	gomma	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+6	sono...	sono.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

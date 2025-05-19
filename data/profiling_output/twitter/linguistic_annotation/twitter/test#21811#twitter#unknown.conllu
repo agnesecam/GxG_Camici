@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ieri mi sono addormentata alle 20.30 stanca morta sul divano (tanto le puntate stavano annoiando) mi sveglio e scopro tutto sto trash #isola
+1	Ieri	ieri	ADV	B	_	4	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+3	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	addormentata	addormentare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	20.30	20.30	NUM	N	NumType=Card	8	nummod	_	_
+8	stanca	stanca	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+9	morta	morire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+10-11	sul	_	_	_	_	_	_	_	_
+10	su	su	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	divano	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
+13	(	(	PUNCT	FB	_	18	punct	_	SpaceAfter=No
+14	tanto	tanto	ADV	B	_	18	advmod	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	puntate	puntato	NOUN	S	Gender=Fem|Number=Plur	18	nsubj	_	_
+17	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	annoiando	annoiare	VERB	V	VerbForm=Ger	12	advcl	_	SpaceAfter=No
+19	)	)	PUNCT	FB	_	18	punct	_	_
+20	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	21	obj	_	_
+21	sveglio	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	xcomp	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	scopro	scoprire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	conj	_	_
+24	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	23	obj	_	_
+25	sto	sto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+26	trash	trash	ADJ	A	_	27	amod	_	_
+27	#isola	#isolo	NOUN	S	_	25	obj	_	SpacesAfter=\n
+

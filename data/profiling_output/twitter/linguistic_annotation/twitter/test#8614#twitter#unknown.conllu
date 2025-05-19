@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Scegli un lavoro che ami, e non dovrai lavorare neppure un giorno in vita tua." - Confucio
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Scegli	scegliere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	ami	amare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	11	punct	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	dovrai	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	11	aux	_	_
+11	lavorare	lavorare	VERB	V	VerbForm=Inf	2	conj	_	_
+12	neppure	neppure	ADV	BN	PronType=Neg	11	advmod	_	_
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+15	in	in	ADP	E	_	16	case	_	_
+16	vita	vita	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	2	punct	_	_
+20	-	-	PUNCT	FF	_	2	punct	_	_
+21	Confucio	Confucio	PROPN	SP	_	2	obl	_	SpacesAfter=\n
+

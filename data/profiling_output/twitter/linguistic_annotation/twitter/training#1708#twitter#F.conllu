@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sebaquila Eppure stanno fortemente scuotendo le nostre fondamenta....e noi lo permettiamo QUESTO È GRAVISSIMO..sordi e ciechi..ciao Seba
+1	@sebaquila	@sebaquila	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Eppure	eppure	CCONJ	CC	_	5	cc	_	_
+3	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	fortemente	fortemente	ADV	B	_	5	advmod	_	_
+5	scuotendo	scuotere	VERB	V	VerbForm=Ger	11	advcl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	fondamenta....e	fondamenta....e	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	permettiamo	permettere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+12	QUESTO	questo	PROPN	SP	_	11	xcomp	_	_
+13	È	È	PROPN	SP	_	12	flat:name	_	_
+14	GRAVISSIMO..sordi	GRAVISSIMO..sordo	PROPN	SP	_	12	flat:name	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	ciechi..ciao	ciechi..ciao	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	_
+17	Seba	Seba	PROPN	SP	_	16	nmod	_	SpacesAfter=\n
+

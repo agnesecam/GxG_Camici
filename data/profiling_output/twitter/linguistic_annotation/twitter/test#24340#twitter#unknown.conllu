@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MassimoCorsaro Che ne pensa On. stasera al Bayern quanti gliene facciamo?
+1	@MassimoCorsaro	@MassimoCorsarare	ADP	E	_	3	case	_	_
+2	Che	che	DET	DQ	PronType=Int	3	det	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	12	iobj	_	_
+4	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	parataxis	_	_
+5	On	on	PROPN	SP	_	4	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	_
+7	stasera	stasera	ADV	B	_	12	advmod	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Bayern	Bayern	PROPN	SP	_	12	obl	_	_
+11	quanti	quanto	PRON	PR	Gender=Masc|Number=Plur|PronType=Rel	12	obj	_	_
+12	gliene	glenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	ccomp	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	12	punct	_	_
+
+# sent_id = 2
+# text = 3 gli saranno sufficienti?
+1	3	3	NUM	N	NumType=Card	4	nummod	_	_
+2	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	saranno	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+4	sufficienti	sufficiente	ADJ	A	Number=Plur	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

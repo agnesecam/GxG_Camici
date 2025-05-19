@@ -1,0 +1,50 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mario Vegetti:
+1	Mario	Mario	PROPN	SP	_	0	root	_	_
+2	Vegetti	Vegetti	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = «Il mondo antico fu teatro privilegiato del libero pensiero» http://www.
+1	«	«	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	antico	antico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+6	teatro	teatro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	privilegiato	privilegiato	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	libero	libero	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+12	»	»	PUNCT	FB	_	11	punct	_	_
+13	http://www	http://www	NOUN	S	_	11	compound	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = corriere.it/video-articoli /2016/04/08/mario-vegetti-filosofia-anticae-laboratorio-idee-nate-libere/36c2cf80-fd90-11e5-820b-500d9d51558a.shtml …
+1	corriere.it/video-articoli	corriere.it/video-articolo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	/2016	/2016	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	04	04	NUM	N	NumType=Card	2	compound	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	08	08	NUM	N	NumType=Card	4	compound	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	mario	mario	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	vegetti	vegetto	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	filosofia-anticae	filosofia-anticae	NOUN	S	Gender=Masc|Number=Sing	10	compound	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+14	laboratorio	laboratorio	NOUN	S	Gender=Masc|Number=Sing	10	compound	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	idee-nate	idee-nare	NOUN	S	Gender=Fem|Number=Plur	14	compound	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+18	libere/36c2cf80	libere/36c2cf80	NUM	N	NumType=Card	10	compound	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+20	fd90-11e5-820b-500d9d51558a.shtml	fd90-11e5-820b-500d9d51558a.shtml	NOUN	S	Gender=Masc|Number=Sing	18	compound	_	_
+21	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

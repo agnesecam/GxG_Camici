@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pianista gavemo?
+1	Pianista	pianista	NOUN	S	Number=Sing	0	root	_	_
+2	gavemo	gave	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Per la serie "sono 3 giorni che le prove era uguale se non le facevamo ".
+1	Per	per	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	serie	serie	NOUN	S	Gender=Fem	7	obl	_	_
+4	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	3	3	NUM	N	NumType=Card	7	nummod	_	_
+7	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+8	che	che	SCONJ	CS	_	12	mark	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	prove	prova	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	_
+11	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	uguale	uguale	ADJ	A	Number=Sing	7	advcl	_	_
+13	se	se	SCONJ	CS	_	16	mark	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+17	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MODA:
+1	MODA	Moda	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = COME SEMBRARE PIU’ ALTA http:// amway-yourbeauty.it/2016/03/21/mod a-come-sembrare-piu-alta/#.VwJEdqMF6Qk.twitter …
+1	COME	come	ADP	E	_	2	case	_	_
+2	SEMBRARE	sembrare	PROPN	SP	_	0	root	_	_
+3	PIU’	PIUo	PROPN	SP	_	2	flat:name	_	_
+4	ALTA	Alta	PROPN	SP	_	2	nmod	_	_
+5	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	amway-yourbeauty.it/2016/03/21/mod	amway-yourbeauty.it/2016/03/21/mod	NOUN	S	Gender=Fem	4	conj	_	_
+9	a-come-sembrare-piu-alta	a-come-sembrare-piu-alto	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	#	#	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	.VwJEdqMF6Qk.twitter	.VwJEdqMF6Qk.twitter	PROPN	SP	_	4	conj	_	_
+13	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

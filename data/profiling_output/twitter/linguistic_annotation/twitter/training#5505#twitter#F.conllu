@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FranzCurci Beh ma vuol dire che in un modo o nell'altro qualcuna gli dà credito...
+1-2	@FranzCurci	_	_	_	_	_	_	_	_
+1	@FranzCur	@FranzCure	ADV	B	_	6	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+3	Beh	beh	PROPN	SP	_	2	flat:name	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+7	che	che	SCONJ	CS	_	17	mark	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	modo	modo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+11	o	o	CCONJ	CC	_	17	cc	_	_
+12-13	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+12	in	in	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	obl	_	_
+15	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	17	nsubj	_	_
+16	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	iobj	_	_
+17	dà	dà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+18	credito...	credito.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @london_girl93 però pensiamo pure ad Anne e a tutte le persone che stavano nelle foto in cui Harry non c'era...
+1	@london_girl93	@london_girl93	NUM	N	NumType=Range	3	nummod	_	_
+2	però	però	ADV	B	_	3	advmod	_	_
+3	pensiamo	pensare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pure	pure	ADV	B	_	3	advmod	_	_
+5	ad	a	ADP	E	_	6	case	_	_
+6	Anne	Anne	PROPN	SP	_	3	obl	_	_
+7	e	e	CCONJ	CC	_	11	cc	_	_
+8	a	a	ADP	E	_	11	case	_	_
+9	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	11	det:predet	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	persone	persona	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	stavano	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	acl:relcl	_	_
+14-15	nelle	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	foto	foto	NOUN	S	Gender=Fem	13	obl	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	cui	cui	PRON	PR	PronType=Rel	19	obl	_	_
+19	Harry	Harry	PROPN	SP	_	13	obl	_	_
+20	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+21	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	SpaceAfter=No
+22	era...	era.	PUNCT	FS	_	19	punct	_	SpacesAfter=\n
+

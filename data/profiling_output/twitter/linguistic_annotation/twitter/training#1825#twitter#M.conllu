@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Comunque in Guatemala, viste le nostre condizioni , si sta meglio, non vi frusciate proprio
+1	Comunque	comunque	ADV	B	_	5	advmod	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Guatemala	Guatemala	PROPN	SP	_	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	viste	vedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	advcl	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	condizioni	condizione	NOUN	S	Gender=Fem|Number=Plur	11	nsubj	_	_
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	meglio	meglio	ADV	B	_	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	16	punct	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	16	obj	_	_
+16	frusciate	frusciare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_
+17	proprio	proprio	ADV	B	_	11	advmod	_	SpacesAfter=\n
+

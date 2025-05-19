@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PisuDavide si è appunto buttato prendendo la palla con la mano e buttandola dentro
+1	@PisuDavide	@PisuDavide	PROPN	SP	_	5	nsubj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	appunto	appunto	ADV	B	_	5	advmod	_	_
+5	buttato	buttato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	prendendo	prendere	VERB	V	VerbForm=Ger	5	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	palla	palla	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mano	mano	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	buttandola	buttandola	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	_
+14	dentro	dentro	ADV	B	_	5	advmod	_	SpacesAfter=\n
+

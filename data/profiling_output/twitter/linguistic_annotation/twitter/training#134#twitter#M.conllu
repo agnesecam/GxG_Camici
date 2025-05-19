@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fede_bianconera @Anna_1897 @pisto_gol @Sabatini @gobboveroefiero ma solo perché il bravo @MaxCallegari l'ha fulminato con lo sguardo.
+1	@fede_bianconera	@fede_bianconerare	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	@Anna_1897	@Anna_1897	PROPN	SP	_	0	root	_	_
+3	@pisto_gol	@pisto_goal	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	@Sabatini	@Sabatini	PROPN	SP	_	2	flat:name	_	_
+5	@gobboveroefiero	@gobboveroefiero	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	ma	ma	CCONJ	CC	_	14	cc	_	_
+7	solo	solo	ADV	B	_	14	advmod	_	_
+8	perché	perché	SCONJ	CS	_	14	mark	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	bravo	bravo	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+11	@MaxCallegari	@MaxCallegari	PROPN	SP	_	10	nmod	_	_
+12	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No
+13	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	fulminato	fulminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+15	con	con	ADP	E	_	17	case	_	_
+16	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	sguardo	sguardo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

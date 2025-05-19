@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le scuse che trovano i bambini per fare amicizia sono molto più belle delle nostre , e son tutte segrete.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	scuse	scusa	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	trovano	trovare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	4	advcl	_	_
+9	amicizia	amicizia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	molto	molto	ADV	B	_	12	advmod	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	belle	bello	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+14-15	delle	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	obl	_	_
+17	,	,	PUNCT	FF	_	21	punct	_	_
+18	e	e	CCONJ	CC	_	21	cc	_	_
+19	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+20	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	21	det	_	_
+21	segrete	segrete	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = Ho sentito la parola sommergibile.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sentito	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	parola	parola	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	sommergibile	sommergibile	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

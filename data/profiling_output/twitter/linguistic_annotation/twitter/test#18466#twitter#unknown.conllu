@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Etzi2891 @Lega_B
+1	@Etzi2891	@Etzi2891	PROPN	SP	_	0	root	_	_
+2	@Lega_B	@Lega_B	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 2
+# text = Avevi ragione ...
+1	Avevi	Aveve	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	...	...	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

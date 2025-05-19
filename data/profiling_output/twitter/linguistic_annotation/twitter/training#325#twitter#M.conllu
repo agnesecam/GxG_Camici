@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SimoTarantino @FcInterNewsit Pensa che se avessimo vinto li avremmo inguaiati a lottare per non retrocedere davvero.Peccato
+1	@SimoTarantino	@SimoTarantino	PROPN	SP	_	3	nsubj	_	_
+2	@FcInterNewsit	@FcInterNewsit	PROPN	SP	_	1	flat:name	_	_
+3	Pensa	pensare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+9	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	inguaiati	inguaiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	_
+11	a	a	ADP	E	_	12	mark	_	_
+12	lottare	lottare	VERB	V	VerbForm=Inf	10	xcomp	_	_
+13	per	per	ADP	E	_	15	mark	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	retrocedere	retrocedere	VERB	V	VerbForm=Inf	12	advcl	_	_
+16	davvero.Peccato	davvero.Peccato	PROPN	SP	_	15	obj	_	SpacesAfter=\n
+

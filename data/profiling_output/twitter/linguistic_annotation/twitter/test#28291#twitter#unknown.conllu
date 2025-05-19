@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #sefosseveroamore non sarei più io e tu.
+1	#sefosseveroamore	#sefosseveroamore	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	sarei	essere	AUX	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	tu.	tu.	NOUN	S	_	5	conj	_	_
+
+# sent_id = 2
+# text = .. saremmo noi.
+1	.	.	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	saremmo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

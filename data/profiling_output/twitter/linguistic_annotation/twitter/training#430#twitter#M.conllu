@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Conte, il miglior tecnico italiano, non deve dire che "i giocatori sono questi".
+1	Conte	Conte	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	miglior	migliore	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+5	tecnico	tecnico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+11	che	che	SCONJ	CS	_	16	mark	_	_
+12	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	giocatori	giocatore	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+15	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	10	ccomp	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Se avessimo dei campioni non avremmo lui ct strapagato.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	campioni	campione	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	avremmo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+9	ct	ct	NOUN	S	Gender=Masc	7	obj	_	_
+10	strapagato	strapagato	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lega_nord dunque siam sott attacco terroristico in europa e ipocrit buonsiti li f an venir qui
+1	@lega_nord	@lega_nord	X	SW	Foreign=Yes	0	root	_	_
+2	dunque	dunque	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	siam	siam	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	sott	sott	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	attacco	attacco	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+6	terroristico	terroristico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	europa	europo	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	ipocrit	ipocrit	ADV	B	_	11	advmod	_	_
+11	buonsiti	buonsito	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	conj	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
+13	f	f	ADP	E	_	15	mark	_	_
+14	an	an	ADV	B	_	15	advmod	_	_
+15	venir	venire	VERB	V	VerbForm=Inf	5	acl	_	_
+16	qui	qui	ADV	B	_	15	advmod	_	SpacesAfter=\n
+

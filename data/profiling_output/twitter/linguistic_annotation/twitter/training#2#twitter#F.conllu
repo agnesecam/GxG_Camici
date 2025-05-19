@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Proprio perché non perdete mai occasione per dimostrare quello che (non) siete, affermo che sono… https://www.
+1	Proprio	proprio	ADV	B	_	4	advmod	_	_
+2	perché	perché	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	perdete	perdere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mai	mai	ADV	B	_	4	advmod	_	_
+6	occasione	occasione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	dimostrare	dimostrare	VERB	V	VerbForm=Inf	6	acl	_	_
+9	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	non	non	ADV	BN	PronType=Neg	16	advmod	_	SpaceAfter=No
+13	)	)	PUNCT	FB	_	12	punct	_	_
+14	siete	sieta	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	16	aux	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	affermo	affermo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+17	che	che	SCONJ	CS	_	19	mark	_	_
+18	sono…	sono…	PUNCT	FF	_	19	punct	_	_
+19	https://www	https://www	NOUN	S	_	16	ccomp	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = instagram.com/p/BECe41HiIzm/
+1	instagram.com/p/BECe41HiIzm/	instagram.com/p/BECe41HiIzm/	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

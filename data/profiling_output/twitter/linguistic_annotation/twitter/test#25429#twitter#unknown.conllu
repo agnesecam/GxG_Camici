@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @giov_caccamo Inoltre in bocca al lupo per la nuova avventura al fianco della sublime @CCaselliSugar su @RaiRadio2 #NessunoMiPuòGiudicare
+1	@giov_caccamo	@giov_caccamo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+2	Inoltre	inoltre	ADV	B	_	1	advmod	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+8	per	per	ADP	E	_	11	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	avventura	avventura	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fianco	fianco	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	sublime	sublime	ADJ	A	Number=Sing	18	amod	_	_
+18	@CCaselliSugar	@CCaselliSugar	PROPN	SP	_	14	nmod	_	_
+19	su	su	ADP	E	_	20	case	_	_
+20	@RaiRadio2	@RaiRadio2	PROPN	SP	_	18	nmod	_	_
+21	#	#	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+22	NessunoMiPuò	NessunoMiPotere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	SpaceAfter=No
+23	Giudicare	Giudicare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

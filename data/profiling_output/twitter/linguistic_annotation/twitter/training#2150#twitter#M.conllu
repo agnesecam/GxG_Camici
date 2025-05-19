@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gianmaria Testa, DENTRO LA TASCA DI UN QUALUNQUE MATTINO https:// youtu.be/4f_4HW340Cw via @YouTube
+1	Gianmaria	Gianmaria	PROPN	SP	_	0	root	_	_
+2	Testa	testa	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	DENTRO	dentro	PROPN	SP	_	1	conj	_	_
+5	LA	La	PROPN	SP	_	4	flat:name	_	_
+6	TASCA	tasca	PROPN	SP	_	4	flat:name	_	_
+7	DI	Di	ADP	E	_	8	case	_	_
+8	UN	Un	PROPN	SP	_	4	nmod	_	_
+9	QUALUNQUE	qualunque	PROPN	SP	_	8	flat:name	_	_
+10	MATTINO	mattino	PROPN	SP	_	8	nmod	_	_
+11	https:	https:	PUNCT	FC	_	10	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	10	punct	_	_
+14	youtu.be/4f_4HW340Cw	youtu.be/4f_4HW340Cw	PROPN	SP	_	10	nmod	_	_
+15	via	via	ADV	B	_	4	advmod	_	_
+16	@YouTube	@YouTube	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

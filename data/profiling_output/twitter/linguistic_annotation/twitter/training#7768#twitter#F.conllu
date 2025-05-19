@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quindi #TempaRossa , per #Renzi serve per esportare #petrolio ; le opere strategiche servono a non far sniffare #Pittella ?
+1	Quindi	quindi	CCONJ	CC	_	6	cc	_	_
+2	#TempaRossa	#TempaRosso	PROPN	SP	_	6	nsubj	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	#Renzi	#Renzi	PROPN	SP	_	6	obl	_	_
+6	serve	servire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	per	per	ADP	E	_	8	mark	_	_
+8	esportare	esportare	VERB	V	VerbForm=Inf	6	advcl	_	_
+9	#petrolio	#petrolio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	;	;	PUNCT	FC	_	6	punct	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	opere	opera	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	_
+13	strategiche	strategico	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	_
+14	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+15	a	a	ADP	E	_	17	mark	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	far	fare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+18	sniffare	sniffare	VERB	V	VerbForm=Inf	17	ccomp	_	_
+19	#Pittella	#Pittella	PROPN	SP	_	18	obj	_	_
+20	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = dunque sniffa?
+1	dunque	dunque	ADV	B	_	2	advmod	_	_
+2	sniffa	sniffare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

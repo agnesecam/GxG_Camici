@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caspita.
+1	Caspita	Caspita	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E io che credevo che il peggio l' avessimo toccato con Mengele, Stalin, Mao, Hitler etc...e invece no https:// twitter.com/giod_arco/stat us/718323872098095104 …
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	credevo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	acl:relcl	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	peggio	peggio	NOUN	S	Gender=Masc	10	nsubj	_	_
+8	l'	il	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+9	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	toccato	toccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+11	con	con	ADP	E	_	12	case	_	_
+12	Mengele	Mengele	PROPN	SP	_	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	14	punct	_	_
+14	Stalin	Stalin	PROPN	SP	_	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	16	punct	_	_
+16	Mao	Mao	PROPN	SP	_	12	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	18	punct	_	_
+18	Hitler	Hitler	PROPN	SP	_	12	conj	_	_
+19	etc...e	etc...e	ADV	B	_	18	advmod	_	_
+20	invece	invece	ADV	B	_	19	advmod	_	_
+21	no	no	ADV	BN	PronType=Neg	20	advmod	_	_
+22	https:	https:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+24	/	/	PUNCT	FF	_	12	punct	_	_
+25	twitter.com/giod_arco/stat	twitter.com/giod_arco/stare	NOUN	S	Gender=Masc	10	obj	_	_
+26	us/718323872098095104	us/718323872098095104	NUM	N	NumType=Card	25	nummod	_	_
+27	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

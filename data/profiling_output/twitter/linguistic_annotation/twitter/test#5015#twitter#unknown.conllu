@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #TrevisoDaVivere :
+1	#TrevisoDaVivere	#TrevisoDaVivere	VERB	V	VerbForm=Inf	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Il 7 aprile 1944 Treviso fu colpita dai bombardamenti aerei, che distrussero la maggior parte... http:// fb.me/4rnttLlZp
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	7	7	NUM	N	NumType=Card	7	obl	_	_
+3	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
+4	1944	1944	NUM	N	NumType=Card	2	flat	_	_
+5	Treviso	Treviso	PROPN	SP	_	7	nsubj:pass	_	_
+6	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	colpita	colpire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8-9	dai	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	bombardamenti	bombardamento	NOUN	S	Gender=Masc|Number=Plur	7	obl:agent	_	_
+11	aerei	aereo	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	10	punct	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	distrussero	distrure	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	maggior	maggiore	ADJ	A	Degree=Cmp|Number=Sing	17	amod	_	_
+17	parte...	parte...	NOUN	S	_	14	obj	_	_
+18	http:	http:	PUNCT	FC	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	17	punct	_	_
+21	fb.me/4rnttLlZp	fb.me/4rnttLlZp	PROPN	SP	_	7	nmod	_	SpacesAfter=\n
+

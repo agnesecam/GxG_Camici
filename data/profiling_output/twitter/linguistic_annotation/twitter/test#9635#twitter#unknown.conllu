@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quel momento in cui fai una torta salata con la mortadella nascosta in mezzo, perché se è lontano dagli occhi è lontano dai sensi di colpa
+1	Quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	momento	momento	NOUN	S	Gender=Masc|Number=Sing	24	nsubj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	cui	cui	PRON	PR	PronType=Rel	5	obl	_	_
+5	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	torta	torta	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	salata	salato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+9	con	con	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mortadella	mortadella	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+12	nascosta	nascosto	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	2	punct	_	_
+16	perché	perché	ADV	B	_	19	advmod	_	_
+17	se	se	SCONJ	CS	_	19	mark	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	24	advcl	_	_
+20-21	dagli	_	_	_	_	_	_	_	_
+20	da	da	ADP	E	_	22	case	_	_
+21	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	_
+23	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+24	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+25-26	dai	_	_	_	_	_	_	_	_
+25	da	da	ADP	E	_	27	case	_	_
+26	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
+27	sensi	senso	NOUN	S	Gender=Masc|Number=Plur	24	obl	_	_
+28	di	di	ADP	E	_	29	case	_	_
+29	colpa	colpa	NOUN	S	Gender=Fem|Number=Sing	27	nmod	_	SpacesAfter=\n
+

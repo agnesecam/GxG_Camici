@@ -1,0 +1,55 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giorgio Agamben : « De l’Etat de droit à l’Etat de sécurité » Dallo Stato di diritto allo Stato di Sicurezza.
+1	Giorgio	Giorgio	PROPN	SP	_	10	nsubj	_	_
+2	Agamben	Agamben	PROPN	SP	_	1	flat:name	_	_
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	«	«	PUNCT	FB	_	10	punct	_	SpacesAfter= 
+5	De	De	ADP	E	_	7	case	_	_
+6	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	Etat	Etat	PROPN	SP	_	10	obl	_	_
+8	de	di	ADP	E	_	9	case	_	_
+9	droit	droit	NOUN	S	Gender=Masc	7	nmod	_	_
+10	à	e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	Etat	Etat	PROPN	SP	_	10	obj	_	_
+13	de	de	ADP	E	_	14	case	_	_
+14	sécurité	sécurité	PRON	PP	Number=Sing|Poss=Yes|PronType=Prs	12	nmod	_	SpacesAfter= 
+15	»	»	PUNCT	FB	_	10	punct	_	_
+16-17	Dallo	_	_	_	_	_	_	_	_
+16	Da	da	ADP	E	_	18	case	_	_
+17	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+21-22	allo	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	Stato	stato	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	Sicurezza	sicurezza	PROPN	SP	_	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = http://www.
+1	http://www	http://www	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = lemonde.fr/idees/article/ 2015/12/23/de-l-etat-de-droit-a-l-etat-de-securite_4836816_3232.html …
+1	lemonde.fr/idees/article/	lemonde.fr/idees/article/	PUNCT	FF	_	2	punct	_	_
+2	2015	2015	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	12/	12/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+5	23/de	23/dere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+6	-	-	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	l-	_	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+8	etat-de-droit	etat-de-droit	ADJ	A	_	5	amod	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	a	a	ADP	E	_	12	case	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	l-etat-de	l-etat-da	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+13	-securite_4836816_3232.html	-securite_4836816_3232.html	ADJ	A	Number=Sing	8	conj	_	_
+14	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

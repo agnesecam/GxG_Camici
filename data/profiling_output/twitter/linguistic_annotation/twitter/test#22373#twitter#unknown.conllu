@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ciolini7 se mi facessi gli auguri sarebbe una giornata più carina *paracula*
+1	@Ciolini7	@Ciolini7	NUM	N	NumType=Card	9	nsubj	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	carina	carina	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+12	*paracula*	*paracula*	PUNCT	FF	_	9	punct	_	SpacesAfter=\n
+

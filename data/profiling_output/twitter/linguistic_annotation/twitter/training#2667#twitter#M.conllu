@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Posso sembrare monotono, ma, se Dio vuole, oggi finisco i protozoi!!!!!!
+1	Posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	monotono	monotere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ma	ma	CCONJ	CC	_	12	cc	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	12	punct	_	_
+7	se	se	SCONJ	CS	_	12	mark	_	_
+8	Dio	Dio	PROPN	SP	_	12	nsubj	_	_
+9	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	oggi	oggi	ADV	B	_	12	advmod	_	_
+12	finisco	finire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	protozoi	protozoio	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
+15	!!!!!!	!!!!!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

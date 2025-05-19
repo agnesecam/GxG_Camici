@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro @micheleemiliano , se mi avessero dato modo di replicare a tuo intervento, avrei rimarcato differenze tra mie e tue posizioni...
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@micheleemiliano	@micheleemiliano	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+8	modo	modo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	replicare	replicare	VERB	V	VerbForm=Inf	8	acl	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	2	punct	_	_
+15	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	rimarcato	rimarcare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+17	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+18	tra	tra	ADP	E	_	19	case	_	_
+19	mie	mia	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	_
+20	e	e	CCONJ	CC	_	22	cc	_	_
+21	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	posizioni..	posizioni..	NOUN	S	_	19	conj	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	16	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se riguardate parecchie partite del Napoli, non è la prima volta che si rivolge male all'arbitro higuain...
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	riguardate	riguardare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	advcl	_	_
+3	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
+4	partite	partita	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Napoli	Napoli	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
+13	volta	volta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+14	che	che	SCONJ	CS	_	16	mark	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	rivolge	rivolgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+17	male	male	ADV	B	_	16	advmod	_	_
+18-19	all'	_	_	_	_	_	_	_	SpaceAfter=No
+18	a	a	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	arbitro	arbitro	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+21	higuain...	higuain.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 2
+# text = Così per dire ... #TerzoTempo
+1	Così	così	ADV	B	_	3	advmod	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+4	...	...	PUNCT	FF	_	3	punct	_	_
+5	#TerzoTempo	#TerzoTempo	PROPN	SP	_	3	obj	_	SpacesAfter=\n
+

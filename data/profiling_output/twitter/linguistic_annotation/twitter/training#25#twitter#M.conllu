@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “Le ferrovie rifanno la Stazione, perchè ora?” http:// fb.me/7h4z0NyDq
+1	“	“	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	ferrovie	ferrovie	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+4	rifanno	rifare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Stazione	stazione	PROPN	SP	_	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	perchè	perché	SCONJ	CS	_	9	mark	_	_
+9	ora	ora	ADV	B	_	4	advmod	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+11	”	”	PUNCT	FB	_	12	punct	_	_
+12	http:	http:	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	_
+15	fb.me/7h4z0NyDq	fb.me/7h4z0NyDq	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

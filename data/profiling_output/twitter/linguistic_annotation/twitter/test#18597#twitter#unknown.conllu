@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sinofagun la prof voleva facessimo delle domande ai cittadini, e io e il mio gruppo abbiamo guardato su internet le risposte
+1	@sinofagun	@sinofaguno	NUM	N	NumType=Card	4	nummod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	prof	prof	NOUN	S	_	4	nsubj	_	_
+4	voleva	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	facessimo	facessimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	4	xcomp	_	_
+6-7	delle	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	domande	domanda	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+15	e	e	CCONJ	CC	_	20	cc	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
+19	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	guardato	guardare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+21	su	su	ADP	E	_	22	case	_	_
+22	internet	internet	NOUN	S	_	20	obl	_	_
+23	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+24	risposte	risposta	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	SpacesAfter=\n
+

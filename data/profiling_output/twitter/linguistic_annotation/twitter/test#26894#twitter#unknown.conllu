@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NataAlbertoni @alecarpa80 @frittella_r @MEsercito86 @Martinaulven eh....sembro....auuuuu e lo sono!!!
+1	@NataAlbertoni	@NataAlbertone	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@alecarpa80	@alecarpa80	NUM	N	NumType=Card	1	nummod	_	_
+3	@frittella_r	@frittella_re	ADP	E	_	4	case	_	_
+4	@MEsercito86	@MEsercito86	PROPN	SP	_	1	nmod	_	_
+5	@Martinaulven	@Martinaulven	PROPN	SP	_	4	flat:name	_	_
+6	eh....sembro....auuuuu	eh....sembro....auuuuu	X	SW	Foreign=Yes	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	conj	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
+10	!!	!!	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma l'età anagrafica c'e'... ahimè
+1	Ma	ma	CCONJ	CC	_	7	cc	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	età	età	NOUN	S	Gender=Fem	7	nsubj	_	_
+4	anagrafica	anagrafico	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+5	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+6	e'...	e'.	PUNCT	FF	_	5	punct	_	_
+7	ahimè	ahimè	INTJ	I	_	0	root	_	SpacesAfter=\n
+

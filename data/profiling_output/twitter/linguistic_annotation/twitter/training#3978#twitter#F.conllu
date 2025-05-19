@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ogni mattina di #primavera un allergico si sveglia e sa che dovrà correre più veloce del polline per prendere in tempo l'antistaminico.
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	#primavera	#primavera	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	allergico	allergico	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
+13	correre	correre	VERB	V	VerbForm=Inf	10	ccomp	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	veloce	veloce	ADJ	A	Number=Sing	13	xcomp	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	polline	polline	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+19	per	per	ADP	E	_	20	mark	_	_
+20	prendere	prendere	VERB	V	VerbForm=Inf	13	advcl	_	_
+21	in	in	ADP	E	_	22	case	_	_
+22	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+23	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	24	det	_	SpaceAfter=No
+24	antistaminico	antistaminico	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

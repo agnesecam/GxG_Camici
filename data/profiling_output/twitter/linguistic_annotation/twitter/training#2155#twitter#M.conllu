@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dentro al fotogramma della storia!!
+1	Dentro	dentro	ADV	B	_	4	case	_	_
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	E	_	1	fixed	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fotogramma	fotogramma	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Grande Paolo sei il più grande di tutti https:// twitter.com/CiaoDarwinReal /status/718538739237187585 …
+1	Grande	Grande	ADJ	A	Number=Sing	2	amod	_	_
+2	Paolo	Paolo	PROPN	SP	_	0	root	_	_
+3	sei	essere	NUM	N	NumType=Card	2	flat:name	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	grande	grande	ADJ	A	Number=Sing	12	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	_
+9	https:	https:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	twitter.com/CiaoDarwinReal	twitter.com/CiaoDarwinReal	PROPN	SP	_	2	flat:name	_	_
+13	/status/718538739237187585	/status/718538739237187585	NUM	N	NumType=Card	12	nummod	_	_
+14	…	…	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

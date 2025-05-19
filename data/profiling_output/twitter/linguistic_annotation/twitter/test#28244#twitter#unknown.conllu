@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro @matteorenzi lo saremmo ancora di più leader se tu avessi fatto approvare il green act promesso!
+1	Caro	caro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@matteorenzi	@matteorenzi	ADP	E	_	4	case	_	_
+3	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	saremmo	essere	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	ancora	ancora	ADV	B	_	8	advmod	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	più	più	ADV	B	_	8	advmod	_	_
+8	leader	leader	NOUN	S	_	4	nmod	_	_
+9	se	se	SCONJ	CS	_	12	mark	_	_
+10	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+11	avessi	avere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+13	approvare	approvare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	green	green	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	act	act	ADV	B	_	17	advmod	_	_
+17	promesso	promesso	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n
+

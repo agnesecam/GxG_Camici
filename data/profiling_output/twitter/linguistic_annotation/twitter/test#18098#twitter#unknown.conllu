@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Devo andare a #udine .
+1	Devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	#udine	#udine	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = É una città che mi ragala parecchie soddisfazioni...
+1	É	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	città	città	NOUN	S	Gender=Fem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	ragala	ragalare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	soddisfazioni..	soddisfazioni..	NOUN	S	_	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dio ti ama,lui è buono,Lui ha il potere di aiutarti e ti aiuterà OGGI LO FARA Mantieni la fede fidaTI!!!!!!
+1	Dio	Dio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	ama,lui	ama,lui	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	buono,Lui	buono,Lui	PROPN	SP	_	4	nsubj	_	_
+6	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	potere	potere	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	aiutarti	aiutarto	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	iobj	_	_
+13	aiuterà	aiutare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	conj	_	_
+14	OGGI	Oggi	PROPN	SP	_	13	obj	_	_
+15	LO	Lo	PROPN	SP	_	14	flat:name	_	_
+16	FARA	FARA	PROPN	SP	_	14	flat:name	_	_
+17	Mantieni	Mantenere	PROPN	SP	_	14	flat:name	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	fede	fede	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+20	fidaTI	fidati	PROPN	SP	_	19	nmod	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	20	punct	_	SpaceAfter=No
+22	!!	!!	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	!!	!!	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

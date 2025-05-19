@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #seisimpaticocome la tavoletta del cesso congelata d'inverno manco fossimo al polo nord.
+1	#seisimpaticocome	#seisimpaticocome	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	tavoletta	tavoletta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cesso	cesso	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	congelata	congelato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+8	d'	di	ADP	E	_	9	case	_	SpaceAfter=No
+9	inverno	inverno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	manco	manco	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	fossimo	essere	AUX	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	14	cop	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	polo	polo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+15	nord	nord	NOUN	S	Gender=Masc	14	compound	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

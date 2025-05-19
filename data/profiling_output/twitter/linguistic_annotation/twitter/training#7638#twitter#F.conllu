@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ricopre la carica di presidente del Consiglio, dunque veste di panni del pubblico ufficiale.
+1	Ricopre	ricoprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	carica	carica	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Consiglio	consiglio	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	dunque	dunque	ADV	B	_	11	advmod	_	_
+11	veste	vedere	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	panni	panno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	pubblico	pubblico	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+17	ufficiale	ufficiale	ADJ	A	Number=Sing	16	amod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E il Testo unico...
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Testo	Testo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	unico...	unico.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = http:// fb.me/12AcEEDRA
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/12AcEEDRA	fb.me/12AcEEDRA	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

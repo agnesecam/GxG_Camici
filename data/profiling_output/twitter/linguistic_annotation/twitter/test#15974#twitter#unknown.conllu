@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho spazzato via chiunque nell'Arena!
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	spazzato	spazzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	via	via	ADV	B	_	2	advmod	_	_
+4	chiunque	chiunque	PRON	PI	Number=Sing|PronType=Ind	2	obj	_	_
+5-6	nell'	_	_	_	_	_	_	_	SpaceAfter=No
+5	in	in	ADP	E	_	7	case	_	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	Arena	Arena	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Unisciti a me in Clash of Lords 2 e mostreremo al mondo chi comanda!
+1	Unisciti	Uniscire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	me	me	X	SW	Foreign=Yes	1	obl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Clash	Clash	PROPN	SP	_	1	obl	_	_
+6	of	of	ADP	E	_	7	case	_	_
+7	Lords	Lords	PROPN	SP	_	5	nmod	_	_
+8	2	2	NUM	N	NumType=Card	7	nummod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	mostreremo	mostrare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14	chi	chi	PRON	PR	Number=Sing|PronType=Rel	10	obj	_	_
+15	comanda	comandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http:// login-it-col2.igg.com/api/applink.php
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	login-it-col2.igg.com/api/applink.php	login-it-col2.igg.com/api/applink.php	NOUN	S	Gender=Fem	0	root	_	SpacesAfter=\n
+

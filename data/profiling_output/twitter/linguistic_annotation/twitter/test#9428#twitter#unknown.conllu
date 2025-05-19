@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che poi Robert lo fa anche nella realtà cioè CAPITE LA MIA FOTTUTA SOFFERENZA
+1	Che	che	SCONJ	CS	_	5	mark	_	_
+2	poi	poi	ADV	B	_	5	advmod	_	_
+3	Robert	Robert	PROPN	SP	_	5	nsubj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	anche	anche	ADV	B	_	9	advmod	_	_
+7-8	nella	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	realtà	realtà	NOUN	S	Gender=Fem	12	obl	_	_
+10	cioè	cioè	ADV	B	_	11	advmod	_	_
+11	CAPITE	capite	ADJ	A	_	12	amod	_	_
+12	LA	La	PROPN	SP	_	5	xcomp	_	_
+13	MIA	mia	PROPN	SP	_	12	flat:name	_	_
+14	FOTTUTA	FOTTUTA	PROPN	SP	_	12	flat:name	_	_
+15	SOFFERENZA	sofferenza	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n
+

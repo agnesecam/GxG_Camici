@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Credo che quest'anno,il PD, dovrà spostare anche il concerto del Primo Maggio.Sapete dove?
+1	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	8	mark	_	_
+3	quest'	questo	DET	DD	Number=Sing|PronType=Dem	4	det	_	SpaceAfter=No
+4	anno,il	anno,il	NOUN	S	Gender=Masc	8	nsubj	_	_
+5	PD	Pd	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	spostare	spostare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+9	anche	anche	ADV	B	_	11	advmod	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	concerto	concerto	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	15	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	Primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
+15	Maggio.Sapete	Maggio.sapete	PROPN	SP	_	11	nmod	_	_
+16	dove	dove	ADV	B	_	15	advmod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Al Nazareno.
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Nazareno	Nazareno	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Scommettiamo?
+1	Scommettiamo	Scommettare	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = https:// twitter.com/valy_s/status/ 715951539924414464 …
+1	https:	https:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/valy_s/status/	twitter.com/valy_s/status/	PUNCT	FF	_	1	punct	_	_
+5	715951539924414464	715951539924414464	NUM	N	NumType=Card	0	root	_	_
+6	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

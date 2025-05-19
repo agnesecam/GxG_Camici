@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #10YearsOfHannahMontana Da piccola feci un saggio di ginnastica artistica con "the best of both worlds".
+1	#10YearsOfHannahMontana	#10YearsOfHannahMontanare	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+2	Da	Da	ADP	E	_	4	case	_	_
+3	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+4	feci	fece	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	saggio	saggio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	ginnastica	ginnastica	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	artistica	artistico	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	con	con	ADP	E	_	13	case	_	_
+11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
+13	best	best	NOUN	S	_	6	nmod	_	_
+14	of	of	ADP	E	_	15	case	_	_
+15	both	both	NOUN	S	_	13	nmod	_	_
+16	worlds	worlds	NOUN	S	_	15	compound	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Troppi ricordi
+1	Troppi	troppo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	ricordi	ricordo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

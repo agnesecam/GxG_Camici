@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @contedelapenne @claudio301065 ME LO AUGURO.MA CI VORREBBE UNA RIVOLUZIONE COME FECERO I FRANCESI.MA NON SIAMO POPOLO DI RAZZA X FARE CIÒ
+1	@contedelapenne	@contedelapenere	ADP	E	_	3	case	_	_
+2	@claudio301065	@claudio301065	NUM	N	NumType=Card	3	nummod	_	_
+3	ME	me	PROPN	SP	_	0	root	_	_
+4	LO	Lo	PROPN	SP	_	3	nmod	_	_
+5	AUGURO.MA	AUGURO.MA	PROPN	SP	_	4	flat:name	_	_
+6	CI	ci	PROPN	SP	_	4	flat:name	_	_
+7	VORREBBE	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	UNA	Una	PROPN	SP	_	3	flat:name	_	_
+9	RIVOLUZIONE	Rivoluzione	PROPN	SP	_	8	flat:name	_	_
+10	COME	come	PROPN	SP	_	8	flat:name	_	_
+11	FECERO	fecero	PROPN	SP	_	8	flat:name	_	_
+12	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	FRANCESI.MA	FRANCESI.MA	PROPN	SP	_	8	flat:name	_	_
+14	NON	non	PROPN	SP	_	16	nsubj	_	_
+15	SIAMO	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	POPOLO	popolo	PROPN	SP	_	13	flat:name	_	_
+17	DI	Di	ADP	E	_	18	case	_	_
+18	RAZZA	razza	PROPN	SP	_	13	nmod	_	_
+19	X	X	PROPN	SP	_	18	flat:name	_	_
+20	FARE	fare	PROPN	SP	_	18	nmod	_	_
+21	CIÒ	ciò	PROPN	SP	_	20	flat:name	_	SpacesAfter=\n
+

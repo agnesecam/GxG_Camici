@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grazie @LudovicoEinaud !Un sogno e diventato realtà, finalmente visto e ascoltato dal vivo!
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	@LudovicoEinaud	@LudovicoEinaud	PROPN	SP	_	1	nmod	_	_
+3	!Un	!Un	PROPN	SP	_	2	flat:name	_	_
+4	sogno	sogno	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+7	realtà	realtà	NOUN	S	Gender=Fem	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	finalmente	finalmente	ADV	B	_	10	advmod	_	_
+10	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	ascoltato	ascoltare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	_
+13-14	dal	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	vivo	vivo	NOUN	S	Gender=Masc|Number=Sing	12	obl:agent	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mi trasporti all infinito
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	trasporti	trasportare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	all	all	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	infinito	infinito	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpacesAfter=\n
+

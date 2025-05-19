@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = UNA RIFLESSIONCELLA PER LA NOTTE Ma proprio per chi non avesse niente di meglio da fare... Premessa: “Libertà...
+1	UNA	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	RIFLESSIONCELLA	RIFLESSIONCELLA	PROPN	SP	_	0	root	_	_
+3	PER	per	PROPN	SP	_	2	flat:name	_	_
+4	LA	il	PROPN	SP	_	2	flat:name	_	_
+5	NOTTE	notte	PROPN	SP	_	2	nmod	_	_
+6	Ma	ma	CCONJ	CC	_	9	cc	_	_
+7	proprio	proprio	ADV	B	_	9	advmod	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	conj	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	avesse	avere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
+12	niente	niente	PRON	PI	Number=Sing|PronType=Ind	11	obj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	meglio	meglio	NOUN	S	_	12	nmod	_	_
+15	da	da	ADP	E	_	16	case	_	_
+16	fare...	fare...	NOUN	S	_	11	obl	_	_
+17	Premessa	premesso	PROPN	SP	_	16	nmod	_	SpaceAfter=No
+18	:	:	PUNCT	FC	_	17	punct	_	_
+19	“	“	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+20	Libertà...	Libertà.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = http:// fb.me/7l4BnT4nB
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/7l4BnT4nB	fb.me/7l4BnT4nB	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

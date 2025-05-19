@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @donnadimezzo @francofontana43 eh, ieri in TV "i magistrati facciano tutte le indagini", oggi "è allucinante ascoltare la boschi" bah
+1	@donnadimezzo	@donnadimezzo	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+2	@francofontana43	@francofontana43	NUM	N	NumType=Card	1	nummod	_	_
+3	eh	eh	INTJ	I	_	11	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ieri	ieri	ADV	B	_	11	advmod	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	TV	TV	PROPN	SP	_	5	obl	_	_
+8	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	magistrati	magistrato	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+11	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	14	det:predet	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	indagini	indagine	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	20	punct	_	_
+17	oggi	oggi	ADV	B	_	20	advmod	_	_
+18	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	allucinante	allucinante	ADJ	A	Number=Sing	11	conj	_	_
+21	ascoltare	ascoltare	VERB	V	VerbForm=Inf	20	csubj	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	boschi	bosco	NOUN	S	Gender=Masc|Number=Plur	21	obj	_	SpaceAfter=No
+24	"	"	PUNCT	FB	_	25	punct	_	_
+25	bah	bah	ADJ	A	_	23	amod	_	SpacesAfter=\n
+

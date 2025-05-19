@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = «Non c’è dunque più nessuna condanna per quelli che sono in Cristo Gesù, perché la legge dello Spirito della vita …» http:// bible.com/122/rom.8.1-2.
+1	«	«	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	c’	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dunque	dunque	ADV	B	_	4	advmod	_	_
+6	più	più	ADV	B	_	4	advmod	_	_
+7	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	condanna	condanna	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+9	per	per	ADP	E	_	10	case	_	_
+10	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	8	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	Cristo	Cristo	PROPN	SP	_	12	obl	_	_
+15	Gesù	Gesù	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	4	punct	_	_
+17	perché	perché	SCONJ	CS	_	19	mark	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	legge	legge	NOUN	S	Gender=Fem|Number=Sing	4	advcl	_	_
+20-21	dello	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	Spirito	spirito	PROPN	SP	_	19	nmod	_	_
+23-24	della	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	vita	vita	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	_
+26	…	…	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+27	»	»	PUNCT	FB	_	22	punct	_	_
+28	http:	http:	PUNCT	FS	_	22	punct	_	SpaceAfter=No
+29	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+30	/	/	PUNCT	FF	_	22	punct	_	_
+31	bible.com/122/rom.8.1-2	bible.com/122/rom.8.1-2	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
+32	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = nr06 …
+1	nr06	nr06	NUM	N	NumType=Card	0	root	_	_
+2	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

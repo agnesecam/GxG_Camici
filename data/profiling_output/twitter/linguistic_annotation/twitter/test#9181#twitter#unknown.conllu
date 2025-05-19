@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una staffetta di diurna-notturna in perfetta sincronia, non dobbiamo neppure muoverci-:) https:// twitter.com/Elena3Grimaldi /status/713236689351741440 …
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	staffetta	staffetta	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	diurna-notturna	diurna-notturna	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nmod	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	perfetta	perfetto	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	sincronia	sincronia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	neppure	neppure	ADV	BN	PronType=Neg	12	advmod	_	_
+12-13	muoverci	_	_	_	_	_	_	_	SpaceAfter=No
+12	muover	muovere	VERB	V	VerbForm=Inf	0	root	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	_
+14	-	-	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+16	)	)	PUNCT	FB	_	12	punct	_	_
+17	https:	https:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	12	punct	_	_
+20	twitter.com/Elena3Grimaldi	twitter.com/Elena3Grimaldi	PROPN	SP	_	12	obj	_	_
+21	/status/713236689351741440	/status/713236689351741440	NUM	N	NumType=Card	20	nummod	_	_
+22	…	…	PUNCT	FF	_	12	punct	_	SpacesAfter=\n
+

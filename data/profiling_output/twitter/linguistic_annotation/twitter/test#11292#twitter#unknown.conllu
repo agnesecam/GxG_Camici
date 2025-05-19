@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Giachetti incontra i cittadini.
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	Giachetti	Giachetti	PROPN	SP	_	3	nsubj	_	_
+3	incontra	incontrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se abitassi a #Roma non avrei dubbi!
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	abitassi	abitare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	#Roma	#Roma	PROPN	SP	_	2	obl	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	avrei	avre	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = #TuttaRoma per @bobogiac sindaco https:// twitter.com/verocatania/st atus/718366820089085952 …
+1	#TuttaRoma	#TuttaRoma	ADV	B	_	4	advmod	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	@bobogiac	@bobogiac	ADJ	A	_	4	amod	_	_
+4	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+6	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	4	punct	_	_
+8	twitter.com/verocatania/st	twitter.com/verocatania/st	NOUN	S	Gender=Masc	4	nmod	_	_
+9	atus/718366820089085952	atus/718366820089085952	NUM	N	NumType=Card	8	nummod	_	_
+10	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

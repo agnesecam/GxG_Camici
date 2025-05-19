@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non per sembrare razzista, ma se due arabi entrano, ordinano, appena arriva il cibo se ne vanno e non tornano più, un po' di scaga ti viene
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	15	advcl	_	_
+4	razzista	razzista	NOUN	S	Number=Sing	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	12	punct	_	_
+6	ma	ma	CCONJ	CC	_	12	cc	_	_
+7	se	se	SCONJ	CS	_	10	mark	_	_
+8	due	due	NUM	N	NumType=Card	9	nummod	_	_
+9	arabi	arabo	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+10	entrano	entrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	ordinano	ordinare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14	appena	appena	ADV	B	_	15	advmod	_	_
+15	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	parataxis	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	cibo	cibo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
+18	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+19	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	20	iobj	_	_
+20	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+21	e	e	CCONJ	CC	_	23	cc	_	_
+22	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+23	tornano	tornare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+24	più	più	ADV	B	_	23	advmod	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	15	punct	_	_
+26	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	po'	poco	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+28	di	di	ADP	E	_	29	case	_	_
+29	scaga	scaga	NOUN	S	Gender=Fem|Number=Sing	27	nmod	_	_
+30	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	31	obj	_	_
+31	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

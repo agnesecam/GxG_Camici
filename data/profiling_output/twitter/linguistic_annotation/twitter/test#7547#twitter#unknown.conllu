@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #m5spy Spiare un server in uso a dei parlamentari siano essi di questo e quel partito, non si può!!! pic.twitter.com/2b6UzNTUgu
+1	#m5spy	#m5spy	CCONJ	CC	_	2	cc	_	_
+2	Spiare	Spiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	server	server	NOUN	S	Gender=Masc	2	obj	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	uso	uso	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	a	a	ADP	E	_	10	case	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	7	fixed	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	parlamentari	parlamentare	NOUN	S	Number=Plur	6	nmod	_	_
+11	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nmod	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
+17	partito	partito	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	21	punct	_	_
+19	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl:impers	_	_
+21	può	potere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
+22	!!!	!!!	PUNCT	FF	_	2	punct	_	_
+23	pic.twitter.com/2b6UzNTUgu	pic.twitter.com/2b6UzNTUgu	PROPN	SP	_	2	nsubj	_	SpacesAfter=\n
+

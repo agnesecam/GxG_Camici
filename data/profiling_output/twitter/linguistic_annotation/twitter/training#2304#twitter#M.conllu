@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Allora io devo andare in bagno da un'ora ma non posso perché dentro ci sta l'amica di mia sorella a parlare al telefono
+1	Allora	allora	ADV	B	_	4	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	bagno	bagno	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	ora	ora	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	posso	potere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	perché	perché	SCONJ	CS	_	16	mark	_	_
+14	dentro	dentro	ADV	B	_	16	advmod	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	16	expl	_	_
+16	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
+18	amica	amico	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	sorella	sorella	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+22	a	a	ADP	E	_	23	mark	_	_
+23	parlare	parlare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+24-25	al	_	_	_	_	_	_	_	_
+24	a	a	ADP	E	_	26	case	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	SpacesAfter=\n
+

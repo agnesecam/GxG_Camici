@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma non è che tante volte la Meloni è diventata Pentastellata?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	10	mark	_	_
+5	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	volte	volta	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Meloni	Meloni	PROPN	SP	_	10	nsubj	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	diventata	diventare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+11	Pentastellata	Pentastellato	PROPN	SP	_	10	nsubj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = A questo punto facesse campagna elettorale a favore della Raggi!
+1	A	a	ADP	E	_	3	case	_	_
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	punto	punto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+4	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	elettorale	elettorale	ADJ	A	Number=Sing	5	amod	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	favore	favore	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Raggi	raggi	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

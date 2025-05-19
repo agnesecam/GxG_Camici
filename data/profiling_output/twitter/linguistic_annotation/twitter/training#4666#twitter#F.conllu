@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ottoemezzo Un altro pazzo:"aprire o chiudere un pozzo è più dannoso del mandarlo avanti"...
+1	#ottoemezzo	#ottoemezzo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	altro	altro	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	pazzo	pazzo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+5	:"	:"	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	aprire	aprire	VERB	V	VerbForm=Inf	13	nsubj	_	_
+7	o	o	CCONJ	CC	_	8	cc	_	_
+8	chiudere	chiudere	VERB	V	VerbForm=Inf	6	conj	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pozzo	pozzo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	dannoso	dannoso	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	mark	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16-17	mandarlo	_	_	_	_	_	_	_	_
+16	mandar	mandar	VERB	V	VerbForm=Inf	13	advcl	_	_
+17	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	avanti	avanti	NOUN	S	Gender=Masc	16	obj	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	1	punct	_	SpaceAfter=No
+20	...	.	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 2
+# text = Cretino!
+1	Cretino	Cretino	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Prima o poi si dovrà chiudere
+1	Prima	prima	ADV	B	_	6	advmod	_	_
+2	o	o	CCONJ	CC	_	6	cc	_	_
+3	poi	poi	ADV	B	_	6	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	chiudere	chiudere	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n
+

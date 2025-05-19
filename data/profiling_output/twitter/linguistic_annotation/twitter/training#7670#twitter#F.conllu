@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @rotanicolas Mi dispiace ma forse pochi se ne saranno accorti del fatto che ci stiamo estinguendo.
+1	@rotanicolas	@rotanicolas	NOUN	S	Gender=Masc	3	obj	_	_
+2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ma	ma	CCONJ	CC	_	10	cc	_	_
+5	forse	forse	ADV	B	_	10	advmod	_	_
+6	pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	obl	_	_
+7	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+9	saranno	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	aux:pass	_	_
+10	accorti	accortare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14	che	che	SCONJ	CS	_	17	mark	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	17	expl	_	_
+16	stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	estinguendo	estinguere	VERB	V	VerbForm=Ger	13	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Proprio così.
+1	Proprio	proprio	ADV	B	_	2	advmod	_	_
+2	così	così	ADV	B	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = . dunque resta
+1	.	.	PUNCT	FS	_	3	punct	_	_
+2	dunque	dunque	ADV	B	_	1	advmod	_	_
+3	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

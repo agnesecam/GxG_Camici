@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa puntata sarebbe stata il se facevate andare anche Cristiano al serale.
+1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	se	se	NOUN	S	Gender=Masc	0	root	_	_
+7	facevate	facevato	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+8	andare	andare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+9	anche	anche	ADV	B	_	10	advmod	_	_
+10	Cristiano	cristiano	PROPN	SP	_	8	obj	_	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	serale	serale	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Sappiate che siete solo delle brutte merdine #Amici15
+1	Sappiate	Sappiare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	8	mark	_	_
+3	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
+4	solo	solo	ADV	B	_	8	advmod	_	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	brutte	brutto	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+8	merdine	merdine	NOUN	S	Gender=Fem|Number=Plur	1	ccomp	_	_
+9	#Amici15	#Amici15	PROPN	SP	_	8	nmod	_	SpacesAfter=\n
+

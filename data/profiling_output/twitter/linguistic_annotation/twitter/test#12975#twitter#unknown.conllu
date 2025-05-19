@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = pic.twitter.com/IQnPEFNeBa vedi la delicatezza @alestefanoni , io temevo gli avessero dato la suite di #luckyLuciano al primo piano
+1	pic.twitter.com/IQnPEFNeBa	pic.twitter.com/IQnPEFNeBa	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	delicatezza	delicatezza	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	@alestefanoni	@alestefanone	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	temevo	temere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+10	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	suite	suite	NOUN	S	Gender=Fem	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	#luckyLuciano	#luckyLuciano	PROPN	SP	_	13	nmod	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	_
+19	piano	piano	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpacesAfter=\n
+

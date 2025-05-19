@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Farei https:// twitter.com/peitosilove/st atus/718645004584022016 …
+1	Farei	fare	PROPN	SP	_	0	root	_	_
+2	https:	https:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	twitter.com/peitosilove/st	twitter.com/peitosilove/st	SYM	X	_	1	nmod	_	_
+6	atus/718645004584022016	atus/718645004584022016	SYM	X	_	5	flat:name	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

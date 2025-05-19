@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Non ha problemi per le bollette gliele pagano tutte ... https:// twitter.com/napolinordsud/ status/717045323869368321 …
+1	#Non	#Non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	bollette	bolletta	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+7	gliele	gliele	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	pagano	pagare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	8	obj	_	_
+10	...	...	PUNCT	FF	_	11	punct	_	_
+11	https:	https:	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+12	/	/	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	/	/	PUNCT	FF	_	8	punct	_	_
+14	twitter.com/napolinordsud/	twitter.com/napolinordsud/	PUNCT	FF	_	8	punct	_	_
+15	status/717045323869368321	status/717045323869368321	PROPN	SP	NumType=Card	8	nsubj	_	_
+16	…	…	PUNCT	FF	_	8	punct	_	SpacesAfter=\n
+

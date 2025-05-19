@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma sarà vero che dovrà rifare altre scene in chiave comica?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	cop	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	rifare	rifare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+7	altre	altro	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	scene	scena	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	comica	comico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = "A mè me pare nà strunzata!" Boh, boh!
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	A	a	ADP	E	_	3	case	_	_
+3	mè	mè	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	obl	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	nà	nà	NOUN	S	Gender=Fem	5	obj	_	_
+7	strunzata	strunzato	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	10	punct	_	_
+10	Boh	Boh	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	boh	boh	NOUN	S	Gender=Masc	10	appos	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = #SuicideSquad
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	SuicideSquad	SuicideSquad	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

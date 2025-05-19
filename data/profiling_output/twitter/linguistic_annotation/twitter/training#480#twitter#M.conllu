@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #virusrai2 #rulajebreal guarda se in Italia avessimo uno come #Putin vivremmo più tranquilli.
+1	#virusrai2	#virusrai2	NUM	N	NumType=Card	2	nummod	_	_
+2	#rulajebreal	#rulajebreal	NOUN	S	Gender=Masc	3	nsubj	_	_
+3	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	SCONJ	CS	_	13	mark	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	Italia	Italia	PROPN	SP	_	13	obl	_	_
+7	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+8	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	#Putin	#Putin	PROPN	SP	_	13	obl	_	_
+11	vivremmo	vivere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	tranquilli	tranquillo	ADJ	A	Gender=Masc|Number=Plur	3	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Si chiama #amorpatrio concetto dimenticato
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+2	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	#amorpatrio	#amorpatrio	NOUN	S	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	concetto	concetto	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	SpacesAfter=\n
+

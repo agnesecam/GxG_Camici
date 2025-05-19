@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @romafaschifo @LorenzoSchiavo1 @EnricoStefano @Giopigli @virginiaraggi quando fu dei fori avvenne un putiferio con i residenti e commerciant
+1	@romafaschifo	@romafaschifo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	@LorenzoSchiavo1	@LorenzoSchiavo1	PROPN	SP	_	1	nmod	_	_
+3	@EnricoStefano	@EnricoStefano	PROPN	SP	_	2	flat:name	_	_
+4	@Giopigli	@Giopigli	PROPN	SP	_	2	flat:name	_	_
+5	@virginiaraggi	@virginiaraggio	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quando	quando	SCONJ	CS	_	11	mark	_	_
+7	fu	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	fori	foro	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+11	avvenne	avvenire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	putiferio	putiferio	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	residenti	residente	NOUN	S	Number=Plur	13	nmod	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	commerciant	commerciant	NOUN	S	Gender=Masc	16	conj	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @AlfioDiCosta Anch'io e molti amici sulla rete.
+1	@AlfioDiCosta	@AlfioDiCorre	PROPN	SP	_	0	root	_	_
+2	Anch'	anche	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	conj	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	amici	amico	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+7-8	sulla	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	rete	rete	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Speo si ragiunga il quorum che si dovrà poi difendere ... Memento quorum massimo dell'acqua
+1	Speo	Speo	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:pass	_	_
+3	ragiunga	ragiungere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	quorum	quorum	NOUN	S	Gender=Masc	3	nsubj:pass	_	_
+6	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+8	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
+9	poi	poi	ADV	B	_	10	advmod	_	_
+10	difendere	difendere	VERB	V	VerbForm=Inf	5	acl:relcl	_	_
+11	...	.	PUNCT	FF	_	12	punct	_	_
+12	Memento	Memento	NOUN	S	Gender=Masc|Number=Sing	10	xcomp	_	_
+13	quorum	quorum	NOUN	S	Gender=Masc	12	nmod	_	_
+14	massimo	massimo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15-16	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+15	di	di	ADP	E	_	17	case	_	_
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+17	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpacesAfter=\n
+

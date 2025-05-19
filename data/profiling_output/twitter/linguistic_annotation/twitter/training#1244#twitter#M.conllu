@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cresce a 50 secondi il ritardo del gruppo Sagan - Cancellara dalla testa della corsa.
+1	Cresce	crescere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	50	50	NUM	N	NumType=Card	4	nummod	_	_
+4	secondi	secondo	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ritardo	ritardo	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	Sagan	Sagan	PROPN	SP	_	9	nmod	_	_
+11	-	-	PUNCT	FF	_	10	punct	_	_
+12	Cancellara	Cancellara	PROPN	SP	_	10	flat:name	_	_
+13-14	dalla	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	testa	testa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	corsa	corsa	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E’ durissima per loro #ParisRoubaix
+1	E’	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	durissima	duro	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	loro	loro	DET	AP	Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	#ParisRoubaix	#ParisRoubaix	PROPN	SP	_	2	obl	_	SpacesAfter=\n
+

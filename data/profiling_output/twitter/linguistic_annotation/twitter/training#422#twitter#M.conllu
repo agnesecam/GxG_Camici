@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se avessimo avuto Putin avremmo portato in Italia i Marò più altri 5 indiani a scelta!!! @matteorenzi @angealfa
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
+4	Putin	Putin	PROPN	SP	_	6	nsubj	_	_
+5	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	portato	portare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	Italia	Italia	PROPN	SP	_	6	obl	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	Marò	marò	PROPN	SP	_	6	obj	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	altri	altro	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	_
+13	5	5	NUM	N	NumType=Card	14	nummod	_	_
+14	indiani	indiano	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	scelta	scelta	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	!!!	!!!	PUNCT	FF	_	18	punct	_	_
+18	@matteorenzi	@matteorenzi	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+19	@angealfa	@angealfa	ADJ	A	_	18	amod	_	SpacesAfter=\n
+

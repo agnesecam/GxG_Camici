@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @GrimoldiPaolo le "risorse boldriniane" colpiscono sempre e dovunque !
+1	@GrimoldiPaolo	@GrimoldiPaolo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	risorse	risorsa	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+5	boldriniane	boldriniano	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	4	punct	_	_
+7	colpiscono	colpire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sempre	sempre	ADV	B	_	7	advmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	dovunque	dovunque	ADV	B	_	8	conj	_	_
+11	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
+

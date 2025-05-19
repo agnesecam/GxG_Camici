@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lui non parla e odio quando gliene vogliono far parlare.
+1	Lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	odio	odiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	quando	quando	SCONJ	CS	_	9	mark	_	_
+7	gliene	glenere	ADV	B	_	9	advmod	_	_
+8	vogliono	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	far	fare	VERB	V	VerbForm=Inf	5	advcl	_	_
+10	parlare.	parlare.	NOUN	S	_	9	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = #arenagiletti
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	arenagiletti	arenagileggere	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n
+

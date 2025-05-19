@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MeetTheCohens lo farei e con enorme piacere, ma ho una persona molto cara che ha bisogno di me in questi giorni
+1	@MeetTheCohens	@MeetTheCohens	ADP	E	_	3	case	_	_
+2	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	farei	fare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+4	e	e	CCONJ	CC	_	7	cc	_	_
+5	con	con	ADP	E	_	7	case	_	_
+6	enorme	enorme	ADJ	A	Number=Sing	7	amod	_	_
+7	piacere	piacere	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	ma	ma	CCONJ	CC	_	10	cc	_	_
+10	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	persona	persona	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	molto	molto	ADV	B	_	14	advmod	_	_
+14	cara	caro	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nmod	_	_
+20	in	in	ADP	E	_	22	case	_	_
+21	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	22	det	_	_
+22	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi sa che qualcuna finsice accoltellato...
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	qualcuna	qualcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+5	finsice	finsice	NOUN	S	Number=Plur	2	ccomp	_	_
+6	accoltellato...	accoltellato.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #zonaGAD #Ferrara #spaccio #degrado
+1	#zonaGAD	#zonaGAD	PROPN	SP	_	0	root	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	Ferrara	Ferrara	PROPN	SP	_	1	flat:name	_	_
+4	#spaccio	#spare	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	#degrado	#degrado	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpacesAfter=\n
+

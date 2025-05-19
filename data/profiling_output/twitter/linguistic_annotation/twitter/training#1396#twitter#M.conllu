@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Amiamo il Signore e seguiamoLo con tutto il Cuore senza preoccuparci delle nostre mancanze perché Lui le colma pic.twitter.com/ew0WKk44ZH
+1	Amiamo	amare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Signore	signore	PROPN	SP	_	1	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5-6	seguiamoLo	_	_	_	_	_	_	_	_
+5	seguiamo	seguire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Cuore	cuore	PROPN	SP	_	5	obl	_	_
+11	senza	senza	ADP	E	_	12	mark	_	_
+12-13	preoccuparci	_	_	_	_	_	_	_	_
+12	preoccupar	preoccupare	VERB	V	VerbForm=Inf	5	advcl	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	_
+14-15	delle	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	17	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	mancanze	mancanza	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+18	perché	perché	SCONJ	CS	_	19	mark	_	_
+19	Lui	lui	PROPN	SP	_	12	advcl	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	colma	colma	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+22	pic.twitter.com/ew0WKk44ZH	pic.twitter.com/ew0WKk44ZH	PROPN	SP	_	21	nmod	_	SpacesAfter=\n
+

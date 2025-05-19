@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Ichnusa7 è sempre un belvedere, spesso a denti stretti per le nostre verità beffarde!
+1	@Ichnusa7	@Ichnusa7	PROPN	SP	_	5	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	sempre	sempre	ADV	B	_	5	advmod	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	belvedere	belvedera	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	spesso	spesso	ADV	B	_	9	advmod	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	denti	dente	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+10	stretti	stretto	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	per	per	ADP	E	_	14	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	verità	verità	NOUN	S	Gender=Fem	9	nmod	_	_
+15	beffarde	beffardere	ADJ	A	Number=Sing	14	amod	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #report ce ne fossero!
+1	#report	#report	ADV	B	_	4	advmod	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

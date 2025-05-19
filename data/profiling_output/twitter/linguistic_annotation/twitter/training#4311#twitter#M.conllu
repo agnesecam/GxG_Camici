@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (...)
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	...	...	PUNCT	FF	_	0	root	_	SpaceAfter=No
+3	)	)	PUNCT	FB	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sarri è intenzionato a schierare la migliore formazione, ma dovrà verificare lo stato di forma dei... http:// fb.me/3YDa7pZlA
+1	Sarri	Sarri	PROPN	SP	_	3	nsubj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	intenzionato	intenzionato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	schierare	schierare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	migliore	migliore	ADJ	A	Degree=Cmp|Number=Sing	8	amod	_	_
+8	formazione	formazione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
+12	verificare	verificare	VERB	V	VerbForm=Inf	3	conj	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	stato	stato	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	forma	forma	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	dei...	dei.	NOUN	S	_	16	compound	_	_
+18	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+20	/	/	PUNCT	FF	_	16	punct	_	_
+21	fb.me/3YDa7pZlA	fb.me/3YDa7pZlA	PROPN	SP	_	12	nmod	_	SpacesAfter=\n
+

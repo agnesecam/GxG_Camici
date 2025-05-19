@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se tu fai bene, non vi sarà egli esaltazione?
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+4	bene	bene	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+8	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	egli	ello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	esaltazione	esaltazione	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = ma altresì , se tu fai male, il peccato giace alla porta.
+1	ma	ma	CCONJ	CC	_	11	cc	_	_
+2	altresì	altresì	ADV	B	_	11	advmod	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	se	se	SCONJ	CS	_	6	mark	_	_
+5	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+6	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+7	male	male	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	peccato	peccato	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+11	giace	giacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12-13	alla	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	porta	porta	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 3
+# text = O… http:// bible.com/54/gen.4.7.DO8 85 …
+1	O…	O…	PROPN	SP	_	0	root	_	_
+2	http:	http:	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	1	punct	_	_
+5	bible.com/54/gen.4.7.DO8	bible.com/54/gen.4.7.DO8	PROPN	SP	_	1	nmod	_	_
+6	85	85	NUM	N	NumType=Card	5	nummod	_	_
+7	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

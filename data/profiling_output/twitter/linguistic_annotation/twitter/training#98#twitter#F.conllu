@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No, perché non gli piace https:// twitter.com/5secofjames/st atus/719244968586567680 …
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	perché	perché	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+6	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	https:	https:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	6	punct	_	_
+10	twitter.com/5secofjames/st	twitter.com/5secofjames/st	CCONJ	CC	_	11	cc	_	_
+11	atus/719244968586567680	atus/719244968586567680	NUM	N	NumType=Range	6	conj	_	_
+12	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

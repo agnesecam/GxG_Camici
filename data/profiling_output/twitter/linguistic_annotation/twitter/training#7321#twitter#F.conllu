@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #in_me , - #in te - #in noi - #in voi - #in essi ....voce del verbo ' In ' ....
+1	#in_me	#in_me	ADV	B	_	15	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	-	-	PUNCT	FF	_	1	punct	_	_
+4	#in	#ino	ADP	E	_	5	case	_	_
+5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+6	-	-	PUNCT	FB	_	5	punct	_	_
+7	#in	#ino	ADP	E	_	8	case	_	_
+8	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	15	obl	_	_
+9	-	-	PUNCT	FB	_	8	punct	_	_
+10	#in	#ino	ADP	E	_	11	case	_	_
+11	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	8	nmod	_	_
+12	-	-	PUNCT	FF	_	11	punct	_	_
+13	#in	#ino	X	SW	Foreign=Yes	11	compound	_	_
+14	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+15	....voce	....voce	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	verbo	verbo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+19	'	'	PUNCT	FB	_	20	punct	_	_
+20	In	In	PROPN	SP	_	18	appos	_	_
+21	'	'	PUNCT	FB	_	20	punct	_	_
+22	...	...	PUNCT	FF	_	20	punct	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n
+

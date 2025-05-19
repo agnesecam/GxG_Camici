@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @THEVOICE_ITALY sta Katia ... Toglierà il posto a parecchie star italiane.
+1	@THEVOICE_ITALY	@thevoice_italy	PROPN	SP	_	3	nsubj	_	_
+2	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Katia	Katia	PROPN	SP	_	0	root	_	_
+4	...	...	PUNCT	FF	_	5	punct	_	_
+5	Toglierà	Togliare	PROPN	SP	_	3	nmod	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	posto	posto	NOUN	S	Gender=Masc|Number=Sing	3	appos	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	10	det	_	_
+10	star	star	NOUN	S	Gender=Masc	7	nmod	_	_
+11	italiane	italiano	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non la fate scappare.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	scappare	scappare	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

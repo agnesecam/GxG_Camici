@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Serie A: il Napoli resta a -6 dalla Juve http:// dlvr.it/L1byxc pic.twitter.com/j8YSc8lHTz
+1	Serie	serie	PROPN	SP	_	6	obl	_	_
+2	A	a	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Napoli	Napoli	PROPN	SP	_	6	nsubj	_	_
+6	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	E	_	12	case	_	_
+8	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	6	6	NUM	N	NumType=Card	12	nummod	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Juve	Juve	PROPN	SP	_	6	obl	_	_
+13	http:	http:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	dlvr.it/L1byxc	dlvr.it/L1byxc	PROPN	SP	_	6	xcomp	_	_
+17	pic.twitter.com/j8YSc8lHTz	pic.twitter.com/j8YSc8lHTz	PROPN	SP	_	16	flat:name	_	SpacesAfter=\n
+

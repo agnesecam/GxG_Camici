@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @11Giovan Lo so...ma prima non sopporto Lucio,come mediano c'era Zanetti,Cambiasso, feci una premessa,aveva le doti per farlo e poi meritava!
+1	@11Giovan	@11Giovan	PROPN	SP	_	3	nsubj	_	_
+2	Lo	lo	PROPN	SP	_	1	flat:name	_	_
+3	so...ma	so...mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	prima	prima	ADV	B	_	6	advmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	sopporto	sopporgere	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	3	obj	_	_
+7	Lucio,come	Lucio,come	CCONJ	CC	_	8	cc	_	_
+8	mediano	mediano	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	_
+9	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	SpaceAfter=No
+10	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+11	Zanetti	Zanetti	PROPN	SP	_	10	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	Cambiasso	Cambiasso	PROPN	SP	_	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	17	punct	_	_
+15	feci	feci	NUM	N	_	17	nummod	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	premessa	premessa	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+19	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	doti	dote	NOUN	S	Gender=Fem|Number=Plur	19	obj	_	_
+22	per	per	ADP	E	_	23	mark	_	_
+23-24	farlo	_	_	_	_	_	_	_	_
+23	far	fare	VERB	V	VerbForm=Inf	21	acl	_	_
+24	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+25	e	e	CCONJ	CC	_	27	cc	_	_
+26	poi	poi	ADV	B	_	27	advmod	_	_
+27	meritava	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	conj	_	SpaceAfter=No
+28	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Galliani : “ #Balotelli dovrà convincerci, per ora non merita la conferma” http:// gianlucadimarzio.com/news-cat/galli ani-balotelli-dovra-convincerci-per-ora-non-merita-la-conferma/ …
+1	#Galliani	#Galliano	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	“	“	PUNCT	FB	_	6	punct	_	_
+4	#Balotelli	#Balotelli	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	convincerci	convincere	VERB	V	VerbForm=Inf	1	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	11	punct	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	ora	ora	ADV	B	_	11	advmod	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	merita	meritare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	conferma	conferma	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	”	”	PUNCT	FB	_	19	punct	_	_
+15	http:	http:	PUNCT	FC	_	19	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	15	punct	_	_
+18	gianlucadimarzio.com/news-cat/galli	gianlucadimarzio.com/news-cat/gallo	ADJ	A	Number=Plur	19	amod	_	_
+19	ani	ano	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	balotelli	balotello	NOUN	S	Gender=Masc|Number=Plur	19	compound	_	SpaceAfter=No
+22	-dovra-convincerci-per-ora-non-merita-la	-dovra-convincerci-per-ora-non-merita-la	DET	RD	Gender=Fem|Number=Sing	24	det	_	SpaceAfter=No
+23	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+24	conferma	conferma	NOUN	S	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+25	/	/	PUNCT	FF	_	24	punct	_	_
+26	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

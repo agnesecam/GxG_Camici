@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se aveste avuto dubbi sul fatto che fosse un referendum idiota, forse #trivellatuasorella potrebbe averveli tolti.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	aveste	avedere	VERB	V	Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	17	advcl	_	_
+3	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+4	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5-6	sul	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	che	che	SCONJ	CS	_	9	mark	_	_
+9	fosse	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	referendum	referendum	NOUN	S	Gender=Masc	9	obj	_	_
+12	idiota	idioto	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	3	punct	_	_
+14	forse	forse	ADV	B	_	17	advmod	_	_
+15	#trivellatuasorella	#trivellatuasorello	PRON	PI	Number=Sing|PronType=Ind	17	nsubj	_	_
+16	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	averveli	avervelare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	tolti	tolto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	17	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	17	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Secondo me è il ciuffo che lo fa sembrare più alto.
+1	Secondo	secondo	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ciuffo	ciuffo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	sembrare	sembrare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	più	più	ADV	B	_	11	advmod	_	_
+11	alto	alto	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = #ijf16 #energytelling pic.twitter.com/gXoLGz8Pxx
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	ijf16	ijf16	NUM	N	NumType=Card	3	nummod	_	_
+3	#energytelling	#energytelling	NOUN	S	Gender=Masc	0	root	_	_
+4	pic.twitter.com/gXoLGz8Pxx	pic.twitter.com/gXoLGz8Pxx	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma perché non riusciamo a fare più di un punto a partita ultimamente?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	perché	perché	SCONJ	CS	_	4	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	riusciamo	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	fare	fare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	più	più	ADV	B	_	10	advmod	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	punto	punto	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	partita	partita	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	ultimamente	ultimamente	ADV	B	_	10	advmod	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Stavamo andando così bene prima del Sassuolo #MilanLazio @acmilan
+1	Stavamo	Stare	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	andando	andare	VERB	V	VerbForm=Ger	0	root	_	_
+3	così	così	ADV	B	_	8	advmod	_	_
+4	bene	bene	ADV	B	_	8	advmod	_	_
+5	prima	prima	ADV	B	_	8	case	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	5	fixed	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Sassuolo	Sassuolo	PROPN	SP	_	2	obj	_	_
+9	#MilanLazio	#MilanLazio	PROPN	SP	_	8	flat:name	_	_
+10	@acmilan	@acmilan	ADJ	A	Number=Sing	8	amod	_	SpacesAfter=\n
+

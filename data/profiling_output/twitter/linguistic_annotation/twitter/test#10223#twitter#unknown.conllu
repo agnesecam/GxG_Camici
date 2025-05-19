@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @FelisCatus333 P I G R O !!!!
+1	@FelisCatus333	@FelisCatus333	PROPN	SP	_	0	root	_	_
+2	P	P	PROPN	SP	_	1	flat:name	_	_
+3	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	G	g	PROPN	SP	_	1	nmod	_	_
+5	R	R	PROPN	SP	_	4	flat:name	_	_
+6	O	O	PROPN	SP	_	4	flat:name	_	_
+7	!!!	!!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = (fai benissimo )ciao e buona giornata
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+3	benissimo	bene	ADV	B	Degree=Abs	2	advmod	_	_
+4	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+5	ciao	ciao	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	buona	buono	ADJ	A	Gender=Fem|Number=Sing	5	conj	_	_
+8	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

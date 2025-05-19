@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mai avrei creduto di poterlo dire, ma ti voglio più bene di quanto avessimo mai potuto immaginare!
+1	Mai	mai	ADV	B	_	3	advmod	_	_
+2	avrei	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	creduto	credere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	7	mark	_	_
+5-6	poterlo	_	_	_	_	_	_	_	_
+5	poter	potere	AUX	VM	VerbForm=Inf	7	aux	_	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	dire	dire	VERB	V	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	19	punct	_	_
+9	ma	ma	CCONJ	CC	_	19	cc	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	iobj	_	_
+11	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+12	più	più	ADV	B	_	19	advmod	_	_
+13	bene	bene	ADV	B	_	19	advmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	19	obl	_	_
+16	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	19	aux	_	_
+17	mai	mai	ADV	B	_	19	advmod	_	_
+18	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	aux	_	_
+19	immaginare	immaginare	VERB	V	VerbForm=Inf	3	conj	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = @piero_barone pic.twitter.com/nnF2jPeEGi
+1	@piero_barone	@piero_barone	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	pic.twitter.com/nnF2jPeEGi	pic.twitter.com/nnF2jPeEGi	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

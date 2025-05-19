@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @JuveClubTweet non gioca per la squadra...
+1	@JuveClubTweet	@JuveClubTwee	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	gioca	giocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	squadra...	squadra...	NOUN	S	_	3	obl	_	_
+
+# sent_id = 2
+# text = ma però la butta dentro .
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	però	però	ADV	B	_	4	advmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	butta	butta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	dentro	dentro	ADV	B	_	4	advmod	_	_
+6	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

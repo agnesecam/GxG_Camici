@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Raga smettetela di modificare le foto perché in quelle taggate non sembrare voi stesse.
+1	Raga	Raga	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	smettetela	smettetelare	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	modificare	modificare	VERB	V	VerbForm=Inf	2	acl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	foto	foto	NOUN	S	Gender=Fem	4	obj	_	_
+7	perché	perché	SCONJ	CS	_	12	mark	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	taggate	taggare	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	sembrare	sembrare	VERB	V	VerbForm=Inf	4	advcl	_	_
+13	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	12	obj	_	_
+14	stesse	stesso	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	13	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ve ne rendete conto ?!
+1	Ve	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	rendete	rendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	conto	conto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Abbiate dignità cazzo !
+1	Abbiate	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	dignità	dignite	NOUN	S	Gender=Fem	1	nsubj:pass	_	_
+3	cazzo	cazzo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

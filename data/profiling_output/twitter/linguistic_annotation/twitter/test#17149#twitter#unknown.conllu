@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @franco_sala @matteorenzi Alza la voce a sproposito per difendere la SUA @meb e la poltrona avuta senza essere eletto.
+1	@franco_sala	@franco_salare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	@matteorenzi	@matteorenzi	ADP	E	_	3	case	_	_
+3	Alza	Alza	PROPN	SP	_	1	nmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	voce	voce	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	sproposito	sproposito	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	per	per	ADP	E	_	9	mark	_	_
+9	difendere	difendere	VERB	V	VerbForm=Inf	1	acl	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	SUA	suo	PROPN	SP	_	9	obj	_	_
+12	@meb	@mebbraio	PROPN	SP	_	11	flat:name	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	poltrona	poltrona	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	_
+16	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	acl	_	_
+17	senza	senza	ADP	E	_	19	mark	_	_
+18	essere	essere	AUX	VA	VerbForm=Inf	19	aux:pass	_	_
+19	eletto	eleggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

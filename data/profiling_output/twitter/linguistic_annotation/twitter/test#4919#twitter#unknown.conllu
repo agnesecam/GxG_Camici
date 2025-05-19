@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caso Scieri, parla la madre:
+1	Caso	caso	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Scieri	Scieri	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	madre	madre	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = perché non fu cercato subito?
+1	perché	perché	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	cercato	cercare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	subito	subito	ADV	B	_	4	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Daniela Preziosi, @ilmanifesto http:// ilmanifesto.info/caso-scieri-pa rla-la-madre-perche-non-fu-cercato-subito/ … pic.twitter.com/BuswBX4wZI
+1-2	Daniela	_	_	_	_	_	_	_	_
+1	Danie	Danie	ADV	B	_	9	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Preziosi	prezioso	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	@ilmanifesto	@ilmanifesto	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+6	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	5	punct	_	_
+9	ilmanifesto.info/caso-scieri-pa	ilmanifesto.info/caso-scieri-pare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	rla-la-madre	rla-la-madre	VERB	V	VerbForm=Inf	9	conj	_	SpaceAfter=No
+11	-	-	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+12	perche	perca	ADV	B	_	14	advmod	_	SpaceAfter=No
+13	-non	-non	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	SpaceAfter=No
+14	-fu-cercato	-fu-cercato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	subito	subito	ADV	B	_	14	advmod	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	14	punct	_	_
+18	…	…	PUNCT	FF	_	10	punct	_	_
+19	pic.twitter.com/BuswBX4wZI	pic.twitter.com/BuswBX4wZI	PROPN	SP	_	9	obj	_	SpacesAfter=\n
+

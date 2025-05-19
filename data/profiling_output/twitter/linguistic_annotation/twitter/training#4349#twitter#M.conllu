@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "La Roma concede a Totti di scegliere, ma siccome lui ha scelto male, beh qualcuno dovrà trovare la forza per dirglielo" @fabriziobocca1
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Roma	Roma	PROPN	SP	_	4	nsubj	_	_
+4	concede	concedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Totti	Totti	PROPN	SP	_	4	obl	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	scegliere	scegliere	VERB	V	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	14	punct	_	_
+10	ma	ma	CCONJ	CC	_	14	cc	_	_
+11	siccome	siccome	SCONJ	CS	_	14	mark	_	_
+12	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	_
+15	male	male	ADV	B	_	14	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	20	punct	_	_
+17	beh	beh	INTJ	I	_	20	discourse	_	_
+18	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	_
+19	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	aux	_	_
+20	trovare	trovare	VERB	V	VerbForm=Inf	4	conj	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	forza	forza	NOUN	S	Gender=Fem|Number=Sing	25	nsubj	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24-25	dirglielo	_	_	_	_	_	_	_	SpaceAfter=No
+24	dirglie	dirglia	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	25	obl	_	_
+25	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+26	"	"	PUNCT	FB	_	25	punct	_	_
+27	@fabriziobocca1	@fabriziobocca1	NUM	N	NumType=Card	25	nummod	_	SpacesAfter=\n
+

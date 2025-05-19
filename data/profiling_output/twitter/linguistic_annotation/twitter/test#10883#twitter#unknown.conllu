@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forse Jude non ha scelto di caricarselo, forse semplicemente non poteva fare altrimenti
+1	Forse	forse	ADV	B	_	5	advmod	_	_
+2	Jude	Jude	PROPN	SP	_	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7-9	caricarselo	_	_	_	_	_	_	_	SpaceAfter=No
+7	caricar	caricar	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+10	,	,	PUNCT	FF	_	5	punct	_	_
+11	forse	forse	ADV	B	_	15	advmod	_	_
+12	semplicemente	semplicemente	ADV	B	_	15	advmod	_	_
+13	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+14	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+16	altrimenti	altrimenti	ADV	B	_	15	advmod	_	SpacesAfter=\n
+

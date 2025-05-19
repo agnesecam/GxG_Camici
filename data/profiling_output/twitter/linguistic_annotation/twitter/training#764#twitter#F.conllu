@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sogninontuoi sono due settimane che ci ignoriamo come se avessimo litigato e in realtà non è successo assolutamente niente
+1	@sogninontuoi	@sogninontuo	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	due	due	NUM	N	NumType=Card	4	nummod	_	_
+4	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	_
+7	ignoriamo	ignorare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	come	come	ADV	B	_	17	advmod	_	_
+9	se	se	SCONJ	CS	_	17	mark	_	_
+10	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	litigato	litigato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
+12	e	e	CCONJ	CC	_	17	cc	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	successo	successo	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+18	assolutamente	assolutamente	ADV	B	_	17	advmod	_	_
+19	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	obl	_	SpacesAfter=\n
+

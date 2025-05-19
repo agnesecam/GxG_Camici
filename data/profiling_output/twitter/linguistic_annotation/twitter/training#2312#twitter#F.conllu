@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dentro o fuori poco importa, si barcolla ma non si molla, vero?
+1	Dentro	dentro	ADV	B	_	8	advmod	_	_
+2	o	o	CCONJ	CC	_	5	cc	_	_
+3	fuori	fuori	ADV	B	_	4	advmod	_	_
+4	poco	poco	ADV	B	_	5	advmod	_	_
+5	importa	importo	ADJ	A	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+8	barcolla	barcollare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	ma	ma	CCONJ	CC	_	12	cc	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	molla	mollare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	vero	vero	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = @CristianoCosa #Amici15
+1	@CristianoCosa	@CristianoCosa	PROPN	SP	_	0	root	_	_
+2	#Amici15	#Amici15	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n
+

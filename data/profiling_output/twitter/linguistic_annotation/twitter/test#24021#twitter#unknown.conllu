@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nadia Toffa, per cortesia , non disturbare Vendola, sta allattando.
+1	Nadia	Nadia	PROPN	SP	_	8	obl	_	_
+2	Toffa	Toffa	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	disturbare	disturbare	VERB	V	VerbForm=Inf	0	root	_	_
+9-10	Vendola	_	_	_	_	_	_	_	SpaceAfter=No
+9	Vendo	Vere	PROPN	SP	_	8	obj	_	_
+10	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	allattando	allattare	VERB	V	VerbForm=Ger	8	conj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = #leiene
+1	#leiene	#leenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

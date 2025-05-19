@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SEMBRARE MODERATI, BELLI O COLTI, BRAVI, INTERESSANTI CON I SOCIALS E' MOLTO SEMPLICE COSI' COME APPARIRE... http:// fb.me/84MWUSoes
+1	SEMBRARE	sembrare	PROPN	SP	_	15	nsubj:pass	_	_
+2	MODERATI	moderati	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	BELLI	belli	PROPN	SP	_	1	conj	_	_
+5	O	O	PROPN	SP	_	4	flat:name	_	_
+6	COLTI	COLTI	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	BRAVI	bravo	PROPN	SP	_	1	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	INTERESSANTI	interessante	PROPN	SP	_	1	conj	_	_
+11	CON	con	PROPN	SP	_	10	flat:name	_	_
+12	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	SOCIALS	SOCIALS	PROPN	SP	_	11	flat:name	_	_
+14	E'	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
+15	MOLTO	molto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	SEMPLICE	semplice	PROPN	SP	_	15	nsubj:pass	_	_
+17	COSI'	COSI'	PROPN	SP	_	16	flat:name	_	_
+18	COME	come	PROPN	SP	_	16	flat:name	_	_
+19	APPARIRE...	APPARIRE...	PROPN	SP	_	18	flat:name	_	_
+20	http:	http:	PUNCT	FC	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	FF	_	18	punct	_	SpaceAfter=No
+22	/	/	PUNCT	FF	_	18	punct	_	_
+23	fb.me/84MWUSoes	fb.me/84MWUSoes	PROPN	SP	_	15	flat:name	_	SpacesAfter=\n
+

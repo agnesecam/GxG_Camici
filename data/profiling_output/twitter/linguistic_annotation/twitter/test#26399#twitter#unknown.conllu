@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La seconda opportunità è un dono che ci concedono le persone che ci amano, se ci giochiamo anche quello le avremo perse per sempre.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+3	opportunità	opportunità	NOUN	S	Gender=Fem	6	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dono	dono	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+9	concedono	concedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	persone	persona	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	obj	_	_
+14	amano	amare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	6	punct	_	_
+16	se	se	SCONJ	CS	_	18	mark	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	expl	_	_
+18	giochiamo	giochare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+19	anche	anche	ADV	B	_	20	advmod	_	_
+20	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	18	obj	_	_
+21	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+22	avremo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	23	aux	_	_
+23	perse	perdere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	20	acl:relcl	_	_
+24	per	per	ADP	E	_	25	case	_	_
+25	sempre	sempre	ADV	B	_	23	advmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n
+

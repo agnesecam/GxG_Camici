@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Benji_Mascolo io lo comprerò il giorno che farete l'instore a Roma
+1	@Benji_Mascolo	@Benji_Mascolare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	comprerò	comprare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	farete	faere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	instore	instore	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	Roma	Roma	PROPN	SP	_	8	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Marco #Orsi in discoteca come se non ci fossero delle Olimpiadi
+1	Marco	Marco	PROPN	SP	_	0	root	_	_
+2	#Orsi	#Orsi	PROPN	SP	_	1	flat:name	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	discoteca	discoteca	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	come	come	ADV	B	_	9	advmod	_	_
+6	se	se	SCONJ	CS	_	9	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+10-11	delle	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	Olimpiadi	Olimpiadi	PROPN	SP	_	9	obl	_	SpacesAfter=\n
+

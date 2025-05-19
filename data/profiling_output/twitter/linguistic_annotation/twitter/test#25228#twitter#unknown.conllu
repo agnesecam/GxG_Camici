@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @vocalelli
+1	@vocalelli	@vocalello	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = 2
+# text = Non ricordo sue indignazioni per Inter-Chelsea e Juve-Monaco Anche quelle furono due partite con arbitraggi scandalosi.Coerenza
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	indignazioni	indignazione	NOUN	S	Gender=Fem|Number=Plur	11	nsubj	_	_
+5	per	per	ADP	E	_	6	case	_	_
+6	Inter-Chelsea	Inter-Chelsea	PROPN	SP	_	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	Juve-Monaco	Juve-Monaco	PROPN	SP	_	6	conj	_	_
+9	Anche	anche	ADV	B	_	10	advmod	_	_
+10	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	11	nsubj	_	_
+11	furono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+12	due	due	NUM	N	NumType=Card	13	nummod	_	_
+13	partite	partita	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14	con	con	ADP	E	_	15	case	_	_
+15	arbitraggi	arbitraggio	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	_
+16	scandalosi.Coerenza	scandalosi.Coerenza	PROPN	SP	_	15	nmod	_	SpacesAfter=\n
+

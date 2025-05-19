@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho appena scoperto che dopo un po' di tempo dalla morte diventiamo tutti neri.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	appena	appena	ADV	B	_	3	advmod	_	_
+3	scoperto	scoprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	13	mark	_	_
+5	dopo	dopo	ADP	E	_	7	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	po'	poco	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10-11	dalla	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	morte	morte	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+13	diventiamo	diventare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+14	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	obj	_	_
+15	neri	nero	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Che figata
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	figata	figare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

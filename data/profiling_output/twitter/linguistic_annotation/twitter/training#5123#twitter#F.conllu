@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ieri ci facevate gli auguri e oggi già ricominciate con gli stereotipi.
+1	Ieri	ieri	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
+3	facevate	facevare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	auguri	augurio	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	oggi	oggi	ADV	B	_	9	advmod	_	_
+8	già	già	ADV	B	_	9	advmod	_	_
+9	ricominciate	ricominciare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	stereotipi	stereotipo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #vergogna
+1	#vergogna	#vergognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

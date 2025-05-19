@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Inglesi che non si mettono d'accordo su quando aggiungere latte al tea Ciascuno ha la sua teoria Ciascuna teoria è l'unica valida
+1	Inglesi	inglese	NOUN	S	Number=Plur	16	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	mettono	mettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+6	d'	di	ADP	E	_	7	case	_	SpaceAfter=No
+7	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	su	su	ADP	E	_	10	mark	_	_
+9	quando	quando	SCONJ	CS	_	8	fixed	_	_
+10	aggiungere	aggiungere	VERB	V	VerbForm=Inf	5	advcl	_	_
+11	latte	latta	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	tea	tea	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+15	Ciascuno	ciascuno	PROPN	SP	_	14	nmod	_	_
+16	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	teoria	teoria	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+20	Ciascuna	ciascuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
+21	teoria	teoria	NOUN	S	Gender=Fem|Number=Sing	25	nsubj	_	_
+22	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+23	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	SpaceAfter=No
+24	unica	unico	ADJ	A	Gender=Fem|Number=Sing	25	amod	_	_
+25	valida	valido	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+

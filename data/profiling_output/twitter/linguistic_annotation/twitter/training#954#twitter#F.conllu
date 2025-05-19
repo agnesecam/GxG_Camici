@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @dDinoPirri Prova il "Divinum Naturalis", senza pesticidi né solfiti aggiunti.
+1	@dDinoPirri	@dDinoPirri	PROPN	SP	_	0	root	_	_
+2	Prova	prova	PROPN	SP	_	1	flat:name	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Divinum	Divinum	PROPN	SP	_	1	nmod	_	_
+6	Naturalis	Naturalis	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	senza	senza	ADP	E	_	10	case	_	_
+10	pesticidi	pesticidio	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+11	né	né	CCONJ	CC	_	12	cc	_	_
+12	solfiti	solfito	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+13	aggiunti	aggiunto	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Dalla Coop.
+1-2	Dalla	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Coop	Coop	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

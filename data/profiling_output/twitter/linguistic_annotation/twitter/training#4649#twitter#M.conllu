@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Trump: “Arabia dovrà rimborsarci per la lotta all’Is” – italiapatriamia http:// italiapatriamia.eu/trump-arabia-d ovra-rimborsarci-per-la-lotta-allis …
+1	Trump	Trump	NOUN	S	Gender=Masc	6	obl	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	“	“	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+4	Arabia	Arabia	PROPN	SP	_	6	nsubj	_	_
+5	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6-7	rimborsarci	_	_	_	_	_	_	_	_
+6	rimborsar	rimborsarre	VERB	V	VerbForm=Inf	0	root	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	lotta	lotta	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+11-12	all’	_	_	_	_	_	_	_	SpaceAfter=No
+11	a	a	ADP	E	_	13	case	_	_
+12	l’	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	Is	is	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+14	”	”	PUNCT	FB	_	6	punct	_	_
+15	–	–	PUNCT	FF	_	16	punct	_	_
+16	italiapatriamia	italiapatriamia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	italiapatriamia.eu/trump-arabia-d	italiapatriamia.eu/trump-arabia-d	X	SW	Foreign=Yes	16	compound	_	_
+21	ovra-rimborsarci-per-la-lotta-allis	ovra-rimborsarci-per-la-lotta-allis	X	SW	Foreign=Yes	20	flat:foreign	_	_
+22	…	…	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

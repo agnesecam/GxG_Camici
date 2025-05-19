@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ruiu "Milan per autofinanziarsi dovrà scegliere a Luglio tra Gigio e Bacca, ma mentre Gigio tra due anni varrà uguale o + Bacca sarà calato"
+1	Ruiu	Ruiu	ADP	E	_	3	case	_	_
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	Milan	Milan	PROPN	SP	_	8	obl	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5-6	autofinanziarsi	_	_	_	_	_	_	_	_
+5	autofinanziar	autofinanziare	VERB	V	VerbForm=Inf	8	advcl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	obj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	scegliere	scegliere	VERB	V	VerbForm=Inf	0	root	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	Luglio	luglio	PROPN	SP	_	8	obl	_	_
+11	tra	tra	ADP	E	_	12	case	_	_
+12	Gigio	Gigio	PROPN	SP	_	28	obl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	Bacca	Bacca	PROPN	SP	_	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	28	punct	_	_
+16	ma	ma	CCONJ	CC	_	28	cc	_	_
+17	mentre	mentre	SCONJ	CS	_	28	mark	_	_
+18	Gigio	Gigio	PROPN	SP	_	22	nsubj	_	_
+19	tra	tra	ADP	E	_	21	case	_	_
+20	due	due	NUM	N	NumType=Card	21	nummod	_	_
+21	anni	anno	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	_
+22	varrà	vanire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	28	advcl	_	_
+23	uguale	uguale	ADJ	A	Number=Sing	26	amod	_	_
+24	o	o	CCONJ	CC	_	25	cc	_	_
+25	+	+	SYM	SYM	_	23	conj	_	_
+26	Bacca	Bacca	PROPN	SP	_	28	nsubj	_	_
+27	sarà	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	28	aux	_	_
+28	calato	calare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	xcomp	_	SpaceAfter=No
+29	"	"	PUNCT	FB	_	8	punct	_	SpacesAfter=\n
+

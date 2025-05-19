@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fedefederossi e vabbe!
+1	@fedefederossi	@fedefederuovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	vabbe	va	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = È già molto se riesci a capirne qualcuna perché noi donne siamo molto complicate!
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	già	già	ADV	B	_	5	advmod	_	_
+3	molto	molto	ADV	B	_	5	advmod	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	riesci	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7-8	capirne	_	_	_	_	_	_	_	_
+7	capir	capire	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	7	iobj	_	_
+9	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	7	obj	_	_
+10	perché	perché	SCONJ	CS	_	15	mark	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	15	nsubj	_	_
+12	donne	donna	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	_
+13	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	molto	molto	ADV	B	_	15	advmod	_	_
+15	complicate	complicare	ADJ	A	Gender=Fem|Number=Plur	5	advcl	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

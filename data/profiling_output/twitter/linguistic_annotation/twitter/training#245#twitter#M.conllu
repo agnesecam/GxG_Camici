@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = abbiamo creduto che con le questioni dottrinali, bioetiche e morali, senza motivare l'apertura alla grazia, avessimo già sostenuto famiglie
+1	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	creduto	credere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	che	che	SCONJ	CS	_	23	mark	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	questioni	questione	NOUN	S	Gender=Fem|Number=Plur	23	obl	_	_
+7	dottrinali	dottrinale	ADJ	A	Number=Plur	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	bioetiche	bioetico	ADJ	A	Gender=Fem|Number=Plur	7	conj	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	morali	morale	ADJ	A	Number=Plur	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	6	punct	_	_
+13	senza	senza	ADP	E	_	14	mark	_	_
+14	motivare	motivare	VERB	V	VerbForm=Inf	6	acl	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
+16	apertura	apertura	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	_
+17-18	alla	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	grazia	grazia	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	6	punct	_	_
+21	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	23	aux	_	_
+22	già	già	ADV	B	_	23	advmod	_	_
+23	sostenuto	sostenere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+24	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	SpacesAfter=\n
+

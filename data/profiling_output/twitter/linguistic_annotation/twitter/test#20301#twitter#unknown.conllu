@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @EdoardoBuffoni Razzi "orgoglio abruzzese"!
+1	@EdoardoBuffoni	@EdoardoBuffone	PROPN	SP	_	0	root	_	_
+2	Razzi	razzi	PROPN	SP	_	1	flat:name	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	orgoglio	orgoglio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	abruzzese	abruzzese	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Ma uno come lui che ci fa soltanto fare brutta figura dovunque vada.
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	soltanto	soltanto	ADV	B	_	9	advmod	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10	brutta	brutto	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	_
+11	figura	figura	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+12	dovunque	dovunque	SCONJ	CS	_	13	mark	_	_
+13	vada	vada	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

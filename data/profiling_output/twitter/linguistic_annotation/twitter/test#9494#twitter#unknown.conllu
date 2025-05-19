@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il solito culo dell'Inter.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	solito	solito	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	culo	culo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4-5	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+4	di	di	ADP	E	_	6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	Inter	Inter	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #FrosinoneInter
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	FrosinoneInter	FrosinoneInter	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

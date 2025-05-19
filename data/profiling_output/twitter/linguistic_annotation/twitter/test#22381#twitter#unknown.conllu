@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_AnnaTatangelo_ Tutti i tuoi cd sono bellissimi, ma spero che ne facessi uno solo di cover perché le canti come fossero tue!
+1	@_AnnaTatangelo_	@_AnnaTatangelo-	PUNCT	FB	_	7	punct	_	_
+2	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	cd	cd	NOUN	S	Gender=Masc	7	nsubj	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	bellissimi	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	ma	ma	CCONJ	CC	_	10	cc	_	_
+10	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	13	expl	_	_
+13	facessi	facettere	VERB	V	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+14	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obj	_	_
+15	solo	solo	ADV	B	_	17	advmod	_	_
+16	di	di	ADP	E	_	17	mark	_	_
+17	cover	covere	VERB	V	VerbForm=Inf	13	advcl	_	_
+18	perché	perché	SCONJ	CS	_	20	mark	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	canti	cante	NOUN	S	Gender=Fem|Number=Plur	17	advcl	_	_
+21	come	come	SCONJ	CS	_	22	mark	_	_
+22	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	advcl	_	_
+23	tue	tuo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	22	det	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = <3 Un bacio.*
+1	<3	<3	NUM	N	NumType=Range	2	nummod	_	_
+2	Un	Un	PROPN	SP	_	0	root	_	_
+3	bacio.*	bacio.*	PUNCT	FF	_	2	punct	_	SpacesAfter=\n
+

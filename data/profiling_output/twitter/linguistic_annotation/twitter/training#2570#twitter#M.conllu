@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oddio,smettetela di far sembrare la vita uno schifo!
+1	Oddio,smettetela	Oddio,smettetela	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	far	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E non venite a dirmi "Ma la vita fa schifo!!" perché mi... http:// fb.me/7ftaoK8db
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	venite	venire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5-6	dirmi	_	_	_	_	_	_	_	_
+5	dir	dire	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+7	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+8	Ma	ma	CCONJ	CC	_	11	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+11	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+14	!"	!"	PUNCT	FF	_	3	punct	_	_
+15	perché	perché	SCONJ	CS	_	16	mark	_	_
+16	mi...	mi.	NOUN	S	Gender=Masc	3	advcl	_	_
+17	http:	http:	PUNCT	FC	_	16	punct	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	16	punct	_	SpaceAfter=No
+19	/	/	PUNCT	FF	_	16	punct	_	_
+20	fb.me/7ftaoK8db	fb.me/7ftaoK8db	PROPN	SP	_	3	nmod	_	SpacesAfter=\n
+

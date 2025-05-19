@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = le nostre madri e i sogni erotici con leandro che si facevano nel mentre noi guardavamo la puntata #9YearsOfPatitoFeo
+1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	madri	madre	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	sogni	sogno	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+7	erotici	erotico	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	leandro	leandro	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
+12	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
+13-14	nel	_	_	_	_	_	_	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mentre	mentre	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+16	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+17	guardavamo	guardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	puntata	puntata	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+20	#9YearsOfPatitoFeo	#9YearsOfPatitoFeo	PROPN	SP	_	19	nmod	_	SpacesAfter=\n
+

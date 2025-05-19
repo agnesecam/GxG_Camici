@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Emma è così convincente che se facesse una campagna elettorale la voterei.
+1	Emma	Emma	PROPN	SP	_	4	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	così	così	ADV	B	_	4	advmod	_	_
+4	convincente	convincente	ADJ	A	Number=Sing	0	root	_	_
+5	che	che	SCONJ	CS	_	12	mark	_	_
+6	se	se	SCONJ	CS	_	7	mark	_	_
+7	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	elettorale	elettorale	ADJ	A	Number=Sing	9	amod	_	_
+11	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	voterei	votereo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = #Amici15
+1	#Amici15	#Amici15	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

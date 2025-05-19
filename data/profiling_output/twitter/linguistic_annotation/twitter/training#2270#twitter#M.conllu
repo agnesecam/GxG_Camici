@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ed ora strategia Mihajlovic!
+1	Ed	e	CCONJ	CC	_	3	cc	_	_
+2	ora	ora	ADV	B	_	3	advmod	_	_
+3	strategia	strategia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	Mihajlovic	Mihajlovic	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Tutti dentro ndo' cojo cojo!
+1	Tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	_
+2	dentro	dentro	ADP	E	_	4	case	_	_
+3	ndo'	ndoo	DET	DD	Number=Sing|PronType=Dem	4	det	_	_
+4	cojo	cojo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	cojo	cojo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = #MilanJuve #ForzaMilan
+1	#MilanJuve	#MilanJuve	ADV	B	_	3	advmod	_	_
+2	#	#	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	ForzaMilan	ForzaMilan	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

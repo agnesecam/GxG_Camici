@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @C_Carlotta_C MA NOI, UNA CANTINA BUIA DOVE NOI NON CE L'ABBIAMO AVUTA MAAAAAAAAIIIIIII
+1	@C_Carlotta_C	@C_Carlotta_C	PROPN	SP	_	14	obj	_	_
+2	MA	ma	PROPN	SP	_	1	flat:name	_	_
+3	NOI	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	UNA	Una	PROPN	SP	_	14	obl	_	_
+6	CANTINA	CANTINA	PROPN	SP	_	5	flat:name	_	_
+7	BUIA	BUIA	PROPN	SP	_	5	flat:name	_	_
+8	DOVE	Dove	PROPN	SP	_	5	flat:name	_	_
+9	NOI	noi	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+10	NON	non	PROPN	SP	_	14	nsubj	_	_
+11	CE	CE	PROPN	SP	_	10	flat:name	_	_
+12	L'	lo	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No
+13	ABBIAMO	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	AVUTA	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15	MAAAAAAAAIIIIIII	MAAAAAAAAIIIIIII	PROPN	SP	_	14	xcomp	_	SpacesAfter=\n
+

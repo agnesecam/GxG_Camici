@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la Norma simpatica come pochi, gliela do io la lettera a Emma dai #BatesMotel
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Norma	norma	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	pochi	poco	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7-8	gliela	_	_	_	_	_	_	_	_
+7	glie	gliere	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	do	do	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	xcomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	lettera	lettera	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	Emma	Emma	PROPN	SP	_	12	nmod	_	_
+15-16	dai	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	#BatesMotel	#BatesMotel	PROPN	SP	_	14	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Mau_Romeo Ah ok,e quindi se avessimo subito gol nel recupero il record sarebbe stato salvo lo stesso???
+1	@Mau_Romeo	@Mau_Romeo	PROPN	SP	_	3	nsubj	_	_
+2	Ah	ah	PROPN	SP	_	1	flat:name	_	_
+3	ok,e	ok,e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	quindi	quindi	ADV	B	_	7	advmod	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
+7	subito	subito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+8	gol	gol	NOUN	S	Gender=Masc	7	obj	_	_
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	recupero	recupero	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	record	record	NOUN	S	Gender=Masc	8	nmod	_	_
+14	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	cop	_	_
+16	salvo	salvo	ADJ	A	Number=Sing	3	ccomp	_	_
+17	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
+19	?	?	PUNCT	FS	_	18	punct	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+

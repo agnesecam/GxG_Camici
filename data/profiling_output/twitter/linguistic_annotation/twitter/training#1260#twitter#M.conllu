@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @PianetaMilan siamo stanchi di vedere un @acmilan fuori dalla lotta per lo scudetto già a gennaio, siamo stanchi di vedere gente nn da milan
+1	@PianetaMilan	@PianetaMilan	PROPN	SP	_	3	nsubj	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	stanchi	stanco	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	vedere	vedere	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	@acmilan	@acmilan	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	fuori	fuori	ADV	B	_	11	case	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	8	fixed	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	lotta	lotta	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15	già	già	ADV	B	_	17	advmod	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	gennaio	gennaio	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	20	punct	_	_
+19	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	stanchi	stancare	ADJ	A	Gender=Masc|Number=Plur	3	conj	_	_
+21	di	di	ADP	E	_	22	mark	_	_
+22	vedere	vedere	VERB	V	VerbForm=Inf	20	advcl	_	_
+23	gente	gente	NOUN	S	Gender=Fem|Number=Sing	22	obj	_	_
+24	nn	nn	ADV	B	_	22	advmod	_	_
+25	da	da	ADP	E	_	26	case	_	_
+26	milan	milan	NOUN	S	Gender=Masc	22	obl	_	SpacesAfter=\n
+

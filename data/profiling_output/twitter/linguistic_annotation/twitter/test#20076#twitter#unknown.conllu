@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @EViezzi @ArcaGenovese1 quel letto era anche mio vorrei sottolineare.
+1	@EViezzi	@EViezzi	ADP	E	_	2	case	_	_
+2	@ArcaGenovese1	@ArcaGenovese1	PROPN	SP	_	9	obl	_	_
+3	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	letto	letto	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+5	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+6	anche	anche	ADV	B	_	9	advmod	_	_
+7	mio	mio	PRON	PP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	nsubj	_	_
+8	vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	sottolineare	sottolineare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = E non stavate mangiando, stavate cospergendo il letto di schifezze
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	mangiando	mangiare	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	stavate	stare	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	cospergendo	cospergere	VERB	V	VerbForm=Ger	4	advcl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	letto	letto	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	schifezze	schifezza	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	SpacesAfter=\n
+

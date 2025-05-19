@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Può sembrare un po' bizzarro, a taluni, che io ateo e materialista sia perchè agli islamici venga riconosciuto...
+1	Può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	po'	poco	ADV	B	_	5	advmod	_	_
+5	bizzarro	bizzarro	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	taluni	taluno	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	21	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+11	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+12	ateo	ateo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	materialista	materialista	ADJ	A	Gender=Masc|Number=Sing	12	conj	_	_
+15	sia	essere	CCONJ	CC	_	21	cc	_	_
+16	perchè	perché	SCONJ	CS	_	21	mark	_	_
+17-18	agli	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	islamici	islamico	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	_
+20	venga	venire	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	riconosciuto...	riconosciuto...	NOUN	S	_	2	conj	_	_
+
+# sent_id = 2
+# text = http:// fb.me/4qA5ipVrT
+1	http:	http:	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/4qA5ipVrT	fb.me/4qA5ipVrT	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

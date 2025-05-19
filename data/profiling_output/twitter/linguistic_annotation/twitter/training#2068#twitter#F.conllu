@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per me la stessa cosa che prende l'illuminato dallo spirito, grazie!
+1	Per	per	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nmod	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	prende	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	illuminato	illuminato	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10-11	dallo	_	_	_	_	_	_	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	spirito	spirito	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	5	punct	_	_
+14	grazie	grazie	NOUN	S	_	0	root	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = #ciaodarwin
+1	#ciaodarwin	#ciaodarwino	ADV	B	_	0	root	_	SpacesAfter=\n
+

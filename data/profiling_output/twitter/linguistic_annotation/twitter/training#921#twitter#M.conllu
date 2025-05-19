@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @enver post-elezioni, è una possibilità.
+1	@enver	@envere	ADP	E	_	4	case	_	_
+2	post	post	ADV	B	_	4	advmod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	possibilità	possibilità	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Ripeto:
+1	Ripeto	ripetere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 3
+# text = se avessimo un bipolarismo efficiente che hanno negli USA non ci sarebbero alleanze sghembe
+1	se	se	SCONJ	CS	_	2	mark	_	_
+2	avessimo	avessimo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bipolarismo	bipolarismo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	efficiente	efficiente	ADJ	A	Number=Sing	4	amod	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8-9	negli	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	USA	USA	PROPN	SP	_	7	obl	_	_
+11	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	expl	_	_
+13	sarebbero	essere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	alleanze	alleanza	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+15	sghembe	sghembi	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche per questo, la Stazione dell'Alta Velocità di Napoli-Afragola, dovrà vivere.
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	16	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Stazione	stazione	PROPN	SP	_	16	nsubj	_	_
+7-8	dell'	_	_	_	_	_	_	_	SpaceAfter=No
+7	di	di	ADP	E	_	9	case	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	Alta	Alta	PROPN	SP	_	6	nmod	_	_
+10	Velocità	Velocità	PROPN	SP	_	9	flat:name	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Napoli	Napoli	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+13	-Afragola	-Afragola	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	6	punct	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16	vivere	vivere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = Per ricordare una grande...
+1	Per	per	ADP	E	_	2	mark	_	_
+2	ricordare	ricordare	VERB	V	VerbForm=Inf	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	grande...	grande...	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+
+# sent_id = 3
+# text = http:// fb.me/3ZvpZrybF
+1	http:	http:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	fb.me/3ZvpZrybF	fb.me/3ZvpZrybF	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

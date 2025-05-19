@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #dallavostraparte forse domani il sindaco di La Spezia farà qualcosa (dopo il programma) e pensare che è proprio di quel quartiere
+1	#dallavostraparte	#dallavostraparte	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	forse	forse	ADV	B	_	1	advmod	_	_
+3	domani	domani	ADV	B	_	1	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sindaco	sindaco	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Spezia	Spezia	PROPN	SP	_	5	nmod	_	_
+9	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	advcl	_	_
+10	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	9	obj	_	_
+11	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+12	dopo	dopo	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	programma	programma	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+15	)	)	PUNCT	FB	_	14	punct	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	pensare	pensare	VERB	V	VerbForm=Inf	1	conj	_	_
+18	che	che	SCONJ	CS	_	20	mark	_	_
+19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	proprio	proprio	ADJ	A	Gender=Masc|Number=Sing	17	ccomp	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	23	det	_	_
+23	quartiere	quartiere	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	SpacesAfter=\n
+

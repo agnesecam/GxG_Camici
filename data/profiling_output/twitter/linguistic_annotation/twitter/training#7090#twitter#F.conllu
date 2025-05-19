@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #conUlisse /24 Zeus ad Atena:
+1	#conUlisse	#conUlisse	PROPN	SP	_	0	root	_	_
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	24	24	NUM	N	NumType=Card	4	nummod	_	_
+4	Zeus	Zeus	PROPN	SP	_	1	nmod	_	_
+5	ad	a	ADP	E	_	6	case	_	_
+6	Atena	Atena	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = V483 dunque facciamo patti leali...
+1	V483	V483	PROPN	SP	_	3	nsubj	_	_
+2	dunque	dunque	ADV	B	_	3	advmod	_	_
+3	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	patti	patto	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+5	leali...	leali.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = ... e AMANDOSI essi A VICENDA, come prima, PACE e ricchezza grande vi sia.
+1	...	...	PUNCT	FF	_	3	punct	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3-4	AMANDOSI	_	_	_	_	_	_	_	_
+3	AMANDO	AMANDO	PROPN	SP	_	17	nsubj	_	_
+4	SI	si	PROPN	SP	_	3	flat:name	_	_
+5	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
+6	A	a	PROPN	SP	_	5	nmod	_	_
+7	VICENDA	vicenda	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	3	punct	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	prima	prima	ADV	B	_	15	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	12	punct	_	_
+12	PACE	pace	PROPN	SP	_	10	conj	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	ricchezza	ricchezza	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+15	grande	grande	ADJ	A	Number=Sing	3	amod	_	_
+16	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	17	expl	_	_
+17	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	17	punct	_	SpacesAfter=\n
+

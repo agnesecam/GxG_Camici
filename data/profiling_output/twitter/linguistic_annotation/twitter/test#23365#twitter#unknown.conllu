@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oakeshott dice cose appropriate sul "razionalista" in politica Come Platone e al contrario di Heidegger, egli è un intellettuale disorganico
+1	Oakeshott	Oakeshott	ADV	B	_	2	advmod	_	_
+2	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	parataxis	_	_
+3	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+4	appropriate	appropriato	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+5-6	sul	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	8	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	razionalista	razionalista	NOUN	S	Number=Sing	4	obl	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	11	punct	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	politica	politica	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	Come	come	ADP	E	_	13	case	_	_
+13	Platone	Platone	PROPN	SP	_	8	nmod	_	_
+14	e	e	CCONJ	CC	_	17	cc	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	contrario	contrario	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	Heidegger	Heidegger	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	2	punct	_	_
+21	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+22	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+23	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	intellettuale	intellettuale	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+25	disorganico	disorganico	ADJ	A	Gender=Masc|Number=Sing	24	amod	_	SpacesAfter=\n
+

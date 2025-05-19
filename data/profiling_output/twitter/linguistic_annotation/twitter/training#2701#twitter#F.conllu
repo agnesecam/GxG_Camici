@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @forhesonly può sembrare una cosa "infantile" ho altro, ma io davvero ..fin da piccola mi piaceva armarmi di torcia e fare finta di essere-
+1	@forhesonly	@forhesonly	NOUN	S	Gender=Masc	3	nsubj	_	_
+2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	infantile	infantile	ADJ	A	Number=Sing	5	amod	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+10	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	ma	ma	CCONJ	CC	_	13	cc	_	_
+13	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+14	davvero	davvero	ADV	B	_	19	advmod	_	_
+15	..fin	..fin	ADV	B	_	19	advmod	_	_
+16	da	da	ADP	E	_	17	case	_	_
+17	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	15	obl	_	_
+18	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	iobj	_	_
+19	piaceva	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+20-21	armarmi	_	_	_	_	_	_	_	_
+20	armar	armare	VERB	V	VerbForm=Inf	19	xcomp	_	_
+21	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	iobj	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	torcia	torcia	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	fare	fare	VERB	V	VerbForm=Inf	3	conj	_	_
+26	finta	finta	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	_
+27	di	di	ADP	E	_	28	mark	_	_
+28	essere	essere	AUX	V	VerbForm=Inf	26	acl	_	SpaceAfter=No
+29	-	-	PUNCT	FB	_	28	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #Ermini PD:
+1	#Ermini	#Ermini	PROPN	SP	_	0	root	_	_
+2	PD	pd	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = Solo che qui Luis de Funès si sforzava per sembrare cretino!
+1	Solo	solo	ADV	B	_	8	advmod	_	_
+2	che	che	SCONJ	CS	_	8	mark	_	_
+3	qui	qui	ADV	B	_	8	advmod	_	_
+4	Luis	Luis	PROPN	SP	_	8	nsubj	_	_
+5	de	de	ADP	E	_	6	case	_	_
+6	Funès	Funès	PROPN	SP	_	4	nmod	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	sforzava	sforzavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	per	per	ADP	E	_	10	mark	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	8	advcl	_	_
+11	cretino	cretino	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 3
+# text = #dallavostraparte pic.twitter.com/kpKAg17YMg
+1	#dallavostraparte	#dallavostraparte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	pic.twitter.com/kpKAg17YMg	pic.twitter.com/kpKAg17YMg	PROPN	SP	_	1	nmod	_	SpacesAfter=\n
+

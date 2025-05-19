@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @nozze89 @MaxiErrante @sergiomura nessuno ha mai fermato una donna che vuole abortire!
+1	@nozze89	@nozze89	NUM	N	NumType=Card	7	nummod	_	_
+2	@MaxiErrante	@MaxiErrante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	3	det	_	_
+3	@sergiomura	@sergiomuro	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+4	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	mai	mai	ADV	B	_	7	advmod	_	_
+7	fermato	fermare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	donna	donna	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+11	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	abortire	abortire	VERB	V	VerbForm=Inf	9	acl:relcl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Lo farà in ogni caso .
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	caso	caso	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

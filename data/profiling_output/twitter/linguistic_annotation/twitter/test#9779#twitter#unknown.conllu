@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @NunziaMarciano E vabbè, il Rosenborg de noantri ha vinto il quinto titolo consecutivo .
+1	@NunziaMarciano	@NunziaMarciano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	E	e	CCONJ	CC	_	10	cc	_	_
+3	vabbè	vabbè	INTJ	I	_	10	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Rosenborg	Rosenborg	PROPN	SP	_	10	nsubj	_	_
+7	de	di	ADP	E	_	8	case	_	_
+8	noantri	noantro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nmod	_	_
+9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	quinto	quinto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	13	amod	_	_
+13	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+14	consecutivo	consecutivo	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Contenti loro
+1	Contenti	contento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	compound	_	SpacesAfter=\n
+

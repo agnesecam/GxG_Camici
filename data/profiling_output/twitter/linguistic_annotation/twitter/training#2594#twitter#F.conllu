@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Domani sarà una settimana senza vedervi, può sembrare banale ma a me e @vivodiZM , mancate troppo @fedefederossi @Benji_Mascolo
+1	Domani	Domani	ADV	B	_	2	advmod	_	_
+2	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	senza	senza	ADP	E	_	6	mark	_	_
+6-7	vedervi	_	_	_	_	_	_	_	SpaceAfter=No
+6	veder	vedere	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	expl	_	_
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	sembrare	sembrare	VERB	V	VerbForm=Inf	2	conj	_	_
+11	banale	banale	ADJ	A	Number=Sing	10	xcomp	_	_
+12	ma	ma	CCONJ	CC	_	18	cc	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	18	obl	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	@vivodiZM	@vivodiZM	PROPN	SP	_	14	conj	_	_
+17	,	,	PUNCT	FF	_	14	punct	_	_
+18	mancate	mancare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	_
+19	troppo	troppo	ADV	B	_	20	advmod	_	_
+20	@fedefederossi	@fedefederosso	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	_
+21	@Benji_Mascolo	@Benji_Mascolo	PROPN	SP	_	18	obj	_	SpacesAfter=\n
+

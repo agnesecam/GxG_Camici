@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @_damnedangel @kikachan87 se avessero scritto 007 saresti stata un agente segreto (scusa non faceva ridere(
+1	@_damnedangel	@_damnedangi	NOUN	S	_	0	root	_	_
+2	@kikachan87	@kikachan87	NUM	N	NumType=Card	1	nummod	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	avessero	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux:pass	_	_
+5	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	007	007	NUM	N	NumType=Card	7	nummod	_	_
+7	saresti	saresto	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+8	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	agente	agente	NOUN	S	Number=Sing	5	nsubj:pass	_	_
+11	segreto	segreto	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+13	scusa	scusare	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	_
+16	ridere	ridere	VERB	V	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
+17	(	(	PUNCT	FB	_	1	punct	_	SpacesAfter=\n
+

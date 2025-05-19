@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Chiara_Galiazzo è perché hai capito che ieri faceva troppo caldo ?!
+1	@Chiara_Galiazzo	@Chiara_Galiazzo	PROPN	SP	_	2	nsubj	_	_
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	perché	perché	SCONJ	CS	_	5	mark	_	_
+4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	ieri	ieri	ADV	B	_	8	advmod	_	_
+8	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+9	troppo	troppo	ADV	B	_	10	advmod	_	_
+10	caldo	caldo	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	_
+11	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Ahah io sono ancora in stato confusionale per i tuoi video.
+1	Ahah	Ahah	INTJ	I	_	6	discourse	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	ancora	ancora	ADV	B	_	6	advmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	stato	stato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7	confusionale	confusionale	ADJ	A	Number=Sing	6	amod	_	_
+8	per	per	ADP	E	_	11	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	video	video	NOUN	S	Gender=Masc	6	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Grazie
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpacesAfter=\n
+

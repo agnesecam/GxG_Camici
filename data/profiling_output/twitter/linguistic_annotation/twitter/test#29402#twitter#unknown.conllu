@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @VitoColla @matteorenzi @marattin grazie abolire legge Fornero e avrete i voti di milioni di fonne #precoci
+1	@VitoColla	@VitoCollare	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	@matteorenzi	@matteorenzi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	@marattin	@marattino	ADP	E	_	4	case	_	_
+4	grazie	grazie	NOUN	S	_	2	obl	_	_
+5	abolire	abolire	VERB	V	VerbForm=Inf	4	acl	_	_
+6	legge	legge	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	Fornero	Fornero	PROPN	SP	_	6	nmod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	avrete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	conj	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	voti	voto	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	fonne	fonna	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16-17	#precoci	_	_	_	_	_	_	_	SpacesAfter=\n
+16	#preco	#preco	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+

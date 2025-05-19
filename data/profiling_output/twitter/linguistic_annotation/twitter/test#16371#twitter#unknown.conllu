@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma dove eravate quando c'è stato l'attacco in Turchia?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	dove	dove	ADV	B	_	3	advmod	_	_
+3	eravate	eravare	VERB	A	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	quando	quando	SCONJ	CS	_	7	mark	_	_
+5	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
+9	attacco	attacco	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	Turchia	Turchia	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = #PrayForBelgium
+1	#PrayForBelgium	#PrayForBelgium	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n
+

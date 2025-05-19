@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono in Olanda.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	Olanda.	Olanda.	PROPN	SP	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...oddio non ci credo hahaha La camera è fantastica,con le lucine sopra il letto,proprio stile film I'm so happy to be here
+1	...oddio	...oddio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+5	hahaha	hahaavere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	camera	camera	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	fantastica,con	fantastica,con	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	lucine	lucina	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+12	sopra	sopra	ADP	E	_	15	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	letto,proprio	letto,proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	stile	stile	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+16	film	film	NOUN	S	Gender=Masc	15	compound	_	_
+17	I'm	I'm	PROPN	SP	_	16	nmod	_	_
+18	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+19	happy	happy	X	SW	Foreign=Yes	21	nmod	_	_
+20	to	to	X	SW	Foreign=Yes	19	flat:foreign	_	_
+21	be	ba	NOUN	S	Gender=Fem|Number=Plur	18	xcomp	_	_
+22	here	here	ADJ	A	Gender=Fem|Number=Plur	18	xcomp	_	SpacesAfter=\n
+

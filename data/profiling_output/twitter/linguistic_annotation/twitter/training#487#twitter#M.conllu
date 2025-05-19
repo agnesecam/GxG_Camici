@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @RobertoCabras4 @DavideRonni Grazie Roberto.
+1	@RobertoCabras4	@RobertoCabras4	PROPN	SP	_	0	root	_	_
+2	@DavideRonni	@DavideRonni	PROPN	SP	_	1	flat:name	_	_
+3	Grazie	grazie	PROPN	SP	_	1	flat:name	_	_
+4	Roberto	Roberto	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Se avessimo avuto lei come Presidente, le cose in Italia andrebbero molto meglio.
+1	Se	se	SCONJ	CS	_	3	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	avuto	avere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	_
+4	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	Presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	Italia	Italia	PROPN	SP	_	9	nmod	_	_
+12	andrebbero	andre	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	molto	molto	ADV	B	_	14	advmod	_	_
+14	meglio	meglio	ADV	B	_	12	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

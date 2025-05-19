@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dunque @monicabertini1 ora sei a @PremiumSportHD !
+1	Dunque	dunque	ADV	B	_	2	advmod	_	_
+2	@monicabertini1	@monicabertini1	NUM	N	NumType=Card	0	root	_	_
+3	ora	ora	ADV	B	_	2	advmod	_	_
+4	sei	sei	NUM	N	NumType=Card	3	nummod	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	@PremiumSportHD	@PremiumSportHD	PROPN	SP	_	3	obl	_	_
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Uno di questi giorni ci vuole una poesia allora :) ...
+1	Uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	poesia	poesia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	allora	allora	ADV	B	_	8	advmod	_	_
+10	:	:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	6	punct	_	_
+12	...	.	PUNCT	FF	_	6	punct	_	SpacesAfter=\n
+

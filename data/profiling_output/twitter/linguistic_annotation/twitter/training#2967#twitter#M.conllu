@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Peccato.
+1	Peccato	peccato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Da lontano potevano sembrare padre e figlio.
+1	Da	da	ADP	E	_	2	case	_	_
+2	lontano	lontano	ADV	B	_	4	advmod	_	_
+3	potevano	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	sembrare	sembrare	VERB	V	VerbForm=Inf	0	root	_	_
+5	padre	padre	NOUN	S	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = #Bargiggia #DeLaurentiis #Napoli #poteriforti pic.twitter.com/O4hXbi3Anm
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Bargiggia	Bargiggia	PROPN	SP	_	0	root	_	_
+3	#	#	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+4	DeLaurentiis	DeLaurentiis	PROPN	SP	_	2	nmod	_	_
+5	#Napoli	#Napoli	PROPN	SP	_	4	flat:name	_	_
+6	#poteriforti	#poteriforto	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+7	pic.twitter.com/O4hXbi3Anm	pic.twitter.com/O4hXbi3Anm	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n
+

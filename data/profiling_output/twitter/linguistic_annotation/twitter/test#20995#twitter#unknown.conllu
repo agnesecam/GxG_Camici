@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se continuate a far sentire questa risatina irritante una mazzata gliela do anch'io alla televisione.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	continuate	continuare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	far	fare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	sentire	sentire	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	risatina	risatina	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	irritante	irritare	ADJ	A	Number=Sing	7	amod	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mazzata	mazzata	NOUN	S	Gender=Fem|Number=Sing	13	dislocated	_	_
+11-12	gliela	_	_	_	_	_	_	_	_
+11	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+12	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	do	do	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+14	anch'	anche	ADV	B	_	15	advmod	_	SpaceAfter=No
+15	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+16-17	alla	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	televisione	televisione	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = #quartogrado
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	quartogrado	quartogrado	SCONJ	CS	_	0	root	_	SpacesAfter=\n
+

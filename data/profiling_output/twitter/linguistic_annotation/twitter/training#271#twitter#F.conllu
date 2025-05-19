@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sorgi, se non avessimo saputo chi e' lei, l'avremmo scambiata per un nuovo iscritto al club dei raffinati fazzoletti verdi padani...
+1	Sorgi	Sorgi	ADV	B	_	6	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	se	se	SCONJ	CS	_	6	mark	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	chi	chi	PRON	PR	Number=Sing|PronType=Rel	6	nsubj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	SpaceAfter=No
+9	'	'	PUNCT	FB	_	10	punct	_	_
+10	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	l'	lo	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	avremmo	avere	NOUN	S	Gender=Masc|Number=Sing	10	appos	_	_
+14	scambiata	scambiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+15	per	per	ADP	E	_	18	case	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	_
+18	iscritto	iscritto	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+19-20	al	_	_	_	_	_	_	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	club	club	NOUN	S	Gender=Masc	14	obl	_	_
+22-23	dei	_	_	_	_	_	_	_	_
+22	di	di	ADP	E	_	25	case	_	_
+23	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+24	raffinati	raffinato	ADJ	A	Gender=Masc|Number=Plur	25	amod	_	_
+25	fazzoletti	fazzoletto	NOUN	S	Gender=Masc|Number=Plur	21	nmod	_	_
+26	verdi	verde	ADJ	A	Number=Plur	25	amod	_	_
+27	padani...	padani.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n
+

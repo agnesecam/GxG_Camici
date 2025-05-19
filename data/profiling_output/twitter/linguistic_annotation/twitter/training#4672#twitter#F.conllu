@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il mio futuro ragazzo non dovrà farmi regali ogni mese, ma ogni tanto dovrà regalarmi dei fiori
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+3	futuro	futuro	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	farmi	arma|farme	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	regali	regale	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	10	det	_	_
+10	mese	mese	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	16	punct	_	_
+12	ma	ma	CCONJ	CC	_	16	cc	_	_
+13	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	14	det	_	_
+14	tanto	tanto	ADV	B	_	16	advmod	_	_
+15	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+16-17	regalarmi	_	_	_	_	_	_	_	_
+16	regalar	regalare	VERB	V	VerbForm=Inf	7	conj	_	_
+17	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+18-19	dei	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	fiori	fiore	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	SpacesAfter=\n
+

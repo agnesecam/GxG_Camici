@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = “ Feci versare io quei 400 mila euro.
+1	“	“	PUNCT	FB	_	3	punct	_	_
+2	Feci	Feci	NUM	N	_	3	nummod	_	_
+3	versare	versare	VERB	V	VerbForm=Inf	0	root	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+6	400	400	NUM	N	NumType=Card	8	nummod	_	_
+7	mila	mila	NUM	N	NumType=Card	6	flat	_	_
+8	euro	euro	NOUN	S	Gender=Masc	4	appos	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = E il cardinal Bertone sapeva del mio progetto” http://www.
+1	E	e	CCONJ	CC	_	5	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	cardinal	cardinal	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	Bertone	Bertone	PROPN	SP	_	3	nmod	_	_
+5	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	”	”	PUNCT	FB	_	9	punct	_	_
+11	http://www	http://www	NOUN	S	_	9	compound	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = lastampa.it/2016/04/02/ita lia/cronache/feci-versare-io-quei-mila-euro-e-il-cardinale-sapeva-del-mio-progetto-p7bZr7xq6rRl2b62OscIGN/pagina.html …
+1	lastampa.it/2016/04/02/ita	lastampa.it/2016/04/02/ire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lia	lia	DET	DI	Number=Sing|PronType=Ind	3	det	_	SpaceAfter=No
+3	/cronache	/cronaco	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+4	/	/	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	feci	feco	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+6	-versare-io	-versare-io	NOUN	S	Gender=Masc|Number=Sing	5	compound	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	quei-mila-euro	quei-mila-euro	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+10	e-il	e-ile	DET	RD	Definite=Def|PronType=Art	12	det	_	SpaceAfter=No
+11	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+12	cardinale	cardinale	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+13	-sapeva-del-mio	-sapeva-del-mio	NOUN	S	Gender=Masc|Number=Sing	12	compound	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	progetto	progetto	NOUN	S	Gender=Masc|Number=Sing	12	compound	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+17	p7bZr7xq6rRl2b62OscIGN	p7bZr7xq6rRl2b62OscIGN	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+18	/	/	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+19	pagina.html	pagina.html	NOUN	S	Number=Sing	17	nmod	_	_
+20	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

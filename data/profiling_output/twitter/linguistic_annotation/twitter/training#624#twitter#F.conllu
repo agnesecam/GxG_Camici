@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @lucaChikovani @helio83 siamo in tante a voler sentire la cover in questo genere, saremo felici, noi fan, se non ne avessimo la possibilità?
+1	@lucaChikovani	@lucaChikovano	ADV	B	_	6	advmod	_	_
+2	@helio83	@helio83	NUM	N	NumType=Card	6	nummod	_	_
+3	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	a	a	NOUN	S	_	8	obl	_	_
+7	voler	volere	AUX	VM	VerbForm=Inf	8	aux	_	_
+8	sentire	sentire	VERB	V	VerbForm=Inf	0	root	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cover	cover	NOUN	S	_	8	obj	_	_
+11	in	in	ADP	E	_	13	case	_	_
+12	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+13	genere	genere	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	8	punct	_	_
+15	saremo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	16	cop	_	_
+16	felici	felice	ADJ	A	Number=Plur	8	conj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	16	punct	_	_
+18	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	16	nsubj	_	_
+19	fan	fan	NOUN	S	_	18	appos	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	16	punct	_	_
+21	se	se	SCONJ	CS	_	24	mark	_	_
+22	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+23	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	24	iobj	_	_
+24	avessimo	avessimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	16	advcl	_	_
+25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	possibilità	possibilità	NOUN	S	Gender=Fem	24	obj	_	SpaceAfter=No
+27	?	?	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

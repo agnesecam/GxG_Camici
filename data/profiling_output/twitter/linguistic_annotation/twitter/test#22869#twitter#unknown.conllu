@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La collega che si lamenta di avere i piedi freddi, spera che glieli riscaldi io con un massaggio?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	collega	collega	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	lamenta	lamentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7	avere	avere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+10	freddi	freddo	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	2	punct	_	_
+12	spera	sperare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	che	che	SCONJ	CS	_	16	mark	_	_
+14-15	glieli	_	_	_	_	_	_	_	_
+14	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+15	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+16	riscaldi	riscaldo	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+17	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	massaggio	massaggio	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
+

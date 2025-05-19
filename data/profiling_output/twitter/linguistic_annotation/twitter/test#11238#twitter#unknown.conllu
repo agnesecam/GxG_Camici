@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Cerulk666 @lucadylan65 @Ellybetta Cesare anc'io ho male dappertutto ...questo traslocomi sta mettendo ko uffaaaaa
+1	@Cerulk666	@Cerulk666	NUM	N	NumType=Card	3	nummod	_	_
+2	@lucadylan65	@lucadylan65	NUM	N	NumType=Card	3	nummod	_	_
+3	@Ellybetta	@Ellybetta	PROPN	SP	_	9	nsubj	_	_
+4	Cesare	Cesare	PROPN	SP	_	3	flat:name	_	_
+5	anc'	anci	ADP	E	_	6	case	_	SpaceAfter=No
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	male	male	ADV	B	_	9	advmod	_	_
+9	dappertutto	dappertutto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+10	...questo	...questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	traslocomi	traslocomo	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	mettendo	mettere	VERB	V	VerbForm=Ger	0	root	_	_
+14	ko	ko	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15	uffaaaaa	uffaaaao	ADJ	A	Number=Sing	14	amod	_	SpacesAfter=\n
+

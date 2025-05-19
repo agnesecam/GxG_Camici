@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @alessandrapaga6 inquadri la percezione del bello.
+1	@alessandrapaga6	@alessandrapaga6	NUM	N	NumType=Card	2	nummod	_	_
+2	inquadri	inquadro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	percezione	percezione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bello.	bello.	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...vivo e naturalmente allettante...senza malizia alcuna
+1	...vivo	...vivo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	_
+3	naturalmente	naturalmente	ADV	B	_	5	advmod	_	_
+4	allettante...senza	allettante...senza	ADP	E	_	5	case	_	_
+5	malizia	malizia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	alcuna	alcuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	5	nmod	_	SpacesAfter=\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Joe911S @hele_fr farà quello che gli riesce meglio pic.twitter.com/IXzpw9NVZ9
+1	@Joe911S	@Joe911S	X	SW	Foreign=Yes	3	nsubj	_	_
+2	@hele_fr	@hele_fre	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+7	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	meglio	meglio	ADV	B	_	7	advmod	_	_
+9	pic.twitter.com/IXzpw9NVZ9	pic.twitter.com/IXzpw9NVZ9	PROPN	SP	_	7	nsubj	_	SpacesAfter=\n
+

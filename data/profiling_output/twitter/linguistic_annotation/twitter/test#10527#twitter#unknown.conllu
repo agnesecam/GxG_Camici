@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo tizio che c'è a take me out mi piace assai
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	tizio	tizio	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	take	take	X	SW	Foreign=Yes	5	obl	_	_
+8	me	me	X	SW	Foreign=Yes	7	flat:foreign	_	_
+9	out	out	X	SW	Foreign=Yes	7	flat:foreign	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	assai	assai	ADV	B	_	11	advmod	_	SpacesAfter=\n
+

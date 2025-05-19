@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ne ha ammazzati più l' #aglio che certi #medicinali , scopri come http://www.
+1	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	ammazzati	ammazzare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	più	più	ADV	B	_	6	advmod	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	#aglio	#aglio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+9	#medicinali	#medicinale	NOUN	S	Gender=Masc|Number=Plur	6	advcl	_	_
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	scopri	scoprire	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+12	come	come	ADP	E	_	13	case	_	_
+13	http://www	http://www	NOUN	S	_	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = amazon.it/s/ref=nb_sb_no ss?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Ddigital-text&field-keywords=benedetti+alimentazione …
+1	amazon.it/s/ref=nb_sb_no	amazon.it/s/ref=nb_sb_no	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ss?	ss?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	__mk_it_IT=	__mk_it_IT=	PROPN	SP	_	1	nsubj	_	SpaceAfter=No
+4	%	%	SYM	SYM	_	3	flat:name	_	SpaceAfter=No
+5	C3%85M	C3%85M	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+6	%	%	SYM	SYM	_	3	flat:name	_	SpaceAfter=No
+7	C3	C3	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+8	%	%	SYM	SYM	_	7	flat:name	_	SpaceAfter=No
+9	85	85	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+10	%	%	SYM	SYM	_	3	nmod	_	SpaceAfter=No
+11	C5	C5	PROPN	SP	_	10	nmod	_	SpaceAfter=No
+12	%	%	SYM	SYM	_	11	flat:name	_	SpaceAfter=No
+13	BD	BD	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+14	%C3	%C3	PROPN	SP	_	11	nsubj	_	SpaceAfter=No
+15	%	%	SYM	SYM	_	14	flat:name	_	SpaceAfter=No
+16	95	95	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
+17	%	%	SYM	SYM	_	14	nmod	_	SpaceAfter=No
+18	C3%91&url=search	C3%91&url=search	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
+20	alias%	alias%	SYM	SYM	_	14	nmod	_	SpaceAfter=No
+21	3Ddigital-text&field-keywords=benedetti+alimentazione	3Ddigital-text&field-keywords=benedetti+alimentazione	PROPN	SP	_	20	flat:name	_	_
+22	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

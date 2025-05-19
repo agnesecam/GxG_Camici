@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #ottoemezzo il "Rottamatore" a forza di riciclare senza smaltire è riuscito a far sembrare il "rottame" un pregiato pezzo d'antiquariato...
+1	#ottoemezzo	#ottoemezzo	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	Rottamatore	Rottamatore	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	forza	forza	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	riciclare	riciclare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	senza	senza	ADP	E	_	11	mark	_	_
+11	smaltire	smaltire	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	riuscito	riuscire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	a	a	ADP	E	_	15	mark	_	_
+15	far	fare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	sembrare	sembrare	VERB	V	VerbForm=Inf	15	ccomp	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+19	rottame	rottame	NOUN	S	Gender=Masc|Number=Sing	16	xcomp	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	19	punct	_	_
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	pregiato	pregiato	ADJ	A	Gender=Masc|Number=Sing	23	amod	_	_
+23	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+24	d'	di	ADP	E	_	25	case	_	SpaceAfter=No
+25	antiquariato..	antiquariato..	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ludovica non ha ancora baciato nessuno, voi pizzettare che le andate contro, vi sareste già fatte tutto lo studio #uominiedonne
+1	Ludovica	Ludovico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	ancora	ancora	ADV	B	_	5	advmod	_	_
+5	baciato	baciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
+9	pizzettare	pizzettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	che	che	SCONJ	CS	_	16	mark	_	_
+11	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	andate	andare	NOUN	S	Gender=Fem|Number=Plur	16	nsubj	_	_
+13	contro	contro	ADP	E	_	14	case	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	16	iobj	_	_
+16	sareste	saredere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+17	già	già	ADV	B	_	16	advmod	_	_
+18	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	21	acl	_	_
+19	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	21	det:predet	_	_
+20	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	studio	studio	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+22	#uominiedonne	#uominiedonne	ADJ	A	_	21	amod	_	SpacesAfter=\n
+

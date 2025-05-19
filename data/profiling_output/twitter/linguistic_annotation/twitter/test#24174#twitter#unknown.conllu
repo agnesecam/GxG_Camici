@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @slavina6 @sherlock5stelle @beppe_grillo Del reddito di dignità degli italiani non gliene frega niente a costei con tutti i nostri poveri ?
+1	@slavina6	@slavina6	NUM	N	NumType=Card	2	nummod	_	_
+2	@sherlock5stelle	@sherlock5stei	NOUN	S	Gender=Fem|Number=Plur	14	nsubj	_	_
+3	@beppe_grillo	@beppe_grillo	ADJ	A	_	2	amod	_	_
+4-5	Del	_	_	_	_	_	_	_	_
+4	Di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	reddito	reddito	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	dignità	dignità	NOUN	S	Gender=Fem	6	nmod	_	_
+9-10	degli	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	gliene	glenere	SCONJ	CS	_	14	mark	_	_
+14	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	obj	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	costei	coste	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	_
+18	con	con	ADP	E	_	22	case	_	_
+19	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	22	det:predet	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	_
+22	poveri	povero	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	_
+23	?	?	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Urliamo a gran voce:
+1	Urliamo	Urlere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	4	case	_	_
+3	gran	grande	ADJ	A	Number=Sing	4	amod	_	_
+4	voce	voce	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Verità per Giulio #Regeni ".
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Verità	Verità	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	Giulio	Giulio	PROPN	SP	_	2	nmod	_	_
+5	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	Regeni	Regeno	PROPN	SP	_	4	flat:name	_	_
+7	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Se #AlSisi non ascolta l' #Italia dovrà ascoltare gli italiani.
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	#AlSisi	#AlSisi	PROPN	SP	_	4	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	ascolta	ascoltare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	#Italia	#Italia	PROPN	SP	_	4	obj	_	_
+7	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	ascoltare	ascoltare	VERB	V	VerbForm=Inf	0	root	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 4
+# text = pic.twitter.com/ryWAaiJAgo
+1	pic.twitter.com/ryWAaiJAgo	pic.twitter.com/ryWAaiJAgo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sul tavolo TV avremmo dovuto avere Stevens vs Jimmy White ma dott a Barnsley recuperò il Match da 1/4 a 5/4..
+1-2	Sul	_	_	_	_	_	_	_	_
+1	Su	su	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+4	TV	TV	PROPN	SP	_	7	nsubj	_	_
+5	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	dovuto	dovere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux	_	_
+7	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+8	Stevens	Stevens	PROPN	SP	_	7	obj	_	_
+9	vs	vs	PROPN	SW	Foreign=Yes	8	flat:name	_	_
+10	Jimmy	Jimmy	PROPN	SP	_	8	flat:name	_	_
+11	White	White	PROPN	SP	_	8	flat:name	_	_
+12	ma	ma	CCONJ	CC	_	16	cc	_	_
+13	dott	dott	ADV	B	_	16	advmod	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	Barnsley	Barnsley	PROPN	SP	_	16	obl	_	_
+16	recuperò	recuperò	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	7	conj	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Match	match	PROPN	SP	_	16	obj	_	_
+19	da	da	ADP	E	_	20	case	_	_
+20	1/4	1/4	NUM	N	NumType=Card	16	obl	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	5	5	NUM	N	NumType=Card	20	nummod	_	SpaceAfter=No
+23	/	/	PUNCT	FF	_	22	punct	_	SpaceAfter=No
+24	4.	4.	NUM	N	NumType=Card	22	compound	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = #EurosportSNOOKER
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	EurosportSNOOKER	EurosportSNOOKER	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

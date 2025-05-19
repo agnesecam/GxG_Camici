@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @seimitica_90 concordo e inoltre trovo possa essere frase molto romantica.
+1	@seimitica_90	@seimitica_90	NUM	N	NumType=Card	2	nummod	_	_
+2	concordo	concordo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	inoltre	inoltre	ADV	B	_	5	advmod	_	_
+5	trovo	trovo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	essere	essere	AUX	V	VerbForm=Inf	8	cop	_	_
+8	frase	fradere	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+9	molto	molto	ADV	B	_	10	advmod	_	_
+10	romantica	romantico	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n
+

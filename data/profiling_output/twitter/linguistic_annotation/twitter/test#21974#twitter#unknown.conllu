@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma va????
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Non ce ne eravamo accorti.
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+4	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	accorti	accortare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = Ma se lo sapevamo dai primi sbarchi, che si stavano piazzando sulla... http:// fb.me/6ZSnvwUm0
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	se	se	SCONJ	CS	_	4	mark	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	sapevamo	sapere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+5-6	dai	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	8	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	8	amod	_	_
+8	sbarchi	sbarco	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	4	punct	_	_
+10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl	_	_
+12	stavano	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	piazzando	piazzare	VERB	V	VerbForm=Ger	4	acl:relcl	_	_
+14	sulla...	sulla.	PUNCT	FS	_	15	punct	_	_
+15	http:	http:	PUNCT	FC	_	13	punct	_	SpaceAfter=No
+16	/	/	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+17	/	/	PUNCT	FF	_	4	punct	_	_
+18	fb.me/6ZSnvwUm0	fb.me/6ZSnvwUm0	PROPN	SP	_	4	obj	_	SpacesAfter=\n
+

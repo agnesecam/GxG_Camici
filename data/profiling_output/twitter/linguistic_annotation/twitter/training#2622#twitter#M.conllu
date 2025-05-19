@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tritono0 sarà un linguaggio usurato, tanto abusato da non sembrare più credibile, ma la realtà è sotto gli occhi di chi "vuole" vedere
+1	@tritono0	@tritono0	NUM	N	NumType=Card	4	nsubj	_	_
+2	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	linguaggio	linguaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	usurato	usurato	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	tanto	tanto	ADV	B	_	8	advmod	_	_
+8	abusato	abusare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+9	da	da	ADP	E	_	11	mark	_	_
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	sembrare	sembrare	VERB	V	VerbForm=Inf	8	advcl	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	credibile	credibile	ADJ	A	Number=Sing	11	xcomp	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	21	punct	_	_
+15	ma	ma	CCONJ	CC	_	21	cc	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	realtà	realtà	NOUN	S	Gender=Fem	21	nsubj	_	_
+18	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+19	sotto	sotto	ADP	E	_	21	case	_	_
+20	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	occhi	occhio	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	chi	chi	PRON	PR	Number=Sing|PronType=Rel	21	nmod	_	_
+24	"	"	PUNCT	FB	_	23	punct	_	SpaceAfter=No
+25	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	SpaceAfter=No
+26	"	"	PUNCT	FB	_	27	punct	_	_
+27	vedere	vedere	VERB	V	VerbForm=Inf	23	acl:relcl	_	SpacesAfter=\n
+

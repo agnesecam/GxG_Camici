@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando la discriminazione è un male della società.
+1	Quando	quando	SCONJ	CS	_	6	mark	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	discriminazione	discriminazione	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	male	male	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	società	società	NOUN	S	Gender=Fem	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Il video che ti farà riflettere http:// fb.me/2yRXg9XcZ
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	video	video	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
+6	riflettere	riflettere	VERB	V	VerbForm=Inf	5	ccomp	_	_
+7	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	2	punct	_	_
+10	fb.me/2yRXg9XcZ	fb.me/2yRXg9XcZ	PROPN	SP	_	2	nmod	_	SpacesAfter=\n
+

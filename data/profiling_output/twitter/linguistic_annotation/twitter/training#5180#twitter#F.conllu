@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Brunella555 anch'io sono romana, ma non mi sembra adatto..se avesse voluto star da solo con qualcuna ,sarebbe stato con la fidanzata
+1	@Brunella555	@Brunella555	PROPN	SP	_	5	nsubj	_	_
+2	anch'	anche	ADV	B	_	3	advmod	_	SpaceAfter=No
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	romana	romano	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	10	punct	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	adatto..se	adatto..so	ADJ	A	Gender=Fem|Number=Plur	10	xcomp	_	_
+12	avesse	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+13	voluto	volere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	aux	_	_
+14	star	stare	VERB	V	VerbForm=Inf	10	ccomp	_	_
+15	da	da	ADP	E	_	16	case	_	_
+16	solo	solo	ADV	B	_	18	advmod	_	_
+17	con	con	ADP	E	_	18	case	_	_
+18	qualcuna	qualcuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	14	obl	_	_
+19	,sarebbe	,saere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+20	stato	essere	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	_
+21	con	con	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	fidanzata	fidanzato	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	SpacesAfter=\n
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LMilan07 non sarebbe neanche un problema, avessimo Rivera pres onorario,Albertini e Maldini dirigenti e nessun magnate.
+1	@LMilan07	@LMilan07	PROPN	SP	_	6	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	neanche	neanche	ADV	BN	PronType=Neg	6	advmod	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	problema	problema	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	Rivera	Rivera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+10	pres	pre	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	onorario	onorario	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	Albertini	Albertini	PROPN	SP	_	11	conj	_	_
+14	e	e	CCONJ	CC	_	15	cc	_	_
+15	Maldini	Maldini	PROPN	SP	_	16	conj	_	_
+16	dirigenti	dirigento	NOUN	S	Number=Plur	11	conj	_	_
+17	e	e	CCONJ	CC	_	19	cc	_	_
+18	nessun	nessuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	19	det	_	_
+19	magnate	magnata	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Non così.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	così	così	ADV	B	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

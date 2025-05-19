@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciascuno esprime personalmente la propria sensibilità, o no !?
+1	Ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	esprime	esprimere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	personalmente	personalmente	ADV	B	_	2	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	propria	proprio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	sensibilità	sensibilità	NOUN	S	Gender=Fem	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	o	o	CCONJ	CC	_	9	cc	_	_
+9	no	no	ADV	BN	PronType=Neg	2	conj	_	_
+10	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E lei mister Bertolaso ?
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	mister	mistere	AUX	VA	VerbForm=Inf	4	aux	_	_
+4	Bertolaso	Bertolaso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/repubblicait/s tatus/713226947786985472 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/repubblicait/s	twitter.com/repubblicait/s	NOUN	S	Gender=Fem	0	root	_	_
+5	tatus/713226947786985472	tatus/713226947786985472	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

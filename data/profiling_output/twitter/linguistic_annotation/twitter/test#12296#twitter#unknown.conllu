@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @barbierichef @SkyUno @RocknMode__ @TeamDivano Eh meno male, sennò come facevamo senza di lei chef?
+1	@barbierichef	@barbierichef	ADP	E	_	2	case	_	_
+2	@SkyUno	@SkyUno	PROPN	SP	_	9	obl	_	_
+3	@RocknMode__	@RocknMode_-	PROPN	SP	_	2	flat:name	_	_
+4	@TeamDivano	@TeamDire	PROPN	SP	_	2	nmod	_	_
+5	Eh	eh	PROPN	SP	_	4	flat:name	_	_
+6	meno	meno	ADV	B	_	7	advmod	_	_
+7	male	male	ADV	B	_	4	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	sennò	sennare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	come	come	SCONJ	CS	_	11	mark	_	_
+11	facevamo	facere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+12	senza	senza	ADP	E	_	14	case	_	_
+13	di	di	ADP	E	_	12	fixed	_	_
+14	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
+15	chef	chef	NOUN	S	Gender=Masc	11	obj	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = #MasterChefIt
+1	#MasterChefIt	#MasterChefIt	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

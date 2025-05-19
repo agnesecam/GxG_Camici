@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Oscar Wilde:
+1	Oscar	Oscar	PROPN	SP	_	0	root	_	_
+2	Wilde	Wilde	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = "Se non avessimo amato" http:// restaurars.altervista.org/oscar-wilde-se -non-avessimo-amato/ …
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	Se	se	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	amato	amare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	7	punct	_	_
+7	http:	http:	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	5	punct	_	_
+10	restaurars.altervista.org/oscar-wilde-se	restaurars.altervista.org/oscar-wilde-so	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+11	-non	-non	ADP	E	_	13	case	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
+13	avessimo-amato	avessimo-amare	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	…	…	PUNCT	FF	_	5	punct	_	SpacesAfter=\n
+

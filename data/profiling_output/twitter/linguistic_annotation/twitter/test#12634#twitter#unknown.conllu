@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @oliveri_giacomo @amperrino @Andrea_Radic @nellina99 @maurizioagazzi grazie !
+1	@oliveri_giacomo	@oliveri_giacomo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	@amperrino	@amperrino	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	@Andrea_Radic	@Andrea_Radic	PROPN	SP	_	6	nmod	_	_
+4	@nellina99	@nellina99	NUM	N	NumType=Card	3	nummod	_	_
+5	@maurizioagazzi	@maurizioagazzo	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+6	grazie	grazie	NOUN	S	_	2	compound	_	_
+7	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Non sapevo che avessero un figlio sennò rincaravo la dose
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	sapevo	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	avessero	avere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	sennò	sennare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+8	rincaravo	rincarare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	dose	dosa	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpacesAfter=\n
+

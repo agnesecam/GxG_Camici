@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Directioners siamo migliori di questo.
+1	Directioners	Directioners	PROPN	SP	_	3	nsubj	_	_
+2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non riesco ad immaginare cosa starà passando Anne #RespectTheStylesFamily
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ad	a	ADP	E	_	4	mark	_	_
+4	immaginare	immaginare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	obj	_	_
+6	starà	esstere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	passando	passare	VERB	V	VerbForm=Ger	4	advcl	_	_
+8	Anne	Anne	PROPN	SP	_	7	nsubj	_	_
+9	#	#	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	RespectTheStylesFamily	RespectTheStylesFamily	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n
+

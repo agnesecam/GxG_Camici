@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @ivvbmw @Ios_Explore l Apple c'è arrivata fidati e ora non farà fare neanche più un jailbreak ricorda ora le manderà ogni due settimane
+1	@ivvbmw	@ivvbmw	NOUN	S	_	7	obj	_	_
+2	@Ios_Explore	@Ios_Explore	PROPN	SP	_	1	flat:name	_	_
+3	l	l	X	X	_	7	nsubj	_	_
+4	Apple	Apple	PROPN	SP	_	3	flat:name	_	_
+5	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	SpaceAfter=No
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	arrivata	arrivare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	fidati	fidato	ADJ	A	Gender=Masc|Number=Plur	7	xcomp	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	ora	ora	ADV	B	_	12	advmod	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	conj	_	_
+13	fare	fare	VERB	V	VerbForm=Inf	18	xcomp	_	_
+14	neanche	neanche	ADV	BN	PronType=Neg	15	advmod	_	_
+15	più	più	ADV	B	_	13	advmod	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	jailbreak	jailbreak	NOUN	S	Gender=Masc	18	nsubj	_	_
+18	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+19	ora	ora	ADV	B	_	21	advmod	_	_
+20	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	21	iobj	_	_
+21	manderà	mandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	ccomp	_	_
+22	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	24	det	_	_
+23	due	due	NUM	N	NumType=Card	24	nummod	_	_
+24	settimane	settimana	NOUN	S	Gender=Fem|Number=Plur	21	obl	_	SpacesAfter=\n
+

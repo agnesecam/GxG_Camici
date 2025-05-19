@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @notamundane_ Gabriele non è solo coreografie sexy, avete rotto il cazzo.
+1	@notamundane_	ExtraSubj=Yes|@notamundane_	ADJ	NO	NumType=Ord	2	amod	_	_
+2	Gabriele	Gabriele	PROPN	SP	_	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	solo	solo	ADV	B	_	6	advmod	_	_
+6	coreografie	coreografia	NOUN	S	Gender=Fem|Number=Plur	10	nsubj	_	_
+7	sexy	sexy	ADJ	A	_	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	rotto	rompere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = È versatile.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	versatile	versatile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Smettetela di considerare solo ció che vi fa comodo.
+1	Smettetela	Smettetela	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	considerare	considerare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	solo	solo	ADV	B	_	5	advmod	_	_
+5	ció	ció	PROPN	SP	_	3	obl	_	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	comodo	comodo	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #napoliverona dalla sfera magica vedo assist Insigne http:// videonelmondo.altervista.org/lorenzo-insign e-2016/ … gol di Gabbiad.
+1	#napoliverona	#napoliveronare	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	6	nsubj	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	sfera	sfera	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	magica	magico	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	assist	assist	NOUN	S	Gender=Masc	6	obj	_	_
+8	Insigne	Insigne	PROPN	SP	_	7	nmod	_	_
+9	http:	http:	PUNCT	FC	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	/	/	PUNCT	FF	_	8	punct	_	_
+12	videonelmondo.altervista.org/lorenzo-insign	videonelmondo.altervista.org/lorenzo-insign	NOUN	S	Gender=Fem	8	nmod	_	_
+13	e-2016	e-2016	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	13	punct	_	_
+15	…	…	PUNCT	FF	_	13	punct	_	_
+16	gol	goal	NOUN	S	Gender=Masc	12	nmod	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	Gabbiad	Gabbiad	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = http:// videonelmondo.altervista.org/manolo-gabbiad ini-goals-assists-20152016-hd/ … pic.twitter.com/hYFWBJOl3L
+1	http:	http:	PUNCT	FC	_	6	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	videonelmondo.altervista.org/manolo-gabbiad	videonelmondo.altervista.org/manolo-gabbiad	ADP	E	_	6	case	_	_
+5	ini-goals-assists-20152016	ini-goals-assists-20152016	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+6	-hd	-hd	NOUN	S	Gender=Masc	9	nmod	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	_
+8	…	…	PUNCT	FF	_	6	punct	_	_
+9	pic.twitter.com/hYFWBJOl3L	pic.twitter.com/hYFWBJOl3L	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

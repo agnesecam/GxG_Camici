@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SardoneSilvia finito il delirio di onnipotenza della sinistra . Forse #forzaitalia dovrà tirare fuori le .
+1	@SardoneSilvia	@SardoneSilvia	ADV	B	_	2	advmod	_	_
+2	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	delirio	delirio	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	onnipotenza	onnipotenza	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	FS	_	4	punct	_	_
+11	Forse	forse	ADV	B	_	12	advmod	_	_
+12	#forzaitalia	#forzaitalia	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+13	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux	_	_
+14	tirare	tirare	VERB	V	VerbForm=Inf	0	root	_	_
+15	fuori	fuori	ADV	B	_	16	advmod	_	_
+16	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+17	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli #scandali anni 70 e 80 non hanno insegnato nulla.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	#scandali	#scandale	ADJ	A	Number=Plur	3	amod	_	_
+3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+4	70	70	NUM	N	NumType=Card	3	nummod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	80	80	NUM	N	NumType=Card	4	conj	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	insegnato	insegnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Se avessimo veri pozzi e veri petrolieri dove arriveremmo?
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	veri	vero	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+4	pozzi	pozzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	veri	vero	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+7	petrolieri	petroliere	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+8	dove	dove	ADV	B	_	9	advmod	_	_
+9	arriveremmo	arriveere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = pic.twitter.com/MWX3XOlWOV
+1	pic.twitter.com/MWX3XOlWOV	pic.twitter.com/MWX3XOlWOV	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n
+

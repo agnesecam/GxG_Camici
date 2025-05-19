@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @Potty_L da ciascuno secondo le proprie capacità, a ciascuno secondo i propri bisogni (Karl Marx) @Archi_T_Tetta
+1	@Potty_L	@potty_l	NOUN	S	_	19	nmod	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	_
+4	secondo	secondo	ADP	E	_	7	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	proprie	proprio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	capacità	capacità	NOUN	S	Gender=Fem	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	ciascuno	ciascuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	_
+11	secondo	secondo	ADP	E	_	14	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	propri	proprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	bisogni	bisogno	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+15	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	Karl	Karl	PROPN	SP	_	1	appos	_	_
+17	Marx	Marx	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	16	punct	_	_
+19	@Archi_T_Tetta	@Archi_T_Tetta	PROPN	SP	_	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Riponi la tua #sorte nel Signore;
+1	Riponi	Riponi	ADV	B	_	4	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	#sorte	#sorte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5-6	nel	_	_	_	_	_	_	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Signore	signore	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+8	;	;	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = confida in lui ed egli agirà (Salmo 37:5)
+1	confida	confidare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+4	ed	e	CCONJ	CC	_	6	cc	_	_
+5	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	agirà	agire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	Salmo	Salmo	PROPN	SP	_	6	obl	_	_
+9	37:5	37:5	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	8	punct	_	SpacesAfter=\n
+

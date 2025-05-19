@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PICERNO, MITRO:
+1	PICERNO	PICERNO	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	MITRO	MITRO	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = “LA VIRTUS FRANCAVILLA DOVRA ’ VEDERSELA CON IL MIO PICERNO” http://www.
+1	“	“	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	LA	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	VIRTUS	VIRTUS	PROPN	SP	_	0	root	_	_
+4	FRANCAVILLA	FRANCAVILLA	PROPN	SP	_	3	flat:name	_	_
+5	DOVRA	DOVRA	PROPN	SP	_	3	flat:name	_	_
+6	’	’	PUNCT	FF	_	7	punct	_	_
+7-9	VEDERSELA	_	_	_	_	_	_	_	_
+7	VEDER	veder	PROPN	SP	_	3	nmod	_	_
+8	SE	se	PROPN	SP	_	7	flat:name	_	_
+9	LA	La	PROPN	SP	_	7	flat:name	_	_
+10	CON	con	PROPN	SP	_	7	flat:name	_	_
+11	IL	il	PROPN	SP	_	7	flat:name	_	_
+12	MIO	mio	PROPN	SP	_	7	flat:name	_	SpacesAfter= 
+13	PICERNO	PICERNO	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+14	”	”	PUNCT	FB	_	7	punct	_	_
+15	http://www	http://www	NOUN	S	_	7	compound	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = calciogoal.it/?p=16970
+1	calciogoal.it/?p=16970	calciogoal.it/?p=16970	NUM	N	NumType=Range	0	root	_	SpacesAfter=\n
+

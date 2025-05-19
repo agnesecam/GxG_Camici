@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cerve si tira giù le braghe e rivolge il culo ad una macchina senza accorgersi della gente che c'è dentro ... solito cazzone
+1	Cerve	Cerve	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	tira	tirare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	giù	giù	ADV	B	_	3	advmod	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	braghe	braga	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	rivolge	rivolgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	culo	culo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	ad	a	ADP	E	_	13	case	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+14	senza	senza	ADP	E	_	15	mark	_	_
+15-16	accorgersi	_	_	_	_	_	_	_	_
+15	accorger	accorgere	VERB	V	VerbForm=Inf	8	advcl	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+17-18	della	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	gente	gente	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+20	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+21	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	SpaceAfter=No
+22	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+23	dentro	dentro	ADV	B	_	22	advmod	_	_
+24	...	...	PUNCT	FF	_	3	punct	_	_
+25	solito	solire	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	_
+26	cazzone	cazzone	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	SpacesAfter=\n
+

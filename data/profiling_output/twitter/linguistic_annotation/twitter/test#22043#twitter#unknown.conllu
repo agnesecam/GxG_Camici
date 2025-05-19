@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cioè andiamo a +6 e ancora mi tocca leggere sta minchiata?
+1	Cioè	cioè	ADV	B	_	2	advmod	_	_
+2	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	+6	+6	NUM	N	NumType=Card	2	nummod	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	ancora	ancora	ADV	B	_	8	advmod	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	tocca	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	leggere	leggere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	minchiata	minchiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Trovatemi un senso sul "non succede..." essendo primi https:// twitter.com/R0bert079/stat us/710891018669969408 …
+1-2	Trovatemi	_	_	_	_	_	_	_	_
+1	Trovate	Trovare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	senso	senso	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5-6	sul	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	16	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+9	succede...	succede.	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	12	punct	_	_
+11	essendo	essere	AUX	V	VerbForm=Ger	12	cop	_	_
+12	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	16	amod	_	_
+13	https:	https:	PUNCT	FC	_	12	punct	_	SpaceAfter=No
+14	/	/	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+15	/	/	PUNCT	FF	_	12	punct	_	_
+16	twitter.com/R0bert079/stat	twitter.com/R0bert079/stat	PROPN	SP	_	4	nmod	_	_
+17	us/710891018669969408	us/710891018669969408	NUM	N	NumType=Card	1	nummod	_	_
+18	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

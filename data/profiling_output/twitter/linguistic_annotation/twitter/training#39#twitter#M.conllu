@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @tuttonapoli ma perché fate sempre paragoni con altri giocatori,Albiol andava espulso e poi fate pure le vittime come al solito,però
+1	@tuttonapoli	@tuttonapolo	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	perché	perché	SCONJ	CS	_	4	mark	_	_
+4	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	sempre	sempre	ADV	B	_	4	advmod	_	_
+6	paragoni	paragone	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	altri	altro	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+9	giocatori	giocatore	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+11	Albiol	Albiol	PROPN	SP	_	13	nsubj	_	_
+12	andava	andare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	espulso	espulso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	poi	poi	ADV	B	_	16	advmod	_	_
+16	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	conj	_	_
+17	pure	pure	ADV	B	_	16	advmod	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+20	come	come	ADP	E	_	23	case	_	_
+21-22	al	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	20	fixed	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	solito,però	solito,però	ADV	B	_	16	advmod	_	SpacesAfter=\n
+

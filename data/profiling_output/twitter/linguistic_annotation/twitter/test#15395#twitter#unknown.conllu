@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La cosa più bella è che (magari) si facesse un film Marvel vs Dc Comics con i eroi e supereroi in una battaglia fra due universi.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	bella	bello	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	che	che	SCONJ	CS	_	11	mark	_	_
+7	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+8	magari	magari	ADV	B	_	11	advmod	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+11	facesse	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	film	film	NOUN	S	Gender=Masc	11	nsubj	_	_
+14	Marvel	Marvel	PROPN	SP	_	13	nmod	_	_
+15	vs	vs	PROPN	SW	Foreign=Yes	14	flat:name	_	_
+16	Dc	dc	PROPN	SP	_	14	flat:name	_	_
+17	Comics	Comics	PROPN	SP	_	14	flat:name	_	_
+18	con	con	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	eroi	eroe	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	supereroi	supereroe	PRON	PE	Number=Plur|Person=1|PronType=Prs	20	conj	_	_
+23	in	in	ADP	E	_	25	case	_	_
+24	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	battaglia	battaglia	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+26	fra	fra	ADP	E	_	28	case	_	_
+27	due	due	NUM	N	NumType=Card	28	nummod	_	_
+28	universi	universo	NOUN	S	Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

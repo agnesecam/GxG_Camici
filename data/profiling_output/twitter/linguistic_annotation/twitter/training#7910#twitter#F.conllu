@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Laerte a Ofelia: #HamleTw /03 resta un principe e dunque non libero di sposare chi vuole @TwLetteratura @HeidiCovella pic.twitter.com/7B70lvNbEs
+1	Laerte	Laerta	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Ofelia	Ofelia	PROPN	SP	_	1	obl	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+5	#HamleTw	#HamleTw	PROPN	SP	_	7	nsubj	_	_
+6	/03	/03	NUM	N	NumType=Card	5	nummod	_	_
+7	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	principe	principa	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	e	e	CCONJ	CC	_	13	cc	_	_
+11	dunque	dunque	ADV	B	_	13	advmod	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	libero	libero	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+14	di	di	ADP	E	_	15	mark	_	_
+15	sposare	sposare	VERB	V	VerbForm=Inf	13	advcl	_	_
+16	chi	chi	PRON	PR	Number=Sing|PronType=Rel	15	obj	_	_
+17	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+18	@TwLetteratura	@TwLetteratura	PROPN	SP	_	17	obj	_	_
+19	@HeidiCovella	@HeidiCovella	PROPN	SP	_	18	flat:name	_	_
+20	pic.twitter.com/7B70lvNbEs	pic.twitter.com/7B70lvNbEs	PROPN	SP	_	18	flat:name	_	SpacesAfter=\n
+

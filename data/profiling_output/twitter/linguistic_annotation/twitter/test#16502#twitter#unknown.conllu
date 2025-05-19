@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = PcpSibciGuarico: GuaricoPotencia:
+1	PcpSibciGuarico	PcpSibciGuarico	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	GuaricoPotencia	GuaricoPotencia	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = #Interactiva | Personaje de la Historia:
+1	#	#	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	Interactiva	Interactire	PROPN	SP	_	0	root	_	_
+3	|	|	SYM	SYM	_	2	flat:name	_	_
+4	Personaje	Personaje	PROPN	SP	_	2	flat:name	_	_
+5	de	de	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Historia	Historia	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 3
+# text = Pedro Emilio Coll #GuáricoEsElDestino #FelizSábado NicolasMaduro …
+1	Pedro	Pedro	PROPN	SP	_	0	root	_	_
+2	Emilio	Emilio	PROPN	SP	_	1	flat:name	_	_
+3	Coll	Coll	PROPN	SP	_	1	flat:name	_	_
+4	#GuáricoEsElDestino	#GuáricoEsElDestino	PROPN	SP	_	1	flat:name	_	_
+5	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	FelizSábado	FelizSábado	PROPN	SP	_	1	nmod	_	_
+7	NicolasMaduro	NicolasMaduro	PROPN	SP	_	6	flat:name	_	_
+8	…	…	PUNCT	FF	_	1	punct	_	SpacesAfter=\n
+

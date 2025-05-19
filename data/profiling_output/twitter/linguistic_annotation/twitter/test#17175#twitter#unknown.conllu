@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @sole24ore @guidogentili1 credibilità??
+1	@sole24ore	@sole24ore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	@guidogentili1	@guidogentili1	NUM	N	NumType=Card	3	nummod	_	_
+3	credibilità	credibilità	NOUN	S	Gender=Fem	1	nmod	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = conoscete l'uso del termine?
+1	conoscete	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	uso	uso	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	termine	termine	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Ma quando mai la abbiamo avuta ?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	quando	quando	SCONJ	CS	_	6	mark	_	_
+3	mai	mai	ADV	B	_	6	advmod	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = Con gli ultimi governi poi...
+1	Con	con	ADP	E	_	4	case	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	ultimi	ultimo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	4	amod	_	_
+4	governi	governo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	poi..	poi	NOUN	S	_	4	compound	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
+

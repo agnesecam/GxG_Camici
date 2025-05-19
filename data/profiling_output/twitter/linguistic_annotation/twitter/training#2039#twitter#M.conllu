@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dallo streaming non si sente quello che dice il giornalista della BBC:
+1-2	Dallo	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	streaming	streaming	NOUN	S	Gender=Masc	6	obl	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+6	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	_
+8	che	che	PRON	PR	PronType=Rel	9	obj	_	_
+9	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	giornalista	giornalista	NOUN	S	Number=Sing	9	nsubj	_	_
+12-13	della	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	BBC	Bbc	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	6	punct	_	_
+
+# sent_id = 2
+# text = evento Palestina cc @journalismfest (microfono lontano)
+1	evento	evento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	Palestina	Palestina	PROPN	SP	_	1	nmod	_	_
+3	cc	cc	X	SW	Foreign=Yes	2	flat:foreign	_	_
+4	@journalismfest	@journalismfest	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+6	microfono	microfono	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+7	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	6	punct	_	SpacesAfter=\n
+

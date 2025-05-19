@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @michaelismysin Aveva paura di disturbare,sicuramente ora che siete una coppia sapresti tutto e ci saresti
+1	@michaelismysin	@michaelismysino	ADV	B	_	2	advmod	_	_
+2	Aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	paura	paura	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	disturbare,sicuramente	disturbare,sicuramente	ADV	B	_	6	advmod	_	_
+6	ora	ora	ADV	B	_	3	nmod	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	coppia	coppia	NOUN	S	Gender=Fem|Number=Sing	3	advcl	_	_
+11	sapresti	sapresto	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	_
+13	e	e	CCONJ	CC	_	15	cc	_	_
+14	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	expl	_	_
+15	saresti	saredere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	conj	_	SpacesAfter=\n
+

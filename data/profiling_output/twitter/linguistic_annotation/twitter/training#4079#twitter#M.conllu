@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @MaxCaramello @livadia1912 dovrà essere processata
+1	@MaxCaramello	@MaxCaramello	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+2	@livadia1912	@livadia1912	NUM	N	NumType=Card	1	nummod	_	_
+3	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+4	essere	essere	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
+5	processata	processare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n
+

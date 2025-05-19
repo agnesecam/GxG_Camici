@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DiaVoltaire @SigGiancarlo io ne vedo parecchie ...non le principali e blabla.
+1	@DiaVoltaire	@DiaVoltaire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+2	@SigGiancarlo	@SigGiancarlo	PROPN	SP	_	1	obj	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+5	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	parecchie	parecchio	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+7	...non	...non	NOUN	S	Gender=Fem	5	obj	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	principali	principale	ADJ	A	Number=Plur	5	amod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	blabla.	blabla.	NOUN	S	_	9	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma cosa conta?
+1	..ma	..ma	ADV	B	_	3	advmod	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	nsubj	_	_
+3	conta	contare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Erano (a novembre/dicembre) le più facilmente
+1	Erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+2	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	a	a	ADP	E	_	4	case	_	_
+4	novembre	novembre	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	dicembre	dicembre	NOUN	S	Gender=Masc|Number=Sing	4	compound	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	4	punct	_	_
+8	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	0	root	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	facilmente	facilmente	ADV	B	_	8	advmod	_	SpacesAfter=\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @fattoquotidiano MEGLIO LA PUGLIA E LA CALABRIA PER LE NOSTRE VACANZE!
+1	@fattoquotidiano	@fattoquotidiare	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	MEGLIO	meglio	PROPN	SP	_	0	root	_	_
+3	LA	La	PROPN	SP	_	2	flat:name	_	_
+4	PUGLIA	Puglia	PROPN	SP	_	2	flat:name	_	_
+5	E	e	CCONJ	CC	_	6	cc	_	_
+6	LA	La	PROPN	SP	_	2	conj	_	_
+7	CALABRIA	Calabria	PROPN	SP	_	6	flat:name	_	_
+8	PER	per	PROPN	SP	_	6	flat:name	_	_
+9	LE	Le	PROPN	SP	_	6	flat:name	_	_
+10	NOSTRE	nostro	PROPN	SP	_	6	flat:name	_	_
+11	VACANZE	vacanze	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = MARE SPETTACOLARE E COME SI MANGIA...
+1	MARE	mare	PROPN	SP	_	0	root	_	_
+2	SPETTACOLARE	spettacolare	PROPN	SP	_	1	flat:name	_	_
+3	E	e	CCONJ	CC	_	4	cc	_	_
+4	COME	come	PROPN	SP	_	1	conj	_	_
+5	SI	si	PROPN	SP	_	4	flat:name	_	_
+6	MANGIA..	MANGIA..	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+

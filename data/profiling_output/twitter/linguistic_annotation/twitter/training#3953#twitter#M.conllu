@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @marcepittella domattina ad @agorarai , dovrà dare una idea diversa di #Basilicata a @MarcelloSorgi . Credibilità e onestà non si toccano...
+1	@marcepittella	@marcepittello	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	domattina	domattinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ad	a	ADP	E	_	4	case	_	_
+4	@agorarai	@agoraere	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	dovrà	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	dare	dare	VERB	V	VerbForm=Inf	2	conj	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	idea	idea	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	diversa	diverso	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	#Basilicata	#Basilicata	PROPN	SP	_	9	nmod	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	@MarcelloSorgi	@MarcelloSorgi	PROPN	SP	_	9	nmod	_	_
+15	.	.	PUNCT	FS	_	14	punct	_	_
+16	Credibilità	Credibilità	NOUN	S	Gender=Fem	14	appos	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	onestà	onestà	NOUN	S	Gender=Fem	16	conj	_	_
+19	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	_
+21	toccano..	toccano	PUNCT	FS	_	16	punct	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

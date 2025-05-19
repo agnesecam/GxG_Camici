@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @LauraPausini @byblosworld @LAutreChose troppo troppo avanti!
+1	@LauraPausini	@LauraPausino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	@byblosworld	@byblosworld	NOUN	S	_	1	nmod	_	_
+3	@LAutreChose	@LAutreChose	PROPN	SP	_	2	flat:name	_	_
+4	troppo	troppo	ADV	B	_	5	advmod	_	_
+5	troppo	troppo	ADV	B	_	6	advmod	_	_
+6	avanti	avanti	ADV	B	_	1	advmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Ma chi glielo dice a @RaiUno che solo tre serate non bastano!
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	5	nsubj	_	_
+3-4	glielo	_	_	_	_	_	_	_	_
+3	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	iobj	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	@RaiUno	@RaiUno	PROPN	SP	_	5	obl	_	_
+8	che	che	PRON	PR	PronType=Rel	13	obj	_	_
+9	solo	solo	ADV	B	_	11	advmod	_	_
+10	tre	tre	NUM	N	NumType=Card	11	nummod	_	_
+11	serate	serata	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	bastano	bastare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

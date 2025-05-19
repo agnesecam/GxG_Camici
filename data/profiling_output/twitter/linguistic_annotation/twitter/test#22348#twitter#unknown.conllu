@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = - Tu devi essere il lupo… Ero convinta che facessi più paura.
+1	-	-	PUNCT	FF	_	8	punct	_	_
+2	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+3	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	8	cop	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+6	lupo…	lupo…	PUNCT	FF	_	8	punct	_	_
+7	Ero	essere	PROPN	SP	_	8	nsubj	_	_
+8	convinta	convincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	che	che	SCONJ	CS	_	10	mark	_	_
+10	facessi	facettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	ccomp	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	paura	paura	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = - Mmm… Non più di certi agnelli... https:// tmblr.co/Z9OOXm24Mb3ZX
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Mmm…	Mmm…	PROPN	SP	_	0	root	_	_
+3	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	più	più	ADV	B	_	2	advmod	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+7	agnelli...	agnelli...	NOUN	S	_	4	obl	_	_
+8	https:	https:	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+10	/	/	PUNCT	FF	_	7	punct	_	_
+11	tmblr.co/Z9OOXm24Mb3ZX	tmblr.co/Z9OOXm24Mb3ZX	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n
+

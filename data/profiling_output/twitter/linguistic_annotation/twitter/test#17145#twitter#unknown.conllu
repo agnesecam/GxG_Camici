@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la realtà che la maggioranza lui...non l'ha mai avuta dagli Italiani!
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	che	che	SCONJ	CS	_	10	mark	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	maggioranza	maggioranza	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	lui...non	lui...non	ADV	BN	PronType=Neg	10	advmod	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	mai	mai	ADV	B	_	10	advmod	_	_
+10	avuta	avere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+11-12	dagli	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Italiani	Italiani	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = solo da Re Giorgio!
+1	solo	solo	ADV	B	_	3	advmod	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	Re	Re	PROPN	SP	_	0	root	_	_
+4	Giorgio	Giorgio	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = https:// twitter.com/Marin63Marco/s tatus/717411301211942913 …
+1	https:	https:	PUNCT	FC	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	/	/	PUNCT	FF	_	1	punct	_	_
+4	twitter.com/Marin63Marco/s	twitter.com/Marin63Marco/s	PROPN	SP	_	0	root	_	_
+5	tatus/717411301211942913	tatus/717411301211942913	NUM	N	NumType=Card	4	nummod	_	_
+6	…	…	PUNCT	FF	_	4	punct	_	SpacesAfter=\n
+

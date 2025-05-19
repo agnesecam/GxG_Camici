@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SalvatoFederico @alecom83 no n è così Moratti poteva farsi processare ma sapeva che era sporco dentro
+1	@SalvatoFederico	@SalvatoFederico	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+2	@alecom83	@alecom83	NUM	N	NumType=Card	3	nummod	_	_
+3	no	no	X	SW	Foreign=Yes	1	nmod	_	_
+4	n	n	X	SW	Foreign=Yes	3	flat:foreign	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	così	così	ADV	B	_	9	advmod	_	_
+7	Moratti	Moratti	PROPN	SP	_	9	nsubj	_	_
+8	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9-10	farsi	_	_	_	_	_	_	_	_
+9	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	obj	_	_
+11	processare	processare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	ma	ma	CCONJ	CC	_	13	cc	_	_
+13	sapeva	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
+14	che	che	SCONJ	CS	_	16	mark	_	_
+15	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
+16	sporco	sporco	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	_
+17	dentro	dentro	ADP	E	_	13	obj	_	SpacesAfter=\n
+

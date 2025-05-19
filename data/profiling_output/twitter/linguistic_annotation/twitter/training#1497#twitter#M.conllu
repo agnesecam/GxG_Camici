@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A #merenda con @Lucia2713 , my follower "scribacchina per professione".
+1	A	a	ADP	E	_	2	case	_	_
+2	#merenda	#merenda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	@Lucia2713	@Lucia2713	PROPN	SP	_	2	nmod	_	_
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	my	my	DET	AP	Poss=Yes|PronType=Prs	7	det	_	_
+7	follower	follower	NOUN	S	_	4	conj	_	_
+8	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+9	scribacchina	scribacchinare	NOUN	S	Gender=Fem|Number=Sing	7	compound	_	_
+10	per	per	ADP	E	_	11	case	_	_
+11	professione	professione	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+12	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Le nostre penne ci aiutano a capire meglio anche chi ci sta intorno.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	penne	penne	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+5	aiutano	aiutare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	capire	capire	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	meglio	meglio	ADV	B	_	7	advmod	_	_
+9	anche	anche	ADV	B	_	10	advmod	_	_
+10	chi	chi	PRON	PR	Number=Sing|PronType=Rel	7	obj	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	12	expl	_	_
+12	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	intorno	intorno	ADV	B	_	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
+

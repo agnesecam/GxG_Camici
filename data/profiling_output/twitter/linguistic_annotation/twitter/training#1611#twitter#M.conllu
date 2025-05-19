@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Più che placare il vento, il Signore desidera tacitare le nostre paure.
+1	Più	più	ADV	B	_	9	advmod	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	placare	placare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	vento	vento	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Signore	signore	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	desidera	desiderare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	tacitare	tacitare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+12	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	paure	paura	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n
+

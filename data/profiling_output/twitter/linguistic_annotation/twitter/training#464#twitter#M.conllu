@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che ridicoli questi belgi:
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	ridicoli	ridicolo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+3	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	belgi	belga	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+
+# sent_id = 2
+# text = 3 mesi a cercare #Salah e alla fine era a casa sua.
+1	3	3	NUM	N	NumType=Card	2	nummod	_	_
+2	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	a	a	ADP	E	_	4	mark	_	_
+4	cercare	cercare	VERB	V	VerbForm=Inf	2	acl	_	_
+5	#	#	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+6	Salah	Salah	PROPN	SP	_	4	obj	_	_
+7	e	e	CCONJ	CC	_	13	cc	_	_
+8-9	alla	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	fine	fine	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+11	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+14	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Come se noi avessimo arrestato Provenzano a Corleone.
+1	Come	come	ADV	B	_	0	root	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+4	avessimo	avessimo	AUX	VM	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	arrestato	arrestare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	Provenzano	Provenzano	PROPN	SP	_	5	obj	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	Corleone	Corleone	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = Ops...
+1	Ops...	Ops.	PUNCT	FS	_	0	root	_	SpacesAfter=\n
+

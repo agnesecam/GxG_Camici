@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = #WeWillAlwaysBeHereForYou1D abbiamo BISOGNO DI VOI e sempre ne avremo .
+1	#	#	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+2	WeWillAlwaysBeHereForYou1D	WeWillAlwaysBeHereForYou1D	PROPN	SP	_	3	nsubj	_	_
+3	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	BISOGNO	bisogno	PROPN	SP	_	3	obj	_	_
+5	DI	Di	ADP	E	_	6	case	_	_
+6	VOI	voi	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	sempre	sempre	ADV	B	_	10	advmod	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
+10	avremo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	3	conj	_	_
+11	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Siete la VITA @onedirection
+1	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	VITA	Vito	PROPN	SP	_	0	root	_	_
+4	@onedirection	@onedirection	NOUN	S	Gender=Fem	3	flat:name	_	SpacesAfter=\n
+

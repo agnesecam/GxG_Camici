@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Partita Tottenham-United rinviata di 2h perchè pullman United bloccato nel traffico...
+1	Partita	partire	PROPN	SP	_	0	root	_	_
+2	Tottenham-United	Tottenham-United	PROPN	SP	_	1	flat:name	_	_
+3	rinviata	rinviare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	2h	2h	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	perchè	perché	SCONJ	CS	_	7	mark	_	_
+7	pullman	pullman	NOUN	S	Gender=Masc	3	nsubj:pass	_	_
+8	United	United	PROPN	SP	_	7	nmod	_	_
+9	bloccato	bloccato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+10-11	nel	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	traffico...	traffico...	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+
+# sent_id = 2
+# text = era partito dalla Garbatella!
+1	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	partito	partire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3-4	dalla	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Garbatella	Garbatella	PROPN	SP	_	2	obl	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
+

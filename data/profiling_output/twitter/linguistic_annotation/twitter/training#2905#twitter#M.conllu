@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buon giro di VET, fa sembrare le MB un po' meno lontane #BahrainGP
+1	Buon	buono	PROPN	SP	_	6	nsubj	_	_
+2	giro	giro	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	VET	VET	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sembrare	sembrare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	MB	MB	PROPN	SP	_	7	obj	_	_
+10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	po'	poco	ADV	B	_	12	advmod	_	_
+12	meno	meno	ADV	B	_	13	advmod	_	_
+13	lontane	lontano	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+14	#BahrainGP	#BahrainGP	PROPN	SP	_	6	obj	_	SpacesAfter=\n
+

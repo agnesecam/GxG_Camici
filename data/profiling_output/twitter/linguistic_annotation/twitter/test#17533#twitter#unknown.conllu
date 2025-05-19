@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @DanieleVaccaro1 @monicabertini1 @PremiumSportHD Noooooooo!!!
+1	@DanieleVaccaro1	@DanieleVaccarol	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	@monicabertini1	@monicabertini1	NUM	N	NumType=Card	3	nummod	_	_
+3	@PremiumSportHD	@PremiumSportHD	PROPN	SP	_	0	root	_	_
+4	Noooooooo	Noooooooo	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = non ce la farai a farmi abbonare a mediaset premium!!!
+1	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	farai	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	farmi	arma|farme	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+7	abbonare	abbonare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	mediaset	mediaset	NOUN	S	Gender=Masc	7	obl	_	_
+10	premium!!!	premium!!!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Torna Monica, tornaaaaa
+1	Torna	Torna	PROPN	SP	_	4	nsubj	_	_
+2	Monica	Monica	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	tornaaaaa	tornaaaaare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n
+

@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = @SkySport Farete qualche domanda a Marotta sul 2-2 annullato al Toro.
+1	@SkySport	@SkySport	PROPN	SP	_	0	root	_	_
+2	Farete	Faere	PROPN	SP	_	1	flat:name	_	_
+3	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	Marotta	Marotta	PROPN	SP	_	4	nmod	_	_
+7-8	sul	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	2	2	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+10	-2	-2	NUM	N	NumType=Card	9	flat	_	_
+11	annullato	annullare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Toro.	Toro.	PROPN	SP	_	11	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .Giuro pronta la disdetta se non difendete il calcio da questo schifo
+1	.Giuro	.Giuro	ADV	B	_	2	advmod	_	_
+2	pronta	pronto	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	disdetta	disdetta	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	difendete	difendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10	da	da	ADP	E	_	12	case	_	_
+11	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpacesAfter=\n
+
